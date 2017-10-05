@@ -21,7 +21,13 @@ Python code associated with a Global Challenge Research Team (GCRT) project.The
 
 **Directory:** PythonCode  
 
-* **Sub-directory:** Image_analysis/python  
+* **Sub-directory:** Audio\_analysis  
+**Files:**
+
+ * AV.py
+ * SoundTest.py
+
+* **Sub-directory:** Image\_analysis/python  
 **Files:**
 
   * MeltImage.py
@@ -30,12 +36,12 @@ Python code associated with a Global Challenge Research Team (GCRT) project.The
   * using\_scikit\_learn\_clustering.py
 
 * **Subdirectory:** Image_analysis/results  
-* **Files:**
-
-* **Sub-directory:** Audio_analysis  
 **Files:**
 
-* **Sub-directory:** Lit_analysis  
+* **Sub-directory:** Audio\_analysis  
+**Files:**
+
+* **Sub-directory:** Lit\_analysis  
 **Files:**
 
 **Directory:** Literature
