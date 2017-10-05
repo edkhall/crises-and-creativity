@@ -61,15 +61,15 @@ downloaded from https://archive.org/stream/TheEpicofGilgamesh_201606/eog_djvu.tx
 * **Sub-directory:** Hesiods\_Theogony  
 **Files:** 
 
- * Hesiods\_Theogony.txt  
+  * Hesiods\_Theogony.txt  
 downloaded from http://www.sacred-texts.com/cla/hesiod/theogony.htm
- * Hesiods\_Theogony\_EndNotes.txt  
+  * Hesiods\_Theogony\_EndNotes.txt  
 downloaded from http://www.sacred-texts.com/cla/hesiod/theogony.htm
 
 * **Sub-directory:** Native\_American\_Trickster\_Myths  
 **Files:** 
 
- * Native\_American\_Trickster\_Myths.txt  
+  * Native\_American\_Trickster\_Myths.txt  
 downloaded from: http://arcadiasystems.org/academia/printtrickster.html
 
 **Directory:** Art  
