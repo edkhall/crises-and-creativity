@@ -39,7 +39,7 @@ downloaded from http://www.sacred-texts.com/cla/hesiod/theogony.htm
 * Hesiods\_Theogony\_EndNotes.txt  
 downloaded from http://www.sacred-texts.com/cla/hesiod/theogony.htm
 
-**Directory:** Native\_American\_Trickster\_Myths
+**Directory:** Native\_American\_Trickster\_Myths  
 **Files**: 
 
 * Native\_American\_Trickster\_Myths.txt  
