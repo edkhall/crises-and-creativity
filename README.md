@@ -10,6 +10,7 @@ Python code associated with a Global Challenge Research Team (GCRT) project.The
 
 
 ###Purpose
+
 **Code in this repository will be built to simulate:**
 
 1. **Extinction:** To represent the impact of species loss, individual nouns in well‐known works of literature are removed according to an algorithm mimicking species extinction. As each noun is removed all other parts of speech referring to that noun (e.g. adjective, pronouns) disappear simultaneously. This process represents the collapse of ecological interactions that occur when species are lost from an ecosystem.2. **Invasion:** To represent the impact of species invasions, all adjectives expressing a similar modification (e.g. augmentative adjectives such as: larger, obese, robust, rotund) are replaced with a single adjective that represents augmentation (e.g. huge). Allowing the alterations to fill a “functional niche” while decreasing the diversity of prose.**Code in this repository will eventually be expanded to visual and musical works of art. Examples will be:**
