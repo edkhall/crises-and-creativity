@@ -38,9 +38,6 @@ Python code associated with a Global Challenge Research Team (GCRT) project.The
 * **Subdirectory:** Image_analysis/results  
 **Files:**
 
-* **Sub-directory:** Audio\_analysis  
-**Files:**
-
 * **Sub-directory:** Lit\_analysis  
 **Files:**
 
