@@ -24,8 +24,8 @@ Python code associated with a Global Challenge Research Team (GCRT) project.The
 * **Sub-directory:** Audio\_analysis  
 **Files:**
 
- * AV.py
- * SoundTest.py
+  * AV.py
+  * SoundTest.py
 
 * **Sub-directory:** Image\_analysis/python  
 **Files:**
