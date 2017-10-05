@@ -6,10 +6,9 @@ Python code associated with a Global Challenge Research Team (GCRT) project.The
 ### Contributors
 [Dr. Ken Locey](http://kenlocey.weecology.org/): Postdoctoral Fellow in the Lennon Lab, Indiana University, Bloomington.
 
-[Dr. Ed Hall](http://www.nrel.colostate.edu/hall-lab/): Assistant Professor, Natural Resource Ecology Laboratory - Colorado State University
+[Dr. Ed Hall](http://www.nrel.colostate.edu/hall-lab/): Assistant Professor, Natural Resource Ecology Laboratory - Colorado State University  
 
-
-###Purpose
+###Purpose  
 
 **Code in this repository will be built to simulate:**
 
