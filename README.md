@@ -8,7 +8,7 @@ Python code associated with a Global Challenge Research Team (GCRT) project.The
 
 [Dr. Ed Hall](http://www.nrel.colostate.edu/hall-lab/): Assistant Professor, Natural Resource Ecology Laboratory - Colorado State University  
 
-###Purpose  
+### Purpose  
 
 **Code in this repository will be built to simulate:**
 
@@ -17,7 +17,7 @@ Python code associated with a Global Challenge Research Team (GCRT) project.The
 1. Melodies with introduced notes (invasion) and melodies with notes removed (extinction).
 2. Paintings with introduced pixels and colors (invasion) and paintings with pixels and colors that are removed (extinction).
 
-###Directories and Files
+### Directories and Files
 
 **Directory:** Bible\_KingJamesVersion  
 **Files**:  
@@ -46,7 +46,7 @@ downloaded from http://www.sacred-texts.com/cla/hesiod/theogony.htm
 downloaded from: http://arcadiasystems.org/academia/printtrickster.html
 
 
-###Suggested software
+### Suggested software
 
 This source code is developed on the Enthought Canopy Python distribution (version 1.5.5) available here: https://store.enthought.com/
 
