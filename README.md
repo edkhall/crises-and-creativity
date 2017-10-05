@@ -49,13 +49,13 @@ Python code associated with a Global Challenge Research Team (GCRT) project.The
 * **Sub-directory:** Bible\_KingJamesVersion  
 **Files:**  
 
- * Bible, King James Version  
+  * Bible, King James Version  
 downloaded from http://www.sacred-texts.com/bib/osrc/
 
 * **Sub-directory:** Epic\_of\_Gilgamesh  
 **Files:** 
 
- * Epic\_of\_Gilgamesh.txt  
+  * Epic\_of\_Gilgamesh.txt  
 downloaded from https://archive.org/stream/TheEpicofGilgamesh_201606/eog_djvu.txt
 
 * **Sub-directory:** Hesiods\_Theogony  
