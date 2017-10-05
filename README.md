@@ -19,31 +19,72 @@ Python code associated with a Global Challenge Research Team (GCRT) project.The
 
 ### Directories and Files
 
-**Directory:** Bible\_KingJamesVersion  
-**Files**:  
+**Directory:** PythonCode  
 
-* Bible, King James Version  
+* **Sub-directory:** Image_analysis/python  
+**Files:**
+
+  * MeltImage.py
+  * using\_cv2.py
+  * using\_scikit\_image.py
+  * using\_scikit\_learn\_clustering.py
+
+* **Subdirectory:** Image_analysis/results  
+* **Files:**
+
+* **Sub-directory:** Audio_analysis  
+**Files:**
+
+* **Sub-directory:** Lit_analysis  
+**Files:**
+
+**Directory:** Literature
+
+* **Sub-directory:** Bible\_KingJamesVersion  
+**Files:**  
+
+ * Bible, King James Version  
 downloaded from http://www.sacred-texts.com/bib/osrc/
 
-**Directory:** Epic\_of\_Gilgamesh  
-**Files**: 
+* **Sub-directory:** Epic\_of\_Gilgamesh  
+**Files:** 
 
-* Epic\_of\_Gilgamesh.txt  
+ * Epic\_of\_Gilgamesh.txt  
 downloaded from https://archive.org/stream/TheEpicofGilgamesh_201606/eog_djvu.txt
 
-**Directory:** Hesiods\_Theogony  
-**Files**: 
+* **Sub-directory:** Hesiods\_Theogony  
+**Files:** 
 
-* Hesiods\_Theogony.txt  
+ * Hesiods\_Theogony.txt  
 downloaded from http://www.sacred-texts.com/cla/hesiod/theogony.htm
-* Hesiods\_Theogony\_EndNotes.txt  
+ * Hesiods\_Theogony\_EndNotes.txt  
 downloaded from http://www.sacred-texts.com/cla/hesiod/theogony.htm
 
-**Directory:** Native\_American\_Trickster\_Myths  
-**Files**: 
+* **Sub-directory:** Native\_American\_Trickster\_Myths  
+**Files:** 
 
-* Native\_American\_Trickster\_Myths.txt  
+ * Native\_American\_Trickster\_Myths.txt  
 downloaded from: http://arcadiasystems.org/academia/printtrickster.html
+
+**Directory:** Art  
+**Files:**
+
+* Dali\_dream\_caused\_by\_the\_flight\_of\_a\_bee.jpg
+* Dali-Lincoln-in-Dalivision.jpg
+* Dr-Martin-Luther-King1.jpg
+* Escher\_Stairs.jpg
+* Escher-Anima.jpg
+* Okeeffe\_Light-Of-Iris.jpg
+* OKeeffe\_RedCanna.jpg
+* Vermeer\_Girl\_with\_a\_pearl\_earring.jpg
+
+**Directory:** Music  
+**Files:**
+
+* Beethoven\_fur\_elise.mp3
+* Handel\_Messiah\_ForUntoUsAChildIsBorn.mp3
+* Muslim\_Call\_to\_Prayer.mp3
+* Native\_american\_indian\_music\_sacred\_spirit\_earth\_drums\_sunset\_ceremony.mp3
 
 
 ### Suggested software
