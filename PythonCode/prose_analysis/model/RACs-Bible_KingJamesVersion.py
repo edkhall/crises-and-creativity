@@ -39,7 +39,7 @@ def GetRAD(vector):
 
     unique_lengths = list(set(lengths))
     for val in unique_lengths:
-        RAD_lengths.append(lengths.count(val))
+        RAD_lengths.append(lengths.count(val)) # occurrence of a word of a given length
 
     return RAD_freqs, RAD_lengths, unique, lengths, w2n
 
@@ -150,10 +150,11 @@ fig = plt.figure()
 fig.add_subplot(2, 2, 1)
 for i, j in enumerate(W2N):
     D = get_kdens_choose_kernel(j, kernel)
-    plt.plot(D[0], D[1], color = clist[i], lw=0.5, alpha=0.5, label=Names[i])
+    if Names[i] == 'Genesis': plt.plot(D[0], np.log10(D[1]), color = 'k', lw=1, label=Names[i])
+    else: plt.plot(D[0], np.log10(D[1]), color = clist[i], lw=0.5, alpha=0.5, label=Names[i])
 
 plt.xlabel('Occurrence of a word', fontsize=8)
-plt.ylabel('Density', fontsize=8)
+plt.ylabel('Density'+r'$log_{10}$', fontsize=8)
 plt.tick_params(axis='both', labelsize=5)
 
 plt.legend(bbox_to_anchor=(-0.02, 1.05, 2.38, 0.7), loc=10, ncol=5, mode="expand", prop={'size':4})
@@ -163,7 +164,8 @@ plt.legend(bbox_to_anchor=(-0.02, 1.05, 2.38, 0.7), loc=10, ncol=5, mode="expand
 fig.add_subplot(2, 2, 2)
 for i, j in enumerate(Lengths):
     D = get_kdens_choose_kernel(j, kernel)
-    plt.plot(D[0], D[1], color = clist[i], lw=0.5, alpha=0.5)
+    if Names[i] == 'Genesis': plt.plot(D[0], D[1], color = 'k', lw=1)
+    else: plt.plot(D[0], D[1], color = clist[i], lw=0.5, alpha=0.5)
 
 plt.xlabel('Length of a word', fontsize=8)
 plt.ylabel('Density', fontsize=8)
@@ -175,7 +177,9 @@ for i, j in enumerate(RAC_F):
     j.sort(reverse=True)
     if max(j) > maxx: maxx = max(j)
     ranks = range(len(j))
-    plt.plot(ranks, np.log10(j), color = clist[i], lw=0.5, alpha=0.5)
+
+    if Names[i] == 'Genesis': plt.plot(ranks, np.log10(j), color = 'k', lw=1)
+    else: plt.plot(ranks, np.log10(j), color = clist[i], lw=0.5, alpha=0.5)
 
 plt.xlabel('Rank in occurrence of a word', fontsize=8)
 plt.ylabel('Occurrence of a word, '+r'$log_{10}$', fontsize=8)
@@ -188,10 +192,11 @@ for i, j in enumerate(RAC_L):
     j.sort(reverse=True)
     if max(j) > maxx: maxx = max(j)
     ranks = range(len(j))
-    plt.plot(ranks, np.log10(j), color = clist[i], lw=0.5, alpha=0.5)
+    if Names[i] == 'Genesis': plt.plot(ranks, np.log10(j), color = 'k', lw=1)
+    else: plt.plot(ranks, np.log10(j), color = clist[i], lw=0.5, alpha=0.5)
 
-plt.xlabel('Rank in word length', fontsize=8)
-plt.ylabel('Length of a word, '+r'$log_{10}$', fontsize=8)
+plt.xlabel('Rank', fontsize=8)
+plt.ylabel('Occurrence of words with\na given length, '+r'$log_{10}$', fontsize=8)
 plt.ylim(-0.1, np.log10(maxx))
 plt.tick_params(axis='both', labelsize=5)
 
