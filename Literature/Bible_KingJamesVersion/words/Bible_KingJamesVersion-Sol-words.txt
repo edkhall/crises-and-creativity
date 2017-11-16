@@ -1,0 +1,3147 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Sol 	1 	1 	1 	1 	1 	The 	DT
+Sol 	1 	1 	1 	2 	1 	song 	NN
+Sol 	1 	1 	1 	3 	1 	of 	IN
+Sol 	1 	1 	1 	4 	1 	songs 	NNS
+Sol 	1 	1 	1 	5 	0 	,
+Sol 	1 	1 	1 	6 	1 	which 	WDT
+Sol 	1 	1 	1 	7 	1 	is 	VBZ
+Sol 	1 	1 	1 	8 	1 	Solomon 	NN
+Sol 	1 	1 	1 	9 	0 	's
+Sol 	1 	1 	1 	10 	0 	.
+Sol 	1 	2 	1 	1 	1 	Let 	VB
+Sol 	1 	2 	1 	2 	1 	him 	PRP
+Sol 	1 	2 	1 	3 	1 	kiss 	NN
+Sol 	1 	2 	1 	4 	1 	me 	PRP
+Sol 	1 	2 	1 	5 	1 	with 	IN
+Sol 	1 	2 	1 	6 	1 	the 	DT
+Sol 	1 	2 	1 	7 	1 	kisses 	NNS
+Sol 	1 	2 	1 	8 	1 	of 	IN
+Sol 	1 	2 	1 	9 	1 	his 	PRP$
+Sol 	1 	2 	1 	10 	1 	mouth 	NN
+Sol 	1 	2 	1 	11 	0 	:
+Sol 	1 	2 	1 	12 	1 	for 	IN
+Sol 	1 	2 	1 	13 	1 	thy 	NN
+Sol 	1 	2 	1 	14 	1 	love 	NN
+Sol 	1 	2 	1 	15 	1 	is 	VBZ
+Sol 	1 	2 	1 	16 	1 	better 	RBR
+Sol 	1 	2 	1 	17 	1 	than 	IN
+Sol 	1 	2 	1 	18 	1 	wine 	NN
+Sol 	1 	2 	1 	19 	0 	.
+Sol 	1 	3 	1 	1 	1 	Because 	IN
+Sol 	1 	3 	1 	2 	1 	of 	IN
+Sol 	1 	3 	1 	3 	1 	the 	DT
+Sol 	1 	3 	1 	4 	1 	savour 	NN
+Sol 	1 	3 	1 	5 	1 	of 	IN
+Sol 	1 	3 	1 	6 	1 	thy 	NN
+Sol 	1 	3 	1 	7 	1 	good 	JJ
+Sol 	1 	3 	1 	8 	1 	ointments 	NNS
+Sol 	1 	3 	1 	9 	1 	thy 	NN
+Sol 	1 	3 	1 	10 	1 	name 	NN
+Sol 	1 	3 	1 	11 	1 	is 	VBZ
+Sol 	1 	3 	1 	12 	1 	as 	IN
+Sol 	1 	3 	1 	13 	1 	ointment 	NN
+Sol 	1 	3 	1 	14 	1 	poured 	VBN
+Sol 	1 	3 	1 	15 	1 	forth 	NN
+Sol 	1 	3 	1 	16 	0 	,
+Sol 	1 	3 	1 	17 	1 	therefore 	RB
+Sol 	1 	3 	1 	18 	1 	do 	VB
+Sol 	1 	3 	1 	19 	1 	the 	DT
+Sol 	1 	3 	1 	20 	1 	virgins 	NNS
+Sol 	1 	3 	1 	21 	1 	love 	NN
+Sol 	1 	3 	1 	22 	1 	thee 	NN
+Sol 	1 	3 	1 	23 	0 	.
+Sol 	1 	4 	1 	1 	1 	Draw 	NN
+Sol 	1 	4 	1 	2 	1 	me 	PRP
+Sol 	1 	4 	1 	3 	0 	,
+Sol 	1 	4 	1 	4 	1 	we 	PRP
+Sol 	1 	4 	1 	5 	1 	will 	MD
+Sol 	1 	4 	1 	6 	1 	run 	VB
+Sol 	1 	4 	1 	7 	1 	after 	IN
+Sol 	1 	4 	1 	8 	1 	thee 	NN
+Sol 	1 	4 	1 	9 	0 	:
+Sol 	1 	4 	1 	10 	1 	the 	DT
+Sol 	1 	4 	1 	11 	1 	king 	NN
+Sol 	1 	4 	1 	12 	1 	hath 	NN
+Sol 	1 	4 	1 	13 	1 	brought 	NN
+Sol 	1 	4 	1 	14 	1 	me 	PRP
+Sol 	1 	4 	1 	15 	1 	into 	IN
+Sol 	1 	4 	1 	16 	1 	his 	PRP$
+Sol 	1 	4 	1 	17 	1 	chambers 	NNS
+Sol 	1 	4 	1 	18 	0 	:
+Sol 	1 	4 	1 	19 	1 	we 	PRP
+Sol 	1 	4 	1 	20 	1 	will 	MD
+Sol 	1 	4 	1 	21 	1 	be 	VB
+Sol 	1 	4 	1 	22 	1 	glad 	NN
+Sol 	1 	4 	1 	23 	1 	and 	CC
+Sol 	1 	4 	1 	24 	1 	rejoice 	NN
+Sol 	1 	4 	1 	25 	1 	in 	IN
+Sol 	1 	4 	1 	26 	1 	thee 	NN
+Sol 	1 	4 	1 	27 	0 	,
+Sol 	1 	4 	1 	28 	1 	we 	PRP
+Sol 	1 	4 	1 	29 	1 	will 	MD
+Sol 	1 	4 	1 	30 	1 	remember 	VB
+Sol 	1 	4 	1 	31 	1 	thy 	NN
+Sol 	1 	4 	1 	32 	1 	love 	NN
+Sol 	1 	4 	1 	33 	1 	more 	RBR
+Sol 	1 	4 	1 	34 	1 	than 	IN
+Sol 	1 	4 	1 	35 	1 	wine 	NN
+Sol 	1 	4 	1 	36 	0 	:
+Sol 	1 	4 	1 	37 	1 	the 	DT
+Sol 	1 	4 	1 	38 	1 	upright 	JJ
+Sol 	1 	4 	1 	39 	1 	love 	NN
+Sol 	1 	4 	1 	40 	1 	thee 	NN
+Sol 	1 	4 	1 	41 	0 	.
+Sol 	1 	5 	1 	1 	1 	I 	PRP
+Sol 	1 	5 	1 	2 	1 	am 	VBP
+Sol 	1 	5 	1 	3 	1 	black 	JJ
+Sol 	1 	5 	1 	4 	0 	,
+Sol 	1 	5 	1 	5 	1 	but 	CC
+Sol 	1 	5 	1 	6 	1 	comely 	RB
+Sol 	1 	5 	1 	7 	0 	,
+Sol 	1 	5 	1 	8 	1 	O 	NN
+Sol 	1 	5 	1 	9 	1 	ye 	NN
+Sol 	1 	5 	1 	10 	1 	daughters 	NNS
+Sol 	1 	5 	1 	11 	1 	of 	IN
+Sol 	1 	5 	1 	12 	1 	Jerusalem 	NN
+Sol 	1 	5 	1 	13 	0 	,
+Sol 	1 	5 	1 	14 	1 	as 	IN
+Sol 	1 	5 	1 	15 	1 	the 	DT
+Sol 	1 	5 	1 	16 	1 	tents 	NNS
+Sol 	1 	5 	1 	17 	1 	of 	IN
+Sol 	1 	5 	1 	18 	1 	Kedar 	NN
+Sol 	1 	5 	1 	19 	0 	,
+Sol 	1 	5 	1 	20 	1 	as 	IN
+Sol 	1 	5 	1 	21 	1 	the 	DT
+Sol 	1 	5 	1 	22 	1 	curtains 	NNS
+Sol 	1 	5 	1 	23 	1 	of 	IN
+Sol 	1 	5 	1 	24 	1 	Solomon 	NN
+Sol 	1 	5 	1 	25 	0 	.
+Sol 	1 	6 	1 	1 	1 	Look 	VB
+Sol 	1 	6 	1 	2 	1 	not 	RB
+Sol 	1 	6 	1 	3 	1 	upon 	IN
+Sol 	1 	6 	1 	4 	1 	me 	PRP
+Sol 	1 	6 	1 	5 	0 	,
+Sol 	1 	6 	1 	6 	1 	because 	IN
+Sol 	1 	6 	1 	7 	1 	I 	PRP
+Sol 	1 	6 	1 	8 	1 	am 	VBP
+Sol 	1 	6 	1 	9 	1 	black 	JJ
+Sol 	1 	6 	1 	10 	0 	,
+Sol 	1 	6 	1 	11 	1 	because 	IN
+Sol 	1 	6 	1 	12 	1 	the 	DT
+Sol 	1 	6 	1 	13 	1 	sun 	NN
+Sol 	1 	6 	1 	14 	1 	hath 	NN
+Sol 	1 	6 	1 	15 	1 	looked 	VBD
+Sol 	1 	6 	1 	16 	1 	upon 	IN
+Sol 	1 	6 	1 	17 	1 	me 	PRP
+Sol 	1 	6 	1 	18 	0 	:
+Sol 	1 	6 	1 	19 	1 	my 	PRP$
+Sol 	1 	6 	1 	20 	1 	mother 	NN
+Sol 	1 	6 	1 	21 	0 	's
+Sol 	1 	6 	1 	22 	1 	children 	NNS
+Sol 	1 	6 	1 	23 	1 	were 	VBD
+Sol 	1 	6 	1 	24 	1 	angry 	JJ
+Sol 	1 	6 	1 	25 	1 	with 	IN
+Sol 	1 	6 	1 	26 	1 	me 	PRP
+Sol 	1 	6 	1 	27 	0 	;
+Sol 	1 	6 	1 	28 	1 	they 	PRP
+Sol 	1 	6 	1 	29 	1 	made 	VBN
+Sol 	1 	6 	1 	30 	1 	me 	PRP
+Sol 	1 	6 	1 	31 	1 	the 	DT
+Sol 	1 	6 	1 	32 	1 	keeper 	NN
+Sol 	1 	6 	1 	33 	1 	of 	IN
+Sol 	1 	6 	1 	34 	1 	the 	DT
+Sol 	1 	6 	1 	35 	1 	vineyards 	NNS
+Sol 	1 	6 	1 	36 	0 	;
+Sol 	1 	6 	1 	37 	1 	but 	CC
+Sol 	1 	6 	1 	38 	1 	mine 	NN
+Sol 	1 	6 	1 	39 	1 	own 	JJ
+Sol 	1 	6 	1 	40 	1 	vineyard 	NN
+Sol 	1 	6 	1 	41 	1 	have 	VB
+Sol 	1 	6 	1 	42 	1 	I 	PRP
+Sol 	1 	6 	1 	43 	1 	not 	RB
+Sol 	1 	6 	1 	44 	1 	kept 	NN
+Sol 	1 	6 	1 	45 	0 	.
+Sol 	1 	7 	1 	1 	1 	Tell 	VB
+Sol 	1 	7 	1 	2 	1 	me 	PRP
+Sol 	1 	7 	1 	3 	0 	,
+Sol 	1 	7 	1 	4 	1 	O 	NN
+Sol 	1 	7 	1 	5 	1 	thou 	NN
+Sol 	1 	7 	1 	6 	1 	whom 	WP
+Sol 	1 	7 	1 	7 	1 	my 	PRP$
+Sol 	1 	7 	1 	8 	1 	soul 	NN
+Sol 	1 	7 	1 	9 	1 	loveth 	NN
+Sol 	1 	7 	1 	10 	0 	,
+Sol 	1 	7 	1 	11 	1 	where 	WRB
+Sol 	1 	7 	1 	12 	1 	thou 	NN
+Sol 	1 	7 	1 	13 	1 	feedest 	NN
+Sol 	1 	7 	1 	14 	0 	,
+Sol 	1 	7 	1 	15 	1 	where 	WRB
+Sol 	1 	7 	1 	16 	1 	thou 	NN
+Sol 	1 	7 	1 	17 	1 	makest 	JJS
+Sol 	1 	7 	1 	18 	1 	thy 	NN
+Sol 	1 	7 	1 	19 	1 	flock 	NN
+Sol 	1 	7 	1 	20 	1 	to 	TO
+Sol 	1 	7 	1 	21 	1 	rest 	NN
+Sol 	1 	7 	1 	22 	1 	at 	IN
+Sol 	1 	7 	1 	23 	1 	noon 	NN
+Sol 	1 	7 	1 	24 	0 	:
+Sol 	1 	7 	1 	25 	1 	for 	IN
+Sol 	1 	7 	1 	26 	1 	why 	WRB
+Sol 	1 	7 	1 	27 	1 	should 	MD
+Sol 	1 	7 	1 	28 	1 	I 	PRP
+Sol 	1 	7 	1 	29 	1 	be 	VB
+Sol 	1 	7 	1 	30 	1 	as 	IN
+Sol 	1 	7 	1 	31 	1 	one 	CD
+Sol 	1 	7 	1 	32 	1 	that 	IN
+Sol 	1 	7 	1 	33 	1 	turneth 	NNS
+Sol 	1 	7 	1 	34 	1 	aside 	RB
+Sol 	1 	7 	1 	35 	1 	by 	IN
+Sol 	1 	7 	1 	36 	1 	the 	DT
+Sol 	1 	7 	1 	37 	1 	flocks 	NNS
+Sol 	1 	7 	1 	38 	1 	of 	IN
+Sol 	1 	7 	1 	39 	1 	thy 	NN
+Sol 	1 	7 	1 	40 	1 	companions 	NNS
+Sol 	1 	7 	1 	41 	0 	?
+Sol 	1 	8 	1 	1 	1 	If 	IN
+Sol 	1 	8 	1 	2 	1 	thou 	NN
+Sol 	1 	8 	1 	3 	1 	know 	VB
+Sol 	1 	8 	1 	4 	1 	not 	RB
+Sol 	1 	8 	1 	5 	0 	,
+Sol 	1 	8 	1 	6 	1 	O 	NN
+Sol 	1 	8 	1 	7 	1 	thou 	NN
+Sol 	1 	8 	1 	8 	1 	fairest 	NN
+Sol 	1 	8 	1 	9 	1 	among 	IN
+Sol 	1 	8 	1 	10 	1 	women 	NNS
+Sol 	1 	8 	1 	11 	0 	,
+Sol 	1 	8 	1 	12 	1 	go 	VB
+Sol 	1 	8 	1 	13 	1 	thy 	NN
+Sol 	1 	8 	1 	14 	1 	way 	NN
+Sol 	1 	8 	1 	15 	1 	forth 	NN
+Sol 	1 	8 	1 	16 	1 	by 	IN
+Sol 	1 	8 	1 	17 	1 	the 	DT
+Sol 	1 	8 	1 	18 	1 	footsteps 	NNS
+Sol 	1 	8 	1 	19 	1 	of 	IN
+Sol 	1 	8 	1 	20 	1 	the 	DT
+Sol 	1 	8 	1 	21 	1 	flock 	NN
+Sol 	1 	8 	1 	22 	0 	,
+Sol 	1 	8 	1 	23 	1 	and 	CC
+Sol 	1 	8 	1 	24 	1 	feed 	NN
+Sol 	1 	8 	1 	25 	1 	thy 	NN
+Sol 	1 	8 	1 	26 	1 	kids 	NNS
+Sol 	1 	8 	1 	27 	1 	beside 	NN
+Sol 	1 	8 	1 	28 	1 	the 	DT
+Sol 	1 	8 	1 	29 	1 	shepherds 	NNS
+Sol 	1 	8 	1 	30 	0 	'
+Sol 	1 	8 	1 	31 	1 	tents 	NNS
+Sol 	1 	8 	1 	32 	0 	.
+Sol 	1 	9 	1 	1 	1 	I 	PRP
+Sol 	1 	9 	1 	2 	1 	have 	VB
+Sol 	1 	9 	1 	3 	1 	compared 	VBN
+Sol 	1 	9 	1 	4 	1 	thee 	NN
+Sol 	1 	9 	1 	5 	0 	,
+Sol 	1 	9 	1 	6 	1 	O 	NN
+Sol 	1 	9 	1 	7 	1 	my 	PRP$
+Sol 	1 	9 	1 	8 	1 	love 	NN
+Sol 	1 	9 	1 	9 	0 	,
+Sol 	1 	9 	1 	10 	1 	to 	TO
+Sol 	1 	9 	1 	11 	1 	a 	DT
+Sol 	1 	9 	1 	12 	1 	company 	NN
+Sol 	1 	9 	1 	13 	1 	of 	IN
+Sol 	1 	9 	1 	14 	1 	horses 	NNS
+Sol 	1 	9 	1 	15 	1 	in 	IN
+Sol 	1 	9 	1 	16 	1 	Pharaoh 	NN
+Sol 	1 	9 	1 	17 	0 	's
+Sol 	1 	9 	1 	18 	1 	chariots 	NNS
+Sol 	1 	9 	1 	19 	0 	.
+Sol 	1 	10 	1 	1 	1 	Thy 	NN
+Sol 	1 	10 	1 	2 	1 	cheeks 	NN
+Sol 	1 	10 	1 	3 	1 	are 	VBP
+Sol 	1 	10 	1 	4 	1 	comely 	RB
+Sol 	1 	10 	1 	5 	1 	with 	IN
+Sol 	1 	10 	1 	6 	1 	rows 	NNS
+Sol 	1 	10 	1 	7 	1 	of 	IN
+Sol 	1 	10 	1 	8 	1 	jewels 	NNS
+Sol 	1 	10 	1 	9 	0 	,
+Sol 	1 	10 	1 	10 	1 	thy 	NN
+Sol 	1 	10 	1 	11 	1 	neck 	NN
+Sol 	1 	10 	1 	12 	1 	with 	IN
+Sol 	1 	10 	1 	13 	1 	chains 	NNS
+Sol 	1 	10 	1 	14 	1 	of 	IN
+Sol 	1 	10 	1 	15 	1 	gold 	NN
+Sol 	1 	10 	1 	16 	0 	.
+Sol 	1 	11 	1 	1 	1 	We 	PRP
+Sol 	1 	11 	1 	2 	1 	will 	MD
+Sol 	1 	11 	1 	3 	1 	make 	VB
+Sol 	1 	11 	1 	4 	1 	thee 	NN
+Sol 	1 	11 	1 	5 	1 	borders 	NNS
+Sol 	1 	11 	1 	6 	1 	of 	IN
+Sol 	1 	11 	1 	7 	1 	gold 	NN
+Sol 	1 	11 	1 	8 	1 	with 	IN
+Sol 	1 	11 	1 	9 	1 	studs 	NNS
+Sol 	1 	11 	1 	10 	1 	of 	IN
+Sol 	1 	11 	1 	11 	1 	silver 	NN
+Sol 	1 	11 	1 	12 	0 	.
+Sol 	1 	12 	1 	1 	1 	While 	IN
+Sol 	1 	12 	1 	2 	1 	the 	DT
+Sol 	1 	12 	1 	3 	1 	king 	NN
+Sol 	1 	12 	1 	4 	1 	sitteth 	NN
+Sol 	1 	12 	1 	5 	1 	at 	IN
+Sol 	1 	12 	1 	6 	1 	his 	PRP$
+Sol 	1 	12 	1 	7 	1 	table 	NN
+Sol 	1 	12 	1 	8 	0 	,
+Sol 	1 	12 	1 	9 	1 	my 	PRP$
+Sol 	1 	12 	1 	10 	1 	spikenard 	NN
+Sol 	1 	12 	1 	11 	1 	sendeth 	NN
+Sol 	1 	12 	1 	12 	1 	forth 	NN
+Sol 	1 	12 	1 	13 	1 	the 	DT
+Sol 	1 	12 	1 	14 	1 	smell 	NN
+Sol 	1 	12 	1 	15 	1 	thereof 	NN
+Sol 	1 	12 	1 	16 	0 	.
+Sol 	1 	13 	1 	1 	1 	A 	DT
+Sol 	1 	13 	1 	2 	1 	bundle 	NN
+Sol 	1 	13 	1 	3 	1 	of 	IN
+Sol 	1 	13 	1 	4 	1 	myrrh 	NN
+Sol 	1 	13 	1 	5 	1 	is 	VBZ
+Sol 	1 	13 	1 	6 	1 	my 	PRP$
+Sol 	1 	13 	1 	7 	1 	well-beloved 	JJ
+Sol 	1 	13 	1 	8 	1 	unto 	NN
+Sol 	1 	13 	1 	9 	1 	me 	PRP
+Sol 	1 	13 	1 	10 	0 	;
+Sol 	1 	13 	1 	11 	1 	he 	PRP
+Sol 	1 	13 	1 	12 	1 	shall 	MD
+Sol 	1 	13 	1 	13 	1 	lie 	NN
+Sol 	1 	13 	1 	14 	1 	all 	DT
+Sol 	1 	13 	1 	15 	1 	night 	NN
+Sol 	1 	13 	1 	16 	1 	betwixt 	NN
+Sol 	1 	13 	1 	17 	1 	my 	PRP$
+Sol 	1 	13 	1 	18 	1 	breasts 	NNS
+Sol 	1 	13 	1 	19 	0 	.
+Sol 	1 	14 	1 	1 	1 	My 	PRP$
+Sol 	1 	14 	1 	2 	1 	beloved 	VBN
+Sol 	1 	14 	1 	3 	1 	is 	VBZ
+Sol 	1 	14 	1 	4 	1 	unto 	NN
+Sol 	1 	14 	1 	5 	1 	me 	PRP
+Sol 	1 	14 	1 	6 	1 	as 	IN
+Sol 	1 	14 	1 	7 	1 	a 	DT
+Sol 	1 	14 	1 	8 	1 	cluster 	NN
+Sol 	1 	14 	1 	9 	1 	of 	IN
+Sol 	1 	14 	1 	10 	1 	camphire 	NN
+Sol 	1 	14 	1 	11 	1 	in 	IN
+Sol 	1 	14 	1 	12 	1 	the 	DT
+Sol 	1 	14 	1 	13 	1 	vineyards 	NNS
+Sol 	1 	14 	1 	14 	1 	of 	IN
+Sol 	1 	14 	1 	15 	1 	Engedi 	NN
+Sol 	1 	14 	1 	16 	0 	.
+Sol 	1 	15 	1 	1 	1 	Behold 	NN
+Sol 	1 	15 	1 	2 	0 	,
+Sol 	1 	15 	1 	3 	1 	thou 	NN
+Sol 	1 	15 	1 	4 	1 	art 	NN
+Sol 	1 	15 	1 	5 	1 	fair 	NN
+Sol 	1 	15 	1 	6 	0 	,
+Sol 	1 	15 	1 	7 	1 	my 	PRP$
+Sol 	1 	15 	1 	8 	1 	love 	NN
+Sol 	1 	15 	1 	9 	0 	;
+Sol 	1 	15 	1 	10 	1 	behold 	NN
+Sol 	1 	15 	1 	11 	0 	,
+Sol 	1 	15 	1 	12 	1 	thou 	NN
+Sol 	1 	15 	1 	13 	1 	art 	NN
+Sol 	1 	15 	1 	14 	1 	fair 	NN
+Sol 	1 	15 	1 	15 	0 	;
+Sol 	1 	15 	1 	16 	1 	thou 	NN
+Sol 	1 	15 	1 	17 	1 	hast 	NN
+Sol 	1 	15 	1 	18 	1 	doves 	NNS
+Sol 	1 	15 	1 	19 	0 	'
+Sol 	1 	15 	1 	20 	1 	eyes 	NNS
+Sol 	1 	15 	1 	21 	0 	.
+Sol 	1 	16 	1 	1 	1 	Behold 	NN
+Sol 	1 	16 	1 	2 	0 	,
+Sol 	1 	16 	1 	3 	1 	thou 	NN
+Sol 	1 	16 	1 	4 	1 	art 	NN
+Sol 	1 	16 	1 	5 	1 	fair 	NN
+Sol 	1 	16 	1 	6 	0 	,
+Sol 	1 	16 	1 	7 	1 	my 	PRP$
+Sol 	1 	16 	1 	8 	1 	beloved 	VBN
+Sol 	1 	16 	1 	9 	0 	,
+Sol 	1 	16 	1 	10 	1 	yea 	NN
+Sol 	1 	16 	1 	11 	0 	,
+Sol 	1 	16 	1 	12 	1 	pleasant 	NN
+Sol 	1 	16 	1 	13 	0 	:
+Sol 	1 	16 	1 	14 	1 	also 	RB
+Sol 	1 	16 	1 	15 	1 	our 	PRP$
+Sol 	1 	16 	1 	16 	1 	bed 	NN
+Sol 	1 	16 	1 	17 	1 	is 	VBZ
+Sol 	1 	16 	1 	18 	1 	green 	JJ
+Sol 	1 	16 	1 	19 	0 	.
+Sol 	1 	17 	1 	1 	1 	The 	DT
+Sol 	1 	17 	1 	2 	1 	beams 	NNS
+Sol 	1 	17 	1 	3 	1 	of 	IN
+Sol 	1 	17 	1 	4 	1 	our 	PRP$
+Sol 	1 	17 	1 	5 	1 	house 	NN
+Sol 	1 	17 	1 	6 	1 	are 	VBP
+Sol 	1 	17 	1 	7 	1 	cedar 	NN
+Sol 	1 	17 	1 	8 	0 	,
+Sol 	1 	17 	1 	9 	1 	and 	CC
+Sol 	1 	17 	1 	10 	1 	our 	PRP$
+Sol 	1 	17 	1 	11 	1 	rafters 	NNS
+Sol 	1 	17 	1 	12 	1 	of 	IN
+Sol 	1 	17 	1 	13 	1 	fir 	NN
+Sol 	1 	17 	1 	14 	0 	.
+Sol 	2 	1 	1 	1 	1 	I 	PRP
+Sol 	2 	1 	1 	2 	1 	am 	VBP
+Sol 	2 	1 	1 	3 	1 	the 	DT
+Sol 	2 	1 	1 	4 	1 	rose 	VBD
+Sol 	2 	1 	1 	5 	1 	of 	IN
+Sol 	2 	1 	1 	6 	1 	Sharon 	NN
+Sol 	2 	1 	1 	7 	0 	,
+Sol 	2 	1 	1 	8 	1 	and 	CC
+Sol 	2 	1 	1 	9 	1 	the 	DT
+Sol 	2 	1 	1 	10 	1 	lily 	RB
+Sol 	2 	1 	1 	11 	1 	of 	IN
+Sol 	2 	1 	1 	12 	1 	the 	DT
+Sol 	2 	1 	1 	13 	1 	valleys 	NNS
+Sol 	2 	1 	1 	14 	0 	.
+Sol 	2 	2 	1 	1 	1 	As 	IN
+Sol 	2 	2 	1 	2 	1 	the 	DT
+Sol 	2 	2 	1 	3 	1 	lily 	RB
+Sol 	2 	2 	1 	4 	1 	among 	IN
+Sol 	2 	2 	1 	5 	1 	thorns 	NNS
+Sol 	2 	2 	1 	6 	0 	,
+Sol 	2 	2 	1 	7 	1 	so 	RB
+Sol 	2 	2 	1 	8 	1 	is 	VBZ
+Sol 	2 	2 	1 	9 	1 	my 	PRP$
+Sol 	2 	2 	1 	10 	1 	love 	NN
+Sol 	2 	2 	1 	11 	1 	among 	IN
+Sol 	2 	2 	1 	12 	1 	the 	DT
+Sol 	2 	2 	1 	13 	1 	daughters 	NNS
+Sol 	2 	2 	1 	14 	0 	.
+Sol 	2 	3 	1 	1 	1 	As 	IN
+Sol 	2 	3 	1 	2 	1 	the 	DT
+Sol 	2 	3 	1 	3 	1 	apple 	NN
+Sol 	2 	3 	1 	4 	1 	tree 	NN
+Sol 	2 	3 	1 	5 	1 	among 	IN
+Sol 	2 	3 	1 	6 	1 	the 	DT
+Sol 	2 	3 	1 	7 	1 	trees 	NNS
+Sol 	2 	3 	1 	8 	1 	of 	IN
+Sol 	2 	3 	1 	9 	1 	the 	DT
+Sol 	2 	3 	1 	10 	1 	wood 	NN
+Sol 	2 	3 	1 	11 	0 	,
+Sol 	2 	3 	1 	12 	1 	so 	RB
+Sol 	2 	3 	1 	13 	1 	is 	VBZ
+Sol 	2 	3 	1 	14 	1 	my 	PRP$
+Sol 	2 	3 	1 	15 	1 	beloved 	VBN
+Sol 	2 	3 	1 	16 	1 	among 	IN
+Sol 	2 	3 	1 	17 	1 	the 	DT
+Sol 	2 	3 	1 	18 	1 	sons 	NNS
+Sol 	2 	3 	1 	19 	0 	.
+Sol 	2 	3 	2 	1 	1 	I 	PRP
+Sol 	2 	3 	2 	2 	1 	sat 	NN
+Sol 	2 	3 	2 	3 	1 	down 	RB
+Sol 	2 	3 	2 	4 	1 	under 	IN
+Sol 	2 	3 	2 	5 	1 	his 	PRP$
+Sol 	2 	3 	2 	6 	1 	shadow 	NN
+Sol 	2 	3 	2 	7 	1 	with 	IN
+Sol 	2 	3 	2 	8 	1 	great 	JJ
+Sol 	2 	3 	2 	9 	1 	delight 	NN
+Sol 	2 	3 	2 	10 	0 	,
+Sol 	2 	3 	2 	11 	1 	and 	CC
+Sol 	2 	3 	2 	12 	1 	his 	PRP$
+Sol 	2 	3 	2 	13 	1 	fruit 	NN
+Sol 	2 	3 	2 	14 	1 	was 	VBD
+Sol 	2 	3 	2 	15 	1 	sweet 	NN
+Sol 	2 	3 	2 	16 	1 	to 	TO
+Sol 	2 	3 	2 	17 	1 	my 	PRP$
+Sol 	2 	3 	2 	18 	1 	taste 	NN
+Sol 	2 	3 	2 	19 	0 	.
+Sol 	2 	4 	1 	1 	1 	He 	PRP
+Sol 	2 	4 	1 	2 	1 	brought 	NN
+Sol 	2 	4 	1 	3 	1 	me 	PRP
+Sol 	2 	4 	1 	4 	1 	to 	TO
+Sol 	2 	4 	1 	5 	1 	the 	DT
+Sol 	2 	4 	1 	6 	1 	banqueting 	NN
+Sol 	2 	4 	1 	7 	1 	house 	NN
+Sol 	2 	4 	1 	8 	0 	,
+Sol 	2 	4 	1 	9 	1 	and 	CC
+Sol 	2 	4 	1 	10 	1 	his 	PRP$
+Sol 	2 	4 	1 	11 	1 	banner 	NN
+Sol 	2 	4 	1 	12 	1 	over 	IN
+Sol 	2 	4 	1 	13 	1 	me 	PRP
+Sol 	2 	4 	1 	14 	1 	was 	VBD
+Sol 	2 	4 	1 	15 	1 	love 	NN
+Sol 	2 	4 	1 	16 	0 	.
+Sol 	2 	5 	1 	1 	1 	tay 	NN
+Sol 	2 	5 	1 	2 	1 	me 	PRP
+Sol 	2 	5 	1 	3 	1 	with 	IN
+Sol 	2 	5 	1 	4 	1 	flagons 	NNS
+Sol 	2 	5 	1 	5 	0 	,
+Sol 	2 	5 	1 	6 	1 	comfort 	NN
+Sol 	2 	5 	1 	7 	1 	me 	PRP
+Sol 	2 	5 	1 	8 	1 	with 	IN
+Sol 	2 	5 	1 	9 	1 	apples 	NNS
+Sol 	2 	5 	1 	10 	0 	:
+Sol 	2 	5 	1 	11 	1 	for 	IN
+Sol 	2 	5 	1 	12 	1 	I 	PRP
+Sol 	2 	5 	1 	13 	1 	am 	VBP
+Sol 	2 	5 	1 	14 	1 	sick 	NN
+Sol 	2 	5 	1 	15 	1 	of 	IN
+Sol 	2 	5 	1 	16 	1 	love 	NN
+Sol 	2 	5 	1 	17 	0 	.
+Sol 	2 	6 	1 	1 	1 	His 	PRP$
+Sol 	2 	6 	1 	2 	1 	left 	NN
+Sol 	2 	6 	1 	3 	1 	hand 	NN
+Sol 	2 	6 	1 	4 	1 	is 	VBZ
+Sol 	2 	6 	1 	5 	1 	under 	IN
+Sol 	2 	6 	1 	6 	1 	my 	PRP$
+Sol 	2 	6 	1 	7 	1 	head 	NN
+Sol 	2 	6 	1 	8 	0 	,
+Sol 	2 	6 	1 	9 	1 	and 	CC
+Sol 	2 	6 	1 	10 	1 	his 	PRP$
+Sol 	2 	6 	1 	11 	1 	right 	NN
+Sol 	2 	6 	1 	12 	1 	hand 	NN
+Sol 	2 	6 	1 	13 	1 	doth 	NN
+Sol 	2 	6 	1 	14 	1 	embrace 	NN
+Sol 	2 	6 	1 	15 	1 	me 	PRP
+Sol 	2 	6 	1 	16 	0 	.
+Sol 	2 	7 	1 	1 	1 	I 	PRP
+Sol 	2 	7 	1 	2 	1 	charge 	NN
+Sol 	2 	7 	1 	3 	1 	you 	PRP
+Sol 	2 	7 	1 	4 	0 	,
+Sol 	2 	7 	1 	5 	1 	O 	NN
+Sol 	2 	7 	1 	6 	1 	ye 	NN
+Sol 	2 	7 	1 	7 	1 	daughters 	NNS
+Sol 	2 	7 	1 	8 	1 	of 	IN
+Sol 	2 	7 	1 	9 	1 	Jerusalem 	NN
+Sol 	2 	7 	1 	10 	0 	,
+Sol 	2 	7 	1 	11 	1 	by 	IN
+Sol 	2 	7 	1 	12 	1 	the 	DT
+Sol 	2 	7 	1 	13 	1 	roes 	NNS
+Sol 	2 	7 	1 	14 	0 	,
+Sol 	2 	7 	1 	15 	1 	and 	CC
+Sol 	2 	7 	1 	16 	1 	by 	IN
+Sol 	2 	7 	1 	17 	1 	the 	DT
+Sol 	2 	7 	1 	18 	1 	hinds 	NNS
+Sol 	2 	7 	1 	19 	1 	of 	IN
+Sol 	2 	7 	1 	20 	1 	the 	DT
+Sol 	2 	7 	1 	21 	1 	field 	NN
+Sol 	2 	7 	1 	22 	0 	,
+Sol 	2 	7 	1 	23 	1 	that 	IN
+Sol 	2 	7 	1 	24 	1 	ye 	NN
+Sol 	2 	7 	1 	25 	1 	stir 	NN
+Sol 	2 	7 	1 	26 	1 	not 	RB
+Sol 	2 	7 	1 	27 	1 	up 	RB
+Sol 	2 	7 	1 	28 	0 	,
+Sol 	2 	7 	1 	29 	1 	nor 	CC
+Sol 	2 	7 	1 	30 	1 	awake 	NN
+Sol 	2 	7 	1 	31 	1 	my 	PRP$
+Sol 	2 	7 	1 	32 	1 	love 	NN
+Sol 	2 	7 	1 	33 	0 	,
+Sol 	2 	7 	1 	34 	1 	till 	NN
+Sol 	2 	7 	1 	35 	1 	he 	PRP
+Sol 	2 	7 	1 	36 	1 	please 	NN
+Sol 	2 	7 	1 	37 	0 	.
+Sol 	2 	8 	1 	1 	1 	The 	DT
+Sol 	2 	8 	1 	2 	1 	voice 	NN
+Sol 	2 	8 	1 	3 	1 	of 	IN
+Sol 	2 	8 	1 	4 	1 	my 	PRP$
+Sol 	2 	8 	1 	5 	1 	beloved 	VBN
+Sol 	2 	8 	1 	6 	0 	!
+Sol 	2 	8 	2 	1 	1 	behold 	NN
+Sol 	2 	8 	2 	2 	0 	,
+Sol 	2 	8 	2 	3 	1 	he 	PRP
+Sol 	2 	8 	2 	4 	1 	cometh 	NNS
+Sol 	2 	8 	2 	5 	1 	leaping 	VBG
+Sol 	2 	8 	2 	6 	1 	upon 	IN
+Sol 	2 	8 	2 	7 	1 	the 	DT
+Sol 	2 	8 	2 	8 	1 	mountains 	NNS
+Sol 	2 	8 	2 	9 	0 	,
+Sol 	2 	8 	2 	10 	1 	skipping 	VBG
+Sol 	2 	8 	2 	11 	1 	upon 	IN
+Sol 	2 	8 	2 	12 	1 	the 	DT
+Sol 	2 	8 	2 	13 	1 	hills 	NNS
+Sol 	2 	8 	2 	14 	0 	.
+Sol 	2 	9 	1 	1 	1 	My 	PRP$
+Sol 	2 	9 	1 	2 	1 	beloved 	VBN
+Sol 	2 	9 	1 	3 	1 	is 	VBZ
+Sol 	2 	9 	1 	4 	1 	like 	IN
+Sol 	2 	9 	1 	5 	1 	a 	DT
+Sol 	2 	9 	1 	6 	1 	roe 	NN
+Sol 	2 	9 	1 	7 	1 	or 	CC
+Sol 	2 	9 	1 	8 	1 	a 	DT
+Sol 	2 	9 	1 	9 	1 	young 	JJ
+Sol 	2 	9 	1 	10 	1 	hart 	NN
+Sol 	2 	9 	1 	11 	0 	:
+Sol 	2 	9 	1 	12 	1 	behold 	NN
+Sol 	2 	9 	1 	13 	0 	,
+Sol 	2 	9 	1 	14 	1 	he 	PRP
+Sol 	2 	9 	1 	15 	1 	standeth 	NN
+Sol 	2 	9 	1 	16 	1 	behind 	IN
+Sol 	2 	9 	1 	17 	1 	our 	PRP$
+Sol 	2 	9 	1 	18 	1 	wall 	NN
+Sol 	2 	9 	1 	19 	0 	,
+Sol 	2 	9 	1 	20 	1 	he 	PRP
+Sol 	2 	9 	1 	21 	1 	looketh 	NN
+Sol 	2 	9 	1 	22 	1 	forth 	NN
+Sol 	2 	9 	1 	23 	1 	at 	IN
+Sol 	2 	9 	1 	24 	1 	the 	DT
+Sol 	2 	9 	1 	25 	1 	windows 	NNS
+Sol 	2 	9 	1 	26 	0 	,
+Sol 	2 	9 	1 	27 	1 	shewing 	VBG
+Sol 	2 	9 	1 	28 	1 	himself 	PRP
+Sol 	2 	9 	1 	29 	1 	through 	IN
+Sol 	2 	9 	1 	30 	1 	the 	DT
+Sol 	2 	9 	1 	31 	1 	lattice 	NN
+Sol 	2 	9 	1 	32 	0 	.
+Sol 	2 	10 	1 	1 	1 	My 	PRP$
+Sol 	2 	10 	1 	2 	1 	beloved 	VBN
+Sol 	2 	10 	1 	3 	1 	spake 	NN
+Sol 	2 	10 	1 	4 	0 	,
+Sol 	2 	10 	1 	5 	1 	and 	CC
+Sol 	2 	10 	1 	6 	1 	said 	VBD
+Sol 	2 	10 	1 	7 	1 	unto 	NN
+Sol 	2 	10 	1 	8 	1 	me 	PRP
+Sol 	2 	10 	1 	9 	0 	,
+Sol 	2 	10 	1 	10 	1 	Rise 	NN
+Sol 	2 	10 	1 	11 	1 	up 	RB
+Sol 	2 	10 	1 	12 	0 	,
+Sol 	2 	10 	1 	13 	1 	my 	PRP$
+Sol 	2 	10 	1 	14 	1 	love 	NN
+Sol 	2 	10 	1 	15 	0 	,
+Sol 	2 	10 	1 	16 	1 	my 	PRP$
+Sol 	2 	10 	1 	17 	1 	fair 	NN
+Sol 	2 	10 	1 	18 	1 	one 	CD
+Sol 	2 	10 	1 	19 	0 	,
+Sol 	2 	10 	1 	20 	1 	and 	CC
+Sol 	2 	10 	1 	21 	1 	come 	VB
+Sol 	2 	10 	1 	22 	1 	away 	RB
+Sol 	2 	10 	1 	23 	0 	.
+Sol 	2 	11 	1 	1 	1 	For 	IN
+Sol 	2 	11 	1 	2 	0 	,
+Sol 	2 	11 	1 	3 	1 	lo 	NN
+Sol 	2 	11 	1 	4 	0 	,
+Sol 	2 	11 	1 	5 	1 	the 	DT
+Sol 	2 	11 	1 	6 	1 	winter 	NN
+Sol 	2 	11 	1 	7 	1 	is 	VBZ
+Sol 	2 	11 	1 	8 	1 	past 	NN
+Sol 	2 	11 	1 	9 	0 	,
+Sol 	2 	11 	1 	10 	1 	the 	DT
+Sol 	2 	11 	1 	11 	1 	rain 	NN
+Sol 	2 	11 	1 	12 	1 	is 	VBZ
+Sol 	2 	11 	1 	13 	1 	over 	IN
+Sol 	2 	11 	1 	14 	1 	and 	CC
+Sol 	2 	11 	1 	15 	1 	gone 	VBN
+Sol 	2 	11 	1 	16 	0 	;
+Sol 	2 	12 	1 	1 	1 	The 	DT
+Sol 	2 	12 	1 	2 	1 	flowers 	NNS
+Sol 	2 	12 	1 	3 	1 	appear 	VB
+Sol 	2 	12 	1 	4 	1 	on 	IN
+Sol 	2 	12 	1 	5 	1 	the 	DT
+Sol 	2 	12 	1 	6 	1 	earth 	NN
+Sol 	2 	12 	1 	7 	0 	;
+Sol 	2 	12 	1 	8 	1 	the 	DT
+Sol 	2 	12 	1 	9 	1 	time 	NN
+Sol 	2 	12 	1 	10 	1 	of 	IN
+Sol 	2 	12 	1 	11 	1 	the 	DT
+Sol 	2 	12 	1 	12 	1 	singing 	VBG
+Sol 	2 	12 	1 	13 	1 	of 	IN
+Sol 	2 	12 	1 	14 	1 	birds 	NNS
+Sol 	2 	12 	1 	15 	1 	is 	VBZ
+Sol 	2 	12 	1 	16 	1 	come 	VB
+Sol 	2 	12 	1 	17 	0 	,
+Sol 	2 	12 	1 	18 	1 	and 	CC
+Sol 	2 	12 	1 	19 	1 	the 	DT
+Sol 	2 	12 	1 	20 	1 	voice 	NN
+Sol 	2 	12 	1 	21 	1 	of 	IN
+Sol 	2 	12 	1 	22 	1 	the 	DT
+Sol 	2 	12 	1 	23 	1 	turtle 	NN
+Sol 	2 	12 	1 	24 	1 	is 	VBZ
+Sol 	2 	12 	1 	25 	1 	heard 	NN
+Sol 	2 	12 	1 	26 	1 	in 	IN
+Sol 	2 	12 	1 	27 	1 	our 	PRP$
+Sol 	2 	12 	1 	28 	1 	land 	NN
+Sol 	2 	12 	1 	29 	0 	;
+Sol 	2 	13 	1 	1 	1 	The 	DT
+Sol 	2 	13 	1 	2 	1 	fig 	NN
+Sol 	2 	13 	1 	3 	1 	tree 	NN
+Sol 	2 	13 	1 	4 	1 	putteth 	NN
+Sol 	2 	13 	1 	5 	1 	forth 	NN
+Sol 	2 	13 	1 	6 	1 	her 	PRP$
+Sol 	2 	13 	1 	7 	1 	green 	JJ
+Sol 	2 	13 	1 	8 	1 	figs 	NNS
+Sol 	2 	13 	1 	9 	0 	,
+Sol 	2 	13 	1 	10 	1 	and 	CC
+Sol 	2 	13 	1 	11 	1 	the 	DT
+Sol 	2 	13 	1 	12 	1 	vines 	NNS
+Sol 	2 	13 	1 	13 	1 	with 	IN
+Sol 	2 	13 	1 	14 	1 	the 	DT
+Sol 	2 	13 	1 	15 	1 	tender 	NN
+Sol 	2 	13 	1 	16 	1 	grape 	NN
+Sol 	2 	13 	1 	17 	1 	give 	VB
+Sol 	2 	13 	1 	18 	1 	a 	DT
+Sol 	2 	13 	1 	19 	1 	good 	JJ
+Sol 	2 	13 	1 	20 	1 	smell 	NN
+Sol 	2 	13 	1 	21 	0 	.
+Sol 	2 	13 	2 	1 	1 	Arise 	NN
+Sol 	2 	13 	2 	2 	0 	,
+Sol 	2 	13 	2 	3 	1 	my 	PRP$
+Sol 	2 	13 	2 	4 	1 	love 	NN
+Sol 	2 	13 	2 	5 	0 	,
+Sol 	2 	13 	2 	6 	1 	my 	PRP$
+Sol 	2 	13 	2 	7 	1 	fair 	NN
+Sol 	2 	13 	2 	8 	1 	one 	CD
+Sol 	2 	13 	2 	9 	0 	,
+Sol 	2 	13 	2 	10 	1 	and 	CC
+Sol 	2 	13 	2 	11 	1 	come 	VB
+Sol 	2 	13 	2 	12 	1 	away 	RB
+Sol 	2 	13 	2 	13 	0 	.
+Sol 	2 	14 	1 	1 	1 	O 	NN
+Sol 	2 	14 	1 	2 	1 	my 	PRP$
+Sol 	2 	14 	1 	3 	1 	dove 	NN
+Sol 	2 	14 	1 	4 	0 	,
+Sol 	2 	14 	1 	5 	1 	that 	IN
+Sol 	2 	14 	1 	6 	1 	art 	NN
+Sol 	2 	14 	1 	7 	1 	in 	IN
+Sol 	2 	14 	1 	8 	1 	the 	DT
+Sol 	2 	14 	1 	9 	1 	clefts 	NNS
+Sol 	2 	14 	1 	10 	1 	of 	IN
+Sol 	2 	14 	1 	11 	1 	the 	DT
+Sol 	2 	14 	1 	12 	1 	rock 	NN
+Sol 	2 	14 	1 	13 	0 	,
+Sol 	2 	14 	1 	14 	1 	in 	IN
+Sol 	2 	14 	1 	15 	1 	the 	DT
+Sol 	2 	14 	1 	16 	1 	secret 	NN
+Sol 	2 	14 	1 	17 	1 	places 	NNS
+Sol 	2 	14 	1 	18 	1 	of 	IN
+Sol 	2 	14 	1 	19 	1 	the 	DT
+Sol 	2 	14 	1 	20 	1 	stairs 	NNS
+Sol 	2 	14 	1 	21 	0 	,
+Sol 	2 	14 	1 	22 	1 	let 	VB
+Sol 	2 	14 	1 	23 	1 	me 	PRP
+Sol 	2 	14 	1 	24 	1 	see 	VB
+Sol 	2 	14 	1 	25 	1 	thy 	NN
+Sol 	2 	14 	1 	26 	1 	countenance 	NN
+Sol 	2 	14 	1 	27 	0 	,
+Sol 	2 	14 	1 	28 	1 	let 	VB
+Sol 	2 	14 	1 	29 	1 	me 	PRP
+Sol 	2 	14 	1 	30 	1 	hear 	NN
+Sol 	2 	14 	1 	31 	1 	thy 	NN
+Sol 	2 	14 	1 	32 	1 	voice 	NN
+Sol 	2 	14 	1 	33 	0 	;
+Sol 	2 	14 	1 	34 	1 	for 	IN
+Sol 	2 	14 	1 	35 	1 	sweet 	NN
+Sol 	2 	14 	1 	36 	1 	is 	VBZ
+Sol 	2 	14 	1 	37 	1 	thy 	NN
+Sol 	2 	14 	1 	38 	1 	voice 	NN
+Sol 	2 	14 	1 	39 	0 	,
+Sol 	2 	14 	1 	40 	1 	and 	CC
+Sol 	2 	14 	1 	41 	1 	thy 	NN
+Sol 	2 	14 	1 	42 	1 	countenance 	NN
+Sol 	2 	14 	1 	43 	1 	is 	VBZ
+Sol 	2 	14 	1 	44 	1 	comely 	RB
+Sol 	2 	14 	1 	45 	0 	.
+Sol 	2 	15 	1 	1 	1 	Take 	VB
+Sol 	2 	15 	1 	2 	1 	us 	PRP
+Sol 	2 	15 	1 	3 	1 	the 	DT
+Sol 	2 	15 	1 	4 	1 	foxes 	NNS
+Sol 	2 	15 	1 	5 	0 	,
+Sol 	2 	15 	1 	6 	1 	the 	DT
+Sol 	2 	15 	1 	7 	1 	little 	JJ
+Sol 	2 	15 	1 	8 	1 	foxes 	NNS
+Sol 	2 	15 	1 	9 	0 	,
+Sol 	2 	15 	1 	10 	1 	that 	IN
+Sol 	2 	15 	1 	11 	1 	spoil 	NN
+Sol 	2 	15 	1 	12 	1 	the 	DT
+Sol 	2 	15 	1 	13 	1 	vines 	NNS
+Sol 	2 	15 	1 	14 	0 	:
+Sol 	2 	15 	1 	15 	1 	for 	IN
+Sol 	2 	15 	1 	16 	1 	our 	PRP$
+Sol 	2 	15 	1 	17 	1 	vines 	NNS
+Sol 	2 	15 	1 	18 	1 	have 	VB
+Sol 	2 	15 	1 	19 	1 	tender 	NN
+Sol 	2 	15 	1 	20 	1 	grapes 	NNS
+Sol 	2 	15 	1 	21 	0 	.
+Sol 	2 	16 	1 	1 	1 	My 	PRP$
+Sol 	2 	16 	1 	2 	1 	beloved 	VBN
+Sol 	2 	16 	1 	3 	1 	is 	VBZ
+Sol 	2 	16 	1 	4 	1 	mine 	NN
+Sol 	2 	16 	1 	5 	0 	,
+Sol 	2 	16 	1 	6 	1 	and 	CC
+Sol 	2 	16 	1 	7 	1 	I 	PRP
+Sol 	2 	16 	1 	8 	1 	am 	VBP
+Sol 	2 	16 	1 	9 	1 	his 	PRP$
+Sol 	2 	16 	1 	10 	0 	:
+Sol 	2 	16 	1 	11 	1 	he 	PRP
+Sol 	2 	16 	1 	12 	1 	feedeth 	NNS
+Sol 	2 	16 	1 	13 	1 	among 	IN
+Sol 	2 	16 	1 	14 	1 	the 	DT
+Sol 	2 	16 	1 	15 	1 	lilies 	NNS
+Sol 	2 	16 	1 	16 	0 	.
+Sol 	2 	17 	1 	1 	1 	Until 	IN
+Sol 	2 	17 	1 	2 	1 	the 	DT
+Sol 	2 	17 	1 	3 	1 	day 	NN
+Sol 	2 	17 	1 	4 	1 	break 	NN
+Sol 	2 	17 	1 	5 	0 	,
+Sol 	2 	17 	1 	6 	1 	and 	CC
+Sol 	2 	17 	1 	7 	1 	the 	DT
+Sol 	2 	17 	1 	8 	1 	shadows 	NNS
+Sol 	2 	17 	1 	9 	1 	flee 	NN
+Sol 	2 	17 	1 	10 	1 	away 	RB
+Sol 	2 	17 	1 	11 	0 	,
+Sol 	2 	17 	1 	12 	1 	turn 	NN
+Sol 	2 	17 	1 	13 	0 	,
+Sol 	2 	17 	1 	14 	1 	my 	PRP$
+Sol 	2 	17 	1 	15 	1 	beloved 	VBN
+Sol 	2 	17 	1 	16 	0 	,
+Sol 	2 	17 	1 	17 	1 	and 	CC
+Sol 	2 	17 	1 	18 	1 	be 	VB
+Sol 	2 	17 	1 	19 	1 	thou 	NN
+Sol 	2 	17 	1 	20 	1 	like 	IN
+Sol 	2 	17 	1 	21 	1 	a 	DT
+Sol 	2 	17 	1 	22 	1 	roe 	NN
+Sol 	2 	17 	1 	23 	1 	or 	CC
+Sol 	2 	17 	1 	24 	1 	a 	DT
+Sol 	2 	17 	1 	25 	1 	young 	JJ
+Sol 	2 	17 	1 	26 	1 	hart 	NN
+Sol 	2 	17 	1 	27 	1 	upon 	IN
+Sol 	2 	17 	1 	28 	1 	the 	DT
+Sol 	2 	17 	1 	29 	1 	mountains 	NNS
+Sol 	2 	17 	1 	30 	1 	of 	IN
+Sol 	2 	17 	1 	31 	1 	Bether 	NN
+Sol 	2 	17 	1 	32 	0 	.
+Sol 	3 	1 	1 	1 	1 	By 	IN
+Sol 	3 	1 	1 	2 	1 	night 	NN
+Sol 	3 	1 	1 	3 	1 	on 	IN
+Sol 	3 	1 	1 	4 	1 	my 	PRP$
+Sol 	3 	1 	1 	5 	1 	bed 	NN
+Sol 	3 	1 	1 	6 	1 	I 	PRP
+Sol 	3 	1 	1 	7 	1 	sought 	NN
+Sol 	3 	1 	1 	8 	1 	him 	PRP
+Sol 	3 	1 	1 	9 	1 	whom 	WP
+Sol 	3 	1 	1 	10 	1 	my 	PRP$
+Sol 	3 	1 	1 	11 	1 	soul 	NN
+Sol 	3 	1 	1 	12 	1 	loveth 	NN
+Sol 	3 	1 	1 	13 	0 	:
+Sol 	3 	1 	1 	14 	1 	I 	PRP
+Sol 	3 	1 	1 	15 	1 	sought 	NN
+Sol 	3 	1 	1 	16 	1 	him 	PRP
+Sol 	3 	1 	1 	17 	0 	,
+Sol 	3 	1 	1 	18 	1 	but 	CC
+Sol 	3 	1 	1 	19 	1 	I 	PRP
+Sol 	3 	1 	1 	20 	1 	found 	NN
+Sol 	3 	1 	1 	21 	1 	him 	PRP
+Sol 	3 	1 	1 	22 	1 	not 	RB
+Sol 	3 	1 	1 	23 	0 	.
+Sol 	3 	2 	1 	1 	1 	I 	PRP
+Sol 	3 	2 	1 	2 	1 	will 	MD
+Sol 	3 	2 	1 	3 	1 	rise 	NN
+Sol 	3 	2 	1 	4 	1 	now 	RB
+Sol 	3 	2 	1 	5 	0 	,
+Sol 	3 	2 	1 	6 	1 	and 	CC
+Sol 	3 	2 	1 	7 	1 	go 	VB
+Sol 	3 	2 	1 	8 	1 	about 	IN
+Sol 	3 	2 	1 	9 	1 	the 	DT
+Sol 	3 	2 	1 	10 	1 	city 	NN
+Sol 	3 	2 	1 	11 	1 	in 	IN
+Sol 	3 	2 	1 	12 	1 	the 	DT
+Sol 	3 	2 	1 	13 	1 	streets 	NNS
+Sol 	3 	2 	1 	14 	0 	,
+Sol 	3 	2 	1 	15 	1 	and 	CC
+Sol 	3 	2 	1 	16 	1 	in 	IN
+Sol 	3 	2 	1 	17 	1 	the 	DT
+Sol 	3 	2 	1 	18 	1 	broad 	JJ
+Sol 	3 	2 	1 	19 	1 	ways 	NNS
+Sol 	3 	2 	1 	20 	1 	I 	PRP
+Sol 	3 	2 	1 	21 	1 	will 	MD
+Sol 	3 	2 	1 	22 	1 	seek 	NN
+Sol 	3 	2 	1 	23 	1 	him 	PRP
+Sol 	3 	2 	1 	24 	1 	whom 	WP
+Sol 	3 	2 	1 	25 	1 	my 	PRP$
+Sol 	3 	2 	1 	26 	1 	soul 	NN
+Sol 	3 	2 	1 	27 	1 	loveth 	NN
+Sol 	3 	2 	1 	28 	0 	:
+Sol 	3 	2 	1 	29 	1 	I 	PRP
+Sol 	3 	2 	1 	30 	1 	sought 	NN
+Sol 	3 	2 	1 	31 	1 	him 	PRP
+Sol 	3 	2 	1 	32 	0 	,
+Sol 	3 	2 	1 	33 	1 	but 	CC
+Sol 	3 	2 	1 	34 	1 	I 	PRP
+Sol 	3 	2 	1 	35 	1 	found 	NN
+Sol 	3 	2 	1 	36 	1 	him 	PRP
+Sol 	3 	2 	1 	37 	1 	not 	RB
+Sol 	3 	2 	1 	38 	0 	.
+Sol 	3 	3 	1 	1 	1 	The 	DT
+Sol 	3 	3 	1 	2 	1 	watchmen 	NNS
+Sol 	3 	3 	1 	3 	1 	that 	IN
+Sol 	3 	3 	1 	4 	1 	go 	VB
+Sol 	3 	3 	1 	5 	1 	about 	IN
+Sol 	3 	3 	1 	6 	1 	the 	DT
+Sol 	3 	3 	1 	7 	1 	city 	NN
+Sol 	3 	3 	1 	8 	1 	found 	NN
+Sol 	3 	3 	1 	9 	1 	me 	PRP
+Sol 	3 	3 	1 	10 	0 	:
+Sol 	3 	3 	1 	11 	1 	to 	TO
+Sol 	3 	3 	1 	12 	1 	whom 	WP
+Sol 	3 	3 	1 	13 	1 	I 	PRP
+Sol 	3 	3 	1 	14 	1 	said 	VBD
+Sol 	3 	3 	1 	15 	0 	,
+Sol 	3 	3 	1 	16 	1 	Saw 	NN
+Sol 	3 	3 	1 	17 	1 	ye 	NN
+Sol 	3 	3 	1 	18 	1 	him 	PRP
+Sol 	3 	3 	1 	19 	1 	whom 	WP
+Sol 	3 	3 	1 	20 	1 	my 	PRP$
+Sol 	3 	3 	1 	21 	1 	soul 	NN
+Sol 	3 	3 	1 	22 	1 	loveth 	NN
+Sol 	3 	3 	1 	23 	0 	?
+Sol 	3 	4 	1 	1 	1 	It 	PRP
+Sol 	3 	4 	1 	2 	1 	was 	VBD
+Sol 	3 	4 	1 	3 	1 	but 	CC
+Sol 	3 	4 	1 	4 	1 	a 	DT
+Sol 	3 	4 	1 	5 	1 	little 	JJ
+Sol 	3 	4 	1 	6 	1 	that 	IN
+Sol 	3 	4 	1 	7 	1 	I 	PRP
+Sol 	3 	4 	1 	8 	1 	passed 	VBN
+Sol 	3 	4 	1 	9 	1 	from 	IN
+Sol 	3 	4 	1 	10 	1 	them 	PRP
+Sol 	3 	4 	1 	11 	0 	,
+Sol 	3 	4 	1 	12 	1 	but 	CC
+Sol 	3 	4 	1 	13 	1 	I 	PRP
+Sol 	3 	4 	1 	14 	1 	found 	NN
+Sol 	3 	4 	1 	15 	1 	him 	PRP
+Sol 	3 	4 	1 	16 	1 	whom 	WP
+Sol 	3 	4 	1 	17 	1 	my 	PRP$
+Sol 	3 	4 	1 	18 	1 	soul 	NN
+Sol 	3 	4 	1 	19 	1 	loveth 	NN
+Sol 	3 	4 	1 	20 	0 	:
+Sol 	3 	4 	1 	21 	1 	I 	PRP
+Sol 	3 	4 	1 	22 	1 	held 	NN
+Sol 	3 	4 	1 	23 	1 	him 	PRP
+Sol 	3 	4 	1 	24 	0 	,
+Sol 	3 	4 	1 	25 	1 	and 	CC
+Sol 	3 	4 	1 	26 	1 	would 	MD
+Sol 	3 	4 	1 	27 	1 	not 	RB
+Sol 	3 	4 	1 	28 	1 	let 	VB
+Sol 	3 	4 	1 	29 	1 	him 	PRP
+Sol 	3 	4 	1 	30 	1 	go 	VB
+Sol 	3 	4 	1 	31 	0 	,
+Sol 	3 	4 	1 	32 	1 	until 	IN
+Sol 	3 	4 	1 	33 	1 	I 	PRP
+Sol 	3 	4 	1 	34 	1 	had 	VBD
+Sol 	3 	4 	1 	35 	1 	brought 	NN
+Sol 	3 	4 	1 	36 	1 	him 	PRP
+Sol 	3 	4 	1 	37 	1 	into 	IN
+Sol 	3 	4 	1 	38 	1 	my 	PRP$
+Sol 	3 	4 	1 	39 	1 	mother 	NN
+Sol 	3 	4 	1 	40 	0 	's
+Sol 	3 	4 	1 	41 	1 	house 	NN
+Sol 	3 	4 	1 	42 	0 	,
+Sol 	3 	4 	1 	43 	1 	and 	CC
+Sol 	3 	4 	1 	44 	1 	into 	IN
+Sol 	3 	4 	1 	45 	1 	the 	DT
+Sol 	3 	4 	1 	46 	1 	chamber 	NN
+Sol 	3 	4 	1 	47 	1 	of 	IN
+Sol 	3 	4 	1 	48 	1 	her 	PRP$
+Sol 	3 	4 	1 	49 	1 	that 	IN
+Sol 	3 	4 	1 	50 	1 	conceived 	VBN
+Sol 	3 	4 	1 	51 	1 	me 	PRP
+Sol 	3 	4 	1 	52 	0 	.
+Sol 	3 	5 	1 	1 	1 	I 	PRP
+Sol 	3 	5 	1 	2 	1 	charge 	NN
+Sol 	3 	5 	1 	3 	1 	you 	PRP
+Sol 	3 	5 	1 	4 	0 	,
+Sol 	3 	5 	1 	5 	1 	O 	NN
+Sol 	3 	5 	1 	6 	1 	ye 	NN
+Sol 	3 	5 	1 	7 	1 	daughters 	NNS
+Sol 	3 	5 	1 	8 	1 	of 	IN
+Sol 	3 	5 	1 	9 	1 	Jerusalem 	NN
+Sol 	3 	5 	1 	10 	0 	,
+Sol 	3 	5 	1 	11 	1 	by 	IN
+Sol 	3 	5 	1 	12 	1 	the 	DT
+Sol 	3 	5 	1 	13 	1 	roes 	NNS
+Sol 	3 	5 	1 	14 	0 	,
+Sol 	3 	5 	1 	15 	1 	and 	CC
+Sol 	3 	5 	1 	16 	1 	by 	IN
+Sol 	3 	5 	1 	17 	1 	the 	DT
+Sol 	3 	5 	1 	18 	1 	hinds 	NNS
+Sol 	3 	5 	1 	19 	1 	of 	IN
+Sol 	3 	5 	1 	20 	1 	the 	DT
+Sol 	3 	5 	1 	21 	1 	field 	NN
+Sol 	3 	5 	1 	22 	0 	,
+Sol 	3 	5 	1 	23 	1 	that 	IN
+Sol 	3 	5 	1 	24 	1 	ye 	NN
+Sol 	3 	5 	1 	25 	1 	stir 	NN
+Sol 	3 	5 	1 	26 	1 	not 	RB
+Sol 	3 	5 	1 	27 	1 	up 	RB
+Sol 	3 	5 	1 	28 	0 	,
+Sol 	3 	5 	1 	29 	1 	nor 	CC
+Sol 	3 	5 	1 	30 	1 	awake 	NN
+Sol 	3 	5 	1 	31 	1 	my 	PRP$
+Sol 	3 	5 	1 	32 	1 	love 	NN
+Sol 	3 	5 	1 	33 	0 	,
+Sol 	3 	5 	1 	34 	1 	till 	NN
+Sol 	3 	5 	1 	35 	1 	he 	PRP
+Sol 	3 	5 	1 	36 	1 	please 	NN
+Sol 	3 	5 	1 	37 	0 	.
+Sol 	3 	6 	1 	1 	1 	Who 	WP
+Sol 	3 	6 	1 	2 	1 	is 	VBZ
+Sol 	3 	6 	1 	3 	1 	this 	DT
+Sol 	3 	6 	1 	4 	1 	that 	IN
+Sol 	3 	6 	1 	5 	1 	cometh 	NNS
+Sol 	3 	6 	1 	6 	1 	out 	IN
+Sol 	3 	6 	1 	7 	1 	of 	IN
+Sol 	3 	6 	1 	8 	1 	the 	DT
+Sol 	3 	6 	1 	9 	1 	wilderness 	NN
+Sol 	3 	6 	1 	10 	1 	like 	IN
+Sol 	3 	6 	1 	11 	1 	pillars 	NNS
+Sol 	3 	6 	1 	12 	1 	of 	IN
+Sol 	3 	6 	1 	13 	1 	smoke 	NN
+Sol 	3 	6 	1 	14 	0 	,
+Sol 	3 	6 	1 	15 	1 	perfumed 	VBN
+Sol 	3 	6 	1 	16 	1 	with 	IN
+Sol 	3 	6 	1 	17 	1 	myrrh 	NN
+Sol 	3 	6 	1 	18 	1 	and 	CC
+Sol 	3 	6 	1 	19 	1 	frankincense 	NN
+Sol 	3 	6 	1 	20 	0 	,
+Sol 	3 	6 	1 	21 	1 	with 	IN
+Sol 	3 	6 	1 	22 	1 	all 	DT
+Sol 	3 	6 	1 	23 	1 	powders 	NNS
+Sol 	3 	6 	1 	24 	1 	of 	IN
+Sol 	3 	6 	1 	25 	1 	the 	DT
+Sol 	3 	6 	1 	26 	1 	merchant 	NN
+Sol 	3 	6 	1 	27 	0 	?
+Sol 	3 	7 	1 	1 	1 	Behold 	NN
+Sol 	3 	7 	1 	2 	1 	his 	PRP$
+Sol 	3 	7 	1 	3 	1 	bed 	NN
+Sol 	3 	7 	1 	4 	0 	,
+Sol 	3 	7 	1 	5 	1 	which 	WDT
+Sol 	3 	7 	1 	6 	1 	is 	VBZ
+Sol 	3 	7 	1 	7 	1 	Solomon 	NN
+Sol 	3 	7 	1 	8 	0 	's
+Sol 	3 	7 	1 	9 	0 	;
+Sol 	3 	7 	1 	10 	1 	threescore 	NN
+Sol 	3 	7 	1 	11 	1 	valiant 	NN
+Sol 	3 	7 	1 	12 	1 	men 	NNS
+Sol 	3 	7 	1 	13 	1 	are 	VBP
+Sol 	3 	7 	1 	14 	1 	about 	IN
+Sol 	3 	7 	1 	15 	1 	it 	PRP
+Sol 	3 	7 	1 	16 	0 	,
+Sol 	3 	7 	1 	17 	1 	of 	IN
+Sol 	3 	7 	1 	18 	1 	the 	DT
+Sol 	3 	7 	1 	19 	1 	valiant 	NN
+Sol 	3 	7 	1 	20 	1 	of 	IN
+Sol 	3 	7 	1 	21 	1 	Israel 	NNP
+Sol 	3 	7 	1 	22 	0 	.
+Sol 	3 	8 	1 	1 	1 	They 	PRP
+Sol 	3 	8 	1 	2 	1 	all 	DT
+Sol 	3 	8 	1 	3 	1 	hold 	NN
+Sol 	3 	8 	1 	4 	1 	swords 	NNS
+Sol 	3 	8 	1 	5 	0 	,
+Sol 	3 	8 	1 	6 	1 	being 	VBG
+Sol 	3 	8 	1 	7 	1 	expert 	NN
+Sol 	3 	8 	1 	8 	1 	in 	IN
+Sol 	3 	8 	1 	9 	1 	war 	NN
+Sol 	3 	8 	1 	10 	0 	:
+Sol 	3 	8 	1 	11 	1 	every 	DT
+Sol 	3 	8 	1 	12 	1 	man 	NN
+Sol 	3 	8 	1 	13 	1 	hath 	NN
+Sol 	3 	8 	1 	14 	1 	his 	PRP$
+Sol 	3 	8 	1 	15 	1 	sword 	NN
+Sol 	3 	8 	1 	16 	1 	upon 	IN
+Sol 	3 	8 	1 	17 	1 	his 	PRP$
+Sol 	3 	8 	1 	18 	1 	thigh 	NN
+Sol 	3 	8 	1 	19 	1 	because 	IN
+Sol 	3 	8 	1 	20 	1 	of 	IN
+Sol 	3 	8 	1 	21 	1 	fear 	NN
+Sol 	3 	8 	1 	22 	1 	in 	IN
+Sol 	3 	8 	1 	23 	1 	the 	DT
+Sol 	3 	8 	1 	24 	1 	night 	NN
+Sol 	3 	8 	1 	25 	0 	.
+Sol 	3 	9 	1 	1 	1 	King 	VBG
+Sol 	3 	9 	1 	2 	1 	Solomon 	NN
+Sol 	3 	9 	1 	3 	1 	made 	VBN
+Sol 	3 	9 	1 	4 	1 	himself 	PRP
+Sol 	3 	9 	1 	5 	1 	a 	DT
+Sol 	3 	9 	1 	6 	1 	chariot 	NN
+Sol 	3 	9 	1 	7 	1 	of 	IN
+Sol 	3 	9 	1 	8 	1 	the 	DT
+Sol 	3 	9 	1 	9 	1 	wood 	NN
+Sol 	3 	9 	1 	10 	1 	of 	IN
+Sol 	3 	9 	1 	11 	1 	Lebanon 	NNP
+Sol 	3 	9 	1 	12 	0 	.
+Sol 	3 	10 	1 	1 	1 	He 	PRP
+Sol 	3 	10 	1 	2 	1 	made 	VBN
+Sol 	3 	10 	1 	3 	1 	the 	DT
+Sol 	3 	10 	1 	4 	1 	pillars 	NNS
+Sol 	3 	10 	1 	5 	1 	thereof 	NN
+Sol 	3 	10 	1 	6 	1 	of 	IN
+Sol 	3 	10 	1 	7 	1 	silver 	NN
+Sol 	3 	10 	1 	8 	0 	,
+Sol 	3 	10 	1 	9 	1 	the 	DT
+Sol 	3 	10 	1 	10 	1 	bottom 	NN
+Sol 	3 	10 	1 	11 	1 	thereof 	NN
+Sol 	3 	10 	1 	12 	1 	of 	IN
+Sol 	3 	10 	1 	13 	1 	gold 	NN
+Sol 	3 	10 	1 	14 	0 	,
+Sol 	3 	10 	1 	15 	1 	the 	DT
+Sol 	3 	10 	1 	16 	1 	covering 	VBG
+Sol 	3 	10 	1 	17 	1 	of 	IN
+Sol 	3 	10 	1 	18 	1 	it 	PRP
+Sol 	3 	10 	1 	19 	1 	of 	IN
+Sol 	3 	10 	1 	20 	1 	purple 	NN
+Sol 	3 	10 	1 	21 	0 	,
+Sol 	3 	10 	1 	22 	1 	the 	DT
+Sol 	3 	10 	1 	23 	1 	midst 	NN
+Sol 	3 	10 	1 	24 	1 	thereof 	NN
+Sol 	3 	10 	1 	25 	1 	being 	VBG
+Sol 	3 	10 	1 	26 	1 	paved 	VBN
+Sol 	3 	10 	1 	27 	1 	with 	IN
+Sol 	3 	10 	1 	28 	1 	love 	NN
+Sol 	3 	10 	1 	29 	0 	,
+Sol 	3 	10 	1 	30 	1 	for 	IN
+Sol 	3 	10 	1 	31 	1 	the 	DT
+Sol 	3 	10 	1 	32 	1 	daughters 	NNS
+Sol 	3 	10 	1 	33 	1 	of 	IN
+Sol 	3 	10 	1 	34 	1 	Jerusalem 	NN
+Sol 	3 	10 	1 	35 	0 	.
+Sol 	3 	11 	1 	1 	1 	Go 	VB
+Sol 	3 	11 	1 	2 	1 	forth 	NN
+Sol 	3 	11 	1 	3 	0 	,
+Sol 	3 	11 	1 	4 	1 	O 	NN
+Sol 	3 	11 	1 	5 	1 	ye 	NN
+Sol 	3 	11 	1 	6 	1 	daughters 	NNS
+Sol 	3 	11 	1 	7 	1 	of 	IN
+Sol 	3 	11 	1 	8 	1 	Zion 	NN
+Sol 	3 	11 	1 	9 	0 	,
+Sol 	3 	11 	1 	10 	1 	and 	CC
+Sol 	3 	11 	1 	11 	1 	behold 	NN
+Sol 	3 	11 	1 	12 	1 	king 	NN
+Sol 	3 	11 	1 	13 	1 	Solomon 	NN
+Sol 	3 	11 	1 	14 	1 	with 	IN
+Sol 	3 	11 	1 	15 	1 	the 	DT
+Sol 	3 	11 	1 	16 	1 	crown 	NN
+Sol 	3 	11 	1 	17 	1 	wherewith 	NN
+Sol 	3 	11 	1 	18 	1 	his 	PRP$
+Sol 	3 	11 	1 	19 	1 	mother 	NN
+Sol 	3 	11 	1 	20 	1 	crowned 	VBN
+Sol 	3 	11 	1 	21 	1 	him 	PRP
+Sol 	3 	11 	1 	22 	1 	in 	IN
+Sol 	3 	11 	1 	23 	1 	the 	DT
+Sol 	3 	11 	1 	24 	1 	day 	NN
+Sol 	3 	11 	1 	25 	1 	of 	IN
+Sol 	3 	11 	1 	26 	1 	his 	PRP$
+Sol 	3 	11 	1 	27 	1 	espousals 	NNS
+Sol 	3 	11 	1 	28 	0 	,
+Sol 	3 	11 	1 	29 	1 	and 	CC
+Sol 	3 	11 	1 	30 	1 	in 	IN
+Sol 	3 	11 	1 	31 	1 	the 	DT
+Sol 	3 	11 	1 	32 	1 	day 	NN
+Sol 	3 	11 	1 	33 	1 	of 	IN
+Sol 	3 	11 	1 	34 	1 	the 	DT
+Sol 	3 	11 	1 	35 	1 	gladness 	NN
+Sol 	3 	11 	1 	36 	1 	of 	IN
+Sol 	3 	11 	1 	37 	1 	his 	PRP$
+Sol 	3 	11 	1 	38 	1 	heart 	NN
+Sol 	3 	11 	1 	39 	0 	.
+Sol 	4 	1 	1 	1 	1 	Behold 	NN
+Sol 	4 	1 	1 	2 	0 	,
+Sol 	4 	1 	1 	3 	1 	thou 	NN
+Sol 	4 	1 	1 	4 	1 	art 	NN
+Sol 	4 	1 	1 	5 	1 	fair 	NN
+Sol 	4 	1 	1 	6 	0 	,
+Sol 	4 	1 	1 	7 	1 	my 	PRP$
+Sol 	4 	1 	1 	8 	1 	love 	NN
+Sol 	4 	1 	1 	9 	0 	;
+Sol 	4 	1 	1 	10 	1 	behold 	NN
+Sol 	4 	1 	1 	11 	0 	,
+Sol 	4 	1 	1 	12 	1 	thou 	NN
+Sol 	4 	1 	1 	13 	1 	art 	NN
+Sol 	4 	1 	1 	14 	1 	fair 	NN
+Sol 	4 	1 	1 	15 	0 	;
+Sol 	4 	1 	1 	16 	1 	thou 	NN
+Sol 	4 	1 	1 	17 	1 	hast 	NN
+Sol 	4 	1 	1 	18 	1 	doves 	NNS
+Sol 	4 	1 	1 	19 	0 	'
+Sol 	4 	1 	1 	20 	1 	eyes 	NNS
+Sol 	4 	1 	1 	21 	1 	within 	IN
+Sol 	4 	1 	1 	22 	1 	thy 	NN
+Sol 	4 	1 	1 	23 	1 	locks 	NNS
+Sol 	4 	1 	1 	24 	0 	:
+Sol 	4 	1 	1 	25 	1 	thy 	NN
+Sol 	4 	1 	1 	26 	1 	hair 	NN
+Sol 	4 	1 	1 	27 	1 	is 	VBZ
+Sol 	4 	1 	1 	28 	1 	as 	IN
+Sol 	4 	1 	1 	29 	1 	a 	DT
+Sol 	4 	1 	1 	30 	1 	flock 	NN
+Sol 	4 	1 	1 	31 	1 	of 	IN
+Sol 	4 	1 	1 	32 	1 	goats 	NNS
+Sol 	4 	1 	1 	33 	0 	,
+Sol 	4 	1 	1 	34 	1 	that 	IN
+Sol 	4 	1 	1 	35 	1 	appear 	VB
+Sol 	4 	1 	1 	36 	1 	from 	IN
+Sol 	4 	1 	1 	37 	1 	mount 	NN
+Sol 	4 	1 	1 	38 	1 	Gilead 	NN
+Sol 	4 	1 	1 	39 	0 	.
+Sol 	4 	2 	1 	1 	1 	Thy 	NN
+Sol 	4 	2 	1 	2 	1 	teeth 	NNS
+Sol 	4 	2 	1 	3 	1 	are 	VBP
+Sol 	4 	2 	1 	4 	1 	like 	IN
+Sol 	4 	2 	1 	5 	1 	a 	DT
+Sol 	4 	2 	1 	6 	1 	flock 	NN
+Sol 	4 	2 	1 	7 	1 	of 	IN
+Sol 	4 	2 	1 	8 	1 	sheep 	NN
+Sol 	4 	2 	1 	9 	1 	that 	IN
+Sol 	4 	2 	1 	10 	1 	are 	VBP
+Sol 	4 	2 	1 	11 	1 	even 	RB
+Sol 	4 	2 	1 	12 	1 	shorn 	NN
+Sol 	4 	2 	1 	13 	0 	,
+Sol 	4 	2 	1 	14 	1 	which 	WDT
+Sol 	4 	2 	1 	15 	1 	came 	VBD
+Sol 	4 	2 	1 	16 	1 	up 	RB
+Sol 	4 	2 	1 	17 	1 	from 	IN
+Sol 	4 	2 	1 	18 	1 	the 	DT
+Sol 	4 	2 	1 	19 	1 	washing 	VBG
+Sol 	4 	2 	1 	20 	0 	;
+Sol 	4 	2 	1 	21 	1 	whereof 	NN
+Sol 	4 	2 	1 	22 	1 	every 	DT
+Sol 	4 	2 	1 	23 	1 	one 	CD
+Sol 	4 	2 	1 	24 	1 	bear 	NN
+Sol 	4 	2 	1 	25 	1 	twins 	NNS
+Sol 	4 	2 	1 	26 	0 	,
+Sol 	4 	2 	1 	27 	1 	and 	CC
+Sol 	4 	2 	1 	28 	1 	none 	NN
+Sol 	4 	2 	1 	29 	1 	is 	VBZ
+Sol 	4 	2 	1 	30 	1 	barren 	NNS
+Sol 	4 	2 	1 	31 	1 	among 	IN
+Sol 	4 	2 	1 	32 	1 	them 	PRP
+Sol 	4 	2 	1 	33 	0 	.
+Sol 	4 	3 	1 	1 	1 	Thy 	NN
+Sol 	4 	3 	1 	2 	1 	lips 	NNS
+Sol 	4 	3 	1 	3 	1 	are 	VBP
+Sol 	4 	3 	1 	4 	1 	like 	IN
+Sol 	4 	3 	1 	5 	1 	a 	DT
+Sol 	4 	3 	1 	6 	1 	thread 	NN
+Sol 	4 	3 	1 	7 	1 	of 	IN
+Sol 	4 	3 	1 	8 	1 	scarlet 	NN
+Sol 	4 	3 	1 	9 	0 	,
+Sol 	4 	3 	1 	10 	1 	and 	CC
+Sol 	4 	3 	1 	11 	1 	thy 	NN
+Sol 	4 	3 	1 	12 	1 	speech 	NN
+Sol 	4 	3 	1 	13 	1 	is 	VBZ
+Sol 	4 	3 	1 	14 	1 	comely 	RB
+Sol 	4 	3 	1 	15 	0 	:
+Sol 	4 	3 	1 	16 	1 	thy 	NN
+Sol 	4 	3 	1 	17 	1 	temples 	NNS
+Sol 	4 	3 	1 	18 	1 	are 	VBP
+Sol 	4 	3 	1 	19 	1 	like 	IN
+Sol 	4 	3 	1 	20 	1 	a 	DT
+Sol 	4 	3 	1 	21 	1 	piece 	NN
+Sol 	4 	3 	1 	22 	1 	of 	IN
+Sol 	4 	3 	1 	23 	1 	a 	DT
+Sol 	4 	3 	1 	24 	1 	pomegranate 	NN
+Sol 	4 	3 	1 	25 	1 	within 	IN
+Sol 	4 	3 	1 	26 	1 	thy 	NN
+Sol 	4 	3 	1 	27 	1 	locks 	NNS
+Sol 	4 	3 	1 	28 	0 	.
+Sol 	4 	4 	1 	1 	1 	Thy 	NN
+Sol 	4 	4 	1 	2 	1 	neck 	NN
+Sol 	4 	4 	1 	3 	1 	is 	VBZ
+Sol 	4 	4 	1 	4 	1 	like 	IN
+Sol 	4 	4 	1 	5 	1 	the 	DT
+Sol 	4 	4 	1 	6 	1 	tower 	NN
+Sol 	4 	4 	1 	7 	1 	of 	IN
+Sol 	4 	4 	1 	8 	1 	David 	NNP
+Sol 	4 	4 	1 	9 	1 	builded 	VBN
+Sol 	4 	4 	1 	10 	1 	for 	IN
+Sol 	4 	4 	1 	11 	1 	an 	DT
+Sol 	4 	4 	1 	12 	1 	armoury 	NN
+Sol 	4 	4 	1 	13 	0 	,
+Sol 	4 	4 	1 	14 	1 	whereon 	NN
+Sol 	4 	4 	1 	15 	1 	there 	RB
+Sol 	4 	4 	1 	16 	1 	hang 	NN
+Sol 	4 	4 	1 	17 	1 	a 	DT
+Sol 	4 	4 	1 	18 	1 	thousand 	NN
+Sol 	4 	4 	1 	19 	1 	bucklers 	NNS
+Sol 	4 	4 	1 	20 	0 	,
+Sol 	4 	4 	1 	21 	1 	all 	DT
+Sol 	4 	4 	1 	22 	1 	shields 	NNS
+Sol 	4 	4 	1 	23 	1 	of 	IN
+Sol 	4 	4 	1 	24 	1 	mighty 	NN
+Sol 	4 	4 	1 	25 	1 	men 	NNS
+Sol 	4 	4 	1 	26 	0 	.
+Sol 	4 	5 	1 	1 	1 	Thy 	NN
+Sol 	4 	5 	1 	2 	1 	two 	CD
+Sol 	4 	5 	1 	3 	1 	breasts 	NNS
+Sol 	4 	5 	1 	4 	1 	are 	VBP
+Sol 	4 	5 	1 	5 	1 	like 	IN
+Sol 	4 	5 	1 	6 	1 	two 	CD
+Sol 	4 	5 	1 	7 	1 	young 	JJ
+Sol 	4 	5 	1 	8 	1 	roes 	NNS
+Sol 	4 	5 	1 	9 	1 	that 	IN
+Sol 	4 	5 	1 	10 	1 	are 	VBP
+Sol 	4 	5 	1 	11 	1 	twins 	NNS
+Sol 	4 	5 	1 	12 	0 	,
+Sol 	4 	5 	1 	13 	1 	which 	WDT
+Sol 	4 	5 	1 	14 	1 	feed 	NN
+Sol 	4 	5 	1 	15 	1 	among 	IN
+Sol 	4 	5 	1 	16 	1 	the 	DT
+Sol 	4 	5 	1 	17 	1 	lilies 	NNS
+Sol 	4 	5 	1 	18 	0 	.
+Sol 	4 	6 	1 	1 	1 	Until 	IN
+Sol 	4 	6 	1 	2 	1 	the 	DT
+Sol 	4 	6 	1 	3 	1 	day 	NN
+Sol 	4 	6 	1 	4 	1 	break 	NN
+Sol 	4 	6 	1 	5 	0 	,
+Sol 	4 	6 	1 	6 	1 	and 	CC
+Sol 	4 	6 	1 	7 	1 	the 	DT
+Sol 	4 	6 	1 	8 	1 	shadows 	NNS
+Sol 	4 	6 	1 	9 	1 	flee 	NN
+Sol 	4 	6 	1 	10 	1 	away 	RB
+Sol 	4 	6 	1 	11 	0 	,
+Sol 	4 	6 	1 	12 	1 	I 	PRP
+Sol 	4 	6 	1 	13 	1 	will 	MD
+Sol 	4 	6 	1 	14 	1 	get 	VB
+Sol 	4 	6 	1 	15 	1 	me 	PRP
+Sol 	4 	6 	1 	16 	1 	to 	TO
+Sol 	4 	6 	1 	17 	1 	the 	DT
+Sol 	4 	6 	1 	18 	1 	mountain 	NN
+Sol 	4 	6 	1 	19 	1 	of 	IN
+Sol 	4 	6 	1 	20 	1 	myrrh 	NN
+Sol 	4 	6 	1 	21 	0 	,
+Sol 	4 	6 	1 	22 	1 	and 	CC
+Sol 	4 	6 	1 	23 	1 	to 	TO
+Sol 	4 	6 	1 	24 	1 	the 	DT
+Sol 	4 	6 	1 	25 	1 	hill 	NN
+Sol 	4 	6 	1 	26 	1 	of 	IN
+Sol 	4 	6 	1 	27 	1 	frankincense 	NN
+Sol 	4 	6 	1 	28 	0 	.
+Sol 	4 	7 	1 	1 	1 	Thou 	NN
+Sol 	4 	7 	1 	2 	1 	art 	NN
+Sol 	4 	7 	1 	3 	1 	all 	DT
+Sol 	4 	7 	1 	4 	1 	fair 	NN
+Sol 	4 	7 	1 	5 	0 	,
+Sol 	4 	7 	1 	6 	1 	my 	PRP$
+Sol 	4 	7 	1 	7 	1 	love 	NN
+Sol 	4 	7 	1 	8 	0 	;
+Sol 	4 	7 	1 	9 	1 	there 	RB
+Sol 	4 	7 	1 	10 	1 	is 	VBZ
+Sol 	4 	7 	1 	11 	1 	no 	DT
+Sol 	4 	7 	1 	12 	1 	spot 	NN
+Sol 	4 	7 	1 	13 	1 	in 	IN
+Sol 	4 	7 	1 	14 	1 	thee 	NN
+Sol 	4 	7 	1 	15 	0 	.
+Sol 	4 	8 	1 	1 	1 	Come 	VB
+Sol 	4 	8 	1 	2 	1 	with 	IN
+Sol 	4 	8 	1 	3 	1 	me 	PRP
+Sol 	4 	8 	1 	4 	1 	from 	IN
+Sol 	4 	8 	1 	5 	1 	Lebanon 	NNP
+Sol 	4 	8 	1 	6 	0 	,
+Sol 	4 	8 	1 	7 	1 	my 	PRP$
+Sol 	4 	8 	1 	8 	1 	spouse 	NN
+Sol 	4 	8 	1 	9 	0 	,
+Sol 	4 	8 	1 	10 	1 	with 	IN
+Sol 	4 	8 	1 	11 	1 	me 	PRP
+Sol 	4 	8 	1 	12 	1 	from 	IN
+Sol 	4 	8 	1 	13 	1 	Lebanon 	NNP
+Sol 	4 	8 	1 	14 	0 	:
+Sol 	4 	8 	1 	15 	1 	look 	NN
+Sol 	4 	8 	1 	16 	1 	from 	IN
+Sol 	4 	8 	1 	17 	1 	the 	DT
+Sol 	4 	8 	1 	18 	1 	top 	NN
+Sol 	4 	8 	1 	19 	1 	of 	IN
+Sol 	4 	8 	1 	20 	1 	Amana 	NNP
+Sol 	4 	8 	1 	21 	0 	,
+Sol 	4 	8 	1 	22 	1 	from 	IN
+Sol 	4 	8 	1 	23 	1 	the 	DT
+Sol 	4 	8 	1 	24 	1 	top 	NN
+Sol 	4 	8 	1 	25 	1 	of 	IN
+Sol 	4 	8 	1 	26 	1 	Shenir 	NN
+Sol 	4 	8 	1 	27 	1 	and 	CC
+Sol 	4 	8 	1 	28 	1 	Hermon 	NN
+Sol 	4 	8 	1 	29 	0 	,
+Sol 	4 	8 	1 	30 	1 	from 	IN
+Sol 	4 	8 	1 	31 	1 	the 	DT
+Sol 	4 	8 	1 	32 	1 	lions 	NNS
+Sol 	4 	8 	1 	33 	0 	'
+Sol 	4 	8 	1 	34 	1 	dens 	NNS
+Sol 	4 	8 	1 	35 	0 	,
+Sol 	4 	8 	1 	36 	1 	from 	IN
+Sol 	4 	8 	1 	37 	1 	the 	DT
+Sol 	4 	8 	1 	38 	1 	mountains 	NNS
+Sol 	4 	8 	1 	39 	1 	of 	IN
+Sol 	4 	8 	1 	40 	1 	the 	DT
+Sol 	4 	8 	1 	41 	1 	leopards 	NNS
+Sol 	4 	8 	1 	42 	0 	.
+Sol 	4 	9 	1 	1 	1 	Thou 	NN
+Sol 	4 	9 	1 	2 	1 	hast 	NN
+Sol 	4 	9 	1 	3 	1 	ravished 	VBN
+Sol 	4 	9 	1 	4 	1 	my 	PRP$
+Sol 	4 	9 	1 	5 	1 	heart 	NN
+Sol 	4 	9 	1 	6 	0 	,
+Sol 	4 	9 	1 	7 	1 	my 	PRP$
+Sol 	4 	9 	1 	8 	1 	sister 	NN
+Sol 	4 	9 	1 	9 	0 	,
+Sol 	4 	9 	1 	10 	1 	my 	PRP$
+Sol 	4 	9 	1 	11 	1 	spouse 	NN
+Sol 	4 	9 	1 	12 	0 	;
+Sol 	4 	9 	1 	13 	1 	thou 	NN
+Sol 	4 	9 	1 	14 	1 	hast 	NN
+Sol 	4 	9 	1 	15 	1 	ravished 	VBN
+Sol 	4 	9 	1 	16 	1 	my 	PRP$
+Sol 	4 	9 	1 	17 	1 	heart 	NN
+Sol 	4 	9 	1 	18 	1 	with 	IN
+Sol 	4 	9 	1 	19 	1 	one 	CD
+Sol 	4 	9 	1 	20 	1 	of 	IN
+Sol 	4 	9 	1 	21 	1 	thine 	NN
+Sol 	4 	9 	1 	22 	1 	eyes 	NNS
+Sol 	4 	9 	1 	23 	0 	,
+Sol 	4 	9 	1 	24 	1 	with 	IN
+Sol 	4 	9 	1 	25 	1 	one 	CD
+Sol 	4 	9 	1 	26 	1 	chain 	NN
+Sol 	4 	9 	1 	27 	1 	of 	IN
+Sol 	4 	9 	1 	28 	1 	thy 	NN
+Sol 	4 	9 	1 	29 	1 	neck 	NN
+Sol 	4 	9 	1 	30 	0 	.
+Sol 	4 	10 	1 	1 	1 	How 	WRB
+Sol 	4 	10 	1 	2 	1 	fair 	NN
+Sol 	4 	10 	1 	3 	1 	is 	VBZ
+Sol 	4 	10 	1 	4 	1 	thy 	NN
+Sol 	4 	10 	1 	5 	1 	love 	NN
+Sol 	4 	10 	1 	6 	0 	,
+Sol 	4 	10 	1 	7 	1 	my 	PRP$
+Sol 	4 	10 	1 	8 	1 	sister 	NN
+Sol 	4 	10 	1 	9 	0 	,
+Sol 	4 	10 	1 	10 	1 	my 	PRP$
+Sol 	4 	10 	1 	11 	1 	spouse 	NN
+Sol 	4 	10 	1 	12 	0 	!
+Sol 	4 	10 	2 	1 	1 	how 	WRB
+Sol 	4 	10 	2 	2 	1 	much 	JJ
+Sol 	4 	10 	2 	3 	1 	better 	RBR
+Sol 	4 	10 	2 	4 	1 	is 	VBZ
+Sol 	4 	10 	2 	5 	1 	thy 	NN
+Sol 	4 	10 	2 	6 	1 	love 	NN
+Sol 	4 	10 	2 	7 	1 	than 	IN
+Sol 	4 	10 	2 	8 	1 	wine 	NN
+Sol 	4 	10 	2 	9 	0 	!
+Sol 	4 	10 	3 	1 	1 	and 	CC
+Sol 	4 	10 	3 	2 	1 	the 	DT
+Sol 	4 	10 	3 	3 	1 	smell 	NN
+Sol 	4 	10 	3 	4 	1 	of 	IN
+Sol 	4 	10 	3 	5 	1 	thine 	NN
+Sol 	4 	10 	3 	6 	1 	ointments 	NNS
+Sol 	4 	10 	3 	7 	1 	than 	IN
+Sol 	4 	10 	3 	8 	1 	all 	DT
+Sol 	4 	10 	3 	9 	1 	spices 	NNS
+Sol 	4 	10 	3 	10 	0 	!
+Sol 	4 	11 	1 	1 	1 	Thy 	NN
+Sol 	4 	11 	1 	2 	1 	lips 	NNS
+Sol 	4 	11 	1 	3 	0 	,
+Sol 	4 	11 	1 	4 	1 	O 	NN
+Sol 	4 	11 	1 	5 	1 	my 	PRP$
+Sol 	4 	11 	1 	6 	1 	spouse 	NN
+Sol 	4 	11 	1 	7 	0 	,
+Sol 	4 	11 	1 	8 	1 	drop 	NN
+Sol 	4 	11 	1 	9 	1 	as 	IN
+Sol 	4 	11 	1 	10 	1 	the 	DT
+Sol 	4 	11 	1 	11 	1 	honeycomb 	NN
+Sol 	4 	11 	1 	12 	0 	:
+Sol 	4 	11 	1 	13 	1 	honey 	NN
+Sol 	4 	11 	1 	14 	1 	and 	CC
+Sol 	4 	11 	1 	15 	1 	milk 	NN
+Sol 	4 	11 	1 	16 	1 	are 	VBP
+Sol 	4 	11 	1 	17 	1 	under 	IN
+Sol 	4 	11 	1 	18 	1 	thy 	NN
+Sol 	4 	11 	1 	19 	1 	tongue 	NN
+Sol 	4 	11 	1 	20 	0 	;
+Sol 	4 	11 	1 	21 	1 	and 	CC
+Sol 	4 	11 	1 	22 	1 	the 	DT
+Sol 	4 	11 	1 	23 	1 	smell 	NN
+Sol 	4 	11 	1 	24 	1 	of 	IN
+Sol 	4 	11 	1 	25 	1 	thy 	NN
+Sol 	4 	11 	1 	26 	1 	garments 	NNS
+Sol 	4 	11 	1 	27 	1 	is 	VBZ
+Sol 	4 	11 	1 	28 	1 	like 	IN
+Sol 	4 	11 	1 	29 	1 	the 	DT
+Sol 	4 	11 	1 	30 	1 	smell 	NN
+Sol 	4 	11 	1 	31 	1 	of 	IN
+Sol 	4 	11 	1 	32 	1 	Lebanon 	NNP
+Sol 	4 	11 	1 	33 	0 	.
+Sol 	4 	12 	1 	1 	1 	A 	DT
+Sol 	4 	12 	1 	2 	1 	garden 	NN
+Sol 	4 	12 	1 	3 	1 	inclosed 	VBN
+Sol 	4 	12 	1 	4 	1 	is 	VBZ
+Sol 	4 	12 	1 	5 	1 	my 	PRP$
+Sol 	4 	12 	1 	6 	1 	sister 	NN
+Sol 	4 	12 	1 	7 	0 	,
+Sol 	4 	12 	1 	8 	1 	my 	PRP$
+Sol 	4 	12 	1 	9 	1 	spouse 	NN
+Sol 	4 	12 	1 	10 	0 	;
+Sol 	4 	12 	1 	11 	1 	a 	DT
+Sol 	4 	12 	1 	12 	1 	spring 	NN
+Sol 	4 	12 	1 	13 	1 	shut 	NN
+Sol 	4 	12 	1 	14 	1 	up 	RB
+Sol 	4 	12 	1 	15 	0 	,
+Sol 	4 	12 	1 	16 	1 	a 	DT
+Sol 	4 	12 	1 	17 	1 	fountain 	NN
+Sol 	4 	12 	1 	18 	1 	sealed 	VBN
+Sol 	4 	12 	1 	19 	0 	.
+Sol 	4 	13 	1 	1 	1 	Thy 	NN
+Sol 	4 	13 	1 	2 	1 	plants 	NNS
+Sol 	4 	13 	1 	3 	1 	are 	VBP
+Sol 	4 	13 	1 	4 	1 	an 	DT
+Sol 	4 	13 	1 	5 	1 	orchard 	NN
+Sol 	4 	13 	1 	6 	1 	of 	IN
+Sol 	4 	13 	1 	7 	1 	pomegranates 	NNS
+Sol 	4 	13 	1 	8 	0 	,
+Sol 	4 	13 	1 	9 	1 	with 	IN
+Sol 	4 	13 	1 	10 	1 	pleasant 	NN
+Sol 	4 	13 	1 	11 	1 	fruits 	NNS
+Sol 	4 	13 	1 	12 	0 	;
+Sol 	4 	13 	1 	13 	1 	camphire 	NN
+Sol 	4 	13 	1 	14 	0 	,
+Sol 	4 	13 	1 	15 	1 	with 	IN
+Sol 	4 	13 	1 	16 	1 	spikenard 	NN
+Sol 	4 	13 	1 	17 	0 	,
+Sol 	4 	14 	1 	1 	1 	pikenard 	NN
+Sol 	4 	14 	1 	2 	1 	and 	CC
+Sol 	4 	14 	1 	3 	1 	saffron 	NN
+Sol 	4 	14 	1 	4 	0 	;
+Sol 	4 	14 	1 	5 	1 	calamus 	NN
+Sol 	4 	14 	1 	6 	1 	and 	CC
+Sol 	4 	14 	1 	7 	1 	cinnamon 	NN
+Sol 	4 	14 	1 	8 	0 	,
+Sol 	4 	14 	1 	9 	1 	with 	IN
+Sol 	4 	14 	1 	10 	1 	all 	DT
+Sol 	4 	14 	1 	11 	1 	trees 	NNS
+Sol 	4 	14 	1 	12 	1 	of 	IN
+Sol 	4 	14 	1 	13 	1 	frankincense 	NN
+Sol 	4 	14 	1 	14 	0 	;
+Sol 	4 	14 	1 	15 	1 	myrrh 	NN
+Sol 	4 	14 	1 	16 	1 	and 	CC
+Sol 	4 	14 	1 	17 	1 	aloes 	NNS
+Sol 	4 	14 	1 	18 	0 	,
+Sol 	4 	14 	1 	19 	1 	with 	IN
+Sol 	4 	14 	1 	20 	1 	all 	DT
+Sol 	4 	14 	1 	21 	1 	the 	DT
+Sol 	4 	14 	1 	22 	1 	chief 	NN
+Sol 	4 	14 	1 	23 	1 	spices 	NNS
+Sol 	4 	14 	1 	24 	0 	:
+Sol 	4 	15 	1 	1 	1 	A 	DT
+Sol 	4 	15 	1 	2 	1 	fountain 	NN
+Sol 	4 	15 	1 	3 	1 	of 	IN
+Sol 	4 	15 	1 	4 	1 	gardens 	NNS
+Sol 	4 	15 	1 	5 	0 	,
+Sol 	4 	15 	1 	6 	1 	a 	DT
+Sol 	4 	15 	1 	7 	1 	well 	RB
+Sol 	4 	15 	1 	8 	1 	of 	IN
+Sol 	4 	15 	1 	9 	1 	living 	NN
+Sol 	4 	15 	1 	10 	1 	waters 	NNS
+Sol 	4 	15 	1 	11 	0 	,
+Sol 	4 	15 	1 	12 	1 	and 	CC
+Sol 	4 	15 	1 	13 	1 	streams 	NNS
+Sol 	4 	15 	1 	14 	1 	from 	IN
+Sol 	4 	15 	1 	15 	1 	Lebanon 	NNP
+Sol 	4 	15 	1 	16 	0 	.
+Sol 	4 	16 	1 	1 	1 	Awake 	VB
+Sol 	4 	16 	1 	2 	0 	,
+Sol 	4 	16 	1 	3 	1 	O 	NN
+Sol 	4 	16 	1 	4 	1 	north 	NN
+Sol 	4 	16 	1 	5 	1 	wind 	NN
+Sol 	4 	16 	1 	6 	0 	;
+Sol 	4 	16 	1 	7 	1 	and 	CC
+Sol 	4 	16 	1 	8 	1 	come 	VB
+Sol 	4 	16 	1 	9 	0 	,
+Sol 	4 	16 	1 	10 	1 	thou 	NN
+Sol 	4 	16 	1 	11 	1 	south 	NN
+Sol 	4 	16 	1 	12 	0 	;
+Sol 	4 	16 	1 	13 	1 	blow 	NN
+Sol 	4 	16 	1 	14 	1 	upon 	IN
+Sol 	4 	16 	1 	15 	1 	my 	PRP$
+Sol 	4 	16 	1 	16 	1 	garden 	NN
+Sol 	4 	16 	1 	17 	0 	,
+Sol 	4 	16 	1 	18 	1 	that 	IN
+Sol 	4 	16 	1 	19 	1 	the 	DT
+Sol 	4 	16 	1 	20 	1 	spices 	NNS
+Sol 	4 	16 	1 	21 	1 	thereof 	NN
+Sol 	4 	16 	1 	22 	1 	may 	MD
+Sol 	4 	16 	1 	23 	1 	flow 	NN
+Sol 	4 	16 	1 	24 	1 	out 	IN
+Sol 	4 	16 	1 	25 	0 	.
+Sol 	4 	16 	2 	1 	1 	Let 	VB
+Sol 	4 	16 	2 	2 	1 	my 	PRP$
+Sol 	4 	16 	2 	3 	1 	beloved 	VBN
+Sol 	4 	16 	2 	4 	1 	come 	VB
+Sol 	4 	16 	2 	5 	1 	into 	IN
+Sol 	4 	16 	2 	6 	1 	his 	PRP$
+Sol 	4 	16 	2 	7 	1 	garden 	NN
+Sol 	4 	16 	2 	8 	0 	,
+Sol 	4 	16 	2 	9 	1 	and 	CC
+Sol 	4 	16 	2 	10 	1 	eat 	NN
+Sol 	4 	16 	2 	11 	1 	his 	PRP$
+Sol 	4 	16 	2 	12 	1 	pleasant 	NN
+Sol 	4 	16 	2 	13 	1 	fruits 	NNS
+Sol 	4 	16 	2 	14 	0 	.
+Sol 	5 	1 	1 	1 	1 	I 	PRP
+Sol 	5 	1 	1 	2 	1 	am 	VBP
+Sol 	5 	1 	1 	3 	1 	come 	VB
+Sol 	5 	1 	1 	4 	1 	into 	IN
+Sol 	5 	1 	1 	5 	1 	my 	PRP$
+Sol 	5 	1 	1 	6 	1 	garden 	NN
+Sol 	5 	1 	1 	7 	0 	,
+Sol 	5 	1 	1 	8 	1 	my 	PRP$
+Sol 	5 	1 	1 	9 	1 	sister 	NN
+Sol 	5 	1 	1 	10 	0 	,
+Sol 	5 	1 	1 	11 	1 	my 	PRP$
+Sol 	5 	1 	1 	12 	1 	spouse 	NN
+Sol 	5 	1 	1 	13 	0 	:
+Sol 	5 	1 	1 	14 	1 	I 	PRP
+Sol 	5 	1 	1 	15 	1 	have 	VB
+Sol 	5 	1 	1 	16 	1 	gathered 	VBN
+Sol 	5 	1 	1 	17 	1 	my 	PRP$
+Sol 	5 	1 	1 	18 	1 	myrrh 	NN
+Sol 	5 	1 	1 	19 	1 	with 	IN
+Sol 	5 	1 	1 	20 	1 	my 	PRP$
+Sol 	5 	1 	1 	21 	1 	spice 	NN
+Sol 	5 	1 	1 	22 	0 	;
+Sol 	5 	1 	1 	23 	1 	I 	PRP
+Sol 	5 	1 	1 	24 	1 	have 	VB
+Sol 	5 	1 	1 	25 	1 	eaten 	VB
+Sol 	5 	1 	1 	26 	1 	my 	PRP$
+Sol 	5 	1 	1 	27 	1 	honeycomb 	NN
+Sol 	5 	1 	1 	28 	1 	with 	IN
+Sol 	5 	1 	1 	29 	1 	my 	PRP$
+Sol 	5 	1 	1 	30 	1 	honey 	NN
+Sol 	5 	1 	1 	31 	0 	;
+Sol 	5 	1 	1 	32 	1 	I 	PRP
+Sol 	5 	1 	1 	33 	1 	have 	VB
+Sol 	5 	1 	1 	34 	1 	drunk 	NN
+Sol 	5 	1 	1 	35 	1 	my 	PRP$
+Sol 	5 	1 	1 	36 	1 	wine 	NN
+Sol 	5 	1 	1 	37 	1 	with 	IN
+Sol 	5 	1 	1 	38 	1 	my 	PRP$
+Sol 	5 	1 	1 	39 	1 	milk 	NN
+Sol 	5 	1 	1 	40 	0 	:
+Sol 	5 	1 	1 	41 	1 	eat 	NN
+Sol 	5 	1 	1 	42 	0 	,
+Sol 	5 	1 	1 	43 	1 	O 	NN
+Sol 	5 	1 	1 	44 	1 	friends 	NNS
+Sol 	5 	1 	1 	45 	0 	;
+Sol 	5 	1 	1 	46 	1 	drink 	NN
+Sol 	5 	1 	1 	47 	0 	,
+Sol 	5 	1 	1 	48 	1 	yea 	NN
+Sol 	5 	1 	1 	49 	0 	,
+Sol 	5 	1 	1 	50 	1 	drink 	NN
+Sol 	5 	1 	1 	51 	1 	abundantly 	RB
+Sol 	5 	1 	1 	52 	0 	,
+Sol 	5 	1 	1 	53 	1 	O 	NN
+Sol 	5 	1 	1 	54 	1 	beloved 	VBN
+Sol 	5 	1 	1 	55 	0 	.
+Sol 	5 	2 	1 	1 	1 	I 	PRP
+Sol 	5 	2 	1 	2 	1 	sleep 	NN
+Sol 	5 	2 	1 	3 	0 	,
+Sol 	5 	2 	1 	4 	1 	but 	CC
+Sol 	5 	2 	1 	5 	1 	my 	PRP$
+Sol 	5 	2 	1 	6 	1 	heart 	NN
+Sol 	5 	2 	1 	7 	1 	waketh 	NNS
+Sol 	5 	2 	1 	8 	0 	:
+Sol 	5 	2 	1 	9 	1 	it 	PRP
+Sol 	5 	2 	1 	10 	1 	is 	VBZ
+Sol 	5 	2 	1 	11 	1 	the 	DT
+Sol 	5 	2 	1 	12 	1 	voice 	NN
+Sol 	5 	2 	1 	13 	1 	of 	IN
+Sol 	5 	2 	1 	14 	1 	my 	PRP$
+Sol 	5 	2 	1 	15 	1 	beloved 	VBN
+Sol 	5 	2 	1 	16 	1 	that 	IN
+Sol 	5 	2 	1 	17 	1 	knocketh 	NNS
+Sol 	5 	2 	1 	18 	0 	,
+Sol 	5 	2 	1 	19 	1 	saying 	VBG
+Sol 	5 	2 	1 	20 	0 	,
+Sol 	5 	2 	1 	21 	1 	Open 	VB
+Sol 	5 	2 	1 	22 	1 	to 	TO
+Sol 	5 	2 	1 	23 	1 	me 	PRP
+Sol 	5 	2 	1 	24 	0 	,
+Sol 	5 	2 	1 	25 	1 	my 	PRP$
+Sol 	5 	2 	1 	26 	1 	sister 	NN
+Sol 	5 	2 	1 	27 	0 	,
+Sol 	5 	2 	1 	28 	1 	my 	PRP$
+Sol 	5 	2 	1 	29 	1 	love 	NN
+Sol 	5 	2 	1 	30 	0 	,
+Sol 	5 	2 	1 	31 	1 	my 	PRP$
+Sol 	5 	2 	1 	32 	1 	dove 	NN
+Sol 	5 	2 	1 	33 	0 	,
+Sol 	5 	2 	1 	34 	1 	my 	PRP$
+Sol 	5 	2 	1 	35 	1 	undefiled 	JJ
+Sol 	5 	2 	1 	36 	0 	:
+Sol 	5 	2 	1 	37 	1 	for 	IN
+Sol 	5 	2 	1 	38 	1 	my 	PRP$
+Sol 	5 	2 	1 	39 	1 	head 	NN
+Sol 	5 	2 	1 	40 	1 	is 	VBZ
+Sol 	5 	2 	1 	41 	1 	filled 	VBN
+Sol 	5 	2 	1 	42 	1 	with 	IN
+Sol 	5 	2 	1 	43 	1 	dew 	NN
+Sol 	5 	2 	1 	44 	0 	,
+Sol 	5 	2 	1 	45 	1 	and 	CC
+Sol 	5 	2 	1 	46 	1 	my 	PRP$
+Sol 	5 	2 	1 	47 	1 	locks 	NNS
+Sol 	5 	2 	1 	48 	1 	with 	IN
+Sol 	5 	2 	1 	49 	1 	the 	DT
+Sol 	5 	2 	1 	50 	1 	drops 	NNS
+Sol 	5 	2 	1 	51 	1 	of 	IN
+Sol 	5 	2 	1 	52 	1 	the 	DT
+Sol 	5 	2 	1 	53 	1 	night 	NN
+Sol 	5 	2 	1 	54 	0 	.
+Sol 	5 	3 	1 	1 	1 	I 	PRP
+Sol 	5 	3 	1 	2 	1 	have 	VB
+Sol 	5 	3 	1 	3 	1 	put 	NN
+Sol 	5 	3 	1 	4 	1 	off 	IN
+Sol 	5 	3 	1 	5 	1 	my 	PRP$
+Sol 	5 	3 	1 	6 	1 	coat 	NN
+Sol 	5 	3 	1 	7 	0 	;
+Sol 	5 	3 	1 	8 	1 	how 	WRB
+Sol 	5 	3 	1 	9 	1 	shall 	MD
+Sol 	5 	3 	1 	10 	1 	I 	PRP
+Sol 	5 	3 	1 	11 	1 	put 	NN
+Sol 	5 	3 	1 	12 	1 	it 	PRP
+Sol 	5 	3 	1 	13 	1 	on 	IN
+Sol 	5 	3 	1 	14 	0 	?
+Sol 	5 	3 	2 	1 	1 	I 	PRP
+Sol 	5 	3 	2 	2 	1 	have 	VB
+Sol 	5 	3 	2 	3 	1 	washed 	VBN
+Sol 	5 	3 	2 	4 	1 	my 	PRP$
+Sol 	5 	3 	2 	5 	1 	feet 	NNS
+Sol 	5 	3 	2 	6 	0 	;
+Sol 	5 	3 	2 	7 	1 	how 	WRB
+Sol 	5 	3 	2 	8 	1 	shall 	MD
+Sol 	5 	3 	2 	9 	1 	I 	PRP
+Sol 	5 	3 	2 	10 	1 	defile 	NN
+Sol 	5 	3 	2 	11 	1 	them 	PRP
+Sol 	5 	3 	2 	12 	0 	?
+Sol 	5 	4 	1 	1 	1 	My 	PRP$
+Sol 	5 	4 	1 	2 	1 	beloved 	VBN
+Sol 	5 	4 	1 	3 	1 	put 	NN
+Sol 	5 	4 	1 	4 	1 	in 	IN
+Sol 	5 	4 	1 	5 	1 	his 	PRP$
+Sol 	5 	4 	1 	6 	1 	hand 	NN
+Sol 	5 	4 	1 	7 	1 	by 	IN
+Sol 	5 	4 	1 	8 	1 	the 	DT
+Sol 	5 	4 	1 	9 	1 	hole 	NN
+Sol 	5 	4 	1 	10 	1 	of 	IN
+Sol 	5 	4 	1 	11 	1 	the 	DT
+Sol 	5 	4 	1 	12 	1 	door 	NN
+Sol 	5 	4 	1 	13 	0 	,
+Sol 	5 	4 	1 	14 	1 	and 	CC
+Sol 	5 	4 	1 	15 	1 	my 	PRP$
+Sol 	5 	4 	1 	16 	1 	bowels 	NNS
+Sol 	5 	4 	1 	17 	1 	were 	VBD
+Sol 	5 	4 	1 	18 	1 	moved 	VBN
+Sol 	5 	4 	1 	19 	1 	for 	IN
+Sol 	5 	4 	1 	20 	1 	him 	PRP
+Sol 	5 	4 	1 	21 	0 	.
+Sol 	5 	5 	1 	1 	1 	I 	PRP
+Sol 	5 	5 	1 	2 	1 	rose 	VBD
+Sol 	5 	5 	1 	3 	1 	up 	RB
+Sol 	5 	5 	1 	4 	1 	to 	TO
+Sol 	5 	5 	1 	5 	1 	open 	JJ
+Sol 	5 	5 	1 	6 	1 	to 	TO
+Sol 	5 	5 	1 	7 	1 	my 	PRP$
+Sol 	5 	5 	1 	8 	1 	beloved 	VBN
+Sol 	5 	5 	1 	9 	0 	;
+Sol 	5 	5 	1 	10 	1 	and 	CC
+Sol 	5 	5 	1 	11 	1 	my 	PRP$
+Sol 	5 	5 	1 	12 	1 	hands 	NNS
+Sol 	5 	5 	1 	13 	1 	dropped 	VBD
+Sol 	5 	5 	1 	14 	1 	with 	IN
+Sol 	5 	5 	1 	15 	1 	myrrh 	NN
+Sol 	5 	5 	1 	16 	0 	,
+Sol 	5 	5 	1 	17 	1 	and 	CC
+Sol 	5 	5 	1 	18 	1 	my 	PRP$
+Sol 	5 	5 	1 	19 	1 	fingers 	NNS
+Sol 	5 	5 	1 	20 	1 	with 	IN
+Sol 	5 	5 	1 	21 	1 	sweet 	NN
+Sol 	5 	5 	1 	22 	1 	smelling 	VBG
+Sol 	5 	5 	1 	23 	1 	myrrh 	NN
+Sol 	5 	5 	1 	24 	0 	,
+Sol 	5 	5 	1 	25 	1 	upon 	IN
+Sol 	5 	5 	1 	26 	1 	the 	DT
+Sol 	5 	5 	1 	27 	1 	handles 	NNS
+Sol 	5 	5 	1 	28 	1 	of 	IN
+Sol 	5 	5 	1 	29 	1 	the 	DT
+Sol 	5 	5 	1 	30 	1 	lock 	NN
+Sol 	5 	5 	1 	31 	0 	.
+Sol 	5 	6 	1 	1 	1 	I 	PRP
+Sol 	5 	6 	1 	2 	1 	opened 	VBN
+Sol 	5 	6 	1 	3 	1 	to 	TO
+Sol 	5 	6 	1 	4 	1 	my 	PRP$
+Sol 	5 	6 	1 	5 	1 	beloved 	VBN
+Sol 	5 	6 	1 	6 	0 	;
+Sol 	5 	6 	1 	7 	1 	but 	CC
+Sol 	5 	6 	1 	8 	1 	my 	PRP$
+Sol 	5 	6 	1 	9 	1 	beloved 	VBN
+Sol 	5 	6 	1 	10 	1 	had 	VBD
+Sol 	5 	6 	1 	11 	1 	withdrawn 	NN
+Sol 	5 	6 	1 	12 	1 	himself 	PRP
+Sol 	5 	6 	1 	13 	0 	,
+Sol 	5 	6 	1 	14 	1 	and 	CC
+Sol 	5 	6 	1 	15 	1 	was 	VBD
+Sol 	5 	6 	1 	16 	1 	gone 	VBN
+Sol 	5 	6 	1 	17 	0 	:
+Sol 	5 	6 	1 	18 	1 	my 	PRP$
+Sol 	5 	6 	1 	19 	1 	soul 	NN
+Sol 	5 	6 	1 	20 	1 	failed 	VBD
+Sol 	5 	6 	1 	21 	1 	when 	WRB
+Sol 	5 	6 	1 	22 	1 	he 	PRP
+Sol 	5 	6 	1 	23 	1 	spake 	NN
+Sol 	5 	6 	1 	24 	0 	:
+Sol 	5 	6 	1 	25 	1 	I 	PRP
+Sol 	5 	6 	1 	26 	1 	sought 	NN
+Sol 	5 	6 	1 	27 	1 	him 	PRP
+Sol 	5 	6 	1 	28 	0 	,
+Sol 	5 	6 	1 	29 	1 	but 	CC
+Sol 	5 	6 	1 	30 	1 	I 	PRP
+Sol 	5 	6 	1 	31 	1 	could 	MD
+Sol 	5 	6 	1 	32 	1 	not 	RB
+Sol 	5 	6 	1 	33 	1 	find 	VB
+Sol 	5 	6 	1 	34 	1 	him 	PRP
+Sol 	5 	6 	1 	35 	0 	;
+Sol 	5 	6 	1 	36 	1 	I 	PRP
+Sol 	5 	6 	1 	37 	1 	called 	VBN
+Sol 	5 	6 	1 	38 	1 	him 	PRP
+Sol 	5 	6 	1 	39 	0 	,
+Sol 	5 	6 	1 	40 	1 	but 	CC
+Sol 	5 	6 	1 	41 	1 	he 	PRP
+Sol 	5 	6 	1 	42 	1 	gave 	VBD
+Sol 	5 	6 	1 	43 	1 	me 	PRP
+Sol 	5 	6 	1 	44 	1 	no 	DT
+Sol 	5 	6 	1 	45 	1 	answer 	NN
+Sol 	5 	6 	1 	46 	0 	.
+Sol 	5 	7 	1 	1 	1 	The 	DT
+Sol 	5 	7 	1 	2 	1 	watchmen 	NNS
+Sol 	5 	7 	1 	3 	1 	that 	IN
+Sol 	5 	7 	1 	4 	1 	went 	VBD
+Sol 	5 	7 	1 	5 	1 	about 	IN
+Sol 	5 	7 	1 	6 	1 	the 	DT
+Sol 	5 	7 	1 	7 	1 	city 	NN
+Sol 	5 	7 	1 	8 	1 	found 	NN
+Sol 	5 	7 	1 	9 	1 	me 	PRP
+Sol 	5 	7 	1 	10 	0 	,
+Sol 	5 	7 	1 	11 	1 	they 	PRP
+Sol 	5 	7 	1 	12 	1 	smote 	NN
+Sol 	5 	7 	1 	13 	1 	me 	PRP
+Sol 	5 	7 	1 	14 	0 	,
+Sol 	5 	7 	1 	15 	1 	they 	PRP
+Sol 	5 	7 	1 	16 	1 	wounded 	VBD
+Sol 	5 	7 	1 	17 	1 	me 	PRP
+Sol 	5 	7 	1 	18 	0 	;
+Sol 	5 	7 	1 	19 	1 	the 	DT
+Sol 	5 	7 	1 	20 	1 	keepers 	NNS
+Sol 	5 	7 	1 	21 	1 	of 	IN
+Sol 	5 	7 	1 	22 	1 	the 	DT
+Sol 	5 	7 	1 	23 	1 	walls 	NNS
+Sol 	5 	7 	1 	24 	1 	took 	VBD
+Sol 	5 	7 	1 	25 	1 	away 	RB
+Sol 	5 	7 	1 	26 	1 	my 	PRP$
+Sol 	5 	7 	1 	27 	1 	veil 	NN
+Sol 	5 	7 	1 	28 	1 	from 	IN
+Sol 	5 	7 	1 	29 	1 	me 	PRP
+Sol 	5 	7 	1 	30 	0 	.
+Sol 	5 	8 	1 	1 	1 	I 	PRP
+Sol 	5 	8 	1 	2 	1 	charge 	NN
+Sol 	5 	8 	1 	3 	1 	you 	PRP
+Sol 	5 	8 	1 	4 	0 	,
+Sol 	5 	8 	1 	5 	1 	O 	NN
+Sol 	5 	8 	1 	6 	1 	daughters 	NNS
+Sol 	5 	8 	1 	7 	1 	of 	IN
+Sol 	5 	8 	1 	8 	1 	Jerusalem 	NN
+Sol 	5 	8 	1 	9 	0 	,
+Sol 	5 	8 	1 	10 	1 	if 	IN
+Sol 	5 	8 	1 	11 	1 	ye 	NN
+Sol 	5 	8 	1 	12 	1 	find 	VB
+Sol 	5 	8 	1 	13 	1 	my 	PRP$
+Sol 	5 	8 	1 	14 	1 	beloved 	VBN
+Sol 	5 	8 	1 	15 	0 	,
+Sol 	5 	8 	1 	16 	1 	that 	IN
+Sol 	5 	8 	1 	17 	1 	ye 	NN
+Sol 	5 	8 	1 	18 	1 	tell 	NN
+Sol 	5 	8 	1 	19 	1 	him 	PRP
+Sol 	5 	8 	1 	20 	0 	,
+Sol 	5 	8 	1 	21 	1 	that 	IN
+Sol 	5 	8 	1 	22 	1 	I 	PRP
+Sol 	5 	8 	1 	23 	1 	am 	VBP
+Sol 	5 	8 	1 	24 	1 	sick 	NN
+Sol 	5 	8 	1 	25 	1 	of 	IN
+Sol 	5 	8 	1 	26 	1 	love 	NN
+Sol 	5 	8 	1 	27 	0 	.
+Sol 	5 	9 	1 	1 	1 	What 	WP
+Sol 	5 	9 	1 	2 	1 	is 	VBZ
+Sol 	5 	9 	1 	3 	1 	thy 	NN
+Sol 	5 	9 	1 	4 	1 	beloved 	VBN
+Sol 	5 	9 	1 	5 	1 	more 	RBR
+Sol 	5 	9 	1 	6 	1 	than 	IN
+Sol 	5 	9 	1 	7 	1 	another 	DT
+Sol 	5 	9 	1 	8 	1 	beloved 	VBN
+Sol 	5 	9 	1 	9 	0 	,
+Sol 	5 	9 	1 	10 	1 	O 	NN
+Sol 	5 	9 	1 	11 	1 	thou 	NN
+Sol 	5 	9 	1 	12 	1 	fairest 	NN
+Sol 	5 	9 	1 	13 	1 	among 	IN
+Sol 	5 	9 	1 	14 	1 	women 	NNS
+Sol 	5 	9 	1 	15 	0 	?
+Sol 	5 	9 	2 	1 	1 	what 	WP
+Sol 	5 	9 	2 	2 	1 	is 	VBZ
+Sol 	5 	9 	2 	3 	1 	thy 	NN
+Sol 	5 	9 	2 	4 	1 	beloved 	VBN
+Sol 	5 	9 	2 	5 	1 	more 	RBR
+Sol 	5 	9 	2 	6 	1 	than 	IN
+Sol 	5 	9 	2 	7 	1 	another 	DT
+Sol 	5 	9 	2 	8 	1 	beloved 	VBN
+Sol 	5 	9 	2 	9 	0 	,
+Sol 	5 	9 	2 	10 	1 	that 	IN
+Sol 	5 	9 	2 	11 	1 	thou 	NN
+Sol 	5 	9 	2 	12 	1 	dost 	NN
+Sol 	5 	9 	2 	13 	1 	so 	RB
+Sol 	5 	9 	2 	14 	1 	charge 	NN
+Sol 	5 	9 	2 	15 	1 	us 	PRP
+Sol 	5 	9 	2 	16 	0 	?
+Sol 	5 	10 	1 	1 	1 	My 	PRP$
+Sol 	5 	10 	1 	2 	1 	beloved 	VBN
+Sol 	5 	10 	1 	3 	1 	is 	VBZ
+Sol 	5 	10 	1 	4 	1 	white 	JJ
+Sol 	5 	10 	1 	5 	1 	and 	CC
+Sol 	5 	10 	1 	6 	1 	ruddy 	NN
+Sol 	5 	10 	1 	7 	0 	,
+Sol 	5 	10 	1 	8 	1 	the 	DT
+Sol 	5 	10 	1 	9 	1 	chiefest 	NN
+Sol 	5 	10 	1 	10 	1 	among 	IN
+Sol 	5 	10 	1 	11 	1 	ten 	NNS
+Sol 	5 	10 	1 	12 	1 	thousand 	NN
+Sol 	5 	10 	1 	13 	0 	.
+Sol 	5 	11 	1 	1 	1 	His 	PRP$
+Sol 	5 	11 	1 	2 	1 	head 	NN
+Sol 	5 	11 	1 	3 	1 	is 	VBZ
+Sol 	5 	11 	1 	4 	1 	as 	IN
+Sol 	5 	11 	1 	5 	1 	the 	DT
+Sol 	5 	11 	1 	6 	1 	most 	JJS
+Sol 	5 	11 	1 	7 	1 	fine 	NN
+Sol 	5 	11 	1 	8 	1 	gold 	NN
+Sol 	5 	11 	1 	9 	0 	,
+Sol 	5 	11 	1 	10 	1 	his 	PRP$
+Sol 	5 	11 	1 	11 	1 	locks 	NNS
+Sol 	5 	11 	1 	12 	1 	are 	VBP
+Sol 	5 	11 	1 	13 	1 	bushy 	NN
+Sol 	5 	11 	1 	14 	0 	,
+Sol 	5 	11 	1 	15 	1 	and 	CC
+Sol 	5 	11 	1 	16 	1 	black 	JJ
+Sol 	5 	11 	1 	17 	1 	as 	IN
+Sol 	5 	11 	1 	18 	1 	a 	DT
+Sol 	5 	11 	1 	19 	1 	raven 	NN
+Sol 	5 	11 	1 	20 	0 	.
+Sol 	5 	12 	1 	1 	1 	His 	PRP$
+Sol 	5 	12 	1 	2 	1 	eyes 	NNS
+Sol 	5 	12 	1 	3 	1 	are 	VBP
+Sol 	5 	12 	1 	4 	1 	as 	IN
+Sol 	5 	12 	1 	5 	1 	the 	DT
+Sol 	5 	12 	1 	6 	1 	eyes 	NNS
+Sol 	5 	12 	1 	7 	1 	of 	IN
+Sol 	5 	12 	1 	8 	1 	doves 	NNS
+Sol 	5 	12 	1 	9 	1 	by 	IN
+Sol 	5 	12 	1 	10 	1 	the 	DT
+Sol 	5 	12 	1 	11 	1 	rivers 	NNS
+Sol 	5 	12 	1 	12 	1 	of 	IN
+Sol 	5 	12 	1 	13 	1 	waters 	NNS
+Sol 	5 	12 	1 	14 	0 	,
+Sol 	5 	12 	1 	15 	1 	washed 	VBN
+Sol 	5 	12 	1 	16 	1 	with 	IN
+Sol 	5 	12 	1 	17 	1 	milk 	NN
+Sol 	5 	12 	1 	18 	0 	,
+Sol 	5 	12 	1 	19 	1 	and 	CC
+Sol 	5 	12 	1 	20 	1 	fitly 	RB
+Sol 	5 	12 	1 	21 	1 	set 	NN
+Sol 	5 	12 	1 	22 	0 	.
+Sol 	5 	13 	1 	1 	1 	His 	PRP$
+Sol 	5 	13 	1 	2 	1 	cheeks 	NN
+Sol 	5 	13 	1 	3 	1 	are 	VBP
+Sol 	5 	13 	1 	4 	1 	as 	IN
+Sol 	5 	13 	1 	5 	1 	a 	DT
+Sol 	5 	13 	1 	6 	1 	bed 	NN
+Sol 	5 	13 	1 	7 	1 	of 	IN
+Sol 	5 	13 	1 	8 	1 	spices 	NNS
+Sol 	5 	13 	1 	9 	0 	,
+Sol 	5 	13 	1 	10 	1 	as 	IN
+Sol 	5 	13 	1 	11 	1 	sweet 	NN
+Sol 	5 	13 	1 	12 	1 	flowers 	NNS
+Sol 	5 	13 	1 	13 	0 	:
+Sol 	5 	13 	1 	14 	1 	his 	PRP$
+Sol 	5 	13 	1 	15 	1 	lips 	NNS
+Sol 	5 	13 	1 	16 	1 	like 	IN
+Sol 	5 	13 	1 	17 	1 	lilies 	NNS
+Sol 	5 	13 	1 	18 	0 	,
+Sol 	5 	13 	1 	19 	1 	dropping 	VBG
+Sol 	5 	13 	1 	20 	1 	sweet 	NN
+Sol 	5 	13 	1 	21 	1 	smelling 	VBG
+Sol 	5 	13 	1 	22 	1 	myrrh 	NN
+Sol 	5 	13 	1 	23 	0 	.
+Sol 	5 	14 	1 	1 	1 	His 	PRP$
+Sol 	5 	14 	1 	2 	1 	hands 	NNS
+Sol 	5 	14 	1 	3 	1 	are 	VBP
+Sol 	5 	14 	1 	4 	1 	as 	IN
+Sol 	5 	14 	1 	5 	1 	gold 	NN
+Sol 	5 	14 	1 	6 	1 	rings 	NNS
+Sol 	5 	14 	1 	7 	1 	set 	NN
+Sol 	5 	14 	1 	8 	1 	with 	IN
+Sol 	5 	14 	1 	9 	1 	the 	DT
+Sol 	5 	14 	1 	10 	1 	beryl 	NN
+Sol 	5 	14 	1 	11 	0 	:
+Sol 	5 	14 	1 	12 	1 	his 	PRP$
+Sol 	5 	14 	1 	13 	1 	belly 	RB
+Sol 	5 	14 	1 	14 	1 	is 	VBZ
+Sol 	5 	14 	1 	15 	1 	as 	IN
+Sol 	5 	14 	1 	16 	1 	bright 	NN
+Sol 	5 	14 	1 	17 	1 	ivory 	NN
+Sol 	5 	14 	1 	18 	1 	overlaid 	NN
+Sol 	5 	14 	1 	19 	1 	with 	IN
+Sol 	5 	14 	1 	20 	1 	sapphires 	NNS
+Sol 	5 	14 	1 	21 	0 	.
+Sol 	5 	15 	1 	1 	1 	His 	PRP$
+Sol 	5 	15 	1 	2 	1 	legs 	NNS
+Sol 	5 	15 	1 	3 	1 	are 	VBP
+Sol 	5 	15 	1 	4 	1 	as 	IN
+Sol 	5 	15 	1 	5 	1 	pillars 	NNS
+Sol 	5 	15 	1 	6 	1 	of 	IN
+Sol 	5 	15 	1 	7 	1 	marble 	NN
+Sol 	5 	15 	1 	8 	0 	,
+Sol 	5 	15 	1 	9 	1 	set 	NN
+Sol 	5 	15 	1 	10 	1 	upon 	IN
+Sol 	5 	15 	1 	11 	1 	sockets 	NNS
+Sol 	5 	15 	1 	12 	1 	of 	IN
+Sol 	5 	15 	1 	13 	1 	fine 	NN
+Sol 	5 	15 	1 	14 	1 	gold 	NN
+Sol 	5 	15 	1 	15 	0 	:
+Sol 	5 	15 	1 	16 	1 	his 	PRP$
+Sol 	5 	15 	1 	17 	1 	countenance 	NN
+Sol 	5 	15 	1 	18 	1 	is 	VBZ
+Sol 	5 	15 	1 	19 	1 	as 	IN
+Sol 	5 	15 	1 	20 	1 	Lebanon 	NNP
+Sol 	5 	15 	1 	21 	0 	,
+Sol 	5 	15 	1 	22 	1 	excellent 	NN
+Sol 	5 	15 	1 	23 	1 	as 	IN
+Sol 	5 	15 	1 	24 	1 	the 	DT
+Sol 	5 	15 	1 	25 	1 	cedars 	NNS
+Sol 	5 	15 	1 	26 	0 	.
+Sol 	5 	16 	1 	1 	1 	His 	PRP$
+Sol 	5 	16 	1 	2 	1 	mouth 	NN
+Sol 	5 	16 	1 	3 	1 	is 	VBZ
+Sol 	5 	16 	1 	4 	1 	most 	JJS
+Sol 	5 	16 	1 	5 	1 	sweet 	NN
+Sol 	5 	16 	1 	6 	0 	:
+Sol 	5 	16 	1 	7 	1 	yea 	NN
+Sol 	5 	16 	1 	8 	0 	,
+Sol 	5 	16 	1 	9 	1 	he 	PRP
+Sol 	5 	16 	1 	10 	1 	is 	VBZ
+Sol 	5 	16 	1 	11 	1 	altogether 	RB
+Sol 	5 	16 	1 	12 	1 	lovely 	RB
+Sol 	5 	16 	1 	13 	0 	.
+Sol 	5 	16 	2 	1 	1 	This 	DT
+Sol 	5 	16 	2 	2 	1 	is 	VBZ
+Sol 	5 	16 	2 	3 	1 	my 	PRP$
+Sol 	5 	16 	2 	4 	1 	beloved 	VBN
+Sol 	5 	16 	2 	5 	0 	,
+Sol 	5 	16 	2 	6 	1 	and 	CC
+Sol 	5 	16 	2 	7 	1 	this 	DT
+Sol 	5 	16 	2 	8 	1 	is 	VBZ
+Sol 	5 	16 	2 	9 	1 	my 	PRP$
+Sol 	5 	16 	2 	10 	1 	friend 	NN
+Sol 	5 	16 	2 	11 	0 	,
+Sol 	5 	16 	2 	12 	1 	O 	NN
+Sol 	5 	16 	2 	13 	1 	daughters 	NNS
+Sol 	5 	16 	2 	14 	1 	of 	IN
+Sol 	5 	16 	2 	15 	1 	Jerusalem 	NN
+Sol 	5 	16 	2 	16 	0 	.
+Sol 	6 	1 	1 	1 	1 	Whither 	PRP$
+Sol 	6 	1 	1 	2 	1 	is 	VBZ
+Sol 	6 	1 	1 	3 	1 	thy 	NN
+Sol 	6 	1 	1 	4 	1 	beloved 	VBN
+Sol 	6 	1 	1 	5 	1 	gone 	VBN
+Sol 	6 	1 	1 	6 	0 	,
+Sol 	6 	1 	1 	7 	1 	O 	NN
+Sol 	6 	1 	1 	8 	1 	thou 	NN
+Sol 	6 	1 	1 	9 	1 	fairest 	NN
+Sol 	6 	1 	1 	10 	1 	among 	IN
+Sol 	6 	1 	1 	11 	1 	women 	NNS
+Sol 	6 	1 	1 	12 	0 	?
+Sol 	6 	1 	2 	1 	1 	whither 	NN
+Sol 	6 	1 	2 	2 	1 	is 	VBZ
+Sol 	6 	1 	2 	3 	1 	thy 	NN
+Sol 	6 	1 	2 	4 	1 	beloved 	VBN
+Sol 	6 	1 	2 	5 	1 	turned 	VBD
+Sol 	6 	1 	2 	6 	1 	aside 	RB
+Sol 	6 	1 	2 	7 	0 	?
+Sol 	6 	1 	3 	1 	1 	that 	IN
+Sol 	6 	1 	3 	2 	1 	we 	PRP
+Sol 	6 	1 	3 	3 	1 	may 	MD
+Sol 	6 	1 	3 	4 	1 	seek 	NN
+Sol 	6 	1 	3 	5 	1 	him 	PRP
+Sol 	6 	1 	3 	6 	1 	with 	IN
+Sol 	6 	1 	3 	7 	1 	thee 	NN
+Sol 	6 	1 	3 	8 	0 	.
+Sol 	6 	2 	1 	1 	1 	My 	PRP$
+Sol 	6 	2 	1 	2 	1 	beloved 	VBN
+Sol 	6 	2 	1 	3 	1 	is 	VBZ
+Sol 	6 	2 	1 	4 	1 	gone 	VBN
+Sol 	6 	2 	1 	5 	1 	down 	RB
+Sol 	6 	2 	1 	6 	1 	into 	IN
+Sol 	6 	2 	1 	7 	1 	his 	PRP$
+Sol 	6 	2 	1 	8 	1 	garden 	NN
+Sol 	6 	2 	1 	9 	0 	,
+Sol 	6 	2 	1 	10 	1 	to 	TO
+Sol 	6 	2 	1 	11 	1 	the 	DT
+Sol 	6 	2 	1 	12 	1 	beds 	NNS
+Sol 	6 	2 	1 	13 	1 	of 	IN
+Sol 	6 	2 	1 	14 	1 	spices 	NNS
+Sol 	6 	2 	1 	15 	0 	,
+Sol 	6 	2 	1 	16 	1 	to 	TO
+Sol 	6 	2 	1 	17 	1 	feed 	NN
+Sol 	6 	2 	1 	18 	1 	in 	IN
+Sol 	6 	2 	1 	19 	1 	the 	DT
+Sol 	6 	2 	1 	20 	1 	gardens 	NNS
+Sol 	6 	2 	1 	21 	0 	,
+Sol 	6 	2 	1 	22 	1 	and 	CC
+Sol 	6 	2 	1 	23 	1 	to 	TO
+Sol 	6 	2 	1 	24 	1 	gather 	NN
+Sol 	6 	2 	1 	25 	1 	lilies 	NNS
+Sol 	6 	2 	1 	26 	0 	.
+Sol 	6 	3 	1 	1 	1 	I 	PRP
+Sol 	6 	3 	1 	2 	1 	am 	VBP
+Sol 	6 	3 	1 	3 	1 	my 	PRP$
+Sol 	6 	3 	1 	4 	1 	beloved 	VBN
+Sol 	6 	3 	1 	5 	0 	's
+Sol 	6 	3 	1 	6 	0 	,
+Sol 	6 	3 	1 	7 	1 	and 	CC
+Sol 	6 	3 	1 	8 	1 	my 	PRP$
+Sol 	6 	3 	1 	9 	1 	beloved 	VBN
+Sol 	6 	3 	1 	10 	1 	is 	VBZ
+Sol 	6 	3 	1 	11 	1 	mine 	NN
+Sol 	6 	3 	1 	12 	0 	:
+Sol 	6 	3 	1 	13 	1 	he 	PRP
+Sol 	6 	3 	1 	14 	1 	feedeth 	NNS
+Sol 	6 	3 	1 	15 	1 	among 	IN
+Sol 	6 	3 	1 	16 	1 	the 	DT
+Sol 	6 	3 	1 	17 	1 	lilies 	NNS
+Sol 	6 	3 	1 	18 	0 	.
+Sol 	6 	4 	1 	1 	1 	Thou 	NN
+Sol 	6 	4 	1 	2 	1 	art 	NN
+Sol 	6 	4 	1 	3 	1 	beautiful 	NN
+Sol 	6 	4 	1 	4 	0 	,
+Sol 	6 	4 	1 	5 	1 	O 	NN
+Sol 	6 	4 	1 	6 	1 	my 	PRP$
+Sol 	6 	4 	1 	7 	1 	love 	NN
+Sol 	6 	4 	1 	8 	0 	,
+Sol 	6 	4 	1 	9 	1 	as 	IN
+Sol 	6 	4 	1 	10 	1 	Tirzah 	NN
+Sol 	6 	4 	1 	11 	0 	,
+Sol 	6 	4 	1 	12 	1 	comely 	RB
+Sol 	6 	4 	1 	13 	1 	as 	IN
+Sol 	6 	4 	1 	14 	1 	Jerusalem 	NN
+Sol 	6 	4 	1 	15 	0 	,
+Sol 	6 	4 	1 	16 	1 	terrible 	JJ
+Sol 	6 	4 	1 	17 	1 	as 	IN
+Sol 	6 	4 	1 	18 	1 	an 	DT
+Sol 	6 	4 	1 	19 	1 	army 	NN
+Sol 	6 	4 	1 	20 	1 	with 	IN
+Sol 	6 	4 	1 	21 	1 	banners 	NNS
+Sol 	6 	4 	1 	22 	0 	.
+Sol 	6 	5 	1 	1 	1 	Turn 	NN
+Sol 	6 	5 	1 	2 	1 	away 	RB
+Sol 	6 	5 	1 	3 	1 	thine 	NN
+Sol 	6 	5 	1 	4 	1 	eyes 	NNS
+Sol 	6 	5 	1 	5 	1 	from 	IN
+Sol 	6 	5 	1 	6 	1 	me 	PRP
+Sol 	6 	5 	1 	7 	0 	,
+Sol 	6 	5 	1 	8 	1 	for 	IN
+Sol 	6 	5 	1 	9 	1 	they 	PRP
+Sol 	6 	5 	1 	10 	1 	have 	VB
+Sol 	6 	5 	1 	11 	1 	overcome 	NN
+Sol 	6 	5 	1 	12 	1 	me 	PRP
+Sol 	6 	5 	1 	13 	0 	:
+Sol 	6 	5 	1 	14 	1 	thy 	NN
+Sol 	6 	5 	1 	15 	1 	hair 	NN
+Sol 	6 	5 	1 	16 	1 	is 	VBZ
+Sol 	6 	5 	1 	17 	1 	as 	IN
+Sol 	6 	5 	1 	18 	1 	a 	DT
+Sol 	6 	5 	1 	19 	1 	flock 	NN
+Sol 	6 	5 	1 	20 	1 	of 	IN
+Sol 	6 	5 	1 	21 	1 	goats 	NNS
+Sol 	6 	5 	1 	22 	1 	that 	IN
+Sol 	6 	5 	1 	23 	1 	appear 	VB
+Sol 	6 	5 	1 	24 	1 	from 	IN
+Sol 	6 	5 	1 	25 	1 	Gilead 	NN
+Sol 	6 	5 	1 	26 	0 	.
+Sol 	6 	6 	1 	1 	1 	Thy 	NN
+Sol 	6 	6 	1 	2 	1 	teeth 	NNS
+Sol 	6 	6 	1 	3 	1 	are 	VBP
+Sol 	6 	6 	1 	4 	1 	as 	IN
+Sol 	6 	6 	1 	5 	1 	a 	DT
+Sol 	6 	6 	1 	6 	1 	flock 	NN
+Sol 	6 	6 	1 	7 	1 	of 	IN
+Sol 	6 	6 	1 	8 	1 	sheep 	NN
+Sol 	6 	6 	1 	9 	1 	which 	WDT
+Sol 	6 	6 	1 	10 	1 	go 	VB
+Sol 	6 	6 	1 	11 	1 	up 	RB
+Sol 	6 	6 	1 	12 	1 	from 	IN
+Sol 	6 	6 	1 	13 	1 	the 	DT
+Sol 	6 	6 	1 	14 	1 	washing 	VBG
+Sol 	6 	6 	1 	15 	0 	,
+Sol 	6 	6 	1 	16 	1 	whereof 	NN
+Sol 	6 	6 	1 	17 	1 	every 	DT
+Sol 	6 	6 	1 	18 	1 	one 	CD
+Sol 	6 	6 	1 	19 	1 	beareth 	NN
+Sol 	6 	6 	1 	20 	1 	twins 	NNS
+Sol 	6 	6 	1 	21 	0 	,
+Sol 	6 	6 	1 	22 	1 	and 	CC
+Sol 	6 	6 	1 	23 	1 	there 	RB
+Sol 	6 	6 	1 	24 	1 	is 	VBZ
+Sol 	6 	6 	1 	25 	1 	not 	RB
+Sol 	6 	6 	1 	26 	1 	one 	CD
+Sol 	6 	6 	1 	27 	1 	barren 	NNS
+Sol 	6 	6 	1 	28 	1 	among 	IN
+Sol 	6 	6 	1 	29 	1 	them 	PRP
+Sol 	6 	6 	1 	30 	0 	.
+Sol 	6 	7 	1 	1 	1 	As 	IN
+Sol 	6 	7 	1 	2 	1 	a 	DT
+Sol 	6 	7 	1 	3 	1 	piece 	NN
+Sol 	6 	7 	1 	4 	1 	of 	IN
+Sol 	6 	7 	1 	5 	1 	a 	DT
+Sol 	6 	7 	1 	6 	1 	pomegranate 	NN
+Sol 	6 	7 	1 	7 	1 	are 	VBP
+Sol 	6 	7 	1 	8 	1 	thy 	NN
+Sol 	6 	7 	1 	9 	1 	temples 	NNS
+Sol 	6 	7 	1 	10 	1 	within 	IN
+Sol 	6 	7 	1 	11 	1 	thy 	NN
+Sol 	6 	7 	1 	12 	1 	locks 	NNS
+Sol 	6 	7 	1 	13 	0 	.
+Sol 	6 	8 	1 	1 	1 	There 	EX
+Sol 	6 	8 	1 	2 	1 	are 	VBP
+Sol 	6 	8 	1 	3 	1 	threescore 	NN
+Sol 	6 	8 	1 	4 	1 	queens 	NNS
+Sol 	6 	8 	1 	5 	0 	,
+Sol 	6 	8 	1 	6 	1 	and 	CC
+Sol 	6 	8 	1 	7 	1 	fourscore 	NN
+Sol 	6 	8 	1 	8 	1 	concubines 	NNS
+Sol 	6 	8 	1 	9 	0 	,
+Sol 	6 	8 	1 	10 	1 	and 	CC
+Sol 	6 	8 	1 	11 	1 	virgins 	NNS
+Sol 	6 	8 	1 	12 	1 	without 	IN
+Sol 	6 	8 	1 	13 	1 	number 	NN
+Sol 	6 	8 	1 	14 	0 	.
+Sol 	6 	9 	1 	1 	1 	My 	PRP$
+Sol 	6 	9 	1 	2 	1 	dove 	NN
+Sol 	6 	9 	1 	3 	0 	,
+Sol 	6 	9 	1 	4 	1 	my 	PRP$
+Sol 	6 	9 	1 	5 	1 	undefiled 	JJ
+Sol 	6 	9 	1 	6 	1 	is 	VBZ
+Sol 	6 	9 	1 	7 	1 	but 	CC
+Sol 	6 	9 	1 	8 	1 	one 	CD
+Sol 	6 	9 	1 	9 	0 	;
+Sol 	6 	9 	1 	10 	1 	she 	PRP
+Sol 	6 	9 	1 	11 	1 	is 	VBZ
+Sol 	6 	9 	1 	12 	1 	the 	DT
+Sol 	6 	9 	1 	13 	1 	only 	RB
+Sol 	6 	9 	1 	14 	1 	one 	CD
+Sol 	6 	9 	1 	15 	1 	of 	IN
+Sol 	6 	9 	1 	16 	1 	her 	PRP$
+Sol 	6 	9 	1 	17 	1 	mother 	NN
+Sol 	6 	9 	1 	18 	0 	,
+Sol 	6 	9 	1 	19 	1 	she 	PRP
+Sol 	6 	9 	1 	20 	1 	is 	VBZ
+Sol 	6 	9 	1 	21 	1 	the 	DT
+Sol 	6 	9 	1 	22 	1 	choice 	NN
+Sol 	6 	9 	1 	23 	1 	one 	CD
+Sol 	6 	9 	1 	24 	1 	of 	IN
+Sol 	6 	9 	1 	25 	1 	her 	PRP$
+Sol 	6 	9 	1 	26 	1 	that 	IN
+Sol 	6 	9 	1 	27 	1 	bare 	NN
+Sol 	6 	9 	1 	28 	1 	her 	PRP$
+Sol 	6 	9 	1 	29 	0 	.
+Sol 	6 	9 	2 	1 	1 	The 	DT
+Sol 	6 	9 	2 	2 	1 	daughters 	NNS
+Sol 	6 	9 	2 	3 	1 	saw 	NN
+Sol 	6 	9 	2 	4 	1 	her 	PRP$
+Sol 	6 	9 	2 	5 	0 	,
+Sol 	6 	9 	2 	6 	1 	and 	CC
+Sol 	6 	9 	2 	7 	1 	blessed 	VBN
+Sol 	6 	9 	2 	8 	1 	her 	PRP$
+Sol 	6 	9 	2 	9 	0 	;
+Sol 	6 	9 	2 	10 	1 	yea 	NN
+Sol 	6 	9 	2 	11 	0 	,
+Sol 	6 	9 	2 	12 	1 	the 	DT
+Sol 	6 	9 	2 	13 	1 	queens 	NNS
+Sol 	6 	9 	2 	14 	1 	and 	CC
+Sol 	6 	9 	2 	15 	1 	the 	DT
+Sol 	6 	9 	2 	16 	1 	concubines 	NNS
+Sol 	6 	9 	2 	17 	0 	,
+Sol 	6 	9 	2 	18 	1 	and 	CC
+Sol 	6 	9 	2 	19 	1 	they 	PRP
+Sol 	6 	9 	2 	20 	1 	praised 	VBN
+Sol 	6 	9 	2 	21 	1 	her 	PRP$
+Sol 	6 	9 	2 	22 	0 	.
+Sol 	6 	10 	1 	1 	1 	Who 	WP
+Sol 	6 	10 	1 	2 	1 	is 	VBZ
+Sol 	6 	10 	1 	3 	1 	she 	PRP
+Sol 	6 	10 	1 	4 	1 	that 	IN
+Sol 	6 	10 	1 	5 	1 	looketh 	NN
+Sol 	6 	10 	1 	6 	1 	forth 	NN
+Sol 	6 	10 	1 	7 	1 	as 	IN
+Sol 	6 	10 	1 	8 	1 	the 	DT
+Sol 	6 	10 	1 	9 	1 	morning 	NN
+Sol 	6 	10 	1 	10 	0 	,
+Sol 	6 	10 	1 	11 	1 	fair 	NN
+Sol 	6 	10 	1 	12 	1 	as 	IN
+Sol 	6 	10 	1 	13 	1 	the 	DT
+Sol 	6 	10 	1 	14 	1 	moon 	NN
+Sol 	6 	10 	1 	15 	0 	,
+Sol 	6 	10 	1 	16 	1 	clear 	JJ
+Sol 	6 	10 	1 	17 	1 	as 	IN
+Sol 	6 	10 	1 	18 	1 	the 	DT
+Sol 	6 	10 	1 	19 	1 	sun 	NN
+Sol 	6 	10 	1 	20 	0 	,
+Sol 	6 	10 	1 	21 	1 	and 	CC
+Sol 	6 	10 	1 	22 	1 	terrible 	JJ
+Sol 	6 	10 	1 	23 	1 	as 	IN
+Sol 	6 	10 	1 	24 	1 	an 	DT
+Sol 	6 	10 	1 	25 	1 	army 	NN
+Sol 	6 	10 	1 	26 	1 	with 	IN
+Sol 	6 	10 	1 	27 	1 	banners 	NNS
+Sol 	6 	10 	1 	28 	0 	?
+Sol 	6 	11 	1 	1 	1 	I 	PRP
+Sol 	6 	11 	1 	2 	1 	went 	VBD
+Sol 	6 	11 	1 	3 	1 	down 	RB
+Sol 	6 	11 	1 	4 	1 	into 	IN
+Sol 	6 	11 	1 	5 	1 	the 	DT
+Sol 	6 	11 	1 	6 	1 	garden 	NN
+Sol 	6 	11 	1 	7 	1 	of 	IN
+Sol 	6 	11 	1 	8 	1 	nuts 	NNS
+Sol 	6 	11 	1 	9 	1 	to 	TO
+Sol 	6 	11 	1 	10 	1 	see 	VB
+Sol 	6 	11 	1 	11 	1 	the 	DT
+Sol 	6 	11 	1 	12 	1 	fruits 	NNS
+Sol 	6 	11 	1 	13 	1 	of 	IN
+Sol 	6 	11 	1 	14 	1 	the 	DT
+Sol 	6 	11 	1 	15 	1 	valley 	NN
+Sol 	6 	11 	1 	16 	0 	,
+Sol 	6 	11 	1 	17 	1 	and 	CC
+Sol 	6 	11 	1 	18 	1 	to 	TO
+Sol 	6 	11 	1 	19 	1 	see 	VB
+Sol 	6 	11 	1 	20 	1 	whether 	IN
+Sol 	6 	11 	1 	21 	1 	the 	DT
+Sol 	6 	11 	1 	22 	1 	vine 	NN
+Sol 	6 	11 	1 	23 	1 	flourished 	VBN
+Sol 	6 	11 	1 	24 	1 	and 	CC
+Sol 	6 	11 	1 	25 	1 	the 	DT
+Sol 	6 	11 	1 	26 	1 	pomegranates 	NNS
+Sol 	6 	11 	1 	27 	1 	budded 	VBN
+Sol 	6 	11 	1 	28 	0 	.
+Sol 	6 	12 	1 	1 	1 	Or 	CC
+Sol 	6 	12 	1 	2 	1 	ever 	RB
+Sol 	6 	12 	1 	3 	1 	I 	PRP
+Sol 	6 	12 	1 	4 	1 	was 	VBD
+Sol 	6 	12 	1 	5 	1 	aware 	JJ
+Sol 	6 	12 	1 	6 	0 	,
+Sol 	6 	12 	1 	7 	1 	my 	PRP$
+Sol 	6 	12 	1 	8 	1 	soul 	NN
+Sol 	6 	12 	1 	9 	1 	made 	VBN
+Sol 	6 	12 	1 	10 	1 	me 	PRP
+Sol 	6 	12 	1 	11 	1 	like 	IN
+Sol 	6 	12 	1 	12 	1 	the 	DT
+Sol 	6 	12 	1 	13 	1 	chariots 	NNS
+Sol 	6 	12 	1 	14 	1 	of 	IN
+Sol 	6 	12 	1 	15 	1 	Amminadib 	NN
+Sol 	6 	12 	1 	16 	0 	.
+Sol 	6 	13 	1 	1 	1 	Return 	NN
+Sol 	6 	13 	1 	2 	0 	,
+Sol 	6 	13 	1 	3 	1 	return 	NN
+Sol 	6 	13 	1 	4 	0 	,
+Sol 	6 	13 	1 	5 	1 	O 	NN
+Sol 	6 	13 	1 	6 	1 	Shulamite 	NN
+Sol 	6 	13 	1 	7 	0 	;
+Sol 	6 	13 	1 	8 	1 	return 	NN
+Sol 	6 	13 	1 	9 	0 	,
+Sol 	6 	13 	1 	10 	1 	return 	NN
+Sol 	6 	13 	1 	11 	0 	,
+Sol 	6 	13 	1 	12 	1 	that 	IN
+Sol 	6 	13 	1 	13 	1 	we 	PRP
+Sol 	6 	13 	1 	14 	1 	may 	MD
+Sol 	6 	13 	1 	15 	1 	look 	NN
+Sol 	6 	13 	1 	16 	1 	upon 	IN
+Sol 	6 	13 	1 	17 	1 	thee 	NN
+Sol 	6 	13 	1 	18 	0 	.
+Sol 	6 	13 	2 	1 	1 	What 	WP
+Sol 	6 	13 	2 	2 	1 	will 	MD
+Sol 	6 	13 	2 	3 	1 	ye 	NN
+Sol 	6 	13 	2 	4 	1 	see 	VB
+Sol 	6 	13 	2 	5 	1 	in 	IN
+Sol 	6 	13 	2 	6 	1 	the 	DT
+Sol 	6 	13 	2 	7 	1 	Shulamite 	NN
+Sol 	6 	13 	2 	8 	0 	?
+Sol 	6 	13 	3 	1 	1 	As 	IN
+Sol 	6 	13 	3 	2 	1 	it 	PRP
+Sol 	6 	13 	3 	3 	1 	were 	VBD
+Sol 	6 	13 	3 	4 	1 	the 	DT
+Sol 	6 	13 	3 	5 	1 	company 	NN
+Sol 	6 	13 	3 	6 	1 	of 	IN
+Sol 	6 	13 	3 	7 	1 	two 	CD
+Sol 	6 	13 	3 	8 	1 	armies 	NNS
+Sol 	6 	13 	3 	9 	0 	.
+Sol 	7 	1 	1 	1 	1 	How 	WRB
+Sol 	7 	1 	1 	2 	1 	beautiful 	NN
+Sol 	7 	1 	1 	3 	1 	are 	VBP
+Sol 	7 	1 	1 	4 	1 	thy 	NN
+Sol 	7 	1 	1 	5 	1 	feet 	NNS
+Sol 	7 	1 	1 	6 	1 	with 	IN
+Sol 	7 	1 	1 	7 	1 	shoes 	NNS
+Sol 	7 	1 	1 	8 	0 	,
+Sol 	7 	1 	1 	9 	1 	O 	NN
+Sol 	7 	1 	1 	10 	1 	prince 	NN
+Sol 	7 	1 	1 	11 	0 	's
+Sol 	7 	1 	1 	12 	1 	daughter 	NN
+Sol 	7 	1 	1 	13 	0 	!
+Sol 	7 	1 	2 	1 	1 	the 	DT
+Sol 	7 	1 	2 	2 	1 	joints 	NNS
+Sol 	7 	1 	2 	3 	1 	of 	IN
+Sol 	7 	1 	2 	4 	1 	thy 	NN
+Sol 	7 	1 	2 	5 	1 	thighs 	NNS
+Sol 	7 	1 	2 	6 	1 	are 	VBP
+Sol 	7 	1 	2 	7 	1 	like 	IN
+Sol 	7 	1 	2 	8 	1 	jewels 	NNS
+Sol 	7 	1 	2 	9 	0 	,
+Sol 	7 	1 	2 	10 	1 	the 	DT
+Sol 	7 	1 	2 	11 	1 	work 	NN
+Sol 	7 	1 	2 	12 	1 	of 	IN
+Sol 	7 	1 	2 	13 	1 	the 	DT
+Sol 	7 	1 	2 	14 	1 	hands 	NNS
+Sol 	7 	1 	2 	15 	1 	of 	IN
+Sol 	7 	1 	2 	16 	1 	a 	DT
+Sol 	7 	1 	2 	17 	1 	cunning 	VBG
+Sol 	7 	1 	2 	18 	1 	workman 	NN
+Sol 	7 	1 	2 	19 	0 	.
+Sol 	7 	2 	1 	1 	1 	Thy 	NN
+Sol 	7 	2 	1 	2 	1 	navel 	NN
+Sol 	7 	2 	1 	3 	1 	is 	VBZ
+Sol 	7 	2 	1 	4 	1 	like 	IN
+Sol 	7 	2 	1 	5 	1 	a 	DT
+Sol 	7 	2 	1 	6 	1 	round 	NN
+Sol 	7 	2 	1 	7 	1 	goblet 	NN
+Sol 	7 	2 	1 	8 	0 	,
+Sol 	7 	2 	1 	9 	1 	which 	WDT
+Sol 	7 	2 	1 	10 	1 	wanteth 	NNS
+Sol 	7 	2 	1 	11 	1 	not 	RB
+Sol 	7 	2 	1 	12 	1 	liquor 	NN
+Sol 	7 	2 	1 	13 	0 	:
+Sol 	7 	2 	1 	14 	1 	thy 	NN
+Sol 	7 	2 	1 	15 	1 	belly 	RB
+Sol 	7 	2 	1 	16 	1 	is 	VBZ
+Sol 	7 	2 	1 	17 	1 	like 	IN
+Sol 	7 	2 	1 	18 	1 	an 	DT
+Sol 	7 	2 	1 	19 	1 	heap 	NN
+Sol 	7 	2 	1 	20 	1 	of 	IN
+Sol 	7 	2 	1 	21 	1 	wheat 	NN
+Sol 	7 	2 	1 	22 	1 	set 	NN
+Sol 	7 	2 	1 	23 	1 	about 	IN
+Sol 	7 	2 	1 	24 	1 	with 	IN
+Sol 	7 	2 	1 	25 	1 	lilies 	NNS
+Sol 	7 	2 	1 	26 	0 	.
+Sol 	7 	3 	1 	1 	1 	Thy 	NN
+Sol 	7 	3 	1 	2 	1 	two 	CD
+Sol 	7 	3 	1 	3 	1 	breasts 	NNS
+Sol 	7 	3 	1 	4 	1 	are 	VBP
+Sol 	7 	3 	1 	5 	1 	like 	IN
+Sol 	7 	3 	1 	6 	1 	two 	CD
+Sol 	7 	3 	1 	7 	1 	young 	JJ
+Sol 	7 	3 	1 	8 	1 	roes 	NNS
+Sol 	7 	3 	1 	9 	1 	that 	IN
+Sol 	7 	3 	1 	10 	1 	are 	VBP
+Sol 	7 	3 	1 	11 	1 	twins 	NNS
+Sol 	7 	3 	1 	12 	0 	.
+Sol 	7 	4 	1 	1 	1 	Thy 	NN
+Sol 	7 	4 	1 	2 	1 	neck 	NN
+Sol 	7 	4 	1 	3 	1 	is 	VBZ
+Sol 	7 	4 	1 	4 	1 	as 	IN
+Sol 	7 	4 	1 	5 	1 	a 	DT
+Sol 	7 	4 	1 	6 	1 	tower 	NN
+Sol 	7 	4 	1 	7 	1 	of 	IN
+Sol 	7 	4 	1 	8 	1 	ivory 	NN
+Sol 	7 	4 	1 	9 	0 	;
+Sol 	7 	4 	1 	10 	1 	thine 	NN
+Sol 	7 	4 	1 	11 	1 	eyes 	NNS
+Sol 	7 	4 	1 	12 	1 	like 	IN
+Sol 	7 	4 	1 	13 	1 	the 	DT
+Sol 	7 	4 	1 	14 	1 	fishpools 	NNS
+Sol 	7 	4 	1 	15 	1 	in 	IN
+Sol 	7 	4 	1 	16 	1 	Heshbon 	NN
+Sol 	7 	4 	1 	17 	0 	,
+Sol 	7 	4 	1 	18 	1 	by 	IN
+Sol 	7 	4 	1 	19 	1 	the 	DT
+Sol 	7 	4 	1 	20 	1 	gate 	NN
+Sol 	7 	4 	1 	21 	1 	of 	IN
+Sol 	7 	4 	1 	22 	1 	Bathrabbim 	NN
+Sol 	7 	4 	1 	23 	0 	:
+Sol 	7 	4 	1 	24 	1 	thy 	NN
+Sol 	7 	4 	1 	25 	1 	nose 	RB
+Sol 	7 	4 	1 	26 	1 	is 	VBZ
+Sol 	7 	4 	1 	27 	1 	as 	IN
+Sol 	7 	4 	1 	28 	1 	the 	DT
+Sol 	7 	4 	1 	29 	1 	tower 	NN
+Sol 	7 	4 	1 	30 	1 	of 	IN
+Sol 	7 	4 	1 	31 	1 	Lebanon 	NNP
+Sol 	7 	4 	1 	32 	1 	which 	WDT
+Sol 	7 	4 	1 	33 	1 	looketh 	NN
+Sol 	7 	4 	1 	34 	1 	toward 	IN
+Sol 	7 	4 	1 	35 	1 	Damascus 	NN
+Sol 	7 	4 	1 	36 	0 	.
+Sol 	7 	5 	1 	1 	1 	Thine 	NN
+Sol 	7 	5 	1 	2 	1 	head 	NN
+Sol 	7 	5 	1 	3 	1 	upon 	IN
+Sol 	7 	5 	1 	4 	1 	thee 	NN
+Sol 	7 	5 	1 	5 	1 	is 	VBZ
+Sol 	7 	5 	1 	6 	1 	like 	IN
+Sol 	7 	5 	1 	7 	1 	Carmel 	NN
+Sol 	7 	5 	1 	8 	0 	,
+Sol 	7 	5 	1 	9 	1 	and 	CC
+Sol 	7 	5 	1 	10 	1 	the 	DT
+Sol 	7 	5 	1 	11 	1 	hair 	NN
+Sol 	7 	5 	1 	12 	1 	of 	IN
+Sol 	7 	5 	1 	13 	1 	thine 	NN
+Sol 	7 	5 	1 	14 	1 	head 	NN
+Sol 	7 	5 	1 	15 	1 	like 	IN
+Sol 	7 	5 	1 	16 	1 	purple 	NN
+Sol 	7 	5 	1 	17 	0 	;
+Sol 	7 	5 	1 	18 	1 	the 	DT
+Sol 	7 	5 	1 	19 	1 	king 	NN
+Sol 	7 	5 	1 	20 	1 	is 	VBZ
+Sol 	7 	5 	1 	21 	1 	held 	NN
+Sol 	7 	5 	1 	22 	1 	in 	IN
+Sol 	7 	5 	1 	23 	1 	the 	DT
+Sol 	7 	5 	1 	24 	1 	galleries 	NNS
+Sol 	7 	5 	1 	25 	0 	.
+Sol 	7 	6 	1 	1 	1 	How 	WRB
+Sol 	7 	6 	1 	2 	1 	fair 	NN
+Sol 	7 	6 	1 	3 	1 	and 	CC
+Sol 	7 	6 	1 	4 	1 	how 	WRB
+Sol 	7 	6 	1 	5 	1 	pleasant 	NN
+Sol 	7 	6 	1 	6 	1 	art 	NN
+Sol 	7 	6 	1 	7 	1 	thou 	NN
+Sol 	7 	6 	1 	8 	0 	,
+Sol 	7 	6 	1 	9 	1 	O 	NN
+Sol 	7 	6 	1 	10 	1 	love 	NN
+Sol 	7 	6 	1 	11 	0 	,
+Sol 	7 	6 	1 	12 	1 	for 	IN
+Sol 	7 	6 	1 	13 	1 	delights 	NNS
+Sol 	7 	6 	1 	14 	0 	!
+Sol 	7 	7 	1 	1 	1 	This 	DT
+Sol 	7 	7 	1 	2 	1 	thy 	NN
+Sol 	7 	7 	1 	3 	1 	stature 	NN
+Sol 	7 	7 	1 	4 	1 	is 	VBZ
+Sol 	7 	7 	1 	5 	1 	like 	IN
+Sol 	7 	7 	1 	6 	1 	to 	TO
+Sol 	7 	7 	1 	7 	1 	a 	DT
+Sol 	7 	7 	1 	8 	1 	palm 	NN
+Sol 	7 	7 	1 	9 	1 	tree 	NN
+Sol 	7 	7 	1 	10 	0 	,
+Sol 	7 	7 	1 	11 	1 	and 	CC
+Sol 	7 	7 	1 	12 	1 	thy 	NN
+Sol 	7 	7 	1 	13 	1 	breasts 	NNS
+Sol 	7 	7 	1 	14 	1 	to 	TO
+Sol 	7 	7 	1 	15 	1 	clusters 	NNS
+Sol 	7 	7 	1 	16 	1 	of 	IN
+Sol 	7 	7 	1 	17 	1 	grapes 	NNS
+Sol 	7 	7 	1 	18 	0 	.
+Sol 	7 	8 	1 	1 	1 	I 	PRP
+Sol 	7 	8 	1 	2 	1 	said 	VBD
+Sol 	7 	8 	1 	3 	0 	,
+Sol 	7 	8 	1 	4 	1 	I 	PRP
+Sol 	7 	8 	1 	5 	1 	will 	MD
+Sol 	7 	8 	1 	6 	1 	go 	VB
+Sol 	7 	8 	1 	7 	1 	up 	RB
+Sol 	7 	8 	1 	8 	1 	to 	TO
+Sol 	7 	8 	1 	9 	1 	the 	DT
+Sol 	7 	8 	1 	10 	1 	palm 	NN
+Sol 	7 	8 	1 	11 	1 	tree 	NN
+Sol 	7 	8 	1 	12 	0 	,
+Sol 	7 	8 	1 	13 	1 	I 	PRP
+Sol 	7 	8 	1 	14 	1 	will 	MD
+Sol 	7 	8 	1 	15 	1 	take 	VB
+Sol 	7 	8 	1 	16 	1 	hold 	NN
+Sol 	7 	8 	1 	17 	1 	of 	IN
+Sol 	7 	8 	1 	18 	1 	the 	DT
+Sol 	7 	8 	1 	19 	1 	boughs 	NNS
+Sol 	7 	8 	1 	20 	1 	thereof 	NN
+Sol 	7 	8 	1 	21 	0 	:
+Sol 	7 	8 	1 	22 	1 	now 	RB
+Sol 	7 	8 	1 	23 	1 	also 	RB
+Sol 	7 	8 	1 	24 	1 	thy 	NN
+Sol 	7 	8 	1 	25 	1 	breasts 	NNS
+Sol 	7 	8 	1 	26 	1 	shall 	MD
+Sol 	7 	8 	1 	27 	1 	be 	VB
+Sol 	7 	8 	1 	28 	1 	as 	IN
+Sol 	7 	8 	1 	29 	1 	clusters 	NNS
+Sol 	7 	8 	1 	30 	1 	of 	IN
+Sol 	7 	8 	1 	31 	1 	the 	DT
+Sol 	7 	8 	1 	32 	1 	vine 	NN
+Sol 	7 	8 	1 	33 	0 	,
+Sol 	7 	8 	1 	34 	1 	and 	CC
+Sol 	7 	8 	1 	35 	1 	the 	DT
+Sol 	7 	8 	1 	36 	1 	smell 	NN
+Sol 	7 	8 	1 	37 	1 	of 	IN
+Sol 	7 	8 	1 	38 	1 	thy 	NN
+Sol 	7 	8 	1 	39 	1 	nose 	RB
+Sol 	7 	8 	1 	40 	1 	like 	IN
+Sol 	7 	8 	1 	41 	1 	apples 	NNS
+Sol 	7 	8 	1 	42 	0 	;
+Sol 	7 	9 	1 	1 	1 	And 	CC
+Sol 	7 	9 	1 	2 	1 	the 	DT
+Sol 	7 	9 	1 	3 	1 	roof 	NN
+Sol 	7 	9 	1 	4 	1 	of 	IN
+Sol 	7 	9 	1 	5 	1 	thy 	NN
+Sol 	7 	9 	1 	6 	1 	mouth 	NN
+Sol 	7 	9 	1 	7 	1 	like 	IN
+Sol 	7 	9 	1 	8 	1 	the 	DT
+Sol 	7 	9 	1 	9 	1 	best 	JJS
+Sol 	7 	9 	1 	10 	1 	wine 	NN
+Sol 	7 	9 	1 	11 	1 	for 	IN
+Sol 	7 	9 	1 	12 	1 	my 	PRP$
+Sol 	7 	9 	1 	13 	1 	beloved 	VBN
+Sol 	7 	9 	1 	14 	0 	,
+Sol 	7 	9 	1 	15 	1 	that 	IN
+Sol 	7 	9 	1 	16 	1 	goeth 	NNS
+Sol 	7 	9 	1 	17 	1 	down 	RB
+Sol 	7 	9 	1 	18 	1 	sweetly 	RB
+Sol 	7 	9 	1 	19 	0 	,
+Sol 	7 	9 	1 	20 	1 	causing 	VBG
+Sol 	7 	9 	1 	21 	1 	the 	DT
+Sol 	7 	9 	1 	22 	1 	lips 	NNS
+Sol 	7 	9 	1 	23 	1 	of 	IN
+Sol 	7 	9 	1 	24 	1 	those 	DT
+Sol 	7 	9 	1 	25 	1 	that 	IN
+Sol 	7 	9 	1 	26 	1 	are 	VBP
+Sol 	7 	9 	1 	27 	1 	asleep 	NN
+Sol 	7 	9 	1 	28 	1 	to 	TO
+Sol 	7 	9 	1 	29 	1 	speak 	NN
+Sol 	7 	9 	1 	30 	0 	.
+Sol 	7 	10 	1 	1 	1 	I 	PRP
+Sol 	7 	10 	1 	2 	1 	am 	VBP
+Sol 	7 	10 	1 	3 	1 	my 	PRP$
+Sol 	7 	10 	1 	4 	1 	beloved 	VBN
+Sol 	7 	10 	1 	5 	0 	's
+Sol 	7 	10 	1 	6 	0 	,
+Sol 	7 	10 	1 	7 	1 	and 	CC
+Sol 	7 	10 	1 	8 	1 	his 	PRP$
+Sol 	7 	10 	1 	9 	1 	desire 	NN
+Sol 	7 	10 	1 	10 	1 	is 	VBZ
+Sol 	7 	10 	1 	11 	1 	toward 	IN
+Sol 	7 	10 	1 	12 	1 	me 	PRP
+Sol 	7 	10 	1 	13 	0 	.
+Sol 	7 	11 	1 	1 	1 	Come 	VB
+Sol 	7 	11 	1 	2 	0 	,
+Sol 	7 	11 	1 	3 	1 	my 	PRP$
+Sol 	7 	11 	1 	4 	1 	beloved 	VBN
+Sol 	7 	11 	1 	5 	0 	,
+Sol 	7 	11 	1 	6 	1 	let 	VB
+Sol 	7 	11 	1 	7 	1 	us 	PRP
+Sol 	7 	11 	1 	8 	1 	go 	VB
+Sol 	7 	11 	1 	9 	1 	forth 	NN
+Sol 	7 	11 	1 	10 	1 	into 	IN
+Sol 	7 	11 	1 	11 	1 	the 	DT
+Sol 	7 	11 	1 	12 	1 	field 	NN
+Sol 	7 	11 	1 	13 	0 	;
+Sol 	7 	11 	1 	14 	1 	let 	VB
+Sol 	7 	11 	1 	15 	1 	us 	PRP
+Sol 	7 	11 	1 	16 	1 	lodge 	NN
+Sol 	7 	11 	1 	17 	1 	in 	IN
+Sol 	7 	11 	1 	18 	1 	the 	DT
+Sol 	7 	11 	1 	19 	1 	villages 	NNS
+Sol 	7 	11 	1 	20 	0 	.
+Sol 	7 	12 	1 	1 	1 	Let 	VB
+Sol 	7 	12 	1 	2 	1 	us 	PRP
+Sol 	7 	12 	1 	3 	1 	get 	VB
+Sol 	7 	12 	1 	4 	1 	up 	RB
+Sol 	7 	12 	1 	5 	1 	early 	RB
+Sol 	7 	12 	1 	6 	1 	to 	TO
+Sol 	7 	12 	1 	7 	1 	the 	DT
+Sol 	7 	12 	1 	8 	1 	vineyards 	NNS
+Sol 	7 	12 	1 	9 	0 	;
+Sol 	7 	12 	1 	10 	1 	let 	VB
+Sol 	7 	12 	1 	11 	1 	us 	PRP
+Sol 	7 	12 	1 	12 	1 	see 	VB
+Sol 	7 	12 	1 	13 	1 	if 	IN
+Sol 	7 	12 	1 	14 	1 	the 	DT
+Sol 	7 	12 	1 	15 	1 	vine 	NN
+Sol 	7 	12 	1 	16 	1 	flourish 	JJ
+Sol 	7 	12 	1 	17 	0 	,
+Sol 	7 	12 	1 	18 	1 	whether 	IN
+Sol 	7 	12 	1 	19 	1 	the 	DT
+Sol 	7 	12 	1 	20 	1 	tender 	NN
+Sol 	7 	12 	1 	21 	1 	grape 	NN
+Sol 	7 	12 	1 	22 	1 	appear 	VB
+Sol 	7 	12 	1 	23 	0 	,
+Sol 	7 	12 	1 	24 	1 	and 	CC
+Sol 	7 	12 	1 	25 	1 	the 	DT
+Sol 	7 	12 	1 	26 	1 	pomegranates 	NNS
+Sol 	7 	12 	1 	27 	1 	bud 	NN
+Sol 	7 	12 	1 	28 	1 	forth 	NN
+Sol 	7 	12 	1 	29 	0 	:
+Sol 	7 	12 	1 	30 	1 	there 	RB
+Sol 	7 	12 	1 	31 	1 	will 	MD
+Sol 	7 	12 	1 	32 	1 	I 	PRP
+Sol 	7 	12 	1 	33 	1 	give 	VB
+Sol 	7 	12 	1 	34 	1 	thee 	NN
+Sol 	7 	12 	1 	35 	1 	my 	PRP$
+Sol 	7 	12 	1 	36 	1 	loves 	NNS
+Sol 	7 	12 	1 	37 	0 	.
+Sol 	7 	13 	1 	1 	1 	The 	DT
+Sol 	7 	13 	1 	2 	1 	mandrakes 	NNS
+Sol 	7 	13 	1 	3 	1 	give 	VB
+Sol 	7 	13 	1 	4 	1 	a 	DT
+Sol 	7 	13 	1 	5 	1 	smell 	NN
+Sol 	7 	13 	1 	6 	0 	,
+Sol 	7 	13 	1 	7 	1 	and 	CC
+Sol 	7 	13 	1 	8 	1 	at 	IN
+Sol 	7 	13 	1 	9 	1 	our 	PRP$
+Sol 	7 	13 	1 	10 	1 	gates 	NNS
+Sol 	7 	13 	1 	11 	1 	are 	VBP
+Sol 	7 	13 	1 	12 	1 	all 	DT
+Sol 	7 	13 	1 	13 	1 	manner 	NN
+Sol 	7 	13 	1 	14 	1 	of 	IN
+Sol 	7 	13 	1 	15 	1 	pleasant 	NN
+Sol 	7 	13 	1 	16 	1 	fruits 	NNS
+Sol 	7 	13 	1 	17 	0 	,
+Sol 	7 	13 	1 	18 	1 	new 	JJ
+Sol 	7 	13 	1 	19 	1 	and 	CC
+Sol 	7 	13 	1 	20 	1 	old 	JJ
+Sol 	7 	13 	1 	21 	0 	,
+Sol 	7 	13 	1 	22 	1 	which 	WDT
+Sol 	7 	13 	1 	23 	1 	I 	PRP
+Sol 	7 	13 	1 	24 	1 	have 	VB
+Sol 	7 	13 	1 	25 	1 	laid 	NN
+Sol 	7 	13 	1 	26 	1 	up 	RB
+Sol 	7 	13 	1 	27 	1 	for 	IN
+Sol 	7 	13 	1 	28 	1 	thee 	NN
+Sol 	7 	13 	1 	29 	0 	,
+Sol 	7 	13 	1 	30 	1 	O 	NN
+Sol 	7 	13 	1 	31 	1 	my 	PRP$
+Sol 	7 	13 	1 	32 	1 	beloved 	VBN
+Sol 	7 	13 	1 	33 	0 	.
+Sol 	8 	1 	1 	1 	1 	O 	NN
+Sol 	8 	1 	1 	2 	1 	that 	IN
+Sol 	8 	1 	1 	3 	1 	thou 	NN
+Sol 	8 	1 	1 	4 	1 	wert 	NN
+Sol 	8 	1 	1 	5 	1 	as 	IN
+Sol 	8 	1 	1 	6 	1 	my 	PRP$
+Sol 	8 	1 	1 	7 	1 	brother 	NN
+Sol 	8 	1 	1 	8 	0 	,
+Sol 	8 	1 	1 	9 	1 	that 	IN
+Sol 	8 	1 	1 	10 	1 	sucked 	VBN
+Sol 	8 	1 	1 	11 	1 	the 	DT
+Sol 	8 	1 	1 	12 	1 	breasts 	NNS
+Sol 	8 	1 	1 	13 	1 	of 	IN
+Sol 	8 	1 	1 	14 	1 	my 	PRP$
+Sol 	8 	1 	1 	15 	1 	mother 	NN
+Sol 	8 	1 	1 	16 	0 	!
+Sol 	8 	1 	2 	1 	1 	when 	WRB
+Sol 	8 	1 	2 	2 	1 	I 	PRP
+Sol 	8 	1 	2 	3 	1 	should 	MD
+Sol 	8 	1 	2 	4 	1 	find 	VB
+Sol 	8 	1 	2 	5 	1 	thee 	NN
+Sol 	8 	1 	2 	6 	1 	without 	IN
+Sol 	8 	1 	2 	7 	0 	,
+Sol 	8 	1 	2 	8 	1 	I 	PRP
+Sol 	8 	1 	2 	9 	1 	would 	MD
+Sol 	8 	1 	2 	10 	1 	kiss 	NN
+Sol 	8 	1 	2 	11 	1 	thee 	NN
+Sol 	8 	1 	2 	12 	0 	;
+Sol 	8 	1 	2 	13 	1 	yea 	NN
+Sol 	8 	1 	2 	14 	0 	,
+Sol 	8 	1 	2 	15 	1 	I 	PRP
+Sol 	8 	1 	2 	16 	1 	should 	MD
+Sol 	8 	1 	2 	17 	1 	not 	RB
+Sol 	8 	1 	2 	18 	1 	be 	VB
+Sol 	8 	1 	2 	19 	1 	despised 	VBN
+Sol 	8 	1 	2 	20 	0 	.
+Sol 	8 	2 	1 	1 	1 	I 	PRP
+Sol 	8 	2 	1 	2 	1 	would 	MD
+Sol 	8 	2 	1 	3 	1 	lead 	NN
+Sol 	8 	2 	1 	4 	1 	thee 	NN
+Sol 	8 	2 	1 	5 	0 	,
+Sol 	8 	2 	1 	6 	1 	and 	CC
+Sol 	8 	2 	1 	7 	1 	bring 	NN
+Sol 	8 	2 	1 	8 	1 	thee 	NN
+Sol 	8 	2 	1 	9 	1 	into 	IN
+Sol 	8 	2 	1 	10 	1 	my 	PRP$
+Sol 	8 	2 	1 	11 	1 	mother 	NN
+Sol 	8 	2 	1 	12 	0 	's
+Sol 	8 	2 	1 	13 	1 	house 	NN
+Sol 	8 	2 	1 	14 	0 	,
+Sol 	8 	2 	1 	15 	1 	who 	WP
+Sol 	8 	2 	1 	16 	1 	would 	MD
+Sol 	8 	2 	1 	17 	1 	instruct 	NN
+Sol 	8 	2 	1 	18 	1 	me 	PRP
+Sol 	8 	2 	1 	19 	0 	:
+Sol 	8 	2 	1 	20 	1 	I 	PRP
+Sol 	8 	2 	1 	21 	1 	would 	MD
+Sol 	8 	2 	1 	22 	1 	cause 	NN
+Sol 	8 	2 	1 	23 	1 	thee 	NN
+Sol 	8 	2 	1 	24 	1 	to 	TO
+Sol 	8 	2 	1 	25 	1 	drink 	NN
+Sol 	8 	2 	1 	26 	1 	of 	IN
+Sol 	8 	2 	1 	27 	1 	spiced 	VBN
+Sol 	8 	2 	1 	28 	1 	wine 	NN
+Sol 	8 	2 	1 	29 	1 	of 	IN
+Sol 	8 	2 	1 	30 	1 	the 	DT
+Sol 	8 	2 	1 	31 	1 	juice 	NN
+Sol 	8 	2 	1 	32 	1 	of 	IN
+Sol 	8 	2 	1 	33 	1 	my 	PRP$
+Sol 	8 	2 	1 	34 	1 	pomegranate 	NN
+Sol 	8 	2 	1 	35 	0 	.
+Sol 	8 	3 	1 	1 	1 	His 	PRP$
+Sol 	8 	3 	1 	2 	1 	left 	NN
+Sol 	8 	3 	1 	3 	1 	hand 	NN
+Sol 	8 	3 	1 	4 	1 	should 	MD
+Sol 	8 	3 	1 	5 	1 	be 	VB
+Sol 	8 	3 	1 	6 	1 	under 	IN
+Sol 	8 	3 	1 	7 	1 	my 	PRP$
+Sol 	8 	3 	1 	8 	1 	head 	NN
+Sol 	8 	3 	1 	9 	0 	,
+Sol 	8 	3 	1 	10 	1 	and 	CC
+Sol 	8 	3 	1 	11 	1 	his 	PRP$
+Sol 	8 	3 	1 	12 	1 	right 	NN
+Sol 	8 	3 	1 	13 	1 	hand 	NN
+Sol 	8 	3 	1 	14 	1 	should 	MD
+Sol 	8 	3 	1 	15 	1 	embrace 	NN
+Sol 	8 	3 	1 	16 	1 	me 	PRP
+Sol 	8 	3 	1 	17 	0 	.
+Sol 	8 	4 	1 	1 	1 	I 	PRP
+Sol 	8 	4 	1 	2 	1 	charge 	NN
+Sol 	8 	4 	1 	3 	1 	you 	PRP
+Sol 	8 	4 	1 	4 	0 	,
+Sol 	8 	4 	1 	5 	1 	O 	NN
+Sol 	8 	4 	1 	6 	1 	daughters 	NNS
+Sol 	8 	4 	1 	7 	1 	of 	IN
+Sol 	8 	4 	1 	8 	1 	Jerusalem 	NN
+Sol 	8 	4 	1 	9 	0 	,
+Sol 	8 	4 	1 	10 	1 	that 	IN
+Sol 	8 	4 	1 	11 	1 	ye 	NN
+Sol 	8 	4 	1 	12 	1 	stir 	NN
+Sol 	8 	4 	1 	13 	1 	not 	RB
+Sol 	8 	4 	1 	14 	1 	up 	RB
+Sol 	8 	4 	1 	15 	0 	,
+Sol 	8 	4 	1 	16 	1 	nor 	CC
+Sol 	8 	4 	1 	17 	1 	awake 	NN
+Sol 	8 	4 	1 	18 	1 	my 	PRP$
+Sol 	8 	4 	1 	19 	1 	love 	NN
+Sol 	8 	4 	1 	20 	0 	,
+Sol 	8 	4 	1 	21 	1 	until 	IN
+Sol 	8 	4 	1 	22 	1 	he 	PRP
+Sol 	8 	4 	1 	23 	1 	please 	NN
+Sol 	8 	4 	1 	24 	0 	.
+Sol 	8 	5 	1 	1 	1 	Who 	WP
+Sol 	8 	5 	1 	2 	1 	is 	VBZ
+Sol 	8 	5 	1 	3 	1 	this 	DT
+Sol 	8 	5 	1 	4 	1 	that 	IN
+Sol 	8 	5 	1 	5 	1 	cometh 	NNS
+Sol 	8 	5 	1 	6 	1 	up 	RB
+Sol 	8 	5 	1 	7 	1 	from 	IN
+Sol 	8 	5 	1 	8 	1 	the 	DT
+Sol 	8 	5 	1 	9 	1 	wilderness 	NN
+Sol 	8 	5 	1 	10 	0 	,
+Sol 	8 	5 	1 	11 	1 	leaning 	VBG
+Sol 	8 	5 	1 	12 	1 	upon 	IN
+Sol 	8 	5 	1 	13 	1 	her 	PRP$
+Sol 	8 	5 	1 	14 	1 	beloved 	VBN
+Sol 	8 	5 	1 	15 	0 	?
+Sol 	8 	5 	2 	1 	1 	I 	PRP
+Sol 	8 	5 	2 	2 	1 	raised 	VBN
+Sol 	8 	5 	2 	3 	1 	thee 	NN
+Sol 	8 	5 	2 	4 	1 	up 	RB
+Sol 	8 	5 	2 	5 	1 	under 	IN
+Sol 	8 	5 	2 	6 	1 	the 	DT
+Sol 	8 	5 	2 	7 	1 	apple 	NN
+Sol 	8 	5 	2 	8 	1 	tree 	NN
+Sol 	8 	5 	2 	9 	0 	:
+Sol 	8 	5 	2 	10 	1 	there 	RB
+Sol 	8 	5 	2 	11 	1 	thy 	NN
+Sol 	8 	5 	2 	12 	1 	mother 	NN
+Sol 	8 	5 	2 	13 	1 	brought 	NN
+Sol 	8 	5 	2 	14 	1 	thee 	NN
+Sol 	8 	5 	2 	15 	1 	forth 	NN
+Sol 	8 	5 	2 	16 	0 	:
+Sol 	8 	5 	2 	17 	1 	there 	RB
+Sol 	8 	5 	2 	18 	1 	she 	PRP
+Sol 	8 	5 	2 	19 	1 	brought 	NN
+Sol 	8 	5 	2 	20 	1 	thee 	NN
+Sol 	8 	5 	2 	21 	1 	forth 	NN
+Sol 	8 	5 	2 	22 	1 	that 	IN
+Sol 	8 	5 	2 	23 	1 	bare 	NN
+Sol 	8 	5 	2 	24 	1 	thee 	NN
+Sol 	8 	5 	2 	25 	0 	.
+Sol 	8 	6 	1 	1 	1 	et 	NN
+Sol 	8 	6 	1 	2 	1 	me 	PRP
+Sol 	8 	6 	1 	3 	1 	as 	IN
+Sol 	8 	6 	1 	4 	1 	a 	DT
+Sol 	8 	6 	1 	5 	1 	seal 	NN
+Sol 	8 	6 	1 	6 	1 	upon 	IN
+Sol 	8 	6 	1 	7 	1 	thine 	NN
+Sol 	8 	6 	1 	8 	1 	heart 	NN
+Sol 	8 	6 	1 	9 	0 	,
+Sol 	8 	6 	1 	10 	1 	as 	IN
+Sol 	8 	6 	1 	11 	1 	a 	DT
+Sol 	8 	6 	1 	12 	1 	seal 	NN
+Sol 	8 	6 	1 	13 	1 	upon 	IN
+Sol 	8 	6 	1 	14 	1 	thine 	NN
+Sol 	8 	6 	1 	15 	1 	arm 	NN
+Sol 	8 	6 	1 	16 	0 	:
+Sol 	8 	6 	1 	17 	1 	for 	IN
+Sol 	8 	6 	1 	18 	1 	love 	NN
+Sol 	8 	6 	1 	19 	1 	is 	VBZ
+Sol 	8 	6 	1 	20 	1 	strong 	JJ
+Sol 	8 	6 	1 	21 	1 	as 	IN
+Sol 	8 	6 	1 	22 	1 	death 	NN
+Sol 	8 	6 	1 	23 	0 	;
+Sol 	8 	6 	1 	24 	1 	jealousy 	NN
+Sol 	8 	6 	1 	25 	1 	is 	VBZ
+Sol 	8 	6 	1 	26 	1 	cruel 	NN
+Sol 	8 	6 	1 	27 	1 	as 	IN
+Sol 	8 	6 	1 	28 	1 	the 	DT
+Sol 	8 	6 	1 	29 	1 	grave 	NN
+Sol 	8 	6 	1 	30 	0 	:
+Sol 	8 	6 	1 	31 	1 	the 	DT
+Sol 	8 	6 	1 	32 	1 	coals 	NNS
+Sol 	8 	6 	1 	33 	1 	thereof 	NN
+Sol 	8 	6 	1 	34 	1 	are 	VBP
+Sol 	8 	6 	1 	35 	1 	coals 	NNS
+Sol 	8 	6 	1 	36 	1 	of 	IN
+Sol 	8 	6 	1 	37 	1 	fire 	NN
+Sol 	8 	6 	1 	38 	0 	,
+Sol 	8 	6 	1 	39 	1 	which 	WDT
+Sol 	8 	6 	1 	40 	1 	hath 	NN
+Sol 	8 	6 	1 	41 	1 	a 	DT
+Sol 	8 	6 	1 	42 	1 	most 	JJS
+Sol 	8 	6 	1 	43 	1 	vehement 	NN
+Sol 	8 	6 	1 	44 	1 	flame 	NN
+Sol 	8 	6 	1 	45 	0 	.
+Sol 	8 	7 	1 	1 	1 	Many 	JJ
+Sol 	8 	7 	1 	2 	1 	waters 	NNS
+Sol 	8 	7 	1 	3 	1 	can 	MD
+Sol 	8 	7 	1 	4 	1 	not 	RB
+Sol 	8 	7 	1 	5 	1 	quench 	NN
+Sol 	8 	7 	1 	6 	1 	love 	NN
+Sol 	8 	7 	1 	7 	0 	,
+Sol 	8 	7 	1 	8 	1 	neither 	DT
+Sol 	8 	7 	1 	9 	1 	can 	MD
+Sol 	8 	7 	1 	10 	1 	the 	DT
+Sol 	8 	7 	1 	11 	1 	floods 	NNS
+Sol 	8 	7 	1 	12 	1 	drown 	NN
+Sol 	8 	7 	1 	13 	1 	it 	PRP
+Sol 	8 	7 	1 	14 	0 	:
+Sol 	8 	7 	1 	15 	1 	if 	IN
+Sol 	8 	7 	1 	16 	1 	a 	DT
+Sol 	8 	7 	1 	17 	1 	man 	NN
+Sol 	8 	7 	1 	18 	1 	would 	MD
+Sol 	8 	7 	1 	19 	1 	give 	VB
+Sol 	8 	7 	1 	20 	1 	all 	DT
+Sol 	8 	7 	1 	21 	1 	the 	DT
+Sol 	8 	7 	1 	22 	1 	substance 	NN
+Sol 	8 	7 	1 	23 	1 	of 	IN
+Sol 	8 	7 	1 	24 	1 	his 	PRP$
+Sol 	8 	7 	1 	25 	1 	house 	NN
+Sol 	8 	7 	1 	26 	1 	for 	IN
+Sol 	8 	7 	1 	27 	1 	love 	NN
+Sol 	8 	7 	1 	28 	0 	,
+Sol 	8 	7 	1 	29 	1 	it 	PRP
+Sol 	8 	7 	1 	30 	1 	would 	MD
+Sol 	8 	7 	1 	31 	1 	utterly 	RB
+Sol 	8 	7 	1 	32 	1 	be 	VB
+Sol 	8 	7 	1 	33 	1 	contemned 	VBN
+Sol 	8 	7 	1 	34 	0 	.
+Sol 	8 	8 	1 	1 	1 	We 	PRP
+Sol 	8 	8 	1 	2 	1 	have 	VB
+Sol 	8 	8 	1 	3 	1 	a 	DT
+Sol 	8 	8 	1 	4 	1 	little 	JJ
+Sol 	8 	8 	1 	5 	1 	sister 	NN
+Sol 	8 	8 	1 	6 	0 	,
+Sol 	8 	8 	1 	7 	1 	and 	CC
+Sol 	8 	8 	1 	8 	1 	she 	PRP
+Sol 	8 	8 	1 	9 	1 	hath 	NN
+Sol 	8 	8 	1 	10 	1 	no 	DT
+Sol 	8 	8 	1 	11 	1 	breasts 	NNS
+Sol 	8 	8 	1 	12 	0 	:
+Sol 	8 	8 	1 	13 	1 	what 	WP
+Sol 	8 	8 	1 	14 	1 	shall 	MD
+Sol 	8 	8 	1 	15 	1 	we 	PRP
+Sol 	8 	8 	1 	16 	1 	do 	VB
+Sol 	8 	8 	1 	17 	1 	for 	IN
+Sol 	8 	8 	1 	18 	1 	our 	PRP$
+Sol 	8 	8 	1 	19 	1 	sister 	NN
+Sol 	8 	8 	1 	20 	1 	in 	IN
+Sol 	8 	8 	1 	21 	1 	the 	DT
+Sol 	8 	8 	1 	22 	1 	day 	NN
+Sol 	8 	8 	1 	23 	1 	when 	WRB
+Sol 	8 	8 	1 	24 	1 	she 	PRP
+Sol 	8 	8 	1 	25 	1 	shall 	MD
+Sol 	8 	8 	1 	26 	1 	be 	VB
+Sol 	8 	8 	1 	27 	1 	spoken 	NN
+Sol 	8 	8 	1 	28 	1 	for 	IN
+Sol 	8 	8 	1 	29 	0 	?
+Sol 	8 	9 	1 	1 	1 	If 	IN
+Sol 	8 	9 	1 	2 	1 	she 	PRP
+Sol 	8 	9 	1 	3 	1 	be 	VB
+Sol 	8 	9 	1 	4 	1 	a 	DT
+Sol 	8 	9 	1 	5 	1 	wall 	NN
+Sol 	8 	9 	1 	6 	0 	,
+Sol 	8 	9 	1 	7 	1 	we 	PRP
+Sol 	8 	9 	1 	8 	1 	will 	MD
+Sol 	8 	9 	1 	9 	1 	build 	NN
+Sol 	8 	9 	1 	10 	1 	upon 	IN
+Sol 	8 	9 	1 	11 	1 	her 	PRP$
+Sol 	8 	9 	1 	12 	1 	a 	DT
+Sol 	8 	9 	1 	13 	1 	palace 	NN
+Sol 	8 	9 	1 	14 	1 	of 	IN
+Sol 	8 	9 	1 	15 	1 	silver 	NN
+Sol 	8 	9 	1 	16 	0 	:
+Sol 	8 	9 	1 	17 	1 	and 	CC
+Sol 	8 	9 	1 	18 	1 	if 	IN
+Sol 	8 	9 	1 	19 	1 	she 	PRP
+Sol 	8 	9 	1 	20 	1 	be 	VB
+Sol 	8 	9 	1 	21 	1 	a 	DT
+Sol 	8 	9 	1 	22 	1 	door 	NN
+Sol 	8 	9 	1 	23 	0 	,
+Sol 	8 	9 	1 	24 	1 	we 	PRP
+Sol 	8 	9 	1 	25 	1 	will 	MD
+Sol 	8 	9 	1 	26 	1 	inclose 	NN
+Sol 	8 	9 	1 	27 	1 	her 	PRP$
+Sol 	8 	9 	1 	28 	1 	with 	IN
+Sol 	8 	9 	1 	29 	1 	boards 	NNS
+Sol 	8 	9 	1 	30 	1 	of 	IN
+Sol 	8 	9 	1 	31 	1 	cedar 	NN
+Sol 	8 	9 	1 	32 	0 	.
+Sol 	8 	10 	1 	1 	1 	I 	PRP
+Sol 	8 	10 	1 	2 	1 	am 	VBP
+Sol 	8 	10 	1 	3 	1 	a 	DT
+Sol 	8 	10 	1 	4 	1 	wall 	NN
+Sol 	8 	10 	1 	5 	0 	,
+Sol 	8 	10 	1 	6 	1 	and 	CC
+Sol 	8 	10 	1 	7 	1 	my 	PRP$
+Sol 	8 	10 	1 	8 	1 	breasts 	NNS
+Sol 	8 	10 	1 	9 	1 	like 	IN
+Sol 	8 	10 	1 	10 	1 	towers 	NNS
+Sol 	8 	10 	1 	11 	0 	:
+Sol 	8 	10 	1 	12 	1 	then 	RB
+Sol 	8 	10 	1 	13 	1 	was 	VBD
+Sol 	8 	10 	1 	14 	1 	I 	PRP
+Sol 	8 	10 	1 	15 	1 	in 	IN
+Sol 	8 	10 	1 	16 	1 	his 	PRP$
+Sol 	8 	10 	1 	17 	1 	eyes 	NNS
+Sol 	8 	10 	1 	18 	1 	as 	IN
+Sol 	8 	10 	1 	19 	1 	one 	CD
+Sol 	8 	10 	1 	20 	1 	that 	IN
+Sol 	8 	10 	1 	21 	1 	found 	NN
+Sol 	8 	10 	1 	22 	1 	favour 	NN
+Sol 	8 	10 	1 	23 	0 	.
+Sol 	8 	11 	1 	1 	1 	mon 	NN
+Sol 	8 	11 	1 	2 	1 	had 	VBD
+Sol 	8 	11 	1 	3 	1 	a 	DT
+Sol 	8 	11 	1 	4 	1 	vineyard 	NN
+Sol 	8 	11 	1 	5 	1 	at 	IN
+Sol 	8 	11 	1 	6 	1 	Baalhamon 	NN
+Sol 	8 	11 	1 	7 	0 	;
+Sol 	8 	11 	1 	8 	1 	he 	PRP
+Sol 	8 	11 	1 	9 	1 	let 	VB
+Sol 	8 	11 	1 	10 	1 	out 	IN
+Sol 	8 	11 	1 	11 	1 	the 	DT
+Sol 	8 	11 	1 	12 	1 	vineyard 	NN
+Sol 	8 	11 	1 	13 	1 	unto 	NN
+Sol 	8 	11 	1 	14 	1 	keepers 	NNS
+Sol 	8 	11 	1 	15 	0 	;
+Sol 	8 	11 	1 	16 	1 	every 	DT
+Sol 	8 	11 	1 	17 	1 	one 	CD
+Sol 	8 	11 	1 	18 	1 	for 	IN
+Sol 	8 	11 	1 	19 	1 	the 	DT
+Sol 	8 	11 	1 	20 	1 	fruit 	NN
+Sol 	8 	11 	1 	21 	1 	thereof 	NN
+Sol 	8 	11 	1 	22 	1 	was 	VBD
+Sol 	8 	11 	1 	23 	1 	to 	TO
+Sol 	8 	11 	1 	24 	1 	bring 	NN
+Sol 	8 	11 	1 	25 	1 	a 	DT
+Sol 	8 	11 	1 	26 	1 	thousand 	NN
+Sol 	8 	11 	1 	27 	1 	pieces 	NNS
+Sol 	8 	11 	1 	28 	1 	of 	IN
+Sol 	8 	11 	1 	29 	1 	silver 	NN
+Sol 	8 	11 	1 	30 	0 	.
+Sol 	8 	12 	1 	1 	1 	My 	PRP$
+Sol 	8 	12 	1 	2 	1 	vineyard 	NN
+Sol 	8 	12 	1 	3 	0 	,
+Sol 	8 	12 	1 	4 	1 	which 	WDT
+Sol 	8 	12 	1 	5 	1 	is 	VBZ
+Sol 	8 	12 	1 	6 	1 	mine 	NN
+Sol 	8 	12 	1 	7 	0 	,
+Sol 	8 	12 	1 	8 	1 	is 	VBZ
+Sol 	8 	12 	1 	9 	1 	before 	IN
+Sol 	8 	12 	1 	10 	1 	me 	PRP
+Sol 	8 	12 	1 	11 	0 	:
+Sol 	8 	12 	1 	12 	1 	thou 	NN
+Sol 	8 	12 	1 	13 	0 	,
+Sol 	8 	12 	1 	14 	1 	O 	NN
+Sol 	8 	12 	1 	15 	1 	Solomon 	NN
+Sol 	8 	12 	1 	16 	0 	,
+Sol 	8 	12 	1 	17 	1 	must 	MD
+Sol 	8 	12 	1 	18 	1 	have 	VB
+Sol 	8 	12 	1 	19 	1 	a 	DT
+Sol 	8 	12 	1 	20 	1 	thousand 	NN
+Sol 	8 	12 	1 	21 	0 	,
+Sol 	8 	12 	1 	22 	1 	and 	CC
+Sol 	8 	12 	1 	23 	1 	those 	DT
+Sol 	8 	12 	1 	24 	1 	that 	IN
+Sol 	8 	12 	1 	25 	1 	keep 	VB
+Sol 	8 	12 	1 	26 	1 	the 	DT
+Sol 	8 	12 	1 	27 	1 	fruit 	NN
+Sol 	8 	12 	1 	28 	1 	thereof 	NN
+Sol 	8 	12 	1 	29 	1 	two 	CD
+Sol 	8 	12 	1 	30 	1 	hundred 	VBN
+Sol 	8 	12 	1 	31 	0 	.
+Sol 	8 	13 	1 	1 	1 	Thou 	NN
+Sol 	8 	13 	1 	2 	1 	that 	IN
+Sol 	8 	13 	1 	3 	1 	dwellest 	NN
+Sol 	8 	13 	1 	4 	1 	in 	IN
+Sol 	8 	13 	1 	5 	1 	the 	DT
+Sol 	8 	13 	1 	6 	1 	gardens 	NNS
+Sol 	8 	13 	1 	7 	0 	,
+Sol 	8 	13 	1 	8 	1 	the 	DT
+Sol 	8 	13 	1 	9 	1 	companions 	NNS
+Sol 	8 	13 	1 	10 	1 	hearken 	NN
+Sol 	8 	13 	1 	11 	1 	to 	TO
+Sol 	8 	13 	1 	12 	1 	thy 	NN
+Sol 	8 	13 	1 	13 	1 	voice 	NN
+Sol 	8 	13 	1 	14 	0 	:
+Sol 	8 	13 	1 	15 	1 	cause 	NN
+Sol 	8 	13 	1 	16 	1 	me 	PRP
+Sol 	8 	13 	1 	17 	1 	to 	TO
+Sol 	8 	13 	1 	18 	1 	hear 	NN
+Sol 	8 	13 	1 	19 	1 	it 	PRP
+Sol 	8 	13 	1 	20 	0 	.
+Sol 	8 	14 	1 	1 	1 	Make 	VB
+Sol 	8 	14 	1 	2 	1 	haste 	NN
+Sol 	8 	14 	1 	3 	0 	,
+Sol 	8 	14 	1 	4 	1 	my 	PRP$
+Sol 	8 	14 	1 	5 	1 	beloved 	VBN
+Sol 	8 	14 	1 	6 	0 	,
+Sol 	8 	14 	1 	7 	1 	and 	CC
+Sol 	8 	14 	1 	8 	1 	be 	VB
+Sol 	8 	14 	1 	9 	1 	thou 	NN
+Sol 	8 	14 	1 	10 	1 	like 	IN
+Sol 	8 	14 	1 	11 	1 	to 	TO
+Sol 	8 	14 	1 	12 	1 	a 	DT
+Sol 	8 	14 	1 	13 	1 	roe 	NN
+Sol 	8 	14 	1 	14 	1 	or 	CC
+Sol 	8 	14 	1 	15 	1 	to 	TO
+Sol 	8 	14 	1 	16 	1 	a 	DT
+Sol 	8 	14 	1 	17 	1 	young 	JJ
+Sol 	8 	14 	1 	18 	1 	hart 	NN
+Sol 	8 	14 	1 	19 	1 	upon 	IN
+Sol 	8 	14 	1 	20 	1 	the 	DT
+Sol 	8 	14 	1 	21 	1 	mountains 	NNS
+Sol 	8 	14 	1 	22 	1 	of 	IN
+Sol 	8 	14 	1 	23 	1 	spices 	NNS
+Sol 	8 	14 	1 	24 	0 	.

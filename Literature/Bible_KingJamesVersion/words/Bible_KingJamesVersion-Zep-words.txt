@@ -1,0 +1,1862 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Zep 	1 	1 	1 	1 	1 	The 	DT
+Zep 	1 	1 	1 	2 	1 	word 	NN
+Zep 	1 	1 	1 	3 	1 	of 	IN
+Zep 	1 	1 	1 	4 	1 	the 	DT
+Zep 	1 	1 	1 	5 	1 	LORD 	NN
+Zep 	1 	1 	1 	6 	1 	which 	WDT
+Zep 	1 	1 	1 	7 	1 	came 	VBD
+Zep 	1 	1 	1 	8 	1 	unto 	NN
+Zep 	1 	1 	1 	9 	1 	Zephaniah 	NN
+Zep 	1 	1 	1 	10 	1 	the 	DT
+Zep 	1 	1 	1 	11 	1 	son 	NN
+Zep 	1 	1 	1 	12 	1 	of 	IN
+Zep 	1 	1 	1 	13 	1 	Cushi 	NN
+Zep 	1 	1 	1 	14 	0 	,
+Zep 	1 	1 	1 	15 	1 	the 	DT
+Zep 	1 	1 	1 	16 	1 	son 	NN
+Zep 	1 	1 	1 	17 	1 	of 	IN
+Zep 	1 	1 	1 	18 	1 	Gedaliah 	NN
+Zep 	1 	1 	1 	19 	0 	,
+Zep 	1 	1 	1 	20 	1 	the 	DT
+Zep 	1 	1 	1 	21 	1 	son 	NN
+Zep 	1 	1 	1 	22 	1 	of 	IN
+Zep 	1 	1 	1 	23 	1 	Amariah 	NN
+Zep 	1 	1 	1 	24 	0 	,
+Zep 	1 	1 	1 	25 	1 	the 	DT
+Zep 	1 	1 	1 	26 	1 	son 	NN
+Zep 	1 	1 	1 	27 	1 	of 	IN
+Zep 	1 	1 	1 	28 	1 	Hizkiah 	NN
+Zep 	1 	1 	1 	29 	0 	,
+Zep 	1 	1 	1 	30 	1 	in 	IN
+Zep 	1 	1 	1 	31 	1 	the 	DT
+Zep 	1 	1 	1 	32 	1 	days 	NNS
+Zep 	1 	1 	1 	33 	1 	of 	IN
+Zep 	1 	1 	1 	34 	1 	Josiah 	NN
+Zep 	1 	1 	1 	35 	1 	the 	DT
+Zep 	1 	1 	1 	36 	1 	son 	NN
+Zep 	1 	1 	1 	37 	1 	of 	IN
+Zep 	1 	1 	1 	38 	1 	Amon 	NN
+Zep 	1 	1 	1 	39 	0 	,
+Zep 	1 	1 	1 	40 	1 	king 	NN
+Zep 	1 	1 	1 	41 	1 	of 	IN
+Zep 	1 	1 	1 	42 	1 	Judah 	NN
+Zep 	1 	1 	1 	43 	0 	.
+Zep 	1 	2 	1 	1 	1 	I 	PRP
+Zep 	1 	2 	1 	2 	1 	will 	MD
+Zep 	1 	2 	1 	3 	1 	utterly 	RB
+Zep 	1 	2 	1 	4 	1 	consume 	NN
+Zep 	1 	2 	1 	5 	1 	all 	DT
+Zep 	1 	2 	1 	6 	1 	things 	NNS
+Zep 	1 	2 	1 	7 	1 	from 	IN
+Zep 	1 	2 	1 	8 	1 	off 	IN
+Zep 	1 	2 	1 	9 	1 	the 	DT
+Zep 	1 	2 	1 	10 	1 	land 	NN
+Zep 	1 	2 	1 	11 	0 	,
+Zep 	1 	2 	1 	12 	1 	saith 	NN
+Zep 	1 	2 	1 	13 	1 	the 	DT
+Zep 	1 	2 	1 	14 	1 	LORD 	NN
+Zep 	1 	2 	1 	15 	0 	.
+Zep 	1 	3 	1 	1 	1 	I 	PRP
+Zep 	1 	3 	1 	2 	1 	will 	MD
+Zep 	1 	3 	1 	3 	1 	consume 	NN
+Zep 	1 	3 	1 	4 	1 	man 	NN
+Zep 	1 	3 	1 	5 	1 	and 	CC
+Zep 	1 	3 	1 	6 	1 	beast 	NN
+Zep 	1 	3 	1 	7 	0 	;
+Zep 	1 	3 	1 	8 	1 	I 	PRP
+Zep 	1 	3 	1 	9 	1 	will 	MD
+Zep 	1 	3 	1 	10 	1 	consume 	NN
+Zep 	1 	3 	1 	11 	1 	the 	DT
+Zep 	1 	3 	1 	12 	1 	fowls 	NN
+Zep 	1 	3 	1 	13 	1 	of 	IN
+Zep 	1 	3 	1 	14 	1 	the 	DT
+Zep 	1 	3 	1 	15 	1 	heaven 	NN
+Zep 	1 	3 	1 	16 	0 	,
+Zep 	1 	3 	1 	17 	1 	and 	CC
+Zep 	1 	3 	1 	18 	1 	the 	DT
+Zep 	1 	3 	1 	19 	1 	fishes 	NNS
+Zep 	1 	3 	1 	20 	1 	of 	IN
+Zep 	1 	3 	1 	21 	1 	the 	DT
+Zep 	1 	3 	1 	22 	1 	sea 	NN
+Zep 	1 	3 	1 	23 	0 	,
+Zep 	1 	3 	1 	24 	1 	and 	CC
+Zep 	1 	3 	1 	25 	1 	the 	DT
+Zep 	1 	3 	1 	26 	1 	stumbling 	VBG
+Zep 	1 	3 	1 	27 	1 	blocks 	NNS
+Zep 	1 	3 	1 	28 	1 	with 	IN
+Zep 	1 	3 	1 	29 	1 	the 	DT
+Zep 	1 	3 	1 	30 	1 	wicked 	VBD
+Zep 	1 	3 	1 	31 	0 	:
+Zep 	1 	3 	1 	32 	1 	and 	CC
+Zep 	1 	3 	1 	33 	1 	I 	PRP
+Zep 	1 	3 	1 	34 	1 	will 	MD
+Zep 	1 	3 	1 	35 	1 	cut 	NN
+Zep 	1 	3 	1 	36 	1 	off 	IN
+Zep 	1 	3 	1 	37 	1 	man 	NN
+Zep 	1 	3 	1 	38 	1 	from 	IN
+Zep 	1 	3 	1 	39 	1 	off 	IN
+Zep 	1 	3 	1 	40 	1 	the 	DT
+Zep 	1 	3 	1 	41 	1 	land 	NN
+Zep 	1 	3 	1 	42 	0 	,
+Zep 	1 	3 	1 	43 	1 	saith 	NN
+Zep 	1 	3 	1 	44 	1 	the 	DT
+Zep 	1 	3 	1 	45 	1 	LORD 	NN
+Zep 	1 	3 	1 	46 	0 	.
+Zep 	1 	4 	1 	1 	1 	I 	PRP
+Zep 	1 	4 	1 	2 	1 	will 	MD
+Zep 	1 	4 	1 	3 	1 	also 	RB
+Zep 	1 	4 	1 	4 	1 	stretch 	NN
+Zep 	1 	4 	1 	5 	1 	out 	IN
+Zep 	1 	4 	1 	6 	1 	mine 	NN
+Zep 	1 	4 	1 	7 	1 	hand 	NN
+Zep 	1 	4 	1 	8 	1 	upon 	IN
+Zep 	1 	4 	1 	9 	1 	Judah 	NN
+Zep 	1 	4 	1 	10 	0 	,
+Zep 	1 	4 	1 	11 	1 	and 	CC
+Zep 	1 	4 	1 	12 	1 	upon 	IN
+Zep 	1 	4 	1 	13 	1 	all 	DT
+Zep 	1 	4 	1 	14 	1 	the 	DT
+Zep 	1 	4 	1 	15 	1 	inhabitants 	NNS
+Zep 	1 	4 	1 	16 	1 	of 	IN
+Zep 	1 	4 	1 	17 	1 	Jerusalem 	NN
+Zep 	1 	4 	1 	18 	0 	;
+Zep 	1 	4 	1 	19 	1 	and 	CC
+Zep 	1 	4 	1 	20 	1 	I 	PRP
+Zep 	1 	4 	1 	21 	1 	will 	MD
+Zep 	1 	4 	1 	22 	1 	cut 	NN
+Zep 	1 	4 	1 	23 	1 	off 	IN
+Zep 	1 	4 	1 	24 	1 	the 	DT
+Zep 	1 	4 	1 	25 	1 	remnant 	NN
+Zep 	1 	4 	1 	26 	1 	of 	IN
+Zep 	1 	4 	1 	27 	1 	Baal 	NN
+Zep 	1 	4 	1 	28 	1 	from 	IN
+Zep 	1 	4 	1 	29 	1 	this 	DT
+Zep 	1 	4 	1 	30 	1 	place 	NN
+Zep 	1 	4 	1 	31 	0 	,
+Zep 	1 	4 	1 	32 	1 	and 	CC
+Zep 	1 	4 	1 	33 	1 	the 	DT
+Zep 	1 	4 	1 	34 	1 	name 	NN
+Zep 	1 	4 	1 	35 	1 	of 	IN
+Zep 	1 	4 	1 	36 	1 	the 	DT
+Zep 	1 	4 	1 	37 	1 	Chemarims 	NNS
+Zep 	1 	4 	1 	38 	1 	with 	IN
+Zep 	1 	4 	1 	39 	1 	the 	DT
+Zep 	1 	4 	1 	40 	1 	priests 	NNS
+Zep 	1 	4 	1 	41 	0 	;
+Zep 	1 	5 	1 	1 	1 	And 	CC
+Zep 	1 	5 	1 	2 	1 	them 	PRP
+Zep 	1 	5 	1 	3 	1 	that 	IN
+Zep 	1 	5 	1 	4 	1 	worship 	NN
+Zep 	1 	5 	1 	5 	1 	the 	DT
+Zep 	1 	5 	1 	6 	1 	host 	NN
+Zep 	1 	5 	1 	7 	1 	of 	IN
+Zep 	1 	5 	1 	8 	1 	heaven 	NN
+Zep 	1 	5 	1 	9 	1 	upon 	IN
+Zep 	1 	5 	1 	10 	1 	the 	DT
+Zep 	1 	5 	1 	11 	1 	housetops 	NNS
+Zep 	1 	5 	1 	12 	0 	;
+Zep 	1 	5 	1 	13 	1 	and 	CC
+Zep 	1 	5 	1 	14 	1 	them 	PRP
+Zep 	1 	5 	1 	15 	1 	that 	IN
+Zep 	1 	5 	1 	16 	1 	worship 	NN
+Zep 	1 	5 	1 	17 	1 	and 	CC
+Zep 	1 	5 	1 	18 	1 	that 	IN
+Zep 	1 	5 	1 	19 	1 	swear 	NN
+Zep 	1 	5 	1 	20 	1 	by 	IN
+Zep 	1 	5 	1 	21 	1 	the 	DT
+Zep 	1 	5 	1 	22 	1 	LORD 	NN
+Zep 	1 	5 	1 	23 	0 	,
+Zep 	1 	5 	1 	24 	1 	and 	CC
+Zep 	1 	5 	1 	25 	1 	that 	IN
+Zep 	1 	5 	1 	26 	1 	swear 	NN
+Zep 	1 	5 	1 	27 	1 	by 	IN
+Zep 	1 	5 	1 	28 	1 	Malcham 	NN
+Zep 	1 	5 	1 	29 	0 	;
+Zep 	1 	6 	1 	1 	1 	And 	CC
+Zep 	1 	6 	1 	2 	1 	them 	PRP
+Zep 	1 	6 	1 	3 	1 	that 	IN
+Zep 	1 	6 	1 	4 	1 	are 	VBP
+Zep 	1 	6 	1 	5 	1 	turned 	VBD
+Zep 	1 	6 	1 	6 	1 	back 	RB
+Zep 	1 	6 	1 	7 	1 	from 	IN
+Zep 	1 	6 	1 	8 	1 	the 	DT
+Zep 	1 	6 	1 	9 	1 	LORD 	NN
+Zep 	1 	6 	1 	10 	0 	;
+Zep 	1 	6 	1 	11 	1 	and 	CC
+Zep 	1 	6 	1 	12 	1 	those 	DT
+Zep 	1 	6 	1 	13 	1 	that 	IN
+Zep 	1 	6 	1 	14 	1 	have 	VB
+Zep 	1 	6 	1 	15 	1 	not 	RB
+Zep 	1 	6 	1 	16 	1 	sought 	NN
+Zep 	1 	6 	1 	17 	1 	the 	DT
+Zep 	1 	6 	1 	18 	1 	LORD 	NN
+Zep 	1 	6 	1 	19 	0 	,
+Zep 	1 	6 	1 	20 	1 	nor 	CC
+Zep 	1 	6 	1 	21 	1 	enquired 	VBN
+Zep 	1 	6 	1 	22 	1 	for 	IN
+Zep 	1 	6 	1 	23 	1 	him 	PRP
+Zep 	1 	6 	1 	24 	0 	.
+Zep 	1 	7 	1 	1 	1 	Hold 	VB
+Zep 	1 	7 	1 	2 	1 	thy 	NN
+Zep 	1 	7 	1 	3 	1 	peace 	NN
+Zep 	1 	7 	1 	4 	1 	at 	IN
+Zep 	1 	7 	1 	5 	1 	the 	DT
+Zep 	1 	7 	1 	6 	1 	presence 	NN
+Zep 	1 	7 	1 	7 	1 	of 	IN
+Zep 	1 	7 	1 	8 	1 	the 	DT
+Zep 	1 	7 	1 	9 	1 	Lord 	NN
+Zep 	1 	7 	1 	10 	1 	GOD 	NNP
+Zep 	1 	7 	1 	11 	0 	:
+Zep 	1 	7 	1 	12 	1 	for 	IN
+Zep 	1 	7 	1 	13 	1 	the 	DT
+Zep 	1 	7 	1 	14 	1 	day 	NN
+Zep 	1 	7 	1 	15 	1 	of 	IN
+Zep 	1 	7 	1 	16 	1 	the 	DT
+Zep 	1 	7 	1 	17 	1 	LORD 	NN
+Zep 	1 	7 	1 	18 	1 	is 	VBZ
+Zep 	1 	7 	1 	19 	1 	at 	IN
+Zep 	1 	7 	1 	20 	1 	hand 	NN
+Zep 	1 	7 	1 	21 	0 	:
+Zep 	1 	7 	1 	22 	1 	for 	IN
+Zep 	1 	7 	1 	23 	1 	the 	DT
+Zep 	1 	7 	1 	24 	1 	LORD 	NN
+Zep 	1 	7 	1 	25 	1 	hath 	NN
+Zep 	1 	7 	1 	26 	1 	prepared 	JJ
+Zep 	1 	7 	1 	27 	1 	a 	DT
+Zep 	1 	7 	1 	28 	1 	sacrifice 	NN
+Zep 	1 	7 	1 	29 	0 	,
+Zep 	1 	7 	1 	30 	1 	he 	PRP
+Zep 	1 	7 	1 	31 	1 	hath 	NN
+Zep 	1 	7 	1 	32 	1 	bid 	NN
+Zep 	1 	7 	1 	33 	1 	his 	PRP$
+Zep 	1 	7 	1 	34 	1 	guests 	NNS
+Zep 	1 	7 	1 	35 	0 	.
+Zep 	1 	8 	1 	1 	1 	And 	CC
+Zep 	1 	8 	1 	2 	1 	it 	PRP
+Zep 	1 	8 	1 	3 	1 	shall 	MD
+Zep 	1 	8 	1 	4 	1 	come 	VB
+Zep 	1 	8 	1 	5 	1 	to 	TO
+Zep 	1 	8 	1 	6 	1 	pass 	NN
+Zep 	1 	8 	1 	7 	1 	in 	IN
+Zep 	1 	8 	1 	8 	1 	the 	DT
+Zep 	1 	8 	1 	9 	1 	day 	NN
+Zep 	1 	8 	1 	10 	1 	of 	IN
+Zep 	1 	8 	1 	11 	1 	the 	DT
+Zep 	1 	8 	1 	12 	1 	LORD 	NN
+Zep 	1 	8 	1 	13 	0 	's
+Zep 	1 	8 	1 	14 	1 	sacrifice 	NN
+Zep 	1 	8 	1 	15 	0 	,
+Zep 	1 	8 	1 	16 	1 	that 	IN
+Zep 	1 	8 	1 	17 	1 	I 	PRP
+Zep 	1 	8 	1 	18 	1 	will 	MD
+Zep 	1 	8 	1 	19 	1 	punish 	NN
+Zep 	1 	8 	1 	20 	1 	the 	DT
+Zep 	1 	8 	1 	21 	1 	princes 	NNS
+Zep 	1 	8 	1 	22 	0 	,
+Zep 	1 	8 	1 	23 	1 	and 	CC
+Zep 	1 	8 	1 	24 	1 	the 	DT
+Zep 	1 	8 	1 	25 	1 	king 	NN
+Zep 	1 	8 	1 	26 	0 	's
+Zep 	1 	8 	1 	27 	1 	children 	NNS
+Zep 	1 	8 	1 	28 	0 	,
+Zep 	1 	8 	1 	29 	1 	and 	CC
+Zep 	1 	8 	1 	30 	1 	all 	DT
+Zep 	1 	8 	1 	31 	1 	such 	JJ
+Zep 	1 	8 	1 	32 	1 	as 	IN
+Zep 	1 	8 	1 	33 	1 	are 	VBP
+Zep 	1 	8 	1 	34 	1 	clothed 	NNS
+Zep 	1 	8 	1 	35 	1 	with 	IN
+Zep 	1 	8 	1 	36 	1 	strange 	NN
+Zep 	1 	8 	1 	37 	1 	apparel 	NN
+Zep 	1 	8 	1 	38 	0 	.
+Zep 	1 	9 	1 	1 	1 	In 	IN
+Zep 	1 	9 	1 	2 	1 	the 	DT
+Zep 	1 	9 	1 	3 	1 	same 	JJ
+Zep 	1 	9 	1 	4 	1 	day 	NN
+Zep 	1 	9 	1 	5 	1 	also 	RB
+Zep 	1 	9 	1 	6 	1 	will 	MD
+Zep 	1 	9 	1 	7 	1 	I 	PRP
+Zep 	1 	9 	1 	8 	1 	punish 	NN
+Zep 	1 	9 	1 	9 	1 	all 	DT
+Zep 	1 	9 	1 	10 	1 	those 	DT
+Zep 	1 	9 	1 	11 	1 	that 	IN
+Zep 	1 	9 	1 	12 	1 	leap 	NN
+Zep 	1 	9 	1 	13 	1 	on 	IN
+Zep 	1 	9 	1 	14 	1 	the 	DT
+Zep 	1 	9 	1 	15 	1 	threshold 	NN
+Zep 	1 	9 	1 	16 	0 	,
+Zep 	1 	9 	1 	17 	1 	which 	WDT
+Zep 	1 	9 	1 	18 	1 	fill 	NN
+Zep 	1 	9 	1 	19 	1 	their 	PRP$
+Zep 	1 	9 	1 	20 	1 	masters 	NNS
+Zep 	1 	9 	1 	21 	0 	'
+Zep 	1 	9 	1 	22 	1 	houses 	NNS
+Zep 	1 	9 	1 	23 	1 	with 	IN
+Zep 	1 	9 	1 	24 	1 	violence 	NN
+Zep 	1 	9 	1 	25 	1 	and 	CC
+Zep 	1 	9 	1 	26 	1 	deceit 	NN
+Zep 	1 	9 	1 	27 	0 	.
+Zep 	1 	10 	1 	1 	1 	And 	CC
+Zep 	1 	10 	1 	2 	1 	it 	PRP
+Zep 	1 	10 	1 	3 	1 	shall 	MD
+Zep 	1 	10 	1 	4 	1 	come 	VB
+Zep 	1 	10 	1 	5 	1 	to 	TO
+Zep 	1 	10 	1 	6 	1 	pass 	NN
+Zep 	1 	10 	1 	7 	1 	in 	IN
+Zep 	1 	10 	1 	8 	1 	that 	IN
+Zep 	1 	10 	1 	9 	1 	day 	NN
+Zep 	1 	10 	1 	10 	0 	,
+Zep 	1 	10 	1 	11 	1 	saith 	NN
+Zep 	1 	10 	1 	12 	1 	the 	DT
+Zep 	1 	10 	1 	13 	1 	LORD 	NN
+Zep 	1 	10 	1 	14 	0 	,
+Zep 	1 	10 	1 	15 	1 	that 	IN
+Zep 	1 	10 	1 	16 	1 	there 	RB
+Zep 	1 	10 	1 	17 	1 	shall 	MD
+Zep 	1 	10 	1 	18 	1 	be 	VB
+Zep 	1 	10 	1 	19 	1 	the 	DT
+Zep 	1 	10 	1 	20 	1 	noise 	NN
+Zep 	1 	10 	1 	21 	1 	of 	IN
+Zep 	1 	10 	1 	22 	1 	a 	DT
+Zep 	1 	10 	1 	23 	1 	cry 	NN
+Zep 	1 	10 	1 	24 	1 	from 	IN
+Zep 	1 	10 	1 	25 	1 	the 	DT
+Zep 	1 	10 	1 	26 	1 	fish 	NN
+Zep 	1 	10 	1 	27 	1 	gate 	NN
+Zep 	1 	10 	1 	28 	0 	,
+Zep 	1 	10 	1 	29 	1 	and 	CC
+Zep 	1 	10 	1 	30 	1 	an 	DT
+Zep 	1 	10 	1 	31 	1 	howling 	VBG
+Zep 	1 	10 	1 	32 	1 	from 	IN
+Zep 	1 	10 	1 	33 	1 	the 	DT
+Zep 	1 	10 	1 	34 	1 	second 	JJ
+Zep 	1 	10 	1 	35 	0 	,
+Zep 	1 	10 	1 	36 	1 	and 	CC
+Zep 	1 	10 	1 	37 	1 	a 	DT
+Zep 	1 	10 	1 	38 	1 	great 	JJ
+Zep 	1 	10 	1 	39 	1 	crashing 	VBG
+Zep 	1 	10 	1 	40 	1 	from 	IN
+Zep 	1 	10 	1 	41 	1 	the 	DT
+Zep 	1 	10 	1 	42 	1 	hills 	NNS
+Zep 	1 	10 	1 	43 	0 	.
+Zep 	1 	11 	1 	1 	1 	Howl 	NN
+Zep 	1 	11 	1 	2 	0 	,
+Zep 	1 	11 	1 	3 	1 	ye 	NN
+Zep 	1 	11 	1 	4 	1 	inhabitants 	NNS
+Zep 	1 	11 	1 	5 	1 	of 	IN
+Zep 	1 	11 	1 	6 	1 	Maktesh 	NN
+Zep 	1 	11 	1 	7 	0 	,
+Zep 	1 	11 	1 	8 	1 	for 	IN
+Zep 	1 	11 	1 	9 	1 	all 	DT
+Zep 	1 	11 	1 	10 	1 	the 	DT
+Zep 	1 	11 	1 	11 	1 	merchant 	NN
+Zep 	1 	11 	1 	12 	1 	people 	NNS
+Zep 	1 	11 	1 	13 	1 	are 	VBP
+Zep 	1 	11 	1 	14 	1 	cut 	NN
+Zep 	1 	11 	1 	15 	1 	down 	RB
+Zep 	1 	11 	1 	16 	0 	;
+Zep 	1 	11 	1 	17 	1 	all 	DT
+Zep 	1 	11 	1 	18 	1 	they 	PRP
+Zep 	1 	11 	1 	19 	1 	that 	IN
+Zep 	1 	11 	1 	20 	1 	bear 	NN
+Zep 	1 	11 	1 	21 	1 	silver 	NN
+Zep 	1 	11 	1 	22 	1 	are 	VBP
+Zep 	1 	11 	1 	23 	1 	cut 	NN
+Zep 	1 	11 	1 	24 	1 	off 	IN
+Zep 	1 	11 	1 	25 	0 	.
+Zep 	1 	12 	1 	1 	1 	And 	CC
+Zep 	1 	12 	1 	2 	1 	it 	PRP
+Zep 	1 	12 	1 	3 	1 	shall 	MD
+Zep 	1 	12 	1 	4 	1 	come 	VB
+Zep 	1 	12 	1 	5 	1 	to 	TO
+Zep 	1 	12 	1 	6 	1 	pass 	NN
+Zep 	1 	12 	1 	7 	1 	at 	IN
+Zep 	1 	12 	1 	8 	1 	that 	IN
+Zep 	1 	12 	1 	9 	1 	time 	NN
+Zep 	1 	12 	1 	10 	0 	,
+Zep 	1 	12 	1 	11 	1 	that 	IN
+Zep 	1 	12 	1 	12 	1 	I 	PRP
+Zep 	1 	12 	1 	13 	1 	will 	MD
+Zep 	1 	12 	1 	14 	1 	search 	NN
+Zep 	1 	12 	1 	15 	1 	Jerusalem 	NN
+Zep 	1 	12 	1 	16 	1 	with 	IN
+Zep 	1 	12 	1 	17 	1 	candles 	NNS
+Zep 	1 	12 	1 	18 	0 	,
+Zep 	1 	12 	1 	19 	1 	and 	CC
+Zep 	1 	12 	1 	20 	1 	punish 	NN
+Zep 	1 	12 	1 	21 	1 	the 	DT
+Zep 	1 	12 	1 	22 	1 	men 	NNS
+Zep 	1 	12 	1 	23 	1 	that 	IN
+Zep 	1 	12 	1 	24 	1 	are 	VBP
+Zep 	1 	12 	1 	25 	1 	settled 	VBN
+Zep 	1 	12 	1 	26 	1 	on 	IN
+Zep 	1 	12 	1 	27 	1 	their 	PRP$
+Zep 	1 	12 	1 	28 	1 	lees 	NNS
+Zep 	1 	12 	1 	29 	0 	:
+Zep 	1 	12 	1 	30 	1 	that 	IN
+Zep 	1 	12 	1 	31 	1 	say 	VB
+Zep 	1 	12 	1 	32 	1 	in 	IN
+Zep 	1 	12 	1 	33 	1 	their 	PRP$
+Zep 	1 	12 	1 	34 	1 	heart 	NN
+Zep 	1 	12 	1 	35 	0 	,
+Zep 	1 	12 	1 	36 	1 	The 	DT
+Zep 	1 	12 	1 	37 	1 	LORD 	NN
+Zep 	1 	12 	1 	38 	1 	will 	MD
+Zep 	1 	12 	1 	39 	1 	not 	RB
+Zep 	1 	12 	1 	40 	1 	do 	VB
+Zep 	1 	12 	1 	41 	1 	good 	JJ
+Zep 	1 	12 	1 	42 	0 	,
+Zep 	1 	12 	1 	43 	1 	neither 	DT
+Zep 	1 	12 	1 	44 	1 	will 	MD
+Zep 	1 	12 	1 	45 	1 	he 	PRP
+Zep 	1 	12 	1 	46 	1 	do 	VB
+Zep 	1 	12 	1 	47 	1 	evil 	NN
+Zep 	1 	12 	1 	48 	0 	.
+Zep 	1 	13 	1 	1 	1 	Therefore 	RB
+Zep 	1 	13 	1 	2 	1 	their 	PRP$
+Zep 	1 	13 	1 	3 	1 	goods 	NNS
+Zep 	1 	13 	1 	4 	1 	shall 	MD
+Zep 	1 	13 	1 	5 	1 	become 	NN
+Zep 	1 	13 	1 	6 	1 	a 	DT
+Zep 	1 	13 	1 	7 	1 	booty 	NN
+Zep 	1 	13 	1 	8 	0 	,
+Zep 	1 	13 	1 	9 	1 	and 	CC
+Zep 	1 	13 	1 	10 	1 	their 	PRP$
+Zep 	1 	13 	1 	11 	1 	houses 	NNS
+Zep 	1 	13 	1 	12 	1 	a 	DT
+Zep 	1 	13 	1 	13 	1 	desolation 	NN
+Zep 	1 	13 	1 	14 	0 	:
+Zep 	1 	13 	1 	15 	1 	they 	PRP
+Zep 	1 	13 	1 	16 	1 	shall 	MD
+Zep 	1 	13 	1 	17 	1 	also 	RB
+Zep 	1 	13 	1 	18 	1 	build 	NN
+Zep 	1 	13 	1 	19 	1 	houses 	NNS
+Zep 	1 	13 	1 	20 	0 	,
+Zep 	1 	13 	1 	21 	1 	but 	CC
+Zep 	1 	13 	1 	22 	1 	not 	RB
+Zep 	1 	13 	1 	23 	1 	inhabit 	NN
+Zep 	1 	13 	1 	24 	1 	them 	PRP
+Zep 	1 	13 	1 	25 	0 	;
+Zep 	1 	13 	1 	26 	1 	and 	CC
+Zep 	1 	13 	1 	27 	1 	they 	PRP
+Zep 	1 	13 	1 	28 	1 	shall 	MD
+Zep 	1 	13 	1 	29 	1 	plant 	NN
+Zep 	1 	13 	1 	30 	1 	vineyards 	NNS
+Zep 	1 	13 	1 	31 	0 	,
+Zep 	1 	13 	1 	32 	1 	but 	CC
+Zep 	1 	13 	1 	33 	1 	not 	RB
+Zep 	1 	13 	1 	34 	1 	drink 	NN
+Zep 	1 	13 	1 	35 	1 	the 	DT
+Zep 	1 	13 	1 	36 	1 	wine 	NN
+Zep 	1 	13 	1 	37 	1 	thereof 	NN
+Zep 	1 	13 	1 	38 	0 	.
+Zep 	1 	14 	1 	1 	1 	The 	DT
+Zep 	1 	14 	1 	2 	1 	great 	JJ
+Zep 	1 	14 	1 	3 	1 	day 	NN
+Zep 	1 	14 	1 	4 	1 	of 	IN
+Zep 	1 	14 	1 	5 	1 	the 	DT
+Zep 	1 	14 	1 	6 	1 	LORD 	NN
+Zep 	1 	14 	1 	7 	1 	is 	VBZ
+Zep 	1 	14 	1 	8 	1 	near 	IN
+Zep 	1 	14 	1 	9 	0 	,
+Zep 	1 	14 	1 	10 	1 	it 	PRP
+Zep 	1 	14 	1 	11 	1 	is 	VBZ
+Zep 	1 	14 	1 	12 	1 	near 	IN
+Zep 	1 	14 	1 	13 	0 	,
+Zep 	1 	14 	1 	14 	1 	and 	CC
+Zep 	1 	14 	1 	15 	1 	hasteth 	NN
+Zep 	1 	14 	1 	16 	1 	greatly 	RB
+Zep 	1 	14 	1 	17 	0 	,
+Zep 	1 	14 	1 	18 	1 	even 	RB
+Zep 	1 	14 	1 	19 	1 	the 	DT
+Zep 	1 	14 	1 	20 	1 	voice 	NN
+Zep 	1 	14 	1 	21 	1 	of 	IN
+Zep 	1 	14 	1 	22 	1 	the 	DT
+Zep 	1 	14 	1 	23 	1 	day 	NN
+Zep 	1 	14 	1 	24 	1 	of 	IN
+Zep 	1 	14 	1 	25 	1 	the 	DT
+Zep 	1 	14 	1 	26 	1 	LORD 	NN
+Zep 	1 	14 	1 	27 	0 	:
+Zep 	1 	14 	1 	28 	1 	the 	DT
+Zep 	1 	14 	1 	29 	1 	mighty 	NN
+Zep 	1 	14 	1 	30 	1 	man 	NN
+Zep 	1 	14 	1 	31 	1 	shall 	MD
+Zep 	1 	14 	1 	32 	1 	cry 	NN
+Zep 	1 	14 	1 	33 	1 	there 	RB
+Zep 	1 	14 	1 	34 	1 	bitterly 	RB
+Zep 	1 	14 	1 	35 	0 	.
+Zep 	1 	15 	1 	1 	1 	That 	DT
+Zep 	1 	15 	1 	2 	1 	day 	NN
+Zep 	1 	15 	1 	3 	1 	is 	VBZ
+Zep 	1 	15 	1 	4 	1 	a 	DT
+Zep 	1 	15 	1 	5 	1 	day 	NN
+Zep 	1 	15 	1 	6 	1 	of 	IN
+Zep 	1 	15 	1 	7 	1 	wrath 	NN
+Zep 	1 	15 	1 	8 	0 	,
+Zep 	1 	15 	1 	9 	1 	a 	DT
+Zep 	1 	15 	1 	10 	1 	day 	NN
+Zep 	1 	15 	1 	11 	1 	of 	IN
+Zep 	1 	15 	1 	12 	1 	trouble 	NN
+Zep 	1 	15 	1 	13 	1 	and 	CC
+Zep 	1 	15 	1 	14 	1 	distress 	NN
+Zep 	1 	15 	1 	15 	0 	,
+Zep 	1 	15 	1 	16 	1 	a 	DT
+Zep 	1 	15 	1 	17 	1 	day 	NN
+Zep 	1 	15 	1 	18 	1 	of 	IN
+Zep 	1 	15 	1 	19 	1 	wasteness 	NN
+Zep 	1 	15 	1 	20 	1 	and 	CC
+Zep 	1 	15 	1 	21 	1 	desolation 	NN
+Zep 	1 	15 	1 	22 	0 	,
+Zep 	1 	15 	1 	23 	1 	a 	DT
+Zep 	1 	15 	1 	24 	1 	day 	NN
+Zep 	1 	15 	1 	25 	1 	of 	IN
+Zep 	1 	15 	1 	26 	1 	darkness 	NN
+Zep 	1 	15 	1 	27 	1 	and 	CC
+Zep 	1 	15 	1 	28 	1 	gloominess 	NN
+Zep 	1 	15 	1 	29 	0 	,
+Zep 	1 	15 	1 	30 	1 	a 	DT
+Zep 	1 	15 	1 	31 	1 	day 	NN
+Zep 	1 	15 	1 	32 	1 	of 	IN
+Zep 	1 	15 	1 	33 	1 	clouds 	NNS
+Zep 	1 	15 	1 	34 	1 	and 	CC
+Zep 	1 	15 	1 	35 	1 	thick 	NN
+Zep 	1 	15 	1 	36 	1 	darkness 	NN
+Zep 	1 	15 	1 	37 	0 	,
+Zep 	1 	16 	1 	1 	1 	A 	DT
+Zep 	1 	16 	1 	2 	1 	day 	NN
+Zep 	1 	16 	1 	3 	1 	of 	IN
+Zep 	1 	16 	1 	4 	1 	the 	DT
+Zep 	1 	16 	1 	5 	1 	trumpet 	NN
+Zep 	1 	16 	1 	6 	1 	and 	CC
+Zep 	1 	16 	1 	7 	1 	alarm 	NN
+Zep 	1 	16 	1 	8 	1 	against 	IN
+Zep 	1 	16 	1 	9 	1 	the 	DT
+Zep 	1 	16 	1 	10 	1 	fenced 	VBN
+Zep 	1 	16 	1 	11 	1 	cities 	NNS
+Zep 	1 	16 	1 	12 	0 	,
+Zep 	1 	16 	1 	13 	1 	and 	CC
+Zep 	1 	16 	1 	14 	1 	against 	IN
+Zep 	1 	16 	1 	15 	1 	the 	DT
+Zep 	1 	16 	1 	16 	1 	high 	JJ
+Zep 	1 	16 	1 	17 	1 	towers 	NNS
+Zep 	1 	16 	1 	18 	0 	.
+Zep 	1 	17 	1 	1 	1 	And 	CC
+Zep 	1 	17 	1 	2 	1 	I 	PRP
+Zep 	1 	17 	1 	3 	1 	will 	MD
+Zep 	1 	17 	1 	4 	1 	bring 	NN
+Zep 	1 	17 	1 	5 	1 	distress 	NN
+Zep 	1 	17 	1 	6 	1 	upon 	IN
+Zep 	1 	17 	1 	7 	1 	men 	NNS
+Zep 	1 	17 	1 	8 	0 	,
+Zep 	1 	17 	1 	9 	1 	that 	IN
+Zep 	1 	17 	1 	10 	1 	they 	PRP
+Zep 	1 	17 	1 	11 	1 	shall 	MD
+Zep 	1 	17 	1 	12 	1 	walk 	NN
+Zep 	1 	17 	1 	13 	1 	like 	IN
+Zep 	1 	17 	1 	14 	1 	blind 	NN
+Zep 	1 	17 	1 	15 	1 	men 	NNS
+Zep 	1 	17 	1 	16 	0 	,
+Zep 	1 	17 	1 	17 	1 	because 	IN
+Zep 	1 	17 	1 	18 	1 	they 	PRP
+Zep 	1 	17 	1 	19 	1 	have 	VB
+Zep 	1 	17 	1 	20 	1 	sinned 	VBN
+Zep 	1 	17 	1 	21 	1 	against 	IN
+Zep 	1 	17 	1 	22 	1 	the 	DT
+Zep 	1 	17 	1 	23 	1 	LORD 	NN
+Zep 	1 	17 	1 	24 	0 	:
+Zep 	1 	17 	1 	25 	1 	and 	CC
+Zep 	1 	17 	1 	26 	1 	their 	PRP$
+Zep 	1 	17 	1 	27 	1 	blood 	NN
+Zep 	1 	17 	1 	28 	1 	shall 	MD
+Zep 	1 	17 	1 	29 	1 	be 	VB
+Zep 	1 	17 	1 	30 	1 	poured 	VBN
+Zep 	1 	17 	1 	31 	1 	out 	IN
+Zep 	1 	17 	1 	32 	1 	as 	IN
+Zep 	1 	17 	1 	33 	1 	dust 	NN
+Zep 	1 	17 	1 	34 	0 	,
+Zep 	1 	17 	1 	35 	1 	and 	CC
+Zep 	1 	17 	1 	36 	1 	their 	PRP$
+Zep 	1 	17 	1 	37 	1 	flesh 	NN
+Zep 	1 	17 	1 	38 	1 	as 	IN
+Zep 	1 	17 	1 	39 	1 	the 	DT
+Zep 	1 	17 	1 	40 	1 	dung 	NN
+Zep 	1 	17 	1 	41 	0 	.
+Zep 	1 	18 	1 	1 	1 	Neither 	CC
+Zep 	1 	18 	1 	2 	1 	their 	PRP$
+Zep 	1 	18 	1 	3 	1 	silver 	NN
+Zep 	1 	18 	1 	4 	1 	nor 	CC
+Zep 	1 	18 	1 	5 	1 	their 	PRP$
+Zep 	1 	18 	1 	6 	1 	gold 	NN
+Zep 	1 	18 	1 	7 	1 	shall 	MD
+Zep 	1 	18 	1 	8 	1 	be 	VB
+Zep 	1 	18 	1 	9 	1 	able 	JJ
+Zep 	1 	18 	1 	10 	1 	to 	TO
+Zep 	1 	18 	1 	11 	1 	deliver 	NN
+Zep 	1 	18 	1 	12 	1 	them 	PRP
+Zep 	1 	18 	1 	13 	1 	in 	IN
+Zep 	1 	18 	1 	14 	1 	the 	DT
+Zep 	1 	18 	1 	15 	1 	day 	NN
+Zep 	1 	18 	1 	16 	1 	of 	IN
+Zep 	1 	18 	1 	17 	1 	the 	DT
+Zep 	1 	18 	1 	18 	1 	LORD 	NN
+Zep 	1 	18 	1 	19 	0 	's
+Zep 	1 	18 	1 	20 	1 	wrath 	NN
+Zep 	1 	18 	1 	21 	0 	;
+Zep 	1 	18 	1 	22 	1 	but 	CC
+Zep 	1 	18 	1 	23 	1 	the 	DT
+Zep 	1 	18 	1 	24 	1 	whole 	JJ
+Zep 	1 	18 	1 	25 	1 	land 	NN
+Zep 	1 	18 	1 	26 	1 	shall 	MD
+Zep 	1 	18 	1 	27 	1 	be 	VB
+Zep 	1 	18 	1 	28 	1 	devoured 	VBN
+Zep 	1 	18 	1 	29 	1 	by 	IN
+Zep 	1 	18 	1 	30 	1 	the 	DT
+Zep 	1 	18 	1 	31 	1 	fire 	NN
+Zep 	1 	18 	1 	32 	1 	of 	IN
+Zep 	1 	18 	1 	33 	1 	his 	PRP$
+Zep 	1 	18 	1 	34 	1 	jealousy 	NN
+Zep 	1 	18 	1 	35 	0 	:
+Zep 	1 	18 	1 	36 	1 	for 	IN
+Zep 	1 	18 	1 	37 	1 	he 	PRP
+Zep 	1 	18 	1 	38 	1 	shall 	MD
+Zep 	1 	18 	1 	39 	1 	make 	VB
+Zep 	1 	18 	1 	40 	1 	even 	RB
+Zep 	1 	18 	1 	41 	1 	a 	DT
+Zep 	1 	18 	1 	42 	1 	speedy 	NN
+Zep 	1 	18 	1 	43 	1 	riddance 	NN
+Zep 	1 	18 	1 	44 	1 	of 	IN
+Zep 	1 	18 	1 	45 	1 	all 	DT
+Zep 	1 	18 	1 	46 	1 	them 	PRP
+Zep 	1 	18 	1 	47 	1 	that 	IN
+Zep 	1 	18 	1 	48 	1 	dwell 	NN
+Zep 	1 	18 	1 	49 	1 	in 	IN
+Zep 	1 	18 	1 	50 	1 	the 	DT
+Zep 	1 	18 	1 	51 	1 	land 	NN
+Zep 	1 	18 	1 	52 	0 	.
+Zep 	2 	1 	1 	1 	1 	Gather 	NN
+Zep 	2 	1 	1 	2 	1 	yourselves 	NNS
+Zep 	2 	1 	1 	3 	1 	together 	RB
+Zep 	2 	1 	1 	4 	0 	,
+Zep 	2 	1 	1 	5 	1 	yea 	NN
+Zep 	2 	1 	1 	6 	0 	,
+Zep 	2 	1 	1 	7 	1 	gather 	NN
+Zep 	2 	1 	1 	8 	1 	together 	RB
+Zep 	2 	1 	1 	9 	0 	,
+Zep 	2 	1 	1 	10 	1 	O 	NN
+Zep 	2 	1 	1 	11 	1 	nation 	NN
+Zep 	2 	1 	1 	12 	1 	not 	RB
+Zep 	2 	1 	1 	13 	1 	desired 	VBN
+Zep 	2 	1 	1 	14 	0 	;
+Zep 	2 	2 	1 	1 	1 	Before 	IN
+Zep 	2 	2 	1 	2 	1 	the 	DT
+Zep 	2 	2 	1 	3 	1 	decree 	NN
+Zep 	2 	2 	1 	4 	1 	bring 	NN
+Zep 	2 	2 	1 	5 	1 	forth 	NN
+Zep 	2 	2 	1 	6 	0 	,
+Zep 	2 	2 	1 	7 	1 	before 	IN
+Zep 	2 	2 	1 	8 	1 	the 	DT
+Zep 	2 	2 	1 	9 	1 	day 	NN
+Zep 	2 	2 	1 	10 	1 	pass 	NN
+Zep 	2 	2 	1 	11 	1 	as 	IN
+Zep 	2 	2 	1 	12 	1 	the 	DT
+Zep 	2 	2 	1 	13 	1 	chaff 	NN
+Zep 	2 	2 	1 	14 	0 	,
+Zep 	2 	2 	1 	15 	1 	before 	IN
+Zep 	2 	2 	1 	16 	1 	the 	DT
+Zep 	2 	2 	1 	17 	1 	fierce 	NN
+Zep 	2 	2 	1 	18 	1 	anger 	NN
+Zep 	2 	2 	1 	19 	1 	of 	IN
+Zep 	2 	2 	1 	20 	1 	the 	DT
+Zep 	2 	2 	1 	21 	1 	LORD 	NN
+Zep 	2 	2 	1 	22 	1 	come 	VB
+Zep 	2 	2 	1 	23 	1 	upon 	IN
+Zep 	2 	2 	1 	24 	1 	you 	PRP
+Zep 	2 	2 	1 	25 	0 	,
+Zep 	2 	2 	1 	26 	1 	before 	IN
+Zep 	2 	2 	1 	27 	1 	the 	DT
+Zep 	2 	2 	1 	28 	1 	day 	NN
+Zep 	2 	2 	1 	29 	1 	of 	IN
+Zep 	2 	2 	1 	30 	1 	the 	DT
+Zep 	2 	2 	1 	31 	1 	LORD 	NN
+Zep 	2 	2 	1 	32 	0 	's
+Zep 	2 	2 	1 	33 	1 	anger 	NN
+Zep 	2 	2 	1 	34 	1 	come 	VB
+Zep 	2 	2 	1 	35 	1 	upon 	IN
+Zep 	2 	2 	1 	36 	1 	you 	PRP
+Zep 	2 	2 	1 	37 	0 	.
+Zep 	2 	3 	1 	1 	1 	Seek 	NN
+Zep 	2 	3 	1 	2 	1 	ye 	NN
+Zep 	2 	3 	1 	3 	1 	the 	DT
+Zep 	2 	3 	1 	4 	1 	LORD 	NN
+Zep 	2 	3 	1 	5 	0 	,
+Zep 	2 	3 	1 	6 	1 	all 	DT
+Zep 	2 	3 	1 	7 	1 	ye 	NN
+Zep 	2 	3 	1 	8 	1 	meek 	NN
+Zep 	2 	3 	1 	9 	1 	of 	IN
+Zep 	2 	3 	1 	10 	1 	the 	DT
+Zep 	2 	3 	1 	11 	1 	earth 	NN
+Zep 	2 	3 	1 	12 	0 	,
+Zep 	2 	3 	1 	13 	1 	which 	WDT
+Zep 	2 	3 	1 	14 	1 	have 	VB
+Zep 	2 	3 	1 	15 	1 	wrought 	NN
+Zep 	2 	3 	1 	16 	1 	his 	PRP$
+Zep 	2 	3 	1 	17 	1 	judgment 	NN
+Zep 	2 	3 	1 	18 	0 	;
+Zep 	2 	3 	1 	19 	1 	seek 	NN
+Zep 	2 	3 	1 	20 	1 	righteousness 	NN
+Zep 	2 	3 	1 	21 	0 	,
+Zep 	2 	3 	1 	22 	1 	seek 	NN
+Zep 	2 	3 	1 	23 	1 	meekness 	NN
+Zep 	2 	3 	1 	24 	0 	:
+Zep 	2 	3 	1 	25 	1 	it 	PRP
+Zep 	2 	3 	1 	26 	1 	may 	MD
+Zep 	2 	3 	1 	27 	1 	be 	VB
+Zep 	2 	3 	1 	28 	1 	ye 	NN
+Zep 	2 	3 	1 	29 	1 	shall 	MD
+Zep 	2 	3 	1 	30 	1 	be 	VB
+Zep 	2 	3 	1 	31 	1 	hid 	NN
+Zep 	2 	3 	1 	32 	1 	in 	IN
+Zep 	2 	3 	1 	33 	1 	the 	DT
+Zep 	2 	3 	1 	34 	1 	day 	NN
+Zep 	2 	3 	1 	35 	1 	of 	IN
+Zep 	2 	3 	1 	36 	1 	the 	DT
+Zep 	2 	3 	1 	37 	1 	LORD 	NN
+Zep 	2 	3 	1 	38 	0 	's
+Zep 	2 	3 	1 	39 	1 	anger 	NN
+Zep 	2 	3 	1 	40 	0 	.
+Zep 	2 	4 	1 	1 	1 	For 	IN
+Zep 	2 	4 	1 	2 	1 	Gaza 	NN
+Zep 	2 	4 	1 	3 	1 	shall 	MD
+Zep 	2 	4 	1 	4 	1 	be 	VB
+Zep 	2 	4 	1 	5 	1 	forsaken 	NN
+Zep 	2 	4 	1 	6 	0 	,
+Zep 	2 	4 	1 	7 	1 	and 	CC
+Zep 	2 	4 	1 	8 	1 	Ashkelon 	NN
+Zep 	2 	4 	1 	9 	1 	a 	DT
+Zep 	2 	4 	1 	10 	1 	desolation 	NN
+Zep 	2 	4 	1 	11 	0 	:
+Zep 	2 	4 	1 	12 	1 	they 	PRP
+Zep 	2 	4 	1 	13 	1 	shall 	MD
+Zep 	2 	4 	1 	14 	1 	drive 	NN
+Zep 	2 	4 	1 	15 	1 	out 	IN
+Zep 	2 	4 	1 	16 	1 	Ashdod 	NN
+Zep 	2 	4 	1 	17 	1 	at 	IN
+Zep 	2 	4 	1 	18 	1 	the 	DT
+Zep 	2 	4 	1 	19 	1 	noon 	NN
+Zep 	2 	4 	1 	20 	1 	day 	NN
+Zep 	2 	4 	1 	21 	0 	,
+Zep 	2 	4 	1 	22 	1 	and 	CC
+Zep 	2 	4 	1 	23 	1 	Ekron 	NN
+Zep 	2 	4 	1 	24 	1 	shall 	MD
+Zep 	2 	4 	1 	25 	1 	be 	VB
+Zep 	2 	4 	1 	26 	1 	rooted 	VBN
+Zep 	2 	4 	1 	27 	1 	up 	RB
+Zep 	2 	4 	1 	28 	0 	.
+Zep 	2 	5 	1 	1 	1 	Woe 	NN
+Zep 	2 	5 	1 	2 	1 	unto 	NN
+Zep 	2 	5 	1 	3 	1 	the 	DT
+Zep 	2 	5 	1 	4 	1 	inhabitants 	NNS
+Zep 	2 	5 	1 	5 	1 	of 	IN
+Zep 	2 	5 	1 	6 	1 	the 	DT
+Zep 	2 	5 	1 	7 	1 	sea 	NN
+Zep 	2 	5 	1 	8 	1 	coast 	NN
+Zep 	2 	5 	1 	9 	0 	,
+Zep 	2 	5 	1 	10 	1 	the 	DT
+Zep 	2 	5 	1 	11 	1 	nation 	NN
+Zep 	2 	5 	1 	12 	1 	of 	IN
+Zep 	2 	5 	1 	13 	1 	the 	DT
+Zep 	2 	5 	1 	14 	1 	Cherethites 	NNS
+Zep 	2 	5 	1 	15 	0 	!
+Zep 	2 	5 	2 	1 	1 	the 	DT
+Zep 	2 	5 	2 	2 	1 	word 	NN
+Zep 	2 	5 	2 	3 	1 	of 	IN
+Zep 	2 	5 	2 	4 	1 	the 	DT
+Zep 	2 	5 	2 	5 	1 	LORD 	NN
+Zep 	2 	5 	2 	6 	1 	is 	VBZ
+Zep 	2 	5 	2 	7 	1 	against 	IN
+Zep 	2 	5 	2 	8 	1 	you 	PRP
+Zep 	2 	5 	2 	9 	0 	;
+Zep 	2 	5 	2 	10 	1 	O 	NN
+Zep 	2 	5 	2 	11 	1 	Canaan 	NN
+Zep 	2 	5 	2 	12 	0 	,
+Zep 	2 	5 	2 	13 	1 	the 	DT
+Zep 	2 	5 	2 	14 	1 	land 	NN
+Zep 	2 	5 	2 	15 	1 	of 	IN
+Zep 	2 	5 	2 	16 	1 	the 	DT
+Zep 	2 	5 	2 	17 	1 	Philistines 	NNS
+Zep 	2 	5 	2 	18 	0 	,
+Zep 	2 	5 	2 	19 	1 	I 	PRP
+Zep 	2 	5 	2 	20 	1 	will 	MD
+Zep 	2 	5 	2 	21 	1 	even 	RB
+Zep 	2 	5 	2 	22 	1 	destroy 	NN
+Zep 	2 	5 	2 	23 	1 	thee 	NN
+Zep 	2 	5 	2 	24 	0 	,
+Zep 	2 	5 	2 	25 	1 	that 	IN
+Zep 	2 	5 	2 	26 	1 	there 	RB
+Zep 	2 	5 	2 	27 	1 	shall 	MD
+Zep 	2 	5 	2 	28 	1 	be 	VB
+Zep 	2 	5 	2 	29 	1 	no 	DT
+Zep 	2 	5 	2 	30 	1 	inhabitant 	NN
+Zep 	2 	5 	2 	31 	0 	.
+Zep 	2 	6 	1 	1 	1 	And 	CC
+Zep 	2 	6 	1 	2 	1 	the 	DT
+Zep 	2 	6 	1 	3 	1 	sea 	NN
+Zep 	2 	6 	1 	4 	1 	coast 	NN
+Zep 	2 	6 	1 	5 	1 	shall 	MD
+Zep 	2 	6 	1 	6 	1 	be 	VB
+Zep 	2 	6 	1 	7 	1 	dwellings 	NNS
+Zep 	2 	6 	1 	8 	1 	and 	CC
+Zep 	2 	6 	1 	9 	1 	cottages 	NNS
+Zep 	2 	6 	1 	10 	1 	for 	IN
+Zep 	2 	6 	1 	11 	1 	shepherds 	NNS
+Zep 	2 	6 	1 	12 	0 	,
+Zep 	2 	6 	1 	13 	1 	and 	CC
+Zep 	2 	6 	1 	14 	1 	folds 	NNS
+Zep 	2 	6 	1 	15 	1 	for 	IN
+Zep 	2 	6 	1 	16 	1 	flocks 	NNS
+Zep 	2 	6 	1 	17 	0 	.
+Zep 	2 	7 	1 	1 	1 	And 	CC
+Zep 	2 	7 	1 	2 	1 	the 	DT
+Zep 	2 	7 	1 	3 	1 	coast 	NN
+Zep 	2 	7 	1 	4 	1 	shall 	MD
+Zep 	2 	7 	1 	5 	1 	be 	VB
+Zep 	2 	7 	1 	6 	1 	for 	IN
+Zep 	2 	7 	1 	7 	1 	the 	DT
+Zep 	2 	7 	1 	8 	1 	remnant 	NN
+Zep 	2 	7 	1 	9 	1 	of 	IN
+Zep 	2 	7 	1 	10 	1 	the 	DT
+Zep 	2 	7 	1 	11 	1 	house 	NN
+Zep 	2 	7 	1 	12 	1 	of 	IN
+Zep 	2 	7 	1 	13 	1 	Judah 	NN
+Zep 	2 	7 	1 	14 	0 	;
+Zep 	2 	7 	1 	15 	1 	they 	PRP
+Zep 	2 	7 	1 	16 	1 	shall 	MD
+Zep 	2 	7 	1 	17 	1 	feed 	NN
+Zep 	2 	7 	1 	18 	1 	thereupon 	NN
+Zep 	2 	7 	1 	19 	0 	:
+Zep 	2 	7 	1 	20 	1 	in 	IN
+Zep 	2 	7 	1 	21 	1 	the 	DT
+Zep 	2 	7 	1 	22 	1 	houses 	NNS
+Zep 	2 	7 	1 	23 	1 	of 	IN
+Zep 	2 	7 	1 	24 	1 	Ashkelon 	NN
+Zep 	2 	7 	1 	25 	1 	shall 	MD
+Zep 	2 	7 	1 	26 	1 	they 	PRP
+Zep 	2 	7 	1 	27 	1 	lie 	NN
+Zep 	2 	7 	1 	28 	1 	down 	RB
+Zep 	2 	7 	1 	29 	1 	in 	IN
+Zep 	2 	7 	1 	30 	1 	the 	DT
+Zep 	2 	7 	1 	31 	1 	evening 	VBG
+Zep 	2 	7 	1 	32 	0 	:
+Zep 	2 	7 	1 	33 	1 	for 	IN
+Zep 	2 	7 	1 	34 	1 	the 	DT
+Zep 	2 	7 	1 	35 	1 	LORD 	NN
+Zep 	2 	7 	1 	36 	1 	their 	PRP$
+Zep 	2 	7 	1 	37 	1 	God 	NNP
+Zep 	2 	7 	1 	38 	1 	shall 	MD
+Zep 	2 	7 	1 	39 	1 	visit 	NN
+Zep 	2 	7 	1 	40 	1 	them 	PRP
+Zep 	2 	7 	1 	41 	0 	,
+Zep 	2 	7 	1 	42 	1 	and 	CC
+Zep 	2 	7 	1 	43 	1 	turn 	NN
+Zep 	2 	7 	1 	44 	1 	away 	RB
+Zep 	2 	7 	1 	45 	1 	their 	PRP$
+Zep 	2 	7 	1 	46 	1 	captivity 	NN
+Zep 	2 	7 	1 	47 	0 	.
+Zep 	2 	8 	1 	1 	1 	I 	PRP
+Zep 	2 	8 	1 	2 	1 	have 	VB
+Zep 	2 	8 	1 	3 	1 	heard 	NN
+Zep 	2 	8 	1 	4 	1 	the 	DT
+Zep 	2 	8 	1 	5 	1 	reproach 	NN
+Zep 	2 	8 	1 	6 	1 	of 	IN
+Zep 	2 	8 	1 	7 	1 	Moab 	NN
+Zep 	2 	8 	1 	8 	0 	,
+Zep 	2 	8 	1 	9 	1 	and 	CC
+Zep 	2 	8 	1 	10 	1 	the 	DT
+Zep 	2 	8 	1 	11 	1 	revilings 	NNS
+Zep 	2 	8 	1 	12 	1 	of 	IN
+Zep 	2 	8 	1 	13 	1 	the 	DT
+Zep 	2 	8 	1 	14 	1 	children 	NNS
+Zep 	2 	8 	1 	15 	1 	of 	IN
+Zep 	2 	8 	1 	16 	1 	Ammon 	NN
+Zep 	2 	8 	1 	17 	0 	,
+Zep 	2 	8 	1 	18 	1 	whereby 	NN
+Zep 	2 	8 	1 	19 	1 	they 	PRP
+Zep 	2 	8 	1 	20 	1 	have 	VB
+Zep 	2 	8 	1 	21 	1 	reproached 	VBN
+Zep 	2 	8 	1 	22 	1 	my 	PRP$
+Zep 	2 	8 	1 	23 	1 	people 	NNS
+Zep 	2 	8 	1 	24 	0 	,
+Zep 	2 	8 	1 	25 	1 	and 	CC
+Zep 	2 	8 	1 	26 	1 	magnified 	VBN
+Zep 	2 	8 	1 	27 	1 	themselves 	PRP
+Zep 	2 	8 	1 	28 	1 	against 	IN
+Zep 	2 	8 	1 	29 	1 	their 	PRP$
+Zep 	2 	8 	1 	30 	1 	border 	NN
+Zep 	2 	8 	1 	31 	0 	.
+Zep 	2 	9 	1 	1 	1 	Therefore 	RB
+Zep 	2 	9 	1 	2 	1 	as 	IN
+Zep 	2 	9 	1 	3 	1 	I 	PRP
+Zep 	2 	9 	1 	4 	1 	live 	JJ
+Zep 	2 	9 	1 	5 	0 	,
+Zep 	2 	9 	1 	6 	1 	saith 	NN
+Zep 	2 	9 	1 	7 	1 	the 	DT
+Zep 	2 	9 	1 	8 	1 	LORD 	NN
+Zep 	2 	9 	1 	9 	1 	of 	IN
+Zep 	2 	9 	1 	10 	1 	hosts 	NNS
+Zep 	2 	9 	1 	11 	0 	,
+Zep 	2 	9 	1 	12 	1 	the 	DT
+Zep 	2 	9 	1 	13 	1 	God 	NNP
+Zep 	2 	9 	1 	14 	1 	of 	IN
+Zep 	2 	9 	1 	15 	1 	Israel 	NNP
+Zep 	2 	9 	1 	16 	0 	,
+Zep 	2 	9 	1 	17 	1 	Surely 	RB
+Zep 	2 	9 	1 	18 	1 	Moab 	NN
+Zep 	2 	9 	1 	19 	1 	shall 	MD
+Zep 	2 	9 	1 	20 	1 	be 	VB
+Zep 	2 	9 	1 	21 	1 	as 	IN
+Zep 	2 	9 	1 	22 	1 	Sodom 	NN
+Zep 	2 	9 	1 	23 	0 	,
+Zep 	2 	9 	1 	24 	1 	and 	CC
+Zep 	2 	9 	1 	25 	1 	the 	DT
+Zep 	2 	9 	1 	26 	1 	children 	NNS
+Zep 	2 	9 	1 	27 	1 	of 	IN
+Zep 	2 	9 	1 	28 	1 	Ammon 	NN
+Zep 	2 	9 	1 	29 	1 	as 	IN
+Zep 	2 	9 	1 	30 	1 	Gomorrah 	NN
+Zep 	2 	9 	1 	31 	0 	,
+Zep 	2 	9 	1 	32 	1 	even 	RB
+Zep 	2 	9 	1 	33 	1 	the 	DT
+Zep 	2 	9 	1 	34 	1 	breeding 	NN
+Zep 	2 	9 	1 	35 	1 	of 	IN
+Zep 	2 	9 	1 	36 	1 	nettles 	NNS
+Zep 	2 	9 	1 	37 	0 	,
+Zep 	2 	9 	1 	38 	1 	and 	CC
+Zep 	2 	9 	1 	39 	1 	saltpits 	NNS
+Zep 	2 	9 	1 	40 	0 	,
+Zep 	2 	9 	1 	41 	1 	and 	CC
+Zep 	2 	9 	1 	42 	1 	a 	DT
+Zep 	2 	9 	1 	43 	1 	perpetual 	JJ
+Zep 	2 	9 	1 	44 	1 	desolation 	NN
+Zep 	2 	9 	1 	45 	0 	:
+Zep 	2 	9 	1 	46 	1 	the 	DT
+Zep 	2 	9 	1 	47 	1 	residue 	NN
+Zep 	2 	9 	1 	48 	1 	of 	IN
+Zep 	2 	9 	1 	49 	1 	my 	PRP$
+Zep 	2 	9 	1 	50 	1 	people 	NNS
+Zep 	2 	9 	1 	51 	1 	shall 	MD
+Zep 	2 	9 	1 	52 	1 	spoil 	NN
+Zep 	2 	9 	1 	53 	1 	them 	PRP
+Zep 	2 	9 	1 	54 	0 	,
+Zep 	2 	9 	1 	55 	1 	and 	CC
+Zep 	2 	9 	1 	56 	1 	the 	DT
+Zep 	2 	9 	1 	57 	1 	remnant 	NN
+Zep 	2 	9 	1 	58 	1 	of 	IN
+Zep 	2 	9 	1 	59 	1 	my 	PRP$
+Zep 	2 	9 	1 	60 	1 	people 	NNS
+Zep 	2 	9 	1 	61 	1 	shall 	MD
+Zep 	2 	9 	1 	62 	1 	possess 	NN
+Zep 	2 	9 	1 	63 	1 	them 	PRP
+Zep 	2 	9 	1 	64 	0 	.
+Zep 	2 	10 	1 	1 	1 	This 	DT
+Zep 	2 	10 	1 	2 	1 	shall 	MD
+Zep 	2 	10 	1 	3 	1 	they 	PRP
+Zep 	2 	10 	1 	4 	1 	have 	VB
+Zep 	2 	10 	1 	5 	1 	for 	IN
+Zep 	2 	10 	1 	6 	1 	their 	PRP$
+Zep 	2 	10 	1 	7 	1 	pride 	NN
+Zep 	2 	10 	1 	8 	0 	,
+Zep 	2 	10 	1 	9 	1 	because 	IN
+Zep 	2 	10 	1 	10 	1 	they 	PRP
+Zep 	2 	10 	1 	11 	1 	have 	VB
+Zep 	2 	10 	1 	12 	1 	reproached 	VBN
+Zep 	2 	10 	1 	13 	1 	and 	CC
+Zep 	2 	10 	1 	14 	1 	magnified 	VBN
+Zep 	2 	10 	1 	15 	1 	themselves 	PRP
+Zep 	2 	10 	1 	16 	1 	against 	IN
+Zep 	2 	10 	1 	17 	1 	the 	DT
+Zep 	2 	10 	1 	18 	1 	people 	NNS
+Zep 	2 	10 	1 	19 	1 	of 	IN
+Zep 	2 	10 	1 	20 	1 	the 	DT
+Zep 	2 	10 	1 	21 	1 	LORD 	NN
+Zep 	2 	10 	1 	22 	1 	of 	IN
+Zep 	2 	10 	1 	23 	1 	hosts 	NNS
+Zep 	2 	10 	1 	24 	0 	.
+Zep 	2 	11 	1 	1 	1 	The 	DT
+Zep 	2 	11 	1 	2 	1 	LORD 	NN
+Zep 	2 	11 	1 	3 	1 	will 	MD
+Zep 	2 	11 	1 	4 	1 	be 	VB
+Zep 	2 	11 	1 	5 	1 	terrible 	JJ
+Zep 	2 	11 	1 	6 	1 	unto 	NN
+Zep 	2 	11 	1 	7 	1 	them 	PRP
+Zep 	2 	11 	1 	8 	0 	:
+Zep 	2 	11 	1 	9 	1 	for 	IN
+Zep 	2 	11 	1 	10 	1 	he 	PRP
+Zep 	2 	11 	1 	11 	1 	will 	MD
+Zep 	2 	11 	1 	12 	1 	famish 	JJ
+Zep 	2 	11 	1 	13 	1 	all 	DT
+Zep 	2 	11 	1 	14 	1 	the 	DT
+Zep 	2 	11 	1 	15 	1 	gods 	NNS
+Zep 	2 	11 	1 	16 	1 	of 	IN
+Zep 	2 	11 	1 	17 	1 	the 	DT
+Zep 	2 	11 	1 	18 	1 	earth 	NN
+Zep 	2 	11 	1 	19 	0 	;
+Zep 	2 	11 	1 	20 	1 	and 	CC
+Zep 	2 	11 	1 	21 	1 	men 	NNS
+Zep 	2 	11 	1 	22 	1 	shall 	MD
+Zep 	2 	11 	1 	23 	1 	worship 	NN
+Zep 	2 	11 	1 	24 	1 	him 	PRP
+Zep 	2 	11 	1 	25 	0 	,
+Zep 	2 	11 	1 	26 	1 	every 	DT
+Zep 	2 	11 	1 	27 	1 	one 	CD
+Zep 	2 	11 	1 	28 	1 	from 	IN
+Zep 	2 	11 	1 	29 	1 	his 	PRP$
+Zep 	2 	11 	1 	30 	1 	place 	NN
+Zep 	2 	11 	1 	31 	0 	,
+Zep 	2 	11 	1 	32 	1 	even 	RB
+Zep 	2 	11 	1 	33 	1 	all 	DT
+Zep 	2 	11 	1 	34 	1 	the 	DT
+Zep 	2 	11 	1 	35 	1 	isles 	NNS
+Zep 	2 	11 	1 	36 	1 	of 	IN
+Zep 	2 	11 	1 	37 	1 	the 	DT
+Zep 	2 	11 	1 	38 	1 	heathen 	NN
+Zep 	2 	11 	1 	39 	0 	.
+Zep 	2 	12 	1 	1 	1 	Ye 	NN
+Zep 	2 	12 	1 	2 	1 	Ethiopians 	NNS
+Zep 	2 	12 	1 	3 	1 	also 	RB
+Zep 	2 	12 	1 	4 	0 	,
+Zep 	2 	12 	1 	5 	1 	ye 	NN
+Zep 	2 	12 	1 	6 	1 	shall 	MD
+Zep 	2 	12 	1 	7 	1 	be 	VB
+Zep 	2 	12 	1 	8 	1 	slain 	NN
+Zep 	2 	12 	1 	9 	1 	by 	IN
+Zep 	2 	12 	1 	10 	1 	my 	PRP$
+Zep 	2 	12 	1 	11 	1 	sword 	NN
+Zep 	2 	12 	1 	12 	0 	.
+Zep 	2 	13 	1 	1 	1 	And 	CC
+Zep 	2 	13 	1 	2 	1 	he 	PRP
+Zep 	2 	13 	1 	3 	1 	will 	MD
+Zep 	2 	13 	1 	4 	1 	stretch 	NN
+Zep 	2 	13 	1 	5 	1 	out 	IN
+Zep 	2 	13 	1 	6 	1 	his 	PRP$
+Zep 	2 	13 	1 	7 	1 	hand 	NN
+Zep 	2 	13 	1 	8 	1 	against 	IN
+Zep 	2 	13 	1 	9 	1 	the 	DT
+Zep 	2 	13 	1 	10 	1 	north 	NN
+Zep 	2 	13 	1 	11 	0 	,
+Zep 	2 	13 	1 	12 	1 	and 	CC
+Zep 	2 	13 	1 	13 	1 	destroy 	NN
+Zep 	2 	13 	1 	14 	1 	Assyria 	NNS
+Zep 	2 	13 	1 	15 	0 	;
+Zep 	2 	13 	1 	16 	1 	and 	CC
+Zep 	2 	13 	1 	17 	1 	will 	MD
+Zep 	2 	13 	1 	18 	1 	make 	VB
+Zep 	2 	13 	1 	19 	1 	Nineveh 	NN
+Zep 	2 	13 	1 	20 	1 	a 	DT
+Zep 	2 	13 	1 	21 	1 	desolation 	NN
+Zep 	2 	13 	1 	22 	0 	,
+Zep 	2 	13 	1 	23 	1 	and 	CC
+Zep 	2 	13 	1 	24 	1 	dry 	NN
+Zep 	2 	13 	1 	25 	1 	like 	IN
+Zep 	2 	13 	1 	26 	1 	a 	DT
+Zep 	2 	13 	1 	27 	1 	wilderness 	NN
+Zep 	2 	13 	1 	28 	0 	.
+Zep 	2 	14 	1 	1 	1 	And 	CC
+Zep 	2 	14 	1 	2 	1 	flocks 	NNS
+Zep 	2 	14 	1 	3 	1 	shall 	MD
+Zep 	2 	14 	1 	4 	1 	lie 	NN
+Zep 	2 	14 	1 	5 	1 	down 	RB
+Zep 	2 	14 	1 	6 	1 	in 	IN
+Zep 	2 	14 	1 	7 	1 	the 	DT
+Zep 	2 	14 	1 	8 	1 	midst 	NN
+Zep 	2 	14 	1 	9 	1 	of 	IN
+Zep 	2 	14 	1 	10 	1 	her 	PRP$
+Zep 	2 	14 	1 	11 	0 	,
+Zep 	2 	14 	1 	12 	1 	all 	DT
+Zep 	2 	14 	1 	13 	1 	the 	DT
+Zep 	2 	14 	1 	14 	1 	beasts 	NNS
+Zep 	2 	14 	1 	15 	1 	of 	IN
+Zep 	2 	14 	1 	16 	1 	the 	DT
+Zep 	2 	14 	1 	17 	1 	nations 	NNS
+Zep 	2 	14 	1 	18 	0 	:
+Zep 	2 	14 	1 	19 	1 	both 	DT
+Zep 	2 	14 	1 	20 	1 	the 	DT
+Zep 	2 	14 	1 	21 	1 	cormorant 	NN
+Zep 	2 	14 	1 	22 	1 	and 	CC
+Zep 	2 	14 	1 	23 	1 	the 	DT
+Zep 	2 	14 	1 	24 	1 	bittern 	NN
+Zep 	2 	14 	1 	25 	1 	shall 	MD
+Zep 	2 	14 	1 	26 	1 	lodge 	NN
+Zep 	2 	14 	1 	27 	1 	in 	IN
+Zep 	2 	14 	1 	28 	1 	the 	DT
+Zep 	2 	14 	1 	29 	1 	upper 	JJ
+Zep 	2 	14 	1 	30 	1 	lintels 	NNS
+Zep 	2 	14 	1 	31 	1 	of 	IN
+Zep 	2 	14 	1 	32 	1 	it 	PRP
+Zep 	2 	14 	1 	33 	0 	;
+Zep 	2 	14 	1 	34 	1 	their 	PRP$
+Zep 	2 	14 	1 	35 	1 	voice 	NN
+Zep 	2 	14 	1 	36 	1 	shall 	MD
+Zep 	2 	14 	1 	37 	1 	sing 	VBG
+Zep 	2 	14 	1 	38 	1 	in 	IN
+Zep 	2 	14 	1 	39 	1 	the 	DT
+Zep 	2 	14 	1 	40 	1 	windows 	NNS
+Zep 	2 	14 	1 	41 	0 	;
+Zep 	2 	14 	1 	42 	1 	desolation 	NN
+Zep 	2 	14 	1 	43 	1 	shall 	MD
+Zep 	2 	14 	1 	44 	1 	be 	VB
+Zep 	2 	14 	1 	45 	1 	in 	IN
+Zep 	2 	14 	1 	46 	1 	the 	DT
+Zep 	2 	14 	1 	47 	1 	thresholds 	NNS
+Zep 	2 	14 	1 	48 	0 	;
+Zep 	2 	14 	1 	49 	1 	for 	IN
+Zep 	2 	14 	1 	50 	1 	he 	PRP
+Zep 	2 	14 	1 	51 	1 	shall 	MD
+Zep 	2 	14 	1 	52 	1 	uncover 	NN
+Zep 	2 	14 	1 	53 	1 	the 	DT
+Zep 	2 	14 	1 	54 	1 	cedar 	NN
+Zep 	2 	14 	1 	55 	1 	work 	NN
+Zep 	2 	14 	1 	56 	0 	.
+Zep 	2 	15 	1 	1 	1 	This 	DT
+Zep 	2 	15 	1 	2 	1 	is 	VBZ
+Zep 	2 	15 	1 	3 	1 	the 	DT
+Zep 	2 	15 	1 	4 	1 	rejoicing 	VBG
+Zep 	2 	15 	1 	5 	1 	city 	NN
+Zep 	2 	15 	1 	6 	1 	that 	IN
+Zep 	2 	15 	1 	7 	1 	dwelt 	NN
+Zep 	2 	15 	1 	8 	1 	carelessly 	RB
+Zep 	2 	15 	1 	9 	0 	,
+Zep 	2 	15 	1 	10 	1 	that 	IN
+Zep 	2 	15 	1 	11 	1 	said 	VBD
+Zep 	2 	15 	1 	12 	1 	in 	IN
+Zep 	2 	15 	1 	13 	1 	her 	PRP$
+Zep 	2 	15 	1 	14 	1 	heart 	NN
+Zep 	2 	15 	1 	15 	0 	,
+Zep 	2 	15 	1 	16 	1 	I 	PRP
+Zep 	2 	15 	1 	17 	1 	am 	VBP
+Zep 	2 	15 	1 	18 	0 	,
+Zep 	2 	15 	1 	19 	1 	and 	CC
+Zep 	2 	15 	1 	20 	1 	there 	RB
+Zep 	2 	15 	1 	21 	1 	is 	VBZ
+Zep 	2 	15 	1 	22 	1 	none 	NN
+Zep 	2 	15 	1 	23 	1 	beside 	NN
+Zep 	2 	15 	1 	24 	1 	me 	PRP
+Zep 	2 	15 	1 	25 	0 	:
+Zep 	2 	15 	1 	26 	1 	how 	WRB
+Zep 	2 	15 	1 	27 	1 	is 	VBZ
+Zep 	2 	15 	1 	28 	1 	she 	PRP
+Zep 	2 	15 	1 	29 	1 	become 	NN
+Zep 	2 	15 	1 	30 	1 	a 	DT
+Zep 	2 	15 	1 	31 	1 	desolation 	NN
+Zep 	2 	15 	1 	32 	0 	,
+Zep 	2 	15 	1 	33 	1 	a 	DT
+Zep 	2 	15 	1 	34 	1 	place 	NN
+Zep 	2 	15 	1 	35 	1 	for 	IN
+Zep 	2 	15 	1 	36 	1 	beasts 	NNS
+Zep 	2 	15 	1 	37 	1 	to 	TO
+Zep 	2 	15 	1 	38 	1 	lie 	NN
+Zep 	2 	15 	1 	39 	1 	down 	RB
+Zep 	2 	15 	1 	40 	1 	in 	IN
+Zep 	2 	15 	1 	41 	0 	!
+Zep 	2 	15 	2 	1 	1 	every 	DT
+Zep 	2 	15 	2 	2 	1 	one 	CD
+Zep 	2 	15 	2 	3 	1 	that 	IN
+Zep 	2 	15 	2 	4 	1 	passeth 	NN
+Zep 	2 	15 	2 	5 	1 	by 	IN
+Zep 	2 	15 	2 	6 	1 	her 	PRP$
+Zep 	2 	15 	2 	7 	1 	shall 	MD
+Zep 	2 	15 	2 	8 	1 	hiss 	NN
+Zep 	2 	15 	2 	9 	0 	,
+Zep 	2 	15 	2 	10 	1 	and 	CC
+Zep 	2 	15 	2 	11 	1 	wag 	NN
+Zep 	2 	15 	2 	12 	1 	his 	PRP$
+Zep 	2 	15 	2 	13 	1 	hand 	NN
+Zep 	2 	15 	2 	14 	0 	.
+Zep 	3 	1 	1 	1 	1 	Woe 	NN
+Zep 	3 	1 	1 	2 	1 	to 	TO
+Zep 	3 	1 	1 	3 	1 	her 	PRP$
+Zep 	3 	1 	1 	4 	1 	that 	IN
+Zep 	3 	1 	1 	5 	1 	is 	VBZ
+Zep 	3 	1 	1 	6 	1 	filthy 	NN
+Zep 	3 	1 	1 	7 	1 	and 	CC
+Zep 	3 	1 	1 	8 	1 	polluted 	VBN
+Zep 	3 	1 	1 	9 	0 	,
+Zep 	3 	1 	1 	10 	1 	to 	TO
+Zep 	3 	1 	1 	11 	1 	the 	DT
+Zep 	3 	1 	1 	12 	1 	oppressing 	VBG
+Zep 	3 	1 	1 	13 	1 	city 	NN
+Zep 	3 	1 	1 	14 	0 	!
+Zep 	3 	2 	1 	1 	1 	She 	PRP
+Zep 	3 	2 	1 	2 	1 	obeyed 	NNS
+Zep 	3 	2 	1 	3 	1 	not 	RB
+Zep 	3 	2 	1 	4 	1 	the 	DT
+Zep 	3 	2 	1 	5 	1 	voice 	NN
+Zep 	3 	2 	1 	6 	0 	;
+Zep 	3 	2 	1 	7 	1 	she 	PRP
+Zep 	3 	2 	1 	8 	1 	received 	VBN
+Zep 	3 	2 	1 	9 	1 	not 	RB
+Zep 	3 	2 	1 	10 	1 	correction 	NN
+Zep 	3 	2 	1 	11 	0 	;
+Zep 	3 	2 	1 	12 	1 	she 	PRP
+Zep 	3 	2 	1 	13 	1 	trusted 	VBN
+Zep 	3 	2 	1 	14 	1 	not 	RB
+Zep 	3 	2 	1 	15 	1 	in 	IN
+Zep 	3 	2 	1 	16 	1 	the 	DT
+Zep 	3 	2 	1 	17 	1 	LORD 	NN
+Zep 	3 	2 	1 	18 	0 	;
+Zep 	3 	2 	1 	19 	1 	she 	PRP
+Zep 	3 	2 	1 	20 	1 	drew 	NN
+Zep 	3 	2 	1 	21 	1 	not 	RB
+Zep 	3 	2 	1 	22 	1 	near 	IN
+Zep 	3 	2 	1 	23 	1 	to 	TO
+Zep 	3 	2 	1 	24 	1 	her 	PRP$
+Zep 	3 	2 	1 	25 	1 	God 	NNP
+Zep 	3 	2 	1 	26 	0 	.
+Zep 	3 	3 	1 	1 	1 	Her 	PRP$
+Zep 	3 	3 	1 	2 	1 	princes 	NNS
+Zep 	3 	3 	1 	3 	1 	within 	IN
+Zep 	3 	3 	1 	4 	1 	her 	PRP$
+Zep 	3 	3 	1 	5 	1 	are 	VBP
+Zep 	3 	3 	1 	6 	1 	roaring 	VBG
+Zep 	3 	3 	1 	7 	1 	lions 	NNS
+Zep 	3 	3 	1 	8 	0 	;
+Zep 	3 	3 	1 	9 	1 	her 	PRP$
+Zep 	3 	3 	1 	10 	1 	judges 	NNS
+Zep 	3 	3 	1 	11 	1 	are 	VBP
+Zep 	3 	3 	1 	12 	1 	evening 	VBG
+Zep 	3 	3 	1 	13 	1 	wolves 	NNS
+Zep 	3 	3 	1 	14 	0 	;
+Zep 	3 	3 	1 	15 	1 	they 	PRP
+Zep 	3 	3 	1 	16 	1 	gnaw 	NN
+Zep 	3 	3 	1 	17 	1 	not 	RB
+Zep 	3 	3 	1 	18 	1 	the 	DT
+Zep 	3 	3 	1 	19 	1 	bones 	NNS
+Zep 	3 	3 	1 	20 	1 	till 	NN
+Zep 	3 	3 	1 	21 	1 	the 	DT
+Zep 	3 	3 	1 	22 	1 	morrow 	NN
+Zep 	3 	3 	1 	23 	0 	.
+Zep 	3 	4 	1 	1 	1 	Her 	PRP$
+Zep 	3 	4 	1 	2 	1 	prophets 	NNS
+Zep 	3 	4 	1 	3 	1 	are 	VBP
+Zep 	3 	4 	1 	4 	1 	light 	NN
+Zep 	3 	4 	1 	5 	1 	and 	CC
+Zep 	3 	4 	1 	6 	1 	treacherous 	JJ
+Zep 	3 	4 	1 	7 	1 	persons 	NNS
+Zep 	3 	4 	1 	8 	0 	:
+Zep 	3 	4 	1 	9 	1 	her 	PRP$
+Zep 	3 	4 	1 	10 	1 	priests 	NNS
+Zep 	3 	4 	1 	11 	1 	have 	VB
+Zep 	3 	4 	1 	12 	1 	polluted 	VBN
+Zep 	3 	4 	1 	13 	1 	the 	DT
+Zep 	3 	4 	1 	14 	1 	sanctuary 	NN
+Zep 	3 	4 	1 	15 	0 	,
+Zep 	3 	4 	1 	16 	1 	they 	PRP
+Zep 	3 	4 	1 	17 	1 	have 	VB
+Zep 	3 	4 	1 	18 	1 	done 	VBN
+Zep 	3 	4 	1 	19 	1 	violence 	NN
+Zep 	3 	4 	1 	20 	1 	to 	TO
+Zep 	3 	4 	1 	21 	1 	the 	DT
+Zep 	3 	4 	1 	22 	1 	law 	NN
+Zep 	3 	4 	1 	23 	0 	.
+Zep 	3 	5 	1 	1 	1 	The 	DT
+Zep 	3 	5 	1 	2 	1 	just 	RB
+Zep 	3 	5 	1 	3 	1 	LORD 	NN
+Zep 	3 	5 	1 	4 	1 	is 	VBZ
+Zep 	3 	5 	1 	5 	1 	in 	IN
+Zep 	3 	5 	1 	6 	1 	the 	DT
+Zep 	3 	5 	1 	7 	1 	midst 	NN
+Zep 	3 	5 	1 	8 	1 	thereof 	NN
+Zep 	3 	5 	1 	9 	0 	;
+Zep 	3 	5 	1 	10 	1 	he 	PRP
+Zep 	3 	5 	1 	11 	1 	will 	MD
+Zep 	3 	5 	1 	12 	1 	not 	RB
+Zep 	3 	5 	1 	13 	1 	do 	VB
+Zep 	3 	5 	1 	14 	1 	iniquity 	NN
+Zep 	3 	5 	1 	15 	0 	:
+Zep 	3 	5 	1 	16 	1 	every 	DT
+Zep 	3 	5 	1 	17 	1 	morning 	NN
+Zep 	3 	5 	1 	18 	1 	doth 	NN
+Zep 	3 	5 	1 	19 	1 	he 	PRP
+Zep 	3 	5 	1 	20 	1 	bring 	NN
+Zep 	3 	5 	1 	21 	1 	his 	PRP$
+Zep 	3 	5 	1 	22 	1 	judgment 	NN
+Zep 	3 	5 	1 	23 	1 	to 	TO
+Zep 	3 	5 	1 	24 	1 	light 	NN
+Zep 	3 	5 	1 	25 	0 	,
+Zep 	3 	5 	1 	26 	1 	he 	PRP
+Zep 	3 	5 	1 	27 	1 	faileth 	NNS
+Zep 	3 	5 	1 	28 	1 	not 	RB
+Zep 	3 	5 	1 	29 	0 	;
+Zep 	3 	5 	1 	30 	1 	but 	CC
+Zep 	3 	5 	1 	31 	1 	the 	DT
+Zep 	3 	5 	1 	32 	1 	unjust 	JJ
+Zep 	3 	5 	1 	33 	1 	knoweth 	NNS
+Zep 	3 	5 	1 	34 	1 	no 	DT
+Zep 	3 	5 	1 	35 	1 	shame 	NN
+Zep 	3 	5 	1 	36 	0 	.
+Zep 	3 	6 	1 	1 	1 	I 	PRP
+Zep 	3 	6 	1 	2 	1 	have 	VB
+Zep 	3 	6 	1 	3 	1 	cut 	NN
+Zep 	3 	6 	1 	4 	1 	off 	IN
+Zep 	3 	6 	1 	5 	1 	the 	DT
+Zep 	3 	6 	1 	6 	1 	nations 	NNS
+Zep 	3 	6 	1 	7 	0 	:
+Zep 	3 	6 	1 	8 	1 	their 	PRP$
+Zep 	3 	6 	1 	9 	1 	towers 	NNS
+Zep 	3 	6 	1 	10 	1 	are 	VBP
+Zep 	3 	6 	1 	11 	1 	desolate 	NN
+Zep 	3 	6 	1 	12 	0 	;
+Zep 	3 	6 	1 	13 	1 	I 	PRP
+Zep 	3 	6 	1 	14 	1 	made 	VBN
+Zep 	3 	6 	1 	15 	1 	their 	PRP$
+Zep 	3 	6 	1 	16 	1 	streets 	NNS
+Zep 	3 	6 	1 	17 	1 	waste 	NN
+Zep 	3 	6 	1 	18 	0 	,
+Zep 	3 	6 	1 	19 	1 	that 	IN
+Zep 	3 	6 	1 	20 	1 	none 	NN
+Zep 	3 	6 	1 	21 	1 	passeth 	NN
+Zep 	3 	6 	1 	22 	1 	by 	IN
+Zep 	3 	6 	1 	23 	0 	:
+Zep 	3 	6 	1 	24 	1 	their 	PRP$
+Zep 	3 	6 	1 	25 	1 	cities 	NNS
+Zep 	3 	6 	1 	26 	1 	are 	VBP
+Zep 	3 	6 	1 	27 	1 	destroyed 	NN
+Zep 	3 	6 	1 	28 	0 	,
+Zep 	3 	6 	1 	29 	1 	so 	RB
+Zep 	3 	6 	1 	30 	1 	that 	IN
+Zep 	3 	6 	1 	31 	1 	there 	RB
+Zep 	3 	6 	1 	32 	1 	is 	VBZ
+Zep 	3 	6 	1 	33 	1 	no 	DT
+Zep 	3 	6 	1 	34 	1 	man 	NN
+Zep 	3 	6 	1 	35 	0 	,
+Zep 	3 	6 	1 	36 	1 	that 	IN
+Zep 	3 	6 	1 	37 	1 	there 	RB
+Zep 	3 	6 	1 	38 	1 	is 	VBZ
+Zep 	3 	6 	1 	39 	1 	none 	NN
+Zep 	3 	6 	1 	40 	1 	inhabitant 	NN
+Zep 	3 	6 	1 	41 	0 	.
+Zep 	3 	7 	1 	1 	1 	I 	PRP
+Zep 	3 	7 	1 	2 	1 	said 	VBD
+Zep 	3 	7 	1 	3 	0 	,
+Zep 	3 	7 	1 	4 	1 	Surely 	RB
+Zep 	3 	7 	1 	5 	1 	thou 	NN
+Zep 	3 	7 	1 	6 	1 	wilt 	NN
+Zep 	3 	7 	1 	7 	1 	fear 	NN
+Zep 	3 	7 	1 	8 	1 	me 	PRP
+Zep 	3 	7 	1 	9 	0 	,
+Zep 	3 	7 	1 	10 	1 	thou 	NN
+Zep 	3 	7 	1 	11 	1 	wilt 	NN
+Zep 	3 	7 	1 	12 	1 	receive 	NN
+Zep 	3 	7 	1 	13 	1 	instruction 	NN
+Zep 	3 	7 	1 	14 	0 	;
+Zep 	3 	7 	1 	15 	1 	so 	RB
+Zep 	3 	7 	1 	16 	1 	their 	PRP$
+Zep 	3 	7 	1 	17 	1 	dwelling 	VBG
+Zep 	3 	7 	1 	18 	1 	should 	MD
+Zep 	3 	7 	1 	19 	1 	not 	RB
+Zep 	3 	7 	1 	20 	1 	be 	VB
+Zep 	3 	7 	1 	21 	1 	cut 	NN
+Zep 	3 	7 	1 	22 	1 	off 	IN
+Zep 	3 	7 	1 	23 	0 	,
+Zep 	3 	7 	1 	24 	1 	howsoever 	NN
+Zep 	3 	7 	1 	25 	1 	I 	PRP
+Zep 	3 	7 	1 	26 	1 	punished 	VBN
+Zep 	3 	7 	1 	27 	1 	them 	PRP
+Zep 	3 	7 	1 	28 	0 	:
+Zep 	3 	7 	1 	29 	1 	but 	CC
+Zep 	3 	7 	1 	30 	1 	they 	PRP
+Zep 	3 	7 	1 	31 	1 	rose 	VBD
+Zep 	3 	7 	1 	32 	1 	early 	RB
+Zep 	3 	7 	1 	33 	0 	,
+Zep 	3 	7 	1 	34 	1 	and 	CC
+Zep 	3 	7 	1 	35 	1 	corrupted 	VBN
+Zep 	3 	7 	1 	36 	1 	all 	DT
+Zep 	3 	7 	1 	37 	1 	their 	PRP$
+Zep 	3 	7 	1 	38 	1 	doings 	NNS
+Zep 	3 	7 	1 	39 	0 	.
+Zep 	3 	8 	1 	1 	1 	Therefore 	RB
+Zep 	3 	8 	1 	2 	1 	wait 	NN
+Zep 	3 	8 	1 	3 	1 	ye 	NN
+Zep 	3 	8 	1 	4 	1 	upon 	IN
+Zep 	3 	8 	1 	5 	1 	me 	PRP
+Zep 	3 	8 	1 	6 	0 	,
+Zep 	3 	8 	1 	7 	1 	saith 	NN
+Zep 	3 	8 	1 	8 	1 	the 	DT
+Zep 	3 	8 	1 	9 	1 	LORD 	NN
+Zep 	3 	8 	1 	10 	0 	,
+Zep 	3 	8 	1 	11 	1 	until 	IN
+Zep 	3 	8 	1 	12 	1 	the 	DT
+Zep 	3 	8 	1 	13 	1 	day 	NN
+Zep 	3 	8 	1 	14 	1 	that 	IN
+Zep 	3 	8 	1 	15 	1 	I 	PRP
+Zep 	3 	8 	1 	16 	1 	rise 	NN
+Zep 	3 	8 	1 	17 	1 	up 	RB
+Zep 	3 	8 	1 	18 	1 	to 	TO
+Zep 	3 	8 	1 	19 	1 	the 	DT
+Zep 	3 	8 	1 	20 	1 	prey 	NN
+Zep 	3 	8 	1 	21 	0 	:
+Zep 	3 	8 	1 	22 	1 	for 	IN
+Zep 	3 	8 	1 	23 	1 	my 	PRP$
+Zep 	3 	8 	1 	24 	1 	determination 	NN
+Zep 	3 	8 	1 	25 	1 	is 	VBZ
+Zep 	3 	8 	1 	26 	1 	to 	TO
+Zep 	3 	8 	1 	27 	1 	gather 	NN
+Zep 	3 	8 	1 	28 	1 	the 	DT
+Zep 	3 	8 	1 	29 	1 	nations 	NNS
+Zep 	3 	8 	1 	30 	0 	,
+Zep 	3 	8 	1 	31 	1 	that 	IN
+Zep 	3 	8 	1 	32 	1 	I 	PRP
+Zep 	3 	8 	1 	33 	1 	may 	MD
+Zep 	3 	8 	1 	34 	1 	assemble 	JJ
+Zep 	3 	8 	1 	35 	1 	the 	DT
+Zep 	3 	8 	1 	36 	1 	kingdoms 	NNS
+Zep 	3 	8 	1 	37 	0 	,
+Zep 	3 	8 	1 	38 	1 	to 	TO
+Zep 	3 	8 	1 	39 	1 	pour 	NN
+Zep 	3 	8 	1 	40 	1 	upon 	IN
+Zep 	3 	8 	1 	41 	1 	them 	PRP
+Zep 	3 	8 	1 	42 	1 	mine 	NN
+Zep 	3 	8 	1 	43 	1 	indignation 	NN
+Zep 	3 	8 	1 	44 	0 	,
+Zep 	3 	8 	1 	45 	1 	even 	RB
+Zep 	3 	8 	1 	46 	1 	all 	DT
+Zep 	3 	8 	1 	47 	1 	my 	PRP$
+Zep 	3 	8 	1 	48 	1 	fierce 	NN
+Zep 	3 	8 	1 	49 	1 	anger 	NN
+Zep 	3 	8 	1 	50 	0 	:
+Zep 	3 	8 	1 	51 	1 	for 	IN
+Zep 	3 	8 	1 	52 	1 	all 	DT
+Zep 	3 	8 	1 	53 	1 	the 	DT
+Zep 	3 	8 	1 	54 	1 	earth 	NN
+Zep 	3 	8 	1 	55 	1 	shall 	MD
+Zep 	3 	8 	1 	56 	1 	be 	VB
+Zep 	3 	8 	1 	57 	1 	devoured 	VBN
+Zep 	3 	8 	1 	58 	1 	with 	IN
+Zep 	3 	8 	1 	59 	1 	the 	DT
+Zep 	3 	8 	1 	60 	1 	fire 	NN
+Zep 	3 	8 	1 	61 	1 	of 	IN
+Zep 	3 	8 	1 	62 	1 	my 	PRP$
+Zep 	3 	8 	1 	63 	1 	jealousy 	NN
+Zep 	3 	8 	1 	64 	0 	.
+Zep 	3 	9 	1 	1 	1 	For 	IN
+Zep 	3 	9 	1 	2 	1 	then 	RB
+Zep 	3 	9 	1 	3 	1 	will 	MD
+Zep 	3 	9 	1 	4 	1 	I 	PRP
+Zep 	3 	9 	1 	5 	1 	turn 	NN
+Zep 	3 	9 	1 	6 	1 	to 	TO
+Zep 	3 	9 	1 	7 	1 	the 	DT
+Zep 	3 	9 	1 	8 	1 	people 	NNS
+Zep 	3 	9 	1 	9 	1 	a 	DT
+Zep 	3 	9 	1 	10 	1 	pure 	NN
+Zep 	3 	9 	1 	11 	1 	language 	NN
+Zep 	3 	9 	1 	12 	0 	,
+Zep 	3 	9 	1 	13 	1 	that 	IN
+Zep 	3 	9 	1 	14 	1 	they 	PRP
+Zep 	3 	9 	1 	15 	1 	may 	MD
+Zep 	3 	9 	1 	16 	1 	all 	DT
+Zep 	3 	9 	1 	17 	1 	call 	NN
+Zep 	3 	9 	1 	18 	1 	upon 	IN
+Zep 	3 	9 	1 	19 	1 	the 	DT
+Zep 	3 	9 	1 	20 	1 	name 	NN
+Zep 	3 	9 	1 	21 	1 	of 	IN
+Zep 	3 	9 	1 	22 	1 	the 	DT
+Zep 	3 	9 	1 	23 	1 	LORD 	NN
+Zep 	3 	9 	1 	24 	0 	,
+Zep 	3 	9 	1 	25 	1 	to 	TO
+Zep 	3 	9 	1 	26 	1 	serve 	NN
+Zep 	3 	9 	1 	27 	1 	him 	PRP
+Zep 	3 	9 	1 	28 	1 	with 	IN
+Zep 	3 	9 	1 	29 	1 	one 	CD
+Zep 	3 	9 	1 	30 	1 	consent 	NN
+Zep 	3 	9 	1 	31 	0 	.
+Zep 	3 	10 	1 	1 	1 	From 	IN
+Zep 	3 	10 	1 	2 	1 	beyond 	IN
+Zep 	3 	10 	1 	3 	1 	the 	DT
+Zep 	3 	10 	1 	4 	1 	rivers 	NNS
+Zep 	3 	10 	1 	5 	1 	of 	IN
+Zep 	3 	10 	1 	6 	1 	Ethiopia 	NN
+Zep 	3 	10 	1 	7 	1 	my 	PRP$
+Zep 	3 	10 	1 	8 	1 	suppliants 	NNS
+Zep 	3 	10 	1 	9 	0 	,
+Zep 	3 	10 	1 	10 	1 	even 	RB
+Zep 	3 	10 	1 	11 	1 	the 	DT
+Zep 	3 	10 	1 	12 	1 	daughter 	NN
+Zep 	3 	10 	1 	13 	1 	of 	IN
+Zep 	3 	10 	1 	14 	1 	my 	PRP$
+Zep 	3 	10 	1 	15 	1 	dispersed 	VBN
+Zep 	3 	10 	1 	16 	0 	,
+Zep 	3 	10 	1 	17 	1 	shall 	MD
+Zep 	3 	10 	1 	18 	1 	bring 	NN
+Zep 	3 	10 	1 	19 	1 	mine 	NN
+Zep 	3 	10 	1 	20 	1 	offering 	NN
+Zep 	3 	10 	1 	21 	0 	.
+Zep 	3 	11 	1 	1 	1 	In 	IN
+Zep 	3 	11 	1 	2 	1 	that 	IN
+Zep 	3 	11 	1 	3 	1 	day 	NN
+Zep 	3 	11 	1 	4 	1 	shalt 	NN
+Zep 	3 	11 	1 	5 	1 	thou 	NN
+Zep 	3 	11 	1 	6 	1 	not 	RB
+Zep 	3 	11 	1 	7 	1 	be 	VB
+Zep 	3 	11 	1 	8 	1 	ashamed 	VBN
+Zep 	3 	11 	1 	9 	1 	for 	IN
+Zep 	3 	11 	1 	10 	1 	all 	DT
+Zep 	3 	11 	1 	11 	1 	thy 	NN
+Zep 	3 	11 	1 	12 	1 	doings 	NNS
+Zep 	3 	11 	1 	13 	0 	,
+Zep 	3 	11 	1 	14 	1 	wherein 	NN
+Zep 	3 	11 	1 	15 	1 	thou 	NN
+Zep 	3 	11 	1 	16 	1 	hast 	NN
+Zep 	3 	11 	1 	17 	1 	transgressed 	VBN
+Zep 	3 	11 	1 	18 	1 	against 	IN
+Zep 	3 	11 	1 	19 	1 	me 	PRP
+Zep 	3 	11 	1 	20 	0 	:
+Zep 	3 	11 	1 	21 	1 	for 	IN
+Zep 	3 	11 	1 	22 	1 	then 	RB
+Zep 	3 	11 	1 	23 	1 	I 	PRP
+Zep 	3 	11 	1 	24 	1 	will 	MD
+Zep 	3 	11 	1 	25 	1 	take 	VB
+Zep 	3 	11 	1 	26 	1 	away 	RB
+Zep 	3 	11 	1 	27 	1 	out 	IN
+Zep 	3 	11 	1 	28 	1 	of 	IN
+Zep 	3 	11 	1 	29 	1 	the 	DT
+Zep 	3 	11 	1 	30 	1 	midst 	NN
+Zep 	3 	11 	1 	31 	1 	of 	IN
+Zep 	3 	11 	1 	32 	1 	thee 	NN
+Zep 	3 	11 	1 	33 	1 	them 	PRP
+Zep 	3 	11 	1 	34 	1 	that 	IN
+Zep 	3 	11 	1 	35 	1 	rejoice 	NN
+Zep 	3 	11 	1 	36 	1 	in 	IN
+Zep 	3 	11 	1 	37 	1 	thy 	NN
+Zep 	3 	11 	1 	38 	1 	pride 	NN
+Zep 	3 	11 	1 	39 	0 	,
+Zep 	3 	11 	1 	40 	1 	and 	CC
+Zep 	3 	11 	1 	41 	1 	thou 	NN
+Zep 	3 	11 	1 	42 	1 	shalt 	NN
+Zep 	3 	11 	1 	43 	1 	no 	DT
+Zep 	3 	11 	1 	44 	1 	more 	RBR
+Zep 	3 	11 	1 	45 	1 	be 	VB
+Zep 	3 	11 	1 	46 	1 	haughty 	NN
+Zep 	3 	11 	1 	47 	1 	because 	IN
+Zep 	3 	11 	1 	48 	1 	of 	IN
+Zep 	3 	11 	1 	49 	1 	my 	PRP$
+Zep 	3 	11 	1 	50 	1 	holy 	NN
+Zep 	3 	11 	1 	51 	1 	mountain 	NN
+Zep 	3 	11 	1 	52 	0 	.
+Zep 	3 	12 	1 	1 	1 	I 	PRP
+Zep 	3 	12 	1 	2 	1 	will 	MD
+Zep 	3 	12 	1 	3 	1 	also 	RB
+Zep 	3 	12 	1 	4 	1 	leave 	VB
+Zep 	3 	12 	1 	5 	1 	in 	IN
+Zep 	3 	12 	1 	6 	1 	the 	DT
+Zep 	3 	12 	1 	7 	1 	midst 	NN
+Zep 	3 	12 	1 	8 	1 	of 	IN
+Zep 	3 	12 	1 	9 	1 	thee 	NN
+Zep 	3 	12 	1 	10 	1 	an 	DT
+Zep 	3 	12 	1 	11 	1 	afflicted 	VBN
+Zep 	3 	12 	1 	12 	1 	and 	CC
+Zep 	3 	12 	1 	13 	1 	poor 	JJ
+Zep 	3 	12 	1 	14 	1 	people 	NNS
+Zep 	3 	12 	1 	15 	0 	,
+Zep 	3 	12 	1 	16 	1 	and 	CC
+Zep 	3 	12 	1 	17 	1 	they 	PRP
+Zep 	3 	12 	1 	18 	1 	shall 	MD
+Zep 	3 	12 	1 	19 	1 	trust 	NN
+Zep 	3 	12 	1 	20 	1 	in 	IN
+Zep 	3 	12 	1 	21 	1 	the 	DT
+Zep 	3 	12 	1 	22 	1 	name 	NN
+Zep 	3 	12 	1 	23 	1 	of 	IN
+Zep 	3 	12 	1 	24 	1 	the 	DT
+Zep 	3 	12 	1 	25 	1 	LORD 	NN
+Zep 	3 	12 	1 	26 	0 	.
+Zep 	3 	13 	1 	1 	1 	The 	DT
+Zep 	3 	13 	1 	2 	1 	remnant 	NN
+Zep 	3 	13 	1 	3 	1 	of 	IN
+Zep 	3 	13 	1 	4 	1 	Israel 	NNP
+Zep 	3 	13 	1 	5 	1 	shall 	MD
+Zep 	3 	13 	1 	6 	1 	not 	RB
+Zep 	3 	13 	1 	7 	1 	do 	VB
+Zep 	3 	13 	1 	8 	1 	iniquity 	NN
+Zep 	3 	13 	1 	9 	0 	,
+Zep 	3 	13 	1 	10 	1 	nor 	CC
+Zep 	3 	13 	1 	11 	1 	speak 	NN
+Zep 	3 	13 	1 	12 	1 	lies 	NNS
+Zep 	3 	13 	1 	13 	0 	;
+Zep 	3 	13 	1 	14 	1 	neither 	DT
+Zep 	3 	13 	1 	15 	1 	shall 	MD
+Zep 	3 	13 	1 	16 	1 	a 	DT
+Zep 	3 	13 	1 	17 	1 	deceitful 	NN
+Zep 	3 	13 	1 	18 	1 	tongue 	NN
+Zep 	3 	13 	1 	19 	1 	be 	VB
+Zep 	3 	13 	1 	20 	1 	found 	NN
+Zep 	3 	13 	1 	21 	1 	in 	IN
+Zep 	3 	13 	1 	22 	1 	their 	PRP$
+Zep 	3 	13 	1 	23 	1 	mouth 	NN
+Zep 	3 	13 	1 	24 	0 	:
+Zep 	3 	13 	1 	25 	1 	for 	IN
+Zep 	3 	13 	1 	26 	1 	they 	PRP
+Zep 	3 	13 	1 	27 	1 	shall 	MD
+Zep 	3 	13 	1 	28 	1 	feed 	NN
+Zep 	3 	13 	1 	29 	1 	and 	CC
+Zep 	3 	13 	1 	30 	1 	lie 	NN
+Zep 	3 	13 	1 	31 	1 	down 	RB
+Zep 	3 	13 	1 	32 	0 	,
+Zep 	3 	13 	1 	33 	1 	and 	CC
+Zep 	3 	13 	1 	34 	1 	none 	NN
+Zep 	3 	13 	1 	35 	1 	shall 	MD
+Zep 	3 	13 	1 	36 	1 	make 	VB
+Zep 	3 	13 	1 	37 	1 	them 	PRP
+Zep 	3 	13 	1 	38 	1 	afraid 	NN
+Zep 	3 	13 	1 	39 	0 	.
+Zep 	3 	14 	1 	1 	1 	Sing 	VBG
+Zep 	3 	14 	1 	2 	0 	,
+Zep 	3 	14 	1 	3 	1 	O 	NN
+Zep 	3 	14 	1 	4 	1 	daughter 	NN
+Zep 	3 	14 	1 	5 	1 	of 	IN
+Zep 	3 	14 	1 	6 	1 	Zion 	NN
+Zep 	3 	14 	1 	7 	0 	;
+Zep 	3 	14 	1 	8 	1 	shout 	NN
+Zep 	3 	14 	1 	9 	0 	,
+Zep 	3 	14 	1 	10 	1 	O 	NN
+Zep 	3 	14 	1 	11 	1 	Israel 	NNP
+Zep 	3 	14 	1 	12 	0 	;
+Zep 	3 	14 	1 	13 	1 	be 	VB
+Zep 	3 	14 	1 	14 	1 	glad 	NN
+Zep 	3 	14 	1 	15 	1 	and 	CC
+Zep 	3 	14 	1 	16 	1 	rejoice 	NN
+Zep 	3 	14 	1 	17 	1 	with 	IN
+Zep 	3 	14 	1 	18 	1 	all 	DT
+Zep 	3 	14 	1 	19 	1 	the 	DT
+Zep 	3 	14 	1 	20 	1 	heart 	NN
+Zep 	3 	14 	1 	21 	0 	,
+Zep 	3 	14 	1 	22 	1 	O 	NN
+Zep 	3 	14 	1 	23 	1 	daughter 	NN
+Zep 	3 	14 	1 	24 	1 	of 	IN
+Zep 	3 	14 	1 	25 	1 	Jerusalem 	NN
+Zep 	3 	14 	1 	26 	0 	.
+Zep 	3 	15 	1 	1 	1 	The 	DT
+Zep 	3 	15 	1 	2 	1 	LORD 	NN
+Zep 	3 	15 	1 	3 	1 	hath 	NN
+Zep 	3 	15 	1 	4 	1 	taken 	VBN
+Zep 	3 	15 	1 	5 	1 	away 	RB
+Zep 	3 	15 	1 	6 	1 	thy 	NN
+Zep 	3 	15 	1 	7 	1 	judgments 	NNS
+Zep 	3 	15 	1 	8 	0 	,
+Zep 	3 	15 	1 	9 	1 	he 	PRP
+Zep 	3 	15 	1 	10 	1 	hath 	NN
+Zep 	3 	15 	1 	11 	1 	cast 	NN
+Zep 	3 	15 	1 	12 	1 	out 	IN
+Zep 	3 	15 	1 	13 	1 	thine 	NN
+Zep 	3 	15 	1 	14 	1 	enemy 	NN
+Zep 	3 	15 	1 	15 	0 	:
+Zep 	3 	15 	1 	16 	1 	the 	DT
+Zep 	3 	15 	1 	17 	1 	king 	NN
+Zep 	3 	15 	1 	18 	1 	of 	IN
+Zep 	3 	15 	1 	19 	1 	Israel 	NNP
+Zep 	3 	15 	1 	20 	0 	,
+Zep 	3 	15 	1 	21 	1 	even 	RB
+Zep 	3 	15 	1 	22 	1 	the 	DT
+Zep 	3 	15 	1 	23 	1 	LORD 	NN
+Zep 	3 	15 	1 	24 	0 	,
+Zep 	3 	15 	1 	25 	1 	is 	VBZ
+Zep 	3 	15 	1 	26 	1 	in 	IN
+Zep 	3 	15 	1 	27 	1 	the 	DT
+Zep 	3 	15 	1 	28 	1 	midst 	NN
+Zep 	3 	15 	1 	29 	1 	of 	IN
+Zep 	3 	15 	1 	30 	1 	thee 	NN
+Zep 	3 	15 	1 	31 	0 	:
+Zep 	3 	15 	1 	32 	1 	thou 	NN
+Zep 	3 	15 	1 	33 	1 	shalt 	NN
+Zep 	3 	15 	1 	34 	1 	not 	RB
+Zep 	3 	15 	1 	35 	1 	see 	VB
+Zep 	3 	15 	1 	36 	1 	evil 	NN
+Zep 	3 	15 	1 	37 	1 	any 	DT
+Zep 	3 	15 	1 	38 	1 	more 	RBR
+Zep 	3 	15 	1 	39 	0 	.
+Zep 	3 	16 	1 	1 	1 	In 	IN
+Zep 	3 	16 	1 	2 	1 	that 	IN
+Zep 	3 	16 	1 	3 	1 	day 	NN
+Zep 	3 	16 	1 	4 	1 	it 	PRP
+Zep 	3 	16 	1 	5 	1 	shall 	MD
+Zep 	3 	16 	1 	6 	1 	be 	VB
+Zep 	3 	16 	1 	7 	1 	said 	VBD
+Zep 	3 	16 	1 	8 	1 	to 	TO
+Zep 	3 	16 	1 	9 	1 	Jerusalem 	NN
+Zep 	3 	16 	1 	10 	0 	,
+Zep 	3 	16 	1 	11 	1 	Fear 	NN
+Zep 	3 	16 	1 	12 	1 	thou 	NN
+Zep 	3 	16 	1 	13 	1 	not 	RB
+Zep 	3 	16 	1 	14 	0 	:
+Zep 	3 	16 	1 	15 	1 	and 	CC
+Zep 	3 	16 	1 	16 	1 	to 	TO
+Zep 	3 	16 	1 	17 	1 	Zion 	NN
+Zep 	3 	16 	1 	18 	0 	,
+Zep 	3 	16 	1 	19 	1 	Let 	VB
+Zep 	3 	16 	1 	20 	1 	not 	RB
+Zep 	3 	16 	1 	21 	1 	thine 	NN
+Zep 	3 	16 	1 	22 	1 	hands 	NNS
+Zep 	3 	16 	1 	23 	1 	be 	VB
+Zep 	3 	16 	1 	24 	1 	slack 	NN
+Zep 	3 	16 	1 	25 	0 	.
+Zep 	3 	17 	1 	1 	1 	The 	DT
+Zep 	3 	17 	1 	2 	1 	LORD 	NN
+Zep 	3 	17 	1 	3 	1 	thy 	NN
+Zep 	3 	17 	1 	4 	1 	God 	NNP
+Zep 	3 	17 	1 	5 	1 	in 	IN
+Zep 	3 	17 	1 	6 	1 	the 	DT
+Zep 	3 	17 	1 	7 	1 	midst 	NN
+Zep 	3 	17 	1 	8 	1 	of 	IN
+Zep 	3 	17 	1 	9 	1 	thee 	NN
+Zep 	3 	17 	1 	10 	1 	is 	VBZ
+Zep 	3 	17 	1 	11 	1 	mighty 	NN
+Zep 	3 	17 	1 	12 	0 	;
+Zep 	3 	17 	1 	13 	1 	he 	PRP
+Zep 	3 	17 	1 	14 	1 	will 	MD
+Zep 	3 	17 	1 	15 	1 	save 	VB
+Zep 	3 	17 	1 	16 	0 	,
+Zep 	3 	17 	1 	17 	1 	he 	PRP
+Zep 	3 	17 	1 	18 	1 	will 	MD
+Zep 	3 	17 	1 	19 	1 	rejoice 	NN
+Zep 	3 	17 	1 	20 	1 	over 	IN
+Zep 	3 	17 	1 	21 	1 	thee 	NN
+Zep 	3 	17 	1 	22 	1 	with 	IN
+Zep 	3 	17 	1 	23 	1 	joy 	NN
+Zep 	3 	17 	1 	24 	0 	;
+Zep 	3 	17 	1 	25 	1 	he 	PRP
+Zep 	3 	17 	1 	26 	1 	will 	MD
+Zep 	3 	17 	1 	27 	1 	rest 	NN
+Zep 	3 	17 	1 	28 	1 	in 	IN
+Zep 	3 	17 	1 	29 	1 	his 	PRP$
+Zep 	3 	17 	1 	30 	1 	love 	NN
+Zep 	3 	17 	1 	31 	0 	,
+Zep 	3 	17 	1 	32 	1 	he 	PRP
+Zep 	3 	17 	1 	33 	1 	will 	MD
+Zep 	3 	17 	1 	34 	1 	joy 	NN
+Zep 	3 	17 	1 	35 	1 	over 	IN
+Zep 	3 	17 	1 	36 	1 	thee 	NN
+Zep 	3 	17 	1 	37 	1 	with 	IN
+Zep 	3 	17 	1 	38 	1 	singing 	VBG
+Zep 	3 	17 	1 	39 	0 	.
+Zep 	3 	18 	1 	1 	1 	I 	PRP
+Zep 	3 	18 	1 	2 	1 	will 	MD
+Zep 	3 	18 	1 	3 	1 	gather 	NN
+Zep 	3 	18 	1 	4 	1 	them 	PRP
+Zep 	3 	18 	1 	5 	1 	that 	IN
+Zep 	3 	18 	1 	6 	1 	are 	VBP
+Zep 	3 	18 	1 	7 	1 	sorrowful 	NN
+Zep 	3 	18 	1 	8 	1 	for 	IN
+Zep 	3 	18 	1 	9 	1 	the 	DT
+Zep 	3 	18 	1 	10 	1 	solemn 	NN
+Zep 	3 	18 	1 	11 	1 	assembly 	RB
+Zep 	3 	18 	1 	12 	0 	,
+Zep 	3 	18 	1 	13 	1 	who 	WP
+Zep 	3 	18 	1 	14 	1 	are 	VBP
+Zep 	3 	18 	1 	15 	1 	of 	IN
+Zep 	3 	18 	1 	16 	1 	thee 	NN
+Zep 	3 	18 	1 	17 	0 	,
+Zep 	3 	18 	1 	18 	1 	to 	TO
+Zep 	3 	18 	1 	19 	1 	whom 	WP
+Zep 	3 	18 	1 	20 	1 	the 	DT
+Zep 	3 	18 	1 	21 	1 	reproach 	NN
+Zep 	3 	18 	1 	22 	1 	of 	IN
+Zep 	3 	18 	1 	23 	1 	it 	PRP
+Zep 	3 	18 	1 	24 	1 	was 	VBD
+Zep 	3 	18 	1 	25 	1 	a 	DT
+Zep 	3 	18 	1 	26 	1 	burden 	NN
+Zep 	3 	18 	1 	27 	0 	.
+Zep 	3 	19 	1 	1 	1 	Behold 	NN
+Zep 	3 	19 	1 	2 	0 	,
+Zep 	3 	19 	1 	3 	1 	at 	IN
+Zep 	3 	19 	1 	4 	1 	that 	IN
+Zep 	3 	19 	1 	5 	1 	time 	NN
+Zep 	3 	19 	1 	6 	1 	I 	PRP
+Zep 	3 	19 	1 	7 	1 	will 	MD
+Zep 	3 	19 	1 	8 	1 	undo 	NN
+Zep 	3 	19 	1 	9 	1 	all 	DT
+Zep 	3 	19 	1 	10 	1 	that 	IN
+Zep 	3 	19 	1 	11 	1 	afflict 	NN
+Zep 	3 	19 	1 	12 	1 	thee 	NN
+Zep 	3 	19 	1 	13 	0 	:
+Zep 	3 	19 	1 	14 	1 	and 	CC
+Zep 	3 	19 	1 	15 	1 	I 	PRP
+Zep 	3 	19 	1 	16 	1 	will 	MD
+Zep 	3 	19 	1 	17 	1 	save 	VB
+Zep 	3 	19 	1 	18 	1 	her 	PRP$
+Zep 	3 	19 	1 	19 	1 	that 	IN
+Zep 	3 	19 	1 	20 	1 	halteth 	NN
+Zep 	3 	19 	1 	21 	0 	,
+Zep 	3 	19 	1 	22 	1 	and 	CC
+Zep 	3 	19 	1 	23 	1 	gather 	NN
+Zep 	3 	19 	1 	24 	1 	her 	PRP$
+Zep 	3 	19 	1 	25 	1 	that 	IN
+Zep 	3 	19 	1 	26 	1 	was 	VBD
+Zep 	3 	19 	1 	27 	1 	driven 	NN
+Zep 	3 	19 	1 	28 	1 	out 	IN
+Zep 	3 	19 	1 	29 	0 	;
+Zep 	3 	19 	1 	30 	1 	and 	CC
+Zep 	3 	19 	1 	31 	1 	I 	PRP
+Zep 	3 	19 	1 	32 	1 	will 	MD
+Zep 	3 	19 	1 	33 	1 	get 	VB
+Zep 	3 	19 	1 	34 	1 	them 	PRP
+Zep 	3 	19 	1 	35 	1 	praise 	NN
+Zep 	3 	19 	1 	36 	1 	and 	CC
+Zep 	3 	19 	1 	37 	1 	fame 	NN
+Zep 	3 	19 	1 	38 	1 	in 	IN
+Zep 	3 	19 	1 	39 	1 	every 	DT
+Zep 	3 	19 	1 	40 	1 	land 	NN
+Zep 	3 	19 	1 	41 	1 	where 	WRB
+Zep 	3 	19 	1 	42 	1 	they 	PRP
+Zep 	3 	19 	1 	43 	1 	have 	VB
+Zep 	3 	19 	1 	44 	1 	been 	VBN
+Zep 	3 	19 	1 	45 	1 	put 	NN
+Zep 	3 	19 	1 	46 	1 	to 	TO
+Zep 	3 	19 	1 	47 	1 	shame 	NN
+Zep 	3 	19 	1 	48 	0 	.
+Zep 	3 	20 	1 	1 	1 	At 	IN
+Zep 	3 	20 	1 	2 	1 	that 	IN
+Zep 	3 	20 	1 	3 	1 	time 	NN
+Zep 	3 	20 	1 	4 	1 	will 	MD
+Zep 	3 	20 	1 	5 	1 	I 	PRP
+Zep 	3 	20 	1 	6 	1 	bring 	NN
+Zep 	3 	20 	1 	7 	1 	you 	PRP
+Zep 	3 	20 	1 	8 	1 	again 	RB
+Zep 	3 	20 	1 	9 	0 	,
+Zep 	3 	20 	1 	10 	1 	even 	RB
+Zep 	3 	20 	1 	11 	1 	in 	IN
+Zep 	3 	20 	1 	12 	1 	the 	DT
+Zep 	3 	20 	1 	13 	1 	time 	NN
+Zep 	3 	20 	1 	14 	1 	that 	IN
+Zep 	3 	20 	1 	15 	1 	I 	PRP
+Zep 	3 	20 	1 	16 	1 	gather 	NN
+Zep 	3 	20 	1 	17 	1 	you 	PRP
+Zep 	3 	20 	1 	18 	0 	:
+Zep 	3 	20 	1 	19 	1 	for 	IN
+Zep 	3 	20 	1 	20 	1 	I 	PRP
+Zep 	3 	20 	1 	21 	1 	will 	MD
+Zep 	3 	20 	1 	22 	1 	make 	VB
+Zep 	3 	20 	1 	23 	1 	you 	PRP
+Zep 	3 	20 	1 	24 	1 	a 	DT
+Zep 	3 	20 	1 	25 	1 	name 	NN
+Zep 	3 	20 	1 	26 	1 	and 	CC
+Zep 	3 	20 	1 	27 	1 	a 	DT
+Zep 	3 	20 	1 	28 	1 	praise 	NN
+Zep 	3 	20 	1 	29 	1 	among 	IN
+Zep 	3 	20 	1 	30 	1 	all 	DT
+Zep 	3 	20 	1 	31 	1 	people 	NNS
+Zep 	3 	20 	1 	32 	1 	of 	IN
+Zep 	3 	20 	1 	33 	1 	the 	DT
+Zep 	3 	20 	1 	34 	1 	earth 	NN
+Zep 	3 	20 	1 	35 	0 	,
+Zep 	3 	20 	1 	36 	1 	when 	WRB
+Zep 	3 	20 	1 	37 	1 	I 	PRP
+Zep 	3 	20 	1 	38 	1 	turn 	NN
+Zep 	3 	20 	1 	39 	1 	back 	RB
+Zep 	3 	20 	1 	40 	1 	your 	PRP$
+Zep 	3 	20 	1 	41 	1 	captivity 	NN
+Zep 	3 	20 	1 	42 	1 	before 	IN
+Zep 	3 	20 	1 	43 	1 	your 	PRP$
+Zep 	3 	20 	1 	44 	1 	eyes 	NNS
+Zep 	3 	20 	1 	45 	0 	,
+Zep 	3 	20 	1 	46 	1 	saith 	NN
+Zep 	3 	20 	1 	47 	1 	the 	DT
+Zep 	3 	20 	1 	48 	1 	LORD 	NN
+Zep 	3 	20 	1 	49 	0 	.

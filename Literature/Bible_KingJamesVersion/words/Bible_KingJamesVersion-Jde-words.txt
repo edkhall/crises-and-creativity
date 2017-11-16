@@ -1,0 +1,713 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Jde 	1 	1 	1 	1 	1 	ude 	NN
+Jde 	1 	1 	1 	2 	0 	,
+Jde 	1 	1 	1 	3 	1 	the 	DT
+Jde 	1 	1 	1 	4 	1 	servant 	NN
+Jde 	1 	1 	1 	5 	1 	of 	IN
+Jde 	1 	1 	1 	6 	1 	Jesus 	NN
+Jde 	1 	1 	1 	7 	1 	Christ 	NN
+Jde 	1 	1 	1 	8 	0 	,
+Jde 	1 	1 	1 	9 	1 	and 	CC
+Jde 	1 	1 	1 	10 	1 	brother 	NN
+Jde 	1 	1 	1 	11 	1 	of 	IN
+Jde 	1 	1 	1 	12 	1 	James 	NNP
+Jde 	1 	1 	1 	13 	0 	,
+Jde 	1 	1 	1 	14 	1 	to 	TO
+Jde 	1 	1 	1 	15 	1 	them 	PRP
+Jde 	1 	1 	1 	16 	1 	that 	IN
+Jde 	1 	1 	1 	17 	1 	are 	VBP
+Jde 	1 	1 	1 	18 	1 	sanctified 	VBN
+Jde 	1 	1 	1 	19 	1 	by 	IN
+Jde 	1 	1 	1 	20 	1 	God 	NNP
+Jde 	1 	1 	1 	21 	1 	the 	DT
+Jde 	1 	1 	1 	22 	1 	Father 	NN
+Jde 	1 	1 	1 	23 	0 	,
+Jde 	1 	1 	1 	24 	1 	and 	CC
+Jde 	1 	1 	1 	25 	1 	preserved 	VBN
+Jde 	1 	1 	1 	26 	1 	in 	IN
+Jde 	1 	1 	1 	27 	1 	Jesus 	NN
+Jde 	1 	1 	1 	28 	1 	Christ 	NN
+Jde 	1 	1 	1 	29 	0 	,
+Jde 	1 	1 	1 	30 	1 	and 	CC
+Jde 	1 	1 	1 	31 	1 	called 	VBN
+Jde 	1 	1 	1 	32 	0 	:
+Jde 	1 	2 	1 	1 	1 	Mercy 	NN
+Jde 	1 	2 	1 	2 	1 	unto 	NN
+Jde 	1 	2 	1 	3 	1 	you 	PRP
+Jde 	1 	2 	1 	4 	0 	,
+Jde 	1 	2 	1 	5 	1 	and 	CC
+Jde 	1 	2 	1 	6 	1 	peace 	NN
+Jde 	1 	2 	1 	7 	0 	,
+Jde 	1 	2 	1 	8 	1 	and 	CC
+Jde 	1 	2 	1 	9 	1 	love 	NN
+Jde 	1 	2 	1 	10 	0 	,
+Jde 	1 	2 	1 	11 	1 	be 	VB
+Jde 	1 	2 	1 	12 	1 	multiplied 	VBN
+Jde 	1 	2 	1 	13 	0 	.
+Jde 	1 	3 	1 	1 	1 	Beloved 	VBN
+Jde 	1 	3 	1 	2 	0 	,
+Jde 	1 	3 	1 	3 	1 	when 	WRB
+Jde 	1 	3 	1 	4 	1 	I 	PRP
+Jde 	1 	3 	1 	5 	1 	gave 	VBD
+Jde 	1 	3 	1 	6 	1 	all 	DT
+Jde 	1 	3 	1 	7 	1 	diligence 	NN
+Jde 	1 	3 	1 	8 	1 	to 	TO
+Jde 	1 	3 	1 	9 	1 	write 	NN
+Jde 	1 	3 	1 	10 	1 	unto 	NN
+Jde 	1 	3 	1 	11 	1 	you 	PRP
+Jde 	1 	3 	1 	12 	1 	of 	IN
+Jde 	1 	3 	1 	13 	1 	the 	DT
+Jde 	1 	3 	1 	14 	1 	common 	JJ
+Jde 	1 	3 	1 	15 	1 	salvation 	NN
+Jde 	1 	3 	1 	16 	0 	,
+Jde 	1 	3 	1 	17 	1 	it 	PRP
+Jde 	1 	3 	1 	18 	1 	was 	VBD
+Jde 	1 	3 	1 	19 	1 	needful 	JJ
+Jde 	1 	3 	1 	20 	1 	for 	IN
+Jde 	1 	3 	1 	21 	1 	me 	PRP
+Jde 	1 	3 	1 	22 	1 	to 	TO
+Jde 	1 	3 	1 	23 	1 	write 	NN
+Jde 	1 	3 	1 	24 	1 	unto 	NN
+Jde 	1 	3 	1 	25 	1 	you 	PRP
+Jde 	1 	3 	1 	26 	0 	,
+Jde 	1 	3 	1 	27 	1 	and 	CC
+Jde 	1 	3 	1 	28 	1 	exhort 	NN
+Jde 	1 	3 	1 	29 	1 	you 	PRP
+Jde 	1 	3 	1 	30 	1 	that 	IN
+Jde 	1 	3 	1 	31 	1 	ye 	NN
+Jde 	1 	3 	1 	32 	1 	should 	MD
+Jde 	1 	3 	1 	33 	1 	earnestly 	RB
+Jde 	1 	3 	1 	34 	1 	contend 	NN
+Jde 	1 	3 	1 	35 	1 	for 	IN
+Jde 	1 	3 	1 	36 	1 	the 	DT
+Jde 	1 	3 	1 	37 	1 	faith 	NN
+Jde 	1 	3 	1 	38 	1 	which 	WDT
+Jde 	1 	3 	1 	39 	1 	was 	VBD
+Jde 	1 	3 	1 	40 	1 	once 	RB
+Jde 	1 	3 	1 	41 	1 	delivered 	VBN
+Jde 	1 	3 	1 	42 	1 	unto 	NN
+Jde 	1 	3 	1 	43 	1 	the 	DT
+Jde 	1 	3 	1 	44 	1 	saints 	NNS
+Jde 	1 	3 	1 	45 	0 	.
+Jde 	1 	4 	1 	1 	1 	For 	IN
+Jde 	1 	4 	1 	2 	1 	there 	RB
+Jde 	1 	4 	1 	3 	1 	are 	VBP
+Jde 	1 	4 	1 	4 	1 	certain 	JJ
+Jde 	1 	4 	1 	5 	1 	men 	NNS
+Jde 	1 	4 	1 	6 	1 	crept 	NN
+Jde 	1 	4 	1 	7 	1 	in 	IN
+Jde 	1 	4 	1 	8 	1 	unawares 	NNS
+Jde 	1 	4 	1 	9 	0 	,
+Jde 	1 	4 	1 	10 	1 	who 	WP
+Jde 	1 	4 	1 	11 	1 	were 	VBD
+Jde 	1 	4 	1 	12 	1 	before 	IN
+Jde 	1 	4 	1 	13 	1 	of 	IN
+Jde 	1 	4 	1 	14 	1 	old 	JJ
+Jde 	1 	4 	1 	15 	1 	ordained 	VBN
+Jde 	1 	4 	1 	16 	1 	to 	TO
+Jde 	1 	4 	1 	17 	1 	this 	DT
+Jde 	1 	4 	1 	18 	1 	condemnation 	NN
+Jde 	1 	4 	1 	19 	0 	,
+Jde 	1 	4 	1 	20 	1 	ungodly 	RB
+Jde 	1 	4 	1 	21 	1 	men 	NNS
+Jde 	1 	4 	1 	22 	0 	,
+Jde 	1 	4 	1 	23 	1 	turning 	VBG
+Jde 	1 	4 	1 	24 	1 	the 	DT
+Jde 	1 	4 	1 	25 	1 	grace 	NN
+Jde 	1 	4 	1 	26 	1 	of 	IN
+Jde 	1 	4 	1 	27 	1 	our 	PRP$
+Jde 	1 	4 	1 	28 	1 	God 	NNP
+Jde 	1 	4 	1 	29 	1 	into 	IN
+Jde 	1 	4 	1 	30 	1 	lasciviousness 	NN
+Jde 	1 	4 	1 	31 	0 	,
+Jde 	1 	4 	1 	32 	1 	and 	CC
+Jde 	1 	4 	1 	33 	1 	denying 	VBG
+Jde 	1 	4 	1 	34 	1 	the 	DT
+Jde 	1 	4 	1 	35 	1 	only 	RB
+Jde 	1 	4 	1 	36 	1 	Lord 	NN
+Jde 	1 	4 	1 	37 	1 	God 	NNP
+Jde 	1 	4 	1 	38 	0 	,
+Jde 	1 	4 	1 	39 	1 	and 	CC
+Jde 	1 	4 	1 	40 	1 	our 	PRP$
+Jde 	1 	4 	1 	41 	1 	Lord 	NN
+Jde 	1 	4 	1 	42 	1 	Jesus 	NN
+Jde 	1 	4 	1 	43 	1 	Christ 	NN
+Jde 	1 	4 	1 	44 	0 	.
+Jde 	1 	5 	1 	1 	1 	I 	PRP
+Jde 	1 	5 	1 	2 	1 	will 	MD
+Jde 	1 	5 	1 	3 	1 	therefore 	RB
+Jde 	1 	5 	1 	4 	1 	put 	NN
+Jde 	1 	5 	1 	5 	1 	you 	PRP
+Jde 	1 	5 	1 	6 	1 	in 	IN
+Jde 	1 	5 	1 	7 	1 	remembrance 	NN
+Jde 	1 	5 	1 	8 	0 	,
+Jde 	1 	5 	1 	9 	1 	though 	IN
+Jde 	1 	5 	1 	10 	1 	ye 	NN
+Jde 	1 	5 	1 	11 	1 	once 	RB
+Jde 	1 	5 	1 	12 	1 	knew 	NNS
+Jde 	1 	5 	1 	13 	1 	this 	DT
+Jde 	1 	5 	1 	14 	0 	,
+Jde 	1 	5 	1 	15 	1 	how 	WRB
+Jde 	1 	5 	1 	16 	1 	that 	IN
+Jde 	1 	5 	1 	17 	1 	the 	DT
+Jde 	1 	5 	1 	18 	1 	Lord 	NN
+Jde 	1 	5 	1 	19 	0 	,
+Jde 	1 	5 	1 	20 	1 	having 	VBG
+Jde 	1 	5 	1 	21 	1 	saved 	VBN
+Jde 	1 	5 	1 	22 	1 	the 	DT
+Jde 	1 	5 	1 	23 	1 	people 	NNS
+Jde 	1 	5 	1 	24 	1 	out 	IN
+Jde 	1 	5 	1 	25 	1 	of 	IN
+Jde 	1 	5 	1 	26 	1 	the 	DT
+Jde 	1 	5 	1 	27 	1 	land 	NN
+Jde 	1 	5 	1 	28 	1 	of 	IN
+Jde 	1 	5 	1 	29 	1 	Egypt 	NN
+Jde 	1 	5 	1 	30 	0 	,
+Jde 	1 	5 	1 	31 	1 	afterward 	RB
+Jde 	1 	5 	1 	32 	1 	destroyed 	NN
+Jde 	1 	5 	1 	33 	1 	them 	PRP
+Jde 	1 	5 	1 	34 	1 	that 	IN
+Jde 	1 	5 	1 	35 	1 	believed 	VBN
+Jde 	1 	5 	1 	36 	1 	not 	RB
+Jde 	1 	5 	1 	37 	0 	.
+Jde 	1 	6 	1 	1 	1 	And 	CC
+Jde 	1 	6 	1 	2 	1 	the 	DT
+Jde 	1 	6 	1 	3 	1 	angels 	NNS
+Jde 	1 	6 	1 	4 	1 	which 	WDT
+Jde 	1 	6 	1 	5 	1 	kept 	NN
+Jde 	1 	6 	1 	6 	1 	not 	RB
+Jde 	1 	6 	1 	7 	1 	their 	PRP$
+Jde 	1 	6 	1 	8 	1 	first 	RB
+Jde 	1 	6 	1 	9 	1 	estate 	NN
+Jde 	1 	6 	1 	10 	0 	,
+Jde 	1 	6 	1 	11 	1 	but 	CC
+Jde 	1 	6 	1 	12 	1 	left 	NN
+Jde 	1 	6 	1 	13 	1 	their 	PRP$
+Jde 	1 	6 	1 	14 	1 	own 	JJ
+Jde 	1 	6 	1 	15 	1 	habitation 	NN
+Jde 	1 	6 	1 	16 	0 	,
+Jde 	1 	6 	1 	17 	1 	he 	PRP
+Jde 	1 	6 	1 	18 	1 	hath 	NN
+Jde 	1 	6 	1 	19 	1 	reserved 	VBN
+Jde 	1 	6 	1 	20 	1 	in 	IN
+Jde 	1 	6 	1 	21 	1 	everlasting 	VBG
+Jde 	1 	6 	1 	22 	1 	chains 	NNS
+Jde 	1 	6 	1 	23 	1 	under 	IN
+Jde 	1 	6 	1 	24 	1 	darkness 	NN
+Jde 	1 	6 	1 	25 	1 	unto 	NN
+Jde 	1 	6 	1 	26 	1 	the 	DT
+Jde 	1 	6 	1 	27 	1 	judgment 	NN
+Jde 	1 	6 	1 	28 	1 	of 	IN
+Jde 	1 	6 	1 	29 	1 	the 	DT
+Jde 	1 	6 	1 	30 	1 	great 	JJ
+Jde 	1 	6 	1 	31 	1 	day 	NN
+Jde 	1 	6 	1 	32 	0 	.
+Jde 	1 	7 	1 	1 	1 	Even 	RB
+Jde 	1 	7 	1 	2 	1 	as 	IN
+Jde 	1 	7 	1 	3 	1 	Sodom 	NN
+Jde 	1 	7 	1 	4 	1 	and 	CC
+Jde 	1 	7 	1 	5 	1 	Gomorrha 	NN
+Jde 	1 	7 	1 	6 	0 	,
+Jde 	1 	7 	1 	7 	1 	and 	CC
+Jde 	1 	7 	1 	8 	1 	the 	DT
+Jde 	1 	7 	1 	9 	1 	cities 	NNS
+Jde 	1 	7 	1 	10 	1 	about 	IN
+Jde 	1 	7 	1 	11 	1 	them 	PRP
+Jde 	1 	7 	1 	12 	1 	in 	IN
+Jde 	1 	7 	1 	13 	1 	like 	IN
+Jde 	1 	7 	1 	14 	1 	manner 	NN
+Jde 	1 	7 	1 	15 	0 	,
+Jde 	1 	7 	1 	16 	1 	giving 	VBG
+Jde 	1 	7 	1 	17 	1 	themselves 	PRP
+Jde 	1 	7 	1 	18 	1 	over 	IN
+Jde 	1 	7 	1 	19 	1 	to 	TO
+Jde 	1 	7 	1 	20 	1 	fornication 	NN
+Jde 	1 	7 	1 	21 	0 	,
+Jde 	1 	7 	1 	22 	1 	and 	CC
+Jde 	1 	7 	1 	23 	1 	going 	VBG
+Jde 	1 	7 	1 	24 	1 	after 	IN
+Jde 	1 	7 	1 	25 	1 	strange 	NN
+Jde 	1 	7 	1 	26 	1 	flesh 	NN
+Jde 	1 	7 	1 	27 	0 	,
+Jde 	1 	7 	1 	28 	1 	are 	VBP
+Jde 	1 	7 	1 	29 	1 	set 	NN
+Jde 	1 	7 	1 	30 	1 	forth 	NN
+Jde 	1 	7 	1 	31 	1 	for 	IN
+Jde 	1 	7 	1 	32 	1 	an 	DT
+Jde 	1 	7 	1 	33 	1 	example 	NN
+Jde 	1 	7 	1 	34 	0 	,
+Jde 	1 	7 	1 	35 	1 	suffering 	VBG
+Jde 	1 	7 	1 	36 	1 	the 	DT
+Jde 	1 	7 	1 	37 	1 	vengeance 	NN
+Jde 	1 	7 	1 	38 	1 	of 	IN
+Jde 	1 	7 	1 	39 	1 	eternal 	JJ
+Jde 	1 	7 	1 	40 	1 	fire 	NN
+Jde 	1 	7 	1 	41 	0 	.
+Jde 	1 	8 	1 	1 	1 	Likewise 	RB
+Jde 	1 	8 	1 	2 	1 	also 	RB
+Jde 	1 	8 	1 	3 	1 	these 	DT
+Jde 	1 	8 	1 	4 	1 	filthy 	NN
+Jde 	1 	8 	1 	5 	1 	dreamers 	NNS
+Jde 	1 	8 	1 	6 	1 	defile 	NN
+Jde 	1 	8 	1 	7 	1 	the 	DT
+Jde 	1 	8 	1 	8 	1 	flesh 	NN
+Jde 	1 	8 	1 	9 	0 	,
+Jde 	1 	8 	1 	10 	1 	despise 	NN
+Jde 	1 	8 	1 	11 	1 	dominion 	NN
+Jde 	1 	8 	1 	12 	0 	,
+Jde 	1 	8 	1 	13 	1 	and 	CC
+Jde 	1 	8 	1 	14 	1 	speak 	NN
+Jde 	1 	8 	1 	15 	1 	evil 	NN
+Jde 	1 	8 	1 	16 	1 	of 	IN
+Jde 	1 	8 	1 	17 	1 	dignities 	NNS
+Jde 	1 	8 	1 	18 	0 	.
+Jde 	1 	9 	1 	1 	1 	Yet 	RB
+Jde 	1 	9 	1 	2 	1 	Michael 	NNP
+Jde 	1 	9 	1 	3 	1 	the 	DT
+Jde 	1 	9 	1 	4 	1 	archangel 	NN
+Jde 	1 	9 	1 	5 	0 	,
+Jde 	1 	9 	1 	6 	1 	when 	WRB
+Jde 	1 	9 	1 	7 	1 	contending 	VBG
+Jde 	1 	9 	1 	8 	1 	with 	IN
+Jde 	1 	9 	1 	9 	1 	the 	DT
+Jde 	1 	9 	1 	10 	1 	devil 	NN
+Jde 	1 	9 	1 	11 	1 	he 	PRP
+Jde 	1 	9 	1 	12 	1 	disputed 	VBN
+Jde 	1 	9 	1 	13 	1 	about 	IN
+Jde 	1 	9 	1 	14 	1 	the 	DT
+Jde 	1 	9 	1 	15 	1 	body 	NN
+Jde 	1 	9 	1 	16 	1 	of 	IN
+Jde 	1 	9 	1 	17 	1 	Moses 	NNS
+Jde 	1 	9 	1 	18 	0 	,
+Jde 	1 	9 	1 	19 	1 	durst 	NN
+Jde 	1 	9 	1 	20 	1 	not 	RB
+Jde 	1 	9 	1 	21 	1 	bring 	NN
+Jde 	1 	9 	1 	22 	1 	against 	IN
+Jde 	1 	9 	1 	23 	1 	him 	PRP
+Jde 	1 	9 	1 	24 	1 	a 	DT
+Jde 	1 	9 	1 	25 	1 	railing 	VBG
+Jde 	1 	9 	1 	26 	1 	accusation 	NN
+Jde 	1 	9 	1 	27 	0 	,
+Jde 	1 	9 	1 	28 	1 	but 	CC
+Jde 	1 	9 	1 	29 	1 	said 	VBD
+Jde 	1 	9 	1 	30 	0 	,
+Jde 	1 	9 	1 	31 	1 	The 	DT
+Jde 	1 	9 	1 	32 	1 	Lord 	NN
+Jde 	1 	9 	1 	33 	1 	rebuke 	NN
+Jde 	1 	9 	1 	34 	1 	thee 	NN
+Jde 	1 	9 	1 	35 	0 	.
+Jde 	1 	10 	1 	1 	1 	But 	CC
+Jde 	1 	10 	1 	2 	1 	these 	DT
+Jde 	1 	10 	1 	3 	1 	speak 	NN
+Jde 	1 	10 	1 	4 	1 	evil 	NN
+Jde 	1 	10 	1 	5 	1 	of 	IN
+Jde 	1 	10 	1 	6 	1 	those 	DT
+Jde 	1 	10 	1 	7 	1 	things 	NNS
+Jde 	1 	10 	1 	8 	1 	which 	WDT
+Jde 	1 	10 	1 	9 	1 	they 	PRP
+Jde 	1 	10 	1 	10 	1 	know 	VB
+Jde 	1 	10 	1 	11 	1 	not 	RB
+Jde 	1 	10 	1 	12 	0 	:
+Jde 	1 	10 	1 	13 	1 	but 	CC
+Jde 	1 	10 	1 	14 	1 	what 	WP
+Jde 	1 	10 	1 	15 	1 	they 	PRP
+Jde 	1 	10 	1 	16 	1 	know 	VB
+Jde 	1 	10 	1 	17 	1 	naturally 	RB
+Jde 	1 	10 	1 	18 	0 	,
+Jde 	1 	10 	1 	19 	1 	as 	IN
+Jde 	1 	10 	1 	20 	1 	brute 	NN
+Jde 	1 	10 	1 	21 	1 	beasts 	NNS
+Jde 	1 	10 	1 	22 	0 	,
+Jde 	1 	10 	1 	23 	1 	in 	IN
+Jde 	1 	10 	1 	24 	1 	those 	DT
+Jde 	1 	10 	1 	25 	1 	things 	NNS
+Jde 	1 	10 	1 	26 	1 	they 	PRP
+Jde 	1 	10 	1 	27 	1 	corrupt 	NN
+Jde 	1 	10 	1 	28 	1 	themselves 	PRP
+Jde 	1 	10 	1 	29 	0 	.
+Jde 	1 	11 	1 	1 	1 	Woe 	NN
+Jde 	1 	11 	1 	2 	1 	unto 	NN
+Jde 	1 	11 	1 	3 	1 	them 	PRP
+Jde 	1 	11 	1 	4 	0 	!
+Jde 	1 	11 	2 	1 	1 	for 	IN
+Jde 	1 	11 	2 	2 	1 	they 	PRP
+Jde 	1 	11 	2 	3 	1 	have 	VB
+Jde 	1 	11 	2 	4 	1 	gone 	VBN
+Jde 	1 	11 	2 	5 	1 	in 	IN
+Jde 	1 	11 	2 	6 	1 	the 	DT
+Jde 	1 	11 	2 	7 	1 	way 	NN
+Jde 	1 	11 	2 	8 	1 	of 	IN
+Jde 	1 	11 	2 	9 	1 	Cain 	NN
+Jde 	1 	11 	2 	10 	0 	,
+Jde 	1 	11 	2 	11 	1 	and 	CC
+Jde 	1 	11 	2 	12 	1 	ran 	NN
+Jde 	1 	11 	2 	13 	1 	greedily 	RB
+Jde 	1 	11 	2 	14 	1 	after 	IN
+Jde 	1 	11 	2 	15 	1 	the 	DT
+Jde 	1 	11 	2 	16 	1 	error 	NN
+Jde 	1 	11 	2 	17 	1 	of 	IN
+Jde 	1 	11 	2 	18 	1 	Balaam 	NN
+Jde 	1 	11 	2 	19 	1 	for 	IN
+Jde 	1 	11 	2 	20 	1 	reward 	NN
+Jde 	1 	11 	2 	21 	0 	,
+Jde 	1 	11 	2 	22 	1 	and 	CC
+Jde 	1 	11 	2 	23 	1 	perished 	VBN
+Jde 	1 	11 	2 	24 	1 	in 	IN
+Jde 	1 	11 	2 	25 	1 	the 	DT
+Jde 	1 	11 	2 	26 	1 	gainsaying 	VBG
+Jde 	1 	11 	2 	27 	1 	of 	IN
+Jde 	1 	11 	2 	28 	1 	Core 	NN
+Jde 	1 	11 	2 	29 	0 	.
+Jde 	1 	12 	1 	1 	1 	These 	DT
+Jde 	1 	12 	1 	2 	1 	are 	VBP
+Jde 	1 	12 	1 	3 	1 	spots 	NNS
+Jde 	1 	12 	1 	4 	1 	in 	IN
+Jde 	1 	12 	1 	5 	1 	your 	PRP$
+Jde 	1 	12 	1 	6 	1 	feasts 	NNS
+Jde 	1 	12 	1 	7 	1 	of 	IN
+Jde 	1 	12 	1 	8 	1 	charity 	NN
+Jde 	1 	12 	1 	9 	0 	,
+Jde 	1 	12 	1 	10 	1 	when 	WRB
+Jde 	1 	12 	1 	11 	1 	they 	PRP
+Jde 	1 	12 	1 	12 	1 	feast 	NN
+Jde 	1 	12 	1 	13 	1 	with 	IN
+Jde 	1 	12 	1 	14 	1 	you 	PRP
+Jde 	1 	12 	1 	15 	0 	,
+Jde 	1 	12 	1 	16 	1 	feeding 	VBG
+Jde 	1 	12 	1 	17 	1 	themselves 	PRP
+Jde 	1 	12 	1 	18 	1 	without 	IN
+Jde 	1 	12 	1 	19 	1 	fear 	NN
+Jde 	1 	12 	1 	20 	0 	:
+Jde 	1 	12 	1 	21 	1 	clouds 	NNS
+Jde 	1 	12 	1 	22 	1 	they 	PRP
+Jde 	1 	12 	1 	23 	1 	are 	VBP
+Jde 	1 	12 	1 	24 	1 	without 	IN
+Jde 	1 	12 	1 	25 	1 	water 	NN
+Jde 	1 	12 	1 	26 	0 	,
+Jde 	1 	12 	1 	27 	1 	carried 	VBN
+Jde 	1 	12 	1 	28 	1 	about 	IN
+Jde 	1 	12 	1 	29 	1 	of 	IN
+Jde 	1 	12 	1 	30 	1 	winds 	NNS
+Jde 	1 	12 	1 	31 	0 	;
+Jde 	1 	12 	1 	32 	1 	trees 	NNS
+Jde 	1 	12 	1 	33 	1 	whose 	WP$
+Jde 	1 	12 	1 	34 	1 	fruit 	NN
+Jde 	1 	12 	1 	35 	1 	withereth 	NNS
+Jde 	1 	12 	1 	36 	0 	,
+Jde 	1 	12 	1 	37 	1 	without 	IN
+Jde 	1 	12 	1 	38 	1 	fruit 	NN
+Jde 	1 	12 	1 	39 	0 	,
+Jde 	1 	12 	1 	40 	1 	twice 	RB
+Jde 	1 	12 	1 	41 	1 	dead 	JJ
+Jde 	1 	12 	1 	42 	0 	,
+Jde 	1 	12 	1 	43 	1 	plucked 	NNS
+Jde 	1 	12 	1 	44 	1 	up 	RB
+Jde 	1 	12 	1 	45 	1 	by 	IN
+Jde 	1 	12 	1 	46 	1 	the 	DT
+Jde 	1 	12 	1 	47 	1 	roots 	NNS
+Jde 	1 	12 	1 	48 	0 	;
+Jde 	1 	13 	1 	1 	1 	Raging 	VBG
+Jde 	1 	13 	1 	2 	1 	waves 	NNS
+Jde 	1 	13 	1 	3 	1 	of 	IN
+Jde 	1 	13 	1 	4 	1 	the 	DT
+Jde 	1 	13 	1 	5 	1 	sea 	NN
+Jde 	1 	13 	1 	6 	0 	,
+Jde 	1 	13 	1 	7 	1 	foaming 	VBG
+Jde 	1 	13 	1 	8 	1 	out 	IN
+Jde 	1 	13 	1 	9 	1 	their 	PRP$
+Jde 	1 	13 	1 	10 	1 	own 	JJ
+Jde 	1 	13 	1 	11 	1 	shame 	NN
+Jde 	1 	13 	1 	12 	0 	;
+Jde 	1 	13 	1 	13 	1 	wandering 	VBG
+Jde 	1 	13 	1 	14 	1 	stars 	NNS
+Jde 	1 	13 	1 	15 	0 	,
+Jde 	1 	13 	1 	16 	1 	to 	TO
+Jde 	1 	13 	1 	17 	1 	whom 	WP
+Jde 	1 	13 	1 	18 	1 	is 	VBZ
+Jde 	1 	13 	1 	19 	1 	reserved 	VBN
+Jde 	1 	13 	1 	20 	1 	the 	DT
+Jde 	1 	13 	1 	21 	1 	blackness 	NN
+Jde 	1 	13 	1 	22 	1 	of 	IN
+Jde 	1 	13 	1 	23 	1 	darkness 	NN
+Jde 	1 	13 	1 	24 	1 	for 	IN
+Jde 	1 	13 	1 	25 	1 	ever 	RB
+Jde 	1 	13 	1 	26 	0 	.
+Jde 	1 	14 	1 	1 	1 	And 	CC
+Jde 	1 	14 	1 	2 	1 	Enoch 	NN
+Jde 	1 	14 	1 	3 	1 	also 	RB
+Jde 	1 	14 	1 	4 	0 	,
+Jde 	1 	14 	1 	5 	1 	the 	DT
+Jde 	1 	14 	1 	6 	1 	seventh 	NN
+Jde 	1 	14 	1 	7 	1 	from 	IN
+Jde 	1 	14 	1 	8 	1 	Adam 	NN
+Jde 	1 	14 	1 	9 	0 	,
+Jde 	1 	14 	1 	10 	1 	prophesied 	VBN
+Jde 	1 	14 	1 	11 	1 	of 	IN
+Jde 	1 	14 	1 	12 	1 	these 	DT
+Jde 	1 	14 	1 	13 	0 	,
+Jde 	1 	14 	1 	14 	1 	saying 	VBG
+Jde 	1 	14 	1 	15 	0 	,
+Jde 	1 	14 	1 	16 	1 	Behold 	NN
+Jde 	1 	14 	1 	17 	0 	,
+Jde 	1 	14 	1 	18 	1 	the 	DT
+Jde 	1 	14 	1 	19 	1 	Lord 	NN
+Jde 	1 	14 	1 	20 	1 	cometh 	NNS
+Jde 	1 	14 	1 	21 	1 	with 	IN
+Jde 	1 	14 	1 	22 	1 	ten 	NNS
+Jde 	1 	14 	1 	23 	1 	thousands 	NNS
+Jde 	1 	14 	1 	24 	1 	of 	IN
+Jde 	1 	14 	1 	25 	1 	his 	PRP$
+Jde 	1 	14 	1 	26 	1 	saints 	NNS
+Jde 	1 	14 	1 	27 	0 	,
+Jde 	1 	15 	1 	1 	1 	To 	TO
+Jde 	1 	15 	1 	2 	1 	execute 	NN
+Jde 	1 	15 	1 	3 	1 	judgment 	NN
+Jde 	1 	15 	1 	4 	1 	upon 	IN
+Jde 	1 	15 	1 	5 	1 	all 	DT
+Jde 	1 	15 	1 	6 	0 	,
+Jde 	1 	15 	1 	7 	1 	and 	CC
+Jde 	1 	15 	1 	8 	1 	to 	TO
+Jde 	1 	15 	1 	9 	1 	convince 	NN
+Jde 	1 	15 	1 	10 	1 	all 	DT
+Jde 	1 	15 	1 	11 	1 	that 	IN
+Jde 	1 	15 	1 	12 	1 	are 	VBP
+Jde 	1 	15 	1 	13 	1 	ungodly 	RB
+Jde 	1 	15 	1 	14 	1 	among 	IN
+Jde 	1 	15 	1 	15 	1 	them 	PRP
+Jde 	1 	15 	1 	16 	1 	of 	IN
+Jde 	1 	15 	1 	17 	1 	all 	DT
+Jde 	1 	15 	1 	18 	1 	their 	PRP$
+Jde 	1 	15 	1 	19 	1 	ungodly 	RB
+Jde 	1 	15 	1 	20 	1 	deeds 	NNS
+Jde 	1 	15 	1 	21 	1 	which 	WDT
+Jde 	1 	15 	1 	22 	1 	they 	PRP
+Jde 	1 	15 	1 	23 	1 	have 	VB
+Jde 	1 	15 	1 	24 	1 	ungodly 	RB
+Jde 	1 	15 	1 	25 	1 	committed 	VBN
+Jde 	1 	15 	1 	26 	0 	,
+Jde 	1 	15 	1 	27 	1 	and 	CC
+Jde 	1 	15 	1 	28 	1 	of 	IN
+Jde 	1 	15 	1 	29 	1 	all 	DT
+Jde 	1 	15 	1 	30 	1 	their 	PRP$
+Jde 	1 	15 	1 	31 	1 	hard 	JJ
+Jde 	1 	15 	1 	32 	1 	speeches 	NNS
+Jde 	1 	15 	1 	33 	1 	which 	WDT
+Jde 	1 	15 	1 	34 	1 	ungodly 	RB
+Jde 	1 	15 	1 	35 	1 	sinners 	NNS
+Jde 	1 	15 	1 	36 	1 	have 	VB
+Jde 	1 	15 	1 	37 	1 	spoken 	NN
+Jde 	1 	15 	1 	38 	1 	against 	IN
+Jde 	1 	15 	1 	39 	1 	him 	PRP
+Jde 	1 	15 	1 	40 	0 	.
+Jde 	1 	16 	1 	1 	1 	These 	DT
+Jde 	1 	16 	1 	2 	1 	are 	VBP
+Jde 	1 	16 	1 	3 	1 	murmurers 	NNS
+Jde 	1 	16 	1 	4 	0 	,
+Jde 	1 	16 	1 	5 	1 	complainers 	NNS
+Jde 	1 	16 	1 	6 	0 	,
+Jde 	1 	16 	1 	7 	1 	walking 	VBG
+Jde 	1 	16 	1 	8 	1 	after 	IN
+Jde 	1 	16 	1 	9 	1 	their 	PRP$
+Jde 	1 	16 	1 	10 	1 	own 	JJ
+Jde 	1 	16 	1 	11 	1 	lusts 	NNS
+Jde 	1 	16 	1 	12 	0 	;
+Jde 	1 	16 	1 	13 	1 	and 	CC
+Jde 	1 	16 	1 	14 	1 	their 	PRP$
+Jde 	1 	16 	1 	15 	1 	mouth 	NN
+Jde 	1 	16 	1 	16 	1 	speaketh 	NN
+Jde 	1 	16 	1 	17 	1 	great 	JJ
+Jde 	1 	16 	1 	18 	1 	swelling 	VBG
+Jde 	1 	16 	1 	19 	1 	words 	NNS
+Jde 	1 	16 	1 	20 	0 	,
+Jde 	1 	16 	1 	21 	1 	having 	VBG
+Jde 	1 	16 	1 	22 	1 	men 	NNS
+Jde 	1 	16 	1 	23 	0 	's
+Jde 	1 	16 	1 	24 	1 	persons 	NNS
+Jde 	1 	16 	1 	25 	1 	in 	IN
+Jde 	1 	16 	1 	26 	1 	admiration 	NN
+Jde 	1 	16 	1 	27 	1 	because 	IN
+Jde 	1 	16 	1 	28 	1 	of 	IN
+Jde 	1 	16 	1 	29 	1 	advantage 	NN
+Jde 	1 	16 	1 	30 	0 	.
+Jde 	1 	17 	1 	1 	1 	But 	CC
+Jde 	1 	17 	1 	2 	0 	,
+Jde 	1 	17 	1 	3 	1 	beloved 	VBN
+Jde 	1 	17 	1 	4 	0 	,
+Jde 	1 	17 	1 	5 	1 	remember 	VB
+Jde 	1 	17 	1 	6 	1 	ye 	NN
+Jde 	1 	17 	1 	7 	1 	the 	DT
+Jde 	1 	17 	1 	8 	1 	words 	NNS
+Jde 	1 	17 	1 	9 	1 	which 	WDT
+Jde 	1 	17 	1 	10 	1 	were 	VBD
+Jde 	1 	17 	1 	11 	1 	spoken 	NN
+Jde 	1 	17 	1 	12 	1 	before 	IN
+Jde 	1 	17 	1 	13 	1 	of 	IN
+Jde 	1 	17 	1 	14 	1 	the 	DT
+Jde 	1 	17 	1 	15 	1 	apostles 	NNS
+Jde 	1 	17 	1 	16 	1 	of 	IN
+Jde 	1 	17 	1 	17 	1 	our 	PRP$
+Jde 	1 	17 	1 	18 	1 	Lord 	NN
+Jde 	1 	17 	1 	19 	1 	Jesus 	NN
+Jde 	1 	17 	1 	20 	1 	Christ 	NN
+Jde 	1 	17 	1 	21 	0 	;
+Jde 	1 	18 	1 	1 	1 	How 	WRB
+Jde 	1 	18 	1 	2 	1 	that 	IN
+Jde 	1 	18 	1 	3 	1 	they 	PRP
+Jde 	1 	18 	1 	4 	1 	told 	NN
+Jde 	1 	18 	1 	5 	1 	you 	PRP
+Jde 	1 	18 	1 	6 	1 	there 	RB
+Jde 	1 	18 	1 	7 	1 	should 	MD
+Jde 	1 	18 	1 	8 	1 	be 	VB
+Jde 	1 	18 	1 	9 	1 	mockers 	NNS
+Jde 	1 	18 	1 	10 	1 	in 	IN
+Jde 	1 	18 	1 	11 	1 	the 	DT
+Jde 	1 	18 	1 	12 	1 	last 	JJ
+Jde 	1 	18 	1 	13 	1 	time 	NN
+Jde 	1 	18 	1 	14 	0 	,
+Jde 	1 	18 	1 	15 	1 	who 	WP
+Jde 	1 	18 	1 	16 	1 	should 	MD
+Jde 	1 	18 	1 	17 	1 	walk 	NN
+Jde 	1 	18 	1 	18 	1 	after 	IN
+Jde 	1 	18 	1 	19 	1 	their 	PRP$
+Jde 	1 	18 	1 	20 	1 	own 	JJ
+Jde 	1 	18 	1 	21 	1 	ungodly 	RB
+Jde 	1 	18 	1 	22 	1 	lusts 	NNS
+Jde 	1 	18 	1 	23 	0 	.
+Jde 	1 	19 	1 	1 	1 	These 	DT
+Jde 	1 	19 	1 	2 	1 	be 	VB
+Jde 	1 	19 	1 	3 	1 	they 	PRP
+Jde 	1 	19 	1 	4 	1 	who 	WP
+Jde 	1 	19 	1 	5 	1 	separate 	JJ
+Jde 	1 	19 	1 	6 	1 	themselves 	PRP
+Jde 	1 	19 	1 	7 	0 	,
+Jde 	1 	19 	1 	8 	1 	sensual 	JJ
+Jde 	1 	19 	1 	9 	0 	,
+Jde 	1 	19 	1 	10 	1 	having 	VBG
+Jde 	1 	19 	1 	11 	1 	not 	RB
+Jde 	1 	19 	1 	12 	1 	the 	DT
+Jde 	1 	19 	1 	13 	1 	Spirit 	NN
+Jde 	1 	19 	1 	14 	0 	.
+Jde 	1 	20 	1 	1 	1 	But 	CC
+Jde 	1 	20 	1 	2 	1 	ye 	NN
+Jde 	1 	20 	1 	3 	0 	,
+Jde 	1 	20 	1 	4 	1 	beloved 	VBN
+Jde 	1 	20 	1 	5 	0 	,
+Jde 	1 	20 	1 	6 	1 	building 	NN
+Jde 	1 	20 	1 	7 	1 	up 	RB
+Jde 	1 	20 	1 	8 	1 	yourselves 	NNS
+Jde 	1 	20 	1 	9 	1 	on 	IN
+Jde 	1 	20 	1 	10 	1 	your 	PRP$
+Jde 	1 	20 	1 	11 	1 	most 	JJS
+Jde 	1 	20 	1 	12 	1 	holy 	NN
+Jde 	1 	20 	1 	13 	1 	faith 	NN
+Jde 	1 	20 	1 	14 	0 	,
+Jde 	1 	20 	1 	15 	1 	praying 	VBG
+Jde 	1 	20 	1 	16 	1 	in 	IN
+Jde 	1 	20 	1 	17 	1 	the 	DT
+Jde 	1 	20 	1 	18 	1 	Holy 	NNP
+Jde 	1 	20 	1 	19 	1 	Ghost 	NN
+Jde 	1 	20 	1 	20 	0 	,
+Jde 	1 	21 	1 	1 	1 	Keep 	VB
+Jde 	1 	21 	1 	2 	1 	yourselves 	NNS
+Jde 	1 	21 	1 	3 	1 	in 	IN
+Jde 	1 	21 	1 	4 	1 	the 	DT
+Jde 	1 	21 	1 	5 	1 	love 	NN
+Jde 	1 	21 	1 	6 	1 	of 	IN
+Jde 	1 	21 	1 	7 	1 	God 	NNP
+Jde 	1 	21 	1 	8 	0 	,
+Jde 	1 	21 	1 	9 	1 	looking 	VBG
+Jde 	1 	21 	1 	10 	1 	for 	IN
+Jde 	1 	21 	1 	11 	1 	the 	DT
+Jde 	1 	21 	1 	12 	1 	mercy 	NN
+Jde 	1 	21 	1 	13 	1 	of 	IN
+Jde 	1 	21 	1 	14 	1 	our 	PRP$
+Jde 	1 	21 	1 	15 	1 	Lord 	NN
+Jde 	1 	21 	1 	16 	1 	Jesus 	NN
+Jde 	1 	21 	1 	17 	1 	Christ 	NN
+Jde 	1 	21 	1 	18 	1 	unto 	NN
+Jde 	1 	21 	1 	19 	1 	eternal 	JJ
+Jde 	1 	21 	1 	20 	1 	life 	NN
+Jde 	1 	21 	1 	21 	0 	.
+Jde 	1 	22 	1 	1 	1 	And 	CC
+Jde 	1 	22 	1 	2 	1 	of 	IN
+Jde 	1 	22 	1 	3 	1 	some 	DT
+Jde 	1 	22 	1 	4 	1 	have 	VB
+Jde 	1 	22 	1 	5 	1 	compassion 	NN
+Jde 	1 	22 	1 	6 	0 	,
+Jde 	1 	22 	1 	7 	1 	making 	VBG
+Jde 	1 	22 	1 	8 	1 	a 	DT
+Jde 	1 	22 	1 	9 	1 	difference 	NN
+Jde 	1 	22 	1 	10 	0 	:
+Jde 	1 	23 	1 	1 	1 	And 	CC
+Jde 	1 	23 	1 	2 	1 	others 	NNS
+Jde 	1 	23 	1 	3 	1 	save 	VB
+Jde 	1 	23 	1 	4 	1 	with 	IN
+Jde 	1 	23 	1 	5 	1 	fear 	NN
+Jde 	1 	23 	1 	6 	0 	,
+Jde 	1 	23 	1 	7 	1 	pulling 	VBG
+Jde 	1 	23 	1 	8 	1 	them 	PRP
+Jde 	1 	23 	1 	9 	1 	out 	IN
+Jde 	1 	23 	1 	10 	1 	of 	IN
+Jde 	1 	23 	1 	11 	1 	the 	DT
+Jde 	1 	23 	1 	12 	1 	fire 	NN
+Jde 	1 	23 	1 	13 	0 	;
+Jde 	1 	23 	1 	14 	1 	hating 	VBG
+Jde 	1 	23 	1 	15 	1 	even 	RB
+Jde 	1 	23 	1 	16 	1 	the 	DT
+Jde 	1 	23 	1 	17 	1 	garment 	NN
+Jde 	1 	23 	1 	18 	1 	spotted 	VBN
+Jde 	1 	23 	1 	19 	1 	by 	IN
+Jde 	1 	23 	1 	20 	1 	the 	DT
+Jde 	1 	23 	1 	21 	1 	flesh 	NN
+Jde 	1 	23 	1 	22 	0 	.
+Jde 	1 	24 	1 	1 	1 	Now 	RB
+Jde 	1 	24 	1 	2 	1 	unto 	NN
+Jde 	1 	24 	1 	3 	1 	him 	PRP
+Jde 	1 	24 	1 	4 	1 	that 	IN
+Jde 	1 	24 	1 	5 	1 	is 	VBZ
+Jde 	1 	24 	1 	6 	1 	able 	JJ
+Jde 	1 	24 	1 	7 	1 	to 	TO
+Jde 	1 	24 	1 	8 	1 	keep 	VB
+Jde 	1 	24 	1 	9 	1 	you 	PRP
+Jde 	1 	24 	1 	10 	1 	from 	IN
+Jde 	1 	24 	1 	11 	1 	falling 	VBG
+Jde 	1 	24 	1 	12 	0 	,
+Jde 	1 	24 	1 	13 	1 	and 	CC
+Jde 	1 	24 	1 	14 	1 	to 	TO
+Jde 	1 	24 	1 	15 	1 	present 	NN
+Jde 	1 	24 	1 	16 	1 	you 	PRP
+Jde 	1 	24 	1 	17 	1 	faultless 	NN
+Jde 	1 	24 	1 	18 	1 	before 	IN
+Jde 	1 	24 	1 	19 	1 	the 	DT
+Jde 	1 	24 	1 	20 	1 	presence 	NN
+Jde 	1 	24 	1 	21 	1 	of 	IN
+Jde 	1 	24 	1 	22 	1 	his 	PRP$
+Jde 	1 	24 	1 	23 	1 	glory 	NN
+Jde 	1 	24 	1 	24 	1 	with 	IN
+Jde 	1 	24 	1 	25 	1 	exceeding 	VBG
+Jde 	1 	24 	1 	26 	1 	joy 	NN
+Jde 	1 	24 	1 	27 	0 	,
+Jde 	1 	25 	1 	1 	1 	To 	TO
+Jde 	1 	25 	1 	2 	1 	the 	DT
+Jde 	1 	25 	1 	3 	1 	only 	RB
+Jde 	1 	25 	1 	4 	1 	wise 	NN
+Jde 	1 	25 	1 	5 	1 	God 	NNP
+Jde 	1 	25 	1 	6 	1 	our 	PRP$
+Jde 	1 	25 	1 	7 	1 	Saviour 	NN
+Jde 	1 	25 	1 	8 	0 	,
+Jde 	1 	25 	1 	9 	1 	be 	VB
+Jde 	1 	25 	1 	10 	1 	glory 	NN
+Jde 	1 	25 	1 	11 	1 	and 	CC
+Jde 	1 	25 	1 	12 	1 	majesty 	NN
+Jde 	1 	25 	1 	13 	0 	,
+Jde 	1 	25 	1 	14 	1 	dominion 	NN
+Jde 	1 	25 	1 	15 	1 	and 	CC
+Jde 	1 	25 	1 	16 	1 	power 	NN
+Jde 	1 	25 	1 	17 	0 	,
+Jde 	1 	25 	1 	18 	1 	both 	DT
+Jde 	1 	25 	1 	19 	1 	now 	RB
+Jde 	1 	25 	1 	20 	1 	and 	CC
+Jde 	1 	25 	1 	21 	1 	ever 	RB
+Jde 	1 	25 	1 	22 	0 	.
+Jde 	1 	25 	2 	1 	1 	Amen 	NNS
+Jde 	1 	25 	2 	2 	0 	.

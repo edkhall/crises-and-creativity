@@ -1,0 +1,1716 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Hab 	1 	1 	1 	1 	1 	The 	DT
+Hab 	1 	1 	1 	2 	1 	burden 	NN
+Hab 	1 	1 	1 	3 	1 	which 	WDT
+Hab 	1 	1 	1 	4 	1 	Habakkuk 	NN
+Hab 	1 	1 	1 	5 	1 	the 	DT
+Hab 	1 	1 	1 	6 	1 	prophet 	NN
+Hab 	1 	1 	1 	7 	1 	did 	VBD
+Hab 	1 	1 	1 	8 	1 	see 	VB
+Hab 	1 	1 	1 	9 	0 	.
+Hab 	1 	2 	1 	1 	1 	O 	NN
+Hab 	1 	2 	1 	2 	1 	LORD 	NN
+Hab 	1 	2 	1 	3 	0 	,
+Hab 	1 	2 	1 	4 	1 	how 	WRB
+Hab 	1 	2 	1 	5 	1 	long 	RB
+Hab 	1 	2 	1 	6 	1 	shall 	MD
+Hab 	1 	2 	1 	7 	1 	I 	PRP
+Hab 	1 	2 	1 	8 	1 	cry 	NN
+Hab 	1 	2 	1 	9 	0 	,
+Hab 	1 	2 	1 	10 	1 	and 	CC
+Hab 	1 	2 	1 	11 	1 	thou 	NN
+Hab 	1 	2 	1 	12 	1 	wilt 	NN
+Hab 	1 	2 	1 	13 	1 	not 	RB
+Hab 	1 	2 	1 	14 	1 	hear 	NN
+Hab 	1 	2 	1 	15 	0 	!
+Hab 	1 	2 	2 	1 	1 	even 	RB
+Hab 	1 	2 	2 	2 	1 	cry 	NN
+Hab 	1 	2 	2 	3 	1 	out 	IN
+Hab 	1 	2 	2 	4 	1 	unto 	NN
+Hab 	1 	2 	2 	5 	1 	thee 	NN
+Hab 	1 	2 	2 	6 	1 	of 	IN
+Hab 	1 	2 	2 	7 	1 	violence 	NN
+Hab 	1 	2 	2 	8 	0 	,
+Hab 	1 	2 	2 	9 	1 	and 	CC
+Hab 	1 	2 	2 	10 	1 	thou 	NN
+Hab 	1 	2 	2 	11 	1 	wilt 	NN
+Hab 	1 	2 	2 	12 	1 	not 	RB
+Hab 	1 	2 	2 	13 	1 	save 	VB
+Hab 	1 	2 	2 	14 	0 	!
+Hab 	1 	3 	1 	1 	1 	Why 	WRB
+Hab 	1 	3 	1 	2 	1 	dost 	NN
+Hab 	1 	3 	1 	3 	1 	thou 	NN
+Hab 	1 	3 	1 	4 	1 	shew 	NN
+Hab 	1 	3 	1 	5 	1 	me 	PRP
+Hab 	1 	3 	1 	6 	1 	iniquity 	NN
+Hab 	1 	3 	1 	7 	0 	,
+Hab 	1 	3 	1 	8 	1 	and 	CC
+Hab 	1 	3 	1 	9 	1 	cause 	NN
+Hab 	1 	3 	1 	10 	1 	me 	PRP
+Hab 	1 	3 	1 	11 	1 	to 	TO
+Hab 	1 	3 	1 	12 	1 	behold 	NN
+Hab 	1 	3 	1 	13 	1 	grievance 	NN
+Hab 	1 	3 	1 	14 	0 	?
+Hab 	1 	3 	2 	1 	1 	for 	IN
+Hab 	1 	3 	2 	2 	1 	spoiling 	VBG
+Hab 	1 	3 	2 	3 	1 	and 	CC
+Hab 	1 	3 	2 	4 	1 	violence 	NN
+Hab 	1 	3 	2 	5 	1 	are 	VBP
+Hab 	1 	3 	2 	6 	1 	before 	IN
+Hab 	1 	3 	2 	7 	1 	me 	PRP
+Hab 	1 	3 	2 	8 	0 	:
+Hab 	1 	3 	2 	9 	1 	and 	CC
+Hab 	1 	3 	2 	10 	1 	there 	RB
+Hab 	1 	3 	2 	11 	1 	are 	VBP
+Hab 	1 	3 	2 	12 	1 	that 	IN
+Hab 	1 	3 	2 	13 	1 	raise 	NN
+Hab 	1 	3 	2 	14 	1 	up 	RB
+Hab 	1 	3 	2 	15 	1 	strife 	NN
+Hab 	1 	3 	2 	16 	1 	and 	CC
+Hab 	1 	3 	2 	17 	1 	contention 	NN
+Hab 	1 	3 	2 	18 	0 	.
+Hab 	1 	4 	1 	1 	1 	Therefore 	RB
+Hab 	1 	4 	1 	2 	1 	the 	DT
+Hab 	1 	4 	1 	3 	1 	law 	NN
+Hab 	1 	4 	1 	4 	1 	is 	VBZ
+Hab 	1 	4 	1 	5 	1 	slacked 	VBN
+Hab 	1 	4 	1 	6 	0 	,
+Hab 	1 	4 	1 	7 	1 	and 	CC
+Hab 	1 	4 	1 	8 	1 	judgment 	NN
+Hab 	1 	4 	1 	9 	1 	doth 	NN
+Hab 	1 	4 	1 	10 	1 	never 	RB
+Hab 	1 	4 	1 	11 	1 	go 	VB
+Hab 	1 	4 	1 	12 	1 	forth 	NN
+Hab 	1 	4 	1 	13 	0 	:
+Hab 	1 	4 	1 	14 	1 	for 	IN
+Hab 	1 	4 	1 	15 	1 	the 	DT
+Hab 	1 	4 	1 	16 	1 	wicked 	VBD
+Hab 	1 	4 	1 	17 	1 	doth 	NN
+Hab 	1 	4 	1 	18 	1 	compass 	NN
+Hab 	1 	4 	1 	19 	1 	about 	IN
+Hab 	1 	4 	1 	20 	1 	the 	DT
+Hab 	1 	4 	1 	21 	1 	righteous 	JJ
+Hab 	1 	4 	1 	22 	0 	;
+Hab 	1 	4 	1 	23 	1 	therefore 	RB
+Hab 	1 	4 	1 	24 	1 	wrong 	JJ
+Hab 	1 	4 	1 	25 	1 	judgment 	NN
+Hab 	1 	4 	1 	26 	1 	proceedeth 	NN
+Hab 	1 	4 	1 	27 	0 	.
+Hab 	1 	5 	1 	1 	1 	Behold 	NN
+Hab 	1 	5 	1 	2 	1 	ye 	NN
+Hab 	1 	5 	1 	3 	1 	among 	IN
+Hab 	1 	5 	1 	4 	1 	the 	DT
+Hab 	1 	5 	1 	5 	1 	heathen 	NN
+Hab 	1 	5 	1 	6 	0 	,
+Hab 	1 	5 	1 	7 	1 	and 	CC
+Hab 	1 	5 	1 	8 	1 	regard 	NN
+Hab 	1 	5 	1 	9 	0 	,
+Hab 	1 	5 	1 	10 	1 	and 	CC
+Hab 	1 	5 	1 	11 	1 	wonder 	NN
+Hab 	1 	5 	1 	12 	1 	marvelously 	RB
+Hab 	1 	5 	1 	13 	0 	:
+Hab 	1 	5 	1 	14 	1 	for 	IN
+Hab 	1 	5 	1 	15 	1 	I 	PRP
+Hab 	1 	5 	1 	16 	1 	will 	MD
+Hab 	1 	5 	1 	17 	1 	work 	NN
+Hab 	1 	5 	1 	18 	1 	a 	DT
+Hab 	1 	5 	1 	19 	1 	work 	NN
+Hab 	1 	5 	1 	20 	1 	in 	IN
+Hab 	1 	5 	1 	21 	1 	your 	PRP$
+Hab 	1 	5 	1 	22 	1 	days 	NNS
+Hab 	1 	5 	1 	23 	1 	which 	WDT
+Hab 	1 	5 	1 	24 	1 	ye 	NN
+Hab 	1 	5 	1 	25 	1 	will 	MD
+Hab 	1 	5 	1 	26 	1 	not 	RB
+Hab 	1 	5 	1 	27 	1 	believe 	VB
+Hab 	1 	5 	1 	28 	0 	,
+Hab 	1 	5 	1 	29 	1 	though 	IN
+Hab 	1 	5 	1 	30 	1 	it 	PRP
+Hab 	1 	5 	1 	31 	1 	be 	VB
+Hab 	1 	5 	1 	32 	1 	told 	NN
+Hab 	1 	5 	1 	33 	1 	you 	PRP
+Hab 	1 	5 	1 	34 	0 	.
+Hab 	1 	6 	1 	1 	1 	For 	IN
+Hab 	1 	6 	1 	2 	0 	,
+Hab 	1 	6 	1 	3 	1 	lo 	NN
+Hab 	1 	6 	1 	4 	0 	,
+Hab 	1 	6 	1 	5 	1 	I 	PRP
+Hab 	1 	6 	1 	6 	1 	raise 	NN
+Hab 	1 	6 	1 	7 	1 	up 	RB
+Hab 	1 	6 	1 	8 	1 	the 	DT
+Hab 	1 	6 	1 	9 	1 	Chaldeans 	NNS
+Hab 	1 	6 	1 	10 	0 	,
+Hab 	1 	6 	1 	11 	1 	that 	IN
+Hab 	1 	6 	1 	12 	1 	bitter 	NN
+Hab 	1 	6 	1 	13 	1 	and 	CC
+Hab 	1 	6 	1 	14 	1 	hasty 	NN
+Hab 	1 	6 	1 	15 	1 	nation 	NN
+Hab 	1 	6 	1 	16 	0 	,
+Hab 	1 	6 	1 	17 	1 	which 	WDT
+Hab 	1 	6 	1 	18 	1 	shall 	MD
+Hab 	1 	6 	1 	19 	1 	march 	NN
+Hab 	1 	6 	1 	20 	1 	through 	IN
+Hab 	1 	6 	1 	21 	1 	the 	DT
+Hab 	1 	6 	1 	22 	1 	breadth 	NN
+Hab 	1 	6 	1 	23 	1 	of 	IN
+Hab 	1 	6 	1 	24 	1 	the 	DT
+Hab 	1 	6 	1 	25 	1 	land 	NN
+Hab 	1 	6 	1 	26 	0 	,
+Hab 	1 	6 	1 	27 	1 	to 	TO
+Hab 	1 	6 	1 	28 	1 	possess 	NN
+Hab 	1 	6 	1 	29 	1 	the 	DT
+Hab 	1 	6 	1 	30 	1 	dwellingplaces 	NNS
+Hab 	1 	6 	1 	31 	1 	that 	IN
+Hab 	1 	6 	1 	32 	1 	are 	VBP
+Hab 	1 	6 	1 	33 	1 	not 	RB
+Hab 	1 	6 	1 	34 	1 	their 	PRP$
+Hab 	1 	6 	1 	35 	0 	's
+Hab 	1 	6 	1 	36 	0 	.
+Hab 	1 	7 	1 	1 	1 	They 	PRP
+Hab 	1 	7 	1 	2 	1 	are 	VBP
+Hab 	1 	7 	1 	3 	1 	terrible 	JJ
+Hab 	1 	7 	1 	4 	1 	and 	CC
+Hab 	1 	7 	1 	5 	1 	dreadful 	NN
+Hab 	1 	7 	1 	6 	0 	:
+Hab 	1 	7 	1 	7 	1 	their 	PRP$
+Hab 	1 	7 	1 	8 	1 	judgment 	NN
+Hab 	1 	7 	1 	9 	1 	and 	CC
+Hab 	1 	7 	1 	10 	1 	their 	PRP$
+Hab 	1 	7 	1 	11 	1 	dignity 	NN
+Hab 	1 	7 	1 	12 	1 	shall 	MD
+Hab 	1 	7 	1 	13 	1 	proceed 	NN
+Hab 	1 	7 	1 	14 	1 	of 	IN
+Hab 	1 	7 	1 	15 	1 	themselves 	PRP
+Hab 	1 	7 	1 	16 	0 	.
+Hab 	1 	8 	1 	1 	1 	Their 	PRP$
+Hab 	1 	8 	1 	2 	1 	horses 	NNS
+Hab 	1 	8 	1 	3 	1 	also 	RB
+Hab 	1 	8 	1 	4 	1 	are 	VBP
+Hab 	1 	8 	1 	5 	1 	swifter 	NN
+Hab 	1 	8 	1 	6 	1 	than 	IN
+Hab 	1 	8 	1 	7 	1 	the 	DT
+Hab 	1 	8 	1 	8 	1 	leopards 	NNS
+Hab 	1 	8 	1 	9 	0 	,
+Hab 	1 	8 	1 	10 	1 	and 	CC
+Hab 	1 	8 	1 	11 	1 	are 	VBP
+Hab 	1 	8 	1 	12 	1 	more 	RBR
+Hab 	1 	8 	1 	13 	1 	fierce 	NN
+Hab 	1 	8 	1 	14 	1 	than 	IN
+Hab 	1 	8 	1 	15 	1 	the 	DT
+Hab 	1 	8 	1 	16 	1 	evening 	VBG
+Hab 	1 	8 	1 	17 	1 	wolves 	NNS
+Hab 	1 	8 	1 	18 	0 	:
+Hab 	1 	8 	1 	19 	1 	and 	CC
+Hab 	1 	8 	1 	20 	1 	their 	PRP$
+Hab 	1 	8 	1 	21 	1 	horsemen 	NNS
+Hab 	1 	8 	1 	22 	1 	shall 	MD
+Hab 	1 	8 	1 	23 	1 	spread 	NN
+Hab 	1 	8 	1 	24 	1 	themselves 	PRP
+Hab 	1 	8 	1 	25 	0 	,
+Hab 	1 	8 	1 	26 	1 	and 	CC
+Hab 	1 	8 	1 	27 	1 	their 	PRP$
+Hab 	1 	8 	1 	28 	1 	horsemen 	NNS
+Hab 	1 	8 	1 	29 	1 	shall 	MD
+Hab 	1 	8 	1 	30 	1 	come 	VB
+Hab 	1 	8 	1 	31 	1 	from 	IN
+Hab 	1 	8 	1 	32 	1 	far 	RB
+Hab 	1 	8 	1 	33 	0 	;
+Hab 	1 	8 	1 	34 	1 	they 	PRP
+Hab 	1 	8 	1 	35 	1 	shall 	MD
+Hab 	1 	8 	1 	36 	1 	fly 	NN
+Hab 	1 	8 	1 	37 	1 	as 	IN
+Hab 	1 	8 	1 	38 	1 	the 	DT
+Hab 	1 	8 	1 	39 	1 	eagle 	NN
+Hab 	1 	8 	1 	40 	1 	that 	IN
+Hab 	1 	8 	1 	41 	1 	hasteth 	NN
+Hab 	1 	8 	1 	42 	1 	to 	TO
+Hab 	1 	8 	1 	43 	1 	eat 	NN
+Hab 	1 	8 	1 	44 	0 	.
+Hab 	1 	9 	1 	1 	1 	They 	PRP
+Hab 	1 	9 	1 	2 	1 	shall 	MD
+Hab 	1 	9 	1 	3 	1 	come 	VB
+Hab 	1 	9 	1 	4 	1 	all 	DT
+Hab 	1 	9 	1 	5 	1 	for 	IN
+Hab 	1 	9 	1 	6 	1 	violence 	NN
+Hab 	1 	9 	1 	7 	0 	:
+Hab 	1 	9 	1 	8 	1 	their 	PRP$
+Hab 	1 	9 	1 	9 	1 	faces 	VBZ
+Hab 	1 	9 	1 	10 	1 	shall 	MD
+Hab 	1 	9 	1 	11 	1 	sup 	NN
+Hab 	1 	9 	1 	12 	1 	up 	RB
+Hab 	1 	9 	1 	13 	1 	as 	IN
+Hab 	1 	9 	1 	14 	1 	the 	DT
+Hab 	1 	9 	1 	15 	1 	east 	NN
+Hab 	1 	9 	1 	16 	1 	wind 	NN
+Hab 	1 	9 	1 	17 	0 	,
+Hab 	1 	9 	1 	18 	1 	and 	CC
+Hab 	1 	9 	1 	19 	1 	they 	PRP
+Hab 	1 	9 	1 	20 	1 	shall 	MD
+Hab 	1 	9 	1 	21 	1 	gather 	NN
+Hab 	1 	9 	1 	22 	1 	the 	DT
+Hab 	1 	9 	1 	23 	1 	captivity 	NN
+Hab 	1 	9 	1 	24 	1 	as 	IN
+Hab 	1 	9 	1 	25 	1 	the 	DT
+Hab 	1 	9 	1 	26 	1 	sand 	NN
+Hab 	1 	9 	1 	27 	0 	.
+Hab 	1 	10 	1 	1 	1 	And 	CC
+Hab 	1 	10 	1 	2 	1 	they 	PRP
+Hab 	1 	10 	1 	3 	1 	shall 	MD
+Hab 	1 	10 	1 	4 	1 	scoff 	NN
+Hab 	1 	10 	1 	5 	1 	at 	IN
+Hab 	1 	10 	1 	6 	1 	the 	DT
+Hab 	1 	10 	1 	7 	1 	kings 	NNS
+Hab 	1 	10 	1 	8 	0 	,
+Hab 	1 	10 	1 	9 	1 	and 	CC
+Hab 	1 	10 	1 	10 	1 	the 	DT
+Hab 	1 	10 	1 	11 	1 	princes 	NNS
+Hab 	1 	10 	1 	12 	1 	shall 	MD
+Hab 	1 	10 	1 	13 	1 	be 	VB
+Hab 	1 	10 	1 	14 	1 	a 	DT
+Hab 	1 	10 	1 	15 	1 	scorn 	NN
+Hab 	1 	10 	1 	16 	1 	unto 	NN
+Hab 	1 	10 	1 	17 	1 	them 	PRP
+Hab 	1 	10 	1 	18 	0 	:
+Hab 	1 	10 	1 	19 	1 	they 	PRP
+Hab 	1 	10 	1 	20 	1 	shall 	MD
+Hab 	1 	10 	1 	21 	1 	deride 	NN
+Hab 	1 	10 	1 	22 	1 	every 	DT
+Hab 	1 	10 	1 	23 	1 	strong 	JJ
+Hab 	1 	10 	1 	24 	1 	hold 	NN
+Hab 	1 	10 	1 	25 	0 	;
+Hab 	1 	10 	1 	26 	1 	for 	IN
+Hab 	1 	10 	1 	27 	1 	they 	PRP
+Hab 	1 	10 	1 	28 	1 	shall 	MD
+Hab 	1 	10 	1 	29 	1 	heap 	NN
+Hab 	1 	10 	1 	30 	1 	dust 	NN
+Hab 	1 	10 	1 	31 	0 	,
+Hab 	1 	10 	1 	32 	1 	and 	CC
+Hab 	1 	10 	1 	33 	1 	take 	VB
+Hab 	1 	10 	1 	34 	1 	it 	PRP
+Hab 	1 	10 	1 	35 	0 	.
+Hab 	1 	11 	1 	1 	1 	Then 	RB
+Hab 	1 	11 	1 	2 	1 	shall 	MD
+Hab 	1 	11 	1 	3 	1 	his 	PRP$
+Hab 	1 	11 	1 	4 	1 	mind 	NN
+Hab 	1 	11 	1 	5 	1 	change 	NN
+Hab 	1 	11 	1 	6 	0 	,
+Hab 	1 	11 	1 	7 	1 	and 	CC
+Hab 	1 	11 	1 	8 	1 	he 	PRP
+Hab 	1 	11 	1 	9 	1 	shall 	MD
+Hab 	1 	11 	1 	10 	1 	pass 	NN
+Hab 	1 	11 	1 	11 	1 	over 	IN
+Hab 	1 	11 	1 	12 	0 	,
+Hab 	1 	11 	1 	13 	1 	and 	CC
+Hab 	1 	11 	1 	14 	1 	offend 	NN
+Hab 	1 	11 	1 	15 	0 	,
+Hab 	1 	11 	1 	16 	1 	imputing 	VBG
+Hab 	1 	11 	1 	17 	1 	this 	DT
+Hab 	1 	11 	1 	18 	1 	his 	PRP$
+Hab 	1 	11 	1 	19 	1 	power 	NN
+Hab 	1 	11 	1 	20 	1 	unto 	NN
+Hab 	1 	11 	1 	21 	1 	his 	PRP$
+Hab 	1 	11 	1 	22 	1 	god 	NN
+Hab 	1 	11 	1 	23 	0 	.
+Hab 	1 	12 	1 	1 	1 	Art 	NN
+Hab 	1 	12 	1 	2 	1 	thou 	NN
+Hab 	1 	12 	1 	3 	1 	not 	RB
+Hab 	1 	12 	1 	4 	1 	from 	IN
+Hab 	1 	12 	1 	5 	1 	everlasting 	VBG
+Hab 	1 	12 	1 	6 	0 	,
+Hab 	1 	12 	1 	7 	1 	O 	NN
+Hab 	1 	12 	1 	8 	1 	LORD 	NN
+Hab 	1 	12 	1 	9 	1 	my 	PRP$
+Hab 	1 	12 	1 	10 	1 	God 	NNP
+Hab 	1 	12 	1 	11 	0 	,
+Hab 	1 	12 	1 	12 	1 	mine 	NN
+Hab 	1 	12 	1 	13 	1 	Holy 	NNP
+Hab 	1 	12 	1 	14 	1 	One 	CD
+Hab 	1 	12 	1 	15 	0 	?
+Hab 	1 	12 	2 	1 	1 	we 	PRP
+Hab 	1 	12 	2 	2 	1 	shall 	MD
+Hab 	1 	12 	2 	3 	1 	not 	RB
+Hab 	1 	12 	2 	4 	1 	die 	NN
+Hab 	1 	12 	2 	5 	0 	.
+Hab 	1 	12 	3 	1 	1 	O 	NN
+Hab 	1 	12 	3 	2 	1 	LORD 	NN
+Hab 	1 	12 	3 	3 	0 	,
+Hab 	1 	12 	3 	4 	1 	thou 	NN
+Hab 	1 	12 	3 	5 	1 	hast 	NN
+Hab 	1 	12 	3 	6 	1 	ordained 	VBN
+Hab 	1 	12 	3 	7 	1 	them 	PRP
+Hab 	1 	12 	3 	8 	1 	for 	IN
+Hab 	1 	12 	3 	9 	1 	judgment 	NN
+Hab 	1 	12 	3 	10 	0 	;
+Hab 	1 	12 	3 	11 	1 	and 	CC
+Hab 	1 	12 	3 	12 	0 	,
+Hab 	1 	12 	3 	13 	1 	O 	NN
+Hab 	1 	12 	3 	14 	1 	mighty 	NN
+Hab 	1 	12 	3 	15 	1 	God 	NNP
+Hab 	1 	12 	3 	16 	0 	,
+Hab 	1 	12 	3 	17 	1 	thou 	NN
+Hab 	1 	12 	3 	18 	1 	hast 	NN
+Hab 	1 	12 	3 	19 	1 	established 	VBN
+Hab 	1 	12 	3 	20 	1 	them 	PRP
+Hab 	1 	12 	3 	21 	1 	for 	IN
+Hab 	1 	12 	3 	22 	1 	correction 	NN
+Hab 	1 	12 	3 	23 	0 	.
+Hab 	1 	13 	1 	1 	1 	Thou 	NN
+Hab 	1 	13 	1 	2 	1 	art 	NN
+Hab 	1 	13 	1 	3 	1 	of 	IN
+Hab 	1 	13 	1 	4 	1 	purer 	NN
+Hab 	1 	13 	1 	5 	1 	eyes 	NNS
+Hab 	1 	13 	1 	6 	1 	than 	IN
+Hab 	1 	13 	1 	7 	1 	to 	TO
+Hab 	1 	13 	1 	8 	1 	behold 	NN
+Hab 	1 	13 	1 	9 	1 	evil 	NN
+Hab 	1 	13 	1 	10 	0 	,
+Hab 	1 	13 	1 	11 	1 	and 	CC
+Hab 	1 	13 	1 	12 	1 	canst 	NN
+Hab 	1 	13 	1 	13 	1 	not 	RB
+Hab 	1 	13 	1 	14 	1 	look 	NN
+Hab 	1 	13 	1 	15 	1 	on 	IN
+Hab 	1 	13 	1 	16 	1 	iniquity 	NN
+Hab 	1 	13 	1 	17 	0 	:
+Hab 	1 	13 	1 	18 	1 	wherefore 	NN
+Hab 	1 	13 	1 	19 	1 	lookest 	JJS
+Hab 	1 	13 	1 	20 	1 	thou 	NN
+Hab 	1 	13 	1 	21 	1 	upon 	IN
+Hab 	1 	13 	1 	22 	1 	them 	PRP
+Hab 	1 	13 	1 	23 	1 	that 	IN
+Hab 	1 	13 	1 	24 	1 	deal 	NN
+Hab 	1 	13 	1 	25 	1 	treacherously 	RB
+Hab 	1 	13 	1 	26 	0 	,
+Hab 	1 	13 	1 	27 	1 	and 	CC
+Hab 	1 	13 	1 	28 	1 	holdest 	NN
+Hab 	1 	13 	1 	29 	1 	thy 	NN
+Hab 	1 	13 	1 	30 	1 	tongue 	NN
+Hab 	1 	13 	1 	31 	1 	when 	WRB
+Hab 	1 	13 	1 	32 	1 	the 	DT
+Hab 	1 	13 	1 	33 	1 	wicked 	VBD
+Hab 	1 	13 	1 	34 	1 	devoureth 	NN
+Hab 	1 	13 	1 	35 	1 	the 	DT
+Hab 	1 	13 	1 	36 	1 	man 	NN
+Hab 	1 	13 	1 	37 	1 	that 	IN
+Hab 	1 	13 	1 	38 	1 	is 	VBZ
+Hab 	1 	13 	1 	39 	1 	more 	RBR
+Hab 	1 	13 	1 	40 	1 	righteous 	JJ
+Hab 	1 	13 	1 	41 	1 	than 	IN
+Hab 	1 	13 	1 	42 	1 	he 	PRP
+Hab 	1 	13 	1 	43 	0 	?
+Hab 	1 	14 	1 	1 	1 	And 	CC
+Hab 	1 	14 	1 	2 	1 	makest 	JJS
+Hab 	1 	14 	1 	3 	1 	men 	NNS
+Hab 	1 	14 	1 	4 	1 	as 	IN
+Hab 	1 	14 	1 	5 	1 	the 	DT
+Hab 	1 	14 	1 	6 	1 	fishes 	NNS
+Hab 	1 	14 	1 	7 	1 	of 	IN
+Hab 	1 	14 	1 	8 	1 	the 	DT
+Hab 	1 	14 	1 	9 	1 	sea 	NN
+Hab 	1 	14 	1 	10 	0 	,
+Hab 	1 	14 	1 	11 	1 	as 	IN
+Hab 	1 	14 	1 	12 	1 	the 	DT
+Hab 	1 	14 	1 	13 	1 	creeping 	VBG
+Hab 	1 	14 	1 	14 	1 	things 	NNS
+Hab 	1 	14 	1 	15 	0 	,
+Hab 	1 	14 	1 	16 	1 	that 	IN
+Hab 	1 	14 	1 	17 	1 	have 	VB
+Hab 	1 	14 	1 	18 	1 	no 	DT
+Hab 	1 	14 	1 	19 	1 	ruler 	NN
+Hab 	1 	14 	1 	20 	1 	over 	IN
+Hab 	1 	14 	1 	21 	1 	them 	PRP
+Hab 	1 	14 	1 	22 	0 	?
+Hab 	1 	15 	1 	1 	1 	They 	PRP
+Hab 	1 	15 	1 	2 	1 	take 	VB
+Hab 	1 	15 	1 	3 	1 	up 	RB
+Hab 	1 	15 	1 	4 	1 	all 	DT
+Hab 	1 	15 	1 	5 	1 	of 	IN
+Hab 	1 	15 	1 	6 	1 	them 	PRP
+Hab 	1 	15 	1 	7 	1 	with 	IN
+Hab 	1 	15 	1 	8 	1 	the 	DT
+Hab 	1 	15 	1 	9 	1 	angle 	NN
+Hab 	1 	15 	1 	10 	0 	,
+Hab 	1 	15 	1 	11 	1 	they 	PRP
+Hab 	1 	15 	1 	12 	1 	catch 	NN
+Hab 	1 	15 	1 	13 	1 	them 	PRP
+Hab 	1 	15 	1 	14 	1 	in 	IN
+Hab 	1 	15 	1 	15 	1 	their 	PRP$
+Hab 	1 	15 	1 	16 	1 	net 	NN
+Hab 	1 	15 	1 	17 	0 	,
+Hab 	1 	15 	1 	18 	1 	and 	CC
+Hab 	1 	15 	1 	19 	1 	gather 	NN
+Hab 	1 	15 	1 	20 	1 	them 	PRP
+Hab 	1 	15 	1 	21 	1 	in 	IN
+Hab 	1 	15 	1 	22 	1 	their 	PRP$
+Hab 	1 	15 	1 	23 	1 	drag 	NN
+Hab 	1 	15 	1 	24 	0 	:
+Hab 	1 	15 	1 	25 	1 	therefore 	RB
+Hab 	1 	15 	1 	26 	1 	they 	PRP
+Hab 	1 	15 	1 	27 	1 	rejoice 	NN
+Hab 	1 	15 	1 	28 	1 	and 	CC
+Hab 	1 	15 	1 	29 	1 	are 	VBP
+Hab 	1 	15 	1 	30 	1 	glad 	NN
+Hab 	1 	15 	1 	31 	0 	.
+Hab 	1 	16 	1 	1 	1 	Therefore 	RB
+Hab 	1 	16 	1 	2 	1 	they 	PRP
+Hab 	1 	16 	1 	3 	1 	sacrifice 	NN
+Hab 	1 	16 	1 	4 	1 	unto 	NN
+Hab 	1 	16 	1 	5 	1 	their 	PRP$
+Hab 	1 	16 	1 	6 	1 	net 	NN
+Hab 	1 	16 	1 	7 	0 	,
+Hab 	1 	16 	1 	8 	1 	and 	CC
+Hab 	1 	16 	1 	9 	1 	burn 	NN
+Hab 	1 	16 	1 	10 	1 	incense 	NN
+Hab 	1 	16 	1 	11 	1 	unto 	NN
+Hab 	1 	16 	1 	12 	1 	their 	PRP$
+Hab 	1 	16 	1 	13 	1 	drag 	NN
+Hab 	1 	16 	1 	14 	0 	;
+Hab 	1 	16 	1 	15 	1 	because 	IN
+Hab 	1 	16 	1 	16 	1 	by 	IN
+Hab 	1 	16 	1 	17 	1 	them 	PRP
+Hab 	1 	16 	1 	18 	1 	their 	PRP$
+Hab 	1 	16 	1 	19 	1 	portion 	NN
+Hab 	1 	16 	1 	20 	1 	is 	VBZ
+Hab 	1 	16 	1 	21 	1 	fat 	NN
+Hab 	1 	16 	1 	22 	0 	,
+Hab 	1 	16 	1 	23 	1 	and 	CC
+Hab 	1 	16 	1 	24 	1 	their 	PRP$
+Hab 	1 	16 	1 	25 	1 	meat 	NN
+Hab 	1 	16 	1 	26 	1 	plenteous 	JJ
+Hab 	1 	16 	1 	27 	0 	.
+Hab 	1 	17 	1 	1 	1 	Shall 	NN
+Hab 	1 	17 	1 	2 	1 	they 	PRP
+Hab 	1 	17 	1 	3 	1 	therefore 	RB
+Hab 	1 	17 	1 	4 	1 	empty 	JJ
+Hab 	1 	17 	1 	5 	1 	their 	PRP$
+Hab 	1 	17 	1 	6 	1 	net 	NN
+Hab 	1 	17 	1 	7 	0 	,
+Hab 	1 	17 	1 	8 	1 	and 	CC
+Hab 	1 	17 	1 	9 	1 	not 	RB
+Hab 	1 	17 	1 	10 	1 	spare 	NN
+Hab 	1 	17 	1 	11 	1 	continually 	RB
+Hab 	1 	17 	1 	12 	1 	to 	TO
+Hab 	1 	17 	1 	13 	1 	slay 	NN
+Hab 	1 	17 	1 	14 	1 	the 	DT
+Hab 	1 	17 	1 	15 	1 	nations 	NNS
+Hab 	1 	17 	1 	16 	0 	?
+Hab 	2 	1 	1 	1 	1 	I 	PRP
+Hab 	2 	1 	1 	2 	1 	will 	MD
+Hab 	2 	1 	1 	3 	1 	stand 	NN
+Hab 	2 	1 	1 	4 	1 	upon 	IN
+Hab 	2 	1 	1 	5 	1 	my 	PRP$
+Hab 	2 	1 	1 	6 	1 	watch 	NN
+Hab 	2 	1 	1 	7 	0 	,
+Hab 	2 	1 	1 	8 	1 	and 	CC
+Hab 	2 	1 	1 	9 	1 	set 	NN
+Hab 	2 	1 	1 	10 	1 	me 	PRP
+Hab 	2 	1 	1 	11 	1 	upon 	IN
+Hab 	2 	1 	1 	12 	1 	the 	DT
+Hab 	2 	1 	1 	13 	1 	tower 	NN
+Hab 	2 	1 	1 	14 	0 	,
+Hab 	2 	1 	1 	15 	1 	and 	CC
+Hab 	2 	1 	1 	16 	1 	will 	MD
+Hab 	2 	1 	1 	17 	1 	watch 	NN
+Hab 	2 	1 	1 	18 	1 	to 	TO
+Hab 	2 	1 	1 	19 	1 	see 	VB
+Hab 	2 	1 	1 	20 	1 	what 	WP
+Hab 	2 	1 	1 	21 	1 	he 	PRP
+Hab 	2 	1 	1 	22 	1 	will 	MD
+Hab 	2 	1 	1 	23 	1 	say 	VB
+Hab 	2 	1 	1 	24 	1 	unto 	NN
+Hab 	2 	1 	1 	25 	1 	me 	PRP
+Hab 	2 	1 	1 	26 	0 	,
+Hab 	2 	1 	1 	27 	1 	and 	CC
+Hab 	2 	1 	1 	28 	1 	what 	WP
+Hab 	2 	1 	1 	29 	1 	I 	PRP
+Hab 	2 	1 	1 	30 	1 	shall 	MD
+Hab 	2 	1 	1 	31 	1 	answer 	NN
+Hab 	2 	1 	1 	32 	1 	when 	WRB
+Hab 	2 	1 	1 	33 	1 	I 	PRP
+Hab 	2 	1 	1 	34 	1 	am 	VBP
+Hab 	2 	1 	1 	35 	1 	reproved 	VBN
+Hab 	2 	1 	1 	36 	0 	.
+Hab 	2 	2 	1 	1 	1 	And 	CC
+Hab 	2 	2 	1 	2 	1 	the 	DT
+Hab 	2 	2 	1 	3 	1 	LORD 	NN
+Hab 	2 	2 	1 	4 	1 	answered 	VBN
+Hab 	2 	2 	1 	5 	1 	me 	PRP
+Hab 	2 	2 	1 	6 	0 	,
+Hab 	2 	2 	1 	7 	1 	and 	CC
+Hab 	2 	2 	1 	8 	1 	said 	VBD
+Hab 	2 	2 	1 	9 	0 	,
+Hab 	2 	2 	1 	10 	1 	Write 	VB
+Hab 	2 	2 	1 	11 	1 	the 	DT
+Hab 	2 	2 	1 	12 	1 	vision 	NN
+Hab 	2 	2 	1 	13 	0 	,
+Hab 	2 	2 	1 	14 	1 	and 	CC
+Hab 	2 	2 	1 	15 	1 	make 	VB
+Hab 	2 	2 	1 	16 	1 	it 	PRP
+Hab 	2 	2 	1 	17 	1 	plain 	NN
+Hab 	2 	2 	1 	18 	1 	upon 	IN
+Hab 	2 	2 	1 	19 	1 	tables 	NNS
+Hab 	2 	2 	1 	20 	0 	,
+Hab 	2 	2 	1 	21 	1 	that 	IN
+Hab 	2 	2 	1 	22 	1 	he 	PRP
+Hab 	2 	2 	1 	23 	1 	may 	MD
+Hab 	2 	2 	1 	24 	1 	run 	VB
+Hab 	2 	2 	1 	25 	1 	that 	IN
+Hab 	2 	2 	1 	26 	1 	readeth 	NN
+Hab 	2 	2 	1 	27 	1 	it 	PRP
+Hab 	2 	2 	1 	28 	0 	.
+Hab 	2 	3 	1 	1 	1 	For 	IN
+Hab 	2 	3 	1 	2 	1 	the 	DT
+Hab 	2 	3 	1 	3 	1 	vision 	NN
+Hab 	2 	3 	1 	4 	1 	is 	VBZ
+Hab 	2 	3 	1 	5 	1 	yet 	RB
+Hab 	2 	3 	1 	6 	1 	for 	IN
+Hab 	2 	3 	1 	7 	1 	an 	DT
+Hab 	2 	3 	1 	8 	1 	appointed 	VBN
+Hab 	2 	3 	1 	9 	1 	time 	NN
+Hab 	2 	3 	1 	10 	0 	,
+Hab 	2 	3 	1 	11 	1 	but 	CC
+Hab 	2 	3 	1 	12 	1 	at 	IN
+Hab 	2 	3 	1 	13 	1 	the 	DT
+Hab 	2 	3 	1 	14 	1 	end 	NN
+Hab 	2 	3 	1 	15 	1 	it 	PRP
+Hab 	2 	3 	1 	16 	1 	shall 	MD
+Hab 	2 	3 	1 	17 	1 	speak 	NN
+Hab 	2 	3 	1 	18 	0 	,
+Hab 	2 	3 	1 	19 	1 	and 	CC
+Hab 	2 	3 	1 	20 	1 	not 	RB
+Hab 	2 	3 	1 	21 	1 	lie 	NN
+Hab 	2 	3 	1 	22 	0 	:
+Hab 	2 	3 	1 	23 	1 	though 	IN
+Hab 	2 	3 	1 	24 	1 	it 	PRP
+Hab 	2 	3 	1 	25 	1 	tarry 	NN
+Hab 	2 	3 	1 	26 	0 	,
+Hab 	2 	3 	1 	27 	1 	wait 	NN
+Hab 	2 	3 	1 	28 	1 	for 	IN
+Hab 	2 	3 	1 	29 	1 	it 	PRP
+Hab 	2 	3 	1 	30 	0 	;
+Hab 	2 	3 	1 	31 	1 	because 	IN
+Hab 	2 	3 	1 	32 	1 	it 	PRP
+Hab 	2 	3 	1 	33 	1 	will 	MD
+Hab 	2 	3 	1 	34 	1 	surely 	RB
+Hab 	2 	3 	1 	35 	1 	come 	VB
+Hab 	2 	3 	1 	36 	0 	,
+Hab 	2 	3 	1 	37 	1 	it 	PRP
+Hab 	2 	3 	1 	38 	1 	will 	MD
+Hab 	2 	3 	1 	39 	1 	not 	RB
+Hab 	2 	3 	1 	40 	1 	tarry 	NN
+Hab 	2 	3 	1 	41 	0 	.
+Hab 	2 	4 	1 	1 	1 	Behold 	NN
+Hab 	2 	4 	1 	2 	0 	,
+Hab 	2 	4 	1 	3 	1 	his 	PRP$
+Hab 	2 	4 	1 	4 	1 	soul 	NN
+Hab 	2 	4 	1 	5 	1 	which 	WDT
+Hab 	2 	4 	1 	6 	1 	is 	VBZ
+Hab 	2 	4 	1 	7 	1 	lifted 	VBN
+Hab 	2 	4 	1 	8 	1 	up 	RB
+Hab 	2 	4 	1 	9 	1 	is 	VBZ
+Hab 	2 	4 	1 	10 	1 	not 	RB
+Hab 	2 	4 	1 	11 	1 	upright 	JJ
+Hab 	2 	4 	1 	12 	1 	in 	IN
+Hab 	2 	4 	1 	13 	1 	him 	PRP
+Hab 	2 	4 	1 	14 	0 	:
+Hab 	2 	4 	1 	15 	1 	but 	CC
+Hab 	2 	4 	1 	16 	1 	the 	DT
+Hab 	2 	4 	1 	17 	1 	just 	RB
+Hab 	2 	4 	1 	18 	1 	shall 	MD
+Hab 	2 	4 	1 	19 	1 	live 	JJ
+Hab 	2 	4 	1 	20 	1 	by 	IN
+Hab 	2 	4 	1 	21 	1 	his 	PRP$
+Hab 	2 	4 	1 	22 	1 	faith 	NN
+Hab 	2 	4 	1 	23 	0 	.
+Hab 	2 	5 	1 	1 	1 	Yea 	NN
+Hab 	2 	5 	1 	2 	1 	also 	RB
+Hab 	2 	5 	1 	3 	0 	,
+Hab 	2 	5 	1 	4 	1 	because 	IN
+Hab 	2 	5 	1 	5 	1 	he 	PRP
+Hab 	2 	5 	1 	6 	1 	transgresseth 	NNS
+Hab 	2 	5 	1 	7 	1 	by 	IN
+Hab 	2 	5 	1 	8 	1 	wine 	NN
+Hab 	2 	5 	1 	9 	0 	,
+Hab 	2 	5 	1 	10 	1 	he 	PRP
+Hab 	2 	5 	1 	11 	1 	is 	VBZ
+Hab 	2 	5 	1 	12 	1 	a 	DT
+Hab 	2 	5 	1 	13 	1 	proud 	NN
+Hab 	2 	5 	1 	14 	1 	man 	NN
+Hab 	2 	5 	1 	15 	0 	,
+Hab 	2 	5 	1 	16 	1 	neither 	DT
+Hab 	2 	5 	1 	17 	1 	keepeth 	NNS
+Hab 	2 	5 	1 	18 	1 	at 	IN
+Hab 	2 	5 	1 	19 	1 	home 	NN
+Hab 	2 	5 	1 	20 	0 	,
+Hab 	2 	5 	1 	21 	1 	who 	WP
+Hab 	2 	5 	1 	22 	1 	enlargeth 	NNS
+Hab 	2 	5 	1 	23 	1 	his 	PRP$
+Hab 	2 	5 	1 	24 	1 	desire 	NN
+Hab 	2 	5 	1 	25 	1 	as 	IN
+Hab 	2 	5 	1 	26 	1 	hell 	NN
+Hab 	2 	5 	1 	27 	0 	,
+Hab 	2 	5 	1 	28 	1 	and 	CC
+Hab 	2 	5 	1 	29 	1 	is 	VBZ
+Hab 	2 	5 	1 	30 	1 	as 	IN
+Hab 	2 	5 	1 	31 	1 	death 	NN
+Hab 	2 	5 	1 	32 	0 	,
+Hab 	2 	5 	1 	33 	1 	and 	CC
+Hab 	2 	5 	1 	34 	1 	can 	MD
+Hab 	2 	5 	1 	35 	1 	not 	RB
+Hab 	2 	5 	1 	36 	1 	be 	VB
+Hab 	2 	5 	1 	37 	1 	satisfied 	JJ
+Hab 	2 	5 	1 	38 	0 	,
+Hab 	2 	5 	1 	39 	1 	but 	CC
+Hab 	2 	5 	1 	40 	1 	gathereth 	NNS
+Hab 	2 	5 	1 	41 	1 	unto 	NN
+Hab 	2 	5 	1 	42 	1 	him 	PRP
+Hab 	2 	5 	1 	43 	1 	all 	DT
+Hab 	2 	5 	1 	44 	1 	nations 	NNS
+Hab 	2 	5 	1 	45 	0 	,
+Hab 	2 	5 	1 	46 	1 	and 	CC
+Hab 	2 	5 	1 	47 	1 	heapeth 	NN
+Hab 	2 	5 	1 	48 	1 	unto 	NN
+Hab 	2 	5 	1 	49 	1 	him 	PRP
+Hab 	2 	5 	1 	50 	1 	all 	DT
+Hab 	2 	5 	1 	51 	1 	people 	NNS
+Hab 	2 	5 	1 	52 	0 	:
+Hab 	2 	6 	1 	1 	1 	Shall 	NN
+Hab 	2 	6 	1 	2 	1 	not 	RB
+Hab 	2 	6 	1 	3 	1 	all 	DT
+Hab 	2 	6 	1 	4 	1 	these 	DT
+Hab 	2 	6 	1 	5 	1 	take 	VB
+Hab 	2 	6 	1 	6 	1 	up 	RB
+Hab 	2 	6 	1 	7 	1 	a 	DT
+Hab 	2 	6 	1 	8 	1 	parable 	JJ
+Hab 	2 	6 	1 	9 	1 	against 	IN
+Hab 	2 	6 	1 	10 	1 	him 	PRP
+Hab 	2 	6 	1 	11 	0 	,
+Hab 	2 	6 	1 	12 	1 	and 	CC
+Hab 	2 	6 	1 	13 	1 	a 	DT
+Hab 	2 	6 	1 	14 	1 	taunting 	VBG
+Hab 	2 	6 	1 	15 	1 	proverb 	NN
+Hab 	2 	6 	1 	16 	1 	against 	IN
+Hab 	2 	6 	1 	17 	1 	him 	PRP
+Hab 	2 	6 	1 	18 	0 	,
+Hab 	2 	6 	1 	19 	1 	and 	CC
+Hab 	2 	6 	1 	20 	1 	say 	VB
+Hab 	2 	6 	1 	21 	0 	,
+Hab 	2 	6 	1 	22 	1 	Woe 	NN
+Hab 	2 	6 	1 	23 	1 	to 	TO
+Hab 	2 	6 	1 	24 	1 	him 	PRP
+Hab 	2 	6 	1 	25 	1 	that 	IN
+Hab 	2 	6 	1 	26 	1 	increaseth 	NN
+Hab 	2 	6 	1 	27 	1 	that 	IN
+Hab 	2 	6 	1 	28 	1 	which 	WDT
+Hab 	2 	6 	1 	29 	1 	is 	VBZ
+Hab 	2 	6 	1 	30 	1 	not 	RB
+Hab 	2 	6 	1 	31 	1 	his 	PRP$
+Hab 	2 	6 	1 	32 	0 	!
+Hab 	2 	6 	2 	1 	1 	how 	WRB
+Hab 	2 	6 	2 	2 	1 	long 	RB
+Hab 	2 	6 	2 	3 	0 	?
+Hab 	2 	6 	3 	1 	1 	and 	CC
+Hab 	2 	6 	3 	2 	1 	to 	TO
+Hab 	2 	6 	3 	3 	1 	him 	PRP
+Hab 	2 	6 	3 	4 	1 	that 	IN
+Hab 	2 	6 	3 	5 	1 	ladeth 	NN
+Hab 	2 	6 	3 	6 	1 	himself 	PRP
+Hab 	2 	6 	3 	7 	1 	with 	IN
+Hab 	2 	6 	3 	8 	1 	thick 	NN
+Hab 	2 	6 	3 	9 	1 	clay 	NN
+Hab 	2 	6 	3 	10 	0 	!
+Hab 	2 	7 	1 	1 	1 	Shall 	NN
+Hab 	2 	7 	1 	2 	1 	they 	PRP
+Hab 	2 	7 	1 	3 	1 	not 	RB
+Hab 	2 	7 	1 	4 	1 	rise 	NN
+Hab 	2 	7 	1 	5 	1 	up 	RB
+Hab 	2 	7 	1 	6 	1 	suddenly 	RB
+Hab 	2 	7 	1 	7 	1 	that 	IN
+Hab 	2 	7 	1 	8 	1 	shall 	MD
+Hab 	2 	7 	1 	9 	1 	bite 	NN
+Hab 	2 	7 	1 	10 	1 	thee 	NN
+Hab 	2 	7 	1 	11 	0 	,
+Hab 	2 	7 	1 	12 	1 	and 	CC
+Hab 	2 	7 	1 	13 	1 	awake 	NN
+Hab 	2 	7 	1 	14 	1 	that 	IN
+Hab 	2 	7 	1 	15 	1 	shall 	MD
+Hab 	2 	7 	1 	16 	1 	vex 	NN
+Hab 	2 	7 	1 	17 	1 	thee 	NN
+Hab 	2 	7 	1 	18 	0 	,
+Hab 	2 	7 	1 	19 	1 	and 	CC
+Hab 	2 	7 	1 	20 	1 	thou 	NN
+Hab 	2 	7 	1 	21 	1 	shalt 	NN
+Hab 	2 	7 	1 	22 	1 	be 	VB
+Hab 	2 	7 	1 	23 	1 	for 	IN
+Hab 	2 	7 	1 	24 	1 	booties 	NNS
+Hab 	2 	7 	1 	25 	1 	unto 	NN
+Hab 	2 	7 	1 	26 	1 	them 	PRP
+Hab 	2 	7 	1 	27 	0 	?
+Hab 	2 	8 	1 	1 	1 	Because 	IN
+Hab 	2 	8 	1 	2 	1 	thou 	NN
+Hab 	2 	8 	1 	3 	1 	hast 	NN
+Hab 	2 	8 	1 	4 	1 	spoiled 	VBN
+Hab 	2 	8 	1 	5 	1 	many 	JJ
+Hab 	2 	8 	1 	6 	1 	nations 	NNS
+Hab 	2 	8 	1 	7 	0 	,
+Hab 	2 	8 	1 	8 	1 	all 	DT
+Hab 	2 	8 	1 	9 	1 	the 	DT
+Hab 	2 	8 	1 	10 	1 	remnant 	NN
+Hab 	2 	8 	1 	11 	1 	of 	IN
+Hab 	2 	8 	1 	12 	1 	the 	DT
+Hab 	2 	8 	1 	13 	1 	people 	NNS
+Hab 	2 	8 	1 	14 	1 	shall 	MD
+Hab 	2 	8 	1 	15 	1 	spoil 	NN
+Hab 	2 	8 	1 	16 	1 	thee 	NN
+Hab 	2 	8 	1 	17 	0 	;
+Hab 	2 	8 	1 	18 	1 	because 	IN
+Hab 	2 	8 	1 	19 	1 	of 	IN
+Hab 	2 	8 	1 	20 	1 	men 	NNS
+Hab 	2 	8 	1 	21 	0 	's
+Hab 	2 	8 	1 	22 	1 	blood 	NN
+Hab 	2 	8 	1 	23 	0 	,
+Hab 	2 	8 	1 	24 	1 	and 	CC
+Hab 	2 	8 	1 	25 	1 	for 	IN
+Hab 	2 	8 	1 	26 	1 	the 	DT
+Hab 	2 	8 	1 	27 	1 	violence 	NN
+Hab 	2 	8 	1 	28 	1 	of 	IN
+Hab 	2 	8 	1 	29 	1 	the 	DT
+Hab 	2 	8 	1 	30 	1 	land 	NN
+Hab 	2 	8 	1 	31 	0 	,
+Hab 	2 	8 	1 	32 	1 	of 	IN
+Hab 	2 	8 	1 	33 	1 	the 	DT
+Hab 	2 	8 	1 	34 	1 	city 	NN
+Hab 	2 	8 	1 	35 	0 	,
+Hab 	2 	8 	1 	36 	1 	and 	CC
+Hab 	2 	8 	1 	37 	1 	of 	IN
+Hab 	2 	8 	1 	38 	1 	all 	DT
+Hab 	2 	8 	1 	39 	1 	that 	IN
+Hab 	2 	8 	1 	40 	1 	dwell 	NN
+Hab 	2 	8 	1 	41 	1 	therein 	NN
+Hab 	2 	8 	1 	42 	0 	.
+Hab 	2 	9 	1 	1 	1 	Woe 	NN
+Hab 	2 	9 	1 	2 	1 	to 	TO
+Hab 	2 	9 	1 	3 	1 	him 	PRP
+Hab 	2 	9 	1 	4 	1 	that 	IN
+Hab 	2 	9 	1 	5 	1 	coveteth 	NNS
+Hab 	2 	9 	1 	6 	1 	an 	DT
+Hab 	2 	9 	1 	7 	1 	evil 	NN
+Hab 	2 	9 	1 	8 	1 	covetousness 	NN
+Hab 	2 	9 	1 	9 	1 	to 	TO
+Hab 	2 	9 	1 	10 	1 	his 	PRP$
+Hab 	2 	9 	1 	11 	1 	house 	NN
+Hab 	2 	9 	1 	12 	0 	,
+Hab 	2 	9 	1 	13 	1 	that 	IN
+Hab 	2 	9 	1 	14 	1 	he 	PRP
+Hab 	2 	9 	1 	15 	1 	may 	MD
+Hab 	2 	9 	1 	16 	1 	set 	NN
+Hab 	2 	9 	1 	17 	1 	his 	PRP$
+Hab 	2 	9 	1 	18 	1 	nest 	JJS
+Hab 	2 	9 	1 	19 	1 	on 	IN
+Hab 	2 	9 	1 	20 	1 	high 	JJ
+Hab 	2 	9 	1 	21 	0 	,
+Hab 	2 	9 	1 	22 	1 	that 	IN
+Hab 	2 	9 	1 	23 	1 	he 	PRP
+Hab 	2 	9 	1 	24 	1 	may 	MD
+Hab 	2 	9 	1 	25 	1 	be 	VB
+Hab 	2 	9 	1 	26 	1 	delivered 	VBN
+Hab 	2 	9 	1 	27 	1 	from 	IN
+Hab 	2 	9 	1 	28 	1 	the 	DT
+Hab 	2 	9 	1 	29 	1 	power 	NN
+Hab 	2 	9 	1 	30 	1 	of 	IN
+Hab 	2 	9 	1 	31 	1 	evil 	NN
+Hab 	2 	9 	1 	32 	0 	!
+Hab 	2 	10 	1 	1 	1 	Thou 	NN
+Hab 	2 	10 	1 	2 	1 	hast 	NN
+Hab 	2 	10 	1 	3 	1 	consulted 	VBN
+Hab 	2 	10 	1 	4 	1 	shame 	NN
+Hab 	2 	10 	1 	5 	1 	to 	TO
+Hab 	2 	10 	1 	6 	1 	thy 	NN
+Hab 	2 	10 	1 	7 	1 	house 	NN
+Hab 	2 	10 	1 	8 	1 	by 	IN
+Hab 	2 	10 	1 	9 	1 	cutting 	VBG
+Hab 	2 	10 	1 	10 	1 	off 	IN
+Hab 	2 	10 	1 	11 	1 	many 	JJ
+Hab 	2 	10 	1 	12 	1 	people 	NNS
+Hab 	2 	10 	1 	13 	0 	,
+Hab 	2 	10 	1 	14 	1 	and 	CC
+Hab 	2 	10 	1 	15 	1 	hast 	NN
+Hab 	2 	10 	1 	16 	1 	sinned 	VBN
+Hab 	2 	10 	1 	17 	1 	against 	IN
+Hab 	2 	10 	1 	18 	1 	thy 	NN
+Hab 	2 	10 	1 	19 	1 	soul 	NN
+Hab 	2 	10 	1 	20 	0 	.
+Hab 	2 	11 	1 	1 	1 	For 	IN
+Hab 	2 	11 	1 	2 	1 	the 	DT
+Hab 	2 	11 	1 	3 	1 	stone 	NN
+Hab 	2 	11 	1 	4 	1 	shall 	MD
+Hab 	2 	11 	1 	5 	1 	cry 	NN
+Hab 	2 	11 	1 	6 	1 	out 	IN
+Hab 	2 	11 	1 	7 	1 	of 	IN
+Hab 	2 	11 	1 	8 	1 	the 	DT
+Hab 	2 	11 	1 	9 	1 	wall 	NN
+Hab 	2 	11 	1 	10 	0 	,
+Hab 	2 	11 	1 	11 	1 	and 	CC
+Hab 	2 	11 	1 	12 	1 	the 	DT
+Hab 	2 	11 	1 	13 	1 	beam 	NN
+Hab 	2 	11 	1 	14 	1 	out 	IN
+Hab 	2 	11 	1 	15 	1 	of 	IN
+Hab 	2 	11 	1 	16 	1 	the 	DT
+Hab 	2 	11 	1 	17 	1 	timber 	NN
+Hab 	2 	11 	1 	18 	1 	shall 	MD
+Hab 	2 	11 	1 	19 	1 	answer 	NN
+Hab 	2 	11 	1 	20 	1 	it 	PRP
+Hab 	2 	11 	1 	21 	0 	.
+Hab 	2 	12 	1 	1 	1 	Woe 	NN
+Hab 	2 	12 	1 	2 	1 	to 	TO
+Hab 	2 	12 	1 	3 	1 	him 	PRP
+Hab 	2 	12 	1 	4 	1 	that 	IN
+Hab 	2 	12 	1 	5 	1 	buildeth 	NN
+Hab 	2 	12 	1 	6 	1 	a 	DT
+Hab 	2 	12 	1 	7 	1 	town 	NN
+Hab 	2 	12 	1 	8 	1 	with 	IN
+Hab 	2 	12 	1 	9 	1 	blood 	NN
+Hab 	2 	12 	1 	10 	0 	,
+Hab 	2 	12 	1 	11 	1 	and 	CC
+Hab 	2 	12 	1 	12 	1 	stablisheth 	NN
+Hab 	2 	12 	1 	13 	1 	a 	DT
+Hab 	2 	12 	1 	14 	1 	city 	NN
+Hab 	2 	12 	1 	15 	1 	by 	IN
+Hab 	2 	12 	1 	16 	1 	iniquity 	NN
+Hab 	2 	12 	1 	17 	0 	!
+Hab 	2 	13 	1 	1 	1 	Behold 	NN
+Hab 	2 	13 	1 	2 	0 	,
+Hab 	2 	13 	1 	3 	1 	is 	VBZ
+Hab 	2 	13 	1 	4 	1 	it 	PRP
+Hab 	2 	13 	1 	5 	1 	not 	RB
+Hab 	2 	13 	1 	6 	1 	of 	IN
+Hab 	2 	13 	1 	7 	1 	the 	DT
+Hab 	2 	13 	1 	8 	1 	LORD 	NN
+Hab 	2 	13 	1 	9 	1 	of 	IN
+Hab 	2 	13 	1 	10 	1 	hosts 	NNS
+Hab 	2 	13 	1 	11 	1 	that 	IN
+Hab 	2 	13 	1 	12 	1 	the 	DT
+Hab 	2 	13 	1 	13 	1 	people 	NNS
+Hab 	2 	13 	1 	14 	1 	shall 	MD
+Hab 	2 	13 	1 	15 	1 	labour 	NN
+Hab 	2 	13 	1 	16 	1 	in 	IN
+Hab 	2 	13 	1 	17 	1 	the 	DT
+Hab 	2 	13 	1 	18 	1 	very 	RB
+Hab 	2 	13 	1 	19 	1 	fire 	NN
+Hab 	2 	13 	1 	20 	0 	,
+Hab 	2 	13 	1 	21 	1 	and 	CC
+Hab 	2 	13 	1 	22 	1 	the 	DT
+Hab 	2 	13 	1 	23 	1 	people 	NNS
+Hab 	2 	13 	1 	24 	1 	shall 	MD
+Hab 	2 	13 	1 	25 	1 	weary 	JJ
+Hab 	2 	13 	1 	26 	1 	themselves 	PRP
+Hab 	2 	13 	1 	27 	1 	for 	IN
+Hab 	2 	13 	1 	28 	1 	very 	RB
+Hab 	2 	13 	1 	29 	1 	vanity 	NN
+Hab 	2 	13 	1 	30 	0 	?
+Hab 	2 	14 	1 	1 	1 	For 	IN
+Hab 	2 	14 	1 	2 	1 	the 	DT
+Hab 	2 	14 	1 	3 	1 	earth 	NN
+Hab 	2 	14 	1 	4 	1 	shall 	MD
+Hab 	2 	14 	1 	5 	1 	be 	VB
+Hab 	2 	14 	1 	6 	1 	filled 	VBN
+Hab 	2 	14 	1 	7 	1 	with 	IN
+Hab 	2 	14 	1 	8 	1 	the 	DT
+Hab 	2 	14 	1 	9 	1 	knowledge 	NN
+Hab 	2 	14 	1 	10 	1 	of 	IN
+Hab 	2 	14 	1 	11 	1 	the 	DT
+Hab 	2 	14 	1 	12 	1 	glory 	NN
+Hab 	2 	14 	1 	13 	1 	of 	IN
+Hab 	2 	14 	1 	14 	1 	the 	DT
+Hab 	2 	14 	1 	15 	1 	LORD 	NN
+Hab 	2 	14 	1 	16 	0 	,
+Hab 	2 	14 	1 	17 	1 	as 	IN
+Hab 	2 	14 	1 	18 	1 	the 	DT
+Hab 	2 	14 	1 	19 	1 	waters 	NNS
+Hab 	2 	14 	1 	20 	1 	cover 	NN
+Hab 	2 	14 	1 	21 	1 	the 	DT
+Hab 	2 	14 	1 	22 	1 	sea 	NN
+Hab 	2 	14 	1 	23 	0 	.
+Hab 	2 	15 	1 	1 	1 	Woe 	NN
+Hab 	2 	15 	1 	2 	1 	unto 	NN
+Hab 	2 	15 	1 	3 	1 	him 	PRP
+Hab 	2 	15 	1 	4 	1 	that 	IN
+Hab 	2 	15 	1 	5 	1 	giveth 	NNS
+Hab 	2 	15 	1 	6 	1 	his 	PRP$
+Hab 	2 	15 	1 	7 	1 	neighbour 	NN
+Hab 	2 	15 	1 	8 	1 	drink 	NN
+Hab 	2 	15 	1 	9 	0 	,
+Hab 	2 	15 	1 	10 	1 	that 	IN
+Hab 	2 	15 	1 	11 	1 	puttest 	NN
+Hab 	2 	15 	1 	12 	1 	thy 	NN
+Hab 	2 	15 	1 	13 	1 	bottle 	NN
+Hab 	2 	15 	1 	14 	1 	to 	TO
+Hab 	2 	15 	1 	15 	1 	him 	PRP
+Hab 	2 	15 	1 	16 	0 	,
+Hab 	2 	15 	1 	17 	1 	and 	CC
+Hab 	2 	15 	1 	18 	1 	makest 	JJS
+Hab 	2 	15 	1 	19 	1 	him 	PRP
+Hab 	2 	15 	1 	20 	1 	drunken 	NN
+Hab 	2 	15 	1 	21 	1 	also 	RB
+Hab 	2 	15 	1 	22 	0 	,
+Hab 	2 	15 	1 	23 	1 	that 	IN
+Hab 	2 	15 	1 	24 	1 	thou 	NN
+Hab 	2 	15 	1 	25 	1 	mayest 	JJS
+Hab 	2 	15 	1 	26 	1 	look 	NN
+Hab 	2 	15 	1 	27 	1 	on 	IN
+Hab 	2 	15 	1 	28 	1 	their 	PRP$
+Hab 	2 	15 	1 	29 	1 	nakedness 	NN
+Hab 	2 	15 	1 	30 	0 	!
+Hab 	2 	16 	1 	1 	1 	Thou 	NN
+Hab 	2 	16 	1 	2 	1 	art 	NN
+Hab 	2 	16 	1 	3 	1 	filled 	VBN
+Hab 	2 	16 	1 	4 	1 	with 	IN
+Hab 	2 	16 	1 	5 	1 	shame 	NN
+Hab 	2 	16 	1 	6 	1 	for 	IN
+Hab 	2 	16 	1 	7 	1 	glory 	NN
+Hab 	2 	16 	1 	8 	0 	:
+Hab 	2 	16 	1 	9 	1 	drink 	NN
+Hab 	2 	16 	1 	10 	1 	thou 	NN
+Hab 	2 	16 	1 	11 	1 	also 	RB
+Hab 	2 	16 	1 	12 	0 	,
+Hab 	2 	16 	1 	13 	1 	and 	CC
+Hab 	2 	16 	1 	14 	1 	let 	VB
+Hab 	2 	16 	1 	15 	1 	thy 	NN
+Hab 	2 	16 	1 	16 	1 	foreskin 	NN
+Hab 	2 	16 	1 	17 	1 	be 	VB
+Hab 	2 	16 	1 	18 	1 	uncovered 	JJ
+Hab 	2 	16 	1 	19 	0 	:
+Hab 	2 	16 	1 	20 	1 	the 	DT
+Hab 	2 	16 	1 	21 	1 	cup 	NN
+Hab 	2 	16 	1 	22 	1 	of 	IN
+Hab 	2 	16 	1 	23 	1 	the 	DT
+Hab 	2 	16 	1 	24 	1 	LORD 	NN
+Hab 	2 	16 	1 	25 	0 	's
+Hab 	2 	16 	1 	26 	1 	right 	NN
+Hab 	2 	16 	1 	27 	1 	hand 	NN
+Hab 	2 	16 	1 	28 	1 	shall 	MD
+Hab 	2 	16 	1 	29 	1 	be 	VB
+Hab 	2 	16 	1 	30 	1 	turned 	VBD
+Hab 	2 	16 	1 	31 	1 	unto 	NN
+Hab 	2 	16 	1 	32 	1 	thee 	NN
+Hab 	2 	16 	1 	33 	0 	,
+Hab 	2 	16 	1 	34 	1 	and 	CC
+Hab 	2 	16 	1 	35 	1 	shameful 	NN
+Hab 	2 	16 	1 	36 	1 	spewing 	VBG
+Hab 	2 	16 	1 	37 	1 	shall 	MD
+Hab 	2 	16 	1 	38 	1 	be 	VB
+Hab 	2 	16 	1 	39 	1 	on 	IN
+Hab 	2 	16 	1 	40 	1 	thy 	NN
+Hab 	2 	16 	1 	41 	1 	glory 	NN
+Hab 	2 	16 	1 	42 	0 	.
+Hab 	2 	17 	1 	1 	1 	For 	IN
+Hab 	2 	17 	1 	2 	1 	the 	DT
+Hab 	2 	17 	1 	3 	1 	violence 	NN
+Hab 	2 	17 	1 	4 	1 	of 	IN
+Hab 	2 	17 	1 	5 	1 	Lebanon 	NNP
+Hab 	2 	17 	1 	6 	1 	shall 	MD
+Hab 	2 	17 	1 	7 	1 	cover 	NN
+Hab 	2 	17 	1 	8 	1 	thee 	NN
+Hab 	2 	17 	1 	9 	0 	,
+Hab 	2 	17 	1 	10 	1 	and 	CC
+Hab 	2 	17 	1 	11 	1 	the 	DT
+Hab 	2 	17 	1 	12 	1 	spoil 	NN
+Hab 	2 	17 	1 	13 	1 	of 	IN
+Hab 	2 	17 	1 	14 	1 	beasts 	NNS
+Hab 	2 	17 	1 	15 	0 	,
+Hab 	2 	17 	1 	16 	1 	which 	WDT
+Hab 	2 	17 	1 	17 	1 	made 	VBN
+Hab 	2 	17 	1 	18 	1 	them 	PRP
+Hab 	2 	17 	1 	19 	1 	afraid 	NN
+Hab 	2 	17 	1 	20 	0 	,
+Hab 	2 	17 	1 	21 	1 	because 	IN
+Hab 	2 	17 	1 	22 	1 	of 	IN
+Hab 	2 	17 	1 	23 	1 	men 	NNS
+Hab 	2 	17 	1 	24 	0 	's
+Hab 	2 	17 	1 	25 	1 	blood 	NN
+Hab 	2 	17 	1 	26 	0 	,
+Hab 	2 	17 	1 	27 	1 	and 	CC
+Hab 	2 	17 	1 	28 	1 	for 	IN
+Hab 	2 	17 	1 	29 	1 	the 	DT
+Hab 	2 	17 	1 	30 	1 	violence 	NN
+Hab 	2 	17 	1 	31 	1 	of 	IN
+Hab 	2 	17 	1 	32 	1 	the 	DT
+Hab 	2 	17 	1 	33 	1 	land 	NN
+Hab 	2 	17 	1 	34 	0 	,
+Hab 	2 	17 	1 	35 	1 	of 	IN
+Hab 	2 	17 	1 	36 	1 	the 	DT
+Hab 	2 	17 	1 	37 	1 	city 	NN
+Hab 	2 	17 	1 	38 	0 	,
+Hab 	2 	17 	1 	39 	1 	and 	CC
+Hab 	2 	17 	1 	40 	1 	of 	IN
+Hab 	2 	17 	1 	41 	1 	all 	DT
+Hab 	2 	17 	1 	42 	1 	that 	IN
+Hab 	2 	17 	1 	43 	1 	dwell 	NN
+Hab 	2 	17 	1 	44 	1 	therein 	NN
+Hab 	2 	17 	1 	45 	0 	.
+Hab 	2 	18 	1 	1 	1 	What 	WP
+Hab 	2 	18 	1 	2 	1 	profiteth 	NN
+Hab 	2 	18 	1 	3 	1 	the 	DT
+Hab 	2 	18 	1 	4 	1 	graven 	NN
+Hab 	2 	18 	1 	5 	1 	image 	NN
+Hab 	2 	18 	1 	6 	1 	that 	IN
+Hab 	2 	18 	1 	7 	1 	the 	DT
+Hab 	2 	18 	1 	8 	1 	maker 	NN
+Hab 	2 	18 	1 	9 	1 	thereof 	NN
+Hab 	2 	18 	1 	10 	1 	hath 	NN
+Hab 	2 	18 	1 	11 	1 	graven 	NN
+Hab 	2 	18 	1 	12 	1 	it 	PRP
+Hab 	2 	18 	1 	13 	0 	;
+Hab 	2 	18 	1 	14 	1 	the 	DT
+Hab 	2 	18 	1 	15 	1 	molten 	NNS
+Hab 	2 	18 	1 	16 	1 	image 	NN
+Hab 	2 	18 	1 	17 	0 	,
+Hab 	2 	18 	1 	18 	1 	and 	CC
+Hab 	2 	18 	1 	19 	1 	a 	DT
+Hab 	2 	18 	1 	20 	1 	teacher 	NN
+Hab 	2 	18 	1 	21 	1 	of 	IN
+Hab 	2 	18 	1 	22 	1 	lies 	NNS
+Hab 	2 	18 	1 	23 	0 	,
+Hab 	2 	18 	1 	24 	1 	that 	IN
+Hab 	2 	18 	1 	25 	1 	the 	DT
+Hab 	2 	18 	1 	26 	1 	maker 	NN
+Hab 	2 	18 	1 	27 	1 	of 	IN
+Hab 	2 	18 	1 	28 	1 	his 	PRP$
+Hab 	2 	18 	1 	29 	1 	work 	NN
+Hab 	2 	18 	1 	30 	1 	trusteth 	NNS
+Hab 	2 	18 	1 	31 	1 	therein 	NN
+Hab 	2 	18 	1 	32 	0 	,
+Hab 	2 	18 	1 	33 	1 	to 	TO
+Hab 	2 	18 	1 	34 	1 	make 	VB
+Hab 	2 	18 	1 	35 	1 	dumb 	NN
+Hab 	2 	18 	1 	36 	1 	idols 	NNS
+Hab 	2 	18 	1 	37 	0 	?
+Hab 	2 	19 	1 	1 	1 	Woe 	NN
+Hab 	2 	19 	1 	2 	1 	unto 	NN
+Hab 	2 	19 	1 	3 	1 	him 	PRP
+Hab 	2 	19 	1 	4 	1 	that 	IN
+Hab 	2 	19 	1 	5 	1 	saith 	NN
+Hab 	2 	19 	1 	6 	1 	to 	TO
+Hab 	2 	19 	1 	7 	1 	the 	DT
+Hab 	2 	19 	1 	8 	1 	wood 	NN
+Hab 	2 	19 	1 	9 	0 	,
+Hab 	2 	19 	1 	10 	1 	Awake 	VB
+Hab 	2 	19 	1 	11 	0 	;
+Hab 	2 	19 	1 	12 	1 	to 	TO
+Hab 	2 	19 	1 	13 	1 	the 	DT
+Hab 	2 	19 	1 	14 	1 	dumb 	NN
+Hab 	2 	19 	1 	15 	1 	stone 	NN
+Hab 	2 	19 	1 	16 	0 	,
+Hab 	2 	19 	1 	17 	1 	Arise 	NN
+Hab 	2 	19 	1 	18 	0 	,
+Hab 	2 	19 	1 	19 	1 	it 	PRP
+Hab 	2 	19 	1 	20 	1 	shall 	MD
+Hab 	2 	19 	1 	21 	1 	teach 	NN
+Hab 	2 	19 	1 	22 	0 	!
+Hab 	2 	19 	2 	1 	1 	Behold 	NN
+Hab 	2 	19 	2 	2 	0 	,
+Hab 	2 	19 	2 	3 	1 	it 	PRP
+Hab 	2 	19 	2 	4 	1 	is 	VBZ
+Hab 	2 	19 	2 	5 	1 	laid 	NN
+Hab 	2 	19 	2 	6 	1 	over 	IN
+Hab 	2 	19 	2 	7 	1 	with 	IN
+Hab 	2 	19 	2 	8 	1 	gold 	NN
+Hab 	2 	19 	2 	9 	1 	and 	CC
+Hab 	2 	19 	2 	10 	1 	silver 	NN
+Hab 	2 	19 	2 	11 	0 	,
+Hab 	2 	19 	2 	12 	1 	and 	CC
+Hab 	2 	19 	2 	13 	1 	there 	RB
+Hab 	2 	19 	2 	14 	1 	is 	VBZ
+Hab 	2 	19 	2 	15 	1 	no 	DT
+Hab 	2 	19 	2 	16 	1 	breath 	NN
+Hab 	2 	19 	2 	17 	1 	at 	IN
+Hab 	2 	19 	2 	18 	1 	all 	DT
+Hab 	2 	19 	2 	19 	1 	in 	IN
+Hab 	2 	19 	2 	20 	1 	the 	DT
+Hab 	2 	19 	2 	21 	1 	midst 	NN
+Hab 	2 	19 	2 	22 	1 	of 	IN
+Hab 	2 	19 	2 	23 	1 	it 	PRP
+Hab 	2 	19 	2 	24 	0 	.
+Hab 	2 	20 	1 	1 	1 	But 	CC
+Hab 	2 	20 	1 	2 	1 	the 	DT
+Hab 	2 	20 	1 	3 	1 	LORD 	NN
+Hab 	2 	20 	1 	4 	1 	is 	VBZ
+Hab 	2 	20 	1 	5 	1 	in 	IN
+Hab 	2 	20 	1 	6 	1 	his 	PRP$
+Hab 	2 	20 	1 	7 	1 	holy 	NN
+Hab 	2 	20 	1 	8 	1 	temple 	NN
+Hab 	2 	20 	1 	9 	0 	:
+Hab 	2 	20 	1 	10 	1 	let 	VB
+Hab 	2 	20 	1 	11 	1 	all 	DT
+Hab 	2 	20 	1 	12 	1 	the 	DT
+Hab 	2 	20 	1 	13 	1 	earth 	NN
+Hab 	2 	20 	1 	14 	1 	keep 	VB
+Hab 	2 	20 	1 	15 	1 	silence 	NN
+Hab 	2 	20 	1 	16 	1 	before 	IN
+Hab 	2 	20 	1 	17 	1 	him 	PRP
+Hab 	2 	20 	1 	18 	0 	.
+Hab 	3 	1 	1 	1 	1 	A 	DT
+Hab 	3 	1 	1 	2 	1 	prayer 	NN
+Hab 	3 	1 	1 	3 	1 	of 	IN
+Hab 	3 	1 	1 	4 	1 	Habakkuk 	NN
+Hab 	3 	1 	1 	5 	1 	the 	DT
+Hab 	3 	1 	1 	6 	1 	prophet 	NN
+Hab 	3 	1 	1 	7 	1 	upon 	IN
+Hab 	3 	1 	1 	8 	1 	Shigionoth 	NNP
+Hab 	3 	1 	1 	9 	0 	.
+Hab 	3 	2 	1 	1 	1 	O 	NN
+Hab 	3 	2 	1 	2 	1 	LORD 	NN
+Hab 	3 	2 	1 	3 	0 	,
+Hab 	3 	2 	1 	4 	1 	I 	PRP
+Hab 	3 	2 	1 	5 	1 	have 	VB
+Hab 	3 	2 	1 	6 	1 	heard 	NN
+Hab 	3 	2 	1 	7 	1 	thy 	NN
+Hab 	3 	2 	1 	8 	1 	speech 	NN
+Hab 	3 	2 	1 	9 	0 	,
+Hab 	3 	2 	1 	10 	1 	and 	CC
+Hab 	3 	2 	1 	11 	1 	was 	VBD
+Hab 	3 	2 	1 	12 	1 	afraid 	NN
+Hab 	3 	2 	1 	13 	0 	:
+Hab 	3 	2 	1 	14 	1 	O 	NN
+Hab 	3 	2 	1 	15 	1 	LORD 	NN
+Hab 	3 	2 	1 	16 	0 	,
+Hab 	3 	2 	1 	17 	1 	revive 	NN
+Hab 	3 	2 	1 	18 	1 	thy 	NN
+Hab 	3 	2 	1 	19 	1 	work 	NN
+Hab 	3 	2 	1 	20 	1 	in 	IN
+Hab 	3 	2 	1 	21 	1 	the 	DT
+Hab 	3 	2 	1 	22 	1 	midst 	NN
+Hab 	3 	2 	1 	23 	1 	of 	IN
+Hab 	3 	2 	1 	24 	1 	the 	DT
+Hab 	3 	2 	1 	25 	1 	years 	NNS
+Hab 	3 	2 	1 	26 	0 	,
+Hab 	3 	2 	1 	27 	1 	in 	IN
+Hab 	3 	2 	1 	28 	1 	the 	DT
+Hab 	3 	2 	1 	29 	1 	midst 	NN
+Hab 	3 	2 	1 	30 	1 	of 	IN
+Hab 	3 	2 	1 	31 	1 	the 	DT
+Hab 	3 	2 	1 	32 	1 	years 	NNS
+Hab 	3 	2 	1 	33 	1 	make 	VB
+Hab 	3 	2 	1 	34 	1 	known 	VBN
+Hab 	3 	2 	1 	35 	0 	;
+Hab 	3 	2 	1 	36 	1 	in 	IN
+Hab 	3 	2 	1 	37 	1 	wrath 	NN
+Hab 	3 	2 	1 	38 	1 	remember 	VB
+Hab 	3 	2 	1 	39 	1 	mercy 	NN
+Hab 	3 	2 	1 	40 	0 	.
+Hab 	3 	3 	1 	1 	1 	God 	NNP
+Hab 	3 	3 	1 	2 	1 	came 	VBD
+Hab 	3 	3 	1 	3 	1 	from 	IN
+Hab 	3 	3 	1 	4 	1 	Teman 	NN
+Hab 	3 	3 	1 	5 	0 	,
+Hab 	3 	3 	1 	6 	1 	and 	CC
+Hab 	3 	3 	1 	7 	1 	the 	DT
+Hab 	3 	3 	1 	8 	1 	Holy 	NNP
+Hab 	3 	3 	1 	9 	1 	One 	CD
+Hab 	3 	3 	1 	10 	1 	from 	IN
+Hab 	3 	3 	1 	11 	1 	mount 	NN
+Hab 	3 	3 	1 	12 	1 	Paran 	NN
+Hab 	3 	3 	1 	13 	0 	.
+Hab 	3 	3 	2 	1 	1 	Selah 	NN
+Hab 	3 	3 	2 	2 	0 	.
+Hab 	3 	3 	3 	1 	1 	His 	PRP$
+Hab 	3 	3 	3 	2 	1 	glory 	NN
+Hab 	3 	3 	3 	3 	1 	covered 	VBN
+Hab 	3 	3 	3 	4 	1 	the 	DT
+Hab 	3 	3 	3 	5 	1 	heavens 	NNS
+Hab 	3 	3 	3 	6 	0 	,
+Hab 	3 	3 	3 	7 	1 	and 	CC
+Hab 	3 	3 	3 	8 	1 	the 	DT
+Hab 	3 	3 	3 	9 	1 	earth 	NN
+Hab 	3 	3 	3 	10 	1 	was 	VBD
+Hab 	3 	3 	3 	11 	1 	full 	JJ
+Hab 	3 	3 	3 	12 	1 	of 	IN
+Hab 	3 	3 	3 	13 	1 	his 	PRP$
+Hab 	3 	3 	3 	14 	1 	praise 	NN
+Hab 	3 	3 	3 	15 	0 	.
+Hab 	3 	4 	1 	1 	1 	And 	CC
+Hab 	3 	4 	1 	2 	1 	his 	PRP$
+Hab 	3 	4 	1 	3 	1 	brightness 	NN
+Hab 	3 	4 	1 	4 	1 	was 	VBD
+Hab 	3 	4 	1 	5 	1 	as 	IN
+Hab 	3 	4 	1 	6 	1 	the 	DT
+Hab 	3 	4 	1 	7 	1 	light 	NN
+Hab 	3 	4 	1 	8 	0 	;
+Hab 	3 	4 	1 	9 	1 	he 	PRP
+Hab 	3 	4 	1 	10 	1 	had 	VBD
+Hab 	3 	4 	1 	11 	1 	horns 	NNS
+Hab 	3 	4 	1 	12 	1 	coming 	VBG
+Hab 	3 	4 	1 	13 	1 	out 	IN
+Hab 	3 	4 	1 	14 	1 	of 	IN
+Hab 	3 	4 	1 	15 	1 	his 	PRP$
+Hab 	3 	4 	1 	16 	1 	hand 	NN
+Hab 	3 	4 	1 	17 	0 	:
+Hab 	3 	4 	1 	18 	1 	and 	CC
+Hab 	3 	4 	1 	19 	1 	there 	RB
+Hab 	3 	4 	1 	20 	1 	was 	VBD
+Hab 	3 	4 	1 	21 	1 	the 	DT
+Hab 	3 	4 	1 	22 	1 	hiding 	NN
+Hab 	3 	4 	1 	23 	1 	of 	IN
+Hab 	3 	4 	1 	24 	1 	his 	PRP$
+Hab 	3 	4 	1 	25 	1 	power 	NN
+Hab 	3 	4 	1 	26 	0 	.
+Hab 	3 	5 	1 	1 	1 	Before 	IN
+Hab 	3 	5 	1 	2 	1 	him 	PRP
+Hab 	3 	5 	1 	3 	1 	went 	VBD
+Hab 	3 	5 	1 	4 	1 	the 	DT
+Hab 	3 	5 	1 	5 	1 	pestilence 	NN
+Hab 	3 	5 	1 	6 	0 	,
+Hab 	3 	5 	1 	7 	1 	and 	CC
+Hab 	3 	5 	1 	8 	1 	burning 	NN
+Hab 	3 	5 	1 	9 	1 	coals 	NNS
+Hab 	3 	5 	1 	10 	1 	went 	VBD
+Hab 	3 	5 	1 	11 	1 	forth 	NN
+Hab 	3 	5 	1 	12 	1 	at 	IN
+Hab 	3 	5 	1 	13 	1 	his 	PRP$
+Hab 	3 	5 	1 	14 	1 	feet 	NNS
+Hab 	3 	5 	1 	15 	0 	.
+Hab 	3 	6 	1 	1 	1 	e 	NN
+Hab 	3 	6 	1 	2 	1 	stood 	NN
+Hab 	3 	6 	1 	3 	0 	,
+Hab 	3 	6 	1 	4 	1 	and 	CC
+Hab 	3 	6 	1 	5 	1 	measured 	VBN
+Hab 	3 	6 	1 	6 	1 	the 	DT
+Hab 	3 	6 	1 	7 	1 	earth 	NN
+Hab 	3 	6 	1 	8 	0 	:
+Hab 	3 	6 	1 	9 	1 	he 	PRP
+Hab 	3 	6 	1 	10 	1 	beheld 	NN
+Hab 	3 	6 	1 	11 	0 	,
+Hab 	3 	6 	1 	12 	1 	and 	CC
+Hab 	3 	6 	1 	13 	1 	drove 	NN
+Hab 	3 	6 	1 	14 	1 	asunder 	NN
+Hab 	3 	6 	1 	15 	1 	the 	DT
+Hab 	3 	6 	1 	16 	1 	nations 	NNS
+Hab 	3 	6 	1 	17 	0 	;
+Hab 	3 	6 	1 	18 	1 	and 	CC
+Hab 	3 	6 	1 	19 	1 	the 	DT
+Hab 	3 	6 	1 	20 	1 	everlasting 	VBG
+Hab 	3 	6 	1 	21 	1 	mountains 	NNS
+Hab 	3 	6 	1 	22 	1 	were 	VBD
+Hab 	3 	6 	1 	23 	1 	scattered 	VBN
+Hab 	3 	6 	1 	24 	0 	,
+Hab 	3 	6 	1 	25 	1 	the 	DT
+Hab 	3 	6 	1 	26 	1 	perpetual 	JJ
+Hab 	3 	6 	1 	27 	1 	hills 	NNS
+Hab 	3 	6 	1 	28 	1 	did 	VBD
+Hab 	3 	6 	1 	29 	1 	bow 	NN
+Hab 	3 	6 	1 	30 	0 	:
+Hab 	3 	6 	1 	31 	1 	his 	PRP$
+Hab 	3 	6 	1 	32 	1 	ways 	NNS
+Hab 	3 	6 	1 	33 	1 	are 	VBP
+Hab 	3 	6 	1 	34 	1 	everlasting 	VBG
+Hab 	3 	6 	1 	35 	0 	.
+Hab 	3 	7 	1 	1 	1 	I 	PRP
+Hab 	3 	7 	1 	2 	1 	saw 	NN
+Hab 	3 	7 	1 	3 	1 	the 	DT
+Hab 	3 	7 	1 	4 	1 	tents 	NNS
+Hab 	3 	7 	1 	5 	1 	of 	IN
+Hab 	3 	7 	1 	6 	1 	Cushan 	NN
+Hab 	3 	7 	1 	7 	1 	in 	IN
+Hab 	3 	7 	1 	8 	1 	affliction 	NN
+Hab 	3 	7 	1 	9 	0 	:
+Hab 	3 	7 	1 	10 	1 	and 	CC
+Hab 	3 	7 	1 	11 	1 	the 	DT
+Hab 	3 	7 	1 	12 	1 	curtains 	NNS
+Hab 	3 	7 	1 	13 	1 	of 	IN
+Hab 	3 	7 	1 	14 	1 	the 	DT
+Hab 	3 	7 	1 	15 	1 	land 	NN
+Hab 	3 	7 	1 	16 	1 	of 	IN
+Hab 	3 	7 	1 	17 	1 	Midian 	JJ
+Hab 	3 	7 	1 	18 	1 	did 	VBD
+Hab 	3 	7 	1 	19 	1 	tremble 	JJ
+Hab 	3 	7 	1 	20 	0 	.
+Hab 	3 	8 	1 	1 	1 	Was 	NN
+Hab 	3 	8 	1 	2 	1 	the 	DT
+Hab 	3 	8 	1 	3 	1 	LORD 	NN
+Hab 	3 	8 	1 	4 	1 	displeased 	JJ
+Hab 	3 	8 	1 	5 	1 	against 	IN
+Hab 	3 	8 	1 	6 	1 	the 	DT
+Hab 	3 	8 	1 	7 	1 	rivers 	NNS
+Hab 	3 	8 	1 	8 	0 	?
+Hab 	3 	8 	2 	1 	1 	was 	VBD
+Hab 	3 	8 	2 	2 	1 	thine 	NN
+Hab 	3 	8 	2 	3 	1 	anger 	NN
+Hab 	3 	8 	2 	4 	1 	against 	IN
+Hab 	3 	8 	2 	5 	1 	the 	DT
+Hab 	3 	8 	2 	6 	1 	rivers 	NNS
+Hab 	3 	8 	2 	7 	0 	?
+Hab 	3 	8 	3 	1 	1 	was 	VBD
+Hab 	3 	8 	3 	2 	1 	thy 	NN
+Hab 	3 	8 	3 	3 	1 	wrath 	NN
+Hab 	3 	8 	3 	4 	1 	against 	IN
+Hab 	3 	8 	3 	5 	1 	the 	DT
+Hab 	3 	8 	3 	6 	1 	sea 	NN
+Hab 	3 	8 	3 	7 	0 	,
+Hab 	3 	8 	3 	8 	1 	that 	IN
+Hab 	3 	8 	3 	9 	1 	thou 	NN
+Hab 	3 	8 	3 	10 	1 	didst 	NN
+Hab 	3 	8 	3 	11 	1 	ride 	NN
+Hab 	3 	8 	3 	12 	1 	upon 	IN
+Hab 	3 	8 	3 	13 	1 	thine 	NN
+Hab 	3 	8 	3 	14 	1 	horses 	NNS
+Hab 	3 	8 	3 	15 	1 	and 	CC
+Hab 	3 	8 	3 	16 	1 	thy 	NN
+Hab 	3 	8 	3 	17 	1 	chariots 	NNS
+Hab 	3 	8 	3 	18 	1 	of 	IN
+Hab 	3 	8 	3 	19 	1 	salvation 	NN
+Hab 	3 	8 	3 	20 	0 	?
+Hab 	3 	9 	1 	1 	1 	Thy 	NN
+Hab 	3 	9 	1 	2 	1 	bow 	NN
+Hab 	3 	9 	1 	3 	1 	was 	VBD
+Hab 	3 	9 	1 	4 	1 	made 	VBN
+Hab 	3 	9 	1 	5 	1 	quite 	RB
+Hab 	3 	9 	1 	6 	1 	naked 	JJ
+Hab 	3 	9 	1 	7 	0 	,
+Hab 	3 	9 	1 	8 	1 	according 	VBG
+Hab 	3 	9 	1 	9 	1 	to 	TO
+Hab 	3 	9 	1 	10 	1 	the 	DT
+Hab 	3 	9 	1 	11 	1 	oaths 	NNS
+Hab 	3 	9 	1 	12 	1 	of 	IN
+Hab 	3 	9 	1 	13 	1 	the 	DT
+Hab 	3 	9 	1 	14 	1 	tribes 	NNS
+Hab 	3 	9 	1 	15 	0 	,
+Hab 	3 	9 	1 	16 	1 	even 	RB
+Hab 	3 	9 	1 	17 	1 	thy 	NN
+Hab 	3 	9 	1 	18 	1 	word 	NN
+Hab 	3 	9 	1 	19 	0 	.
+Hab 	3 	9 	2 	1 	1 	Selah 	NN
+Hab 	3 	9 	2 	2 	0 	.
+Hab 	3 	9 	3 	1 	1 	Thou 	NN
+Hab 	3 	9 	3 	2 	1 	didst 	NN
+Hab 	3 	9 	3 	3 	1 	cleave 	NN
+Hab 	3 	9 	3 	4 	1 	the 	DT
+Hab 	3 	9 	3 	5 	1 	earth 	NN
+Hab 	3 	9 	3 	6 	1 	with 	IN
+Hab 	3 	9 	3 	7 	1 	rivers 	NNS
+Hab 	3 	9 	3 	8 	0 	.
+Hab 	3 	10 	1 	1 	1 	The 	DT
+Hab 	3 	10 	1 	2 	1 	mountains 	NNS
+Hab 	3 	10 	1 	3 	1 	saw 	NN
+Hab 	3 	10 	1 	4 	1 	thee 	NN
+Hab 	3 	10 	1 	5 	0 	,
+Hab 	3 	10 	1 	6 	1 	and 	CC
+Hab 	3 	10 	1 	7 	1 	they 	PRP
+Hab 	3 	10 	1 	8 	1 	trembled 	VBN
+Hab 	3 	10 	1 	9 	0 	:
+Hab 	3 	10 	1 	10 	1 	the 	DT
+Hab 	3 	10 	1 	11 	1 	overflowing 	VBG
+Hab 	3 	10 	1 	12 	1 	of 	IN
+Hab 	3 	10 	1 	13 	1 	the 	DT
+Hab 	3 	10 	1 	14 	1 	water 	NN
+Hab 	3 	10 	1 	15 	1 	passed 	VBN
+Hab 	3 	10 	1 	16 	1 	by 	IN
+Hab 	3 	10 	1 	17 	0 	:
+Hab 	3 	10 	1 	18 	1 	the 	DT
+Hab 	3 	10 	1 	19 	1 	deep 	NN
+Hab 	3 	10 	1 	20 	1 	uttered 	JJ
+Hab 	3 	10 	1 	21 	1 	his 	PRP$
+Hab 	3 	10 	1 	22 	1 	voice 	NN
+Hab 	3 	10 	1 	23 	0 	,
+Hab 	3 	10 	1 	24 	1 	and 	CC
+Hab 	3 	10 	1 	25 	1 	lifted 	VBN
+Hab 	3 	10 	1 	26 	1 	up 	RB
+Hab 	3 	10 	1 	27 	1 	his 	PRP$
+Hab 	3 	10 	1 	28 	1 	hands 	NNS
+Hab 	3 	10 	1 	29 	1 	on 	IN
+Hab 	3 	10 	1 	30 	1 	high 	JJ
+Hab 	3 	10 	1 	31 	0 	.
+Hab 	3 	11 	1 	1 	1 	The 	DT
+Hab 	3 	11 	1 	2 	1 	sun 	NN
+Hab 	3 	11 	1 	3 	1 	and 	CC
+Hab 	3 	11 	1 	4 	1 	moon 	NN
+Hab 	3 	11 	1 	5 	1 	stood 	NN
+Hab 	3 	11 	1 	6 	1 	still 	RB
+Hab 	3 	11 	1 	7 	1 	in 	IN
+Hab 	3 	11 	1 	8 	1 	their 	PRP$
+Hab 	3 	11 	1 	9 	1 	habitation 	NN
+Hab 	3 	11 	1 	10 	0 	:
+Hab 	3 	11 	1 	11 	1 	at 	IN
+Hab 	3 	11 	1 	12 	1 	the 	DT
+Hab 	3 	11 	1 	13 	1 	light 	NN
+Hab 	3 	11 	1 	14 	1 	of 	IN
+Hab 	3 	11 	1 	15 	1 	thine 	NN
+Hab 	3 	11 	1 	16 	1 	arrows 	NNS
+Hab 	3 	11 	1 	17 	1 	they 	PRP
+Hab 	3 	11 	1 	18 	1 	went 	VBD
+Hab 	3 	11 	1 	19 	0 	,
+Hab 	3 	11 	1 	20 	1 	and 	CC
+Hab 	3 	11 	1 	21 	1 	at 	IN
+Hab 	3 	11 	1 	22 	1 	the 	DT
+Hab 	3 	11 	1 	23 	1 	shining 	VBG
+Hab 	3 	11 	1 	24 	1 	of 	IN
+Hab 	3 	11 	1 	25 	1 	thy 	NN
+Hab 	3 	11 	1 	26 	1 	glittering 	VBG
+Hab 	3 	11 	1 	27 	1 	spear 	NN
+Hab 	3 	11 	1 	28 	0 	.
+Hab 	3 	12 	1 	1 	1 	Thou 	NN
+Hab 	3 	12 	1 	2 	1 	didst 	NN
+Hab 	3 	12 	1 	3 	1 	march 	NN
+Hab 	3 	12 	1 	4 	1 	through 	IN
+Hab 	3 	12 	1 	5 	1 	the 	DT
+Hab 	3 	12 	1 	6 	1 	land 	NN
+Hab 	3 	12 	1 	7 	1 	in 	IN
+Hab 	3 	12 	1 	8 	1 	indignation 	NN
+Hab 	3 	12 	1 	9 	0 	,
+Hab 	3 	12 	1 	10 	1 	thou 	NN
+Hab 	3 	12 	1 	11 	1 	didst 	NN
+Hab 	3 	12 	1 	12 	1 	thresh 	NN
+Hab 	3 	12 	1 	13 	1 	the 	DT
+Hab 	3 	12 	1 	14 	1 	heathen 	NN
+Hab 	3 	12 	1 	15 	1 	in 	IN
+Hab 	3 	12 	1 	16 	1 	anger 	NN
+Hab 	3 	12 	1 	17 	0 	.
+Hab 	3 	13 	1 	1 	1 	Thou 	NN
+Hab 	3 	13 	1 	2 	1 	wentest 	JJS
+Hab 	3 	13 	1 	3 	1 	forth 	NN
+Hab 	3 	13 	1 	4 	1 	for 	IN
+Hab 	3 	13 	1 	5 	1 	the 	DT
+Hab 	3 	13 	1 	6 	1 	salvation 	NN
+Hab 	3 	13 	1 	7 	1 	of 	IN
+Hab 	3 	13 	1 	8 	1 	thy 	NN
+Hab 	3 	13 	1 	9 	1 	people 	NNS
+Hab 	3 	13 	1 	10 	0 	,
+Hab 	3 	13 	1 	11 	1 	even 	RB
+Hab 	3 	13 	1 	12 	1 	for 	IN
+Hab 	3 	13 	1 	13 	1 	salvation 	NN
+Hab 	3 	13 	1 	14 	1 	with 	IN
+Hab 	3 	13 	1 	15 	1 	thine 	NN
+Hab 	3 	13 	1 	16 	1 	anointed 	VBN
+Hab 	3 	13 	1 	17 	0 	;
+Hab 	3 	13 	1 	18 	1 	thou 	NN
+Hab 	3 	13 	1 	19 	1 	woundedst 	NN
+Hab 	3 	13 	1 	20 	1 	the 	DT
+Hab 	3 	13 	1 	21 	1 	head 	NN
+Hab 	3 	13 	1 	22 	1 	out 	IN
+Hab 	3 	13 	1 	23 	1 	of 	IN
+Hab 	3 	13 	1 	24 	1 	the 	DT
+Hab 	3 	13 	1 	25 	1 	house 	NN
+Hab 	3 	13 	1 	26 	1 	of 	IN
+Hab 	3 	13 	1 	27 	1 	the 	DT
+Hab 	3 	13 	1 	28 	1 	wicked 	VBD
+Hab 	3 	13 	1 	29 	0 	,
+Hab 	3 	13 	1 	30 	1 	by 	IN
+Hab 	3 	13 	1 	31 	1 	discovering 	VBG
+Hab 	3 	13 	1 	32 	1 	the 	DT
+Hab 	3 	13 	1 	33 	1 	foundation 	NN
+Hab 	3 	13 	1 	34 	1 	unto 	NN
+Hab 	3 	13 	1 	35 	1 	the 	DT
+Hab 	3 	13 	1 	36 	1 	neck 	NN
+Hab 	3 	13 	1 	37 	0 	.
+Hab 	3 	13 	2 	1 	1 	Selah 	NN
+Hab 	3 	13 	2 	2 	0 	.
+Hab 	3 	14 	1 	1 	1 	Thou 	NN
+Hab 	3 	14 	1 	2 	1 	didst 	NN
+Hab 	3 	14 	1 	3 	1 	strike 	NN
+Hab 	3 	14 	1 	4 	1 	through 	IN
+Hab 	3 	14 	1 	5 	1 	with 	IN
+Hab 	3 	14 	1 	6 	1 	his 	PRP$
+Hab 	3 	14 	1 	7 	1 	staves 	NNS
+Hab 	3 	14 	1 	8 	1 	the 	DT
+Hab 	3 	14 	1 	9 	1 	head 	NN
+Hab 	3 	14 	1 	10 	1 	of 	IN
+Hab 	3 	14 	1 	11 	1 	his 	PRP$
+Hab 	3 	14 	1 	12 	1 	villages 	NNS
+Hab 	3 	14 	1 	13 	0 	:
+Hab 	3 	14 	1 	14 	1 	they 	PRP
+Hab 	3 	14 	1 	15 	1 	came 	VBD
+Hab 	3 	14 	1 	16 	1 	out 	IN
+Hab 	3 	14 	1 	17 	1 	as 	IN
+Hab 	3 	14 	1 	18 	1 	a 	DT
+Hab 	3 	14 	1 	19 	1 	whirlwind 	NN
+Hab 	3 	14 	1 	20 	1 	to 	TO
+Hab 	3 	14 	1 	21 	1 	scatter 	NN
+Hab 	3 	14 	1 	22 	1 	me 	PRP
+Hab 	3 	14 	1 	23 	0 	:
+Hab 	3 	14 	1 	24 	1 	their 	PRP$
+Hab 	3 	14 	1 	25 	1 	rejoicing 	VBG
+Hab 	3 	14 	1 	26 	1 	was 	VBD
+Hab 	3 	14 	1 	27 	1 	as 	IN
+Hab 	3 	14 	1 	28 	1 	to 	TO
+Hab 	3 	14 	1 	29 	1 	devour 	NN
+Hab 	3 	14 	1 	30 	1 	the 	DT
+Hab 	3 	14 	1 	31 	1 	poor 	JJ
+Hab 	3 	14 	1 	32 	1 	secretly 	RB
+Hab 	3 	14 	1 	33 	0 	.
+Hab 	3 	15 	1 	1 	1 	Thou 	NN
+Hab 	3 	15 	1 	2 	1 	didst 	NN
+Hab 	3 	15 	1 	3 	1 	walk 	NN
+Hab 	3 	15 	1 	4 	1 	through 	IN
+Hab 	3 	15 	1 	5 	1 	the 	DT
+Hab 	3 	15 	1 	6 	1 	sea 	NN
+Hab 	3 	15 	1 	7 	1 	with 	IN
+Hab 	3 	15 	1 	8 	1 	thine 	NN
+Hab 	3 	15 	1 	9 	1 	horses 	NNS
+Hab 	3 	15 	1 	10 	0 	,
+Hab 	3 	15 	1 	11 	1 	through 	IN
+Hab 	3 	15 	1 	12 	1 	the 	DT
+Hab 	3 	15 	1 	13 	1 	heap 	NN
+Hab 	3 	15 	1 	14 	1 	of 	IN
+Hab 	3 	15 	1 	15 	1 	great 	JJ
+Hab 	3 	15 	1 	16 	1 	waters 	NNS
+Hab 	3 	15 	1 	17 	0 	.
+Hab 	3 	16 	1 	1 	1 	When 	WRB
+Hab 	3 	16 	1 	2 	1 	I 	PRP
+Hab 	3 	16 	1 	3 	1 	heard 	NN
+Hab 	3 	16 	1 	4 	0 	,
+Hab 	3 	16 	1 	5 	1 	my 	PRP$
+Hab 	3 	16 	1 	6 	1 	belly 	RB
+Hab 	3 	16 	1 	7 	1 	trembled 	VBN
+Hab 	3 	16 	1 	8 	0 	;
+Hab 	3 	16 	1 	9 	1 	my 	PRP$
+Hab 	3 	16 	1 	10 	1 	lips 	NNS
+Hab 	3 	16 	1 	11 	1 	quivered 	VBN
+Hab 	3 	16 	1 	12 	1 	at 	IN
+Hab 	3 	16 	1 	13 	1 	the 	DT
+Hab 	3 	16 	1 	14 	1 	voice 	NN
+Hab 	3 	16 	1 	15 	0 	:
+Hab 	3 	16 	1 	16 	1 	rottenness 	NN
+Hab 	3 	16 	1 	17 	1 	entered 	VBN
+Hab 	3 	16 	1 	18 	1 	into 	IN
+Hab 	3 	16 	1 	19 	1 	my 	PRP$
+Hab 	3 	16 	1 	20 	1 	bones 	NNS
+Hab 	3 	16 	1 	21 	0 	,
+Hab 	3 	16 	1 	22 	1 	and 	CC
+Hab 	3 	16 	1 	23 	1 	I 	PRP
+Hab 	3 	16 	1 	24 	1 	trembled 	VBN
+Hab 	3 	16 	1 	25 	1 	in 	IN
+Hab 	3 	16 	1 	26 	1 	myself 	PRP
+Hab 	3 	16 	1 	27 	0 	,
+Hab 	3 	16 	1 	28 	1 	that 	IN
+Hab 	3 	16 	1 	29 	1 	I 	PRP
+Hab 	3 	16 	1 	30 	1 	might 	MD
+Hab 	3 	16 	1 	31 	1 	rest 	NN
+Hab 	3 	16 	1 	32 	1 	in 	IN
+Hab 	3 	16 	1 	33 	1 	the 	DT
+Hab 	3 	16 	1 	34 	1 	day 	NN
+Hab 	3 	16 	1 	35 	1 	of 	IN
+Hab 	3 	16 	1 	36 	1 	trouble 	NN
+Hab 	3 	16 	1 	37 	0 	:
+Hab 	3 	16 	1 	38 	1 	when 	WRB
+Hab 	3 	16 	1 	39 	1 	he 	PRP
+Hab 	3 	16 	1 	40 	1 	cometh 	NNS
+Hab 	3 	16 	1 	41 	1 	up 	RB
+Hab 	3 	16 	1 	42 	1 	unto 	NN
+Hab 	3 	16 	1 	43 	1 	the 	DT
+Hab 	3 	16 	1 	44 	1 	people 	NNS
+Hab 	3 	16 	1 	45 	0 	,
+Hab 	3 	16 	1 	46 	1 	he 	PRP
+Hab 	3 	16 	1 	47 	1 	will 	MD
+Hab 	3 	16 	1 	48 	1 	invade 	NN
+Hab 	3 	16 	1 	49 	1 	them 	PRP
+Hab 	3 	16 	1 	50 	1 	with 	IN
+Hab 	3 	16 	1 	51 	1 	his 	PRP$
+Hab 	3 	16 	1 	52 	1 	troops 	NNS
+Hab 	3 	16 	1 	53 	0 	.
+Hab 	3 	17 	1 	1 	1 	Although 	IN
+Hab 	3 	17 	1 	2 	1 	the 	DT
+Hab 	3 	17 	1 	3 	1 	fig 	NN
+Hab 	3 	17 	1 	4 	1 	tree 	NN
+Hab 	3 	17 	1 	5 	1 	shall 	MD
+Hab 	3 	17 	1 	6 	1 	not 	RB
+Hab 	3 	17 	1 	7 	1 	blossom 	NN
+Hab 	3 	17 	1 	8 	0 	,
+Hab 	3 	17 	1 	9 	1 	neither 	DT
+Hab 	3 	17 	1 	10 	1 	shall 	MD
+Hab 	3 	17 	1 	11 	1 	fruit 	NN
+Hab 	3 	17 	1 	12 	1 	be 	VB
+Hab 	3 	17 	1 	13 	1 	in 	IN
+Hab 	3 	17 	1 	14 	1 	the 	DT
+Hab 	3 	17 	1 	15 	1 	vines 	NNS
+Hab 	3 	17 	1 	16 	0 	;
+Hab 	3 	17 	1 	17 	1 	the 	DT
+Hab 	3 	17 	1 	18 	1 	labour 	NN
+Hab 	3 	17 	1 	19 	1 	of 	IN
+Hab 	3 	17 	1 	20 	1 	the 	DT
+Hab 	3 	17 	1 	21 	1 	olive 	JJ
+Hab 	3 	17 	1 	22 	1 	shall 	MD
+Hab 	3 	17 	1 	23 	1 	fail 	NN
+Hab 	3 	17 	1 	24 	0 	,
+Hab 	3 	17 	1 	25 	1 	and 	CC
+Hab 	3 	17 	1 	26 	1 	the 	DT
+Hab 	3 	17 	1 	27 	1 	fields 	NNS
+Hab 	3 	17 	1 	28 	1 	shall 	MD
+Hab 	3 	17 	1 	29 	1 	yield 	NN
+Hab 	3 	17 	1 	30 	1 	no 	DT
+Hab 	3 	17 	1 	31 	1 	meat 	NN
+Hab 	3 	17 	1 	32 	0 	;
+Hab 	3 	17 	1 	33 	1 	the 	DT
+Hab 	3 	17 	1 	34 	1 	flock 	NN
+Hab 	3 	17 	1 	35 	1 	shall 	MD
+Hab 	3 	17 	1 	36 	1 	be 	VB
+Hab 	3 	17 	1 	37 	1 	cut 	NN
+Hab 	3 	17 	1 	38 	1 	off 	IN
+Hab 	3 	17 	1 	39 	1 	from 	IN
+Hab 	3 	17 	1 	40 	1 	the 	DT
+Hab 	3 	17 	1 	41 	1 	fold 	NN
+Hab 	3 	17 	1 	42 	0 	,
+Hab 	3 	17 	1 	43 	1 	and 	CC
+Hab 	3 	17 	1 	44 	1 	there 	RB
+Hab 	3 	17 	1 	45 	1 	shall 	MD
+Hab 	3 	17 	1 	46 	1 	be 	VB
+Hab 	3 	17 	1 	47 	1 	no 	DT
+Hab 	3 	17 	1 	48 	1 	herd 	NN
+Hab 	3 	17 	1 	49 	1 	in 	IN
+Hab 	3 	17 	1 	50 	1 	the 	DT
+Hab 	3 	17 	1 	51 	1 	stalls 	NNS
+Hab 	3 	17 	1 	52 	0 	:
+Hab 	3 	18 	1 	1 	1 	Yet 	RB
+Hab 	3 	18 	1 	2 	1 	I 	PRP
+Hab 	3 	18 	1 	3 	1 	will 	MD
+Hab 	3 	18 	1 	4 	1 	rejoice 	NN
+Hab 	3 	18 	1 	5 	1 	in 	IN
+Hab 	3 	18 	1 	6 	1 	the 	DT
+Hab 	3 	18 	1 	7 	1 	LORD 	NN
+Hab 	3 	18 	1 	8 	0 	,
+Hab 	3 	18 	1 	9 	1 	I 	PRP
+Hab 	3 	18 	1 	10 	1 	will 	MD
+Hab 	3 	18 	1 	11 	1 	joy 	NN
+Hab 	3 	18 	1 	12 	1 	in 	IN
+Hab 	3 	18 	1 	13 	1 	the 	DT
+Hab 	3 	18 	1 	14 	1 	God 	NNP
+Hab 	3 	18 	1 	15 	1 	of 	IN
+Hab 	3 	18 	1 	16 	1 	my 	PRP$
+Hab 	3 	18 	1 	17 	1 	salvation 	NN
+Hab 	3 	18 	1 	18 	0 	.
+Hab 	3 	19 	1 	1 	1 	The 	DT
+Hab 	3 	19 	1 	2 	1 	LORD 	NN
+Hab 	3 	19 	1 	3 	1 	God 	NNP
+Hab 	3 	19 	1 	4 	1 	is 	VBZ
+Hab 	3 	19 	1 	5 	1 	my 	PRP$
+Hab 	3 	19 	1 	6 	1 	strength 	NN
+Hab 	3 	19 	1 	7 	0 	,
+Hab 	3 	19 	1 	8 	1 	and 	CC
+Hab 	3 	19 	1 	9 	1 	he 	PRP
+Hab 	3 	19 	1 	10 	1 	will 	MD
+Hab 	3 	19 	1 	11 	1 	make 	VB
+Hab 	3 	19 	1 	12 	1 	my 	PRP$
+Hab 	3 	19 	1 	13 	1 	feet 	NNS
+Hab 	3 	19 	1 	14 	1 	like 	IN
+Hab 	3 	19 	1 	15 	1 	hinds 	NNS
+Hab 	3 	19 	1 	16 	0 	'
+Hab 	3 	19 	1 	17 	1 	feet 	NNS
+Hab 	3 	19 	1 	18 	0 	,
+Hab 	3 	19 	1 	19 	1 	and 	CC
+Hab 	3 	19 	1 	20 	1 	he 	PRP
+Hab 	3 	19 	1 	21 	1 	will 	MD
+Hab 	3 	19 	1 	22 	1 	make 	VB
+Hab 	3 	19 	1 	23 	1 	me 	PRP
+Hab 	3 	19 	1 	24 	1 	to 	TO
+Hab 	3 	19 	1 	25 	1 	walk 	NN
+Hab 	3 	19 	1 	26 	1 	upon 	IN
+Hab 	3 	19 	1 	27 	1 	mine 	NN
+Hab 	3 	19 	1 	28 	1 	high 	JJ
+Hab 	3 	19 	1 	29 	1 	places 	NNS
+Hab 	3 	19 	1 	30 	0 	.
+Hab 	3 	19 	2 	1 	1 	To 	TO
+Hab 	3 	19 	2 	2 	1 	the 	DT
+Hab 	3 	19 	2 	3 	1 	chief 	NN
+Hab 	3 	19 	2 	4 	1 	singer 	NN
+Hab 	3 	19 	2 	5 	1 	on 	IN
+Hab 	3 	19 	2 	6 	1 	my 	PRP$
+Hab 	3 	19 	2 	7 	1 	stringed 	VBN
+Hab 	3 	19 	2 	8 	1 	instruments 	NNS
+Hab 	3 	19 	2 	9 	0 	.

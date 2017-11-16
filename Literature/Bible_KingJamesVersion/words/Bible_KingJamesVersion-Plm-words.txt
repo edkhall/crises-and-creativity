@@ -1,0 +1,504 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Plm 	1 	1 	1 	1 	1 	aul 	NN
+Plm 	1 	1 	1 	2 	0 	,
+Plm 	1 	1 	1 	3 	1 	a 	DT
+Plm 	1 	1 	1 	4 	1 	prisoner 	NN
+Plm 	1 	1 	1 	5 	1 	of 	IN
+Plm 	1 	1 	1 	6 	1 	Jesus 	NN
+Plm 	1 	1 	1 	7 	1 	Christ 	NN
+Plm 	1 	1 	1 	8 	0 	,
+Plm 	1 	1 	1 	9 	1 	and 	CC
+Plm 	1 	1 	1 	10 	1 	Timothy 	NN
+Plm 	1 	1 	1 	11 	1 	our 	PRP$
+Plm 	1 	1 	1 	12 	1 	brother 	NN
+Plm 	1 	1 	1 	13 	0 	,
+Plm 	1 	1 	1 	14 	1 	unto 	NN
+Plm 	1 	1 	1 	15 	1 	Philemon 	NN
+Plm 	1 	1 	1 	16 	1 	our 	PRP$
+Plm 	1 	1 	1 	17 	1 	dearly 	RB
+Plm 	1 	1 	1 	18 	1 	beloved 	VBN
+Plm 	1 	1 	1 	19 	0 	,
+Plm 	1 	1 	1 	20 	1 	and 	CC
+Plm 	1 	1 	1 	21 	1 	fellowlabourer 	NN
+Plm 	1 	1 	1 	22 	0 	,
+Plm 	1 	2 	1 	1 	1 	And 	CC
+Plm 	1 	2 	1 	2 	1 	to 	TO
+Plm 	1 	2 	1 	3 	1 	our 	PRP$
+Plm 	1 	2 	1 	4 	1 	beloved 	VBN
+Plm 	1 	2 	1 	5 	1 	Apphia 	NN
+Plm 	1 	2 	1 	6 	0 	,
+Plm 	1 	2 	1 	7 	1 	and 	CC
+Plm 	1 	2 	1 	8 	1 	Archippus 	NN
+Plm 	1 	2 	1 	9 	1 	our 	PRP$
+Plm 	1 	2 	1 	10 	1 	fellowsoldier 	NN
+Plm 	1 	2 	1 	11 	0 	,
+Plm 	1 	2 	1 	12 	1 	and 	CC
+Plm 	1 	2 	1 	13 	1 	to 	TO
+Plm 	1 	2 	1 	14 	1 	the 	DT
+Plm 	1 	2 	1 	15 	1 	church 	NN
+Plm 	1 	2 	1 	16 	1 	in 	IN
+Plm 	1 	2 	1 	17 	1 	thy 	NN
+Plm 	1 	2 	1 	18 	1 	house 	NN
+Plm 	1 	2 	1 	19 	0 	:
+Plm 	1 	3 	1 	1 	1 	Grace 	NN
+Plm 	1 	3 	1 	2 	1 	to 	TO
+Plm 	1 	3 	1 	3 	1 	you 	PRP
+Plm 	1 	3 	1 	4 	0 	,
+Plm 	1 	3 	1 	5 	1 	and 	CC
+Plm 	1 	3 	1 	6 	1 	peace 	NN
+Plm 	1 	3 	1 	7 	0 	,
+Plm 	1 	3 	1 	8 	1 	from 	IN
+Plm 	1 	3 	1 	9 	1 	God 	NNP
+Plm 	1 	3 	1 	10 	1 	our 	PRP$
+Plm 	1 	3 	1 	11 	1 	Father 	NN
+Plm 	1 	3 	1 	12 	1 	and 	CC
+Plm 	1 	3 	1 	13 	1 	the 	DT
+Plm 	1 	3 	1 	14 	1 	Lord 	NN
+Plm 	1 	3 	1 	15 	1 	Jesus 	NN
+Plm 	1 	3 	1 	16 	1 	Christ 	NN
+Plm 	1 	3 	1 	17 	0 	.
+Plm 	1 	4 	1 	1 	1 	I 	PRP
+Plm 	1 	4 	1 	2 	1 	thank 	NN
+Plm 	1 	4 	1 	3 	1 	my 	PRP$
+Plm 	1 	4 	1 	4 	1 	God 	NNP
+Plm 	1 	4 	1 	5 	0 	,
+Plm 	1 	4 	1 	6 	1 	making 	VBG
+Plm 	1 	4 	1 	7 	1 	mention 	NN
+Plm 	1 	4 	1 	8 	1 	of 	IN
+Plm 	1 	4 	1 	9 	1 	thee 	NN
+Plm 	1 	4 	1 	10 	1 	always 	RB
+Plm 	1 	4 	1 	11 	1 	in 	IN
+Plm 	1 	4 	1 	12 	1 	my 	PRP$
+Plm 	1 	4 	1 	13 	1 	prayers 	NNS
+Plm 	1 	4 	1 	14 	0 	,
+Plm 	1 	5 	1 	1 	1 	Hearing 	VBG
+Plm 	1 	5 	1 	2 	1 	of 	IN
+Plm 	1 	5 	1 	3 	1 	thy 	NN
+Plm 	1 	5 	1 	4 	1 	love 	NN
+Plm 	1 	5 	1 	5 	1 	and 	CC
+Plm 	1 	5 	1 	6 	1 	faith 	NN
+Plm 	1 	5 	1 	7 	0 	,
+Plm 	1 	5 	1 	8 	1 	which 	WDT
+Plm 	1 	5 	1 	9 	1 	thou 	NN
+Plm 	1 	5 	1 	10 	1 	hast 	NN
+Plm 	1 	5 	1 	11 	1 	toward 	IN
+Plm 	1 	5 	1 	12 	1 	the 	DT
+Plm 	1 	5 	1 	13 	1 	Lord 	NN
+Plm 	1 	5 	1 	14 	1 	Jesus 	NN
+Plm 	1 	5 	1 	15 	0 	,
+Plm 	1 	5 	1 	16 	1 	and 	CC
+Plm 	1 	5 	1 	17 	1 	toward 	IN
+Plm 	1 	5 	1 	18 	1 	all 	DT
+Plm 	1 	5 	1 	19 	1 	saints 	NNS
+Plm 	1 	5 	1 	20 	0 	;
+Plm 	1 	6 	1 	1 	1 	That 	DT
+Plm 	1 	6 	1 	2 	1 	the 	DT
+Plm 	1 	6 	1 	3 	1 	communication 	NN
+Plm 	1 	6 	1 	4 	1 	of 	IN
+Plm 	1 	6 	1 	5 	1 	thy 	NN
+Plm 	1 	6 	1 	6 	1 	faith 	NN
+Plm 	1 	6 	1 	7 	1 	may 	MD
+Plm 	1 	6 	1 	8 	1 	become 	NN
+Plm 	1 	6 	1 	9 	1 	effectual 	JJ
+Plm 	1 	6 	1 	10 	1 	by 	IN
+Plm 	1 	6 	1 	11 	1 	the 	DT
+Plm 	1 	6 	1 	12 	1 	acknowledging 	VBG
+Plm 	1 	6 	1 	13 	1 	of 	IN
+Plm 	1 	6 	1 	14 	1 	every 	DT
+Plm 	1 	6 	1 	15 	1 	good 	JJ
+Plm 	1 	6 	1 	16 	1 	thing 	NN
+Plm 	1 	6 	1 	17 	1 	which 	WDT
+Plm 	1 	6 	1 	18 	1 	is 	VBZ
+Plm 	1 	6 	1 	19 	1 	in 	IN
+Plm 	1 	6 	1 	20 	1 	you 	PRP
+Plm 	1 	6 	1 	21 	1 	in 	IN
+Plm 	1 	6 	1 	22 	1 	Christ 	NN
+Plm 	1 	6 	1 	23 	1 	Jesus 	NN
+Plm 	1 	6 	1 	24 	0 	.
+Plm 	1 	7 	1 	1 	1 	For 	IN
+Plm 	1 	7 	1 	2 	1 	we 	PRP
+Plm 	1 	7 	1 	3 	1 	have 	VB
+Plm 	1 	7 	1 	4 	1 	great 	JJ
+Plm 	1 	7 	1 	5 	1 	joy 	NN
+Plm 	1 	7 	1 	6 	1 	and 	CC
+Plm 	1 	7 	1 	7 	1 	consolation 	NN
+Plm 	1 	7 	1 	8 	1 	in 	IN
+Plm 	1 	7 	1 	9 	1 	thy 	NN
+Plm 	1 	7 	1 	10 	1 	love 	NN
+Plm 	1 	7 	1 	11 	0 	,
+Plm 	1 	7 	1 	12 	1 	because 	IN
+Plm 	1 	7 	1 	13 	1 	the 	DT
+Plm 	1 	7 	1 	14 	1 	bowels 	NNS
+Plm 	1 	7 	1 	15 	1 	of 	IN
+Plm 	1 	7 	1 	16 	1 	the 	DT
+Plm 	1 	7 	1 	17 	1 	saints 	NNS
+Plm 	1 	7 	1 	18 	1 	are 	VBP
+Plm 	1 	7 	1 	19 	1 	refreshed 	VBN
+Plm 	1 	7 	1 	20 	1 	by 	IN
+Plm 	1 	7 	1 	21 	1 	thee 	NN
+Plm 	1 	7 	1 	22 	0 	,
+Plm 	1 	7 	1 	23 	1 	brother 	NN
+Plm 	1 	7 	1 	24 	0 	.
+Plm 	1 	8 	1 	1 	1 	Wherefore 	IN
+Plm 	1 	8 	1 	2 	0 	,
+Plm 	1 	8 	1 	3 	1 	though 	IN
+Plm 	1 	8 	1 	4 	1 	I 	PRP
+Plm 	1 	8 	1 	5 	1 	might 	MD
+Plm 	1 	8 	1 	6 	1 	be 	VB
+Plm 	1 	8 	1 	7 	1 	much 	JJ
+Plm 	1 	8 	1 	8 	1 	bold 	NN
+Plm 	1 	8 	1 	9 	1 	in 	IN
+Plm 	1 	8 	1 	10 	1 	Christ 	NN
+Plm 	1 	8 	1 	11 	1 	to 	TO
+Plm 	1 	8 	1 	12 	1 	enjoin 	NN
+Plm 	1 	8 	1 	13 	1 	thee 	NN
+Plm 	1 	8 	1 	14 	1 	that 	IN
+Plm 	1 	8 	1 	15 	1 	which 	WDT
+Plm 	1 	8 	1 	16 	1 	is 	VBZ
+Plm 	1 	8 	1 	17 	1 	convenient 	NN
+Plm 	1 	8 	1 	18 	0 	,
+Plm 	1 	9 	1 	1 	1 	Yet 	RB
+Plm 	1 	9 	1 	2 	1 	for 	IN
+Plm 	1 	9 	1 	3 	1 	love 	NN
+Plm 	1 	9 	1 	4 	0 	's
+Plm 	1 	9 	1 	5 	1 	sake 	NN
+Plm 	1 	9 	1 	6 	1 	I 	PRP
+Plm 	1 	9 	1 	7 	1 	rather 	RB
+Plm 	1 	9 	1 	8 	1 	beseech 	NN
+Plm 	1 	9 	1 	9 	1 	thee 	NN
+Plm 	1 	9 	1 	10 	0 	,
+Plm 	1 	9 	1 	11 	1 	being 	VBG
+Plm 	1 	9 	1 	12 	1 	such 	JJ
+Plm 	1 	9 	1 	13 	1 	an 	DT
+Plm 	1 	9 	1 	14 	1 	one 	CD
+Plm 	1 	9 	1 	15 	1 	as 	IN
+Plm 	1 	9 	1 	16 	1 	Paul 	NNP
+Plm 	1 	9 	1 	17 	1 	the 	DT
+Plm 	1 	9 	1 	18 	1 	aged 	VBN
+Plm 	1 	9 	1 	19 	0 	,
+Plm 	1 	9 	1 	20 	1 	and 	CC
+Plm 	1 	9 	1 	21 	1 	now 	RB
+Plm 	1 	9 	1 	22 	1 	also 	RB
+Plm 	1 	9 	1 	23 	1 	a 	DT
+Plm 	1 	9 	1 	24 	1 	prisoner 	NN
+Plm 	1 	9 	1 	25 	1 	of 	IN
+Plm 	1 	9 	1 	26 	1 	Jesus 	NN
+Plm 	1 	9 	1 	27 	1 	Christ 	NN
+Plm 	1 	9 	1 	28 	0 	.
+Plm 	1 	10 	1 	1 	1 	I 	PRP
+Plm 	1 	10 	1 	2 	1 	beseech 	NN
+Plm 	1 	10 	1 	3 	1 	thee 	NN
+Plm 	1 	10 	1 	4 	1 	for 	IN
+Plm 	1 	10 	1 	5 	1 	my 	PRP$
+Plm 	1 	10 	1 	6 	1 	son 	NN
+Plm 	1 	10 	1 	7 	1 	Onesimus 	NN
+Plm 	1 	10 	1 	8 	0 	,
+Plm 	1 	10 	1 	9 	1 	whom 	WP
+Plm 	1 	10 	1 	10 	1 	I 	PRP
+Plm 	1 	10 	1 	11 	1 	have 	VB
+Plm 	1 	10 	1 	12 	1 	begotten 	NN
+Plm 	1 	10 	1 	13 	1 	in 	IN
+Plm 	1 	10 	1 	14 	1 	my 	PRP$
+Plm 	1 	10 	1 	15 	1 	bonds 	NNS
+Plm 	1 	10 	1 	16 	0 	:
+Plm 	1 	11 	1 	1 	1 	Which 	WDT
+Plm 	1 	11 	1 	2 	1 	in 	IN
+Plm 	1 	11 	1 	3 	1 	time 	NN
+Plm 	1 	11 	1 	4 	1 	past 	NN
+Plm 	1 	11 	1 	5 	1 	was 	VBD
+Plm 	1 	11 	1 	6 	1 	to 	TO
+Plm 	1 	11 	1 	7 	1 	thee 	NN
+Plm 	1 	11 	1 	8 	1 	unprofitable 	JJ
+Plm 	1 	11 	1 	9 	0 	,
+Plm 	1 	11 	1 	10 	1 	but 	CC
+Plm 	1 	11 	1 	11 	1 	now 	RB
+Plm 	1 	11 	1 	12 	1 	profitable 	JJ
+Plm 	1 	11 	1 	13 	1 	to 	TO
+Plm 	1 	11 	1 	14 	1 	thee 	NN
+Plm 	1 	11 	1 	15 	1 	and 	CC
+Plm 	1 	11 	1 	16 	1 	to 	TO
+Plm 	1 	11 	1 	17 	1 	me 	PRP
+Plm 	1 	11 	1 	18 	0 	:
+Plm 	1 	12 	1 	1 	1 	Whom 	NN
+Plm 	1 	12 	1 	2 	1 	I 	PRP
+Plm 	1 	12 	1 	3 	1 	have 	VB
+Plm 	1 	12 	1 	4 	1 	sent 	NN
+Plm 	1 	12 	1 	5 	1 	again 	RB
+Plm 	1 	12 	1 	6 	0 	:
+Plm 	1 	12 	1 	7 	1 	thou 	NN
+Plm 	1 	12 	1 	8 	1 	therefore 	RB
+Plm 	1 	12 	1 	9 	1 	receive 	NN
+Plm 	1 	12 	1 	10 	1 	him 	PRP
+Plm 	1 	12 	1 	11 	0 	,
+Plm 	1 	12 	1 	12 	1 	that 	IN
+Plm 	1 	12 	1 	13 	1 	is 	VBZ
+Plm 	1 	12 	1 	14 	0 	,
+Plm 	1 	12 	1 	15 	1 	mine 	NN
+Plm 	1 	12 	1 	16 	1 	own 	JJ
+Plm 	1 	12 	1 	17 	1 	bowels 	NNS
+Plm 	1 	12 	1 	18 	0 	:
+Plm 	1 	13 	1 	1 	1 	Whom 	NN
+Plm 	1 	13 	1 	2 	1 	I 	PRP
+Plm 	1 	13 	1 	3 	1 	would 	MD
+Plm 	1 	13 	1 	4 	1 	have 	VB
+Plm 	1 	13 	1 	5 	1 	retained 	VBN
+Plm 	1 	13 	1 	6 	1 	with 	IN
+Plm 	1 	13 	1 	7 	1 	me 	PRP
+Plm 	1 	13 	1 	8 	0 	,
+Plm 	1 	13 	1 	9 	1 	that 	IN
+Plm 	1 	13 	1 	10 	1 	in 	IN
+Plm 	1 	13 	1 	11 	1 	thy 	NN
+Plm 	1 	13 	1 	12 	1 	stead 	NN
+Plm 	1 	13 	1 	13 	1 	he 	PRP
+Plm 	1 	13 	1 	14 	1 	might 	MD
+Plm 	1 	13 	1 	15 	1 	have 	VB
+Plm 	1 	13 	1 	16 	1 	ministered 	VBN
+Plm 	1 	13 	1 	17 	1 	unto 	NN
+Plm 	1 	13 	1 	18 	1 	me 	PRP
+Plm 	1 	13 	1 	19 	1 	in 	IN
+Plm 	1 	13 	1 	20 	1 	the 	DT
+Plm 	1 	13 	1 	21 	1 	bonds 	NNS
+Plm 	1 	13 	1 	22 	1 	of 	IN
+Plm 	1 	13 	1 	23 	1 	the 	DT
+Plm 	1 	13 	1 	24 	1 	gospel 	NN
+Plm 	1 	13 	1 	25 	0 	:
+Plm 	1 	14 	1 	1 	1 	But 	CC
+Plm 	1 	14 	1 	2 	1 	without 	IN
+Plm 	1 	14 	1 	3 	1 	thy 	NN
+Plm 	1 	14 	1 	4 	1 	mind 	NN
+Plm 	1 	14 	1 	5 	1 	would 	MD
+Plm 	1 	14 	1 	6 	1 	I 	PRP
+Plm 	1 	14 	1 	7 	1 	do 	VB
+Plm 	1 	14 	1 	8 	1 	nothing 	NN
+Plm 	1 	14 	1 	9 	0 	;
+Plm 	1 	14 	1 	10 	1 	that 	IN
+Plm 	1 	14 	1 	11 	1 	thy 	NN
+Plm 	1 	14 	1 	12 	1 	benefit 	NN
+Plm 	1 	14 	1 	13 	1 	should 	MD
+Plm 	1 	14 	1 	14 	1 	not 	RB
+Plm 	1 	14 	1 	15 	1 	be 	VB
+Plm 	1 	14 	1 	16 	1 	as 	IN
+Plm 	1 	14 	1 	17 	1 	it 	PRP
+Plm 	1 	14 	1 	18 	1 	were 	VBD
+Plm 	1 	14 	1 	19 	1 	of 	IN
+Plm 	1 	14 	1 	20 	1 	necessity 	NN
+Plm 	1 	14 	1 	21 	0 	,
+Plm 	1 	14 	1 	22 	1 	but 	CC
+Plm 	1 	14 	1 	23 	1 	willingly 	RB
+Plm 	1 	14 	1 	24 	0 	.
+Plm 	1 	15 	1 	1 	1 	For 	IN
+Plm 	1 	15 	1 	2 	1 	perhaps 	RB
+Plm 	1 	15 	1 	3 	1 	he 	PRP
+Plm 	1 	15 	1 	4 	1 	therefore 	RB
+Plm 	1 	15 	1 	5 	1 	departed 	VBN
+Plm 	1 	15 	1 	6 	1 	for 	IN
+Plm 	1 	15 	1 	7 	1 	a 	DT
+Plm 	1 	15 	1 	8 	1 	season 	NN
+Plm 	1 	15 	1 	9 	0 	,
+Plm 	1 	15 	1 	10 	1 	that 	IN
+Plm 	1 	15 	1 	11 	1 	thou 	NN
+Plm 	1 	15 	1 	12 	1 	shouldest 	NN
+Plm 	1 	15 	1 	13 	1 	receive 	NN
+Plm 	1 	15 	1 	14 	1 	him 	PRP
+Plm 	1 	15 	1 	15 	1 	for 	IN
+Plm 	1 	15 	1 	16 	1 	ever 	RB
+Plm 	1 	15 	1 	17 	0 	;
+Plm 	1 	16 	1 	1 	1 	Not 	RB
+Plm 	1 	16 	1 	2 	1 	now 	RB
+Plm 	1 	16 	1 	3 	1 	as 	IN
+Plm 	1 	16 	1 	4 	1 	a 	DT
+Plm 	1 	16 	1 	5 	1 	servant 	NN
+Plm 	1 	16 	1 	6 	0 	,
+Plm 	1 	16 	1 	7 	1 	but 	CC
+Plm 	1 	16 	1 	8 	1 	above 	IN
+Plm 	1 	16 	1 	9 	1 	a 	DT
+Plm 	1 	16 	1 	10 	1 	servant 	NN
+Plm 	1 	16 	1 	11 	0 	,
+Plm 	1 	16 	1 	12 	1 	a 	DT
+Plm 	1 	16 	1 	13 	1 	brother 	NN
+Plm 	1 	16 	1 	14 	1 	beloved 	VBN
+Plm 	1 	16 	1 	15 	0 	,
+Plm 	1 	16 	1 	16 	1 	specially 	RB
+Plm 	1 	16 	1 	17 	1 	to 	TO
+Plm 	1 	16 	1 	18 	1 	me 	PRP
+Plm 	1 	16 	1 	19 	0 	,
+Plm 	1 	16 	1 	20 	1 	but 	CC
+Plm 	1 	16 	1 	21 	1 	how 	WRB
+Plm 	1 	16 	1 	22 	1 	much 	JJ
+Plm 	1 	16 	1 	23 	1 	more 	RBR
+Plm 	1 	16 	1 	24 	1 	unto 	NN
+Plm 	1 	16 	1 	25 	1 	thee 	NN
+Plm 	1 	16 	1 	26 	0 	,
+Plm 	1 	16 	1 	27 	1 	both 	DT
+Plm 	1 	16 	1 	28 	1 	in 	IN
+Plm 	1 	16 	1 	29 	1 	the 	DT
+Plm 	1 	16 	1 	30 	1 	flesh 	NN
+Plm 	1 	16 	1 	31 	0 	,
+Plm 	1 	16 	1 	32 	1 	and 	CC
+Plm 	1 	16 	1 	33 	1 	in 	IN
+Plm 	1 	16 	1 	34 	1 	the 	DT
+Plm 	1 	16 	1 	35 	1 	Lord 	NN
+Plm 	1 	16 	1 	36 	0 	?
+Plm 	1 	17 	1 	1 	1 	If 	IN
+Plm 	1 	17 	1 	2 	1 	thou 	NN
+Plm 	1 	17 	1 	3 	1 	count 	NN
+Plm 	1 	17 	1 	4 	1 	me 	PRP
+Plm 	1 	17 	1 	5 	1 	therefore 	RB
+Plm 	1 	17 	1 	6 	1 	a 	DT
+Plm 	1 	17 	1 	7 	1 	partner 	NN
+Plm 	1 	17 	1 	8 	0 	,
+Plm 	1 	17 	1 	9 	1 	receive 	NN
+Plm 	1 	17 	1 	10 	1 	him 	PRP
+Plm 	1 	17 	1 	11 	1 	as 	IN
+Plm 	1 	17 	1 	12 	1 	myself 	PRP
+Plm 	1 	17 	1 	13 	0 	.
+Plm 	1 	18 	1 	1 	1 	If 	IN
+Plm 	1 	18 	1 	2 	1 	he 	PRP
+Plm 	1 	18 	1 	3 	1 	hath 	NN
+Plm 	1 	18 	1 	4 	1 	wronged 	VBD
+Plm 	1 	18 	1 	5 	1 	thee 	NN
+Plm 	1 	18 	1 	6 	0 	,
+Plm 	1 	18 	1 	7 	1 	or 	CC
+Plm 	1 	18 	1 	8 	1 	oweth 	NNS
+Plm 	1 	18 	1 	9 	1 	thee 	NN
+Plm 	1 	18 	1 	10 	1 	ought 	MD
+Plm 	1 	18 	1 	11 	0 	,
+Plm 	1 	18 	1 	12 	1 	put 	NN
+Plm 	1 	18 	1 	13 	1 	that 	IN
+Plm 	1 	18 	1 	14 	1 	on 	IN
+Plm 	1 	18 	1 	15 	1 	mine 	NN
+Plm 	1 	18 	1 	16 	1 	account 	NN
+Plm 	1 	18 	1 	17 	0 	;
+Plm 	1 	19 	1 	1 	1 	I 	PRP
+Plm 	1 	19 	1 	2 	1 	Paul 	NNP
+Plm 	1 	19 	1 	3 	1 	have 	VB
+Plm 	1 	19 	1 	4 	1 	written 	VBN
+Plm 	1 	19 	1 	5 	1 	it 	PRP
+Plm 	1 	19 	1 	6 	1 	with 	IN
+Plm 	1 	19 	1 	7 	1 	mine 	NN
+Plm 	1 	19 	1 	8 	1 	own 	JJ
+Plm 	1 	19 	1 	9 	1 	hand 	NN
+Plm 	1 	19 	1 	10 	0 	,
+Plm 	1 	19 	1 	11 	1 	I 	PRP
+Plm 	1 	19 	1 	12 	1 	will 	MD
+Plm 	1 	19 	1 	13 	1 	repay 	NN
+Plm 	1 	19 	1 	14 	1 	it 	PRP
+Plm 	1 	19 	1 	15 	0 	:
+Plm 	1 	19 	1 	16 	1 	albeit 	NN
+Plm 	1 	19 	1 	17 	1 	I 	PRP
+Plm 	1 	19 	1 	18 	1 	do 	VB
+Plm 	1 	19 	1 	19 	1 	not 	RB
+Plm 	1 	19 	1 	20 	1 	say 	VB
+Plm 	1 	19 	1 	21 	1 	to 	TO
+Plm 	1 	19 	1 	22 	1 	thee 	NN
+Plm 	1 	19 	1 	23 	1 	how 	WRB
+Plm 	1 	19 	1 	24 	1 	thou 	NN
+Plm 	1 	19 	1 	25 	1 	owest 	JJS
+Plm 	1 	19 	1 	26 	1 	unto 	NN
+Plm 	1 	19 	1 	27 	1 	me 	PRP
+Plm 	1 	19 	1 	28 	1 	even 	RB
+Plm 	1 	19 	1 	29 	1 	thine 	NN
+Plm 	1 	19 	1 	30 	1 	own 	JJ
+Plm 	1 	19 	1 	31 	1 	self 	NN
+Plm 	1 	19 	1 	32 	1 	besides 	IN
+Plm 	1 	19 	1 	33 	0 	.
+Plm 	1 	20 	1 	1 	1 	Yea 	NN
+Plm 	1 	20 	1 	2 	0 	,
+Plm 	1 	20 	1 	3 	1 	brother 	NN
+Plm 	1 	20 	1 	4 	0 	,
+Plm 	1 	20 	1 	5 	1 	let 	VB
+Plm 	1 	20 	1 	6 	1 	me 	PRP
+Plm 	1 	20 	1 	7 	1 	have 	VB
+Plm 	1 	20 	1 	8 	1 	joy 	NN
+Plm 	1 	20 	1 	9 	1 	of 	IN
+Plm 	1 	20 	1 	10 	1 	thee 	NN
+Plm 	1 	20 	1 	11 	1 	in 	IN
+Plm 	1 	20 	1 	12 	1 	the 	DT
+Plm 	1 	20 	1 	13 	1 	Lord 	NN
+Plm 	1 	20 	1 	14 	0 	:
+Plm 	1 	20 	1 	15 	1 	refresh 	NN
+Plm 	1 	20 	1 	16 	1 	my 	PRP$
+Plm 	1 	20 	1 	17 	1 	bowels 	NNS
+Plm 	1 	20 	1 	18 	1 	in 	IN
+Plm 	1 	20 	1 	19 	1 	the 	DT
+Plm 	1 	20 	1 	20 	1 	Lord 	NN
+Plm 	1 	20 	1 	21 	0 	.
+Plm 	1 	21 	1 	1 	1 	Having 	VBG
+Plm 	1 	21 	1 	2 	1 	confidence 	NN
+Plm 	1 	21 	1 	3 	1 	in 	IN
+Plm 	1 	21 	1 	4 	1 	thy 	NN
+Plm 	1 	21 	1 	5 	1 	obedience 	NN
+Plm 	1 	21 	1 	6 	1 	I 	PRP
+Plm 	1 	21 	1 	7 	1 	wrote 	VBD
+Plm 	1 	21 	1 	8 	1 	unto 	NN
+Plm 	1 	21 	1 	9 	1 	thee 	NN
+Plm 	1 	21 	1 	10 	0 	,
+Plm 	1 	21 	1 	11 	1 	knowing 	VBG
+Plm 	1 	21 	1 	12 	1 	that 	IN
+Plm 	1 	21 	1 	13 	1 	thou 	NN
+Plm 	1 	21 	1 	14 	1 	wilt 	NN
+Plm 	1 	21 	1 	15 	1 	also 	RB
+Plm 	1 	21 	1 	16 	1 	do 	VB
+Plm 	1 	21 	1 	17 	1 	more 	RBR
+Plm 	1 	21 	1 	18 	1 	than 	IN
+Plm 	1 	21 	1 	19 	1 	I 	PRP
+Plm 	1 	21 	1 	20 	1 	say 	VB
+Plm 	1 	21 	1 	21 	0 	.
+Plm 	1 	22 	1 	1 	1 	But 	CC
+Plm 	1 	22 	1 	2 	1 	withal 	NN
+Plm 	1 	22 	1 	3 	1 	prepare 	NN
+Plm 	1 	22 	1 	4 	1 	me 	PRP
+Plm 	1 	22 	1 	5 	1 	also 	RB
+Plm 	1 	22 	1 	6 	1 	a 	DT
+Plm 	1 	22 	1 	7 	1 	lodging 	VBG
+Plm 	1 	22 	1 	8 	0 	:
+Plm 	1 	22 	1 	9 	1 	for 	IN
+Plm 	1 	22 	1 	10 	1 	I 	PRP
+Plm 	1 	22 	1 	11 	1 	trust 	NN
+Plm 	1 	22 	1 	12 	1 	that 	IN
+Plm 	1 	22 	1 	13 	1 	through 	IN
+Plm 	1 	22 	1 	14 	1 	your 	PRP$
+Plm 	1 	22 	1 	15 	1 	prayers 	NNS
+Plm 	1 	22 	1 	16 	1 	I 	PRP
+Plm 	1 	22 	1 	17 	1 	shall 	MD
+Plm 	1 	22 	1 	18 	1 	be 	VB
+Plm 	1 	22 	1 	19 	1 	given 	VBN
+Plm 	1 	22 	1 	20 	1 	unto 	NN
+Plm 	1 	22 	1 	21 	1 	you 	PRP
+Plm 	1 	22 	1 	22 	0 	.
+Plm 	1 	23 	1 	1 	1 	There 	EX
+Plm 	1 	23 	1 	2 	1 	salute 	NN
+Plm 	1 	23 	1 	3 	1 	thee 	NN
+Plm 	1 	23 	1 	4 	1 	Epaphras 	NNS
+Plm 	1 	23 	1 	5 	0 	,
+Plm 	1 	23 	1 	6 	1 	my 	PRP$
+Plm 	1 	23 	1 	7 	1 	fellowprisoner 	NN
+Plm 	1 	23 	1 	8 	1 	in 	IN
+Plm 	1 	23 	1 	9 	1 	Christ 	NN
+Plm 	1 	23 	1 	10 	1 	Jesus 	NN
+Plm 	1 	23 	1 	11 	0 	;
+Plm 	1 	24 	1 	1 	1 	Marcus 	NN
+Plm 	1 	24 	1 	2 	0 	,
+Plm 	1 	24 	1 	3 	1 	Aristarchus 	RB
+Plm 	1 	24 	1 	4 	0 	,
+Plm 	1 	24 	1 	5 	1 	Demas 	NN
+Plm 	1 	24 	1 	6 	0 	,
+Plm 	1 	24 	1 	7 	1 	Lucas 	NN
+Plm 	1 	24 	1 	8 	0 	,
+Plm 	1 	24 	1 	9 	1 	my 	PRP$
+Plm 	1 	24 	1 	10 	1 	fellowlabourers 	NNS
+Plm 	1 	24 	1 	11 	0 	.
+Plm 	1 	25 	1 	1 	1 	The 	DT
+Plm 	1 	25 	1 	2 	1 	grace 	NN
+Plm 	1 	25 	1 	3 	1 	of 	IN
+Plm 	1 	25 	1 	4 	1 	our 	PRP$
+Plm 	1 	25 	1 	5 	1 	Lord 	NN
+Plm 	1 	25 	1 	6 	1 	Jesus 	NN
+Plm 	1 	25 	1 	7 	1 	Christ 	NN
+Plm 	1 	25 	1 	8 	1 	be 	VB
+Plm 	1 	25 	1 	9 	1 	with 	IN
+Plm 	1 	25 	1 	10 	1 	your 	PRP$
+Plm 	1 	25 	1 	11 	1 	spirit 	NN
+Plm 	1 	25 	1 	12 	0 	.
+Plm 	1 	25 	2 	1 	1 	Amen 	NNS
+Plm 	1 	25 	2 	2 	0 	.

@@ -1,0 +1,1067 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Tit 	1 	1 	1 	1 	1 	Paul 	NNP
+Tit 	1 	1 	1 	2 	0 	,
+Tit 	1 	1 	1 	3 	1 	a 	DT
+Tit 	1 	1 	1 	4 	1 	servant 	NN
+Tit 	1 	1 	1 	5 	1 	of 	IN
+Tit 	1 	1 	1 	6 	1 	God 	NNP
+Tit 	1 	1 	1 	7 	0 	,
+Tit 	1 	1 	1 	8 	1 	and 	CC
+Tit 	1 	1 	1 	9 	1 	an 	DT
+Tit 	1 	1 	1 	10 	1 	apostle 	NN
+Tit 	1 	1 	1 	11 	1 	of 	IN
+Tit 	1 	1 	1 	12 	1 	Jesus 	NN
+Tit 	1 	1 	1 	13 	1 	Christ 	NN
+Tit 	1 	1 	1 	14 	0 	,
+Tit 	1 	1 	1 	15 	1 	according 	VBG
+Tit 	1 	1 	1 	16 	1 	to 	TO
+Tit 	1 	1 	1 	17 	1 	the 	DT
+Tit 	1 	1 	1 	18 	1 	faith 	NN
+Tit 	1 	1 	1 	19 	1 	of 	IN
+Tit 	1 	1 	1 	20 	1 	God 	NNP
+Tit 	1 	1 	1 	21 	0 	's
+Tit 	1 	1 	1 	22 	1 	elect 	NN
+Tit 	1 	1 	1 	23 	0 	,
+Tit 	1 	1 	1 	24 	1 	and 	CC
+Tit 	1 	1 	1 	25 	1 	the 	DT
+Tit 	1 	1 	1 	26 	1 	acknowledging 	VBG
+Tit 	1 	1 	1 	27 	1 	of 	IN
+Tit 	1 	1 	1 	28 	1 	the 	DT
+Tit 	1 	1 	1 	29 	1 	truth 	NN
+Tit 	1 	1 	1 	30 	1 	which 	WDT
+Tit 	1 	1 	1 	31 	1 	is 	VBZ
+Tit 	1 	1 	1 	32 	1 	after 	IN
+Tit 	1 	1 	1 	33 	1 	godliness 	NN
+Tit 	1 	1 	1 	34 	0 	;
+Tit 	1 	2 	1 	1 	1 	In 	IN
+Tit 	1 	2 	1 	2 	1 	hope 	NN
+Tit 	1 	2 	1 	3 	1 	of 	IN
+Tit 	1 	2 	1 	4 	1 	eternal 	JJ
+Tit 	1 	2 	1 	5 	1 	life 	NN
+Tit 	1 	2 	1 	6 	0 	,
+Tit 	1 	2 	1 	7 	1 	which 	WDT
+Tit 	1 	2 	1 	8 	1 	God 	NNP
+Tit 	1 	2 	1 	9 	0 	,
+Tit 	1 	2 	1 	10 	1 	that 	IN
+Tit 	1 	2 	1 	11 	1 	can 	MD
+Tit 	1 	2 	1 	12 	1 	not 	RB
+Tit 	1 	2 	1 	13 	1 	lie 	NN
+Tit 	1 	2 	1 	14 	0 	,
+Tit 	1 	2 	1 	15 	1 	promised 	VBN
+Tit 	1 	2 	1 	16 	1 	before 	IN
+Tit 	1 	2 	1 	17 	1 	the 	DT
+Tit 	1 	2 	1 	18 	1 	world 	NN
+Tit 	1 	2 	1 	19 	1 	began 	VBD
+Tit 	1 	2 	1 	20 	0 	;
+Tit 	1 	3 	1 	1 	1 	But 	CC
+Tit 	1 	3 	1 	2 	1 	hath 	NN
+Tit 	1 	3 	1 	3 	1 	in 	IN
+Tit 	1 	3 	1 	4 	1 	due 	JJ
+Tit 	1 	3 	1 	5 	1 	times 	NNS
+Tit 	1 	3 	1 	6 	1 	manifested 	VBN
+Tit 	1 	3 	1 	7 	1 	his 	PRP$
+Tit 	1 	3 	1 	8 	1 	word 	NN
+Tit 	1 	3 	1 	9 	1 	through 	IN
+Tit 	1 	3 	1 	10 	1 	preaching 	VBG
+Tit 	1 	3 	1 	11 	0 	,
+Tit 	1 	3 	1 	12 	1 	which 	WDT
+Tit 	1 	3 	1 	13 	1 	is 	VBZ
+Tit 	1 	3 	1 	14 	1 	committed 	VBN
+Tit 	1 	3 	1 	15 	1 	unto 	NN
+Tit 	1 	3 	1 	16 	1 	me 	PRP
+Tit 	1 	3 	1 	17 	1 	according 	VBG
+Tit 	1 	3 	1 	18 	1 	to 	TO
+Tit 	1 	3 	1 	19 	1 	the 	DT
+Tit 	1 	3 	1 	20 	1 	commandment 	NN
+Tit 	1 	3 	1 	21 	1 	of 	IN
+Tit 	1 	3 	1 	22 	1 	God 	NNP
+Tit 	1 	3 	1 	23 	1 	our 	PRP$
+Tit 	1 	3 	1 	24 	1 	Saviour 	NN
+Tit 	1 	3 	1 	25 	0 	;
+Tit 	1 	4 	1 	1 	1 	o 	NN
+Tit 	1 	4 	1 	2 	1 	Titus 	NN
+Tit 	1 	4 	1 	3 	0 	,
+Tit 	1 	4 	1 	4 	1 	mine 	NN
+Tit 	1 	4 	1 	5 	1 	own 	JJ
+Tit 	1 	4 	1 	6 	1 	son 	NN
+Tit 	1 	4 	1 	7 	1 	after 	IN
+Tit 	1 	4 	1 	8 	1 	the 	DT
+Tit 	1 	4 	1 	9 	1 	common 	JJ
+Tit 	1 	4 	1 	10 	1 	faith 	NN
+Tit 	1 	4 	1 	11 	0 	:
+Tit 	1 	4 	1 	12 	1 	Grace 	NN
+Tit 	1 	4 	1 	13 	0 	,
+Tit 	1 	4 	1 	14 	1 	mercy 	NN
+Tit 	1 	4 	1 	15 	0 	,
+Tit 	1 	4 	1 	16 	1 	and 	CC
+Tit 	1 	4 	1 	17 	1 	peace 	NN
+Tit 	1 	4 	1 	18 	0 	,
+Tit 	1 	4 	1 	19 	1 	from 	IN
+Tit 	1 	4 	1 	20 	1 	God 	NNP
+Tit 	1 	4 	1 	21 	1 	the 	DT
+Tit 	1 	4 	1 	22 	1 	Father 	NN
+Tit 	1 	4 	1 	23 	1 	and 	CC
+Tit 	1 	4 	1 	24 	1 	the 	DT
+Tit 	1 	4 	1 	25 	1 	Lord 	NN
+Tit 	1 	4 	1 	26 	1 	Jesus 	NN
+Tit 	1 	4 	1 	27 	1 	Christ 	NN
+Tit 	1 	4 	1 	28 	1 	our 	PRP$
+Tit 	1 	4 	1 	29 	1 	Saviour 	NN
+Tit 	1 	4 	1 	30 	0 	.
+Tit 	1 	5 	1 	1 	1 	For 	IN
+Tit 	1 	5 	1 	2 	1 	this 	DT
+Tit 	1 	5 	1 	3 	1 	cause 	NN
+Tit 	1 	5 	1 	4 	1 	left 	NN
+Tit 	1 	5 	1 	5 	1 	I 	PRP
+Tit 	1 	5 	1 	6 	1 	thee 	NN
+Tit 	1 	5 	1 	7 	1 	in 	IN
+Tit 	1 	5 	1 	8 	1 	Crete 	NNP
+Tit 	1 	5 	1 	9 	0 	,
+Tit 	1 	5 	1 	10 	1 	that 	IN
+Tit 	1 	5 	1 	11 	1 	thou 	NN
+Tit 	1 	5 	1 	12 	1 	shouldest 	NN
+Tit 	1 	5 	1 	13 	1 	set 	NN
+Tit 	1 	5 	1 	14 	1 	in 	IN
+Tit 	1 	5 	1 	15 	1 	order 	NN
+Tit 	1 	5 	1 	16 	1 	the 	DT
+Tit 	1 	5 	1 	17 	1 	things 	NNS
+Tit 	1 	5 	1 	18 	1 	that 	IN
+Tit 	1 	5 	1 	19 	1 	are 	VBP
+Tit 	1 	5 	1 	20 	1 	wanting 	VBG
+Tit 	1 	5 	1 	21 	0 	,
+Tit 	1 	5 	1 	22 	1 	and 	CC
+Tit 	1 	5 	1 	23 	1 	ordain 	NN
+Tit 	1 	5 	1 	24 	1 	elders 	NNS
+Tit 	1 	5 	1 	25 	1 	in 	IN
+Tit 	1 	5 	1 	26 	1 	every 	DT
+Tit 	1 	5 	1 	27 	1 	city 	NN
+Tit 	1 	5 	1 	28 	0 	,
+Tit 	1 	5 	1 	29 	1 	as 	IN
+Tit 	1 	5 	1 	30 	1 	I 	PRP
+Tit 	1 	5 	1 	31 	1 	had 	VBD
+Tit 	1 	5 	1 	32 	1 	appointed 	VBN
+Tit 	1 	5 	1 	33 	1 	thee 	NN
+Tit 	1 	5 	1 	34 	0 	:
+Tit 	1 	6 	1 	1 	1 	If 	IN
+Tit 	1 	6 	1 	2 	1 	any 	DT
+Tit 	1 	6 	1 	3 	1 	be 	VB
+Tit 	1 	6 	1 	4 	1 	blameless 	NN
+Tit 	1 	6 	1 	5 	0 	,
+Tit 	1 	6 	1 	6 	1 	the 	DT
+Tit 	1 	6 	1 	7 	1 	husband 	NN
+Tit 	1 	6 	1 	8 	1 	of 	IN
+Tit 	1 	6 	1 	9 	1 	one 	CD
+Tit 	1 	6 	1 	10 	1 	wife 	NN
+Tit 	1 	6 	1 	11 	0 	,
+Tit 	1 	6 	1 	12 	1 	having 	VBG
+Tit 	1 	6 	1 	13 	1 	faithful 	NN
+Tit 	1 	6 	1 	14 	1 	children 	NNS
+Tit 	1 	6 	1 	15 	1 	not 	RB
+Tit 	1 	6 	1 	16 	1 	accused 	VBN
+Tit 	1 	6 	1 	17 	1 	of 	IN
+Tit 	1 	6 	1 	18 	1 	riot 	NN
+Tit 	1 	6 	1 	19 	1 	or 	CC
+Tit 	1 	6 	1 	20 	1 	unruly 	RB
+Tit 	1 	6 	1 	21 	0 	.
+Tit 	1 	7 	1 	1 	1 	For 	IN
+Tit 	1 	7 	1 	2 	1 	a 	DT
+Tit 	1 	7 	1 	3 	1 	bishop 	NN
+Tit 	1 	7 	1 	4 	1 	must 	MD
+Tit 	1 	7 	1 	5 	1 	be 	VB
+Tit 	1 	7 	1 	6 	1 	blameless 	NN
+Tit 	1 	7 	1 	7 	0 	,
+Tit 	1 	7 	1 	8 	1 	as 	IN
+Tit 	1 	7 	1 	9 	1 	the 	DT
+Tit 	1 	7 	1 	10 	1 	steward 	NN
+Tit 	1 	7 	1 	11 	1 	of 	IN
+Tit 	1 	7 	1 	12 	1 	God 	NNP
+Tit 	1 	7 	1 	13 	0 	;
+Tit 	1 	7 	1 	14 	1 	not 	RB
+Tit 	1 	7 	1 	15 	1 	selfwilled 	VBN
+Tit 	1 	7 	1 	16 	0 	,
+Tit 	1 	7 	1 	17 	1 	not 	RB
+Tit 	1 	7 	1 	18 	1 	soon 	RB
+Tit 	1 	7 	1 	19 	1 	angry 	JJ
+Tit 	1 	7 	1 	20 	0 	,
+Tit 	1 	7 	1 	21 	1 	not 	RB
+Tit 	1 	7 	1 	22 	1 	given 	VBN
+Tit 	1 	7 	1 	23 	1 	to 	TO
+Tit 	1 	7 	1 	24 	1 	wine 	NN
+Tit 	1 	7 	1 	25 	0 	,
+Tit 	1 	7 	1 	26 	1 	no 	DT
+Tit 	1 	7 	1 	27 	1 	striker 	NN
+Tit 	1 	7 	1 	28 	0 	,
+Tit 	1 	7 	1 	29 	1 	not 	RB
+Tit 	1 	7 	1 	30 	1 	given 	VBN
+Tit 	1 	7 	1 	31 	1 	to 	TO
+Tit 	1 	7 	1 	32 	1 	filthy 	NN
+Tit 	1 	7 	1 	33 	1 	lucre 	NN
+Tit 	1 	7 	1 	34 	0 	;
+Tit 	1 	8 	1 	1 	1 	But 	CC
+Tit 	1 	8 	1 	2 	1 	a 	DT
+Tit 	1 	8 	1 	3 	1 	lover 	NN
+Tit 	1 	8 	1 	4 	1 	of 	IN
+Tit 	1 	8 	1 	5 	1 	hospitality 	NN
+Tit 	1 	8 	1 	6 	0 	,
+Tit 	1 	8 	1 	7 	1 	a 	DT
+Tit 	1 	8 	1 	8 	1 	lover 	NN
+Tit 	1 	8 	1 	9 	1 	of 	IN
+Tit 	1 	8 	1 	10 	1 	good 	JJ
+Tit 	1 	8 	1 	11 	1 	men 	NNS
+Tit 	1 	8 	1 	12 	0 	,
+Tit 	1 	8 	1 	13 	1 	sober 	NN
+Tit 	1 	8 	1 	14 	0 	,
+Tit 	1 	8 	1 	15 	1 	just 	RB
+Tit 	1 	8 	1 	16 	0 	,
+Tit 	1 	8 	1 	17 	1 	holy 	NN
+Tit 	1 	8 	1 	18 	0 	,
+Tit 	1 	8 	1 	19 	1 	temperate 	NN
+Tit 	1 	8 	1 	20 	0 	;
+Tit 	1 	9 	1 	1 	1 	Holding 	VBG
+Tit 	1 	9 	1 	2 	1 	fast 	NN
+Tit 	1 	9 	1 	3 	1 	the 	DT
+Tit 	1 	9 	1 	4 	1 	faithful 	NN
+Tit 	1 	9 	1 	5 	1 	word 	NN
+Tit 	1 	9 	1 	6 	1 	as 	IN
+Tit 	1 	9 	1 	7 	1 	he 	PRP
+Tit 	1 	9 	1 	8 	1 	hath 	NN
+Tit 	1 	9 	1 	9 	1 	been 	VBN
+Tit 	1 	9 	1 	10 	1 	taught 	NN
+Tit 	1 	9 	1 	11 	0 	,
+Tit 	1 	9 	1 	12 	1 	that 	IN
+Tit 	1 	9 	1 	13 	1 	he 	PRP
+Tit 	1 	9 	1 	14 	1 	may 	MD
+Tit 	1 	9 	1 	15 	1 	be 	VB
+Tit 	1 	9 	1 	16 	1 	able 	JJ
+Tit 	1 	9 	1 	17 	1 	by 	IN
+Tit 	1 	9 	1 	18 	1 	sound 	NN
+Tit 	1 	9 	1 	19 	1 	doctrine 	NN
+Tit 	1 	9 	1 	20 	1 	both 	DT
+Tit 	1 	9 	1 	21 	1 	to 	TO
+Tit 	1 	9 	1 	22 	1 	exhort 	NN
+Tit 	1 	9 	1 	23 	1 	and 	CC
+Tit 	1 	9 	1 	24 	1 	to 	TO
+Tit 	1 	9 	1 	25 	1 	convince 	NN
+Tit 	1 	9 	1 	26 	1 	the 	DT
+Tit 	1 	9 	1 	27 	1 	gainsayers 	NNS
+Tit 	1 	9 	1 	28 	0 	.
+Tit 	1 	10 	1 	1 	1 	For 	IN
+Tit 	1 	10 	1 	2 	1 	there 	RB
+Tit 	1 	10 	1 	3 	1 	are 	VBP
+Tit 	1 	10 	1 	4 	1 	many 	JJ
+Tit 	1 	10 	1 	5 	1 	unruly 	RB
+Tit 	1 	10 	1 	6 	1 	and 	CC
+Tit 	1 	10 	1 	7 	1 	vain 	NN
+Tit 	1 	10 	1 	8 	1 	talkers 	NNS
+Tit 	1 	10 	1 	9 	1 	and 	CC
+Tit 	1 	10 	1 	10 	1 	deceivers 	NNS
+Tit 	1 	10 	1 	11 	0 	,
+Tit 	1 	10 	1 	12 	1 	specially 	RB
+Tit 	1 	10 	1 	13 	1 	they 	PRP
+Tit 	1 	10 	1 	14 	1 	of 	IN
+Tit 	1 	10 	1 	15 	1 	the 	DT
+Tit 	1 	10 	1 	16 	1 	circumcision 	NN
+Tit 	1 	10 	1 	17 	0 	:
+Tit 	1 	11 	1 	1 	1 	Whose 	VB
+Tit 	1 	11 	1 	2 	1 	mouths 	NNS
+Tit 	1 	11 	1 	3 	1 	must 	MD
+Tit 	1 	11 	1 	4 	1 	be 	VB
+Tit 	1 	11 	1 	5 	1 	stopped 	VBD
+Tit 	1 	11 	1 	6 	0 	,
+Tit 	1 	11 	1 	7 	1 	who 	WP
+Tit 	1 	11 	1 	8 	1 	subvert 	NN
+Tit 	1 	11 	1 	9 	1 	whole 	JJ
+Tit 	1 	11 	1 	10 	1 	houses 	NNS
+Tit 	1 	11 	1 	11 	0 	,
+Tit 	1 	11 	1 	12 	1 	teaching 	VBG
+Tit 	1 	11 	1 	13 	1 	things 	NNS
+Tit 	1 	11 	1 	14 	1 	which 	WDT
+Tit 	1 	11 	1 	15 	1 	they 	PRP
+Tit 	1 	11 	1 	16 	1 	ought 	MD
+Tit 	1 	11 	1 	17 	1 	not 	RB
+Tit 	1 	11 	1 	18 	0 	,
+Tit 	1 	11 	1 	19 	1 	for 	IN
+Tit 	1 	11 	1 	20 	1 	filthy 	NN
+Tit 	1 	11 	1 	21 	1 	lucre 	NN
+Tit 	1 	11 	1 	22 	0 	's
+Tit 	1 	11 	1 	23 	1 	sake 	NN
+Tit 	1 	11 	1 	24 	0 	.
+Tit 	1 	12 	1 	1 	1 	One 	CD
+Tit 	1 	12 	1 	2 	1 	of 	IN
+Tit 	1 	12 	1 	3 	1 	themselves 	PRP
+Tit 	1 	12 	1 	4 	0 	,
+Tit 	1 	12 	1 	5 	1 	even 	RB
+Tit 	1 	12 	1 	6 	1 	a 	DT
+Tit 	1 	12 	1 	7 	1 	prophet 	NN
+Tit 	1 	12 	1 	8 	1 	of 	IN
+Tit 	1 	12 	1 	9 	1 	their 	PRP$
+Tit 	1 	12 	1 	10 	1 	own 	JJ
+Tit 	1 	12 	1 	11 	0 	,
+Tit 	1 	12 	1 	12 	1 	said 	VBD
+Tit 	1 	12 	1 	13 	0 	,
+Tit 	1 	12 	1 	14 	1 	The 	DT
+Tit 	1 	12 	1 	15 	1 	Cretians 	NNS
+Tit 	1 	12 	1 	16 	1 	are 	VBP
+Tit 	1 	12 	1 	17 	1 	alway 	RB
+Tit 	1 	12 	1 	18 	1 	liars 	NNS
+Tit 	1 	12 	1 	19 	0 	,
+Tit 	1 	12 	1 	20 	1 	evil 	NN
+Tit 	1 	12 	1 	21 	1 	beasts 	NNS
+Tit 	1 	12 	1 	22 	0 	,
+Tit 	1 	12 	1 	23 	1 	slow 	VB
+Tit 	1 	12 	1 	24 	1 	bellies 	NNS
+Tit 	1 	12 	1 	25 	0 	.
+Tit 	1 	13 	1 	1 	1 	his 	PRP$
+Tit 	1 	13 	1 	2 	1 	witness 	NN
+Tit 	1 	13 	1 	3 	1 	is 	VBZ
+Tit 	1 	13 	1 	4 	1 	true 	JJ
+Tit 	1 	13 	1 	5 	0 	.
+Tit 	1 	13 	2 	1 	1 	Wherefore 	IN
+Tit 	1 	13 	2 	2 	1 	rebuke 	NN
+Tit 	1 	13 	2 	3 	1 	them 	PRP
+Tit 	1 	13 	2 	4 	1 	sharply 	RB
+Tit 	1 	13 	2 	5 	0 	,
+Tit 	1 	13 	2 	6 	1 	that 	IN
+Tit 	1 	13 	2 	7 	1 	they 	PRP
+Tit 	1 	13 	2 	8 	1 	may 	MD
+Tit 	1 	13 	2 	9 	1 	be 	VB
+Tit 	1 	13 	2 	10 	1 	sound 	NN
+Tit 	1 	13 	2 	11 	1 	in 	IN
+Tit 	1 	13 	2 	12 	1 	the 	DT
+Tit 	1 	13 	2 	13 	1 	faith 	NN
+Tit 	1 	13 	2 	14 	0 	;
+Tit 	1 	14 	1 	1 	1 	Not 	RB
+Tit 	1 	14 	1 	2 	1 	giving 	VBG
+Tit 	1 	14 	1 	3 	1 	heed 	NN
+Tit 	1 	14 	1 	4 	1 	to 	TO
+Tit 	1 	14 	1 	5 	1 	Jewish 	JJ
+Tit 	1 	14 	1 	6 	1 	fables 	NNS
+Tit 	1 	14 	1 	7 	0 	,
+Tit 	1 	14 	1 	8 	1 	and 	CC
+Tit 	1 	14 	1 	9 	1 	commandments 	NNS
+Tit 	1 	14 	1 	10 	1 	of 	IN
+Tit 	1 	14 	1 	11 	1 	men 	NNS
+Tit 	1 	14 	1 	12 	0 	,
+Tit 	1 	14 	1 	13 	1 	that 	IN
+Tit 	1 	14 	1 	14 	1 	turn 	NN
+Tit 	1 	14 	1 	15 	1 	from 	IN
+Tit 	1 	14 	1 	16 	1 	the 	DT
+Tit 	1 	14 	1 	17 	1 	truth 	NN
+Tit 	1 	14 	1 	18 	0 	.
+Tit 	1 	15 	1 	1 	1 	Unto 	IN
+Tit 	1 	15 	1 	2 	1 	the 	DT
+Tit 	1 	15 	1 	3 	1 	pure 	NN
+Tit 	1 	15 	1 	4 	1 	all 	DT
+Tit 	1 	15 	1 	5 	1 	things 	NNS
+Tit 	1 	15 	1 	6 	1 	are 	VBP
+Tit 	1 	15 	1 	7 	1 	pure 	NN
+Tit 	1 	15 	1 	8 	0 	:
+Tit 	1 	15 	1 	9 	1 	but 	CC
+Tit 	1 	15 	1 	10 	1 	unto 	NN
+Tit 	1 	15 	1 	11 	1 	them 	PRP
+Tit 	1 	15 	1 	12 	1 	that 	IN
+Tit 	1 	15 	1 	13 	1 	are 	VBP
+Tit 	1 	15 	1 	14 	1 	defiled 	VBN
+Tit 	1 	15 	1 	15 	1 	and 	CC
+Tit 	1 	15 	1 	16 	1 	unbelieving 	VBG
+Tit 	1 	15 	1 	17 	1 	is 	VBZ
+Tit 	1 	15 	1 	18 	1 	nothing 	NN
+Tit 	1 	15 	1 	19 	1 	pure 	NN
+Tit 	1 	15 	1 	20 	0 	;
+Tit 	1 	15 	1 	21 	1 	but 	CC
+Tit 	1 	15 	1 	22 	1 	even 	RB
+Tit 	1 	15 	1 	23 	1 	their 	PRP$
+Tit 	1 	15 	1 	24 	1 	mind 	NN
+Tit 	1 	15 	1 	25 	1 	and 	CC
+Tit 	1 	15 	1 	26 	1 	conscience 	NN
+Tit 	1 	15 	1 	27 	1 	is 	VBZ
+Tit 	1 	15 	1 	28 	1 	defiled 	VBN
+Tit 	1 	15 	1 	29 	0 	.
+Tit 	1 	16 	1 	1 	1 	hey 	NN
+Tit 	1 	16 	1 	2 	1 	profess 	NN
+Tit 	1 	16 	1 	3 	1 	that 	IN
+Tit 	1 	16 	1 	4 	1 	they 	PRP
+Tit 	1 	16 	1 	5 	1 	know 	VB
+Tit 	1 	16 	1 	6 	1 	God 	NNP
+Tit 	1 	16 	1 	7 	0 	;
+Tit 	1 	16 	1 	8 	1 	but 	CC
+Tit 	1 	16 	1 	9 	1 	in 	IN
+Tit 	1 	16 	1 	10 	1 	works 	NNS
+Tit 	1 	16 	1 	11 	1 	they 	PRP
+Tit 	1 	16 	1 	12 	1 	deny 	NN
+Tit 	1 	16 	1 	13 	1 	him 	PRP
+Tit 	1 	16 	1 	14 	0 	,
+Tit 	1 	16 	1 	15 	1 	being 	VBG
+Tit 	1 	16 	1 	16 	1 	abominable 	JJ
+Tit 	1 	16 	1 	17 	0 	,
+Tit 	1 	16 	1 	18 	1 	and 	CC
+Tit 	1 	16 	1 	19 	1 	disobedient 	NN
+Tit 	1 	16 	1 	20 	0 	,
+Tit 	1 	16 	1 	21 	1 	and 	CC
+Tit 	1 	16 	1 	22 	1 	unto 	NN
+Tit 	1 	16 	1 	23 	1 	every 	DT
+Tit 	1 	16 	1 	24 	1 	good 	JJ
+Tit 	1 	16 	1 	25 	1 	work 	NN
+Tit 	1 	16 	1 	26 	1 	reprobate 	NN
+Tit 	1 	16 	1 	27 	0 	.
+Tit 	2 	1 	1 	1 	1 	But 	CC
+Tit 	2 	1 	1 	2 	1 	speak 	NN
+Tit 	2 	1 	1 	3 	1 	thou 	NN
+Tit 	2 	1 	1 	4 	1 	the 	DT
+Tit 	2 	1 	1 	5 	1 	things 	NNS
+Tit 	2 	1 	1 	6 	1 	which 	WDT
+Tit 	2 	1 	1 	7 	1 	become 	NN
+Tit 	2 	1 	1 	8 	1 	sound 	NN
+Tit 	2 	1 	1 	9 	1 	doctrine 	NN
+Tit 	2 	1 	1 	10 	0 	:
+Tit 	2 	2 	1 	1 	1 	hat 	NN
+Tit 	2 	2 	1 	2 	1 	the 	DT
+Tit 	2 	2 	1 	3 	1 	aged 	VBN
+Tit 	2 	2 	1 	4 	1 	men 	NNS
+Tit 	2 	2 	1 	5 	1 	be 	VB
+Tit 	2 	2 	1 	6 	1 	sober 	NN
+Tit 	2 	2 	1 	7 	0 	,
+Tit 	2 	2 	1 	8 	1 	grave 	NN
+Tit 	2 	2 	1 	9 	0 	,
+Tit 	2 	2 	1 	10 	1 	temperate 	NN
+Tit 	2 	2 	1 	11 	0 	,
+Tit 	2 	2 	1 	12 	1 	sound 	NN
+Tit 	2 	2 	1 	13 	1 	in 	IN
+Tit 	2 	2 	1 	14 	1 	faith 	NN
+Tit 	2 	2 	1 	15 	0 	,
+Tit 	2 	2 	1 	16 	1 	in 	IN
+Tit 	2 	2 	1 	17 	1 	charity 	NN
+Tit 	2 	2 	1 	18 	0 	,
+Tit 	2 	2 	1 	19 	1 	in 	IN
+Tit 	2 	2 	1 	20 	1 	patience 	NN
+Tit 	2 	2 	1 	21 	0 	.
+Tit 	2 	3 	1 	1 	1 	he 	PRP
+Tit 	2 	3 	1 	2 	1 	aged 	VBN
+Tit 	2 	3 	1 	3 	1 	women 	NNS
+Tit 	2 	3 	1 	4 	1 	likewise 	RB
+Tit 	2 	3 	1 	5 	0 	,
+Tit 	2 	3 	1 	6 	1 	that 	IN
+Tit 	2 	3 	1 	7 	1 	they 	PRP
+Tit 	2 	3 	1 	8 	1 	be 	VB
+Tit 	2 	3 	1 	9 	1 	in 	IN
+Tit 	2 	3 	1 	10 	1 	behaviour 	NN
+Tit 	2 	3 	1 	11 	1 	as 	IN
+Tit 	2 	3 	1 	12 	1 	becometh 	NN
+Tit 	2 	3 	1 	13 	1 	holiness 	NN
+Tit 	2 	3 	1 	14 	0 	,
+Tit 	2 	3 	1 	15 	1 	not 	RB
+Tit 	2 	3 	1 	16 	1 	false 	JJ
+Tit 	2 	3 	1 	17 	1 	accusers 	NNS
+Tit 	2 	3 	1 	18 	0 	,
+Tit 	2 	3 	1 	19 	1 	not 	RB
+Tit 	2 	3 	1 	20 	1 	given 	VBN
+Tit 	2 	3 	1 	21 	1 	to 	TO
+Tit 	2 	3 	1 	22 	1 	much 	JJ
+Tit 	2 	3 	1 	23 	1 	wine 	NN
+Tit 	2 	3 	1 	24 	0 	,
+Tit 	2 	3 	1 	25 	1 	teachers 	NNS
+Tit 	2 	3 	1 	26 	1 	of 	IN
+Tit 	2 	3 	1 	27 	1 	good 	JJ
+Tit 	2 	3 	1 	28 	1 	things 	NNS
+Tit 	2 	3 	1 	29 	0 	;
+Tit 	2 	4 	1 	1 	1 	hat 	NN
+Tit 	2 	4 	1 	2 	1 	they 	PRP
+Tit 	2 	4 	1 	3 	1 	may 	MD
+Tit 	2 	4 	1 	4 	1 	teach 	NN
+Tit 	2 	4 	1 	5 	1 	the 	DT
+Tit 	2 	4 	1 	6 	1 	young 	JJ
+Tit 	2 	4 	1 	7 	1 	women 	NNS
+Tit 	2 	4 	1 	8 	1 	to 	TO
+Tit 	2 	4 	1 	9 	1 	be 	VB
+Tit 	2 	4 	1 	10 	1 	sober 	NN
+Tit 	2 	4 	1 	11 	0 	,
+Tit 	2 	4 	1 	12 	1 	to 	TO
+Tit 	2 	4 	1 	13 	1 	love 	NN
+Tit 	2 	4 	1 	14 	1 	their 	PRP$
+Tit 	2 	4 	1 	15 	1 	husbands 	NNS
+Tit 	2 	4 	1 	16 	0 	,
+Tit 	2 	4 	1 	17 	1 	to 	TO
+Tit 	2 	4 	1 	18 	1 	love 	NN
+Tit 	2 	4 	1 	19 	1 	their 	PRP$
+Tit 	2 	4 	1 	20 	1 	children 	NNS
+Tit 	2 	4 	1 	21 	0 	,
+Tit 	2 	5 	1 	1 	1 	o 	NN
+Tit 	2 	5 	1 	2 	1 	be 	VB
+Tit 	2 	5 	1 	3 	1 	discreet 	NN
+Tit 	2 	5 	1 	4 	0 	,
+Tit 	2 	5 	1 	5 	1 	chaste 	NN
+Tit 	2 	5 	1 	6 	0 	,
+Tit 	2 	5 	1 	7 	1 	keepers 	NNS
+Tit 	2 	5 	1 	8 	1 	at 	IN
+Tit 	2 	5 	1 	9 	1 	home 	NN
+Tit 	2 	5 	1 	10 	0 	,
+Tit 	2 	5 	1 	11 	1 	good 	JJ
+Tit 	2 	5 	1 	12 	0 	,
+Tit 	2 	5 	1 	13 	1 	obedient 	NN
+Tit 	2 	5 	1 	14 	1 	to 	TO
+Tit 	2 	5 	1 	15 	1 	their 	PRP$
+Tit 	2 	5 	1 	16 	1 	own 	JJ
+Tit 	2 	5 	1 	17 	1 	husbands 	NNS
+Tit 	2 	5 	1 	18 	0 	,
+Tit 	2 	5 	1 	19 	1 	that 	IN
+Tit 	2 	5 	1 	20 	1 	the 	DT
+Tit 	2 	5 	1 	21 	1 	word 	NN
+Tit 	2 	5 	1 	22 	1 	of 	IN
+Tit 	2 	5 	1 	23 	1 	God 	NNP
+Tit 	2 	5 	1 	24 	1 	be 	VB
+Tit 	2 	5 	1 	25 	1 	not 	RB
+Tit 	2 	5 	1 	26 	1 	blasphemed 	VBN
+Tit 	2 	5 	1 	27 	0 	.
+Tit 	2 	6 	1 	1 	1 	Young 	NN
+Tit 	2 	6 	1 	2 	1 	men 	NNS
+Tit 	2 	6 	1 	3 	1 	likewise 	RB
+Tit 	2 	6 	1 	4 	1 	exhort 	NN
+Tit 	2 	6 	1 	5 	1 	to 	TO
+Tit 	2 	6 	1 	6 	1 	be 	VB
+Tit 	2 	6 	1 	7 	1 	sober 	NN
+Tit 	2 	6 	1 	8 	1 	minded 	VBN
+Tit 	2 	6 	1 	9 	0 	.
+Tit 	2 	7 	1 	1 	1 	In 	IN
+Tit 	2 	7 	1 	2 	1 	all 	DT
+Tit 	2 	7 	1 	3 	1 	things 	NNS
+Tit 	2 	7 	1 	4 	1 	shewing 	VBG
+Tit 	2 	7 	1 	5 	1 	thyself 	NN
+Tit 	2 	7 	1 	6 	1 	a 	DT
+Tit 	2 	7 	1 	7 	1 	pattern 	NN
+Tit 	2 	7 	1 	8 	1 	of 	IN
+Tit 	2 	7 	1 	9 	1 	good 	JJ
+Tit 	2 	7 	1 	10 	1 	works 	NNS
+Tit 	2 	7 	1 	11 	0 	:
+Tit 	2 	7 	1 	12 	1 	in 	IN
+Tit 	2 	7 	1 	13 	1 	doctrine 	NN
+Tit 	2 	7 	1 	14 	1 	shewing 	VBG
+Tit 	2 	7 	1 	15 	1 	uncorruptness 	NN
+Tit 	2 	7 	1 	16 	0 	,
+Tit 	2 	7 	1 	17 	1 	gravity 	NN
+Tit 	2 	7 	1 	18 	0 	,
+Tit 	2 	7 	1 	19 	1 	sincerity 	NN
+Tit 	2 	7 	1 	20 	0 	,
+Tit 	2 	8 	1 	1 	1 	Sound 	NN
+Tit 	2 	8 	1 	2 	1 	speech 	NN
+Tit 	2 	8 	1 	3 	0 	,
+Tit 	2 	8 	1 	4 	1 	that 	IN
+Tit 	2 	8 	1 	5 	1 	can 	MD
+Tit 	2 	8 	1 	6 	1 	not 	RB
+Tit 	2 	8 	1 	7 	1 	be 	VB
+Tit 	2 	8 	1 	8 	1 	condemned 	VBN
+Tit 	2 	8 	1 	9 	0 	;
+Tit 	2 	8 	1 	10 	1 	that 	IN
+Tit 	2 	8 	1 	11 	1 	he 	PRP
+Tit 	2 	8 	1 	12 	1 	that 	IN
+Tit 	2 	8 	1 	13 	1 	is 	VBZ
+Tit 	2 	8 	1 	14 	1 	of 	IN
+Tit 	2 	8 	1 	15 	1 	the 	DT
+Tit 	2 	8 	1 	16 	1 	contrary 	JJ
+Tit 	2 	8 	1 	17 	1 	part 	NN
+Tit 	2 	8 	1 	18 	1 	may 	MD
+Tit 	2 	8 	1 	19 	1 	be 	VB
+Tit 	2 	8 	1 	20 	1 	ashamed 	VBN
+Tit 	2 	8 	1 	21 	0 	,
+Tit 	2 	8 	1 	22 	1 	having 	VBG
+Tit 	2 	8 	1 	23 	1 	no 	DT
+Tit 	2 	8 	1 	24 	1 	evil 	NN
+Tit 	2 	8 	1 	25 	1 	thing 	NN
+Tit 	2 	8 	1 	26 	1 	to 	TO
+Tit 	2 	8 	1 	27 	1 	say 	VB
+Tit 	2 	8 	1 	28 	1 	of 	IN
+Tit 	2 	8 	1 	29 	1 	you 	PRP
+Tit 	2 	8 	1 	30 	0 	.
+Tit 	2 	9 	1 	1 	1 	Exhort 	NN
+Tit 	2 	9 	1 	2 	1 	servants 	NNS
+Tit 	2 	9 	1 	3 	1 	to 	TO
+Tit 	2 	9 	1 	4 	1 	be 	VB
+Tit 	2 	9 	1 	5 	1 	obedient 	NN
+Tit 	2 	9 	1 	6 	1 	unto 	NN
+Tit 	2 	9 	1 	7 	1 	their 	PRP$
+Tit 	2 	9 	1 	8 	1 	own 	JJ
+Tit 	2 	9 	1 	9 	1 	masters 	NNS
+Tit 	2 	9 	1 	10 	0 	,
+Tit 	2 	9 	1 	11 	1 	and 	CC
+Tit 	2 	9 	1 	12 	1 	to 	TO
+Tit 	2 	9 	1 	13 	1 	please 	NN
+Tit 	2 	9 	1 	14 	1 	them 	PRP
+Tit 	2 	9 	1 	15 	1 	well 	RB
+Tit 	2 	9 	1 	16 	1 	in 	IN
+Tit 	2 	9 	1 	17 	1 	all 	DT
+Tit 	2 	9 	1 	18 	1 	things 	NNS
+Tit 	2 	9 	1 	19 	0 	;
+Tit 	2 	9 	1 	20 	1 	not 	RB
+Tit 	2 	9 	1 	21 	1 	answering 	VBG
+Tit 	2 	9 	1 	22 	1 	again 	RB
+Tit 	2 	9 	1 	23 	0 	;
+Tit 	2 	10 	1 	1 	1 	Not 	RB
+Tit 	2 	10 	1 	2 	1 	purloining 	VBG
+Tit 	2 	10 	1 	3 	0 	,
+Tit 	2 	10 	1 	4 	1 	but 	CC
+Tit 	2 	10 	1 	5 	1 	shewing 	VBG
+Tit 	2 	10 	1 	6 	1 	all 	DT
+Tit 	2 	10 	1 	7 	1 	good 	JJ
+Tit 	2 	10 	1 	8 	1 	fidelity 	NN
+Tit 	2 	10 	1 	9 	0 	;
+Tit 	2 	10 	1 	10 	1 	that 	IN
+Tit 	2 	10 	1 	11 	1 	they 	PRP
+Tit 	2 	10 	1 	12 	1 	may 	MD
+Tit 	2 	10 	1 	13 	1 	adorn 	NN
+Tit 	2 	10 	1 	14 	1 	the 	DT
+Tit 	2 	10 	1 	15 	1 	doctrine 	NN
+Tit 	2 	10 	1 	16 	1 	of 	IN
+Tit 	2 	10 	1 	17 	1 	God 	NNP
+Tit 	2 	10 	1 	18 	1 	our 	PRP$
+Tit 	2 	10 	1 	19 	1 	Saviour 	NN
+Tit 	2 	10 	1 	20 	1 	in 	IN
+Tit 	2 	10 	1 	21 	1 	all 	DT
+Tit 	2 	10 	1 	22 	1 	things 	NNS
+Tit 	2 	10 	1 	23 	0 	.
+Tit 	2 	11 	1 	1 	1 	For 	IN
+Tit 	2 	11 	1 	2 	1 	the 	DT
+Tit 	2 	11 	1 	3 	1 	grace 	NN
+Tit 	2 	11 	1 	4 	1 	of 	IN
+Tit 	2 	11 	1 	5 	1 	God 	NNP
+Tit 	2 	11 	1 	6 	1 	that 	IN
+Tit 	2 	11 	1 	7 	1 	bringeth 	NN
+Tit 	2 	11 	1 	8 	1 	salvation 	NN
+Tit 	2 	11 	1 	9 	1 	hath 	NN
+Tit 	2 	11 	1 	10 	1 	appeared 	VBD
+Tit 	2 	11 	1 	11 	1 	to 	TO
+Tit 	2 	11 	1 	12 	1 	all 	DT
+Tit 	2 	11 	1 	13 	1 	men 	NNS
+Tit 	2 	11 	1 	14 	0 	,
+Tit 	2 	12 	1 	1 	1 	eaching 	VBG
+Tit 	2 	12 	1 	2 	1 	us 	PRP
+Tit 	2 	12 	1 	3 	1 	that 	IN
+Tit 	2 	12 	1 	4 	0 	,
+Tit 	2 	12 	1 	5 	1 	denying 	VBG
+Tit 	2 	12 	1 	6 	1 	ungodliness 	NN
+Tit 	2 	12 	1 	7 	1 	and 	CC
+Tit 	2 	12 	1 	8 	1 	worldly 	RB
+Tit 	2 	12 	1 	9 	1 	lusts 	NNS
+Tit 	2 	12 	1 	10 	0 	,
+Tit 	2 	12 	1 	11 	1 	we 	PRP
+Tit 	2 	12 	1 	12 	1 	should 	MD
+Tit 	2 	12 	1 	13 	1 	live 	JJ
+Tit 	2 	12 	1 	14 	1 	soberly 	RB
+Tit 	2 	12 	1 	15 	0 	,
+Tit 	2 	12 	1 	16 	1 	righteously 	RB
+Tit 	2 	12 	1 	17 	0 	,
+Tit 	2 	12 	1 	18 	1 	and 	CC
+Tit 	2 	12 	1 	19 	1 	godly 	RB
+Tit 	2 	12 	1 	20 	0 	,
+Tit 	2 	12 	1 	21 	1 	in 	IN
+Tit 	2 	12 	1 	22 	1 	this 	DT
+Tit 	2 	12 	1 	23 	1 	present 	NN
+Tit 	2 	12 	1 	24 	1 	world 	NN
+Tit 	2 	12 	1 	25 	0 	;
+Tit 	2 	13 	1 	1 	1 	Looking 	VBG
+Tit 	2 	13 	1 	2 	1 	for 	IN
+Tit 	2 	13 	1 	3 	1 	that 	IN
+Tit 	2 	13 	1 	4 	1 	blessed 	VBN
+Tit 	2 	13 	1 	5 	1 	hope 	NN
+Tit 	2 	13 	1 	6 	0 	,
+Tit 	2 	13 	1 	7 	1 	and 	CC
+Tit 	2 	13 	1 	8 	1 	the 	DT
+Tit 	2 	13 	1 	9 	1 	glorious 	JJ
+Tit 	2 	13 	1 	10 	1 	appearing 	VBG
+Tit 	2 	13 	1 	11 	1 	of 	IN
+Tit 	2 	13 	1 	12 	1 	the 	DT
+Tit 	2 	13 	1 	13 	1 	great 	JJ
+Tit 	2 	13 	1 	14 	1 	God 	NNP
+Tit 	2 	13 	1 	15 	1 	and 	CC
+Tit 	2 	13 	1 	16 	1 	our 	PRP$
+Tit 	2 	13 	1 	17 	1 	Saviour 	NN
+Tit 	2 	13 	1 	18 	1 	Jesus 	NN
+Tit 	2 	13 	1 	19 	1 	Christ 	NN
+Tit 	2 	13 	1 	20 	0 	;
+Tit 	2 	14 	1 	1 	1 	Who 	WP
+Tit 	2 	14 	1 	2 	1 	gave 	VBD
+Tit 	2 	14 	1 	3 	1 	himself 	PRP
+Tit 	2 	14 	1 	4 	1 	for 	IN
+Tit 	2 	14 	1 	5 	1 	us 	PRP
+Tit 	2 	14 	1 	6 	0 	,
+Tit 	2 	14 	1 	7 	1 	that 	IN
+Tit 	2 	14 	1 	8 	1 	he 	PRP
+Tit 	2 	14 	1 	9 	1 	might 	MD
+Tit 	2 	14 	1 	10 	1 	redeem 	NN
+Tit 	2 	14 	1 	11 	1 	us 	PRP
+Tit 	2 	14 	1 	12 	1 	from 	IN
+Tit 	2 	14 	1 	13 	1 	all 	DT
+Tit 	2 	14 	1 	14 	1 	iniquity 	NN
+Tit 	2 	14 	1 	15 	0 	,
+Tit 	2 	14 	1 	16 	1 	and 	CC
+Tit 	2 	14 	1 	17 	1 	purify 	NN
+Tit 	2 	14 	1 	18 	1 	unto 	NN
+Tit 	2 	14 	1 	19 	1 	himself 	PRP
+Tit 	2 	14 	1 	20 	1 	a 	DT
+Tit 	2 	14 	1 	21 	1 	peculiar 	NN
+Tit 	2 	14 	1 	22 	1 	people 	NNS
+Tit 	2 	14 	1 	23 	0 	,
+Tit 	2 	14 	1 	24 	1 	zealous 	JJ
+Tit 	2 	14 	1 	25 	1 	of 	IN
+Tit 	2 	14 	1 	26 	1 	good 	JJ
+Tit 	2 	14 	1 	27 	1 	works 	NNS
+Tit 	2 	14 	1 	28 	0 	.
+Tit 	2 	15 	1 	1 	1 	hese 	NN
+Tit 	2 	15 	1 	2 	1 	things 	NNS
+Tit 	2 	15 	1 	3 	1 	speak 	NN
+Tit 	2 	15 	1 	4 	0 	,
+Tit 	2 	15 	1 	5 	1 	and 	CC
+Tit 	2 	15 	1 	6 	1 	exhort 	NN
+Tit 	2 	15 	1 	7 	0 	,
+Tit 	2 	15 	1 	8 	1 	and 	CC
+Tit 	2 	15 	1 	9 	1 	rebuke 	NN
+Tit 	2 	15 	1 	10 	1 	with 	IN
+Tit 	2 	15 	1 	11 	1 	all 	DT
+Tit 	2 	15 	1 	12 	1 	authority 	NN
+Tit 	2 	15 	1 	13 	0 	.
+Tit 	2 	15 	2 	1 	1 	Let 	VB
+Tit 	2 	15 	2 	2 	1 	no 	DT
+Tit 	2 	15 	2 	3 	1 	man 	NN
+Tit 	2 	15 	2 	4 	1 	despise 	NN
+Tit 	2 	15 	2 	5 	1 	thee 	NN
+Tit 	2 	15 	2 	6 	0 	.
+Tit 	3 	1 	1 	1 	1 	Put 	VB
+Tit 	3 	1 	1 	2 	1 	them 	PRP
+Tit 	3 	1 	1 	3 	1 	in 	IN
+Tit 	3 	1 	1 	4 	1 	mind 	NN
+Tit 	3 	1 	1 	5 	1 	to 	TO
+Tit 	3 	1 	1 	6 	1 	be 	VB
+Tit 	3 	1 	1 	7 	1 	subject 	NN
+Tit 	3 	1 	1 	8 	1 	to 	TO
+Tit 	3 	1 	1 	9 	1 	principalities 	NNS
+Tit 	3 	1 	1 	10 	1 	and 	CC
+Tit 	3 	1 	1 	11 	1 	powers 	NNS
+Tit 	3 	1 	1 	12 	0 	,
+Tit 	3 	1 	1 	13 	1 	to 	TO
+Tit 	3 	1 	1 	14 	1 	obey 	NN
+Tit 	3 	1 	1 	15 	1 	magistrates 	NNS
+Tit 	3 	1 	1 	16 	0 	,
+Tit 	3 	1 	1 	17 	1 	to 	TO
+Tit 	3 	1 	1 	18 	1 	be 	VB
+Tit 	3 	1 	1 	19 	1 	ready 	JJ
+Tit 	3 	1 	1 	20 	1 	to 	TO
+Tit 	3 	1 	1 	21 	1 	every 	DT
+Tit 	3 	1 	1 	22 	1 	good 	JJ
+Tit 	3 	1 	1 	23 	1 	work 	NN
+Tit 	3 	1 	1 	24 	0 	,
+Tit 	3 	2 	1 	1 	1 	o 	NN
+Tit 	3 	2 	1 	2 	1 	speak 	NN
+Tit 	3 	2 	1 	3 	1 	evil 	NN
+Tit 	3 	2 	1 	4 	1 	of 	IN
+Tit 	3 	2 	1 	5 	1 	no 	DT
+Tit 	3 	2 	1 	6 	1 	man 	NN
+Tit 	3 	2 	1 	7 	0 	,
+Tit 	3 	2 	1 	8 	1 	to 	TO
+Tit 	3 	2 	1 	9 	1 	be 	VB
+Tit 	3 	2 	1 	10 	1 	no 	DT
+Tit 	3 	2 	1 	11 	1 	brawlers 	NNS
+Tit 	3 	2 	1 	12 	0 	,
+Tit 	3 	2 	1 	13 	1 	but 	CC
+Tit 	3 	2 	1 	14 	1 	gentle 	NN
+Tit 	3 	2 	1 	15 	0 	,
+Tit 	3 	2 	1 	16 	1 	shewing 	VBG
+Tit 	3 	2 	1 	17 	1 	all 	DT
+Tit 	3 	2 	1 	18 	1 	meekness 	NN
+Tit 	3 	2 	1 	19 	1 	unto 	NN
+Tit 	3 	2 	1 	20 	1 	all 	DT
+Tit 	3 	2 	1 	21 	1 	men 	NNS
+Tit 	3 	2 	1 	22 	0 	.
+Tit 	3 	3 	1 	1 	1 	For 	IN
+Tit 	3 	3 	1 	2 	1 	we 	PRP
+Tit 	3 	3 	1 	3 	1 	ourselves 	NNS
+Tit 	3 	3 	1 	4 	1 	also 	RB
+Tit 	3 	3 	1 	5 	1 	were 	VBD
+Tit 	3 	3 	1 	6 	1 	sometimes 	RB
+Tit 	3 	3 	1 	7 	1 	foolish 	JJ
+Tit 	3 	3 	1 	8 	0 	,
+Tit 	3 	3 	1 	9 	1 	disobedient 	NN
+Tit 	3 	3 	1 	10 	0 	,
+Tit 	3 	3 	1 	11 	1 	deceived 	VBN
+Tit 	3 	3 	1 	12 	0 	,
+Tit 	3 	3 	1 	13 	1 	serving 	VBG
+Tit 	3 	3 	1 	14 	1 	divers 	NNS
+Tit 	3 	3 	1 	15 	1 	lusts 	NNS
+Tit 	3 	3 	1 	16 	1 	and 	CC
+Tit 	3 	3 	1 	17 	1 	pleasures 	NNS
+Tit 	3 	3 	1 	18 	0 	,
+Tit 	3 	3 	1 	19 	1 	living 	NN
+Tit 	3 	3 	1 	20 	1 	in 	IN
+Tit 	3 	3 	1 	21 	1 	malice 	NN
+Tit 	3 	3 	1 	22 	1 	and 	CC
+Tit 	3 	3 	1 	23 	1 	envy 	NN
+Tit 	3 	3 	1 	24 	0 	,
+Tit 	3 	3 	1 	25 	1 	hateful 	NN
+Tit 	3 	3 	1 	26 	0 	,
+Tit 	3 	3 	1 	27 	1 	and 	CC
+Tit 	3 	3 	1 	28 	1 	hating 	VBG
+Tit 	3 	3 	1 	29 	1 	one 	CD
+Tit 	3 	3 	1 	30 	1 	another 	DT
+Tit 	3 	3 	1 	31 	0 	.
+Tit 	3 	4 	1 	1 	1 	But 	CC
+Tit 	3 	4 	1 	2 	1 	after 	IN
+Tit 	3 	4 	1 	3 	1 	that 	IN
+Tit 	3 	4 	1 	4 	1 	the 	DT
+Tit 	3 	4 	1 	5 	1 	kindness 	NN
+Tit 	3 	4 	1 	6 	1 	and 	CC
+Tit 	3 	4 	1 	7 	1 	love 	NN
+Tit 	3 	4 	1 	8 	1 	of 	IN
+Tit 	3 	4 	1 	9 	1 	God 	NNP
+Tit 	3 	4 	1 	10 	1 	our 	PRP$
+Tit 	3 	4 	1 	11 	1 	Saviour 	NN
+Tit 	3 	4 	1 	12 	1 	toward 	IN
+Tit 	3 	4 	1 	13 	1 	man 	NN
+Tit 	3 	4 	1 	14 	1 	appeared 	VBD
+Tit 	3 	4 	1 	15 	0 	,
+Tit 	3 	5 	1 	1 	1 	Not 	RB
+Tit 	3 	5 	1 	2 	1 	by 	IN
+Tit 	3 	5 	1 	3 	1 	works 	NNS
+Tit 	3 	5 	1 	4 	1 	of 	IN
+Tit 	3 	5 	1 	5 	1 	righteousness 	NN
+Tit 	3 	5 	1 	6 	1 	which 	WDT
+Tit 	3 	5 	1 	7 	1 	we 	PRP
+Tit 	3 	5 	1 	8 	1 	have 	VB
+Tit 	3 	5 	1 	9 	1 	done 	VBN
+Tit 	3 	5 	1 	10 	0 	,
+Tit 	3 	5 	1 	11 	1 	but 	CC
+Tit 	3 	5 	1 	12 	1 	according 	VBG
+Tit 	3 	5 	1 	13 	1 	to 	TO
+Tit 	3 	5 	1 	14 	1 	his 	PRP$
+Tit 	3 	5 	1 	15 	1 	mercy 	NN
+Tit 	3 	5 	1 	16 	1 	he 	PRP
+Tit 	3 	5 	1 	17 	1 	saved 	VBN
+Tit 	3 	5 	1 	18 	1 	us 	PRP
+Tit 	3 	5 	1 	19 	0 	,
+Tit 	3 	5 	1 	20 	1 	by 	IN
+Tit 	3 	5 	1 	21 	1 	the 	DT
+Tit 	3 	5 	1 	22 	1 	washing 	VBG
+Tit 	3 	5 	1 	23 	1 	of 	IN
+Tit 	3 	5 	1 	24 	1 	regeneration 	NN
+Tit 	3 	5 	1 	25 	0 	,
+Tit 	3 	5 	1 	26 	1 	and 	CC
+Tit 	3 	5 	1 	27 	1 	renewing 	VBG
+Tit 	3 	5 	1 	28 	1 	of 	IN
+Tit 	3 	5 	1 	29 	1 	the 	DT
+Tit 	3 	5 	1 	30 	1 	Holy 	NNP
+Tit 	3 	5 	1 	31 	1 	Ghost 	NN
+Tit 	3 	5 	1 	32 	0 	;
+Tit 	3 	6 	1 	1 	1 	Which 	WDT
+Tit 	3 	6 	1 	2 	1 	he 	PRP
+Tit 	3 	6 	1 	3 	1 	shed 	VBN
+Tit 	3 	6 	1 	4 	1 	on 	IN
+Tit 	3 	6 	1 	5 	1 	us 	PRP
+Tit 	3 	6 	1 	6 	1 	abundantly 	RB
+Tit 	3 	6 	1 	7 	1 	through 	IN
+Tit 	3 	6 	1 	8 	1 	Jesus 	NN
+Tit 	3 	6 	1 	9 	1 	Christ 	NN
+Tit 	3 	6 	1 	10 	1 	our 	PRP$
+Tit 	3 	6 	1 	11 	1 	Saviour 	NN
+Tit 	3 	6 	1 	12 	0 	;
+Tit 	3 	7 	1 	1 	1 	hat 	NN
+Tit 	3 	7 	1 	2 	1 	being 	VBG
+Tit 	3 	7 	1 	3 	1 	justified 	JJ
+Tit 	3 	7 	1 	4 	1 	by 	IN
+Tit 	3 	7 	1 	5 	1 	his 	PRP$
+Tit 	3 	7 	1 	6 	1 	grace 	NN
+Tit 	3 	7 	1 	7 	0 	,
+Tit 	3 	7 	1 	8 	1 	we 	PRP
+Tit 	3 	7 	1 	9 	1 	should 	MD
+Tit 	3 	7 	1 	10 	1 	be 	VB
+Tit 	3 	7 	1 	11 	1 	made 	VBN
+Tit 	3 	7 	1 	12 	1 	heirs 	NNS
+Tit 	3 	7 	1 	13 	1 	according 	VBG
+Tit 	3 	7 	1 	14 	1 	to 	TO
+Tit 	3 	7 	1 	15 	1 	the 	DT
+Tit 	3 	7 	1 	16 	1 	hope 	NN
+Tit 	3 	7 	1 	17 	1 	of 	IN
+Tit 	3 	7 	1 	18 	1 	eternal 	JJ
+Tit 	3 	7 	1 	19 	1 	life 	NN
+Tit 	3 	7 	1 	20 	0 	.
+Tit 	3 	8 	1 	1 	1 	his 	PRP$
+Tit 	3 	8 	1 	2 	1 	is 	VBZ
+Tit 	3 	8 	1 	3 	1 	a 	DT
+Tit 	3 	8 	1 	4 	1 	faithful 	NN
+Tit 	3 	8 	1 	5 	1 	saying 	VBG
+Tit 	3 	8 	1 	6 	0 	,
+Tit 	3 	8 	1 	7 	1 	and 	CC
+Tit 	3 	8 	1 	8 	1 	these 	DT
+Tit 	3 	8 	1 	9 	1 	things 	NNS
+Tit 	3 	8 	1 	10 	1 	I 	PRP
+Tit 	3 	8 	1 	11 	1 	will 	MD
+Tit 	3 	8 	1 	12 	1 	that 	IN
+Tit 	3 	8 	1 	13 	1 	thou 	NN
+Tit 	3 	8 	1 	14 	1 	affirm 	NN
+Tit 	3 	8 	1 	15 	1 	constantly 	RB
+Tit 	3 	8 	1 	16 	0 	,
+Tit 	3 	8 	1 	17 	1 	that 	IN
+Tit 	3 	8 	1 	18 	1 	they 	PRP
+Tit 	3 	8 	1 	19 	1 	which 	WDT
+Tit 	3 	8 	1 	20 	1 	have 	VB
+Tit 	3 	8 	1 	21 	1 	believed 	VBN
+Tit 	3 	8 	1 	22 	1 	in 	IN
+Tit 	3 	8 	1 	23 	1 	God 	NNP
+Tit 	3 	8 	1 	24 	1 	might 	MD
+Tit 	3 	8 	1 	25 	1 	be 	VB
+Tit 	3 	8 	1 	26 	1 	careful 	NN
+Tit 	3 	8 	1 	27 	1 	to 	TO
+Tit 	3 	8 	1 	28 	1 	maintain 	NN
+Tit 	3 	8 	1 	29 	1 	good 	JJ
+Tit 	3 	8 	1 	30 	1 	works 	NNS
+Tit 	3 	8 	1 	31 	0 	.
+Tit 	3 	8 	2 	1 	1 	These 	DT
+Tit 	3 	8 	2 	2 	1 	things 	NNS
+Tit 	3 	8 	2 	3 	1 	are 	VBP
+Tit 	3 	8 	2 	4 	1 	good 	JJ
+Tit 	3 	8 	2 	5 	1 	and 	CC
+Tit 	3 	8 	2 	6 	1 	profitable 	JJ
+Tit 	3 	8 	2 	7 	1 	unto 	NN
+Tit 	3 	8 	2 	8 	1 	men 	NNS
+Tit 	3 	8 	2 	9 	0 	.
+Tit 	3 	9 	1 	1 	1 	But 	CC
+Tit 	3 	9 	1 	2 	1 	avoid 	NN
+Tit 	3 	9 	1 	3 	1 	foolish 	JJ
+Tit 	3 	9 	1 	4 	1 	questions 	NNS
+Tit 	3 	9 	1 	5 	0 	,
+Tit 	3 	9 	1 	6 	1 	and 	CC
+Tit 	3 	9 	1 	7 	1 	genealogies 	NNS
+Tit 	3 	9 	1 	8 	0 	,
+Tit 	3 	9 	1 	9 	1 	and 	CC
+Tit 	3 	9 	1 	10 	1 	contentions 	NNS
+Tit 	3 	9 	1 	11 	0 	,
+Tit 	3 	9 	1 	12 	1 	and 	CC
+Tit 	3 	9 	1 	13 	1 	strivings 	NNS
+Tit 	3 	9 	1 	14 	1 	about 	IN
+Tit 	3 	9 	1 	15 	1 	the 	DT
+Tit 	3 	9 	1 	16 	1 	law 	NN
+Tit 	3 	9 	1 	17 	0 	;
+Tit 	3 	9 	1 	18 	1 	for 	IN
+Tit 	3 	9 	1 	19 	1 	they 	PRP
+Tit 	3 	9 	1 	20 	1 	are 	VBP
+Tit 	3 	9 	1 	21 	1 	unprofitable 	JJ
+Tit 	3 	9 	1 	22 	1 	and 	CC
+Tit 	3 	9 	1 	23 	1 	vain 	NN
+Tit 	3 	9 	1 	24 	0 	.
+Tit 	3 	10 	1 	1 	1 	A 	DT
+Tit 	3 	10 	1 	2 	1 	man 	NN
+Tit 	3 	10 	1 	3 	1 	that 	IN
+Tit 	3 	10 	1 	4 	1 	is 	VBZ
+Tit 	3 	10 	1 	5 	1 	an 	DT
+Tit 	3 	10 	1 	6 	1 	heretick 	NN
+Tit 	3 	10 	1 	7 	1 	after 	IN
+Tit 	3 	10 	1 	8 	1 	the 	DT
+Tit 	3 	10 	1 	9 	1 	first 	RB
+Tit 	3 	10 	1 	10 	1 	and 	CC
+Tit 	3 	10 	1 	11 	1 	second 	JJ
+Tit 	3 	10 	1 	12 	1 	admonition 	NN
+Tit 	3 	10 	1 	13 	1 	reject 	NN
+Tit 	3 	10 	1 	14 	0 	;
+Tit 	3 	11 	1 	1 	1 	Knowing 	VBG
+Tit 	3 	11 	1 	2 	1 	that 	IN
+Tit 	3 	11 	1 	3 	1 	he 	PRP
+Tit 	3 	11 	1 	4 	1 	that 	IN
+Tit 	3 	11 	1 	5 	1 	is 	VBZ
+Tit 	3 	11 	1 	6 	1 	such 	JJ
+Tit 	3 	11 	1 	7 	1 	is 	VBZ
+Tit 	3 	11 	1 	8 	1 	subverted 	VBN
+Tit 	3 	11 	1 	9 	0 	,
+Tit 	3 	11 	1 	10 	1 	and 	CC
+Tit 	3 	11 	1 	11 	1 	sinneth 	NN
+Tit 	3 	11 	1 	12 	0 	,
+Tit 	3 	11 	1 	13 	1 	being 	VBG
+Tit 	3 	11 	1 	14 	1 	condemned 	VBN
+Tit 	3 	11 	1 	15 	1 	of 	IN
+Tit 	3 	11 	1 	16 	1 	himself 	PRP
+Tit 	3 	11 	1 	17 	0 	.
+Tit 	3 	12 	1 	1 	1 	When 	WRB
+Tit 	3 	12 	1 	2 	1 	I 	PRP
+Tit 	3 	12 	1 	3 	1 	shall 	MD
+Tit 	3 	12 	1 	4 	1 	send 	NN
+Tit 	3 	12 	1 	5 	1 	Artemas 	NN
+Tit 	3 	12 	1 	6 	1 	unto 	NN
+Tit 	3 	12 	1 	7 	1 	thee 	NN
+Tit 	3 	12 	1 	8 	0 	,
+Tit 	3 	12 	1 	9 	1 	or 	CC
+Tit 	3 	12 	1 	10 	1 	Tychicus 	NN
+Tit 	3 	12 	1 	11 	0 	,
+Tit 	3 	12 	1 	12 	1 	be 	VB
+Tit 	3 	12 	1 	13 	1 	diligent 	NN
+Tit 	3 	12 	1 	14 	1 	to 	TO
+Tit 	3 	12 	1 	15 	1 	come 	VB
+Tit 	3 	12 	1 	16 	1 	unto 	NN
+Tit 	3 	12 	1 	17 	1 	me 	PRP
+Tit 	3 	12 	1 	18 	1 	to 	TO
+Tit 	3 	12 	1 	19 	1 	Nicopolis 	NN
+Tit 	3 	12 	1 	20 	0 	:
+Tit 	3 	12 	1 	21 	1 	for 	IN
+Tit 	3 	12 	1 	22 	1 	I 	PRP
+Tit 	3 	12 	1 	23 	1 	have 	VB
+Tit 	3 	12 	1 	24 	1 	determined 	VBN
+Tit 	3 	12 	1 	25 	1 	there 	RB
+Tit 	3 	12 	1 	26 	1 	to 	TO
+Tit 	3 	12 	1 	27 	1 	winter 	NN
+Tit 	3 	12 	1 	28 	0 	.
+Tit 	3 	13 	1 	1 	1 	Bring 	VB
+Tit 	3 	13 	1 	2 	1 	Zenas 	NNS
+Tit 	3 	13 	1 	3 	1 	the 	DT
+Tit 	3 	13 	1 	4 	1 	lawyer 	NN
+Tit 	3 	13 	1 	5 	1 	and 	CC
+Tit 	3 	13 	1 	6 	1 	Apollos 	NN
+Tit 	3 	13 	1 	7 	1 	on 	IN
+Tit 	3 	13 	1 	8 	1 	their 	PRP$
+Tit 	3 	13 	1 	9 	1 	journey 	NN
+Tit 	3 	13 	1 	10 	1 	diligently 	RB
+Tit 	3 	13 	1 	11 	0 	,
+Tit 	3 	13 	1 	12 	1 	that 	IN
+Tit 	3 	13 	1 	13 	1 	nothing 	NN
+Tit 	3 	13 	1 	14 	1 	be 	VB
+Tit 	3 	13 	1 	15 	1 	wanting 	VBG
+Tit 	3 	13 	1 	16 	1 	unto 	NN
+Tit 	3 	13 	1 	17 	1 	them 	PRP
+Tit 	3 	13 	1 	18 	0 	.
+Tit 	3 	14 	1 	1 	1 	And 	CC
+Tit 	3 	14 	1 	2 	1 	let 	VB
+Tit 	3 	14 	1 	3 	1 	our 	PRP$
+Tit 	3 	14 	1 	4 	0 	's
+Tit 	3 	14 	1 	5 	1 	also 	RB
+Tit 	3 	14 	1 	6 	1 	learn 	NN
+Tit 	3 	14 	1 	7 	1 	to 	TO
+Tit 	3 	14 	1 	8 	1 	maintain 	NN
+Tit 	3 	14 	1 	9 	1 	good 	JJ
+Tit 	3 	14 	1 	10 	1 	works 	NNS
+Tit 	3 	14 	1 	11 	1 	for 	IN
+Tit 	3 	14 	1 	12 	1 	necessary 	JJ
+Tit 	3 	14 	1 	13 	1 	uses 	NNS
+Tit 	3 	14 	1 	14 	0 	,
+Tit 	3 	14 	1 	15 	1 	that 	IN
+Tit 	3 	14 	1 	16 	1 	they 	PRP
+Tit 	3 	14 	1 	17 	1 	be 	VB
+Tit 	3 	14 	1 	18 	1 	not 	RB
+Tit 	3 	14 	1 	19 	1 	unfruitful 	JJ
+Tit 	3 	14 	1 	20 	0 	.
+Tit 	3 	15 	1 	1 	1 	All 	DT
+Tit 	3 	15 	1 	2 	1 	that 	IN
+Tit 	3 	15 	1 	3 	1 	are 	VBP
+Tit 	3 	15 	1 	4 	1 	with 	IN
+Tit 	3 	15 	1 	5 	1 	me 	PRP
+Tit 	3 	15 	1 	6 	1 	salute 	NN
+Tit 	3 	15 	1 	7 	1 	thee 	NN
+Tit 	3 	15 	1 	8 	0 	.
+Tit 	3 	15 	2 	1 	1 	Greet 	NN
+Tit 	3 	15 	2 	2 	1 	them 	PRP
+Tit 	3 	15 	2 	3 	1 	that 	IN
+Tit 	3 	15 	2 	4 	1 	love 	NN
+Tit 	3 	15 	2 	5 	1 	us 	PRP
+Tit 	3 	15 	2 	6 	1 	in 	IN
+Tit 	3 	15 	2 	7 	1 	the 	DT
+Tit 	3 	15 	2 	8 	1 	faith 	NN
+Tit 	3 	15 	2 	9 	0 	.
+Tit 	3 	15 	3 	1 	1 	Grace 	NN
+Tit 	3 	15 	3 	2 	1 	be 	VB
+Tit 	3 	15 	3 	3 	1 	with 	IN
+Tit 	3 	15 	3 	4 	1 	you 	PRP
+Tit 	3 	15 	3 	5 	1 	all 	DT
+Tit 	3 	15 	3 	6 	0 	.
+Tit 	3 	15 	4 	1 	1 	Amen 	NNS
+Tit 	3 	15 	4 	2 	0 	.

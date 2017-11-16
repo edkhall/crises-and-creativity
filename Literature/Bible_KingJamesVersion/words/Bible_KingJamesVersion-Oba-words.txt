@@ -1,0 +1,761 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Oba 	1 	1 	1 	1 	1 	The 	DT
+Oba 	1 	1 	1 	2 	1 	vision 	NN
+Oba 	1 	1 	1 	3 	1 	of 	IN
+Oba 	1 	1 	1 	4 	1 	Obadiah 	NN
+Oba 	1 	1 	1 	5 	0 	.
+Oba 	1 	1 	2 	1 	1 	Thus 	RB
+Oba 	1 	1 	2 	2 	1 	saith 	NN
+Oba 	1 	1 	2 	3 	1 	the 	DT
+Oba 	1 	1 	2 	4 	1 	Lord 	NN
+Oba 	1 	1 	2 	5 	1 	GOD 	NNP
+Oba 	1 	1 	2 	6 	1 	concerning 	VBG
+Oba 	1 	1 	2 	7 	1 	Edom 	NN
+Oba 	1 	1 	2 	8 	0 	;
+Oba 	1 	1 	2 	9 	1 	We 	PRP
+Oba 	1 	1 	2 	10 	1 	have 	VB
+Oba 	1 	1 	2 	11 	1 	heard 	NN
+Oba 	1 	1 	2 	12 	1 	a 	DT
+Oba 	1 	1 	2 	13 	1 	rumour 	NN
+Oba 	1 	1 	2 	14 	1 	from 	IN
+Oba 	1 	1 	2 	15 	1 	the 	DT
+Oba 	1 	1 	2 	16 	1 	LORD 	NN
+Oba 	1 	1 	2 	17 	0 	,
+Oba 	1 	1 	2 	18 	1 	and 	CC
+Oba 	1 	1 	2 	19 	1 	an 	DT
+Oba 	1 	1 	2 	20 	1 	ambassador 	NN
+Oba 	1 	1 	2 	21 	1 	is 	VBZ
+Oba 	1 	1 	2 	22 	1 	sent 	NN
+Oba 	1 	1 	2 	23 	1 	among 	IN
+Oba 	1 	1 	2 	24 	1 	the 	DT
+Oba 	1 	1 	2 	25 	1 	heathen 	NN
+Oba 	1 	1 	2 	26 	0 	,
+Oba 	1 	1 	2 	27 	1 	Arise 	NN
+Oba 	1 	1 	2 	28 	1 	ye 	NN
+Oba 	1 	1 	2 	29 	0 	,
+Oba 	1 	1 	2 	30 	1 	and 	CC
+Oba 	1 	1 	2 	31 	1 	let 	VB
+Oba 	1 	1 	2 	32 	1 	us 	PRP
+Oba 	1 	1 	2 	33 	1 	rise 	NN
+Oba 	1 	1 	2 	34 	1 	up 	RB
+Oba 	1 	1 	2 	35 	1 	against 	IN
+Oba 	1 	1 	2 	36 	1 	her 	PRP$
+Oba 	1 	1 	2 	37 	1 	in 	IN
+Oba 	1 	1 	2 	38 	1 	battle 	NN
+Oba 	1 	1 	2 	39 	0 	.
+Oba 	1 	2 	1 	1 	1 	Behold 	NN
+Oba 	1 	2 	1 	2 	0 	,
+Oba 	1 	2 	1 	3 	1 	I 	PRP
+Oba 	1 	2 	1 	4 	1 	have 	VB
+Oba 	1 	2 	1 	5 	1 	made 	VBN
+Oba 	1 	2 	1 	6 	1 	thee 	NN
+Oba 	1 	2 	1 	7 	1 	small 	JJ
+Oba 	1 	2 	1 	8 	1 	among 	IN
+Oba 	1 	2 	1 	9 	1 	the 	DT
+Oba 	1 	2 	1 	10 	1 	heathen 	NN
+Oba 	1 	2 	1 	11 	0 	:
+Oba 	1 	2 	1 	12 	1 	thou 	NN
+Oba 	1 	2 	1 	13 	1 	art 	NN
+Oba 	1 	2 	1 	14 	1 	greatly 	RB
+Oba 	1 	2 	1 	15 	1 	despised 	VBN
+Oba 	1 	2 	1 	16 	0 	.
+Oba 	1 	3 	1 	1 	1 	The 	DT
+Oba 	1 	3 	1 	2 	1 	pride 	NN
+Oba 	1 	3 	1 	3 	1 	of 	IN
+Oba 	1 	3 	1 	4 	1 	thine 	NN
+Oba 	1 	3 	1 	5 	1 	heart 	NN
+Oba 	1 	3 	1 	6 	1 	hath 	NN
+Oba 	1 	3 	1 	7 	1 	deceived 	VBN
+Oba 	1 	3 	1 	8 	1 	thee 	NN
+Oba 	1 	3 	1 	9 	0 	,
+Oba 	1 	3 	1 	10 	1 	thou 	NN
+Oba 	1 	3 	1 	11 	1 	that 	IN
+Oba 	1 	3 	1 	12 	1 	dwellest 	NN
+Oba 	1 	3 	1 	13 	1 	in 	IN
+Oba 	1 	3 	1 	14 	1 	the 	DT
+Oba 	1 	3 	1 	15 	1 	clefts 	NNS
+Oba 	1 	3 	1 	16 	1 	of 	IN
+Oba 	1 	3 	1 	17 	1 	the 	DT
+Oba 	1 	3 	1 	18 	1 	rock 	NN
+Oba 	1 	3 	1 	19 	0 	,
+Oba 	1 	3 	1 	20 	1 	whose 	WP$
+Oba 	1 	3 	1 	21 	1 	habitation 	NN
+Oba 	1 	3 	1 	22 	1 	is 	VBZ
+Oba 	1 	3 	1 	23 	1 	high 	JJ
+Oba 	1 	3 	1 	24 	0 	;
+Oba 	1 	3 	1 	25 	1 	that 	IN
+Oba 	1 	3 	1 	26 	1 	saith 	NN
+Oba 	1 	3 	1 	27 	1 	in 	IN
+Oba 	1 	3 	1 	28 	1 	his 	PRP$
+Oba 	1 	3 	1 	29 	1 	heart 	NN
+Oba 	1 	3 	1 	30 	0 	,
+Oba 	1 	3 	1 	31 	1 	Who 	WP
+Oba 	1 	3 	1 	32 	1 	shall 	MD
+Oba 	1 	3 	1 	33 	1 	bring 	NN
+Oba 	1 	3 	1 	34 	1 	me 	PRP
+Oba 	1 	3 	1 	35 	1 	down 	RB
+Oba 	1 	3 	1 	36 	1 	to 	TO
+Oba 	1 	3 	1 	37 	1 	the 	DT
+Oba 	1 	3 	1 	38 	1 	ground 	NN
+Oba 	1 	3 	1 	39 	0 	?
+Oba 	1 	4 	1 	1 	1 	Though 	IN
+Oba 	1 	4 	1 	2 	1 	thou 	NN
+Oba 	1 	4 	1 	3 	1 	exalt 	NN
+Oba 	1 	4 	1 	4 	1 	thyself 	NN
+Oba 	1 	4 	1 	5 	1 	as 	IN
+Oba 	1 	4 	1 	6 	1 	the 	DT
+Oba 	1 	4 	1 	7 	1 	eagle 	NN
+Oba 	1 	4 	1 	8 	0 	,
+Oba 	1 	4 	1 	9 	1 	and 	CC
+Oba 	1 	4 	1 	10 	1 	though 	IN
+Oba 	1 	4 	1 	11 	1 	thou 	NN
+Oba 	1 	4 	1 	12 	1 	set 	NN
+Oba 	1 	4 	1 	13 	1 	thy 	NN
+Oba 	1 	4 	1 	14 	1 	nest 	JJS
+Oba 	1 	4 	1 	15 	1 	among 	IN
+Oba 	1 	4 	1 	16 	1 	the 	DT
+Oba 	1 	4 	1 	17 	1 	stars 	NNS
+Oba 	1 	4 	1 	18 	0 	,
+Oba 	1 	4 	1 	19 	1 	thence 	NN
+Oba 	1 	4 	1 	20 	1 	will 	MD
+Oba 	1 	4 	1 	21 	1 	I 	PRP
+Oba 	1 	4 	1 	22 	1 	bring 	NN
+Oba 	1 	4 	1 	23 	1 	thee 	NN
+Oba 	1 	4 	1 	24 	1 	down 	RB
+Oba 	1 	4 	1 	25 	0 	,
+Oba 	1 	4 	1 	26 	1 	saith 	NN
+Oba 	1 	4 	1 	27 	1 	the 	DT
+Oba 	1 	4 	1 	28 	1 	LORD 	NN
+Oba 	1 	4 	1 	29 	0 	.
+Oba 	1 	5 	1 	1 	1 	If 	IN
+Oba 	1 	5 	1 	2 	1 	thieves 	NNS
+Oba 	1 	5 	1 	3 	1 	came 	VBD
+Oba 	1 	5 	1 	4 	1 	to 	TO
+Oba 	1 	5 	1 	5 	1 	thee 	NN
+Oba 	1 	5 	1 	6 	0 	,
+Oba 	1 	5 	1 	7 	1 	if 	IN
+Oba 	1 	5 	1 	8 	1 	robbers 	NNS
+Oba 	1 	5 	1 	9 	1 	by 	IN
+Oba 	1 	5 	1 	10 	1 	night 	NN
+Oba 	1 	5 	1 	11 	0 	,
+Oba 	1 	5 	1 	12 	0 	(
+Oba 	1 	5 	1 	13 	1 	how 	WRB
+Oba 	1 	5 	1 	14 	1 	art 	NN
+Oba 	1 	5 	1 	15 	1 	thou 	NN
+Oba 	1 	5 	1 	16 	1 	cut 	NN
+Oba 	1 	5 	1 	17 	1 	off 	IN
+Oba 	1 	5 	1 	18 	0 	!
+Oba 	1 	5 	1 	19 	0 	)
+Oba 	1 	5 	2 	1 	1 	would 	MD
+Oba 	1 	5 	2 	2 	1 	they 	PRP
+Oba 	1 	5 	2 	3 	1 	not 	RB
+Oba 	1 	5 	2 	4 	1 	have 	VB
+Oba 	1 	5 	2 	5 	1 	stolen 	VBN
+Oba 	1 	5 	2 	6 	1 	till 	NN
+Oba 	1 	5 	2 	7 	1 	they 	PRP
+Oba 	1 	5 	2 	8 	1 	had 	VBD
+Oba 	1 	5 	2 	9 	1 	enough 	RB
+Oba 	1 	5 	2 	10 	0 	?
+Oba 	1 	5 	3 	1 	1 	if 	IN
+Oba 	1 	5 	3 	2 	1 	the 	DT
+Oba 	1 	5 	3 	3 	1 	grapegatherers 	NNS
+Oba 	1 	5 	3 	4 	1 	came 	VBD
+Oba 	1 	5 	3 	5 	1 	to 	TO
+Oba 	1 	5 	3 	6 	1 	thee 	NN
+Oba 	1 	5 	3 	7 	0 	,
+Oba 	1 	5 	3 	8 	1 	would 	MD
+Oba 	1 	5 	3 	9 	1 	they 	PRP
+Oba 	1 	5 	3 	10 	1 	not 	RB
+Oba 	1 	5 	3 	11 	1 	leave 	VB
+Oba 	1 	5 	3 	12 	1 	some 	DT
+Oba 	1 	5 	3 	13 	1 	grapes 	NNS
+Oba 	1 	5 	3 	14 	0 	?
+Oba 	1 	6 	1 	1 	1 	How 	WRB
+Oba 	1 	6 	1 	2 	1 	are 	VBP
+Oba 	1 	6 	1 	3 	1 	the 	DT
+Oba 	1 	6 	1 	4 	1 	things 	NNS
+Oba 	1 	6 	1 	5 	1 	of 	IN
+Oba 	1 	6 	1 	6 	1 	Esau 	NN
+Oba 	1 	6 	1 	7 	1 	searched 	VBN
+Oba 	1 	6 	1 	8 	1 	out 	IN
+Oba 	1 	6 	1 	9 	0 	!
+Oba 	1 	6 	2 	1 	1 	how 	WRB
+Oba 	1 	6 	2 	2 	1 	are 	VBP
+Oba 	1 	6 	2 	3 	1 	his 	PRP$
+Oba 	1 	6 	2 	4 	1 	hidden 	NN
+Oba 	1 	6 	2 	5 	1 	things 	NNS
+Oba 	1 	6 	2 	6 	1 	sought 	NN
+Oba 	1 	6 	2 	7 	1 	up 	RB
+Oba 	1 	6 	2 	8 	0 	!
+Oba 	1 	7 	1 	1 	1 	All 	DT
+Oba 	1 	7 	1 	2 	1 	the 	DT
+Oba 	1 	7 	1 	3 	1 	men 	NNS
+Oba 	1 	7 	1 	4 	1 	of 	IN
+Oba 	1 	7 	1 	5 	1 	thy 	NN
+Oba 	1 	7 	1 	6 	1 	confederacy 	NN
+Oba 	1 	7 	1 	7 	1 	have 	VB
+Oba 	1 	7 	1 	8 	1 	brought 	NN
+Oba 	1 	7 	1 	9 	1 	thee 	NN
+Oba 	1 	7 	1 	10 	1 	even 	RB
+Oba 	1 	7 	1 	11 	1 	to 	TO
+Oba 	1 	7 	1 	12 	1 	the 	DT
+Oba 	1 	7 	1 	13 	1 	border 	NN
+Oba 	1 	7 	1 	14 	0 	:
+Oba 	1 	7 	1 	15 	1 	the 	DT
+Oba 	1 	7 	1 	16 	1 	men 	NNS
+Oba 	1 	7 	1 	17 	1 	that 	IN
+Oba 	1 	7 	1 	18 	1 	were 	VBD
+Oba 	1 	7 	1 	19 	1 	at 	IN
+Oba 	1 	7 	1 	20 	1 	peace 	NN
+Oba 	1 	7 	1 	21 	1 	with 	IN
+Oba 	1 	7 	1 	22 	1 	thee 	NN
+Oba 	1 	7 	1 	23 	1 	have 	VB
+Oba 	1 	7 	1 	24 	1 	deceived 	VBN
+Oba 	1 	7 	1 	25 	1 	thee 	NN
+Oba 	1 	7 	1 	26 	0 	,
+Oba 	1 	7 	1 	27 	1 	and 	CC
+Oba 	1 	7 	1 	28 	1 	prevailed 	VBN
+Oba 	1 	7 	1 	29 	1 	against 	IN
+Oba 	1 	7 	1 	30 	1 	thee 	NN
+Oba 	1 	7 	1 	31 	0 	;
+Oba 	1 	7 	1 	32 	1 	that 	IN
+Oba 	1 	7 	1 	33 	1 	they 	PRP
+Oba 	1 	7 	1 	34 	1 	eat 	NN
+Oba 	1 	7 	1 	35 	1 	thy 	NN
+Oba 	1 	7 	1 	36 	1 	bread 	NN
+Oba 	1 	7 	1 	37 	1 	have 	VB
+Oba 	1 	7 	1 	38 	1 	laid 	NN
+Oba 	1 	7 	1 	39 	1 	a 	DT
+Oba 	1 	7 	1 	40 	1 	wound 	NN
+Oba 	1 	7 	1 	41 	1 	under 	IN
+Oba 	1 	7 	1 	42 	1 	thee 	NN
+Oba 	1 	7 	1 	43 	0 	:
+Oba 	1 	7 	1 	44 	1 	there 	RB
+Oba 	1 	7 	1 	45 	1 	is 	VBZ
+Oba 	1 	7 	1 	46 	1 	none 	NN
+Oba 	1 	7 	1 	47 	1 	understanding 	VBG
+Oba 	1 	7 	1 	48 	1 	in 	IN
+Oba 	1 	7 	1 	49 	1 	him 	PRP
+Oba 	1 	7 	1 	50 	0 	.
+Oba 	1 	8 	1 	1 	1 	Shall 	NN
+Oba 	1 	8 	1 	2 	1 	I 	PRP
+Oba 	1 	8 	1 	3 	1 	not 	RB
+Oba 	1 	8 	1 	4 	1 	in 	IN
+Oba 	1 	8 	1 	5 	1 	that 	IN
+Oba 	1 	8 	1 	6 	1 	day 	NN
+Oba 	1 	8 	1 	7 	0 	,
+Oba 	1 	8 	1 	8 	1 	saith 	NN
+Oba 	1 	8 	1 	9 	1 	the 	DT
+Oba 	1 	8 	1 	10 	1 	LORD 	NN
+Oba 	1 	8 	1 	11 	0 	,
+Oba 	1 	8 	1 	12 	1 	even 	RB
+Oba 	1 	8 	1 	13 	1 	destroy 	NN
+Oba 	1 	8 	1 	14 	1 	the 	DT
+Oba 	1 	8 	1 	15 	1 	wise 	NN
+Oba 	1 	8 	1 	16 	1 	men 	NNS
+Oba 	1 	8 	1 	17 	1 	out 	IN
+Oba 	1 	8 	1 	18 	1 	of 	IN
+Oba 	1 	8 	1 	19 	1 	Edom 	NN
+Oba 	1 	8 	1 	20 	0 	,
+Oba 	1 	8 	1 	21 	1 	and 	CC
+Oba 	1 	8 	1 	22 	1 	understanding 	VBG
+Oba 	1 	8 	1 	23 	1 	out 	IN
+Oba 	1 	8 	1 	24 	1 	of 	IN
+Oba 	1 	8 	1 	25 	1 	the 	DT
+Oba 	1 	8 	1 	26 	1 	mount 	NN
+Oba 	1 	8 	1 	27 	1 	of 	IN
+Oba 	1 	8 	1 	28 	1 	Esau 	NN
+Oba 	1 	8 	1 	29 	0 	?
+Oba 	1 	9 	1 	1 	1 	And 	CC
+Oba 	1 	9 	1 	2 	1 	thy 	NN
+Oba 	1 	9 	1 	3 	1 	mighty 	NN
+Oba 	1 	9 	1 	4 	1 	men 	NNS
+Oba 	1 	9 	1 	5 	0 	,
+Oba 	1 	9 	1 	6 	1 	O 	NN
+Oba 	1 	9 	1 	7 	1 	Teman 	NN
+Oba 	1 	9 	1 	8 	0 	,
+Oba 	1 	9 	1 	9 	1 	shall 	MD
+Oba 	1 	9 	1 	10 	1 	be 	VB
+Oba 	1 	9 	1 	11 	1 	dismayed 	NN
+Oba 	1 	9 	1 	12 	0 	,
+Oba 	1 	9 	1 	13 	1 	to 	TO
+Oba 	1 	9 	1 	14 	1 	the 	DT
+Oba 	1 	9 	1 	15 	1 	end 	NN
+Oba 	1 	9 	1 	16 	1 	that 	IN
+Oba 	1 	9 	1 	17 	1 	every 	DT
+Oba 	1 	9 	1 	18 	1 	one 	CD
+Oba 	1 	9 	1 	19 	1 	of 	IN
+Oba 	1 	9 	1 	20 	1 	the 	DT
+Oba 	1 	9 	1 	21 	1 	mount 	NN
+Oba 	1 	9 	1 	22 	1 	of 	IN
+Oba 	1 	9 	1 	23 	1 	Esau 	NN
+Oba 	1 	9 	1 	24 	1 	may 	MD
+Oba 	1 	9 	1 	25 	1 	be 	VB
+Oba 	1 	9 	1 	26 	1 	cut 	NN
+Oba 	1 	9 	1 	27 	1 	off 	IN
+Oba 	1 	9 	1 	28 	1 	by 	IN
+Oba 	1 	9 	1 	29 	1 	slaughter 	NN
+Oba 	1 	9 	1 	30 	0 	.
+Oba 	1 	10 	1 	1 	1 	For 	IN
+Oba 	1 	10 	1 	2 	1 	thy 	NN
+Oba 	1 	10 	1 	3 	1 	violence 	NN
+Oba 	1 	10 	1 	4 	1 	against 	IN
+Oba 	1 	10 	1 	5 	1 	thy 	NN
+Oba 	1 	10 	1 	6 	1 	brother 	NN
+Oba 	1 	10 	1 	7 	1 	Jacob 	NN
+Oba 	1 	10 	1 	8 	1 	shame 	NN
+Oba 	1 	10 	1 	9 	1 	shall 	MD
+Oba 	1 	10 	1 	10 	1 	cover 	NN
+Oba 	1 	10 	1 	11 	1 	thee 	NN
+Oba 	1 	10 	1 	12 	0 	,
+Oba 	1 	10 	1 	13 	1 	and 	CC
+Oba 	1 	10 	1 	14 	1 	thou 	NN
+Oba 	1 	10 	1 	15 	1 	shalt 	NN
+Oba 	1 	10 	1 	16 	1 	be 	VB
+Oba 	1 	10 	1 	17 	1 	cut 	NN
+Oba 	1 	10 	1 	18 	1 	off 	IN
+Oba 	1 	10 	1 	19 	1 	for 	IN
+Oba 	1 	10 	1 	20 	1 	ever 	RB
+Oba 	1 	10 	1 	21 	0 	.
+Oba 	1 	11 	1 	1 	1 	In 	IN
+Oba 	1 	11 	1 	2 	1 	the 	DT
+Oba 	1 	11 	1 	3 	1 	day 	NN
+Oba 	1 	11 	1 	4 	1 	that 	IN
+Oba 	1 	11 	1 	5 	1 	thou 	NN
+Oba 	1 	11 	1 	6 	1 	stoodest 	NN
+Oba 	1 	11 	1 	7 	1 	on 	IN
+Oba 	1 	11 	1 	8 	1 	the 	DT
+Oba 	1 	11 	1 	9 	1 	other 	JJ
+Oba 	1 	11 	1 	10 	1 	side 	NN
+Oba 	1 	11 	1 	11 	0 	,
+Oba 	1 	11 	1 	12 	1 	in 	IN
+Oba 	1 	11 	1 	13 	1 	the 	DT
+Oba 	1 	11 	1 	14 	1 	day 	NN
+Oba 	1 	11 	1 	15 	1 	that 	IN
+Oba 	1 	11 	1 	16 	1 	the 	DT
+Oba 	1 	11 	1 	17 	1 	strangers 	NNS
+Oba 	1 	11 	1 	18 	1 	carried 	VBN
+Oba 	1 	11 	1 	19 	1 	away 	RB
+Oba 	1 	11 	1 	20 	1 	captive 	NN
+Oba 	1 	11 	1 	21 	1 	his 	PRP$
+Oba 	1 	11 	1 	22 	1 	forces 	NNS
+Oba 	1 	11 	1 	23 	0 	,
+Oba 	1 	11 	1 	24 	1 	and 	CC
+Oba 	1 	11 	1 	25 	1 	foreigners 	NNS
+Oba 	1 	11 	1 	26 	1 	entered 	VBN
+Oba 	1 	11 	1 	27 	1 	into 	IN
+Oba 	1 	11 	1 	28 	1 	his 	PRP$
+Oba 	1 	11 	1 	29 	1 	gates 	NNS
+Oba 	1 	11 	1 	30 	0 	,
+Oba 	1 	11 	1 	31 	1 	and 	CC
+Oba 	1 	11 	1 	32 	1 	cast 	NN
+Oba 	1 	11 	1 	33 	1 	lots 	NNS
+Oba 	1 	11 	1 	34 	1 	upon 	IN
+Oba 	1 	11 	1 	35 	1 	Jerusalem 	NN
+Oba 	1 	11 	1 	36 	0 	,
+Oba 	1 	11 	1 	37 	1 	even 	RB
+Oba 	1 	11 	1 	38 	1 	thou 	NN
+Oba 	1 	11 	1 	39 	1 	wast 	NN
+Oba 	1 	11 	1 	40 	1 	as 	IN
+Oba 	1 	11 	1 	41 	1 	one 	CD
+Oba 	1 	11 	1 	42 	1 	of 	IN
+Oba 	1 	11 	1 	43 	1 	them 	PRP
+Oba 	1 	11 	1 	44 	0 	.
+Oba 	1 	12 	1 	1 	1 	But 	CC
+Oba 	1 	12 	1 	2 	1 	thou 	NN
+Oba 	1 	12 	1 	3 	1 	shouldest 	NN
+Oba 	1 	12 	1 	4 	1 	not 	RB
+Oba 	1 	12 	1 	5 	1 	have 	VB
+Oba 	1 	12 	1 	6 	1 	looked 	VBD
+Oba 	1 	12 	1 	7 	1 	on 	IN
+Oba 	1 	12 	1 	8 	1 	the 	DT
+Oba 	1 	12 	1 	9 	1 	day 	NN
+Oba 	1 	12 	1 	10 	1 	of 	IN
+Oba 	1 	12 	1 	11 	1 	thy 	NN
+Oba 	1 	12 	1 	12 	1 	brother 	NN
+Oba 	1 	12 	1 	13 	1 	in 	IN
+Oba 	1 	12 	1 	14 	1 	the 	DT
+Oba 	1 	12 	1 	15 	1 	day 	NN
+Oba 	1 	12 	1 	16 	1 	that 	IN
+Oba 	1 	12 	1 	17 	1 	he 	PRP
+Oba 	1 	12 	1 	18 	1 	became 	VBD
+Oba 	1 	12 	1 	19 	1 	a 	DT
+Oba 	1 	12 	1 	20 	1 	stranger 	NN
+Oba 	1 	12 	1 	21 	0 	;
+Oba 	1 	12 	1 	22 	1 	neither 	DT
+Oba 	1 	12 	1 	23 	1 	shouldest 	NN
+Oba 	1 	12 	1 	24 	1 	thou 	NN
+Oba 	1 	12 	1 	25 	1 	have 	VB
+Oba 	1 	12 	1 	26 	1 	rejoiced 	VBN
+Oba 	1 	12 	1 	27 	1 	over 	IN
+Oba 	1 	12 	1 	28 	1 	the 	DT
+Oba 	1 	12 	1 	29 	1 	children 	NNS
+Oba 	1 	12 	1 	30 	1 	of 	IN
+Oba 	1 	12 	1 	31 	1 	Judah 	NN
+Oba 	1 	12 	1 	32 	1 	in 	IN
+Oba 	1 	12 	1 	33 	1 	the 	DT
+Oba 	1 	12 	1 	34 	1 	day 	NN
+Oba 	1 	12 	1 	35 	1 	of 	IN
+Oba 	1 	12 	1 	36 	1 	their 	PRP$
+Oba 	1 	12 	1 	37 	1 	destruction 	NN
+Oba 	1 	12 	1 	38 	0 	;
+Oba 	1 	12 	1 	39 	1 	neither 	DT
+Oba 	1 	12 	1 	40 	1 	shouldest 	NN
+Oba 	1 	12 	1 	41 	1 	thou 	NN
+Oba 	1 	12 	1 	42 	1 	have 	VB
+Oba 	1 	12 	1 	43 	1 	spoken 	NN
+Oba 	1 	12 	1 	44 	1 	proudly 	RB
+Oba 	1 	12 	1 	45 	1 	in 	IN
+Oba 	1 	12 	1 	46 	1 	the 	DT
+Oba 	1 	12 	1 	47 	1 	day 	NN
+Oba 	1 	12 	1 	48 	1 	of 	IN
+Oba 	1 	12 	1 	49 	1 	distress 	NN
+Oba 	1 	12 	1 	50 	0 	.
+Oba 	1 	13 	1 	1 	1 	Thou 	NN
+Oba 	1 	13 	1 	2 	1 	shouldest 	NN
+Oba 	1 	13 	1 	3 	1 	not 	RB
+Oba 	1 	13 	1 	4 	1 	have 	VB
+Oba 	1 	13 	1 	5 	1 	entered 	VBN
+Oba 	1 	13 	1 	6 	1 	into 	IN
+Oba 	1 	13 	1 	7 	1 	the 	DT
+Oba 	1 	13 	1 	8 	1 	gate 	NN
+Oba 	1 	13 	1 	9 	1 	of 	IN
+Oba 	1 	13 	1 	10 	1 	my 	PRP$
+Oba 	1 	13 	1 	11 	1 	people 	NNS
+Oba 	1 	13 	1 	12 	1 	in 	IN
+Oba 	1 	13 	1 	13 	1 	the 	DT
+Oba 	1 	13 	1 	14 	1 	day 	NN
+Oba 	1 	13 	1 	15 	1 	of 	IN
+Oba 	1 	13 	1 	16 	1 	their 	PRP$
+Oba 	1 	13 	1 	17 	1 	calamity 	NN
+Oba 	1 	13 	1 	18 	0 	;
+Oba 	1 	13 	1 	19 	1 	yea 	NN
+Oba 	1 	13 	1 	20 	0 	,
+Oba 	1 	13 	1 	21 	1 	thou 	NN
+Oba 	1 	13 	1 	22 	1 	shouldest 	NN
+Oba 	1 	13 	1 	23 	1 	not 	RB
+Oba 	1 	13 	1 	24 	1 	have 	VB
+Oba 	1 	13 	1 	25 	1 	looked 	VBD
+Oba 	1 	13 	1 	26 	1 	on 	IN
+Oba 	1 	13 	1 	27 	1 	their 	PRP$
+Oba 	1 	13 	1 	28 	1 	affliction 	NN
+Oba 	1 	13 	1 	29 	1 	in 	IN
+Oba 	1 	13 	1 	30 	1 	the 	DT
+Oba 	1 	13 	1 	31 	1 	day 	NN
+Oba 	1 	13 	1 	32 	1 	of 	IN
+Oba 	1 	13 	1 	33 	1 	their 	PRP$
+Oba 	1 	13 	1 	34 	1 	calamity 	NN
+Oba 	1 	13 	1 	35 	0 	,
+Oba 	1 	13 	1 	36 	1 	nor 	CC
+Oba 	1 	13 	1 	37 	1 	have 	VB
+Oba 	1 	13 	1 	38 	1 	laid 	NN
+Oba 	1 	13 	1 	39 	1 	hands 	NNS
+Oba 	1 	13 	1 	40 	1 	on 	IN
+Oba 	1 	13 	1 	41 	1 	their 	PRP$
+Oba 	1 	13 	1 	42 	1 	substance 	NN
+Oba 	1 	13 	1 	43 	1 	in 	IN
+Oba 	1 	13 	1 	44 	1 	the 	DT
+Oba 	1 	13 	1 	45 	1 	day 	NN
+Oba 	1 	13 	1 	46 	1 	of 	IN
+Oba 	1 	13 	1 	47 	1 	their 	PRP$
+Oba 	1 	13 	1 	48 	1 	calamity 	NN
+Oba 	1 	13 	1 	49 	0 	;
+Oba 	1 	14 	1 	1 	1 	Neither 	CC
+Oba 	1 	14 	1 	2 	1 	shouldest 	NN
+Oba 	1 	14 	1 	3 	1 	thou 	NN
+Oba 	1 	14 	1 	4 	1 	have 	VB
+Oba 	1 	14 	1 	5 	1 	stood 	NN
+Oba 	1 	14 	1 	6 	1 	in 	IN
+Oba 	1 	14 	1 	7 	1 	the 	DT
+Oba 	1 	14 	1 	8 	1 	crossway 	NN
+Oba 	1 	14 	1 	9 	0 	,
+Oba 	1 	14 	1 	10 	1 	to 	TO
+Oba 	1 	14 	1 	11 	1 	cut 	NN
+Oba 	1 	14 	1 	12 	1 	off 	IN
+Oba 	1 	14 	1 	13 	1 	those 	DT
+Oba 	1 	14 	1 	14 	1 	of 	IN
+Oba 	1 	14 	1 	15 	1 	his 	PRP$
+Oba 	1 	14 	1 	16 	1 	that 	IN
+Oba 	1 	14 	1 	17 	1 	did 	VBD
+Oba 	1 	14 	1 	18 	1 	escape 	NN
+Oba 	1 	14 	1 	19 	0 	;
+Oba 	1 	14 	1 	20 	1 	neither 	DT
+Oba 	1 	14 	1 	21 	1 	shouldest 	NN
+Oba 	1 	14 	1 	22 	1 	thou 	NN
+Oba 	1 	14 	1 	23 	1 	have 	VB
+Oba 	1 	14 	1 	24 	1 	delivered 	VBN
+Oba 	1 	14 	1 	25 	1 	up 	RB
+Oba 	1 	14 	1 	26 	1 	those 	DT
+Oba 	1 	14 	1 	27 	1 	of 	IN
+Oba 	1 	14 	1 	28 	1 	his 	PRP$
+Oba 	1 	14 	1 	29 	1 	that 	IN
+Oba 	1 	14 	1 	30 	1 	did 	VBD
+Oba 	1 	14 	1 	31 	1 	remain 	NN
+Oba 	1 	14 	1 	32 	1 	in 	IN
+Oba 	1 	14 	1 	33 	1 	the 	DT
+Oba 	1 	14 	1 	34 	1 	day 	NN
+Oba 	1 	14 	1 	35 	1 	of 	IN
+Oba 	1 	14 	1 	36 	1 	distress 	NN
+Oba 	1 	14 	1 	37 	0 	.
+Oba 	1 	15 	1 	1 	1 	For 	IN
+Oba 	1 	15 	1 	2 	1 	the 	DT
+Oba 	1 	15 	1 	3 	1 	day 	NN
+Oba 	1 	15 	1 	4 	1 	of 	IN
+Oba 	1 	15 	1 	5 	1 	the 	DT
+Oba 	1 	15 	1 	6 	1 	LORD 	NN
+Oba 	1 	15 	1 	7 	1 	is 	VBZ
+Oba 	1 	15 	1 	8 	1 	near 	IN
+Oba 	1 	15 	1 	9 	1 	upon 	IN
+Oba 	1 	15 	1 	10 	1 	all 	DT
+Oba 	1 	15 	1 	11 	1 	the 	DT
+Oba 	1 	15 	1 	12 	1 	heathen 	NN
+Oba 	1 	15 	1 	13 	0 	:
+Oba 	1 	15 	1 	14 	1 	as 	IN
+Oba 	1 	15 	1 	15 	1 	thou 	NN
+Oba 	1 	15 	1 	16 	1 	hast 	NN
+Oba 	1 	15 	1 	17 	1 	done 	VBN
+Oba 	1 	15 	1 	18 	0 	,
+Oba 	1 	15 	1 	19 	1 	it 	PRP
+Oba 	1 	15 	1 	20 	1 	shall 	MD
+Oba 	1 	15 	1 	21 	1 	be 	VB
+Oba 	1 	15 	1 	22 	1 	done 	VBN
+Oba 	1 	15 	1 	23 	1 	unto 	NN
+Oba 	1 	15 	1 	24 	1 	thee 	NN
+Oba 	1 	15 	1 	25 	0 	:
+Oba 	1 	15 	1 	26 	1 	thy 	NN
+Oba 	1 	15 	1 	27 	1 	reward 	NN
+Oba 	1 	15 	1 	28 	1 	shall 	MD
+Oba 	1 	15 	1 	29 	1 	return 	NN
+Oba 	1 	15 	1 	30 	1 	upon 	IN
+Oba 	1 	15 	1 	31 	1 	thine 	NN
+Oba 	1 	15 	1 	32 	1 	own 	JJ
+Oba 	1 	15 	1 	33 	1 	head 	NN
+Oba 	1 	15 	1 	34 	0 	.
+Oba 	1 	16 	1 	1 	1 	For 	IN
+Oba 	1 	16 	1 	2 	1 	as 	IN
+Oba 	1 	16 	1 	3 	1 	ye 	NN
+Oba 	1 	16 	1 	4 	1 	have 	VB
+Oba 	1 	16 	1 	5 	1 	drunk 	NN
+Oba 	1 	16 	1 	6 	1 	upon 	IN
+Oba 	1 	16 	1 	7 	1 	my 	PRP$
+Oba 	1 	16 	1 	8 	1 	holy 	NN
+Oba 	1 	16 	1 	9 	1 	mountain 	NN
+Oba 	1 	16 	1 	10 	0 	,
+Oba 	1 	16 	1 	11 	1 	so 	RB
+Oba 	1 	16 	1 	12 	1 	shall 	MD
+Oba 	1 	16 	1 	13 	1 	all 	DT
+Oba 	1 	16 	1 	14 	1 	the 	DT
+Oba 	1 	16 	1 	15 	1 	heathen 	NN
+Oba 	1 	16 	1 	16 	1 	drink 	NN
+Oba 	1 	16 	1 	17 	1 	continually 	RB
+Oba 	1 	16 	1 	18 	0 	,
+Oba 	1 	16 	1 	19 	1 	yea 	NN
+Oba 	1 	16 	1 	20 	0 	,
+Oba 	1 	16 	1 	21 	1 	they 	PRP
+Oba 	1 	16 	1 	22 	1 	shall 	MD
+Oba 	1 	16 	1 	23 	1 	drink 	NN
+Oba 	1 	16 	1 	24 	0 	,
+Oba 	1 	16 	1 	25 	1 	and 	CC
+Oba 	1 	16 	1 	26 	1 	they 	PRP
+Oba 	1 	16 	1 	27 	1 	shall 	MD
+Oba 	1 	16 	1 	28 	1 	swallow 	NN
+Oba 	1 	16 	1 	29 	1 	down 	RB
+Oba 	1 	16 	1 	30 	0 	,
+Oba 	1 	16 	1 	31 	1 	and 	CC
+Oba 	1 	16 	1 	32 	1 	they 	PRP
+Oba 	1 	16 	1 	33 	1 	shall 	MD
+Oba 	1 	16 	1 	34 	1 	be 	VB
+Oba 	1 	16 	1 	35 	1 	as 	IN
+Oba 	1 	16 	1 	36 	1 	though 	IN
+Oba 	1 	16 	1 	37 	1 	they 	PRP
+Oba 	1 	16 	1 	38 	1 	had 	VBD
+Oba 	1 	16 	1 	39 	1 	not 	RB
+Oba 	1 	16 	1 	40 	1 	been 	VBN
+Oba 	1 	16 	1 	41 	0 	.
+Oba 	1 	17 	1 	1 	1 	But 	CC
+Oba 	1 	17 	1 	2 	1 	upon 	IN
+Oba 	1 	17 	1 	3 	1 	mount 	NN
+Oba 	1 	17 	1 	4 	1 	Zion 	NN
+Oba 	1 	17 	1 	5 	1 	shall 	MD
+Oba 	1 	17 	1 	6 	1 	be 	VB
+Oba 	1 	17 	1 	7 	1 	deliverance 	NN
+Oba 	1 	17 	1 	8 	0 	,
+Oba 	1 	17 	1 	9 	1 	and 	CC
+Oba 	1 	17 	1 	10 	1 	there 	RB
+Oba 	1 	17 	1 	11 	1 	shall 	MD
+Oba 	1 	17 	1 	12 	1 	be 	VB
+Oba 	1 	17 	1 	13 	1 	holiness 	NN
+Oba 	1 	17 	1 	14 	0 	;
+Oba 	1 	17 	1 	15 	1 	and 	CC
+Oba 	1 	17 	1 	16 	1 	the 	DT
+Oba 	1 	17 	1 	17 	1 	house 	NN
+Oba 	1 	17 	1 	18 	1 	of 	IN
+Oba 	1 	17 	1 	19 	1 	Jacob 	NN
+Oba 	1 	17 	1 	20 	1 	shall 	MD
+Oba 	1 	17 	1 	21 	1 	possess 	NN
+Oba 	1 	17 	1 	22 	1 	their 	PRP$
+Oba 	1 	17 	1 	23 	1 	possessions 	NNS
+Oba 	1 	17 	1 	24 	0 	.
+Oba 	1 	18 	1 	1 	1 	And 	CC
+Oba 	1 	18 	1 	2 	1 	the 	DT
+Oba 	1 	18 	1 	3 	1 	house 	NN
+Oba 	1 	18 	1 	4 	1 	of 	IN
+Oba 	1 	18 	1 	5 	1 	Jacob 	NN
+Oba 	1 	18 	1 	6 	1 	shall 	MD
+Oba 	1 	18 	1 	7 	1 	be 	VB
+Oba 	1 	18 	1 	8 	1 	a 	DT
+Oba 	1 	18 	1 	9 	1 	fire 	NN
+Oba 	1 	18 	1 	10 	0 	,
+Oba 	1 	18 	1 	11 	1 	and 	CC
+Oba 	1 	18 	1 	12 	1 	the 	DT
+Oba 	1 	18 	1 	13 	1 	house 	NN
+Oba 	1 	18 	1 	14 	1 	of 	IN
+Oba 	1 	18 	1 	15 	1 	Joseph 	NNP
+Oba 	1 	18 	1 	16 	1 	a 	DT
+Oba 	1 	18 	1 	17 	1 	flame 	NN
+Oba 	1 	18 	1 	18 	0 	,
+Oba 	1 	18 	1 	19 	1 	and 	CC
+Oba 	1 	18 	1 	20 	1 	the 	DT
+Oba 	1 	18 	1 	21 	1 	house 	NN
+Oba 	1 	18 	1 	22 	1 	of 	IN
+Oba 	1 	18 	1 	23 	1 	Esau 	NN
+Oba 	1 	18 	1 	24 	1 	for 	IN
+Oba 	1 	18 	1 	25 	1 	stubble 	JJ
+Oba 	1 	18 	1 	26 	0 	,
+Oba 	1 	18 	1 	27 	1 	and 	CC
+Oba 	1 	18 	1 	28 	1 	they 	PRP
+Oba 	1 	18 	1 	29 	1 	shall 	MD
+Oba 	1 	18 	1 	30 	1 	kindle 	VB
+Oba 	1 	18 	1 	31 	1 	in 	IN
+Oba 	1 	18 	1 	32 	1 	them 	PRP
+Oba 	1 	18 	1 	33 	0 	,
+Oba 	1 	18 	1 	34 	1 	and 	CC
+Oba 	1 	18 	1 	35 	1 	devour 	NN
+Oba 	1 	18 	1 	36 	1 	them 	PRP
+Oba 	1 	18 	1 	37 	0 	;
+Oba 	1 	18 	1 	38 	1 	and 	CC
+Oba 	1 	18 	1 	39 	1 	there 	RB
+Oba 	1 	18 	1 	40 	1 	shall 	MD
+Oba 	1 	18 	1 	41 	1 	not 	RB
+Oba 	1 	18 	1 	42 	1 	be 	VB
+Oba 	1 	18 	1 	43 	1 	any 	DT
+Oba 	1 	18 	1 	44 	1 	remaining 	VBG
+Oba 	1 	18 	1 	45 	1 	of 	IN
+Oba 	1 	18 	1 	46 	1 	the 	DT
+Oba 	1 	18 	1 	47 	1 	house 	NN
+Oba 	1 	18 	1 	48 	1 	of 	IN
+Oba 	1 	18 	1 	49 	1 	Esau 	NN
+Oba 	1 	18 	1 	50 	0 	;
+Oba 	1 	18 	1 	51 	1 	for 	IN
+Oba 	1 	18 	1 	52 	1 	the 	DT
+Oba 	1 	18 	1 	53 	1 	LORD 	NN
+Oba 	1 	18 	1 	54 	1 	hath 	NN
+Oba 	1 	18 	1 	55 	1 	spoken 	NN
+Oba 	1 	18 	1 	56 	1 	it 	PRP
+Oba 	1 	18 	1 	57 	0 	.
+Oba 	1 	19 	1 	1 	1 	And 	CC
+Oba 	1 	19 	1 	2 	1 	they 	PRP
+Oba 	1 	19 	1 	3 	1 	of 	IN
+Oba 	1 	19 	1 	4 	1 	the 	DT
+Oba 	1 	19 	1 	5 	1 	south 	NN
+Oba 	1 	19 	1 	6 	1 	shall 	MD
+Oba 	1 	19 	1 	7 	1 	possess 	NN
+Oba 	1 	19 	1 	8 	1 	the 	DT
+Oba 	1 	19 	1 	9 	1 	mount 	NN
+Oba 	1 	19 	1 	10 	1 	of 	IN
+Oba 	1 	19 	1 	11 	1 	Esau 	NN
+Oba 	1 	19 	1 	12 	0 	;
+Oba 	1 	19 	1 	13 	1 	and 	CC
+Oba 	1 	19 	1 	14 	1 	they 	PRP
+Oba 	1 	19 	1 	15 	1 	of 	IN
+Oba 	1 	19 	1 	16 	1 	the 	DT
+Oba 	1 	19 	1 	17 	1 	plain 	NN
+Oba 	1 	19 	1 	18 	1 	the 	DT
+Oba 	1 	19 	1 	19 	1 	Philistines 	NNS
+Oba 	1 	19 	1 	20 	0 	:
+Oba 	1 	19 	1 	21 	1 	and 	CC
+Oba 	1 	19 	1 	22 	1 	they 	PRP
+Oba 	1 	19 	1 	23 	1 	shall 	MD
+Oba 	1 	19 	1 	24 	1 	possess 	NN
+Oba 	1 	19 	1 	25 	1 	the 	DT
+Oba 	1 	19 	1 	26 	1 	fields 	NNS
+Oba 	1 	19 	1 	27 	1 	of 	IN
+Oba 	1 	19 	1 	28 	1 	Ephraim 	NN
+Oba 	1 	19 	1 	29 	0 	,
+Oba 	1 	19 	1 	30 	1 	and 	CC
+Oba 	1 	19 	1 	31 	1 	the 	DT
+Oba 	1 	19 	1 	32 	1 	fields 	NNS
+Oba 	1 	19 	1 	33 	1 	of 	IN
+Oba 	1 	19 	1 	34 	1 	Samaria 	NNS
+Oba 	1 	19 	1 	35 	0 	:
+Oba 	1 	19 	1 	36 	1 	and 	CC
+Oba 	1 	19 	1 	37 	1 	Benjamin 	NNP
+Oba 	1 	19 	1 	38 	1 	shall 	MD
+Oba 	1 	19 	1 	39 	1 	possess 	NN
+Oba 	1 	19 	1 	40 	1 	Gilead 	NN
+Oba 	1 	19 	1 	41 	0 	.
+Oba 	1 	20 	1 	1 	1 	And 	CC
+Oba 	1 	20 	1 	2 	1 	the 	DT
+Oba 	1 	20 	1 	3 	1 	captivity 	NN
+Oba 	1 	20 	1 	4 	1 	of 	IN
+Oba 	1 	20 	1 	5 	1 	this 	DT
+Oba 	1 	20 	1 	6 	1 	host 	NN
+Oba 	1 	20 	1 	7 	1 	of 	IN
+Oba 	1 	20 	1 	8 	1 	the 	DT
+Oba 	1 	20 	1 	9 	1 	children 	NNS
+Oba 	1 	20 	1 	10 	1 	of 	IN
+Oba 	1 	20 	1 	11 	1 	Israel 	NNP
+Oba 	1 	20 	1 	12 	1 	shall 	MD
+Oba 	1 	20 	1 	13 	1 	possess 	NN
+Oba 	1 	20 	1 	14 	1 	that 	IN
+Oba 	1 	20 	1 	15 	1 	of 	IN
+Oba 	1 	20 	1 	16 	1 	the 	DT
+Oba 	1 	20 	1 	17 	1 	Canaanites 	NNS
+Oba 	1 	20 	1 	18 	0 	,
+Oba 	1 	20 	1 	19 	1 	even 	RB
+Oba 	1 	20 	1 	20 	1 	unto 	NN
+Oba 	1 	20 	1 	21 	1 	Zarephath 	NN
+Oba 	1 	20 	1 	22 	0 	;
+Oba 	1 	20 	1 	23 	1 	and 	CC
+Oba 	1 	20 	1 	24 	1 	the 	DT
+Oba 	1 	20 	1 	25 	1 	captivity 	NN
+Oba 	1 	20 	1 	26 	1 	of 	IN
+Oba 	1 	20 	1 	27 	1 	Jerusalem 	NN
+Oba 	1 	20 	1 	28 	0 	,
+Oba 	1 	20 	1 	29 	1 	which 	WDT
+Oba 	1 	20 	1 	30 	1 	is 	VBZ
+Oba 	1 	20 	1 	31 	1 	in 	IN
+Oba 	1 	20 	1 	32 	1 	Sepharad 	NN
+Oba 	1 	20 	1 	33 	0 	,
+Oba 	1 	20 	1 	34 	1 	shall 	MD
+Oba 	1 	20 	1 	35 	1 	possess 	NN
+Oba 	1 	20 	1 	36 	1 	the 	DT
+Oba 	1 	20 	1 	37 	1 	cities 	NNS
+Oba 	1 	20 	1 	38 	1 	of 	IN
+Oba 	1 	20 	1 	39 	1 	the 	DT
+Oba 	1 	20 	1 	40 	1 	south 	NN
+Oba 	1 	20 	1 	41 	0 	.
+Oba 	1 	21 	1 	1 	1 	And 	CC
+Oba 	1 	21 	1 	2 	1 	saviours 	NNS
+Oba 	1 	21 	1 	3 	1 	shall 	MD
+Oba 	1 	21 	1 	4 	1 	come 	VB
+Oba 	1 	21 	1 	5 	1 	up 	RB
+Oba 	1 	21 	1 	6 	1 	on 	IN
+Oba 	1 	21 	1 	7 	1 	mount 	NN
+Oba 	1 	21 	1 	8 	1 	Zion 	NN
+Oba 	1 	21 	1 	9 	1 	to 	TO
+Oba 	1 	21 	1 	10 	1 	judge 	NN
+Oba 	1 	21 	1 	11 	1 	the 	DT
+Oba 	1 	21 	1 	12 	1 	mount 	NN
+Oba 	1 	21 	1 	13 	1 	of 	IN
+Oba 	1 	21 	1 	14 	1 	Esau 	NN
+Oba 	1 	21 	1 	15 	0 	;
+Oba 	1 	21 	1 	16 	1 	and 	CC
+Oba 	1 	21 	1 	17 	1 	the 	DT
+Oba 	1 	21 	1 	18 	1 	kingdom 	NN
+Oba 	1 	21 	1 	19 	1 	shall 	MD
+Oba 	1 	21 	1 	20 	1 	be 	VB
+Oba 	1 	21 	1 	21 	1 	the 	DT
+Oba 	1 	21 	1 	22 	1 	LORD 	NN
+Oba 	1 	21 	1 	23 	0 	's
+Oba 	1 	21 	1 	24 	0 	.

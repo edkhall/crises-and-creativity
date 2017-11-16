@@ -1,0 +1,1335 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Hag 	1 	1 	1 	1 	1 	In 	IN
+Hag 	1 	1 	1 	2 	1 	the 	DT
+Hag 	1 	1 	1 	3 	1 	second 	JJ
+Hag 	1 	1 	1 	4 	1 	year 	NN
+Hag 	1 	1 	1 	5 	1 	of 	IN
+Hag 	1 	1 	1 	6 	1 	Darius 	NN
+Hag 	1 	1 	1 	7 	1 	the 	DT
+Hag 	1 	1 	1 	8 	1 	king 	NN
+Hag 	1 	1 	1 	9 	0 	,
+Hag 	1 	1 	1 	10 	1 	in 	IN
+Hag 	1 	1 	1 	11 	1 	the 	DT
+Hag 	1 	1 	1 	12 	1 	sixth 	NNS
+Hag 	1 	1 	1 	13 	1 	month 	NN
+Hag 	1 	1 	1 	14 	0 	,
+Hag 	1 	1 	1 	15 	1 	in 	IN
+Hag 	1 	1 	1 	16 	1 	the 	DT
+Hag 	1 	1 	1 	17 	1 	first 	RB
+Hag 	1 	1 	1 	18 	1 	day 	NN
+Hag 	1 	1 	1 	19 	1 	of 	IN
+Hag 	1 	1 	1 	20 	1 	the 	DT
+Hag 	1 	1 	1 	21 	1 	month 	NN
+Hag 	1 	1 	1 	22 	0 	,
+Hag 	1 	1 	1 	23 	1 	came 	VBD
+Hag 	1 	1 	1 	24 	1 	the 	DT
+Hag 	1 	1 	1 	25 	1 	word 	NN
+Hag 	1 	1 	1 	26 	1 	of 	IN
+Hag 	1 	1 	1 	27 	1 	the 	DT
+Hag 	1 	1 	1 	28 	1 	LORD 	NN
+Hag 	1 	1 	1 	29 	1 	by 	IN
+Hag 	1 	1 	1 	30 	1 	Haggai 	NN
+Hag 	1 	1 	1 	31 	1 	the 	DT
+Hag 	1 	1 	1 	32 	1 	prophet 	NN
+Hag 	1 	1 	1 	33 	1 	unto 	NN
+Hag 	1 	1 	1 	34 	1 	Zerubbabel 	NN
+Hag 	1 	1 	1 	35 	1 	the 	DT
+Hag 	1 	1 	1 	36 	1 	son 	NN
+Hag 	1 	1 	1 	37 	1 	of 	IN
+Hag 	1 	1 	1 	38 	1 	Shealtiel 	NN
+Hag 	1 	1 	1 	39 	0 	,
+Hag 	1 	1 	1 	40 	1 	governor 	NN
+Hag 	1 	1 	1 	41 	1 	of 	IN
+Hag 	1 	1 	1 	42 	1 	Judah 	NN
+Hag 	1 	1 	1 	43 	0 	,
+Hag 	1 	1 	1 	44 	1 	and 	CC
+Hag 	1 	1 	1 	45 	1 	to 	TO
+Hag 	1 	1 	1 	46 	1 	Joshua 	NNP
+Hag 	1 	1 	1 	47 	1 	the 	DT
+Hag 	1 	1 	1 	48 	1 	son 	NN
+Hag 	1 	1 	1 	49 	1 	of 	IN
+Hag 	1 	1 	1 	50 	1 	Josedech 	NN
+Hag 	1 	1 	1 	51 	0 	,
+Hag 	1 	1 	1 	52 	1 	the 	DT
+Hag 	1 	1 	1 	53 	1 	high 	JJ
+Hag 	1 	1 	1 	54 	1 	priest 	NN
+Hag 	1 	1 	1 	55 	0 	,
+Hag 	1 	1 	1 	56 	1 	saying 	VBG
+Hag 	1 	1 	1 	57 	0 	,
+Hag 	1 	2 	1 	1 	1 	Thus 	RB
+Hag 	1 	2 	1 	2 	1 	speaketh 	NN
+Hag 	1 	2 	1 	3 	1 	the 	DT
+Hag 	1 	2 	1 	4 	1 	LORD 	NN
+Hag 	1 	2 	1 	5 	1 	of 	IN
+Hag 	1 	2 	1 	6 	1 	hosts 	NNS
+Hag 	1 	2 	1 	7 	0 	,
+Hag 	1 	2 	1 	8 	1 	saying 	VBG
+Hag 	1 	2 	1 	9 	0 	,
+Hag 	1 	2 	1 	10 	1 	This 	DT
+Hag 	1 	2 	1 	11 	1 	people 	NNS
+Hag 	1 	2 	1 	12 	1 	say 	VB
+Hag 	1 	2 	1 	13 	0 	,
+Hag 	1 	2 	1 	14 	1 	The 	DT
+Hag 	1 	2 	1 	15 	1 	time 	NN
+Hag 	1 	2 	1 	16 	1 	is 	VBZ
+Hag 	1 	2 	1 	17 	1 	not 	RB
+Hag 	1 	2 	1 	18 	1 	come 	VB
+Hag 	1 	2 	1 	19 	0 	,
+Hag 	1 	2 	1 	20 	1 	the 	DT
+Hag 	1 	2 	1 	21 	1 	time 	NN
+Hag 	1 	2 	1 	22 	1 	that 	IN
+Hag 	1 	2 	1 	23 	1 	the 	DT
+Hag 	1 	2 	1 	24 	1 	LORD 	NN
+Hag 	1 	2 	1 	25 	0 	's
+Hag 	1 	2 	1 	26 	1 	house 	NN
+Hag 	1 	2 	1 	27 	1 	should 	MD
+Hag 	1 	2 	1 	28 	1 	be 	VB
+Hag 	1 	2 	1 	29 	1 	built 	NN
+Hag 	1 	2 	1 	30 	0 	.
+Hag 	1 	3 	1 	1 	1 	Then 	RB
+Hag 	1 	3 	1 	2 	1 	came 	VBD
+Hag 	1 	3 	1 	3 	1 	the 	DT
+Hag 	1 	3 	1 	4 	1 	word 	NN
+Hag 	1 	3 	1 	5 	1 	of 	IN
+Hag 	1 	3 	1 	6 	1 	the 	DT
+Hag 	1 	3 	1 	7 	1 	LORD 	NN
+Hag 	1 	3 	1 	8 	1 	by 	IN
+Hag 	1 	3 	1 	9 	1 	Haggai 	NN
+Hag 	1 	3 	1 	10 	1 	the 	DT
+Hag 	1 	3 	1 	11 	1 	prophet 	NN
+Hag 	1 	3 	1 	12 	0 	,
+Hag 	1 	3 	1 	13 	1 	saying 	VBG
+Hag 	1 	3 	1 	14 	0 	,
+Hag 	1 	4 	1 	1 	1 	Is 	NN
+Hag 	1 	4 	1 	2 	1 	it 	PRP
+Hag 	1 	4 	1 	3 	1 	time 	NN
+Hag 	1 	4 	1 	4 	1 	for 	IN
+Hag 	1 	4 	1 	5 	1 	you 	PRP
+Hag 	1 	4 	1 	6 	0 	,
+Hag 	1 	4 	1 	7 	1 	O 	NN
+Hag 	1 	4 	1 	8 	1 	ye 	NN
+Hag 	1 	4 	1 	9 	0 	,
+Hag 	1 	4 	1 	10 	1 	to 	TO
+Hag 	1 	4 	1 	11 	1 	dwell 	NN
+Hag 	1 	4 	1 	12 	1 	in 	IN
+Hag 	1 	4 	1 	13 	1 	your 	PRP$
+Hag 	1 	4 	1 	14 	1 	cieled 	VBN
+Hag 	1 	4 	1 	15 	1 	houses 	NNS
+Hag 	1 	4 	1 	16 	0 	,
+Hag 	1 	4 	1 	17 	1 	and 	CC
+Hag 	1 	4 	1 	18 	1 	this 	DT
+Hag 	1 	4 	1 	19 	1 	house 	NN
+Hag 	1 	4 	1 	20 	1 	lie 	NN
+Hag 	1 	4 	1 	21 	1 	waste 	NN
+Hag 	1 	4 	1 	22 	0 	?
+Hag 	1 	5 	1 	1 	1 	Now 	RB
+Hag 	1 	5 	1 	2 	1 	therefore 	RB
+Hag 	1 	5 	1 	3 	1 	thus 	RB
+Hag 	1 	5 	1 	4 	1 	saith 	NN
+Hag 	1 	5 	1 	5 	1 	the 	DT
+Hag 	1 	5 	1 	6 	1 	LORD 	NN
+Hag 	1 	5 	1 	7 	1 	of 	IN
+Hag 	1 	5 	1 	8 	1 	hosts 	NNS
+Hag 	1 	5 	1 	9 	0 	;
+Hag 	1 	5 	1 	10 	1 	Consider 	VB
+Hag 	1 	5 	1 	11 	1 	your 	PRP$
+Hag 	1 	5 	1 	12 	1 	ways 	NNS
+Hag 	1 	5 	1 	13 	0 	.
+Hag 	1 	6 	1 	1 	1 	Ye 	NN
+Hag 	1 	6 	1 	2 	1 	have 	VB
+Hag 	1 	6 	1 	3 	1 	sown 	NN
+Hag 	1 	6 	1 	4 	1 	much 	JJ
+Hag 	1 	6 	1 	5 	0 	,
+Hag 	1 	6 	1 	6 	1 	and 	CC
+Hag 	1 	6 	1 	7 	1 	bring 	NN
+Hag 	1 	6 	1 	8 	1 	in 	IN
+Hag 	1 	6 	1 	9 	1 	little 	JJ
+Hag 	1 	6 	1 	10 	0 	;
+Hag 	1 	6 	1 	11 	1 	ye 	NN
+Hag 	1 	6 	1 	12 	1 	eat 	NN
+Hag 	1 	6 	1 	13 	0 	,
+Hag 	1 	6 	1 	14 	1 	but 	CC
+Hag 	1 	6 	1 	15 	1 	ye 	NN
+Hag 	1 	6 	1 	16 	1 	have 	VB
+Hag 	1 	6 	1 	17 	1 	not 	RB
+Hag 	1 	6 	1 	18 	1 	enough 	RB
+Hag 	1 	6 	1 	19 	0 	;
+Hag 	1 	6 	1 	20 	1 	ye 	NN
+Hag 	1 	6 	1 	21 	1 	drink 	NN
+Hag 	1 	6 	1 	22 	0 	,
+Hag 	1 	6 	1 	23 	1 	but 	CC
+Hag 	1 	6 	1 	24 	1 	ye 	NN
+Hag 	1 	6 	1 	25 	1 	are 	VBP
+Hag 	1 	6 	1 	26 	1 	not 	RB
+Hag 	1 	6 	1 	27 	1 	filled 	VBN
+Hag 	1 	6 	1 	28 	1 	with 	IN
+Hag 	1 	6 	1 	29 	1 	drink 	NN
+Hag 	1 	6 	1 	30 	0 	;
+Hag 	1 	6 	1 	31 	1 	ye 	NN
+Hag 	1 	6 	1 	32 	1 	clothe 	NN
+Hag 	1 	6 	1 	33 	1 	you 	PRP
+Hag 	1 	6 	1 	34 	0 	,
+Hag 	1 	6 	1 	35 	1 	but 	CC
+Hag 	1 	6 	1 	36 	1 	there 	RB
+Hag 	1 	6 	1 	37 	1 	is 	VBZ
+Hag 	1 	6 	1 	38 	1 	none 	NN
+Hag 	1 	6 	1 	39 	1 	warm 	NN
+Hag 	1 	6 	1 	40 	0 	;
+Hag 	1 	6 	1 	41 	1 	and 	CC
+Hag 	1 	6 	1 	42 	1 	he 	PRP
+Hag 	1 	6 	1 	43 	1 	that 	IN
+Hag 	1 	6 	1 	44 	1 	earneth 	NNS
+Hag 	1 	6 	1 	45 	1 	wages 	NNS
+Hag 	1 	6 	1 	46 	1 	earneth 	NNS
+Hag 	1 	6 	1 	47 	1 	wages 	NNS
+Hag 	1 	6 	1 	48 	1 	to 	TO
+Hag 	1 	6 	1 	49 	1 	put 	NN
+Hag 	1 	6 	1 	50 	1 	it 	PRP
+Hag 	1 	6 	1 	51 	1 	into 	IN
+Hag 	1 	6 	1 	52 	1 	a 	DT
+Hag 	1 	6 	1 	53 	1 	bag 	NN
+Hag 	1 	6 	1 	54 	1 	with 	IN
+Hag 	1 	6 	1 	55 	1 	holes 	NNS
+Hag 	1 	6 	1 	56 	0 	.
+Hag 	1 	7 	1 	1 	1 	Thus 	RB
+Hag 	1 	7 	1 	2 	1 	saith 	NN
+Hag 	1 	7 	1 	3 	1 	the 	DT
+Hag 	1 	7 	1 	4 	1 	LORD 	NN
+Hag 	1 	7 	1 	5 	1 	of 	IN
+Hag 	1 	7 	1 	6 	1 	hosts 	NNS
+Hag 	1 	7 	1 	7 	0 	;
+Hag 	1 	7 	1 	8 	1 	Consider 	VB
+Hag 	1 	7 	1 	9 	1 	your 	PRP$
+Hag 	1 	7 	1 	10 	1 	ways 	NNS
+Hag 	1 	7 	1 	11 	0 	.
+Hag 	1 	8 	1 	1 	1 	Go 	VB
+Hag 	1 	8 	1 	2 	1 	up 	RB
+Hag 	1 	8 	1 	3 	1 	to 	TO
+Hag 	1 	8 	1 	4 	1 	the 	DT
+Hag 	1 	8 	1 	5 	1 	mountain 	NN
+Hag 	1 	8 	1 	6 	0 	,
+Hag 	1 	8 	1 	7 	1 	and 	CC
+Hag 	1 	8 	1 	8 	1 	bring 	NN
+Hag 	1 	8 	1 	9 	1 	wood 	NN
+Hag 	1 	8 	1 	10 	0 	,
+Hag 	1 	8 	1 	11 	1 	and 	CC
+Hag 	1 	8 	1 	12 	1 	build 	NN
+Hag 	1 	8 	1 	13 	1 	the 	DT
+Hag 	1 	8 	1 	14 	1 	house 	NN
+Hag 	1 	8 	1 	15 	0 	;
+Hag 	1 	8 	1 	16 	1 	and 	CC
+Hag 	1 	8 	1 	17 	1 	I 	PRP
+Hag 	1 	8 	1 	18 	1 	will 	MD
+Hag 	1 	8 	1 	19 	1 	take 	VB
+Hag 	1 	8 	1 	20 	1 	pleasure 	NN
+Hag 	1 	8 	1 	21 	1 	in 	IN
+Hag 	1 	8 	1 	22 	1 	it 	PRP
+Hag 	1 	8 	1 	23 	0 	,
+Hag 	1 	8 	1 	24 	1 	and 	CC
+Hag 	1 	8 	1 	25 	1 	I 	PRP
+Hag 	1 	8 	1 	26 	1 	will 	MD
+Hag 	1 	8 	1 	27 	1 	be 	VB
+Hag 	1 	8 	1 	28 	1 	glorified 	VBN
+Hag 	1 	8 	1 	29 	0 	,
+Hag 	1 	8 	1 	30 	1 	saith 	NN
+Hag 	1 	8 	1 	31 	1 	the 	DT
+Hag 	1 	8 	1 	32 	1 	LORD 	NN
+Hag 	1 	8 	1 	33 	0 	.
+Hag 	1 	9 	1 	1 	1 	Ye 	NN
+Hag 	1 	9 	1 	2 	1 	looked 	VBD
+Hag 	1 	9 	1 	3 	1 	for 	IN
+Hag 	1 	9 	1 	4 	1 	much 	JJ
+Hag 	1 	9 	1 	5 	0 	,
+Hag 	1 	9 	1 	6 	1 	and 	CC
+Hag 	1 	9 	1 	7 	0 	,
+Hag 	1 	9 	1 	8 	1 	lo 	NN
+Hag 	1 	9 	1 	9 	1 	it 	PRP
+Hag 	1 	9 	1 	10 	1 	came 	VBD
+Hag 	1 	9 	1 	11 	1 	to 	TO
+Hag 	1 	9 	1 	12 	1 	little 	JJ
+Hag 	1 	9 	1 	13 	0 	;
+Hag 	1 	9 	1 	14 	1 	and 	CC
+Hag 	1 	9 	1 	15 	1 	when 	WRB
+Hag 	1 	9 	1 	16 	1 	ye 	NN
+Hag 	1 	9 	1 	17 	1 	brought 	NN
+Hag 	1 	9 	1 	18 	1 	it 	PRP
+Hag 	1 	9 	1 	19 	1 	home 	NN
+Hag 	1 	9 	1 	20 	0 	,
+Hag 	1 	9 	1 	21 	1 	I 	PRP
+Hag 	1 	9 	1 	22 	1 	did 	VBD
+Hag 	1 	9 	1 	23 	1 	blow 	NN
+Hag 	1 	9 	1 	24 	1 	upon 	IN
+Hag 	1 	9 	1 	25 	1 	it 	PRP
+Hag 	1 	9 	1 	26 	0 	.
+Hag 	1 	9 	2 	1 	1 	Why 	WRB
+Hag 	1 	9 	2 	2 	0 	?
+Hag 	1 	9 	3 	1 	1 	saith 	NN
+Hag 	1 	9 	3 	2 	1 	the 	DT
+Hag 	1 	9 	3 	3 	1 	LORD 	NN
+Hag 	1 	9 	3 	4 	1 	of 	IN
+Hag 	1 	9 	3 	5 	1 	hosts 	NNS
+Hag 	1 	9 	3 	6 	0 	.
+Hag 	1 	9 	4 	1 	1 	Because 	IN
+Hag 	1 	9 	4 	2 	1 	of 	IN
+Hag 	1 	9 	4 	3 	1 	mine 	NN
+Hag 	1 	9 	4 	4 	1 	house 	NN
+Hag 	1 	9 	4 	5 	1 	that 	IN
+Hag 	1 	9 	4 	6 	1 	is 	VBZ
+Hag 	1 	9 	4 	7 	1 	waste 	NN
+Hag 	1 	9 	4 	8 	0 	,
+Hag 	1 	9 	4 	9 	1 	and 	CC
+Hag 	1 	9 	4 	10 	1 	ye 	NN
+Hag 	1 	9 	4 	11 	1 	run 	VB
+Hag 	1 	9 	4 	12 	1 	every 	DT
+Hag 	1 	9 	4 	13 	1 	man 	NN
+Hag 	1 	9 	4 	14 	1 	unto 	NN
+Hag 	1 	9 	4 	15 	1 	his 	PRP$
+Hag 	1 	9 	4 	16 	1 	own 	JJ
+Hag 	1 	9 	4 	17 	1 	house 	NN
+Hag 	1 	9 	4 	18 	0 	.
+Hag 	1 	10 	1 	1 	1 	Therefore 	RB
+Hag 	1 	10 	1 	2 	1 	the 	DT
+Hag 	1 	10 	1 	3 	1 	heaven 	NN
+Hag 	1 	10 	1 	4 	1 	over 	IN
+Hag 	1 	10 	1 	5 	1 	you 	PRP
+Hag 	1 	10 	1 	6 	1 	is 	VBZ
+Hag 	1 	10 	1 	7 	1 	stayed 	NN
+Hag 	1 	10 	1 	8 	1 	from 	IN
+Hag 	1 	10 	1 	9 	1 	dew 	NN
+Hag 	1 	10 	1 	10 	0 	,
+Hag 	1 	10 	1 	11 	1 	and 	CC
+Hag 	1 	10 	1 	12 	1 	the 	DT
+Hag 	1 	10 	1 	13 	1 	earth 	NN
+Hag 	1 	10 	1 	14 	1 	is 	VBZ
+Hag 	1 	10 	1 	15 	1 	stayed 	NN
+Hag 	1 	10 	1 	16 	1 	from 	IN
+Hag 	1 	10 	1 	17 	1 	her 	PRP$
+Hag 	1 	10 	1 	18 	1 	fruit 	NN
+Hag 	1 	10 	1 	19 	0 	.
+Hag 	1 	11 	1 	1 	1 	And 	CC
+Hag 	1 	11 	1 	2 	1 	I 	PRP
+Hag 	1 	11 	1 	3 	1 	called 	VBN
+Hag 	1 	11 	1 	4 	1 	for 	IN
+Hag 	1 	11 	1 	5 	1 	a 	DT
+Hag 	1 	11 	1 	6 	1 	drought 	NN
+Hag 	1 	11 	1 	7 	1 	upon 	IN
+Hag 	1 	11 	1 	8 	1 	the 	DT
+Hag 	1 	11 	1 	9 	1 	land 	NN
+Hag 	1 	11 	1 	10 	0 	,
+Hag 	1 	11 	1 	11 	1 	and 	CC
+Hag 	1 	11 	1 	12 	1 	upon 	IN
+Hag 	1 	11 	1 	13 	1 	the 	DT
+Hag 	1 	11 	1 	14 	1 	mountains 	NNS
+Hag 	1 	11 	1 	15 	0 	,
+Hag 	1 	11 	1 	16 	1 	and 	CC
+Hag 	1 	11 	1 	17 	1 	upon 	IN
+Hag 	1 	11 	1 	18 	1 	the 	DT
+Hag 	1 	11 	1 	19 	1 	corn 	NN
+Hag 	1 	11 	1 	20 	0 	,
+Hag 	1 	11 	1 	21 	1 	and 	CC
+Hag 	1 	11 	1 	22 	1 	upon 	IN
+Hag 	1 	11 	1 	23 	1 	the 	DT
+Hag 	1 	11 	1 	24 	1 	new 	JJ
+Hag 	1 	11 	1 	25 	1 	wine 	NN
+Hag 	1 	11 	1 	26 	0 	,
+Hag 	1 	11 	1 	27 	1 	and 	CC
+Hag 	1 	11 	1 	28 	1 	upon 	IN
+Hag 	1 	11 	1 	29 	1 	the 	DT
+Hag 	1 	11 	1 	30 	1 	oil 	NN
+Hag 	1 	11 	1 	31 	0 	,
+Hag 	1 	11 	1 	32 	1 	and 	CC
+Hag 	1 	11 	1 	33 	1 	upon 	IN
+Hag 	1 	11 	1 	34 	1 	that 	IN
+Hag 	1 	11 	1 	35 	1 	which 	WDT
+Hag 	1 	11 	1 	36 	1 	the 	DT
+Hag 	1 	11 	1 	37 	1 	ground 	NN
+Hag 	1 	11 	1 	38 	1 	bringeth 	NN
+Hag 	1 	11 	1 	39 	1 	forth 	NN
+Hag 	1 	11 	1 	40 	0 	,
+Hag 	1 	11 	1 	41 	1 	and 	CC
+Hag 	1 	11 	1 	42 	1 	upon 	IN
+Hag 	1 	11 	1 	43 	1 	men 	NNS
+Hag 	1 	11 	1 	44 	0 	,
+Hag 	1 	11 	1 	45 	1 	and 	CC
+Hag 	1 	11 	1 	46 	1 	upon 	IN
+Hag 	1 	11 	1 	47 	1 	cattle 	NNS
+Hag 	1 	11 	1 	48 	0 	,
+Hag 	1 	11 	1 	49 	1 	and 	CC
+Hag 	1 	11 	1 	50 	1 	upon 	IN
+Hag 	1 	11 	1 	51 	1 	all 	DT
+Hag 	1 	11 	1 	52 	1 	the 	DT
+Hag 	1 	11 	1 	53 	1 	labour 	NN
+Hag 	1 	11 	1 	54 	1 	of 	IN
+Hag 	1 	11 	1 	55 	1 	the 	DT
+Hag 	1 	11 	1 	56 	1 	hands 	NNS
+Hag 	1 	11 	1 	57 	0 	.
+Hag 	1 	12 	1 	1 	1 	Then 	RB
+Hag 	1 	12 	1 	2 	1 	Zerubbabel 	NN
+Hag 	1 	12 	1 	3 	1 	the 	DT
+Hag 	1 	12 	1 	4 	1 	son 	NN
+Hag 	1 	12 	1 	5 	1 	of 	IN
+Hag 	1 	12 	1 	6 	1 	Shealtiel 	NN
+Hag 	1 	12 	1 	7 	0 	,
+Hag 	1 	12 	1 	8 	1 	and 	CC
+Hag 	1 	12 	1 	9 	1 	Joshua 	NNP
+Hag 	1 	12 	1 	10 	1 	the 	DT
+Hag 	1 	12 	1 	11 	1 	son 	NN
+Hag 	1 	12 	1 	12 	1 	of 	IN
+Hag 	1 	12 	1 	13 	1 	Josedech 	NN
+Hag 	1 	12 	1 	14 	0 	,
+Hag 	1 	12 	1 	15 	1 	the 	DT
+Hag 	1 	12 	1 	16 	1 	high 	JJ
+Hag 	1 	12 	1 	17 	1 	priest 	NN
+Hag 	1 	12 	1 	18 	0 	,
+Hag 	1 	12 	1 	19 	1 	with 	IN
+Hag 	1 	12 	1 	20 	1 	all 	DT
+Hag 	1 	12 	1 	21 	1 	the 	DT
+Hag 	1 	12 	1 	22 	1 	remnant 	NN
+Hag 	1 	12 	1 	23 	1 	of 	IN
+Hag 	1 	12 	1 	24 	1 	the 	DT
+Hag 	1 	12 	1 	25 	1 	people 	NNS
+Hag 	1 	12 	1 	26 	0 	,
+Hag 	1 	12 	1 	27 	1 	obeyed 	NNS
+Hag 	1 	12 	1 	28 	1 	the 	DT
+Hag 	1 	12 	1 	29 	1 	voice 	NN
+Hag 	1 	12 	1 	30 	1 	of 	IN
+Hag 	1 	12 	1 	31 	1 	the 	DT
+Hag 	1 	12 	1 	32 	1 	LORD 	NN
+Hag 	1 	12 	1 	33 	1 	their 	PRP$
+Hag 	1 	12 	1 	34 	1 	God 	NNP
+Hag 	1 	12 	1 	35 	0 	,
+Hag 	1 	12 	1 	36 	1 	and 	CC
+Hag 	1 	12 	1 	37 	1 	the 	DT
+Hag 	1 	12 	1 	38 	1 	words 	NNS
+Hag 	1 	12 	1 	39 	1 	of 	IN
+Hag 	1 	12 	1 	40 	1 	Haggai 	NN
+Hag 	1 	12 	1 	41 	1 	the 	DT
+Hag 	1 	12 	1 	42 	1 	prophet 	NN
+Hag 	1 	12 	1 	43 	0 	,
+Hag 	1 	12 	1 	44 	1 	as 	IN
+Hag 	1 	12 	1 	45 	1 	the 	DT
+Hag 	1 	12 	1 	46 	1 	LORD 	NN
+Hag 	1 	12 	1 	47 	1 	their 	PRP$
+Hag 	1 	12 	1 	48 	1 	God 	NNP
+Hag 	1 	12 	1 	49 	1 	had 	VBD
+Hag 	1 	12 	1 	50 	1 	sent 	NN
+Hag 	1 	12 	1 	51 	1 	him 	PRP
+Hag 	1 	12 	1 	52 	0 	,
+Hag 	1 	12 	1 	53 	1 	and 	CC
+Hag 	1 	12 	1 	54 	1 	the 	DT
+Hag 	1 	12 	1 	55 	1 	people 	NNS
+Hag 	1 	12 	1 	56 	1 	did 	VBD
+Hag 	1 	12 	1 	57 	1 	fear 	NN
+Hag 	1 	12 	1 	58 	1 	before 	IN
+Hag 	1 	12 	1 	59 	1 	the 	DT
+Hag 	1 	12 	1 	60 	1 	LORD 	NN
+Hag 	1 	12 	1 	61 	0 	.
+Hag 	1 	13 	1 	1 	1 	Then 	RB
+Hag 	1 	13 	1 	2 	1 	spake 	NN
+Hag 	1 	13 	1 	3 	1 	Haggai 	NN
+Hag 	1 	13 	1 	4 	1 	the 	DT
+Hag 	1 	13 	1 	5 	1 	LORD 	NN
+Hag 	1 	13 	1 	6 	0 	's
+Hag 	1 	13 	1 	7 	1 	messenger 	NN
+Hag 	1 	13 	1 	8 	1 	in 	IN
+Hag 	1 	13 	1 	9 	1 	the 	DT
+Hag 	1 	13 	1 	10 	1 	LORD 	NN
+Hag 	1 	13 	1 	11 	0 	's
+Hag 	1 	13 	1 	12 	1 	message 	NN
+Hag 	1 	13 	1 	13 	1 	unto 	NN
+Hag 	1 	13 	1 	14 	1 	the 	DT
+Hag 	1 	13 	1 	15 	1 	people 	NNS
+Hag 	1 	13 	1 	16 	0 	,
+Hag 	1 	13 	1 	17 	1 	saying 	VBG
+Hag 	1 	13 	1 	18 	0 	,
+Hag 	1 	13 	1 	19 	1 	I 	PRP
+Hag 	1 	13 	1 	20 	1 	am 	VBP
+Hag 	1 	13 	1 	21 	1 	with 	IN
+Hag 	1 	13 	1 	22 	1 	you 	PRP
+Hag 	1 	13 	1 	23 	0 	,
+Hag 	1 	13 	1 	24 	1 	saith 	NN
+Hag 	1 	13 	1 	25 	1 	the 	DT
+Hag 	1 	13 	1 	26 	1 	LORD 	NN
+Hag 	1 	13 	1 	27 	0 	.
+Hag 	1 	14 	1 	1 	1 	And 	CC
+Hag 	1 	14 	1 	2 	1 	the 	DT
+Hag 	1 	14 	1 	3 	1 	LORD 	NN
+Hag 	1 	14 	1 	4 	1 	stirred 	VBN
+Hag 	1 	14 	1 	5 	1 	up 	RB
+Hag 	1 	14 	1 	6 	1 	the 	DT
+Hag 	1 	14 	1 	7 	1 	spirit 	NN
+Hag 	1 	14 	1 	8 	1 	of 	IN
+Hag 	1 	14 	1 	9 	1 	Zerubbabel 	NN
+Hag 	1 	14 	1 	10 	1 	the 	DT
+Hag 	1 	14 	1 	11 	1 	son 	NN
+Hag 	1 	14 	1 	12 	1 	of 	IN
+Hag 	1 	14 	1 	13 	1 	Shealtiel 	NN
+Hag 	1 	14 	1 	14 	0 	,
+Hag 	1 	14 	1 	15 	1 	governor 	NN
+Hag 	1 	14 	1 	16 	1 	of 	IN
+Hag 	1 	14 	1 	17 	1 	Judah 	NN
+Hag 	1 	14 	1 	18 	0 	,
+Hag 	1 	14 	1 	19 	1 	and 	CC
+Hag 	1 	14 	1 	20 	1 	the 	DT
+Hag 	1 	14 	1 	21 	1 	spirit 	NN
+Hag 	1 	14 	1 	22 	1 	of 	IN
+Hag 	1 	14 	1 	23 	1 	Joshua 	NNP
+Hag 	1 	14 	1 	24 	1 	the 	DT
+Hag 	1 	14 	1 	25 	1 	son 	NN
+Hag 	1 	14 	1 	26 	1 	of 	IN
+Hag 	1 	14 	1 	27 	1 	Josedech 	NN
+Hag 	1 	14 	1 	28 	0 	,
+Hag 	1 	14 	1 	29 	1 	the 	DT
+Hag 	1 	14 	1 	30 	1 	high 	JJ
+Hag 	1 	14 	1 	31 	1 	priest 	NN
+Hag 	1 	14 	1 	32 	0 	,
+Hag 	1 	14 	1 	33 	1 	and 	CC
+Hag 	1 	14 	1 	34 	1 	the 	DT
+Hag 	1 	14 	1 	35 	1 	spirit 	NN
+Hag 	1 	14 	1 	36 	1 	of 	IN
+Hag 	1 	14 	1 	37 	1 	all 	DT
+Hag 	1 	14 	1 	38 	1 	the 	DT
+Hag 	1 	14 	1 	39 	1 	remnant 	NN
+Hag 	1 	14 	1 	40 	1 	of 	IN
+Hag 	1 	14 	1 	41 	1 	the 	DT
+Hag 	1 	14 	1 	42 	1 	people 	NNS
+Hag 	1 	14 	1 	43 	0 	;
+Hag 	1 	14 	1 	44 	1 	and 	CC
+Hag 	1 	14 	1 	45 	1 	they 	PRP
+Hag 	1 	14 	1 	46 	1 	came 	VBD
+Hag 	1 	14 	1 	47 	1 	and 	CC
+Hag 	1 	14 	1 	48 	1 	did 	VBD
+Hag 	1 	14 	1 	49 	1 	work 	NN
+Hag 	1 	14 	1 	50 	1 	in 	IN
+Hag 	1 	14 	1 	51 	1 	the 	DT
+Hag 	1 	14 	1 	52 	1 	house 	NN
+Hag 	1 	14 	1 	53 	1 	of 	IN
+Hag 	1 	14 	1 	54 	1 	the 	DT
+Hag 	1 	14 	1 	55 	1 	LORD 	NN
+Hag 	1 	14 	1 	56 	1 	of 	IN
+Hag 	1 	14 	1 	57 	1 	hosts 	NNS
+Hag 	1 	14 	1 	58 	0 	,
+Hag 	1 	14 	1 	59 	1 	their 	PRP$
+Hag 	1 	14 	1 	60 	1 	God 	NNP
+Hag 	1 	14 	1 	61 	0 	,
+Hag 	1 	15 	1 	1 	1 	In 	IN
+Hag 	1 	15 	1 	2 	1 	the 	DT
+Hag 	1 	15 	1 	3 	1 	four 	CD
+Hag 	1 	15 	1 	4 	1 	and 	CC
+Hag 	1 	15 	1 	5 	1 	twentieth 	NNS
+Hag 	1 	15 	1 	6 	1 	day 	NN
+Hag 	1 	15 	1 	7 	1 	of 	IN
+Hag 	1 	15 	1 	8 	1 	the 	DT
+Hag 	1 	15 	1 	9 	1 	sixth 	NNS
+Hag 	1 	15 	1 	10 	1 	month 	NN
+Hag 	1 	15 	1 	11 	0 	,
+Hag 	1 	15 	1 	12 	1 	in 	IN
+Hag 	1 	15 	1 	13 	1 	the 	DT
+Hag 	1 	15 	1 	14 	1 	second 	JJ
+Hag 	1 	15 	1 	15 	1 	year 	NN
+Hag 	1 	15 	1 	16 	1 	of 	IN
+Hag 	1 	15 	1 	17 	1 	Darius 	NN
+Hag 	1 	15 	1 	18 	1 	the 	DT
+Hag 	1 	15 	1 	19 	1 	king 	NN
+Hag 	1 	15 	1 	20 	0 	.
+Hag 	2 	1 	1 	1 	1 	In 	IN
+Hag 	2 	1 	1 	2 	1 	the 	DT
+Hag 	2 	1 	1 	3 	1 	seventh 	NN
+Hag 	2 	1 	1 	4 	1 	month 	NN
+Hag 	2 	1 	1 	5 	0 	,
+Hag 	2 	1 	1 	6 	1 	in 	IN
+Hag 	2 	1 	1 	7 	1 	the 	DT
+Hag 	2 	1 	1 	8 	1 	one 	CD
+Hag 	2 	1 	1 	9 	1 	and 	CC
+Hag 	2 	1 	1 	10 	1 	twentieth 	NNS
+Hag 	2 	1 	1 	11 	1 	day 	NN
+Hag 	2 	1 	1 	12 	1 	of 	IN
+Hag 	2 	1 	1 	13 	1 	the 	DT
+Hag 	2 	1 	1 	14 	1 	month 	NN
+Hag 	2 	1 	1 	15 	0 	,
+Hag 	2 	1 	1 	16 	1 	came 	VBD
+Hag 	2 	1 	1 	17 	1 	the 	DT
+Hag 	2 	1 	1 	18 	1 	word 	NN
+Hag 	2 	1 	1 	19 	1 	of 	IN
+Hag 	2 	1 	1 	20 	1 	the 	DT
+Hag 	2 	1 	1 	21 	1 	LORD 	NN
+Hag 	2 	1 	1 	22 	1 	by 	IN
+Hag 	2 	1 	1 	23 	1 	the 	DT
+Hag 	2 	1 	1 	24 	1 	prophet 	NN
+Hag 	2 	1 	1 	25 	1 	Haggai 	NN
+Hag 	2 	1 	1 	26 	0 	,
+Hag 	2 	1 	1 	27 	1 	saying 	VBG
+Hag 	2 	1 	1 	28 	0 	,
+Hag 	2 	2 	1 	1 	1 	Speak 	NN
+Hag 	2 	2 	1 	2 	1 	now 	RB
+Hag 	2 	2 	1 	3 	1 	to 	TO
+Hag 	2 	2 	1 	4 	1 	Zerubbabel 	NN
+Hag 	2 	2 	1 	5 	1 	the 	DT
+Hag 	2 	2 	1 	6 	1 	son 	NN
+Hag 	2 	2 	1 	7 	1 	of 	IN
+Hag 	2 	2 	1 	8 	1 	Shealtiel 	NN
+Hag 	2 	2 	1 	9 	0 	,
+Hag 	2 	2 	1 	10 	1 	governor 	NN
+Hag 	2 	2 	1 	11 	1 	of 	IN
+Hag 	2 	2 	1 	12 	1 	Judah 	NN
+Hag 	2 	2 	1 	13 	0 	,
+Hag 	2 	2 	1 	14 	1 	and 	CC
+Hag 	2 	2 	1 	15 	1 	to 	TO
+Hag 	2 	2 	1 	16 	1 	Joshua 	NNP
+Hag 	2 	2 	1 	17 	1 	the 	DT
+Hag 	2 	2 	1 	18 	1 	son 	NN
+Hag 	2 	2 	1 	19 	1 	of 	IN
+Hag 	2 	2 	1 	20 	1 	Josedech 	NN
+Hag 	2 	2 	1 	21 	0 	,
+Hag 	2 	2 	1 	22 	1 	the 	DT
+Hag 	2 	2 	1 	23 	1 	high 	JJ
+Hag 	2 	2 	1 	24 	1 	priest 	NN
+Hag 	2 	2 	1 	25 	0 	,
+Hag 	2 	2 	1 	26 	1 	and 	CC
+Hag 	2 	2 	1 	27 	1 	to 	TO
+Hag 	2 	2 	1 	28 	1 	the 	DT
+Hag 	2 	2 	1 	29 	1 	residue 	NN
+Hag 	2 	2 	1 	30 	1 	of 	IN
+Hag 	2 	2 	1 	31 	1 	the 	DT
+Hag 	2 	2 	1 	32 	1 	people 	NNS
+Hag 	2 	2 	1 	33 	0 	,
+Hag 	2 	2 	1 	34 	1 	saying 	VBG
+Hag 	2 	2 	1 	35 	0 	,
+Hag 	2 	3 	1 	1 	1 	Who 	WP
+Hag 	2 	3 	1 	2 	1 	is 	VBZ
+Hag 	2 	3 	1 	3 	1 	left 	NN
+Hag 	2 	3 	1 	4 	1 	among 	IN
+Hag 	2 	3 	1 	5 	1 	you 	PRP
+Hag 	2 	3 	1 	6 	1 	that 	IN
+Hag 	2 	3 	1 	7 	1 	saw 	NN
+Hag 	2 	3 	1 	8 	1 	this 	DT
+Hag 	2 	3 	1 	9 	1 	house 	NN
+Hag 	2 	3 	1 	10 	1 	in 	IN
+Hag 	2 	3 	1 	11 	1 	her 	PRP$
+Hag 	2 	3 	1 	12 	1 	first 	RB
+Hag 	2 	3 	1 	13 	1 	glory 	NN
+Hag 	2 	3 	1 	14 	0 	?
+Hag 	2 	3 	2 	1 	1 	and 	CC
+Hag 	2 	3 	2 	2 	1 	how 	WRB
+Hag 	2 	3 	2 	3 	1 	do 	VB
+Hag 	2 	3 	2 	4 	1 	ye 	NN
+Hag 	2 	3 	2 	5 	1 	see 	VB
+Hag 	2 	3 	2 	6 	1 	it 	PRP
+Hag 	2 	3 	2 	7 	1 	now 	RB
+Hag 	2 	3 	2 	8 	0 	?
+Hag 	2 	3 	3 	1 	1 	is 	VBZ
+Hag 	2 	3 	3 	2 	1 	it 	PRP
+Hag 	2 	3 	3 	3 	1 	not 	RB
+Hag 	2 	3 	3 	4 	1 	in 	IN
+Hag 	2 	3 	3 	5 	1 	your 	PRP$
+Hag 	2 	3 	3 	6 	1 	eyes 	NNS
+Hag 	2 	3 	3 	7 	1 	in 	IN
+Hag 	2 	3 	3 	8 	1 	comparison 	NN
+Hag 	2 	3 	3 	9 	1 	of 	IN
+Hag 	2 	3 	3 	10 	1 	it 	PRP
+Hag 	2 	3 	3 	11 	1 	as 	IN
+Hag 	2 	3 	3 	12 	1 	nothing 	NN
+Hag 	2 	3 	3 	13 	0 	?
+Hag 	2 	4 	1 	1 	1 	Yet 	RB
+Hag 	2 	4 	1 	2 	1 	now 	RB
+Hag 	2 	4 	1 	3 	1 	be 	VB
+Hag 	2 	4 	1 	4 	1 	strong 	JJ
+Hag 	2 	4 	1 	5 	0 	,
+Hag 	2 	4 	1 	6 	1 	O 	NN
+Hag 	2 	4 	1 	7 	1 	Zerubbabel 	NN
+Hag 	2 	4 	1 	8 	0 	,
+Hag 	2 	4 	1 	9 	1 	saith 	NN
+Hag 	2 	4 	1 	10 	1 	the 	DT
+Hag 	2 	4 	1 	11 	1 	LORD 	NN
+Hag 	2 	4 	1 	12 	0 	;
+Hag 	2 	4 	1 	13 	1 	and 	CC
+Hag 	2 	4 	1 	14 	1 	be 	VB
+Hag 	2 	4 	1 	15 	1 	strong 	JJ
+Hag 	2 	4 	1 	16 	0 	,
+Hag 	2 	4 	1 	17 	1 	O 	NN
+Hag 	2 	4 	1 	18 	1 	Joshua 	NNP
+Hag 	2 	4 	1 	19 	0 	,
+Hag 	2 	4 	1 	20 	1 	son 	NN
+Hag 	2 	4 	1 	21 	1 	of 	IN
+Hag 	2 	4 	1 	22 	1 	Josedech 	NN
+Hag 	2 	4 	1 	23 	0 	,
+Hag 	2 	4 	1 	24 	1 	the 	DT
+Hag 	2 	4 	1 	25 	1 	high 	JJ
+Hag 	2 	4 	1 	26 	1 	priest 	NN
+Hag 	2 	4 	1 	27 	0 	;
+Hag 	2 	4 	1 	28 	1 	and 	CC
+Hag 	2 	4 	1 	29 	1 	be 	VB
+Hag 	2 	4 	1 	30 	1 	strong 	JJ
+Hag 	2 	4 	1 	31 	0 	,
+Hag 	2 	4 	1 	32 	1 	all 	DT
+Hag 	2 	4 	1 	33 	1 	ye 	NN
+Hag 	2 	4 	1 	34 	1 	people 	NNS
+Hag 	2 	4 	1 	35 	1 	of 	IN
+Hag 	2 	4 	1 	36 	1 	the 	DT
+Hag 	2 	4 	1 	37 	1 	land 	NN
+Hag 	2 	4 	1 	38 	0 	,
+Hag 	2 	4 	1 	39 	1 	saith 	NN
+Hag 	2 	4 	1 	40 	1 	the 	DT
+Hag 	2 	4 	1 	41 	1 	LORD 	NN
+Hag 	2 	4 	1 	42 	0 	,
+Hag 	2 	4 	1 	43 	1 	and 	CC
+Hag 	2 	4 	1 	44 	1 	work 	NN
+Hag 	2 	4 	1 	45 	0 	:
+Hag 	2 	4 	1 	46 	1 	for 	IN
+Hag 	2 	4 	1 	47 	1 	I 	PRP
+Hag 	2 	4 	1 	48 	1 	am 	VBP
+Hag 	2 	4 	1 	49 	1 	with 	IN
+Hag 	2 	4 	1 	50 	1 	you 	PRP
+Hag 	2 	4 	1 	51 	0 	,
+Hag 	2 	4 	1 	52 	1 	saith 	NN
+Hag 	2 	4 	1 	53 	1 	the 	DT
+Hag 	2 	4 	1 	54 	1 	LORD 	NN
+Hag 	2 	4 	1 	55 	1 	of 	IN
+Hag 	2 	4 	1 	56 	1 	hosts 	NNS
+Hag 	2 	4 	1 	57 	0 	:
+Hag 	2 	5 	1 	1 	1 	According 	VBG
+Hag 	2 	5 	1 	2 	1 	to 	TO
+Hag 	2 	5 	1 	3 	1 	the 	DT
+Hag 	2 	5 	1 	4 	1 	word 	NN
+Hag 	2 	5 	1 	5 	1 	that 	IN
+Hag 	2 	5 	1 	6 	1 	I 	PRP
+Hag 	2 	5 	1 	7 	1 	covenanted 	VBN
+Hag 	2 	5 	1 	8 	1 	with 	IN
+Hag 	2 	5 	1 	9 	1 	you 	PRP
+Hag 	2 	5 	1 	10 	1 	when 	WRB
+Hag 	2 	5 	1 	11 	1 	ye 	NN
+Hag 	2 	5 	1 	12 	1 	came 	VBD
+Hag 	2 	5 	1 	13 	1 	out 	IN
+Hag 	2 	5 	1 	14 	1 	of 	IN
+Hag 	2 	5 	1 	15 	1 	Egypt 	NN
+Hag 	2 	5 	1 	16 	0 	,
+Hag 	2 	5 	1 	17 	1 	so 	RB
+Hag 	2 	5 	1 	18 	1 	my 	PRP$
+Hag 	2 	5 	1 	19 	1 	spirit 	NN
+Hag 	2 	5 	1 	20 	1 	remaineth 	NN
+Hag 	2 	5 	1 	21 	1 	among 	IN
+Hag 	2 	5 	1 	22 	1 	you 	PRP
+Hag 	2 	5 	1 	23 	0 	:
+Hag 	2 	5 	1 	24 	1 	fear 	NN
+Hag 	2 	5 	1 	25 	1 	ye 	NN
+Hag 	2 	5 	1 	26 	1 	not 	RB
+Hag 	2 	5 	1 	27 	0 	.
+Hag 	2 	6 	1 	1 	1 	For 	IN
+Hag 	2 	6 	1 	2 	1 	thus 	RB
+Hag 	2 	6 	1 	3 	1 	saith 	NN
+Hag 	2 	6 	1 	4 	1 	the 	DT
+Hag 	2 	6 	1 	5 	1 	LORD 	NN
+Hag 	2 	6 	1 	6 	1 	of 	IN
+Hag 	2 	6 	1 	7 	1 	hosts 	NNS
+Hag 	2 	6 	1 	8 	0 	;
+Hag 	2 	6 	1 	9 	1 	Yet 	RB
+Hag 	2 	6 	1 	10 	1 	once 	RB
+Hag 	2 	6 	1 	11 	0 	,
+Hag 	2 	6 	1 	12 	1 	it 	PRP
+Hag 	2 	6 	1 	13 	1 	is 	VBZ
+Hag 	2 	6 	1 	14 	1 	a 	DT
+Hag 	2 	6 	1 	15 	1 	little 	JJ
+Hag 	2 	6 	1 	16 	1 	while 	IN
+Hag 	2 	6 	1 	17 	0 	,
+Hag 	2 	6 	1 	18 	1 	and 	CC
+Hag 	2 	6 	1 	19 	1 	I 	PRP
+Hag 	2 	6 	1 	20 	1 	will 	MD
+Hag 	2 	6 	1 	21 	1 	shake 	NN
+Hag 	2 	6 	1 	22 	1 	the 	DT
+Hag 	2 	6 	1 	23 	1 	heavens 	NNS
+Hag 	2 	6 	1 	24 	0 	,
+Hag 	2 	6 	1 	25 	1 	and 	CC
+Hag 	2 	6 	1 	26 	1 	the 	DT
+Hag 	2 	6 	1 	27 	1 	earth 	NN
+Hag 	2 	6 	1 	28 	0 	,
+Hag 	2 	6 	1 	29 	1 	and 	CC
+Hag 	2 	6 	1 	30 	1 	the 	DT
+Hag 	2 	6 	1 	31 	1 	sea 	NN
+Hag 	2 	6 	1 	32 	0 	,
+Hag 	2 	6 	1 	33 	1 	and 	CC
+Hag 	2 	6 	1 	34 	1 	the 	DT
+Hag 	2 	6 	1 	35 	1 	dry 	NN
+Hag 	2 	6 	1 	36 	1 	land 	NN
+Hag 	2 	6 	1 	37 	0 	;
+Hag 	2 	7 	1 	1 	1 	And 	CC
+Hag 	2 	7 	1 	2 	1 	I 	PRP
+Hag 	2 	7 	1 	3 	1 	will 	MD
+Hag 	2 	7 	1 	4 	1 	shake 	NN
+Hag 	2 	7 	1 	5 	1 	all 	DT
+Hag 	2 	7 	1 	6 	1 	nations 	NNS
+Hag 	2 	7 	1 	7 	0 	,
+Hag 	2 	7 	1 	8 	1 	and 	CC
+Hag 	2 	7 	1 	9 	1 	the 	DT
+Hag 	2 	7 	1 	10 	1 	desire 	NN
+Hag 	2 	7 	1 	11 	1 	of 	IN
+Hag 	2 	7 	1 	12 	1 	all 	DT
+Hag 	2 	7 	1 	13 	1 	nations 	NNS
+Hag 	2 	7 	1 	14 	1 	shall 	MD
+Hag 	2 	7 	1 	15 	1 	come 	VB
+Hag 	2 	7 	1 	16 	0 	:
+Hag 	2 	7 	1 	17 	1 	and 	CC
+Hag 	2 	7 	1 	18 	1 	I 	PRP
+Hag 	2 	7 	1 	19 	1 	will 	MD
+Hag 	2 	7 	1 	20 	1 	fill 	NN
+Hag 	2 	7 	1 	21 	1 	this 	DT
+Hag 	2 	7 	1 	22 	1 	house 	NN
+Hag 	2 	7 	1 	23 	1 	with 	IN
+Hag 	2 	7 	1 	24 	1 	glory 	NN
+Hag 	2 	7 	1 	25 	0 	,
+Hag 	2 	7 	1 	26 	1 	saith 	NN
+Hag 	2 	7 	1 	27 	1 	the 	DT
+Hag 	2 	7 	1 	28 	1 	LORD 	NN
+Hag 	2 	7 	1 	29 	1 	of 	IN
+Hag 	2 	7 	1 	30 	1 	hosts 	NNS
+Hag 	2 	7 	1 	31 	0 	.
+Hag 	2 	8 	1 	1 	1 	The 	DT
+Hag 	2 	8 	1 	2 	1 	silver 	NN
+Hag 	2 	8 	1 	3 	1 	is 	VBZ
+Hag 	2 	8 	1 	4 	1 	mine 	NN
+Hag 	2 	8 	1 	5 	0 	,
+Hag 	2 	8 	1 	6 	1 	and 	CC
+Hag 	2 	8 	1 	7 	1 	the 	DT
+Hag 	2 	8 	1 	8 	1 	gold 	NN
+Hag 	2 	8 	1 	9 	1 	is 	VBZ
+Hag 	2 	8 	1 	10 	1 	mine 	NN
+Hag 	2 	8 	1 	11 	0 	,
+Hag 	2 	8 	1 	12 	1 	saith 	NN
+Hag 	2 	8 	1 	13 	1 	the 	DT
+Hag 	2 	8 	1 	14 	1 	LORD 	NN
+Hag 	2 	8 	1 	15 	1 	of 	IN
+Hag 	2 	8 	1 	16 	1 	hosts 	NNS
+Hag 	2 	8 	1 	17 	0 	.
+Hag 	2 	9 	1 	1 	1 	The 	DT
+Hag 	2 	9 	1 	2 	1 	glory 	NN
+Hag 	2 	9 	1 	3 	1 	of 	IN
+Hag 	2 	9 	1 	4 	1 	this 	DT
+Hag 	2 	9 	1 	5 	1 	latter 	NN
+Hag 	2 	9 	1 	6 	1 	house 	NN
+Hag 	2 	9 	1 	7 	1 	shall 	MD
+Hag 	2 	9 	1 	8 	1 	be 	VB
+Hag 	2 	9 	1 	9 	1 	greater 	JJR
+Hag 	2 	9 	1 	10 	1 	than 	IN
+Hag 	2 	9 	1 	11 	1 	of 	IN
+Hag 	2 	9 	1 	12 	1 	the 	DT
+Hag 	2 	9 	1 	13 	1 	former 	JJ
+Hag 	2 	9 	1 	14 	0 	,
+Hag 	2 	9 	1 	15 	1 	saith 	NN
+Hag 	2 	9 	1 	16 	1 	the 	DT
+Hag 	2 	9 	1 	17 	1 	LORD 	NN
+Hag 	2 	9 	1 	18 	1 	of 	IN
+Hag 	2 	9 	1 	19 	1 	hosts 	NNS
+Hag 	2 	9 	1 	20 	0 	:
+Hag 	2 	9 	1 	21 	1 	and 	CC
+Hag 	2 	9 	1 	22 	1 	in 	IN
+Hag 	2 	9 	1 	23 	1 	this 	DT
+Hag 	2 	9 	1 	24 	1 	place 	NN
+Hag 	2 	9 	1 	25 	1 	will 	MD
+Hag 	2 	9 	1 	26 	1 	I 	PRP
+Hag 	2 	9 	1 	27 	1 	give 	VB
+Hag 	2 	9 	1 	28 	1 	peace 	NN
+Hag 	2 	9 	1 	29 	0 	,
+Hag 	2 	9 	1 	30 	1 	saith 	NN
+Hag 	2 	9 	1 	31 	1 	the 	DT
+Hag 	2 	9 	1 	32 	1 	LORD 	NN
+Hag 	2 	9 	1 	33 	1 	of 	IN
+Hag 	2 	9 	1 	34 	1 	hosts 	NNS
+Hag 	2 	9 	1 	35 	0 	.
+Hag 	2 	10 	1 	1 	1 	In 	IN
+Hag 	2 	10 	1 	2 	1 	the 	DT
+Hag 	2 	10 	1 	3 	1 	four 	CD
+Hag 	2 	10 	1 	4 	1 	and 	CC
+Hag 	2 	10 	1 	5 	1 	twentieth 	NNS
+Hag 	2 	10 	1 	6 	1 	day 	NN
+Hag 	2 	10 	1 	7 	1 	of 	IN
+Hag 	2 	10 	1 	8 	1 	the 	DT
+Hag 	2 	10 	1 	9 	1 	ninth 	JJ
+Hag 	2 	10 	1 	10 	1 	month 	NN
+Hag 	2 	10 	1 	11 	0 	,
+Hag 	2 	10 	1 	12 	1 	in 	IN
+Hag 	2 	10 	1 	13 	1 	the 	DT
+Hag 	2 	10 	1 	14 	1 	second 	JJ
+Hag 	2 	10 	1 	15 	1 	year 	NN
+Hag 	2 	10 	1 	16 	1 	of 	IN
+Hag 	2 	10 	1 	17 	1 	Darius 	NN
+Hag 	2 	10 	1 	18 	0 	,
+Hag 	2 	10 	1 	19 	1 	came 	VBD
+Hag 	2 	10 	1 	20 	1 	the 	DT
+Hag 	2 	10 	1 	21 	1 	word 	NN
+Hag 	2 	10 	1 	22 	1 	of 	IN
+Hag 	2 	10 	1 	23 	1 	the 	DT
+Hag 	2 	10 	1 	24 	1 	LORD 	NN
+Hag 	2 	10 	1 	25 	1 	by 	IN
+Hag 	2 	10 	1 	26 	1 	Haggai 	NN
+Hag 	2 	10 	1 	27 	1 	the 	DT
+Hag 	2 	10 	1 	28 	1 	prophet 	NN
+Hag 	2 	10 	1 	29 	0 	,
+Hag 	2 	10 	1 	30 	1 	saying 	VBG
+Hag 	2 	10 	1 	31 	0 	,
+Hag 	2 	11 	1 	1 	1 	Thus 	RB
+Hag 	2 	11 	1 	2 	1 	saith 	NN
+Hag 	2 	11 	1 	3 	1 	the 	DT
+Hag 	2 	11 	1 	4 	1 	LORD 	NN
+Hag 	2 	11 	1 	5 	1 	of 	IN
+Hag 	2 	11 	1 	6 	1 	hosts 	NNS
+Hag 	2 	11 	1 	7 	0 	;
+Hag 	2 	11 	1 	8 	1 	Ask 	VB
+Hag 	2 	11 	1 	9 	1 	now 	RB
+Hag 	2 	11 	1 	10 	1 	the 	DT
+Hag 	2 	11 	1 	11 	1 	priests 	NNS
+Hag 	2 	11 	1 	12 	1 	concerning 	VBG
+Hag 	2 	11 	1 	13 	1 	the 	DT
+Hag 	2 	11 	1 	14 	1 	law 	NN
+Hag 	2 	11 	1 	15 	0 	,
+Hag 	2 	11 	1 	16 	1 	saying 	VBG
+Hag 	2 	11 	1 	17 	0 	,
+Hag 	2 	12 	1 	1 	1 	If 	IN
+Hag 	2 	12 	1 	2 	1 	one 	CD
+Hag 	2 	12 	1 	3 	1 	bear 	NN
+Hag 	2 	12 	1 	4 	1 	holy 	NN
+Hag 	2 	12 	1 	5 	1 	flesh 	NN
+Hag 	2 	12 	1 	6 	1 	in 	IN
+Hag 	2 	12 	1 	7 	1 	the 	DT
+Hag 	2 	12 	1 	8 	1 	skirt 	NN
+Hag 	2 	12 	1 	9 	1 	of 	IN
+Hag 	2 	12 	1 	10 	1 	his 	PRP$
+Hag 	2 	12 	1 	11 	1 	garment 	NN
+Hag 	2 	12 	1 	12 	0 	,
+Hag 	2 	12 	1 	13 	1 	and 	CC
+Hag 	2 	12 	1 	14 	1 	with 	IN
+Hag 	2 	12 	1 	15 	1 	his 	PRP$
+Hag 	2 	12 	1 	16 	1 	skirt 	NN
+Hag 	2 	12 	1 	17 	1 	do 	VB
+Hag 	2 	12 	1 	18 	1 	touch 	NN
+Hag 	2 	12 	1 	19 	1 	bread 	NN
+Hag 	2 	12 	1 	20 	0 	,
+Hag 	2 	12 	1 	21 	1 	or 	CC
+Hag 	2 	12 	1 	22 	1 	pottage 	NN
+Hag 	2 	12 	1 	23 	0 	,
+Hag 	2 	12 	1 	24 	1 	or 	CC
+Hag 	2 	12 	1 	25 	1 	wine 	NN
+Hag 	2 	12 	1 	26 	0 	,
+Hag 	2 	12 	1 	27 	1 	or 	CC
+Hag 	2 	12 	1 	28 	1 	oil 	NN
+Hag 	2 	12 	1 	29 	0 	,
+Hag 	2 	12 	1 	30 	1 	or 	CC
+Hag 	2 	12 	1 	31 	1 	any 	DT
+Hag 	2 	12 	1 	32 	1 	meat 	NN
+Hag 	2 	12 	1 	33 	0 	,
+Hag 	2 	12 	1 	34 	1 	shall 	MD
+Hag 	2 	12 	1 	35 	1 	it 	PRP
+Hag 	2 	12 	1 	36 	1 	be 	VB
+Hag 	2 	12 	1 	37 	1 	holy 	NN
+Hag 	2 	12 	1 	38 	0 	?
+Hag 	2 	12 	2 	1 	1 	And 	CC
+Hag 	2 	12 	2 	2 	1 	the 	DT
+Hag 	2 	12 	2 	3 	1 	priests 	NNS
+Hag 	2 	12 	2 	4 	1 	answered 	VBN
+Hag 	2 	12 	2 	5 	1 	and 	CC
+Hag 	2 	12 	2 	6 	1 	said 	VBD
+Hag 	2 	12 	2 	7 	0 	,
+Hag 	2 	12 	2 	8 	1 	No 	DT
+Hag 	2 	12 	2 	9 	0 	.
+Hag 	2 	13 	1 	1 	1 	Then 	RB
+Hag 	2 	13 	1 	2 	1 	said 	VBD
+Hag 	2 	13 	1 	3 	1 	Haggai 	NN
+Hag 	2 	13 	1 	4 	0 	,
+Hag 	2 	13 	1 	5 	1 	If 	IN
+Hag 	2 	13 	1 	6 	1 	one 	CD
+Hag 	2 	13 	1 	7 	1 	that 	IN
+Hag 	2 	13 	1 	8 	1 	is 	VBZ
+Hag 	2 	13 	1 	9 	1 	unclean 	JJ
+Hag 	2 	13 	1 	10 	1 	by 	IN
+Hag 	2 	13 	1 	11 	1 	a 	DT
+Hag 	2 	13 	1 	12 	1 	dead 	JJ
+Hag 	2 	13 	1 	13 	1 	body 	NN
+Hag 	2 	13 	1 	14 	1 	touch 	NN
+Hag 	2 	13 	1 	15 	1 	any 	DT
+Hag 	2 	13 	1 	16 	1 	of 	IN
+Hag 	2 	13 	1 	17 	1 	these 	DT
+Hag 	2 	13 	1 	18 	0 	,
+Hag 	2 	13 	1 	19 	1 	shall 	MD
+Hag 	2 	13 	1 	20 	1 	it 	PRP
+Hag 	2 	13 	1 	21 	1 	be 	VB
+Hag 	2 	13 	1 	22 	1 	unclean 	JJ
+Hag 	2 	13 	1 	23 	0 	?
+Hag 	2 	13 	2 	1 	1 	And 	CC
+Hag 	2 	13 	2 	2 	1 	the 	DT
+Hag 	2 	13 	2 	3 	1 	priests 	NNS
+Hag 	2 	13 	2 	4 	1 	answered 	VBN
+Hag 	2 	13 	2 	5 	1 	and 	CC
+Hag 	2 	13 	2 	6 	1 	said 	VBD
+Hag 	2 	13 	2 	7 	0 	,
+Hag 	2 	13 	2 	8 	1 	It 	PRP
+Hag 	2 	13 	2 	9 	1 	shall 	MD
+Hag 	2 	13 	2 	10 	1 	be 	VB
+Hag 	2 	13 	2 	11 	1 	unclean 	JJ
+Hag 	2 	13 	2 	12 	0 	.
+Hag 	2 	14 	1 	1 	1 	Then 	RB
+Hag 	2 	14 	1 	2 	1 	answered 	VBN
+Hag 	2 	14 	1 	3 	1 	Haggai 	NN
+Hag 	2 	14 	1 	4 	0 	,
+Hag 	2 	14 	1 	5 	1 	and 	CC
+Hag 	2 	14 	1 	6 	1 	said 	VBD
+Hag 	2 	14 	1 	7 	0 	,
+Hag 	2 	14 	1 	8 	1 	So 	RB
+Hag 	2 	14 	1 	9 	1 	is 	VBZ
+Hag 	2 	14 	1 	10 	1 	this 	DT
+Hag 	2 	14 	1 	11 	1 	people 	NNS
+Hag 	2 	14 	1 	12 	0 	,
+Hag 	2 	14 	1 	13 	1 	and 	CC
+Hag 	2 	14 	1 	14 	1 	so 	RB
+Hag 	2 	14 	1 	15 	1 	is 	VBZ
+Hag 	2 	14 	1 	16 	1 	this 	DT
+Hag 	2 	14 	1 	17 	1 	nation 	NN
+Hag 	2 	14 	1 	18 	1 	before 	IN
+Hag 	2 	14 	1 	19 	1 	me 	PRP
+Hag 	2 	14 	1 	20 	0 	,
+Hag 	2 	14 	1 	21 	1 	saith 	NN
+Hag 	2 	14 	1 	22 	1 	the 	DT
+Hag 	2 	14 	1 	23 	1 	LORD 	NN
+Hag 	2 	14 	1 	24 	0 	;
+Hag 	2 	14 	1 	25 	1 	and 	CC
+Hag 	2 	14 	1 	26 	1 	so 	RB
+Hag 	2 	14 	1 	27 	1 	is 	VBZ
+Hag 	2 	14 	1 	28 	1 	every 	DT
+Hag 	2 	14 	1 	29 	1 	work 	NN
+Hag 	2 	14 	1 	30 	1 	of 	IN
+Hag 	2 	14 	1 	31 	1 	their 	PRP$
+Hag 	2 	14 	1 	32 	1 	hands 	NNS
+Hag 	2 	14 	1 	33 	0 	;
+Hag 	2 	14 	1 	34 	1 	and 	CC
+Hag 	2 	14 	1 	35 	1 	that 	IN
+Hag 	2 	14 	1 	36 	1 	which 	WDT
+Hag 	2 	14 	1 	37 	1 	they 	PRP
+Hag 	2 	14 	1 	38 	1 	offer 	NN
+Hag 	2 	14 	1 	39 	1 	there 	RB
+Hag 	2 	14 	1 	40 	1 	is 	VBZ
+Hag 	2 	14 	1 	41 	1 	unclean 	JJ
+Hag 	2 	14 	1 	42 	0 	.
+Hag 	2 	15 	1 	1 	1 	And 	CC
+Hag 	2 	15 	1 	2 	1 	now 	RB
+Hag 	2 	15 	1 	3 	0 	,
+Hag 	2 	15 	1 	4 	1 	I 	PRP
+Hag 	2 	15 	1 	5 	1 	pray 	NN
+Hag 	2 	15 	1 	6 	1 	you 	PRP
+Hag 	2 	15 	1 	7 	0 	,
+Hag 	2 	15 	1 	8 	1 	consider 	VB
+Hag 	2 	15 	1 	9 	1 	from 	IN
+Hag 	2 	15 	1 	10 	1 	this 	DT
+Hag 	2 	15 	1 	11 	1 	day 	NN
+Hag 	2 	15 	1 	12 	1 	and 	CC
+Hag 	2 	15 	1 	13 	1 	upward 	RB
+Hag 	2 	15 	1 	14 	0 	,
+Hag 	2 	15 	1 	15 	1 	from 	IN
+Hag 	2 	15 	1 	16 	1 	before 	IN
+Hag 	2 	15 	1 	17 	1 	a 	DT
+Hag 	2 	15 	1 	18 	1 	stone 	NN
+Hag 	2 	15 	1 	19 	1 	was 	VBD
+Hag 	2 	15 	1 	20 	1 	laid 	NN
+Hag 	2 	15 	1 	21 	1 	upon 	IN
+Hag 	2 	15 	1 	22 	1 	a 	DT
+Hag 	2 	15 	1 	23 	1 	stone 	NN
+Hag 	2 	15 	1 	24 	1 	in 	IN
+Hag 	2 	15 	1 	25 	1 	the 	DT
+Hag 	2 	15 	1 	26 	1 	temple 	NN
+Hag 	2 	15 	1 	27 	1 	of 	IN
+Hag 	2 	15 	1 	28 	1 	the 	DT
+Hag 	2 	15 	1 	29 	1 	LORD 	NN
+Hag 	2 	15 	1 	30 	0 	:
+Hag 	2 	16 	1 	1 	1 	Since 	IN
+Hag 	2 	16 	1 	2 	1 	those 	DT
+Hag 	2 	16 	1 	3 	1 	days 	NNS
+Hag 	2 	16 	1 	4 	1 	were 	VBD
+Hag 	2 	16 	1 	5 	0 	,
+Hag 	2 	16 	1 	6 	1 	when 	WRB
+Hag 	2 	16 	1 	7 	1 	one 	CD
+Hag 	2 	16 	1 	8 	1 	came 	VBD
+Hag 	2 	16 	1 	9 	1 	to 	TO
+Hag 	2 	16 	1 	10 	1 	an 	DT
+Hag 	2 	16 	1 	11 	1 	heap 	NN
+Hag 	2 	16 	1 	12 	1 	of 	IN
+Hag 	2 	16 	1 	13 	1 	twenty 	NN
+Hag 	2 	16 	1 	14 	1 	measures 	NNS
+Hag 	2 	16 	1 	15 	0 	,
+Hag 	2 	16 	1 	16 	1 	there 	RB
+Hag 	2 	16 	1 	17 	1 	were 	VBD
+Hag 	2 	16 	1 	18 	1 	but 	CC
+Hag 	2 	16 	1 	19 	1 	ten 	NNS
+Hag 	2 	16 	1 	20 	0 	:
+Hag 	2 	16 	1 	21 	1 	when 	WRB
+Hag 	2 	16 	1 	22 	1 	one 	CD
+Hag 	2 	16 	1 	23 	1 	came 	VBD
+Hag 	2 	16 	1 	24 	1 	to 	TO
+Hag 	2 	16 	1 	25 	1 	the 	DT
+Hag 	2 	16 	1 	26 	1 	pressfat 	NN
+Hag 	2 	16 	1 	27 	1 	for 	IN
+Hag 	2 	16 	1 	28 	1 	to 	TO
+Hag 	2 	16 	1 	29 	1 	draw 	NN
+Hag 	2 	16 	1 	30 	1 	out 	IN
+Hag 	2 	16 	1 	31 	1 	fifty 	NN
+Hag 	2 	16 	1 	32 	1 	vessels 	NNS
+Hag 	2 	16 	1 	33 	1 	out 	IN
+Hag 	2 	16 	1 	34 	1 	of 	IN
+Hag 	2 	16 	1 	35 	1 	the 	DT
+Hag 	2 	16 	1 	36 	1 	press 	NN
+Hag 	2 	16 	1 	37 	0 	,
+Hag 	2 	16 	1 	38 	1 	there 	RB
+Hag 	2 	16 	1 	39 	1 	were 	VBD
+Hag 	2 	16 	1 	40 	1 	but 	CC
+Hag 	2 	16 	1 	41 	1 	twenty 	NN
+Hag 	2 	16 	1 	42 	0 	.
+Hag 	2 	17 	1 	1 	1 	I 	PRP
+Hag 	2 	17 	1 	2 	1 	smote 	NN
+Hag 	2 	17 	1 	3 	1 	you 	PRP
+Hag 	2 	17 	1 	4 	1 	with 	IN
+Hag 	2 	17 	1 	5 	1 	blasting 	NN
+Hag 	2 	17 	1 	6 	1 	and 	CC
+Hag 	2 	17 	1 	7 	1 	with 	IN
+Hag 	2 	17 	1 	8 	1 	mildew 	NN
+Hag 	2 	17 	1 	9 	1 	and 	CC
+Hag 	2 	17 	1 	10 	1 	with 	IN
+Hag 	2 	17 	1 	11 	1 	hail 	NN
+Hag 	2 	17 	1 	12 	1 	in 	IN
+Hag 	2 	17 	1 	13 	1 	all 	DT
+Hag 	2 	17 	1 	14 	1 	the 	DT
+Hag 	2 	17 	1 	15 	1 	labours 	NNS
+Hag 	2 	17 	1 	16 	1 	of 	IN
+Hag 	2 	17 	1 	17 	1 	your 	PRP$
+Hag 	2 	17 	1 	18 	1 	hands 	NNS
+Hag 	2 	17 	1 	19 	0 	;
+Hag 	2 	17 	1 	20 	1 	yet 	RB
+Hag 	2 	17 	1 	21 	1 	ye 	NN
+Hag 	2 	17 	1 	22 	1 	turned 	VBD
+Hag 	2 	17 	1 	23 	1 	not 	RB
+Hag 	2 	17 	1 	24 	1 	to 	TO
+Hag 	2 	17 	1 	25 	1 	me 	PRP
+Hag 	2 	17 	1 	26 	0 	,
+Hag 	2 	17 	1 	27 	1 	saith 	NN
+Hag 	2 	17 	1 	28 	1 	the 	DT
+Hag 	2 	17 	1 	29 	1 	LORD 	NN
+Hag 	2 	17 	1 	30 	0 	.
+Hag 	2 	18 	1 	1 	1 	Consider 	VB
+Hag 	2 	18 	1 	2 	1 	now 	RB
+Hag 	2 	18 	1 	3 	1 	from 	IN
+Hag 	2 	18 	1 	4 	1 	this 	DT
+Hag 	2 	18 	1 	5 	1 	day 	NN
+Hag 	2 	18 	1 	6 	1 	and 	CC
+Hag 	2 	18 	1 	7 	1 	upward 	RB
+Hag 	2 	18 	1 	8 	0 	,
+Hag 	2 	18 	1 	9 	1 	from 	IN
+Hag 	2 	18 	1 	10 	1 	the 	DT
+Hag 	2 	18 	1 	11 	1 	four 	CD
+Hag 	2 	18 	1 	12 	1 	and 	CC
+Hag 	2 	18 	1 	13 	1 	twentieth 	NNS
+Hag 	2 	18 	1 	14 	1 	day 	NN
+Hag 	2 	18 	1 	15 	1 	of 	IN
+Hag 	2 	18 	1 	16 	1 	the 	DT
+Hag 	2 	18 	1 	17 	1 	ninth 	JJ
+Hag 	2 	18 	1 	18 	1 	month 	NN
+Hag 	2 	18 	1 	19 	0 	,
+Hag 	2 	18 	1 	20 	1 	even 	RB
+Hag 	2 	18 	1 	21 	1 	from 	IN
+Hag 	2 	18 	1 	22 	1 	the 	DT
+Hag 	2 	18 	1 	23 	1 	day 	NN
+Hag 	2 	18 	1 	24 	1 	that 	IN
+Hag 	2 	18 	1 	25 	1 	the 	DT
+Hag 	2 	18 	1 	26 	1 	foundation 	NN
+Hag 	2 	18 	1 	27 	1 	of 	IN
+Hag 	2 	18 	1 	28 	1 	the 	DT
+Hag 	2 	18 	1 	29 	1 	LORD 	NN
+Hag 	2 	18 	1 	30 	0 	's
+Hag 	2 	18 	1 	31 	1 	temple 	NN
+Hag 	2 	18 	1 	32 	1 	was 	VBD
+Hag 	2 	18 	1 	33 	1 	laid 	NN
+Hag 	2 	18 	1 	34 	0 	,
+Hag 	2 	18 	1 	35 	1 	consider 	VB
+Hag 	2 	18 	1 	36 	1 	it 	PRP
+Hag 	2 	18 	1 	37 	0 	.
+Hag 	2 	19 	1 	1 	1 	Is 	NN
+Hag 	2 	19 	1 	2 	1 	the 	DT
+Hag 	2 	19 	1 	3 	1 	seed 	NN
+Hag 	2 	19 	1 	4 	1 	yet 	RB
+Hag 	2 	19 	1 	5 	1 	in 	IN
+Hag 	2 	19 	1 	6 	1 	the 	DT
+Hag 	2 	19 	1 	7 	1 	barn 	NN
+Hag 	2 	19 	1 	8 	0 	?
+Hag 	2 	19 	2 	1 	1 	yea 	NN
+Hag 	2 	19 	2 	2 	0 	,
+Hag 	2 	19 	2 	3 	1 	as 	IN
+Hag 	2 	19 	2 	4 	1 	yet 	RB
+Hag 	2 	19 	2 	5 	1 	the 	DT
+Hag 	2 	19 	2 	6 	1 	vine 	NN
+Hag 	2 	19 	2 	7 	0 	,
+Hag 	2 	19 	2 	8 	1 	and 	CC
+Hag 	2 	19 	2 	9 	1 	the 	DT
+Hag 	2 	19 	2 	10 	1 	fig 	NN
+Hag 	2 	19 	2 	11 	1 	tree 	NN
+Hag 	2 	19 	2 	12 	0 	,
+Hag 	2 	19 	2 	13 	1 	and 	CC
+Hag 	2 	19 	2 	14 	1 	the 	DT
+Hag 	2 	19 	2 	15 	1 	pomegranate 	NN
+Hag 	2 	19 	2 	16 	0 	,
+Hag 	2 	19 	2 	17 	1 	and 	CC
+Hag 	2 	19 	2 	18 	1 	the 	DT
+Hag 	2 	19 	2 	19 	1 	olive 	JJ
+Hag 	2 	19 	2 	20 	1 	tree 	NN
+Hag 	2 	19 	2 	21 	0 	,
+Hag 	2 	19 	2 	22 	1 	hath 	NN
+Hag 	2 	19 	2 	23 	1 	not 	RB
+Hag 	2 	19 	2 	24 	1 	brought 	NN
+Hag 	2 	19 	2 	25 	1 	forth 	NN
+Hag 	2 	19 	2 	26 	0 	:
+Hag 	2 	19 	2 	27 	1 	from 	IN
+Hag 	2 	19 	2 	28 	1 	this 	DT
+Hag 	2 	19 	2 	29 	1 	day 	NN
+Hag 	2 	19 	2 	30 	1 	will 	MD
+Hag 	2 	19 	2 	31 	1 	I 	PRP
+Hag 	2 	19 	2 	32 	1 	bless 	NN
+Hag 	2 	19 	2 	33 	1 	you 	PRP
+Hag 	2 	19 	2 	34 	0 	.
+Hag 	2 	20 	1 	1 	1 	And 	CC
+Hag 	2 	20 	1 	2 	1 	again 	RB
+Hag 	2 	20 	1 	3 	1 	the 	DT
+Hag 	2 	20 	1 	4 	1 	word 	NN
+Hag 	2 	20 	1 	5 	1 	of 	IN
+Hag 	2 	20 	1 	6 	1 	the 	DT
+Hag 	2 	20 	1 	7 	1 	LORD 	NN
+Hag 	2 	20 	1 	8 	1 	came 	VBD
+Hag 	2 	20 	1 	9 	1 	unto 	NN
+Hag 	2 	20 	1 	10 	1 	Haggai 	NN
+Hag 	2 	20 	1 	11 	1 	in 	IN
+Hag 	2 	20 	1 	12 	1 	the 	DT
+Hag 	2 	20 	1 	13 	1 	four 	CD
+Hag 	2 	20 	1 	14 	1 	and 	CC
+Hag 	2 	20 	1 	15 	1 	twentieth 	NNS
+Hag 	2 	20 	1 	16 	1 	day 	NN
+Hag 	2 	20 	1 	17 	1 	of 	IN
+Hag 	2 	20 	1 	18 	1 	the 	DT
+Hag 	2 	20 	1 	19 	1 	month 	NN
+Hag 	2 	20 	1 	20 	0 	,
+Hag 	2 	20 	1 	21 	1 	saying 	VBG
+Hag 	2 	20 	1 	22 	0 	,
+Hag 	2 	21 	1 	1 	1 	Speak 	NN
+Hag 	2 	21 	1 	2 	1 	to 	TO
+Hag 	2 	21 	1 	3 	1 	Zerubbabel 	NN
+Hag 	2 	21 	1 	4 	0 	,
+Hag 	2 	21 	1 	5 	1 	governor 	NN
+Hag 	2 	21 	1 	6 	1 	of 	IN
+Hag 	2 	21 	1 	7 	1 	Judah 	NN
+Hag 	2 	21 	1 	8 	0 	,
+Hag 	2 	21 	1 	9 	1 	saying 	VBG
+Hag 	2 	21 	1 	10 	0 	,
+Hag 	2 	21 	1 	11 	1 	I 	PRP
+Hag 	2 	21 	1 	12 	1 	will 	MD
+Hag 	2 	21 	1 	13 	1 	shake 	NN
+Hag 	2 	21 	1 	14 	1 	the 	DT
+Hag 	2 	21 	1 	15 	1 	heavens 	NNS
+Hag 	2 	21 	1 	16 	1 	and 	CC
+Hag 	2 	21 	1 	17 	1 	the 	DT
+Hag 	2 	21 	1 	18 	1 	earth 	NN
+Hag 	2 	21 	1 	19 	0 	;
+Hag 	2 	22 	1 	1 	1 	And 	CC
+Hag 	2 	22 	1 	2 	1 	I 	PRP
+Hag 	2 	22 	1 	3 	1 	will 	MD
+Hag 	2 	22 	1 	4 	1 	overthrow 	NN
+Hag 	2 	22 	1 	5 	1 	the 	DT
+Hag 	2 	22 	1 	6 	1 	throne 	NN
+Hag 	2 	22 	1 	7 	1 	of 	IN
+Hag 	2 	22 	1 	8 	1 	kingdoms 	NNS
+Hag 	2 	22 	1 	9 	0 	,
+Hag 	2 	22 	1 	10 	1 	and 	CC
+Hag 	2 	22 	1 	11 	1 	I 	PRP
+Hag 	2 	22 	1 	12 	1 	will 	MD
+Hag 	2 	22 	1 	13 	1 	destroy 	NN
+Hag 	2 	22 	1 	14 	1 	the 	DT
+Hag 	2 	22 	1 	15 	1 	strength 	NN
+Hag 	2 	22 	1 	16 	1 	of 	IN
+Hag 	2 	22 	1 	17 	1 	the 	DT
+Hag 	2 	22 	1 	18 	1 	kingdoms 	NNS
+Hag 	2 	22 	1 	19 	1 	of 	IN
+Hag 	2 	22 	1 	20 	1 	the 	DT
+Hag 	2 	22 	1 	21 	1 	heathen 	NN
+Hag 	2 	22 	1 	22 	0 	;
+Hag 	2 	22 	1 	23 	1 	and 	CC
+Hag 	2 	22 	1 	24 	1 	I 	PRP
+Hag 	2 	22 	1 	25 	1 	will 	MD
+Hag 	2 	22 	1 	26 	1 	overthrow 	NN
+Hag 	2 	22 	1 	27 	1 	the 	DT
+Hag 	2 	22 	1 	28 	1 	chariots 	NNS
+Hag 	2 	22 	1 	29 	0 	,
+Hag 	2 	22 	1 	30 	1 	and 	CC
+Hag 	2 	22 	1 	31 	1 	those 	DT
+Hag 	2 	22 	1 	32 	1 	that 	IN
+Hag 	2 	22 	1 	33 	1 	ride 	NN
+Hag 	2 	22 	1 	34 	1 	in 	IN
+Hag 	2 	22 	1 	35 	1 	them 	PRP
+Hag 	2 	22 	1 	36 	0 	;
+Hag 	2 	22 	1 	37 	1 	and 	CC
+Hag 	2 	22 	1 	38 	1 	the 	DT
+Hag 	2 	22 	1 	39 	1 	horses 	NNS
+Hag 	2 	22 	1 	40 	1 	and 	CC
+Hag 	2 	22 	1 	41 	1 	their 	PRP$
+Hag 	2 	22 	1 	42 	1 	riders 	NNS
+Hag 	2 	22 	1 	43 	1 	shall 	MD
+Hag 	2 	22 	1 	44 	1 	come 	VB
+Hag 	2 	22 	1 	45 	1 	down 	RB
+Hag 	2 	22 	1 	46 	0 	,
+Hag 	2 	22 	1 	47 	1 	every 	DT
+Hag 	2 	22 	1 	48 	1 	one 	CD
+Hag 	2 	22 	1 	49 	1 	by 	IN
+Hag 	2 	22 	1 	50 	1 	the 	DT
+Hag 	2 	22 	1 	51 	1 	sword 	NN
+Hag 	2 	22 	1 	52 	1 	of 	IN
+Hag 	2 	22 	1 	53 	1 	his 	PRP$
+Hag 	2 	22 	1 	54 	1 	brother 	NN
+Hag 	2 	22 	1 	55 	0 	.
+Hag 	2 	23 	1 	1 	1 	In 	IN
+Hag 	2 	23 	1 	2 	1 	that 	IN
+Hag 	2 	23 	1 	3 	1 	day 	NN
+Hag 	2 	23 	1 	4 	0 	,
+Hag 	2 	23 	1 	5 	1 	saith 	NN
+Hag 	2 	23 	1 	6 	1 	the 	DT
+Hag 	2 	23 	1 	7 	1 	LORD 	NN
+Hag 	2 	23 	1 	8 	1 	of 	IN
+Hag 	2 	23 	1 	9 	1 	hosts 	NNS
+Hag 	2 	23 	1 	10 	0 	,
+Hag 	2 	23 	1 	11 	1 	will 	MD
+Hag 	2 	23 	1 	12 	1 	I 	PRP
+Hag 	2 	23 	1 	13 	1 	take 	VB
+Hag 	2 	23 	1 	14 	1 	thee 	NN
+Hag 	2 	23 	1 	15 	0 	,
+Hag 	2 	23 	1 	16 	1 	O 	NN
+Hag 	2 	23 	1 	17 	1 	Zerubbabel 	NN
+Hag 	2 	23 	1 	18 	0 	,
+Hag 	2 	23 	1 	19 	1 	my 	PRP$
+Hag 	2 	23 	1 	20 	1 	servant 	NN
+Hag 	2 	23 	1 	21 	0 	,
+Hag 	2 	23 	1 	22 	1 	the 	DT
+Hag 	2 	23 	1 	23 	1 	son 	NN
+Hag 	2 	23 	1 	24 	1 	of 	IN
+Hag 	2 	23 	1 	25 	1 	Shealtiel 	NN
+Hag 	2 	23 	1 	26 	0 	,
+Hag 	2 	23 	1 	27 	1 	saith 	NN
+Hag 	2 	23 	1 	28 	1 	the 	DT
+Hag 	2 	23 	1 	29 	1 	LORD 	NN
+Hag 	2 	23 	1 	30 	0 	,
+Hag 	2 	23 	1 	31 	1 	and 	CC
+Hag 	2 	23 	1 	32 	1 	will 	MD
+Hag 	2 	23 	1 	33 	1 	make 	VB
+Hag 	2 	23 	1 	34 	1 	thee 	NN
+Hag 	2 	23 	1 	35 	1 	as 	IN
+Hag 	2 	23 	1 	36 	1 	a 	DT
+Hag 	2 	23 	1 	37 	1 	signet 	NN
+Hag 	2 	23 	1 	38 	0 	:
+Hag 	2 	23 	1 	39 	1 	for 	IN
+Hag 	2 	23 	1 	40 	1 	I 	PRP
+Hag 	2 	23 	1 	41 	1 	have 	VB
+Hag 	2 	23 	1 	42 	1 	chosen 	NN
+Hag 	2 	23 	1 	43 	1 	thee 	NN
+Hag 	2 	23 	1 	44 	0 	,
+Hag 	2 	23 	1 	45 	1 	saith 	NN
+Hag 	2 	23 	1 	46 	1 	the 	DT
+Hag 	2 	23 	1 	47 	1 	LORD 	NN
+Hag 	2 	23 	1 	48 	1 	of 	IN
+Hag 	2 	23 	1 	49 	1 	hosts 	NNS
+Hag 	2 	23 	1 	50 	0 	.

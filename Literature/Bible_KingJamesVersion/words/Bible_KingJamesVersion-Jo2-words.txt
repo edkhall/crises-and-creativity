@@ -1,0 +1,350 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Jo2 	1 	1 	1 	1 	1 	The 	DT
+Jo2 	1 	1 	1 	2 	1 	elder 	NN
+Jo2 	1 	1 	1 	3 	1 	unto 	NN
+Jo2 	1 	1 	1 	4 	1 	the 	DT
+Jo2 	1 	1 	1 	5 	1 	elect 	NN
+Jo2 	1 	1 	1 	6 	1 	lady 	NN
+Jo2 	1 	1 	1 	7 	1 	and 	CC
+Jo2 	1 	1 	1 	8 	1 	her 	PRP$
+Jo2 	1 	1 	1 	9 	1 	children 	NNS
+Jo2 	1 	1 	1 	10 	0 	,
+Jo2 	1 	1 	1 	11 	1 	whom 	WP
+Jo2 	1 	1 	1 	12 	1 	I 	PRP
+Jo2 	1 	1 	1 	13 	1 	love 	NN
+Jo2 	1 	1 	1 	14 	1 	in 	IN
+Jo2 	1 	1 	1 	15 	1 	the 	DT
+Jo2 	1 	1 	1 	16 	1 	truth 	NN
+Jo2 	1 	1 	1 	17 	0 	;
+Jo2 	1 	1 	1 	18 	1 	and 	CC
+Jo2 	1 	1 	1 	19 	1 	not 	RB
+Jo2 	1 	1 	1 	20 	1 	I 	PRP
+Jo2 	1 	1 	1 	21 	1 	only 	RB
+Jo2 	1 	1 	1 	22 	0 	,
+Jo2 	1 	1 	1 	23 	1 	but 	CC
+Jo2 	1 	1 	1 	24 	1 	also 	RB
+Jo2 	1 	1 	1 	25 	1 	all 	DT
+Jo2 	1 	1 	1 	26 	1 	they 	PRP
+Jo2 	1 	1 	1 	27 	1 	that 	IN
+Jo2 	1 	1 	1 	28 	1 	have 	VB
+Jo2 	1 	1 	1 	29 	1 	known 	VBN
+Jo2 	1 	1 	1 	30 	1 	the 	DT
+Jo2 	1 	1 	1 	31 	1 	truth 	NN
+Jo2 	1 	1 	1 	32 	0 	;
+Jo2 	1 	2 	1 	1 	1 	For 	IN
+Jo2 	1 	2 	1 	2 	1 	the 	DT
+Jo2 	1 	2 	1 	3 	1 	truth 	NN
+Jo2 	1 	2 	1 	4 	0 	's
+Jo2 	1 	2 	1 	5 	1 	sake 	NN
+Jo2 	1 	2 	1 	6 	0 	,
+Jo2 	1 	2 	1 	7 	1 	which 	WDT
+Jo2 	1 	2 	1 	8 	1 	dwelleth 	NN
+Jo2 	1 	2 	1 	9 	1 	in 	IN
+Jo2 	1 	2 	1 	10 	1 	us 	PRP
+Jo2 	1 	2 	1 	11 	0 	,
+Jo2 	1 	2 	1 	12 	1 	and 	CC
+Jo2 	1 	2 	1 	13 	1 	shall 	MD
+Jo2 	1 	2 	1 	14 	1 	be 	VB
+Jo2 	1 	2 	1 	15 	1 	with 	IN
+Jo2 	1 	2 	1 	16 	1 	us 	PRP
+Jo2 	1 	2 	1 	17 	1 	for 	IN
+Jo2 	1 	2 	1 	18 	1 	ever 	RB
+Jo2 	1 	2 	1 	19 	0 	.
+Jo2 	1 	3 	1 	1 	1 	Grace 	NN
+Jo2 	1 	3 	1 	2 	1 	be 	VB
+Jo2 	1 	3 	1 	3 	1 	with 	IN
+Jo2 	1 	3 	1 	4 	1 	you 	PRP
+Jo2 	1 	3 	1 	5 	0 	,
+Jo2 	1 	3 	1 	6 	1 	mercy 	NN
+Jo2 	1 	3 	1 	7 	0 	,
+Jo2 	1 	3 	1 	8 	1 	and 	CC
+Jo2 	1 	3 	1 	9 	1 	peace 	NN
+Jo2 	1 	3 	1 	10 	0 	,
+Jo2 	1 	3 	1 	11 	1 	from 	IN
+Jo2 	1 	3 	1 	12 	1 	God 	NNP
+Jo2 	1 	3 	1 	13 	1 	the 	DT
+Jo2 	1 	3 	1 	14 	1 	Father 	NN
+Jo2 	1 	3 	1 	15 	0 	,
+Jo2 	1 	3 	1 	16 	1 	and 	CC
+Jo2 	1 	3 	1 	17 	1 	from 	IN
+Jo2 	1 	3 	1 	18 	1 	the 	DT
+Jo2 	1 	3 	1 	19 	1 	Lord 	NN
+Jo2 	1 	3 	1 	20 	1 	Jesus 	NN
+Jo2 	1 	3 	1 	21 	1 	Christ 	NN
+Jo2 	1 	3 	1 	22 	0 	,
+Jo2 	1 	3 	1 	23 	1 	the 	DT
+Jo2 	1 	3 	1 	24 	1 	Son 	NN
+Jo2 	1 	3 	1 	25 	1 	of 	IN
+Jo2 	1 	3 	1 	26 	1 	the 	DT
+Jo2 	1 	3 	1 	27 	1 	Father 	NN
+Jo2 	1 	3 	1 	28 	0 	,
+Jo2 	1 	3 	1 	29 	1 	in 	IN
+Jo2 	1 	3 	1 	30 	1 	truth 	NN
+Jo2 	1 	3 	1 	31 	1 	and 	CC
+Jo2 	1 	3 	1 	32 	1 	love 	NN
+Jo2 	1 	3 	1 	33 	0 	.
+Jo2 	1 	4 	1 	1 	1 	I 	PRP
+Jo2 	1 	4 	1 	2 	1 	rejoiced 	VBN
+Jo2 	1 	4 	1 	3 	1 	greatly 	RB
+Jo2 	1 	4 	1 	4 	1 	that 	IN
+Jo2 	1 	4 	1 	5 	1 	I 	PRP
+Jo2 	1 	4 	1 	6 	1 	found 	NN
+Jo2 	1 	4 	1 	7 	1 	of 	IN
+Jo2 	1 	4 	1 	8 	1 	thy 	NN
+Jo2 	1 	4 	1 	9 	1 	children 	NNS
+Jo2 	1 	4 	1 	10 	1 	walking 	VBG
+Jo2 	1 	4 	1 	11 	1 	in 	IN
+Jo2 	1 	4 	1 	12 	1 	truth 	NN
+Jo2 	1 	4 	1 	13 	0 	,
+Jo2 	1 	4 	1 	14 	1 	as 	IN
+Jo2 	1 	4 	1 	15 	1 	we 	PRP
+Jo2 	1 	4 	1 	16 	1 	have 	VB
+Jo2 	1 	4 	1 	17 	1 	received 	VBN
+Jo2 	1 	4 	1 	18 	1 	a 	DT
+Jo2 	1 	4 	1 	19 	1 	commandment 	NN
+Jo2 	1 	4 	1 	20 	1 	from 	IN
+Jo2 	1 	4 	1 	21 	1 	the 	DT
+Jo2 	1 	4 	1 	22 	1 	Father 	NN
+Jo2 	1 	4 	1 	23 	0 	.
+Jo2 	1 	5 	1 	1 	1 	And 	CC
+Jo2 	1 	5 	1 	2 	1 	now 	RB
+Jo2 	1 	5 	1 	3 	1 	I 	PRP
+Jo2 	1 	5 	1 	4 	1 	beseech 	NN
+Jo2 	1 	5 	1 	5 	1 	thee 	NN
+Jo2 	1 	5 	1 	6 	0 	,
+Jo2 	1 	5 	1 	7 	1 	lady 	NN
+Jo2 	1 	5 	1 	8 	0 	,
+Jo2 	1 	5 	1 	9 	1 	not 	RB
+Jo2 	1 	5 	1 	10 	1 	as 	IN
+Jo2 	1 	5 	1 	11 	1 	though 	IN
+Jo2 	1 	5 	1 	12 	1 	I 	PRP
+Jo2 	1 	5 	1 	13 	1 	wrote 	VBD
+Jo2 	1 	5 	1 	14 	1 	a 	DT
+Jo2 	1 	5 	1 	15 	1 	new 	JJ
+Jo2 	1 	5 	1 	16 	1 	commandment 	NN
+Jo2 	1 	5 	1 	17 	1 	unto 	NN
+Jo2 	1 	5 	1 	18 	1 	thee 	NN
+Jo2 	1 	5 	1 	19 	0 	,
+Jo2 	1 	5 	1 	20 	1 	but 	CC
+Jo2 	1 	5 	1 	21 	1 	that 	IN
+Jo2 	1 	5 	1 	22 	1 	which 	WDT
+Jo2 	1 	5 	1 	23 	1 	we 	PRP
+Jo2 	1 	5 	1 	24 	1 	had 	VBD
+Jo2 	1 	5 	1 	25 	1 	from 	IN
+Jo2 	1 	5 	1 	26 	1 	the 	DT
+Jo2 	1 	5 	1 	27 	1 	beginning 	VBG
+Jo2 	1 	5 	1 	28 	0 	,
+Jo2 	1 	5 	1 	29 	1 	that 	IN
+Jo2 	1 	5 	1 	30 	1 	we 	PRP
+Jo2 	1 	5 	1 	31 	1 	love 	NN
+Jo2 	1 	5 	1 	32 	1 	one 	CD
+Jo2 	1 	5 	1 	33 	1 	another 	DT
+Jo2 	1 	5 	1 	34 	0 	.
+Jo2 	1 	6 	1 	1 	1 	And 	CC
+Jo2 	1 	6 	1 	2 	1 	this 	DT
+Jo2 	1 	6 	1 	3 	1 	is 	VBZ
+Jo2 	1 	6 	1 	4 	1 	love 	NN
+Jo2 	1 	6 	1 	5 	0 	,
+Jo2 	1 	6 	1 	6 	1 	that 	IN
+Jo2 	1 	6 	1 	7 	1 	we 	PRP
+Jo2 	1 	6 	1 	8 	1 	walk 	NN
+Jo2 	1 	6 	1 	9 	1 	after 	IN
+Jo2 	1 	6 	1 	10 	1 	his 	PRP$
+Jo2 	1 	6 	1 	11 	1 	commandments 	NNS
+Jo2 	1 	6 	1 	12 	0 	.
+Jo2 	1 	6 	2 	1 	1 	This 	DT
+Jo2 	1 	6 	2 	2 	1 	is 	VBZ
+Jo2 	1 	6 	2 	3 	1 	the 	DT
+Jo2 	1 	6 	2 	4 	1 	commandment 	NN
+Jo2 	1 	6 	2 	5 	0 	,
+Jo2 	1 	6 	2 	6 	1 	That 	DT
+Jo2 	1 	6 	2 	7 	0 	,
+Jo2 	1 	6 	2 	8 	1 	as 	IN
+Jo2 	1 	6 	2 	9 	1 	ye 	NN
+Jo2 	1 	6 	2 	10 	1 	have 	VB
+Jo2 	1 	6 	2 	11 	1 	heard 	NN
+Jo2 	1 	6 	2 	12 	1 	from 	IN
+Jo2 	1 	6 	2 	13 	1 	the 	DT
+Jo2 	1 	6 	2 	14 	1 	beginning 	VBG
+Jo2 	1 	6 	2 	15 	0 	,
+Jo2 	1 	6 	2 	16 	1 	ye 	NN
+Jo2 	1 	6 	2 	17 	1 	should 	MD
+Jo2 	1 	6 	2 	18 	1 	walk 	NN
+Jo2 	1 	6 	2 	19 	1 	in 	IN
+Jo2 	1 	6 	2 	20 	1 	it 	PRP
+Jo2 	1 	6 	2 	21 	0 	.
+Jo2 	1 	7 	1 	1 	1 	For 	IN
+Jo2 	1 	7 	1 	2 	1 	many 	JJ
+Jo2 	1 	7 	1 	3 	1 	deceivers 	NNS
+Jo2 	1 	7 	1 	4 	1 	are 	VBP
+Jo2 	1 	7 	1 	5 	1 	entered 	VBN
+Jo2 	1 	7 	1 	6 	1 	into 	IN
+Jo2 	1 	7 	1 	7 	1 	the 	DT
+Jo2 	1 	7 	1 	8 	1 	world 	NN
+Jo2 	1 	7 	1 	9 	0 	,
+Jo2 	1 	7 	1 	10 	1 	who 	WP
+Jo2 	1 	7 	1 	11 	1 	confess 	NN
+Jo2 	1 	7 	1 	12 	1 	not 	RB
+Jo2 	1 	7 	1 	13 	1 	that 	IN
+Jo2 	1 	7 	1 	14 	1 	Jesus 	NN
+Jo2 	1 	7 	1 	15 	1 	Christ 	NN
+Jo2 	1 	7 	1 	16 	1 	is 	VBZ
+Jo2 	1 	7 	1 	17 	1 	come 	VB
+Jo2 	1 	7 	1 	18 	1 	in 	IN
+Jo2 	1 	7 	1 	19 	1 	the 	DT
+Jo2 	1 	7 	1 	20 	1 	flesh 	NN
+Jo2 	1 	7 	1 	21 	0 	.
+Jo2 	1 	7 	2 	1 	1 	This 	DT
+Jo2 	1 	7 	2 	2 	1 	is 	VBZ
+Jo2 	1 	7 	2 	3 	1 	a 	DT
+Jo2 	1 	7 	2 	4 	1 	deceiver 	NN
+Jo2 	1 	7 	2 	5 	1 	and 	CC
+Jo2 	1 	7 	2 	6 	1 	an 	DT
+Jo2 	1 	7 	2 	7 	1 	antichrist 	NN
+Jo2 	1 	7 	2 	8 	0 	.
+Jo2 	1 	8 	1 	1 	1 	Look 	VB
+Jo2 	1 	8 	1 	2 	1 	to 	TO
+Jo2 	1 	8 	1 	3 	1 	yourselves 	NNS
+Jo2 	1 	8 	1 	4 	0 	,
+Jo2 	1 	8 	1 	5 	1 	that 	IN
+Jo2 	1 	8 	1 	6 	1 	we 	PRP
+Jo2 	1 	8 	1 	7 	1 	lose 	VB
+Jo2 	1 	8 	1 	8 	1 	not 	RB
+Jo2 	1 	8 	1 	9 	1 	those 	DT
+Jo2 	1 	8 	1 	10 	1 	things 	NNS
+Jo2 	1 	8 	1 	11 	1 	which 	WDT
+Jo2 	1 	8 	1 	12 	1 	we 	PRP
+Jo2 	1 	8 	1 	13 	1 	have 	VB
+Jo2 	1 	8 	1 	14 	1 	wrought 	NN
+Jo2 	1 	8 	1 	15 	0 	,
+Jo2 	1 	8 	1 	16 	1 	but 	CC
+Jo2 	1 	8 	1 	17 	1 	that 	IN
+Jo2 	1 	8 	1 	18 	1 	we 	PRP
+Jo2 	1 	8 	1 	19 	1 	receive 	NN
+Jo2 	1 	8 	1 	20 	1 	a 	DT
+Jo2 	1 	8 	1 	21 	1 	full 	JJ
+Jo2 	1 	8 	1 	22 	1 	reward 	NN
+Jo2 	1 	8 	1 	23 	0 	.
+Jo2 	1 	9 	1 	1 	1 	Whosoever 	WRB
+Jo2 	1 	9 	1 	2 	1 	transgresseth 	NNS
+Jo2 	1 	9 	1 	3 	0 	,
+Jo2 	1 	9 	1 	4 	1 	and 	CC
+Jo2 	1 	9 	1 	5 	1 	abideth 	NNS
+Jo2 	1 	9 	1 	6 	1 	not 	RB
+Jo2 	1 	9 	1 	7 	1 	in 	IN
+Jo2 	1 	9 	1 	8 	1 	the 	DT
+Jo2 	1 	9 	1 	9 	1 	doctrine 	NN
+Jo2 	1 	9 	1 	10 	1 	of 	IN
+Jo2 	1 	9 	1 	11 	1 	Christ 	NN
+Jo2 	1 	9 	1 	12 	0 	,
+Jo2 	1 	9 	1 	13 	1 	hath 	NN
+Jo2 	1 	9 	1 	14 	1 	not 	RB
+Jo2 	1 	9 	1 	15 	1 	God 	NNP
+Jo2 	1 	9 	1 	16 	0 	.
+Jo2 	1 	9 	2 	1 	1 	He 	PRP
+Jo2 	1 	9 	2 	2 	1 	that 	IN
+Jo2 	1 	9 	2 	3 	1 	abideth 	NNS
+Jo2 	1 	9 	2 	4 	1 	in 	IN
+Jo2 	1 	9 	2 	5 	1 	the 	DT
+Jo2 	1 	9 	2 	6 	1 	doctrine 	NN
+Jo2 	1 	9 	2 	7 	1 	of 	IN
+Jo2 	1 	9 	2 	8 	1 	Christ 	NN
+Jo2 	1 	9 	2 	9 	0 	,
+Jo2 	1 	9 	2 	10 	1 	he 	PRP
+Jo2 	1 	9 	2 	11 	1 	hath 	NN
+Jo2 	1 	9 	2 	12 	1 	both 	DT
+Jo2 	1 	9 	2 	13 	1 	the 	DT
+Jo2 	1 	9 	2 	14 	1 	Father 	NN
+Jo2 	1 	9 	2 	15 	1 	and 	CC
+Jo2 	1 	9 	2 	16 	1 	the 	DT
+Jo2 	1 	9 	2 	17 	1 	Son 	NN
+Jo2 	1 	9 	2 	18 	0 	.
+Jo2 	1 	10 	1 	1 	1 	If 	IN
+Jo2 	1 	10 	1 	2 	1 	there 	RB
+Jo2 	1 	10 	1 	3 	1 	come 	VB
+Jo2 	1 	10 	1 	4 	1 	any 	DT
+Jo2 	1 	10 	1 	5 	1 	unto 	NN
+Jo2 	1 	10 	1 	6 	1 	you 	PRP
+Jo2 	1 	10 	1 	7 	0 	,
+Jo2 	1 	10 	1 	8 	1 	and 	CC
+Jo2 	1 	10 	1 	9 	1 	bring 	NN
+Jo2 	1 	10 	1 	10 	1 	not 	RB
+Jo2 	1 	10 	1 	11 	1 	this 	DT
+Jo2 	1 	10 	1 	12 	1 	doctrine 	NN
+Jo2 	1 	10 	1 	13 	0 	,
+Jo2 	1 	10 	1 	14 	1 	receive 	NN
+Jo2 	1 	10 	1 	15 	1 	him 	PRP
+Jo2 	1 	10 	1 	16 	1 	not 	RB
+Jo2 	1 	10 	1 	17 	1 	into 	IN
+Jo2 	1 	10 	1 	18 	1 	your 	PRP$
+Jo2 	1 	10 	1 	19 	1 	house 	NN
+Jo2 	1 	10 	1 	20 	0 	,
+Jo2 	1 	10 	1 	21 	1 	neither 	DT
+Jo2 	1 	10 	1 	22 	1 	bid 	NN
+Jo2 	1 	10 	1 	23 	1 	him 	PRP
+Jo2 	1 	10 	1 	24 	1 	God 	NNP
+Jo2 	1 	10 	1 	25 	1 	speed 	NN
+Jo2 	1 	10 	1 	26 	0 	:
+Jo2 	1 	11 	1 	1 	1 	For 	IN
+Jo2 	1 	11 	1 	2 	1 	he 	PRP
+Jo2 	1 	11 	1 	3 	1 	that 	IN
+Jo2 	1 	11 	1 	4 	1 	biddeth 	NN
+Jo2 	1 	11 	1 	5 	1 	him 	PRP
+Jo2 	1 	11 	1 	6 	1 	God 	NNP
+Jo2 	1 	11 	1 	7 	1 	speed 	NN
+Jo2 	1 	11 	1 	8 	1 	is 	VBZ
+Jo2 	1 	11 	1 	9 	1 	partaker 	NN
+Jo2 	1 	11 	1 	10 	1 	of 	IN
+Jo2 	1 	11 	1 	11 	1 	his 	PRP$
+Jo2 	1 	11 	1 	12 	1 	evil 	NN
+Jo2 	1 	11 	1 	13 	1 	deeds 	NNS
+Jo2 	1 	11 	1 	14 	0 	.
+Jo2 	1 	12 	1 	1 	1 	Having 	VBG
+Jo2 	1 	12 	1 	2 	1 	many 	JJ
+Jo2 	1 	12 	1 	3 	1 	things 	NNS
+Jo2 	1 	12 	1 	4 	1 	to 	TO
+Jo2 	1 	12 	1 	5 	1 	write 	NN
+Jo2 	1 	12 	1 	6 	1 	unto 	NN
+Jo2 	1 	12 	1 	7 	1 	you 	PRP
+Jo2 	1 	12 	1 	8 	0 	,
+Jo2 	1 	12 	1 	9 	1 	I 	PRP
+Jo2 	1 	12 	1 	10 	1 	would 	MD
+Jo2 	1 	12 	1 	11 	1 	not 	RB
+Jo2 	1 	12 	1 	12 	1 	write 	NN
+Jo2 	1 	12 	1 	13 	1 	with 	IN
+Jo2 	1 	12 	1 	14 	1 	paper 	NN
+Jo2 	1 	12 	1 	15 	1 	and 	CC
+Jo2 	1 	12 	1 	16 	1 	ink 	NN
+Jo2 	1 	12 	1 	17 	0 	:
+Jo2 	1 	12 	1 	18 	1 	but 	CC
+Jo2 	1 	12 	1 	19 	1 	I 	PRP
+Jo2 	1 	12 	1 	20 	1 	trust 	NN
+Jo2 	1 	12 	1 	21 	1 	to 	TO
+Jo2 	1 	12 	1 	22 	1 	come 	VB
+Jo2 	1 	12 	1 	23 	1 	unto 	NN
+Jo2 	1 	12 	1 	24 	1 	you 	PRP
+Jo2 	1 	12 	1 	25 	0 	,
+Jo2 	1 	12 	1 	26 	1 	and 	CC
+Jo2 	1 	12 	1 	27 	1 	speak 	NN
+Jo2 	1 	12 	1 	28 	1 	face 	NN
+Jo2 	1 	12 	1 	29 	1 	to 	TO
+Jo2 	1 	12 	1 	30 	1 	face 	NN
+Jo2 	1 	12 	1 	31 	0 	,
+Jo2 	1 	12 	1 	32 	1 	that 	IN
+Jo2 	1 	12 	1 	33 	1 	our 	PRP$
+Jo2 	1 	12 	1 	34 	1 	joy 	NN
+Jo2 	1 	12 	1 	35 	1 	may 	MD
+Jo2 	1 	12 	1 	36 	1 	be 	VB
+Jo2 	1 	12 	1 	37 	1 	full 	JJ
+Jo2 	1 	12 	1 	38 	0 	.
+Jo2 	1 	13 	1 	1 	1 	The 	DT
+Jo2 	1 	13 	1 	2 	1 	children 	NNS
+Jo2 	1 	13 	1 	3 	1 	of 	IN
+Jo2 	1 	13 	1 	4 	1 	thy 	NN
+Jo2 	1 	13 	1 	5 	1 	elect 	NN
+Jo2 	1 	13 	1 	6 	1 	sister 	NN
+Jo2 	1 	13 	1 	7 	1 	greet 	NN
+Jo2 	1 	13 	1 	8 	1 	thee 	NN
+Jo2 	1 	13 	1 	9 	0 	.
+Jo2 	1 	13 	2 	1 	1 	Amen 	NNS
+Jo2 	1 	13 	2 	2 	0 	.

@@ -1,0 +1,1168 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Th2 	1 	1 	1 	1 	1 	Paul 	NNP
+Th2 	1 	1 	1 	2 	0 	,
+Th2 	1 	1 	1 	3 	1 	and 	CC
+Th2 	1 	1 	1 	4 	1 	Silvanus 	NN
+Th2 	1 	1 	1 	5 	0 	,
+Th2 	1 	1 	1 	6 	1 	and 	CC
+Th2 	1 	1 	1 	7 	1 	Timotheus 	NN
+Th2 	1 	1 	1 	8 	0 	,
+Th2 	1 	1 	1 	9 	1 	unto 	NN
+Th2 	1 	1 	1 	10 	1 	the 	DT
+Th2 	1 	1 	1 	11 	1 	church 	NN
+Th2 	1 	1 	1 	12 	1 	of 	IN
+Th2 	1 	1 	1 	13 	1 	the 	DT
+Th2 	1 	1 	1 	14 	1 	Thessalonians 	NNS
+Th2 	1 	1 	1 	15 	1 	in 	IN
+Th2 	1 	1 	1 	16 	1 	God 	NNP
+Th2 	1 	1 	1 	17 	1 	our 	PRP$
+Th2 	1 	1 	1 	18 	1 	Father 	NN
+Th2 	1 	1 	1 	19 	1 	and 	CC
+Th2 	1 	1 	1 	20 	1 	the 	DT
+Th2 	1 	1 	1 	21 	1 	Lord 	NN
+Th2 	1 	1 	1 	22 	1 	Jesus 	NN
+Th2 	1 	1 	1 	23 	1 	Christ 	NN
+Th2 	1 	1 	1 	24 	0 	:
+Th2 	1 	2 	1 	1 	1 	Grace 	NN
+Th2 	1 	2 	1 	2 	1 	unto 	NN
+Th2 	1 	2 	1 	3 	1 	you 	PRP
+Th2 	1 	2 	1 	4 	0 	,
+Th2 	1 	2 	1 	5 	1 	and 	CC
+Th2 	1 	2 	1 	6 	1 	peace 	NN
+Th2 	1 	2 	1 	7 	0 	,
+Th2 	1 	2 	1 	8 	1 	from 	IN
+Th2 	1 	2 	1 	9 	1 	God 	NNP
+Th2 	1 	2 	1 	10 	1 	our 	PRP$
+Th2 	1 	2 	1 	11 	1 	Father 	NN
+Th2 	1 	2 	1 	12 	1 	and 	CC
+Th2 	1 	2 	1 	13 	1 	the 	DT
+Th2 	1 	2 	1 	14 	1 	Lord 	NN
+Th2 	1 	2 	1 	15 	1 	Jesus 	NN
+Th2 	1 	2 	1 	16 	1 	Christ 	NN
+Th2 	1 	2 	1 	17 	0 	.
+Th2 	1 	3 	1 	1 	1 	We 	PRP
+Th2 	1 	3 	1 	2 	1 	are 	VBP
+Th2 	1 	3 	1 	3 	1 	bound 	NN
+Th2 	1 	3 	1 	4 	1 	to 	TO
+Th2 	1 	3 	1 	5 	1 	thank 	NN
+Th2 	1 	3 	1 	6 	1 	God 	NNP
+Th2 	1 	3 	1 	7 	1 	always 	RB
+Th2 	1 	3 	1 	8 	1 	for 	IN
+Th2 	1 	3 	1 	9 	1 	you 	PRP
+Th2 	1 	3 	1 	10 	0 	,
+Th2 	1 	3 	1 	11 	1 	brethren 	NNS
+Th2 	1 	3 	1 	12 	0 	,
+Th2 	1 	3 	1 	13 	1 	as 	IN
+Th2 	1 	3 	1 	14 	1 	it 	PRP
+Th2 	1 	3 	1 	15 	1 	is 	VBZ
+Th2 	1 	3 	1 	16 	1 	meet 	NN
+Th2 	1 	3 	1 	17 	0 	,
+Th2 	1 	3 	1 	18 	1 	because 	IN
+Th2 	1 	3 	1 	19 	1 	that 	IN
+Th2 	1 	3 	1 	20 	1 	your 	PRP$
+Th2 	1 	3 	1 	21 	1 	faith 	NN
+Th2 	1 	3 	1 	22 	1 	groweth 	NNS
+Th2 	1 	3 	1 	23 	1 	exceedingly 	RB
+Th2 	1 	3 	1 	24 	0 	,
+Th2 	1 	3 	1 	25 	1 	and 	CC
+Th2 	1 	3 	1 	26 	1 	the 	DT
+Th2 	1 	3 	1 	27 	1 	charity 	NN
+Th2 	1 	3 	1 	28 	1 	of 	IN
+Th2 	1 	3 	1 	29 	1 	every 	DT
+Th2 	1 	3 	1 	30 	1 	one 	CD
+Th2 	1 	3 	1 	31 	1 	of 	IN
+Th2 	1 	3 	1 	32 	1 	you 	PRP
+Th2 	1 	3 	1 	33 	1 	all 	DT
+Th2 	1 	3 	1 	34 	1 	toward 	IN
+Th2 	1 	3 	1 	35 	1 	each 	DT
+Th2 	1 	3 	1 	36 	1 	other 	JJ
+Th2 	1 	3 	1 	37 	1 	aboundeth 	NNS
+Th2 	1 	3 	1 	38 	0 	;
+Th2 	1 	4 	1 	1 	1 	So 	RB
+Th2 	1 	4 	1 	2 	1 	that 	IN
+Th2 	1 	4 	1 	3 	1 	we 	PRP
+Th2 	1 	4 	1 	4 	1 	ourselves 	NNS
+Th2 	1 	4 	1 	5 	1 	glory 	NN
+Th2 	1 	4 	1 	6 	1 	in 	IN
+Th2 	1 	4 	1 	7 	1 	you 	PRP
+Th2 	1 	4 	1 	8 	1 	in 	IN
+Th2 	1 	4 	1 	9 	1 	the 	DT
+Th2 	1 	4 	1 	10 	1 	churches 	NNS
+Th2 	1 	4 	1 	11 	1 	of 	IN
+Th2 	1 	4 	1 	12 	1 	God 	NNP
+Th2 	1 	4 	1 	13 	1 	for 	IN
+Th2 	1 	4 	1 	14 	1 	your 	PRP$
+Th2 	1 	4 	1 	15 	1 	patience 	NN
+Th2 	1 	4 	1 	16 	1 	and 	CC
+Th2 	1 	4 	1 	17 	1 	faith 	NN
+Th2 	1 	4 	1 	18 	1 	in 	IN
+Th2 	1 	4 	1 	19 	1 	all 	DT
+Th2 	1 	4 	1 	20 	1 	your 	PRP$
+Th2 	1 	4 	1 	21 	1 	persecutions 	NNS
+Th2 	1 	4 	1 	22 	1 	and 	CC
+Th2 	1 	4 	1 	23 	1 	tribulations 	NNS
+Th2 	1 	4 	1 	24 	1 	that 	IN
+Th2 	1 	4 	1 	25 	1 	ye 	NN
+Th2 	1 	4 	1 	26 	1 	endure 	NN
+Th2 	1 	4 	1 	27 	0 	:
+Th2 	1 	5 	1 	1 	1 	Which 	WDT
+Th2 	1 	5 	1 	2 	1 	is 	VBZ
+Th2 	1 	5 	1 	3 	1 	a 	DT
+Th2 	1 	5 	1 	4 	1 	manifest 	JJS
+Th2 	1 	5 	1 	5 	1 	token 	NN
+Th2 	1 	5 	1 	6 	1 	of 	IN
+Th2 	1 	5 	1 	7 	1 	the 	DT
+Th2 	1 	5 	1 	8 	1 	righteous 	JJ
+Th2 	1 	5 	1 	9 	1 	judgment 	NN
+Th2 	1 	5 	1 	10 	1 	of 	IN
+Th2 	1 	5 	1 	11 	1 	God 	NNP
+Th2 	1 	5 	1 	12 	0 	,
+Th2 	1 	5 	1 	13 	1 	that 	IN
+Th2 	1 	5 	1 	14 	1 	ye 	NN
+Th2 	1 	5 	1 	15 	1 	may 	MD
+Th2 	1 	5 	1 	16 	1 	be 	VB
+Th2 	1 	5 	1 	17 	1 	counted 	VBN
+Th2 	1 	5 	1 	18 	1 	worthy 	NN
+Th2 	1 	5 	1 	19 	1 	of 	IN
+Th2 	1 	5 	1 	20 	1 	the 	DT
+Th2 	1 	5 	1 	21 	1 	kingdom 	NN
+Th2 	1 	5 	1 	22 	1 	of 	IN
+Th2 	1 	5 	1 	23 	1 	God 	NNP
+Th2 	1 	5 	1 	24 	0 	,
+Th2 	1 	5 	1 	25 	1 	for 	IN
+Th2 	1 	5 	1 	26 	1 	which 	WDT
+Th2 	1 	5 	1 	27 	1 	ye 	NN
+Th2 	1 	5 	1 	28 	1 	also 	RB
+Th2 	1 	5 	1 	29 	1 	suffer 	NN
+Th2 	1 	5 	1 	30 	0 	:
+Th2 	1 	6 	1 	1 	1 	Seeing 	VBG
+Th2 	1 	6 	1 	2 	1 	it 	PRP
+Th2 	1 	6 	1 	3 	1 	is 	VBZ
+Th2 	1 	6 	1 	4 	1 	a 	DT
+Th2 	1 	6 	1 	5 	1 	righteous 	JJ
+Th2 	1 	6 	1 	6 	1 	thing 	NN
+Th2 	1 	6 	1 	7 	1 	with 	IN
+Th2 	1 	6 	1 	8 	1 	God 	NNP
+Th2 	1 	6 	1 	9 	1 	to 	TO
+Th2 	1 	6 	1 	10 	1 	recompense 	NN
+Th2 	1 	6 	1 	11 	1 	tribulation 	NN
+Th2 	1 	6 	1 	12 	1 	to 	TO
+Th2 	1 	6 	1 	13 	1 	them 	PRP
+Th2 	1 	6 	1 	14 	1 	that 	IN
+Th2 	1 	6 	1 	15 	1 	trouble 	NN
+Th2 	1 	6 	1 	16 	1 	you 	PRP
+Th2 	1 	6 	1 	17 	0 	;
+Th2 	1 	7 	1 	1 	1 	And 	CC
+Th2 	1 	7 	1 	2 	1 	to 	TO
+Th2 	1 	7 	1 	3 	1 	you 	PRP
+Th2 	1 	7 	1 	4 	1 	who 	WP
+Th2 	1 	7 	1 	5 	1 	are 	VBP
+Th2 	1 	7 	1 	6 	1 	troubled 	JJ
+Th2 	1 	7 	1 	7 	1 	rest 	NN
+Th2 	1 	7 	1 	8 	1 	with 	IN
+Th2 	1 	7 	1 	9 	1 	us 	PRP
+Th2 	1 	7 	1 	10 	0 	,
+Th2 	1 	7 	1 	11 	1 	when 	WRB
+Th2 	1 	7 	1 	12 	1 	the 	DT
+Th2 	1 	7 	1 	13 	1 	Lord 	NN
+Th2 	1 	7 	1 	14 	1 	Jesus 	NN
+Th2 	1 	7 	1 	15 	1 	shall 	MD
+Th2 	1 	7 	1 	16 	1 	be 	VB
+Th2 	1 	7 	1 	17 	1 	revealed 	VBD
+Th2 	1 	7 	1 	18 	1 	from 	IN
+Th2 	1 	7 	1 	19 	1 	heaven 	NN
+Th2 	1 	7 	1 	20 	1 	with 	IN
+Th2 	1 	7 	1 	21 	1 	his 	PRP$
+Th2 	1 	7 	1 	22 	1 	mighty 	NN
+Th2 	1 	7 	1 	23 	1 	angels 	NNS
+Th2 	1 	7 	1 	24 	0 	,
+Th2 	1 	8 	1 	1 	1 	In 	IN
+Th2 	1 	8 	1 	2 	1 	flaming 	VBG
+Th2 	1 	8 	1 	3 	1 	fire 	NN
+Th2 	1 	8 	1 	4 	1 	taking 	VBG
+Th2 	1 	8 	1 	5 	1 	vengeance 	NN
+Th2 	1 	8 	1 	6 	1 	on 	IN
+Th2 	1 	8 	1 	7 	1 	them 	PRP
+Th2 	1 	8 	1 	8 	1 	that 	IN
+Th2 	1 	8 	1 	9 	1 	know 	VB
+Th2 	1 	8 	1 	10 	1 	not 	RB
+Th2 	1 	8 	1 	11 	1 	God 	NNP
+Th2 	1 	8 	1 	12 	0 	,
+Th2 	1 	8 	1 	13 	1 	and 	CC
+Th2 	1 	8 	1 	14 	1 	that 	IN
+Th2 	1 	8 	1 	15 	1 	obey 	NN
+Th2 	1 	8 	1 	16 	1 	not 	RB
+Th2 	1 	8 	1 	17 	1 	the 	DT
+Th2 	1 	8 	1 	18 	1 	gospel 	NN
+Th2 	1 	8 	1 	19 	1 	of 	IN
+Th2 	1 	8 	1 	20 	1 	our 	PRP$
+Th2 	1 	8 	1 	21 	1 	Lord 	NN
+Th2 	1 	8 	1 	22 	1 	Jesus 	NN
+Th2 	1 	8 	1 	23 	1 	Christ 	NN
+Th2 	1 	8 	1 	24 	0 	:
+Th2 	1 	9 	1 	1 	1 	Who 	WP
+Th2 	1 	9 	1 	2 	1 	shall 	MD
+Th2 	1 	9 	1 	3 	1 	be 	VB
+Th2 	1 	9 	1 	4 	1 	punished 	VBN
+Th2 	1 	9 	1 	5 	1 	with 	IN
+Th2 	1 	9 	1 	6 	1 	everlasting 	VBG
+Th2 	1 	9 	1 	7 	1 	destruction 	NN
+Th2 	1 	9 	1 	8 	1 	from 	IN
+Th2 	1 	9 	1 	9 	1 	the 	DT
+Th2 	1 	9 	1 	10 	1 	presence 	NN
+Th2 	1 	9 	1 	11 	1 	of 	IN
+Th2 	1 	9 	1 	12 	1 	the 	DT
+Th2 	1 	9 	1 	13 	1 	Lord 	NN
+Th2 	1 	9 	1 	14 	0 	,
+Th2 	1 	9 	1 	15 	1 	and 	CC
+Th2 	1 	9 	1 	16 	1 	from 	IN
+Th2 	1 	9 	1 	17 	1 	the 	DT
+Th2 	1 	9 	1 	18 	1 	glory 	NN
+Th2 	1 	9 	1 	19 	1 	of 	IN
+Th2 	1 	9 	1 	20 	1 	his 	PRP$
+Th2 	1 	9 	1 	21 	1 	power 	NN
+Th2 	1 	9 	1 	22 	0 	;
+Th2 	1 	10 	1 	1 	1 	When 	WRB
+Th2 	1 	10 	1 	2 	1 	he 	PRP
+Th2 	1 	10 	1 	3 	1 	shall 	MD
+Th2 	1 	10 	1 	4 	1 	come 	VB
+Th2 	1 	10 	1 	5 	1 	to 	TO
+Th2 	1 	10 	1 	6 	1 	be 	VB
+Th2 	1 	10 	1 	7 	1 	glorified 	VBN
+Th2 	1 	10 	1 	8 	1 	in 	IN
+Th2 	1 	10 	1 	9 	1 	his 	PRP$
+Th2 	1 	10 	1 	10 	1 	saints 	NNS
+Th2 	1 	10 	1 	11 	0 	,
+Th2 	1 	10 	1 	12 	1 	and 	CC
+Th2 	1 	10 	1 	13 	1 	to 	TO
+Th2 	1 	10 	1 	14 	1 	be 	VB
+Th2 	1 	10 	1 	15 	1 	admired 	VBN
+Th2 	1 	10 	1 	16 	1 	in 	IN
+Th2 	1 	10 	1 	17 	1 	all 	DT
+Th2 	1 	10 	1 	18 	1 	them 	PRP
+Th2 	1 	10 	1 	19 	1 	that 	IN
+Th2 	1 	10 	1 	20 	1 	believe 	VB
+Th2 	1 	10 	1 	21 	0 	(
+Th2 	1 	10 	1 	22 	1 	because 	IN
+Th2 	1 	10 	1 	23 	1 	our 	PRP$
+Th2 	1 	10 	1 	24 	1 	testimony 	NN
+Th2 	1 	10 	1 	25 	1 	among 	IN
+Th2 	1 	10 	1 	26 	1 	you 	PRP
+Th2 	1 	10 	1 	27 	1 	was 	VBD
+Th2 	1 	10 	1 	28 	1 	believed 	VBN
+Th2 	1 	10 	1 	29 	0 	)
+Th2 	1 	10 	1 	30 	1 	in 	IN
+Th2 	1 	10 	1 	31 	1 	that 	IN
+Th2 	1 	10 	1 	32 	1 	day 	NN
+Th2 	1 	10 	1 	33 	0 	.
+Th2 	1 	11 	1 	1 	1 	Wherefore 	IN
+Th2 	1 	11 	1 	2 	1 	also 	RB
+Th2 	1 	11 	1 	3 	1 	we 	PRP
+Th2 	1 	11 	1 	4 	1 	pray 	NN
+Th2 	1 	11 	1 	5 	1 	always 	RB
+Th2 	1 	11 	1 	6 	1 	for 	IN
+Th2 	1 	11 	1 	7 	1 	you 	PRP
+Th2 	1 	11 	1 	8 	0 	,
+Th2 	1 	11 	1 	9 	1 	that 	IN
+Th2 	1 	11 	1 	10 	1 	our 	PRP$
+Th2 	1 	11 	1 	11 	1 	God 	NNP
+Th2 	1 	11 	1 	12 	1 	would 	MD
+Th2 	1 	11 	1 	13 	1 	count 	NN
+Th2 	1 	11 	1 	14 	1 	you 	PRP
+Th2 	1 	11 	1 	15 	1 	worthy 	NN
+Th2 	1 	11 	1 	16 	1 	of 	IN
+Th2 	1 	11 	1 	17 	1 	this 	DT
+Th2 	1 	11 	1 	18 	1 	calling 	VBG
+Th2 	1 	11 	1 	19 	0 	,
+Th2 	1 	11 	1 	20 	1 	and 	CC
+Th2 	1 	11 	1 	21 	1 	fulfil 	NN
+Th2 	1 	11 	1 	22 	1 	all 	DT
+Th2 	1 	11 	1 	23 	1 	the 	DT
+Th2 	1 	11 	1 	24 	1 	good 	JJ
+Th2 	1 	11 	1 	25 	1 	pleasure 	NN
+Th2 	1 	11 	1 	26 	1 	of 	IN
+Th2 	1 	11 	1 	27 	1 	his 	PRP$
+Th2 	1 	11 	1 	28 	1 	goodness 	NN
+Th2 	1 	11 	1 	29 	0 	,
+Th2 	1 	11 	1 	30 	1 	and 	CC
+Th2 	1 	11 	1 	31 	1 	the 	DT
+Th2 	1 	11 	1 	32 	1 	work 	NN
+Th2 	1 	11 	1 	33 	1 	of 	IN
+Th2 	1 	11 	1 	34 	1 	faith 	NN
+Th2 	1 	11 	1 	35 	1 	with 	IN
+Th2 	1 	11 	1 	36 	1 	power 	NN
+Th2 	1 	11 	1 	37 	0 	:
+Th2 	1 	12 	1 	1 	1 	at 	IN
+Th2 	1 	12 	1 	2 	1 	the 	DT
+Th2 	1 	12 	1 	3 	1 	name 	NN
+Th2 	1 	12 	1 	4 	1 	of 	IN
+Th2 	1 	12 	1 	5 	1 	our 	PRP$
+Th2 	1 	12 	1 	6 	1 	Lord 	NN
+Th2 	1 	12 	1 	7 	1 	Jesus 	NN
+Th2 	1 	12 	1 	8 	1 	Christ 	NN
+Th2 	1 	12 	1 	9 	1 	may 	MD
+Th2 	1 	12 	1 	10 	1 	be 	VB
+Th2 	1 	12 	1 	11 	1 	glorified 	VBN
+Th2 	1 	12 	1 	12 	1 	in 	IN
+Th2 	1 	12 	1 	13 	1 	you 	PRP
+Th2 	1 	12 	1 	14 	0 	,
+Th2 	1 	12 	1 	15 	1 	and 	CC
+Th2 	1 	12 	1 	16 	1 	ye 	NN
+Th2 	1 	12 	1 	17 	1 	in 	IN
+Th2 	1 	12 	1 	18 	1 	him 	PRP
+Th2 	1 	12 	1 	19 	0 	,
+Th2 	1 	12 	1 	20 	1 	according 	VBG
+Th2 	1 	12 	1 	21 	1 	to 	TO
+Th2 	1 	12 	1 	22 	1 	the 	DT
+Th2 	1 	12 	1 	23 	1 	grace 	NN
+Th2 	1 	12 	1 	24 	1 	of 	IN
+Th2 	1 	12 	1 	25 	1 	our 	PRP$
+Th2 	1 	12 	1 	26 	1 	God 	NNP
+Th2 	1 	12 	1 	27 	1 	and 	CC
+Th2 	1 	12 	1 	28 	1 	the 	DT
+Th2 	1 	12 	1 	29 	1 	Lord 	NN
+Th2 	1 	12 	1 	30 	1 	Jesus 	NN
+Th2 	1 	12 	1 	31 	1 	Christ 	NN
+Th2 	1 	12 	1 	32 	0 	.
+Th2 	2 	1 	1 	1 	1 	Now 	RB
+Th2 	2 	1 	1 	2 	1 	we 	PRP
+Th2 	2 	1 	1 	3 	1 	beseech 	NN
+Th2 	2 	1 	1 	4 	1 	you 	PRP
+Th2 	2 	1 	1 	5 	0 	,
+Th2 	2 	1 	1 	6 	1 	brethren 	NNS
+Th2 	2 	1 	1 	7 	0 	,
+Th2 	2 	1 	1 	8 	1 	by 	IN
+Th2 	2 	1 	1 	9 	1 	the 	DT
+Th2 	2 	1 	1 	10 	1 	coming 	VBG
+Th2 	2 	1 	1 	11 	1 	of 	IN
+Th2 	2 	1 	1 	12 	1 	our 	PRP$
+Th2 	2 	1 	1 	13 	1 	Lord 	NN
+Th2 	2 	1 	1 	14 	1 	Jesus 	NN
+Th2 	2 	1 	1 	15 	1 	Christ 	NN
+Th2 	2 	1 	1 	16 	0 	,
+Th2 	2 	1 	1 	17 	1 	and 	CC
+Th2 	2 	1 	1 	18 	1 	by 	IN
+Th2 	2 	1 	1 	19 	1 	our 	PRP$
+Th2 	2 	1 	1 	20 	1 	gathering 	NN
+Th2 	2 	1 	1 	21 	1 	together 	RB
+Th2 	2 	1 	1 	22 	1 	unto 	NN
+Th2 	2 	1 	1 	23 	1 	him 	PRP
+Th2 	2 	1 	1 	24 	0 	,
+Th2 	2 	2 	1 	1 	1 	at 	IN
+Th2 	2 	2 	1 	2 	1 	ye 	NN
+Th2 	2 	2 	1 	3 	1 	be 	VB
+Th2 	2 	2 	1 	4 	1 	not 	RB
+Th2 	2 	2 	1 	5 	1 	soon 	RB
+Th2 	2 	2 	1 	6 	1 	shaken 	NNS
+Th2 	2 	2 	1 	7 	1 	in 	IN
+Th2 	2 	2 	1 	8 	1 	mind 	NN
+Th2 	2 	2 	1 	9 	0 	,
+Th2 	2 	2 	1 	10 	1 	or 	CC
+Th2 	2 	2 	1 	11 	1 	be 	VB
+Th2 	2 	2 	1 	12 	1 	troubled 	JJ
+Th2 	2 	2 	1 	13 	0 	,
+Th2 	2 	2 	1 	14 	1 	neither 	DT
+Th2 	2 	2 	1 	15 	1 	by 	IN
+Th2 	2 	2 	1 	16 	1 	spirit 	NN
+Th2 	2 	2 	1 	17 	0 	,
+Th2 	2 	2 	1 	18 	1 	nor 	CC
+Th2 	2 	2 	1 	19 	1 	by 	IN
+Th2 	2 	2 	1 	20 	1 	word 	NN
+Th2 	2 	2 	1 	21 	0 	,
+Th2 	2 	2 	1 	22 	1 	nor 	CC
+Th2 	2 	2 	1 	23 	1 	by 	IN
+Th2 	2 	2 	1 	24 	1 	letter 	NN
+Th2 	2 	2 	1 	25 	1 	as 	IN
+Th2 	2 	2 	1 	26 	1 	from 	IN
+Th2 	2 	2 	1 	27 	1 	us 	PRP
+Th2 	2 	2 	1 	28 	0 	,
+Th2 	2 	2 	1 	29 	1 	as 	IN
+Th2 	2 	2 	1 	30 	1 	that 	IN
+Th2 	2 	2 	1 	31 	1 	the 	DT
+Th2 	2 	2 	1 	32 	1 	day 	NN
+Th2 	2 	2 	1 	33 	1 	of 	IN
+Th2 	2 	2 	1 	34 	1 	Christ 	NN
+Th2 	2 	2 	1 	35 	1 	is 	VBZ
+Th2 	2 	2 	1 	36 	1 	at 	IN
+Th2 	2 	2 	1 	37 	1 	hand 	NN
+Th2 	2 	2 	1 	38 	0 	.
+Th2 	2 	3 	1 	1 	1 	Let 	VB
+Th2 	2 	3 	1 	2 	1 	no 	DT
+Th2 	2 	3 	1 	3 	1 	man 	NN
+Th2 	2 	3 	1 	4 	1 	deceive 	NN
+Th2 	2 	3 	1 	5 	1 	you 	PRP
+Th2 	2 	3 	1 	6 	1 	by 	IN
+Th2 	2 	3 	1 	7 	1 	any 	DT
+Th2 	2 	3 	1 	8 	1 	means 	NNS
+Th2 	2 	3 	1 	9 	0 	:
+Th2 	2 	3 	1 	10 	1 	for 	IN
+Th2 	2 	3 	1 	11 	1 	that 	IN
+Th2 	2 	3 	1 	12 	1 	day 	NN
+Th2 	2 	3 	1 	13 	1 	shall 	MD
+Th2 	2 	3 	1 	14 	1 	not 	RB
+Th2 	2 	3 	1 	15 	1 	come 	VB
+Th2 	2 	3 	1 	16 	0 	,
+Th2 	2 	3 	1 	17 	1 	except 	IN
+Th2 	2 	3 	1 	18 	1 	there 	RB
+Th2 	2 	3 	1 	19 	1 	come 	VB
+Th2 	2 	3 	1 	20 	1 	a 	DT
+Th2 	2 	3 	1 	21 	1 	falling 	VBG
+Th2 	2 	3 	1 	22 	1 	away 	RB
+Th2 	2 	3 	1 	23 	1 	first 	RB
+Th2 	2 	3 	1 	24 	0 	,
+Th2 	2 	3 	1 	25 	1 	and 	CC
+Th2 	2 	3 	1 	26 	1 	that 	IN
+Th2 	2 	3 	1 	27 	1 	man 	NN
+Th2 	2 	3 	1 	28 	1 	of 	IN
+Th2 	2 	3 	1 	29 	1 	sin 	NN
+Th2 	2 	3 	1 	30 	1 	be 	VB
+Th2 	2 	3 	1 	31 	1 	revealed 	VBD
+Th2 	2 	3 	1 	32 	0 	,
+Th2 	2 	3 	1 	33 	1 	the 	DT
+Th2 	2 	3 	1 	34 	1 	son 	NN
+Th2 	2 	3 	1 	35 	1 	of 	IN
+Th2 	2 	3 	1 	36 	1 	perdition 	NN
+Th2 	2 	3 	1 	37 	0 	;
+Th2 	2 	4 	1 	1 	1 	Who 	WP
+Th2 	2 	4 	1 	2 	1 	opposeth 	NNS
+Th2 	2 	4 	1 	3 	1 	and 	CC
+Th2 	2 	4 	1 	4 	1 	exalteth 	NNS
+Th2 	2 	4 	1 	5 	1 	himself 	PRP
+Th2 	2 	4 	1 	6 	1 	above 	IN
+Th2 	2 	4 	1 	7 	1 	all 	DT
+Th2 	2 	4 	1 	8 	1 	that 	IN
+Th2 	2 	4 	1 	9 	1 	is 	VBZ
+Th2 	2 	4 	1 	10 	1 	called 	VBN
+Th2 	2 	4 	1 	11 	1 	God 	NNP
+Th2 	2 	4 	1 	12 	0 	,
+Th2 	2 	4 	1 	13 	1 	or 	CC
+Th2 	2 	4 	1 	14 	1 	that 	IN
+Th2 	2 	4 	1 	15 	1 	is 	VBZ
+Th2 	2 	4 	1 	16 	1 	worshipped 	VBD
+Th2 	2 	4 	1 	17 	0 	;
+Th2 	2 	4 	1 	18 	1 	so 	RB
+Th2 	2 	4 	1 	19 	1 	that 	IN
+Th2 	2 	4 	1 	20 	1 	he 	PRP
+Th2 	2 	4 	1 	21 	1 	as 	IN
+Th2 	2 	4 	1 	22 	1 	God 	NNP
+Th2 	2 	4 	1 	23 	1 	sitteth 	NN
+Th2 	2 	4 	1 	24 	1 	in 	IN
+Th2 	2 	4 	1 	25 	1 	the 	DT
+Th2 	2 	4 	1 	26 	1 	temple 	NN
+Th2 	2 	4 	1 	27 	1 	of 	IN
+Th2 	2 	4 	1 	28 	1 	God 	NNP
+Th2 	2 	4 	1 	29 	0 	,
+Th2 	2 	4 	1 	30 	1 	shewing 	VBG
+Th2 	2 	4 	1 	31 	1 	himself 	PRP
+Th2 	2 	4 	1 	32 	1 	that 	IN
+Th2 	2 	4 	1 	33 	1 	he 	PRP
+Th2 	2 	4 	1 	34 	1 	is 	VBZ
+Th2 	2 	4 	1 	35 	1 	God 	NNP
+Th2 	2 	4 	1 	36 	0 	.
+Th2 	2 	5 	1 	1 	1 	Remember 	VB
+Th2 	2 	5 	1 	2 	1 	ye 	NN
+Th2 	2 	5 	1 	3 	1 	not 	RB
+Th2 	2 	5 	1 	4 	0 	,
+Th2 	2 	5 	1 	5 	1 	that 	IN
+Th2 	2 	5 	1 	6 	0 	,
+Th2 	2 	5 	1 	7 	1 	when 	WRB
+Th2 	2 	5 	1 	8 	1 	I 	PRP
+Th2 	2 	5 	1 	9 	1 	was 	VBD
+Th2 	2 	5 	1 	10 	1 	yet 	RB
+Th2 	2 	5 	1 	11 	1 	with 	IN
+Th2 	2 	5 	1 	12 	1 	you 	PRP
+Th2 	2 	5 	1 	13 	0 	,
+Th2 	2 	5 	1 	14 	1 	I 	PRP
+Th2 	2 	5 	1 	15 	1 	told 	NN
+Th2 	2 	5 	1 	16 	1 	you 	PRP
+Th2 	2 	5 	1 	17 	1 	these 	DT
+Th2 	2 	5 	1 	18 	1 	things 	NNS
+Th2 	2 	5 	1 	19 	0 	?
+Th2 	2 	6 	1 	1 	1 	And 	CC
+Th2 	2 	6 	1 	2 	1 	now 	RB
+Th2 	2 	6 	1 	3 	1 	ye 	NN
+Th2 	2 	6 	1 	4 	1 	know 	VB
+Th2 	2 	6 	1 	5 	1 	what 	WP
+Th2 	2 	6 	1 	6 	1 	withholdeth 	NNS
+Th2 	2 	6 	1 	7 	1 	that 	IN
+Th2 	2 	6 	1 	8 	1 	he 	PRP
+Th2 	2 	6 	1 	9 	1 	might 	MD
+Th2 	2 	6 	1 	10 	1 	be 	VB
+Th2 	2 	6 	1 	11 	1 	revealed 	VBD
+Th2 	2 	6 	1 	12 	1 	in 	IN
+Th2 	2 	6 	1 	13 	1 	his 	PRP$
+Th2 	2 	6 	1 	14 	1 	time 	NN
+Th2 	2 	6 	1 	15 	0 	.
+Th2 	2 	7 	1 	1 	1 	For 	IN
+Th2 	2 	7 	1 	2 	1 	the 	DT
+Th2 	2 	7 	1 	3 	1 	mystery 	NN
+Th2 	2 	7 	1 	4 	1 	of 	IN
+Th2 	2 	7 	1 	5 	1 	iniquity 	NN
+Th2 	2 	7 	1 	6 	1 	doth 	NN
+Th2 	2 	7 	1 	7 	1 	already 	RB
+Th2 	2 	7 	1 	8 	1 	work 	NN
+Th2 	2 	7 	1 	9 	0 	:
+Th2 	2 	7 	1 	10 	1 	only 	RB
+Th2 	2 	7 	1 	11 	1 	he 	PRP
+Th2 	2 	7 	1 	12 	1 	who 	WP
+Th2 	2 	7 	1 	13 	1 	now 	RB
+Th2 	2 	7 	1 	14 	1 	letteth 	NN
+Th2 	2 	7 	1 	15 	1 	will 	MD
+Th2 	2 	7 	1 	16 	1 	let 	VB
+Th2 	2 	7 	1 	17 	0 	,
+Th2 	2 	7 	1 	18 	1 	until 	IN
+Th2 	2 	7 	1 	19 	1 	he 	PRP
+Th2 	2 	7 	1 	20 	1 	be 	VB
+Th2 	2 	7 	1 	21 	1 	taken 	VBN
+Th2 	2 	7 	1 	22 	1 	out 	IN
+Th2 	2 	7 	1 	23 	1 	of 	IN
+Th2 	2 	7 	1 	24 	1 	the 	DT
+Th2 	2 	7 	1 	25 	1 	way 	NN
+Th2 	2 	7 	1 	26 	0 	.
+Th2 	2 	8 	1 	1 	1 	And 	CC
+Th2 	2 	8 	1 	2 	1 	then 	RB
+Th2 	2 	8 	1 	3 	1 	shall 	MD
+Th2 	2 	8 	1 	4 	1 	that 	IN
+Th2 	2 	8 	1 	5 	1 	Wicked 	VBD
+Th2 	2 	8 	1 	6 	1 	be 	VB
+Th2 	2 	8 	1 	7 	1 	revealed 	VBD
+Th2 	2 	8 	1 	8 	0 	,
+Th2 	2 	8 	1 	9 	1 	whom 	WP
+Th2 	2 	8 	1 	10 	1 	the 	DT
+Th2 	2 	8 	1 	11 	1 	Lord 	NN
+Th2 	2 	8 	1 	12 	1 	shall 	MD
+Th2 	2 	8 	1 	13 	1 	consume 	NN
+Th2 	2 	8 	1 	14 	1 	with 	IN
+Th2 	2 	8 	1 	15 	1 	the 	DT
+Th2 	2 	8 	1 	16 	1 	spirit 	NN
+Th2 	2 	8 	1 	17 	1 	of 	IN
+Th2 	2 	8 	1 	18 	1 	his 	PRP$
+Th2 	2 	8 	1 	19 	1 	mouth 	NN
+Th2 	2 	8 	1 	20 	0 	,
+Th2 	2 	8 	1 	21 	1 	and 	CC
+Th2 	2 	8 	1 	22 	1 	shall 	MD
+Th2 	2 	8 	1 	23 	1 	destroy 	NN
+Th2 	2 	8 	1 	24 	1 	with 	IN
+Th2 	2 	8 	1 	25 	1 	the 	DT
+Th2 	2 	8 	1 	26 	1 	brightness 	NN
+Th2 	2 	8 	1 	27 	1 	of 	IN
+Th2 	2 	8 	1 	28 	1 	his 	PRP$
+Th2 	2 	8 	1 	29 	1 	coming 	VBG
+Th2 	2 	8 	1 	30 	0 	:
+Th2 	2 	9 	1 	1 	1 	Even 	RB
+Th2 	2 	9 	1 	2 	1 	him 	PRP
+Th2 	2 	9 	1 	3 	0 	,
+Th2 	2 	9 	1 	4 	1 	whose 	WP$
+Th2 	2 	9 	1 	5 	1 	coming 	VBG
+Th2 	2 	9 	1 	6 	1 	is 	VBZ
+Th2 	2 	9 	1 	7 	1 	after 	IN
+Th2 	2 	9 	1 	8 	1 	the 	DT
+Th2 	2 	9 	1 	9 	1 	working 	VBG
+Th2 	2 	9 	1 	10 	1 	of 	IN
+Th2 	2 	9 	1 	11 	1 	Satan 	NN
+Th2 	2 	9 	1 	12 	1 	with 	IN
+Th2 	2 	9 	1 	13 	1 	all 	DT
+Th2 	2 	9 	1 	14 	1 	power 	NN
+Th2 	2 	9 	1 	15 	1 	and 	CC
+Th2 	2 	9 	1 	16 	1 	signs 	NNS
+Th2 	2 	9 	1 	17 	1 	and 	CC
+Th2 	2 	9 	1 	18 	1 	lying 	VBG
+Th2 	2 	9 	1 	19 	1 	wonders 	NNS
+Th2 	2 	9 	1 	20 	0 	,
+Th2 	2 	10 	1 	1 	1 	And 	CC
+Th2 	2 	10 	1 	2 	1 	with 	IN
+Th2 	2 	10 	1 	3 	1 	all 	DT
+Th2 	2 	10 	1 	4 	1 	deceivableness 	NN
+Th2 	2 	10 	1 	5 	1 	of 	IN
+Th2 	2 	10 	1 	6 	1 	unrighteousness 	NN
+Th2 	2 	10 	1 	7 	1 	in 	IN
+Th2 	2 	10 	1 	8 	1 	them 	PRP
+Th2 	2 	10 	1 	9 	1 	that 	IN
+Th2 	2 	10 	1 	10 	1 	perish 	NN
+Th2 	2 	10 	1 	11 	0 	;
+Th2 	2 	10 	1 	12 	1 	because 	IN
+Th2 	2 	10 	1 	13 	1 	they 	PRP
+Th2 	2 	10 	1 	14 	1 	received 	VBN
+Th2 	2 	10 	1 	15 	1 	not 	RB
+Th2 	2 	10 	1 	16 	1 	the 	DT
+Th2 	2 	10 	1 	17 	1 	love 	NN
+Th2 	2 	10 	1 	18 	1 	of 	IN
+Th2 	2 	10 	1 	19 	1 	the 	DT
+Th2 	2 	10 	1 	20 	1 	truth 	NN
+Th2 	2 	10 	1 	21 	0 	,
+Th2 	2 	10 	1 	22 	1 	that 	IN
+Th2 	2 	10 	1 	23 	1 	they 	PRP
+Th2 	2 	10 	1 	24 	1 	might 	MD
+Th2 	2 	10 	1 	25 	1 	be 	VB
+Th2 	2 	10 	1 	26 	1 	saved 	VBN
+Th2 	2 	10 	1 	27 	0 	.
+Th2 	2 	11 	1 	1 	1 	And 	CC
+Th2 	2 	11 	1 	2 	1 	for 	IN
+Th2 	2 	11 	1 	3 	1 	this 	DT
+Th2 	2 	11 	1 	4 	1 	cause 	NN
+Th2 	2 	11 	1 	5 	1 	God 	NNP
+Th2 	2 	11 	1 	6 	1 	shall 	MD
+Th2 	2 	11 	1 	7 	1 	send 	NN
+Th2 	2 	11 	1 	8 	1 	them 	PRP
+Th2 	2 	11 	1 	9 	1 	strong 	JJ
+Th2 	2 	11 	1 	10 	1 	delusion 	NN
+Th2 	2 	11 	1 	11 	0 	,
+Th2 	2 	11 	1 	12 	1 	that 	IN
+Th2 	2 	11 	1 	13 	1 	they 	PRP
+Th2 	2 	11 	1 	14 	1 	should 	MD
+Th2 	2 	11 	1 	15 	1 	believe 	VB
+Th2 	2 	11 	1 	16 	1 	a 	DT
+Th2 	2 	11 	1 	17 	1 	lie 	NN
+Th2 	2 	11 	1 	18 	0 	:
+Th2 	2 	12 	1 	1 	1 	at 	IN
+Th2 	2 	12 	1 	2 	1 	they 	PRP
+Th2 	2 	12 	1 	3 	1 	all 	DT
+Th2 	2 	12 	1 	4 	1 	might 	MD
+Th2 	2 	12 	1 	5 	1 	be 	VB
+Th2 	2 	12 	1 	6 	1 	damned 	VBN
+Th2 	2 	12 	1 	7 	1 	who 	WP
+Th2 	2 	12 	1 	8 	1 	believed 	VBN
+Th2 	2 	12 	1 	9 	1 	not 	RB
+Th2 	2 	12 	1 	10 	1 	the 	DT
+Th2 	2 	12 	1 	11 	1 	truth 	NN
+Th2 	2 	12 	1 	12 	0 	,
+Th2 	2 	12 	1 	13 	1 	but 	CC
+Th2 	2 	12 	1 	14 	1 	had 	VBD
+Th2 	2 	12 	1 	15 	1 	pleasure 	NN
+Th2 	2 	12 	1 	16 	1 	in 	IN
+Th2 	2 	12 	1 	17 	1 	unrighteousness 	NN
+Th2 	2 	12 	1 	18 	0 	.
+Th2 	2 	13 	1 	1 	1 	But 	CC
+Th2 	2 	13 	1 	2 	1 	we 	PRP
+Th2 	2 	13 	1 	3 	1 	are 	VBP
+Th2 	2 	13 	1 	4 	1 	bound 	NN
+Th2 	2 	13 	1 	5 	1 	to 	TO
+Th2 	2 	13 	1 	6 	1 	give 	VB
+Th2 	2 	13 	1 	7 	1 	thanks 	NNS
+Th2 	2 	13 	1 	8 	1 	alway 	RB
+Th2 	2 	13 	1 	9 	1 	to 	TO
+Th2 	2 	13 	1 	10 	1 	God 	NNP
+Th2 	2 	13 	1 	11 	1 	for 	IN
+Th2 	2 	13 	1 	12 	1 	you 	PRP
+Th2 	2 	13 	1 	13 	0 	,
+Th2 	2 	13 	1 	14 	1 	brethren 	NNS
+Th2 	2 	13 	1 	15 	1 	beloved 	VBN
+Th2 	2 	13 	1 	16 	1 	of 	IN
+Th2 	2 	13 	1 	17 	1 	the 	DT
+Th2 	2 	13 	1 	18 	1 	Lord 	NN
+Th2 	2 	13 	1 	19 	0 	,
+Th2 	2 	13 	1 	20 	1 	because 	IN
+Th2 	2 	13 	1 	21 	1 	God 	NNP
+Th2 	2 	13 	1 	22 	1 	hath 	NN
+Th2 	2 	13 	1 	23 	1 	from 	IN
+Th2 	2 	13 	1 	24 	1 	the 	DT
+Th2 	2 	13 	1 	25 	1 	beginning 	VBG
+Th2 	2 	13 	1 	26 	1 	chosen 	NN
+Th2 	2 	13 	1 	27 	1 	you 	PRP
+Th2 	2 	13 	1 	28 	1 	to 	TO
+Th2 	2 	13 	1 	29 	1 	salvation 	NN
+Th2 	2 	13 	1 	30 	1 	through 	IN
+Th2 	2 	13 	1 	31 	1 	sanctification 	NN
+Th2 	2 	13 	1 	32 	1 	of 	IN
+Th2 	2 	13 	1 	33 	1 	the 	DT
+Th2 	2 	13 	1 	34 	1 	Spirit 	NN
+Th2 	2 	13 	1 	35 	1 	and 	CC
+Th2 	2 	13 	1 	36 	1 	belief 	NN
+Th2 	2 	13 	1 	37 	1 	of 	IN
+Th2 	2 	13 	1 	38 	1 	the 	DT
+Th2 	2 	13 	1 	39 	1 	truth 	NN
+Th2 	2 	13 	1 	40 	0 	:
+Th2 	2 	14 	1 	1 	1 	Whereunto 	IN
+Th2 	2 	14 	1 	2 	1 	he 	PRP
+Th2 	2 	14 	1 	3 	1 	called 	VBN
+Th2 	2 	14 	1 	4 	1 	you 	PRP
+Th2 	2 	14 	1 	5 	1 	by 	IN
+Th2 	2 	14 	1 	6 	1 	our 	PRP$
+Th2 	2 	14 	1 	7 	1 	gospel 	NN
+Th2 	2 	14 	1 	8 	0 	,
+Th2 	2 	14 	1 	9 	1 	to 	TO
+Th2 	2 	14 	1 	10 	1 	the 	DT
+Th2 	2 	14 	1 	11 	1 	obtaining 	VBG
+Th2 	2 	14 	1 	12 	1 	of 	IN
+Th2 	2 	14 	1 	13 	1 	the 	DT
+Th2 	2 	14 	1 	14 	1 	glory 	NN
+Th2 	2 	14 	1 	15 	1 	of 	IN
+Th2 	2 	14 	1 	16 	1 	our 	PRP$
+Th2 	2 	14 	1 	17 	1 	Lord 	NN
+Th2 	2 	14 	1 	18 	1 	Jesus 	NN
+Th2 	2 	14 	1 	19 	1 	Christ 	NN
+Th2 	2 	14 	1 	20 	0 	.
+Th2 	2 	15 	1 	1 	1 	erefore 	NN
+Th2 	2 	15 	1 	2 	0 	,
+Th2 	2 	15 	1 	3 	1 	brethren 	NNS
+Th2 	2 	15 	1 	4 	0 	,
+Th2 	2 	15 	1 	5 	1 	stand 	NN
+Th2 	2 	15 	1 	6 	1 	fast 	NN
+Th2 	2 	15 	1 	7 	0 	,
+Th2 	2 	15 	1 	8 	1 	and 	CC
+Th2 	2 	15 	1 	9 	1 	hold 	NN
+Th2 	2 	15 	1 	10 	1 	the 	DT
+Th2 	2 	15 	1 	11 	1 	traditions 	NNS
+Th2 	2 	15 	1 	12 	1 	which 	WDT
+Th2 	2 	15 	1 	13 	1 	ye 	NN
+Th2 	2 	15 	1 	14 	1 	have 	VB
+Th2 	2 	15 	1 	15 	1 	been 	VBN
+Th2 	2 	15 	1 	16 	1 	taught 	NN
+Th2 	2 	15 	1 	17 	0 	,
+Th2 	2 	15 	1 	18 	1 	whether 	IN
+Th2 	2 	15 	1 	19 	1 	by 	IN
+Th2 	2 	15 	1 	20 	1 	word 	NN
+Th2 	2 	15 	1 	21 	0 	,
+Th2 	2 	15 	1 	22 	1 	or 	CC
+Th2 	2 	15 	1 	23 	1 	our 	PRP$
+Th2 	2 	15 	1 	24 	1 	epistle 	NN
+Th2 	2 	15 	1 	25 	0 	.
+Th2 	2 	16 	1 	1 	1 	Now 	RB
+Th2 	2 	16 	1 	2 	1 	our 	PRP$
+Th2 	2 	16 	1 	3 	1 	Lord 	NN
+Th2 	2 	16 	1 	4 	1 	Jesus 	NN
+Th2 	2 	16 	1 	5 	1 	Christ 	NN
+Th2 	2 	16 	1 	6 	1 	himself 	PRP
+Th2 	2 	16 	1 	7 	0 	,
+Th2 	2 	16 	1 	8 	1 	and 	CC
+Th2 	2 	16 	1 	9 	1 	God 	NNP
+Th2 	2 	16 	1 	10 	0 	,
+Th2 	2 	16 	1 	11 	1 	even 	RB
+Th2 	2 	16 	1 	12 	1 	our 	PRP$
+Th2 	2 	16 	1 	13 	1 	Father 	NN
+Th2 	2 	16 	1 	14 	0 	,
+Th2 	2 	16 	1 	15 	1 	which 	WDT
+Th2 	2 	16 	1 	16 	1 	hath 	NN
+Th2 	2 	16 	1 	17 	1 	loved 	VBN
+Th2 	2 	16 	1 	18 	1 	us 	PRP
+Th2 	2 	16 	1 	19 	0 	,
+Th2 	2 	16 	1 	20 	1 	and 	CC
+Th2 	2 	16 	1 	21 	1 	hath 	NN
+Th2 	2 	16 	1 	22 	1 	given 	VBN
+Th2 	2 	16 	1 	23 	1 	us 	PRP
+Th2 	2 	16 	1 	24 	1 	everlasting 	VBG
+Th2 	2 	16 	1 	25 	1 	consolation 	NN
+Th2 	2 	16 	1 	26 	1 	and 	CC
+Th2 	2 	16 	1 	27 	1 	good 	JJ
+Th2 	2 	16 	1 	28 	1 	hope 	NN
+Th2 	2 	16 	1 	29 	1 	through 	IN
+Th2 	2 	16 	1 	30 	1 	grace 	NN
+Th2 	2 	16 	1 	31 	0 	,
+Th2 	2 	17 	1 	1 	1 	Comfort 	NN
+Th2 	2 	17 	1 	2 	1 	your 	PRP$
+Th2 	2 	17 	1 	3 	1 	hearts 	NNS
+Th2 	2 	17 	1 	4 	0 	,
+Th2 	2 	17 	1 	5 	1 	and 	CC
+Th2 	2 	17 	1 	6 	1 	stablish 	NN
+Th2 	2 	17 	1 	7 	1 	you 	PRP
+Th2 	2 	17 	1 	8 	1 	in 	IN
+Th2 	2 	17 	1 	9 	1 	every 	DT
+Th2 	2 	17 	1 	10 	1 	good 	JJ
+Th2 	2 	17 	1 	11 	1 	word 	NN
+Th2 	2 	17 	1 	12 	1 	and 	CC
+Th2 	2 	17 	1 	13 	1 	work 	NN
+Th2 	2 	17 	1 	14 	0 	.
+Th2 	3 	1 	1 	1 	1 	Finally 	RB
+Th2 	3 	1 	1 	2 	0 	,
+Th2 	3 	1 	1 	3 	1 	brethren 	NNS
+Th2 	3 	1 	1 	4 	0 	,
+Th2 	3 	1 	1 	5 	1 	pray 	NN
+Th2 	3 	1 	1 	6 	1 	for 	IN
+Th2 	3 	1 	1 	7 	1 	us 	PRP
+Th2 	3 	1 	1 	8 	0 	,
+Th2 	3 	1 	1 	9 	1 	that 	IN
+Th2 	3 	1 	1 	10 	1 	the 	DT
+Th2 	3 	1 	1 	11 	1 	word 	NN
+Th2 	3 	1 	1 	12 	1 	of 	IN
+Th2 	3 	1 	1 	13 	1 	the 	DT
+Th2 	3 	1 	1 	14 	1 	Lord 	NN
+Th2 	3 	1 	1 	15 	1 	may 	MD
+Th2 	3 	1 	1 	16 	1 	have 	VB
+Th2 	3 	1 	1 	17 	1 	free 	JJ
+Th2 	3 	1 	1 	18 	1 	course 	NN
+Th2 	3 	1 	1 	19 	0 	,
+Th2 	3 	1 	1 	20 	1 	and 	CC
+Th2 	3 	1 	1 	21 	1 	be 	VB
+Th2 	3 	1 	1 	22 	1 	glorified 	VBN
+Th2 	3 	1 	1 	23 	0 	,
+Th2 	3 	1 	1 	24 	1 	even 	RB
+Th2 	3 	1 	1 	25 	1 	as 	IN
+Th2 	3 	1 	1 	26 	1 	it 	PRP
+Th2 	3 	1 	1 	27 	1 	is 	VBZ
+Th2 	3 	1 	1 	28 	1 	with 	IN
+Th2 	3 	1 	1 	29 	1 	you 	PRP
+Th2 	3 	1 	1 	30 	0 	:
+Th2 	3 	2 	1 	1 	1 	And 	CC
+Th2 	3 	2 	1 	2 	1 	that 	IN
+Th2 	3 	2 	1 	3 	1 	we 	PRP
+Th2 	3 	2 	1 	4 	1 	may 	MD
+Th2 	3 	2 	1 	5 	1 	be 	VB
+Th2 	3 	2 	1 	6 	1 	delivered 	VBN
+Th2 	3 	2 	1 	7 	1 	from 	IN
+Th2 	3 	2 	1 	8 	1 	unreasonable 	JJ
+Th2 	3 	2 	1 	9 	1 	and 	CC
+Th2 	3 	2 	1 	10 	1 	wicked 	VBD
+Th2 	3 	2 	1 	11 	1 	men 	NNS
+Th2 	3 	2 	1 	12 	0 	:
+Th2 	3 	2 	1 	13 	1 	for 	IN
+Th2 	3 	2 	1 	14 	1 	all 	DT
+Th2 	3 	2 	1 	15 	1 	men 	NNS
+Th2 	3 	2 	1 	16 	1 	have 	VB
+Th2 	3 	2 	1 	17 	1 	not 	RB
+Th2 	3 	2 	1 	18 	1 	faith 	NN
+Th2 	3 	2 	1 	19 	0 	.
+Th2 	3 	3 	1 	1 	1 	But 	CC
+Th2 	3 	3 	1 	2 	1 	the 	DT
+Th2 	3 	3 	1 	3 	1 	Lord 	NN
+Th2 	3 	3 	1 	4 	1 	is 	VBZ
+Th2 	3 	3 	1 	5 	1 	faithful 	NN
+Th2 	3 	3 	1 	6 	0 	,
+Th2 	3 	3 	1 	7 	1 	who 	WP
+Th2 	3 	3 	1 	8 	1 	shall 	MD
+Th2 	3 	3 	1 	9 	1 	stablish 	NN
+Th2 	3 	3 	1 	10 	1 	you 	PRP
+Th2 	3 	3 	1 	11 	0 	,
+Th2 	3 	3 	1 	12 	1 	and 	CC
+Th2 	3 	3 	1 	13 	1 	keep 	VB
+Th2 	3 	3 	1 	14 	1 	you 	PRP
+Th2 	3 	3 	1 	15 	1 	from 	IN
+Th2 	3 	3 	1 	16 	1 	evil 	NN
+Th2 	3 	3 	1 	17 	0 	.
+Th2 	3 	4 	1 	1 	1 	And 	CC
+Th2 	3 	4 	1 	2 	1 	we 	PRP
+Th2 	3 	4 	1 	3 	1 	have 	VB
+Th2 	3 	4 	1 	4 	1 	confidence 	NN
+Th2 	3 	4 	1 	5 	1 	in 	IN
+Th2 	3 	4 	1 	6 	1 	the 	DT
+Th2 	3 	4 	1 	7 	1 	Lord 	NN
+Th2 	3 	4 	1 	8 	1 	touching 	VBG
+Th2 	3 	4 	1 	9 	1 	you 	PRP
+Th2 	3 	4 	1 	10 	0 	,
+Th2 	3 	4 	1 	11 	1 	that 	IN
+Th2 	3 	4 	1 	12 	1 	ye 	NN
+Th2 	3 	4 	1 	13 	1 	both 	DT
+Th2 	3 	4 	1 	14 	1 	do 	VB
+Th2 	3 	4 	1 	15 	1 	and 	CC
+Th2 	3 	4 	1 	16 	1 	will 	MD
+Th2 	3 	4 	1 	17 	1 	do 	VB
+Th2 	3 	4 	1 	18 	1 	the 	DT
+Th2 	3 	4 	1 	19 	1 	things 	NNS
+Th2 	3 	4 	1 	20 	1 	which 	WDT
+Th2 	3 	4 	1 	21 	1 	we 	PRP
+Th2 	3 	4 	1 	22 	1 	command 	NN
+Th2 	3 	4 	1 	23 	1 	you 	PRP
+Th2 	3 	4 	1 	24 	0 	.
+Th2 	3 	5 	1 	1 	1 	And 	CC
+Th2 	3 	5 	1 	2 	1 	the 	DT
+Th2 	3 	5 	1 	3 	1 	Lord 	NN
+Th2 	3 	5 	1 	4 	1 	direct 	JJ
+Th2 	3 	5 	1 	5 	1 	your 	PRP$
+Th2 	3 	5 	1 	6 	1 	hearts 	NNS
+Th2 	3 	5 	1 	7 	1 	into 	IN
+Th2 	3 	5 	1 	8 	1 	the 	DT
+Th2 	3 	5 	1 	9 	1 	love 	NN
+Th2 	3 	5 	1 	10 	1 	of 	IN
+Th2 	3 	5 	1 	11 	1 	God 	NNP
+Th2 	3 	5 	1 	12 	0 	,
+Th2 	3 	5 	1 	13 	1 	and 	CC
+Th2 	3 	5 	1 	14 	1 	into 	IN
+Th2 	3 	5 	1 	15 	1 	the 	DT
+Th2 	3 	5 	1 	16 	1 	patient 	NN
+Th2 	3 	5 	1 	17 	1 	waiting 	VBG
+Th2 	3 	5 	1 	18 	1 	for 	IN
+Th2 	3 	5 	1 	19 	1 	Christ 	NN
+Th2 	3 	5 	1 	20 	0 	.
+Th2 	3 	6 	1 	1 	1 	Now 	RB
+Th2 	3 	6 	1 	2 	1 	we 	PRP
+Th2 	3 	6 	1 	3 	1 	command 	NN
+Th2 	3 	6 	1 	4 	1 	you 	PRP
+Th2 	3 	6 	1 	5 	0 	,
+Th2 	3 	6 	1 	6 	1 	brethren 	NNS
+Th2 	3 	6 	1 	7 	0 	,
+Th2 	3 	6 	1 	8 	1 	in 	IN
+Th2 	3 	6 	1 	9 	1 	the 	DT
+Th2 	3 	6 	1 	10 	1 	name 	NN
+Th2 	3 	6 	1 	11 	1 	of 	IN
+Th2 	3 	6 	1 	12 	1 	our 	PRP$
+Th2 	3 	6 	1 	13 	1 	Lord 	NN
+Th2 	3 	6 	1 	14 	1 	Jesus 	NN
+Th2 	3 	6 	1 	15 	1 	Christ 	NN
+Th2 	3 	6 	1 	16 	0 	,
+Th2 	3 	6 	1 	17 	1 	that 	IN
+Th2 	3 	6 	1 	18 	1 	ye 	NN
+Th2 	3 	6 	1 	19 	1 	withdraw 	NN
+Th2 	3 	6 	1 	20 	1 	yourselves 	NNS
+Th2 	3 	6 	1 	21 	1 	from 	IN
+Th2 	3 	6 	1 	22 	1 	every 	DT
+Th2 	3 	6 	1 	23 	1 	brother 	NN
+Th2 	3 	6 	1 	24 	1 	that 	IN
+Th2 	3 	6 	1 	25 	1 	walketh 	NNS
+Th2 	3 	6 	1 	26 	1 	disorderly 	RB
+Th2 	3 	6 	1 	27 	0 	,
+Th2 	3 	6 	1 	28 	1 	and 	CC
+Th2 	3 	6 	1 	29 	1 	not 	RB
+Th2 	3 	6 	1 	30 	1 	after 	IN
+Th2 	3 	6 	1 	31 	1 	the 	DT
+Th2 	3 	6 	1 	32 	1 	tradition 	NN
+Th2 	3 	6 	1 	33 	1 	which 	WDT
+Th2 	3 	6 	1 	34 	1 	he 	PRP
+Th2 	3 	6 	1 	35 	1 	received 	VBN
+Th2 	3 	6 	1 	36 	1 	of 	IN
+Th2 	3 	6 	1 	37 	1 	us 	PRP
+Th2 	3 	6 	1 	38 	0 	.
+Th2 	3 	7 	1 	1 	1 	For 	IN
+Th2 	3 	7 	1 	2 	1 	yourselves 	NNS
+Th2 	3 	7 	1 	3 	1 	know 	VB
+Th2 	3 	7 	1 	4 	1 	how 	WRB
+Th2 	3 	7 	1 	5 	1 	ye 	NN
+Th2 	3 	7 	1 	6 	1 	ought 	MD
+Th2 	3 	7 	1 	7 	1 	to 	TO
+Th2 	3 	7 	1 	8 	1 	follow 	VB
+Th2 	3 	7 	1 	9 	1 	us 	PRP
+Th2 	3 	7 	1 	10 	0 	:
+Th2 	3 	7 	1 	11 	1 	for 	IN
+Th2 	3 	7 	1 	12 	1 	we 	PRP
+Th2 	3 	7 	1 	13 	1 	behaved 	VBN
+Th2 	3 	7 	1 	14 	1 	not 	RB
+Th2 	3 	7 	1 	15 	1 	ourselves 	NNS
+Th2 	3 	7 	1 	16 	1 	disorderly 	RB
+Th2 	3 	7 	1 	17 	1 	among 	IN
+Th2 	3 	7 	1 	18 	1 	you 	PRP
+Th2 	3 	7 	1 	19 	0 	;
+Th2 	3 	8 	1 	1 	1 	Neither 	CC
+Th2 	3 	8 	1 	2 	1 	did 	VBD
+Th2 	3 	8 	1 	3 	1 	we 	PRP
+Th2 	3 	8 	1 	4 	1 	eat 	NN
+Th2 	3 	8 	1 	5 	1 	any 	DT
+Th2 	3 	8 	1 	6 	1 	man 	NN
+Th2 	3 	8 	1 	7 	0 	's
+Th2 	3 	8 	1 	8 	1 	bread 	NN
+Th2 	3 	8 	1 	9 	1 	for 	IN
+Th2 	3 	8 	1 	10 	1 	nought 	NN
+Th2 	3 	8 	1 	11 	0 	;
+Th2 	3 	8 	1 	12 	1 	but 	CC
+Th2 	3 	8 	1 	13 	1 	wrought 	NN
+Th2 	3 	8 	1 	14 	1 	with 	IN
+Th2 	3 	8 	1 	15 	1 	labour 	NN
+Th2 	3 	8 	1 	16 	1 	and 	CC
+Th2 	3 	8 	1 	17 	1 	travail 	NN
+Th2 	3 	8 	1 	18 	1 	night 	NN
+Th2 	3 	8 	1 	19 	1 	and 	CC
+Th2 	3 	8 	1 	20 	1 	day 	NN
+Th2 	3 	8 	1 	21 	0 	,
+Th2 	3 	8 	1 	22 	1 	that 	IN
+Th2 	3 	8 	1 	23 	1 	we 	PRP
+Th2 	3 	8 	1 	24 	1 	might 	MD
+Th2 	3 	8 	1 	25 	1 	not 	RB
+Th2 	3 	8 	1 	26 	1 	be 	VB
+Th2 	3 	8 	1 	27 	1 	chargeable 	JJ
+Th2 	3 	8 	1 	28 	1 	to 	TO
+Th2 	3 	8 	1 	29 	1 	any 	DT
+Th2 	3 	8 	1 	30 	1 	of 	IN
+Th2 	3 	8 	1 	31 	1 	you 	PRP
+Th2 	3 	8 	1 	32 	0 	:
+Th2 	3 	9 	1 	1 	1 	Not 	RB
+Th2 	3 	9 	1 	2 	1 	because 	IN
+Th2 	3 	9 	1 	3 	1 	we 	PRP
+Th2 	3 	9 	1 	4 	1 	have 	VB
+Th2 	3 	9 	1 	5 	1 	not 	RB
+Th2 	3 	9 	1 	6 	1 	power 	NN
+Th2 	3 	9 	1 	7 	0 	,
+Th2 	3 	9 	1 	8 	1 	but 	CC
+Th2 	3 	9 	1 	9 	1 	to 	TO
+Th2 	3 	9 	1 	10 	1 	make 	VB
+Th2 	3 	9 	1 	11 	1 	ourselves 	NNS
+Th2 	3 	9 	1 	12 	1 	an 	DT
+Th2 	3 	9 	1 	13 	1 	ensample 	NN
+Th2 	3 	9 	1 	14 	1 	unto 	NN
+Th2 	3 	9 	1 	15 	1 	you 	PRP
+Th2 	3 	9 	1 	16 	1 	to 	TO
+Th2 	3 	9 	1 	17 	1 	follow 	VB
+Th2 	3 	9 	1 	18 	1 	us 	PRP
+Th2 	3 	9 	1 	19 	0 	.
+Th2 	3 	10 	1 	1 	1 	For 	IN
+Th2 	3 	10 	1 	2 	1 	even 	RB
+Th2 	3 	10 	1 	3 	1 	when 	WRB
+Th2 	3 	10 	1 	4 	1 	we 	PRP
+Th2 	3 	10 	1 	5 	1 	were 	VBD
+Th2 	3 	10 	1 	6 	1 	with 	IN
+Th2 	3 	10 	1 	7 	1 	you 	PRP
+Th2 	3 	10 	1 	8 	0 	,
+Th2 	3 	10 	1 	9 	1 	this 	DT
+Th2 	3 	10 	1 	10 	1 	we 	PRP
+Th2 	3 	10 	1 	11 	1 	commanded 	VBN
+Th2 	3 	10 	1 	12 	1 	you 	PRP
+Th2 	3 	10 	1 	13 	0 	,
+Th2 	3 	10 	1 	14 	1 	that 	IN
+Th2 	3 	10 	1 	15 	1 	if 	IN
+Th2 	3 	10 	1 	16 	1 	any 	DT
+Th2 	3 	10 	1 	17 	1 	would 	MD
+Th2 	3 	10 	1 	18 	1 	not 	RB
+Th2 	3 	10 	1 	19 	1 	work 	NN
+Th2 	3 	10 	1 	20 	0 	,
+Th2 	3 	10 	1 	21 	1 	neither 	DT
+Th2 	3 	10 	1 	22 	1 	should 	MD
+Th2 	3 	10 	1 	23 	1 	he 	PRP
+Th2 	3 	10 	1 	24 	1 	eat 	NN
+Th2 	3 	10 	1 	25 	0 	.
+Th2 	3 	11 	1 	1 	1 	For 	IN
+Th2 	3 	11 	1 	2 	1 	we 	PRP
+Th2 	3 	11 	1 	3 	1 	hear 	NN
+Th2 	3 	11 	1 	4 	1 	that 	IN
+Th2 	3 	11 	1 	5 	1 	there 	RB
+Th2 	3 	11 	1 	6 	1 	are 	VBP
+Th2 	3 	11 	1 	7 	1 	some 	DT
+Th2 	3 	11 	1 	8 	1 	which 	WDT
+Th2 	3 	11 	1 	9 	1 	walk 	NN
+Th2 	3 	11 	1 	10 	1 	among 	IN
+Th2 	3 	11 	1 	11 	1 	you 	PRP
+Th2 	3 	11 	1 	12 	1 	disorderly 	RB
+Th2 	3 	11 	1 	13 	0 	,
+Th2 	3 	11 	1 	14 	1 	working 	VBG
+Th2 	3 	11 	1 	15 	1 	not 	RB
+Th2 	3 	11 	1 	16 	1 	at 	IN
+Th2 	3 	11 	1 	17 	1 	all 	DT
+Th2 	3 	11 	1 	18 	0 	,
+Th2 	3 	11 	1 	19 	1 	but 	CC
+Th2 	3 	11 	1 	20 	1 	are 	VBP
+Th2 	3 	11 	1 	21 	1 	busybodies 	NNS
+Th2 	3 	11 	1 	22 	0 	.
+Th2 	3 	12 	1 	1 	1 	Now 	RB
+Th2 	3 	12 	1 	2 	1 	them 	PRP
+Th2 	3 	12 	1 	3 	1 	that 	IN
+Th2 	3 	12 	1 	4 	1 	are 	VBP
+Th2 	3 	12 	1 	5 	1 	such 	JJ
+Th2 	3 	12 	1 	6 	1 	we 	PRP
+Th2 	3 	12 	1 	7 	1 	command 	NN
+Th2 	3 	12 	1 	8 	1 	and 	CC
+Th2 	3 	12 	1 	9 	1 	exhort 	NN
+Th2 	3 	12 	1 	10 	1 	by 	IN
+Th2 	3 	12 	1 	11 	1 	our 	PRP$
+Th2 	3 	12 	1 	12 	1 	Lord 	NN
+Th2 	3 	12 	1 	13 	1 	Jesus 	NN
+Th2 	3 	12 	1 	14 	1 	Christ 	NN
+Th2 	3 	12 	1 	15 	0 	,
+Th2 	3 	12 	1 	16 	1 	that 	IN
+Th2 	3 	12 	1 	17 	1 	with 	IN
+Th2 	3 	12 	1 	18 	1 	quietness 	NN
+Th2 	3 	12 	1 	19 	1 	they 	PRP
+Th2 	3 	12 	1 	20 	1 	work 	NN
+Th2 	3 	12 	1 	21 	0 	,
+Th2 	3 	12 	1 	22 	1 	and 	CC
+Th2 	3 	12 	1 	23 	1 	eat 	NN
+Th2 	3 	12 	1 	24 	1 	their 	PRP$
+Th2 	3 	12 	1 	25 	1 	own 	JJ
+Th2 	3 	12 	1 	26 	1 	bread 	NN
+Th2 	3 	12 	1 	27 	0 	.
+Th2 	3 	13 	1 	1 	1 	But 	CC
+Th2 	3 	13 	1 	2 	1 	ye 	NN
+Th2 	3 	13 	1 	3 	0 	,
+Th2 	3 	13 	1 	4 	1 	brethren 	NNS
+Th2 	3 	13 	1 	5 	0 	,
+Th2 	3 	13 	1 	6 	1 	be 	VB
+Th2 	3 	13 	1 	7 	1 	not 	RB
+Th2 	3 	13 	1 	8 	1 	weary 	JJ
+Th2 	3 	13 	1 	9 	1 	in 	IN
+Th2 	3 	13 	1 	10 	1 	well 	RB
+Th2 	3 	13 	1 	11 	1 	doing 	VBG
+Th2 	3 	13 	1 	12 	0 	.
+Th2 	3 	14 	1 	1 	1 	And 	CC
+Th2 	3 	14 	1 	2 	1 	if 	IN
+Th2 	3 	14 	1 	3 	1 	any 	DT
+Th2 	3 	14 	1 	4 	1 	man 	NN
+Th2 	3 	14 	1 	5 	1 	obey 	NN
+Th2 	3 	14 	1 	6 	1 	not 	RB
+Th2 	3 	14 	1 	7 	1 	our 	PRP$
+Th2 	3 	14 	1 	8 	1 	word 	NN
+Th2 	3 	14 	1 	9 	1 	by 	IN
+Th2 	3 	14 	1 	10 	1 	this 	DT
+Th2 	3 	14 	1 	11 	1 	epistle 	NN
+Th2 	3 	14 	1 	12 	0 	,
+Th2 	3 	14 	1 	13 	1 	note 	NN
+Th2 	3 	14 	1 	14 	1 	that 	IN
+Th2 	3 	14 	1 	15 	1 	man 	NN
+Th2 	3 	14 	1 	16 	0 	,
+Th2 	3 	14 	1 	17 	1 	and 	CC
+Th2 	3 	14 	1 	18 	1 	have 	VB
+Th2 	3 	14 	1 	19 	1 	no 	DT
+Th2 	3 	14 	1 	20 	1 	company 	NN
+Th2 	3 	14 	1 	21 	1 	with 	IN
+Th2 	3 	14 	1 	22 	1 	him 	PRP
+Th2 	3 	14 	1 	23 	0 	,
+Th2 	3 	14 	1 	24 	1 	that 	IN
+Th2 	3 	14 	1 	25 	1 	he 	PRP
+Th2 	3 	14 	1 	26 	1 	may 	MD
+Th2 	3 	14 	1 	27 	1 	be 	VB
+Th2 	3 	14 	1 	28 	1 	ashamed 	VBN
+Th2 	3 	14 	1 	29 	0 	.
+Th2 	3 	15 	1 	1 	1 	Yet 	RB
+Th2 	3 	15 	1 	2 	1 	count 	NN
+Th2 	3 	15 	1 	3 	1 	him 	PRP
+Th2 	3 	15 	1 	4 	1 	not 	RB
+Th2 	3 	15 	1 	5 	1 	as 	IN
+Th2 	3 	15 	1 	6 	1 	an 	DT
+Th2 	3 	15 	1 	7 	1 	enemy 	NN
+Th2 	3 	15 	1 	8 	0 	,
+Th2 	3 	15 	1 	9 	1 	but 	CC
+Th2 	3 	15 	1 	10 	1 	admonish 	JJ
+Th2 	3 	15 	1 	11 	1 	him 	PRP
+Th2 	3 	15 	1 	12 	1 	as 	IN
+Th2 	3 	15 	1 	13 	1 	a 	DT
+Th2 	3 	15 	1 	14 	1 	brother 	NN
+Th2 	3 	15 	1 	15 	0 	.
+Th2 	3 	16 	1 	1 	1 	Now 	RB
+Th2 	3 	16 	1 	2 	1 	the 	DT
+Th2 	3 	16 	1 	3 	1 	Lord 	NN
+Th2 	3 	16 	1 	4 	1 	of 	IN
+Th2 	3 	16 	1 	5 	1 	peace 	NN
+Th2 	3 	16 	1 	6 	1 	himself 	PRP
+Th2 	3 	16 	1 	7 	1 	give 	VB
+Th2 	3 	16 	1 	8 	1 	you 	PRP
+Th2 	3 	16 	1 	9 	1 	peace 	NN
+Th2 	3 	16 	1 	10 	1 	always 	RB
+Th2 	3 	16 	1 	11 	1 	by 	IN
+Th2 	3 	16 	1 	12 	1 	all 	DT
+Th2 	3 	16 	1 	13 	1 	means 	NNS
+Th2 	3 	16 	1 	14 	0 	.
+Th2 	3 	16 	2 	1 	1 	The 	DT
+Th2 	3 	16 	2 	2 	1 	Lord 	NN
+Th2 	3 	16 	2 	3 	1 	be 	VB
+Th2 	3 	16 	2 	4 	1 	with 	IN
+Th2 	3 	16 	2 	5 	1 	you 	PRP
+Th2 	3 	16 	2 	6 	1 	all 	DT
+Th2 	3 	16 	2 	7 	0 	.
+Th2 	3 	17 	1 	1 	1 	e 	NN
+Th2 	3 	17 	1 	2 	1 	salutation 	NN
+Th2 	3 	17 	1 	3 	1 	of 	IN
+Th2 	3 	17 	1 	4 	1 	Paul 	NNP
+Th2 	3 	17 	1 	5 	1 	with 	IN
+Th2 	3 	17 	1 	6 	1 	mine 	NN
+Th2 	3 	17 	1 	7 	1 	own 	JJ
+Th2 	3 	17 	1 	8 	1 	hand 	NN
+Th2 	3 	17 	1 	9 	0 	,
+Th2 	3 	17 	1 	10 	1 	which 	WDT
+Th2 	3 	17 	1 	11 	1 	is 	VBZ
+Th2 	3 	17 	1 	12 	1 	the 	DT
+Th2 	3 	17 	1 	13 	1 	token 	NN
+Th2 	3 	17 	1 	14 	1 	in 	IN
+Th2 	3 	17 	1 	15 	1 	every 	DT
+Th2 	3 	17 	1 	16 	1 	epistle 	NN
+Th2 	3 	17 	1 	17 	0 	:
+Th2 	3 	17 	1 	18 	1 	so 	RB
+Th2 	3 	17 	1 	19 	1 	I 	PRP
+Th2 	3 	17 	1 	20 	1 	write 	NN
+Th2 	3 	17 	1 	21 	0 	.
+Th2 	3 	18 	1 	1 	1 	e 	NN
+Th2 	3 	18 	1 	2 	1 	grace 	NN
+Th2 	3 	18 	1 	3 	1 	of 	IN
+Th2 	3 	18 	1 	4 	1 	our 	PRP$
+Th2 	3 	18 	1 	5 	1 	Lord 	NN
+Th2 	3 	18 	1 	6 	1 	Jesus 	NN
+Th2 	3 	18 	1 	7 	1 	Christ 	NN
+Th2 	3 	18 	1 	8 	1 	be 	VB
+Th2 	3 	18 	1 	9 	1 	with 	IN
+Th2 	3 	18 	1 	10 	1 	you 	PRP
+Th2 	3 	18 	1 	11 	1 	all 	DT
+Th2 	3 	18 	1 	12 	0 	.
+Th2 	3 	18 	2 	1 	1 	Amen 	NNS
+Th2 	3 	18 	2 	2 	0 	.

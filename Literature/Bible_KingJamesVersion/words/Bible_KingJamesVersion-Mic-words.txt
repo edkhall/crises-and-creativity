@@ -1,0 +1,3614 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Mic 	1 	1 	1 	1 	1 	The 	DT
+Mic 	1 	1 	1 	2 	1 	word 	NN
+Mic 	1 	1 	1 	3 	1 	of 	IN
+Mic 	1 	1 	1 	4 	1 	the 	DT
+Mic 	1 	1 	1 	5 	1 	LORD 	NN
+Mic 	1 	1 	1 	6 	1 	that 	IN
+Mic 	1 	1 	1 	7 	1 	came 	VBD
+Mic 	1 	1 	1 	8 	1 	to 	TO
+Mic 	1 	1 	1 	9 	1 	Micah 	NN
+Mic 	1 	1 	1 	10 	1 	the 	DT
+Mic 	1 	1 	1 	11 	1 	Morasthite 	NN
+Mic 	1 	1 	1 	12 	1 	in 	IN
+Mic 	1 	1 	1 	13 	1 	the 	DT
+Mic 	1 	1 	1 	14 	1 	days 	NNS
+Mic 	1 	1 	1 	15 	1 	of 	IN
+Mic 	1 	1 	1 	16 	1 	Jotham 	NN
+Mic 	1 	1 	1 	17 	0 	,
+Mic 	1 	1 	1 	18 	1 	Ahaz 	NN
+Mic 	1 	1 	1 	19 	0 	,
+Mic 	1 	1 	1 	20 	1 	and 	CC
+Mic 	1 	1 	1 	21 	1 	Hezekiah 	NN
+Mic 	1 	1 	1 	22 	0 	,
+Mic 	1 	1 	1 	23 	1 	kings 	NNS
+Mic 	1 	1 	1 	24 	1 	of 	IN
+Mic 	1 	1 	1 	25 	1 	Judah 	NN
+Mic 	1 	1 	1 	26 	0 	,
+Mic 	1 	1 	1 	27 	1 	which 	WDT
+Mic 	1 	1 	1 	28 	1 	he 	PRP
+Mic 	1 	1 	1 	29 	1 	saw 	NN
+Mic 	1 	1 	1 	30 	1 	concerning 	VBG
+Mic 	1 	1 	1 	31 	1 	Samaria 	NNS
+Mic 	1 	1 	1 	32 	1 	and 	CC
+Mic 	1 	1 	1 	33 	1 	Jerusalem 	NN
+Mic 	1 	1 	1 	34 	0 	.
+Mic 	1 	2 	1 	1 	1 	Hear 	NN
+Mic 	1 	2 	1 	2 	0 	,
+Mic 	1 	2 	1 	3 	1 	all 	DT
+Mic 	1 	2 	1 	4 	1 	ye 	NN
+Mic 	1 	2 	1 	5 	1 	people 	NNS
+Mic 	1 	2 	1 	6 	0 	;
+Mic 	1 	2 	1 	7 	1 	hearken 	NN
+Mic 	1 	2 	1 	8 	0 	,
+Mic 	1 	2 	1 	9 	1 	O 	NN
+Mic 	1 	2 	1 	10 	1 	earth 	NN
+Mic 	1 	2 	1 	11 	0 	,
+Mic 	1 	2 	1 	12 	1 	and 	CC
+Mic 	1 	2 	1 	13 	1 	all 	DT
+Mic 	1 	2 	1 	14 	1 	that 	IN
+Mic 	1 	2 	1 	15 	1 	therein 	NN
+Mic 	1 	2 	1 	16 	1 	is 	VBZ
+Mic 	1 	2 	1 	17 	0 	:
+Mic 	1 	2 	1 	18 	1 	and 	CC
+Mic 	1 	2 	1 	19 	1 	let 	VB
+Mic 	1 	2 	1 	20 	1 	the 	DT
+Mic 	1 	2 	1 	21 	1 	Lord 	NN
+Mic 	1 	2 	1 	22 	1 	GOD 	NNP
+Mic 	1 	2 	1 	23 	1 	be 	VB
+Mic 	1 	2 	1 	24 	1 	witness 	NN
+Mic 	1 	2 	1 	25 	1 	against 	IN
+Mic 	1 	2 	1 	26 	1 	you 	PRP
+Mic 	1 	2 	1 	27 	0 	,
+Mic 	1 	2 	1 	28 	1 	the 	DT
+Mic 	1 	2 	1 	29 	1 	LORD 	NN
+Mic 	1 	2 	1 	30 	1 	from 	IN
+Mic 	1 	2 	1 	31 	1 	his 	PRP$
+Mic 	1 	2 	1 	32 	1 	holy 	NN
+Mic 	1 	2 	1 	33 	1 	temple 	NN
+Mic 	1 	2 	1 	34 	0 	.
+Mic 	1 	3 	1 	1 	1 	For 	IN
+Mic 	1 	3 	1 	2 	0 	,
+Mic 	1 	3 	1 	3 	1 	behold 	NN
+Mic 	1 	3 	1 	4 	0 	,
+Mic 	1 	3 	1 	5 	1 	the 	DT
+Mic 	1 	3 	1 	6 	1 	LORD 	NN
+Mic 	1 	3 	1 	7 	1 	cometh 	NNS
+Mic 	1 	3 	1 	8 	1 	forth 	NN
+Mic 	1 	3 	1 	9 	1 	out 	IN
+Mic 	1 	3 	1 	10 	1 	of 	IN
+Mic 	1 	3 	1 	11 	1 	his 	PRP$
+Mic 	1 	3 	1 	12 	1 	place 	NN
+Mic 	1 	3 	1 	13 	0 	,
+Mic 	1 	3 	1 	14 	1 	and 	CC
+Mic 	1 	3 	1 	15 	1 	will 	MD
+Mic 	1 	3 	1 	16 	1 	come 	VB
+Mic 	1 	3 	1 	17 	1 	down 	RB
+Mic 	1 	3 	1 	18 	0 	,
+Mic 	1 	3 	1 	19 	1 	and 	CC
+Mic 	1 	3 	1 	20 	1 	tread 	NN
+Mic 	1 	3 	1 	21 	1 	upon 	IN
+Mic 	1 	3 	1 	22 	1 	the 	DT
+Mic 	1 	3 	1 	23 	1 	high 	JJ
+Mic 	1 	3 	1 	24 	1 	places 	NNS
+Mic 	1 	3 	1 	25 	1 	of 	IN
+Mic 	1 	3 	1 	26 	1 	the 	DT
+Mic 	1 	3 	1 	27 	1 	earth 	NN
+Mic 	1 	3 	1 	28 	0 	.
+Mic 	1 	4 	1 	1 	1 	And 	CC
+Mic 	1 	4 	1 	2 	1 	the 	DT
+Mic 	1 	4 	1 	3 	1 	mountains 	NNS
+Mic 	1 	4 	1 	4 	1 	shall 	MD
+Mic 	1 	4 	1 	5 	1 	be 	VB
+Mic 	1 	4 	1 	6 	1 	molten 	NNS
+Mic 	1 	4 	1 	7 	1 	under 	IN
+Mic 	1 	4 	1 	8 	1 	him 	PRP
+Mic 	1 	4 	1 	9 	0 	,
+Mic 	1 	4 	1 	10 	1 	and 	CC
+Mic 	1 	4 	1 	11 	1 	the 	DT
+Mic 	1 	4 	1 	12 	1 	valleys 	NNS
+Mic 	1 	4 	1 	13 	1 	shall 	MD
+Mic 	1 	4 	1 	14 	1 	be 	VB
+Mic 	1 	4 	1 	15 	1 	cleft 	NN
+Mic 	1 	4 	1 	16 	0 	,
+Mic 	1 	4 	1 	17 	1 	as 	IN
+Mic 	1 	4 	1 	18 	1 	wax 	NN
+Mic 	1 	4 	1 	19 	1 	before 	IN
+Mic 	1 	4 	1 	20 	1 	the 	DT
+Mic 	1 	4 	1 	21 	1 	fire 	NN
+Mic 	1 	4 	1 	22 	0 	,
+Mic 	1 	4 	1 	23 	1 	and 	CC
+Mic 	1 	4 	1 	24 	1 	as 	IN
+Mic 	1 	4 	1 	25 	1 	the 	DT
+Mic 	1 	4 	1 	26 	1 	waters 	NNS
+Mic 	1 	4 	1 	27 	1 	that 	IN
+Mic 	1 	4 	1 	28 	1 	are 	VBP
+Mic 	1 	4 	1 	29 	1 	poured 	VBN
+Mic 	1 	4 	1 	30 	1 	down 	RB
+Mic 	1 	4 	1 	31 	1 	a 	DT
+Mic 	1 	4 	1 	32 	1 	steep 	NN
+Mic 	1 	4 	1 	33 	1 	place 	NN
+Mic 	1 	4 	1 	34 	0 	.
+Mic 	1 	5 	1 	1 	1 	For 	IN
+Mic 	1 	5 	1 	2 	1 	the 	DT
+Mic 	1 	5 	1 	3 	1 	transgression 	NN
+Mic 	1 	5 	1 	4 	1 	of 	IN
+Mic 	1 	5 	1 	5 	1 	Jacob 	NN
+Mic 	1 	5 	1 	6 	1 	is 	VBZ
+Mic 	1 	5 	1 	7 	1 	all 	DT
+Mic 	1 	5 	1 	8 	1 	this 	DT
+Mic 	1 	5 	1 	9 	0 	,
+Mic 	1 	5 	1 	10 	1 	and 	CC
+Mic 	1 	5 	1 	11 	1 	for 	IN
+Mic 	1 	5 	1 	12 	1 	the 	DT
+Mic 	1 	5 	1 	13 	1 	sins 	NNS
+Mic 	1 	5 	1 	14 	1 	of 	IN
+Mic 	1 	5 	1 	15 	1 	the 	DT
+Mic 	1 	5 	1 	16 	1 	house 	NN
+Mic 	1 	5 	1 	17 	1 	of 	IN
+Mic 	1 	5 	1 	18 	1 	Israel 	NNP
+Mic 	1 	5 	1 	19 	0 	.
+Mic 	1 	5 	2 	1 	1 	What 	WP
+Mic 	1 	5 	2 	2 	1 	is 	VBZ
+Mic 	1 	5 	2 	3 	1 	the 	DT
+Mic 	1 	5 	2 	4 	1 	transgression 	NN
+Mic 	1 	5 	2 	5 	1 	of 	IN
+Mic 	1 	5 	2 	6 	1 	Jacob 	NN
+Mic 	1 	5 	2 	7 	0 	?
+Mic 	1 	5 	3 	1 	1 	is 	VBZ
+Mic 	1 	5 	3 	2 	1 	it 	PRP
+Mic 	1 	5 	3 	3 	1 	not 	RB
+Mic 	1 	5 	3 	4 	1 	Samaria 	NNS
+Mic 	1 	5 	3 	5 	0 	?
+Mic 	1 	5 	4 	1 	1 	and 	CC
+Mic 	1 	5 	4 	2 	1 	what 	WP
+Mic 	1 	5 	4 	3 	1 	are 	VBP
+Mic 	1 	5 	4 	4 	1 	the 	DT
+Mic 	1 	5 	4 	5 	1 	high 	JJ
+Mic 	1 	5 	4 	6 	1 	places 	NNS
+Mic 	1 	5 	4 	7 	1 	of 	IN
+Mic 	1 	5 	4 	8 	1 	Judah 	NN
+Mic 	1 	5 	4 	9 	0 	?
+Mic 	1 	5 	5 	1 	1 	are 	VBP
+Mic 	1 	5 	5 	2 	1 	they 	PRP
+Mic 	1 	5 	5 	3 	1 	not 	RB
+Mic 	1 	5 	5 	4 	1 	Jerusalem 	NN
+Mic 	1 	5 	5 	5 	0 	?
+Mic 	1 	6 	1 	1 	1 	Therefore 	RB
+Mic 	1 	6 	1 	2 	1 	I 	PRP
+Mic 	1 	6 	1 	3 	1 	will 	MD
+Mic 	1 	6 	1 	4 	1 	make 	VB
+Mic 	1 	6 	1 	5 	1 	Samaria 	NNS
+Mic 	1 	6 	1 	6 	1 	as 	IN
+Mic 	1 	6 	1 	7 	1 	an 	DT
+Mic 	1 	6 	1 	8 	1 	heap 	NN
+Mic 	1 	6 	1 	9 	1 	of 	IN
+Mic 	1 	6 	1 	10 	1 	the 	DT
+Mic 	1 	6 	1 	11 	1 	field 	NN
+Mic 	1 	6 	1 	12 	0 	,
+Mic 	1 	6 	1 	13 	1 	and 	CC
+Mic 	1 	6 	1 	14 	1 	as 	IN
+Mic 	1 	6 	1 	15 	1 	plantings 	NNS
+Mic 	1 	6 	1 	16 	1 	of 	IN
+Mic 	1 	6 	1 	17 	1 	a 	DT
+Mic 	1 	6 	1 	18 	1 	vineyard 	NN
+Mic 	1 	6 	1 	19 	0 	:
+Mic 	1 	6 	1 	20 	1 	and 	CC
+Mic 	1 	6 	1 	21 	1 	I 	PRP
+Mic 	1 	6 	1 	22 	1 	will 	MD
+Mic 	1 	6 	1 	23 	1 	pour 	NN
+Mic 	1 	6 	1 	24 	1 	down 	RB
+Mic 	1 	6 	1 	25 	1 	the 	DT
+Mic 	1 	6 	1 	26 	1 	stones 	NNS
+Mic 	1 	6 	1 	27 	1 	thereof 	NN
+Mic 	1 	6 	1 	28 	1 	into 	IN
+Mic 	1 	6 	1 	29 	1 	the 	DT
+Mic 	1 	6 	1 	30 	1 	valley 	NN
+Mic 	1 	6 	1 	31 	0 	,
+Mic 	1 	6 	1 	32 	1 	and 	CC
+Mic 	1 	6 	1 	33 	1 	I 	PRP
+Mic 	1 	6 	1 	34 	1 	will 	MD
+Mic 	1 	6 	1 	35 	1 	discover 	NN
+Mic 	1 	6 	1 	36 	1 	the 	DT
+Mic 	1 	6 	1 	37 	1 	foundations 	NNS
+Mic 	1 	6 	1 	38 	1 	thereof 	NN
+Mic 	1 	6 	1 	39 	0 	.
+Mic 	1 	7 	1 	1 	1 	And 	CC
+Mic 	1 	7 	1 	2 	1 	all 	DT
+Mic 	1 	7 	1 	3 	1 	the 	DT
+Mic 	1 	7 	1 	4 	1 	graven 	NN
+Mic 	1 	7 	1 	5 	1 	images 	NNS
+Mic 	1 	7 	1 	6 	1 	thereof 	NN
+Mic 	1 	7 	1 	7 	1 	shall 	MD
+Mic 	1 	7 	1 	8 	1 	be 	VB
+Mic 	1 	7 	1 	9 	1 	beaten 	NN
+Mic 	1 	7 	1 	10 	1 	to 	TO
+Mic 	1 	7 	1 	11 	1 	pieces 	NNS
+Mic 	1 	7 	1 	12 	0 	,
+Mic 	1 	7 	1 	13 	1 	and 	CC
+Mic 	1 	7 	1 	14 	1 	all 	DT
+Mic 	1 	7 	1 	15 	1 	the 	DT
+Mic 	1 	7 	1 	16 	1 	hires 	NNS
+Mic 	1 	7 	1 	17 	1 	thereof 	NN
+Mic 	1 	7 	1 	18 	1 	shall 	MD
+Mic 	1 	7 	1 	19 	1 	be 	VB
+Mic 	1 	7 	1 	20 	1 	burned 	VBN
+Mic 	1 	7 	1 	21 	1 	with 	IN
+Mic 	1 	7 	1 	22 	1 	the 	DT
+Mic 	1 	7 	1 	23 	1 	fire 	NN
+Mic 	1 	7 	1 	24 	0 	,
+Mic 	1 	7 	1 	25 	1 	and 	CC
+Mic 	1 	7 	1 	26 	1 	all 	DT
+Mic 	1 	7 	1 	27 	1 	the 	DT
+Mic 	1 	7 	1 	28 	1 	idols 	NNS
+Mic 	1 	7 	1 	29 	1 	thereof 	NN
+Mic 	1 	7 	1 	30 	1 	will 	MD
+Mic 	1 	7 	1 	31 	1 	I 	PRP
+Mic 	1 	7 	1 	32 	1 	lay 	NN
+Mic 	1 	7 	1 	33 	1 	desolate 	NN
+Mic 	1 	7 	1 	34 	0 	:
+Mic 	1 	7 	1 	35 	1 	for 	IN
+Mic 	1 	7 	1 	36 	1 	she 	PRP
+Mic 	1 	7 	1 	37 	1 	gathered 	VBN
+Mic 	1 	7 	1 	38 	1 	it 	PRP
+Mic 	1 	7 	1 	39 	1 	of 	IN
+Mic 	1 	7 	1 	40 	1 	the 	DT
+Mic 	1 	7 	1 	41 	1 	hire 	NN
+Mic 	1 	7 	1 	42 	1 	of 	IN
+Mic 	1 	7 	1 	43 	1 	an 	DT
+Mic 	1 	7 	1 	44 	1 	harlot 	NN
+Mic 	1 	7 	1 	45 	0 	,
+Mic 	1 	7 	1 	46 	1 	and 	CC
+Mic 	1 	7 	1 	47 	1 	they 	PRP
+Mic 	1 	7 	1 	48 	1 	shall 	MD
+Mic 	1 	7 	1 	49 	1 	return 	NN
+Mic 	1 	7 	1 	50 	1 	to 	TO
+Mic 	1 	7 	1 	51 	1 	the 	DT
+Mic 	1 	7 	1 	52 	1 	hire 	NN
+Mic 	1 	7 	1 	53 	1 	of 	IN
+Mic 	1 	7 	1 	54 	1 	an 	DT
+Mic 	1 	7 	1 	55 	1 	harlot 	NN
+Mic 	1 	7 	1 	56 	0 	.
+Mic 	1 	8 	1 	1 	1 	Therefore 	RB
+Mic 	1 	8 	1 	2 	1 	I 	PRP
+Mic 	1 	8 	1 	3 	1 	will 	MD
+Mic 	1 	8 	1 	4 	1 	wail 	NN
+Mic 	1 	8 	1 	5 	1 	and 	CC
+Mic 	1 	8 	1 	6 	1 	howl 	NN
+Mic 	1 	8 	1 	7 	0 	,
+Mic 	1 	8 	1 	8 	1 	I 	PRP
+Mic 	1 	8 	1 	9 	1 	will 	MD
+Mic 	1 	8 	1 	10 	1 	go 	VB
+Mic 	1 	8 	1 	11 	1 	stripped 	VBD
+Mic 	1 	8 	1 	12 	1 	and 	CC
+Mic 	1 	8 	1 	13 	1 	naked 	JJ
+Mic 	1 	8 	1 	14 	0 	:
+Mic 	1 	8 	1 	15 	1 	I 	PRP
+Mic 	1 	8 	1 	16 	1 	will 	MD
+Mic 	1 	8 	1 	17 	1 	make 	VB
+Mic 	1 	8 	1 	18 	1 	a 	DT
+Mic 	1 	8 	1 	19 	1 	wailing 	VBG
+Mic 	1 	8 	1 	20 	1 	like 	IN
+Mic 	1 	8 	1 	21 	1 	the 	DT
+Mic 	1 	8 	1 	22 	1 	dragons 	NNS
+Mic 	1 	8 	1 	23 	0 	,
+Mic 	1 	8 	1 	24 	1 	and 	CC
+Mic 	1 	8 	1 	25 	1 	mourning 	VBG
+Mic 	1 	8 	1 	26 	1 	as 	IN
+Mic 	1 	8 	1 	27 	1 	the 	DT
+Mic 	1 	8 	1 	28 	1 	owls 	NN
+Mic 	1 	8 	1 	29 	0 	.
+Mic 	1 	9 	1 	1 	1 	For 	IN
+Mic 	1 	9 	1 	2 	1 	her 	PRP$
+Mic 	1 	9 	1 	3 	1 	wound 	NN
+Mic 	1 	9 	1 	4 	1 	is 	VBZ
+Mic 	1 	9 	1 	5 	1 	incurable 	JJ
+Mic 	1 	9 	1 	6 	0 	;
+Mic 	1 	9 	1 	7 	1 	for 	IN
+Mic 	1 	9 	1 	8 	1 	it 	PRP
+Mic 	1 	9 	1 	9 	1 	is 	VBZ
+Mic 	1 	9 	1 	10 	1 	come 	VB
+Mic 	1 	9 	1 	11 	1 	unto 	NN
+Mic 	1 	9 	1 	12 	1 	Judah 	NN
+Mic 	1 	9 	1 	13 	0 	;
+Mic 	1 	9 	1 	14 	1 	he 	PRP
+Mic 	1 	9 	1 	15 	1 	is 	VBZ
+Mic 	1 	9 	1 	16 	1 	come 	VB
+Mic 	1 	9 	1 	17 	1 	unto 	NN
+Mic 	1 	9 	1 	18 	1 	the 	DT
+Mic 	1 	9 	1 	19 	1 	gate 	NN
+Mic 	1 	9 	1 	20 	1 	of 	IN
+Mic 	1 	9 	1 	21 	1 	my 	PRP$
+Mic 	1 	9 	1 	22 	1 	people 	NNS
+Mic 	1 	9 	1 	23 	0 	,
+Mic 	1 	9 	1 	24 	1 	even 	RB
+Mic 	1 	9 	1 	25 	1 	to 	TO
+Mic 	1 	9 	1 	26 	1 	Jerusalem 	NN
+Mic 	1 	9 	1 	27 	0 	.
+Mic 	1 	10 	1 	1 	1 	Declare 	NN
+Mic 	1 	10 	1 	2 	1 	ye 	NN
+Mic 	1 	10 	1 	3 	1 	it 	PRP
+Mic 	1 	10 	1 	4 	1 	not 	RB
+Mic 	1 	10 	1 	5 	1 	at 	IN
+Mic 	1 	10 	1 	6 	1 	Gath 	NN
+Mic 	1 	10 	1 	7 	0 	,
+Mic 	1 	10 	1 	8 	1 	weep 	NN
+Mic 	1 	10 	1 	9 	1 	ye 	NN
+Mic 	1 	10 	1 	10 	1 	not 	RB
+Mic 	1 	10 	1 	11 	1 	at 	IN
+Mic 	1 	10 	1 	12 	1 	all 	DT
+Mic 	1 	10 	1 	13 	0 	:
+Mic 	1 	10 	1 	14 	1 	in 	IN
+Mic 	1 	10 	1 	15 	1 	the 	DT
+Mic 	1 	10 	1 	16 	1 	house 	NN
+Mic 	1 	10 	1 	17 	1 	of 	IN
+Mic 	1 	10 	1 	18 	1 	Aphrah 	NN
+Mic 	1 	10 	1 	19 	1 	roll 	NN
+Mic 	1 	10 	1 	20 	1 	thyself 	NN
+Mic 	1 	10 	1 	21 	1 	in 	IN
+Mic 	1 	10 	1 	22 	1 	the 	DT
+Mic 	1 	10 	1 	23 	1 	dust 	NN
+Mic 	1 	10 	1 	24 	0 	.
+Mic 	1 	11 	1 	1 	1 	Pass 	NN
+Mic 	1 	11 	1 	2 	1 	ye 	NN
+Mic 	1 	11 	1 	3 	1 	away 	RB
+Mic 	1 	11 	1 	4 	0 	,
+Mic 	1 	11 	1 	5 	1 	thou 	NN
+Mic 	1 	11 	1 	6 	1 	inhabitant 	NN
+Mic 	1 	11 	1 	7 	1 	of 	IN
+Mic 	1 	11 	1 	8 	1 	Saphir 	NN
+Mic 	1 	11 	1 	9 	0 	,
+Mic 	1 	11 	1 	10 	1 	having 	VBG
+Mic 	1 	11 	1 	11 	1 	thy 	NN
+Mic 	1 	11 	1 	12 	1 	shame 	NN
+Mic 	1 	11 	1 	13 	1 	naked 	JJ
+Mic 	1 	11 	1 	14 	0 	:
+Mic 	1 	11 	1 	15 	1 	the 	DT
+Mic 	1 	11 	1 	16 	1 	inhabitant 	NN
+Mic 	1 	11 	1 	17 	1 	of 	IN
+Mic 	1 	11 	1 	18 	1 	Zaanan 	NN
+Mic 	1 	11 	1 	19 	1 	came 	VBD
+Mic 	1 	11 	1 	20 	1 	not 	RB
+Mic 	1 	11 	1 	21 	1 	forth 	NN
+Mic 	1 	11 	1 	22 	1 	in 	IN
+Mic 	1 	11 	1 	23 	1 	the 	DT
+Mic 	1 	11 	1 	24 	1 	mourning 	VBG
+Mic 	1 	11 	1 	25 	1 	of 	IN
+Mic 	1 	11 	1 	26 	1 	Bethezel 	NN
+Mic 	1 	11 	1 	27 	0 	;
+Mic 	1 	11 	1 	28 	1 	he 	PRP
+Mic 	1 	11 	1 	29 	1 	shall 	MD
+Mic 	1 	11 	1 	30 	1 	receive 	NN
+Mic 	1 	11 	1 	31 	1 	of 	IN
+Mic 	1 	11 	1 	32 	1 	you 	PRP
+Mic 	1 	11 	1 	33 	1 	his 	PRP$
+Mic 	1 	11 	1 	34 	1 	standing 	VBG
+Mic 	1 	11 	1 	35 	0 	.
+Mic 	1 	12 	1 	1 	1 	For 	IN
+Mic 	1 	12 	1 	2 	1 	the 	DT
+Mic 	1 	12 	1 	3 	1 	inhabitant 	NN
+Mic 	1 	12 	1 	4 	1 	of 	IN
+Mic 	1 	12 	1 	5 	1 	Maroth 	DT
+Mic 	1 	12 	1 	6 	1 	waited 	VBD
+Mic 	1 	12 	1 	7 	1 	carefully 	RB
+Mic 	1 	12 	1 	8 	1 	for 	IN
+Mic 	1 	12 	1 	9 	1 	good 	JJ
+Mic 	1 	12 	1 	10 	0 	:
+Mic 	1 	12 	1 	11 	1 	but 	CC
+Mic 	1 	12 	1 	12 	1 	evil 	NN
+Mic 	1 	12 	1 	13 	1 	came 	VBD
+Mic 	1 	12 	1 	14 	1 	down 	RB
+Mic 	1 	12 	1 	15 	1 	from 	IN
+Mic 	1 	12 	1 	16 	1 	the 	DT
+Mic 	1 	12 	1 	17 	1 	LORD 	NN
+Mic 	1 	12 	1 	18 	1 	unto 	NN
+Mic 	1 	12 	1 	19 	1 	the 	DT
+Mic 	1 	12 	1 	20 	1 	gate 	NN
+Mic 	1 	12 	1 	21 	1 	of 	IN
+Mic 	1 	12 	1 	22 	1 	Jerusalem 	NN
+Mic 	1 	12 	1 	23 	0 	.
+Mic 	1 	13 	1 	1 	1 	O 	NN
+Mic 	1 	13 	1 	2 	1 	thou 	NN
+Mic 	1 	13 	1 	3 	1 	inhabitant 	NN
+Mic 	1 	13 	1 	4 	1 	of 	IN
+Mic 	1 	13 	1 	5 	1 	Lachish 	JJ
+Mic 	1 	13 	1 	6 	0 	,
+Mic 	1 	13 	1 	7 	1 	bind 	NN
+Mic 	1 	13 	1 	8 	1 	the 	DT
+Mic 	1 	13 	1 	9 	1 	chariot 	NN
+Mic 	1 	13 	1 	10 	1 	to 	TO
+Mic 	1 	13 	1 	11 	1 	the 	DT
+Mic 	1 	13 	1 	12 	1 	swift 	NN
+Mic 	1 	13 	1 	13 	1 	beast 	NN
+Mic 	1 	13 	1 	14 	0 	:
+Mic 	1 	13 	1 	15 	1 	she 	PRP
+Mic 	1 	13 	1 	16 	1 	is 	VBZ
+Mic 	1 	13 	1 	17 	1 	the 	DT
+Mic 	1 	13 	1 	18 	1 	beginning 	VBG
+Mic 	1 	13 	1 	19 	1 	of 	IN
+Mic 	1 	13 	1 	20 	1 	the 	DT
+Mic 	1 	13 	1 	21 	1 	sin 	NN
+Mic 	1 	13 	1 	22 	1 	to 	TO
+Mic 	1 	13 	1 	23 	1 	the 	DT
+Mic 	1 	13 	1 	24 	1 	daughter 	NN
+Mic 	1 	13 	1 	25 	1 	of 	IN
+Mic 	1 	13 	1 	26 	1 	Zion 	NN
+Mic 	1 	13 	1 	27 	0 	:
+Mic 	1 	13 	1 	28 	1 	for 	IN
+Mic 	1 	13 	1 	29 	1 	the 	DT
+Mic 	1 	13 	1 	30 	1 	transgressions 	NNS
+Mic 	1 	13 	1 	31 	1 	of 	IN
+Mic 	1 	13 	1 	32 	1 	Israel 	NNP
+Mic 	1 	13 	1 	33 	1 	were 	VBD
+Mic 	1 	13 	1 	34 	1 	found 	NN
+Mic 	1 	13 	1 	35 	1 	in 	IN
+Mic 	1 	13 	1 	36 	1 	thee 	NN
+Mic 	1 	13 	1 	37 	0 	.
+Mic 	1 	14 	1 	1 	1 	Therefore 	RB
+Mic 	1 	14 	1 	2 	1 	shalt 	NN
+Mic 	1 	14 	1 	3 	1 	thou 	NN
+Mic 	1 	14 	1 	4 	1 	give 	VB
+Mic 	1 	14 	1 	5 	1 	presents 	NNS
+Mic 	1 	14 	1 	6 	1 	to 	TO
+Mic 	1 	14 	1 	7 	1 	Moreshethgath 	NN
+Mic 	1 	14 	1 	8 	0 	:
+Mic 	1 	14 	1 	9 	1 	the 	DT
+Mic 	1 	14 	1 	10 	1 	houses 	NNS
+Mic 	1 	14 	1 	11 	1 	of 	IN
+Mic 	1 	14 	1 	12 	1 	Achzib 	NN
+Mic 	1 	14 	1 	13 	1 	shall 	MD
+Mic 	1 	14 	1 	14 	1 	be 	VB
+Mic 	1 	14 	1 	15 	1 	a 	DT
+Mic 	1 	14 	1 	16 	1 	lie 	NN
+Mic 	1 	14 	1 	17 	1 	to 	TO
+Mic 	1 	14 	1 	18 	1 	the 	DT
+Mic 	1 	14 	1 	19 	1 	kings 	NNS
+Mic 	1 	14 	1 	20 	1 	of 	IN
+Mic 	1 	14 	1 	21 	1 	Israel 	NNP
+Mic 	1 	14 	1 	22 	0 	.
+Mic 	1 	15 	1 	1 	1 	Yet 	RB
+Mic 	1 	15 	1 	2 	1 	will 	MD
+Mic 	1 	15 	1 	3 	1 	I 	PRP
+Mic 	1 	15 	1 	4 	1 	bring 	NN
+Mic 	1 	15 	1 	5 	1 	an 	DT
+Mic 	1 	15 	1 	6 	1 	heir 	NN
+Mic 	1 	15 	1 	7 	1 	unto 	NN
+Mic 	1 	15 	1 	8 	1 	thee 	NN
+Mic 	1 	15 	1 	9 	0 	,
+Mic 	1 	15 	1 	10 	1 	O 	NN
+Mic 	1 	15 	1 	11 	1 	inhabitant 	NN
+Mic 	1 	15 	1 	12 	1 	of 	IN
+Mic 	1 	15 	1 	13 	1 	Mareshah 	NN
+Mic 	1 	15 	1 	14 	0 	:
+Mic 	1 	15 	1 	15 	1 	he 	PRP
+Mic 	1 	15 	1 	16 	1 	shall 	MD
+Mic 	1 	15 	1 	17 	1 	come 	VB
+Mic 	1 	15 	1 	18 	1 	unto 	NN
+Mic 	1 	15 	1 	19 	1 	Adullam 	NN
+Mic 	1 	15 	1 	20 	1 	the 	DT
+Mic 	1 	15 	1 	21 	1 	glory 	NN
+Mic 	1 	15 	1 	22 	1 	of 	IN
+Mic 	1 	15 	1 	23 	1 	Israel 	NNP
+Mic 	1 	15 	1 	24 	0 	.
+Mic 	1 	16 	1 	1 	1 	ake 	NN
+Mic 	1 	16 	1 	2 	1 	thee 	NN
+Mic 	1 	16 	1 	3 	1 	bald 	NN
+Mic 	1 	16 	1 	4 	0 	,
+Mic 	1 	16 	1 	5 	1 	and 	CC
+Mic 	1 	16 	1 	6 	1 	poll 	NN
+Mic 	1 	16 	1 	7 	1 	thee 	NN
+Mic 	1 	16 	1 	8 	1 	for 	IN
+Mic 	1 	16 	1 	9 	1 	thy 	NN
+Mic 	1 	16 	1 	10 	1 	delicate 	NN
+Mic 	1 	16 	1 	11 	1 	children 	NNS
+Mic 	1 	16 	1 	12 	0 	;
+Mic 	1 	16 	1 	13 	1 	enlarge 	NN
+Mic 	1 	16 	1 	14 	1 	thy 	NN
+Mic 	1 	16 	1 	15 	1 	baldness 	NN
+Mic 	1 	16 	1 	16 	1 	as 	IN
+Mic 	1 	16 	1 	17 	1 	the 	DT
+Mic 	1 	16 	1 	18 	1 	eagle 	NN
+Mic 	1 	16 	1 	19 	0 	;
+Mic 	1 	16 	1 	20 	1 	for 	IN
+Mic 	1 	16 	1 	21 	1 	they 	PRP
+Mic 	1 	16 	1 	22 	1 	are 	VBP
+Mic 	1 	16 	1 	23 	1 	gone 	VBN
+Mic 	1 	16 	1 	24 	1 	into 	IN
+Mic 	1 	16 	1 	25 	1 	captivity 	NN
+Mic 	1 	16 	1 	26 	1 	from 	IN
+Mic 	1 	16 	1 	27 	1 	thee 	NN
+Mic 	1 	16 	1 	28 	0 	.
+Mic 	2 	1 	1 	1 	1 	Woe 	NN
+Mic 	2 	1 	1 	2 	1 	to 	TO
+Mic 	2 	1 	1 	3 	1 	them 	PRP
+Mic 	2 	1 	1 	4 	1 	that 	IN
+Mic 	2 	1 	1 	5 	1 	devise 	NN
+Mic 	2 	1 	1 	6 	1 	iniquity 	NN
+Mic 	2 	1 	1 	7 	0 	,
+Mic 	2 	1 	1 	8 	1 	and 	CC
+Mic 	2 	1 	1 	9 	1 	work 	NN
+Mic 	2 	1 	1 	10 	1 	evil 	NN
+Mic 	2 	1 	1 	11 	1 	upon 	IN
+Mic 	2 	1 	1 	12 	1 	their 	PRP$
+Mic 	2 	1 	1 	13 	1 	beds 	NNS
+Mic 	2 	1 	1 	14 	0 	!
+Mic 	2 	1 	2 	1 	1 	when 	WRB
+Mic 	2 	1 	2 	2 	1 	the 	DT
+Mic 	2 	1 	2 	3 	1 	morning 	NN
+Mic 	2 	1 	2 	4 	1 	is 	VBZ
+Mic 	2 	1 	2 	5 	1 	light 	NN
+Mic 	2 	1 	2 	6 	0 	,
+Mic 	2 	1 	2 	7 	1 	they 	PRP
+Mic 	2 	1 	2 	8 	1 	practise 	NN
+Mic 	2 	1 	2 	9 	1 	it 	PRP
+Mic 	2 	1 	2 	10 	0 	,
+Mic 	2 	1 	2 	11 	1 	because 	IN
+Mic 	2 	1 	2 	12 	1 	it 	PRP
+Mic 	2 	1 	2 	13 	1 	is 	VBZ
+Mic 	2 	1 	2 	14 	1 	in 	IN
+Mic 	2 	1 	2 	15 	1 	the 	DT
+Mic 	2 	1 	2 	16 	1 	power 	NN
+Mic 	2 	1 	2 	17 	1 	of 	IN
+Mic 	2 	1 	2 	18 	1 	their 	PRP$
+Mic 	2 	1 	2 	19 	1 	hand 	NN
+Mic 	2 	1 	2 	20 	0 	.
+Mic 	2 	2 	1 	1 	1 	And 	CC
+Mic 	2 	2 	1 	2 	1 	they 	PRP
+Mic 	2 	2 	1 	3 	1 	covet 	NN
+Mic 	2 	2 	1 	4 	1 	fields 	NNS
+Mic 	2 	2 	1 	5 	0 	,
+Mic 	2 	2 	1 	6 	1 	and 	CC
+Mic 	2 	2 	1 	7 	1 	take 	VB
+Mic 	2 	2 	1 	8 	1 	them 	PRP
+Mic 	2 	2 	1 	9 	1 	by 	IN
+Mic 	2 	2 	1 	10 	1 	violence 	NN
+Mic 	2 	2 	1 	11 	0 	;
+Mic 	2 	2 	1 	12 	1 	and 	CC
+Mic 	2 	2 	1 	13 	1 	houses 	NNS
+Mic 	2 	2 	1 	14 	0 	,
+Mic 	2 	2 	1 	15 	1 	and 	CC
+Mic 	2 	2 	1 	16 	1 	take 	VB
+Mic 	2 	2 	1 	17 	1 	them 	PRP
+Mic 	2 	2 	1 	18 	1 	away 	RB
+Mic 	2 	2 	1 	19 	0 	:
+Mic 	2 	2 	1 	20 	1 	so 	RB
+Mic 	2 	2 	1 	21 	1 	they 	PRP
+Mic 	2 	2 	1 	22 	1 	oppress 	NN
+Mic 	2 	2 	1 	23 	1 	a 	DT
+Mic 	2 	2 	1 	24 	1 	man 	NN
+Mic 	2 	2 	1 	25 	1 	and 	CC
+Mic 	2 	2 	1 	26 	1 	his 	PRP$
+Mic 	2 	2 	1 	27 	1 	house 	NN
+Mic 	2 	2 	1 	28 	0 	,
+Mic 	2 	2 	1 	29 	1 	even 	RB
+Mic 	2 	2 	1 	30 	1 	a 	DT
+Mic 	2 	2 	1 	31 	1 	man 	NN
+Mic 	2 	2 	1 	32 	1 	and 	CC
+Mic 	2 	2 	1 	33 	1 	his 	PRP$
+Mic 	2 	2 	1 	34 	1 	heritage 	NN
+Mic 	2 	2 	1 	35 	0 	.
+Mic 	2 	3 	1 	1 	1 	Therefore 	RB
+Mic 	2 	3 	1 	2 	1 	thus 	RB
+Mic 	2 	3 	1 	3 	1 	saith 	NN
+Mic 	2 	3 	1 	4 	1 	the 	DT
+Mic 	2 	3 	1 	5 	1 	LORD 	NN
+Mic 	2 	3 	1 	6 	0 	;
+Mic 	2 	3 	1 	7 	1 	Behold 	NN
+Mic 	2 	3 	1 	8 	0 	,
+Mic 	2 	3 	1 	9 	1 	against 	IN
+Mic 	2 	3 	1 	10 	1 	this 	DT
+Mic 	2 	3 	1 	11 	1 	family 	NN
+Mic 	2 	3 	1 	12 	1 	do 	VB
+Mic 	2 	3 	1 	13 	1 	I 	PRP
+Mic 	2 	3 	1 	14 	1 	devise 	NN
+Mic 	2 	3 	1 	15 	1 	an 	DT
+Mic 	2 	3 	1 	16 	1 	evil 	NN
+Mic 	2 	3 	1 	17 	0 	,
+Mic 	2 	3 	1 	18 	1 	from 	IN
+Mic 	2 	3 	1 	19 	1 	which 	WDT
+Mic 	2 	3 	1 	20 	1 	ye 	NN
+Mic 	2 	3 	1 	21 	1 	shall 	MD
+Mic 	2 	3 	1 	22 	1 	not 	RB
+Mic 	2 	3 	1 	23 	1 	remove 	VB
+Mic 	2 	3 	1 	24 	1 	your 	PRP$
+Mic 	2 	3 	1 	25 	1 	necks 	NNS
+Mic 	2 	3 	1 	26 	0 	;
+Mic 	2 	3 	1 	27 	1 	neither 	DT
+Mic 	2 	3 	1 	28 	1 	shall 	MD
+Mic 	2 	3 	1 	29 	1 	ye 	NN
+Mic 	2 	3 	1 	30 	1 	go 	VB
+Mic 	2 	3 	1 	31 	1 	haughtily 	RB
+Mic 	2 	3 	1 	32 	0 	:
+Mic 	2 	3 	1 	33 	1 	for 	IN
+Mic 	2 	3 	1 	34 	1 	this 	DT
+Mic 	2 	3 	1 	35 	1 	time 	NN
+Mic 	2 	3 	1 	36 	1 	is 	VBZ
+Mic 	2 	3 	1 	37 	1 	evil 	NN
+Mic 	2 	3 	1 	38 	0 	.
+Mic 	2 	4 	1 	1 	1 	In 	IN
+Mic 	2 	4 	1 	2 	1 	that 	IN
+Mic 	2 	4 	1 	3 	1 	day 	NN
+Mic 	2 	4 	1 	4 	1 	shall 	MD
+Mic 	2 	4 	1 	5 	1 	one 	CD
+Mic 	2 	4 	1 	6 	1 	take 	VB
+Mic 	2 	4 	1 	7 	1 	up 	RB
+Mic 	2 	4 	1 	8 	1 	a 	DT
+Mic 	2 	4 	1 	9 	1 	parable 	JJ
+Mic 	2 	4 	1 	10 	1 	against 	IN
+Mic 	2 	4 	1 	11 	1 	you 	PRP
+Mic 	2 	4 	1 	12 	0 	,
+Mic 	2 	4 	1 	13 	1 	and 	CC
+Mic 	2 	4 	1 	14 	1 	lament 	NN
+Mic 	2 	4 	1 	15 	1 	with 	IN
+Mic 	2 	4 	1 	16 	1 	a 	DT
+Mic 	2 	4 	1 	17 	1 	doleful 	NN
+Mic 	2 	4 	1 	18 	1 	lamentation 	NN
+Mic 	2 	4 	1 	19 	0 	,
+Mic 	2 	4 	1 	20 	1 	and 	CC
+Mic 	2 	4 	1 	21 	1 	say 	VB
+Mic 	2 	4 	1 	22 	0 	,
+Mic 	2 	4 	1 	23 	1 	We 	PRP
+Mic 	2 	4 	1 	24 	1 	be 	VB
+Mic 	2 	4 	1 	25 	1 	utterly 	RB
+Mic 	2 	4 	1 	26 	1 	spoiled 	VBN
+Mic 	2 	4 	1 	27 	0 	:
+Mic 	2 	4 	1 	28 	1 	he 	PRP
+Mic 	2 	4 	1 	29 	1 	hath 	NN
+Mic 	2 	4 	1 	30 	1 	changed 	VBN
+Mic 	2 	4 	1 	31 	1 	the 	DT
+Mic 	2 	4 	1 	32 	1 	portion 	NN
+Mic 	2 	4 	1 	33 	1 	of 	IN
+Mic 	2 	4 	1 	34 	1 	my 	PRP$
+Mic 	2 	4 	1 	35 	1 	people 	NNS
+Mic 	2 	4 	1 	36 	0 	:
+Mic 	2 	4 	1 	37 	1 	how 	WRB
+Mic 	2 	4 	1 	38 	1 	hath 	NN
+Mic 	2 	4 	1 	39 	1 	he 	PRP
+Mic 	2 	4 	1 	40 	1 	removed 	VBN
+Mic 	2 	4 	1 	41 	1 	it 	PRP
+Mic 	2 	4 	1 	42 	1 	from 	IN
+Mic 	2 	4 	1 	43 	1 	me 	PRP
+Mic 	2 	4 	1 	44 	0 	!
+Mic 	2 	4 	2 	1 	1 	turning 	VBG
+Mic 	2 	4 	2 	2 	1 	away 	RB
+Mic 	2 	4 	2 	3 	1 	he 	PRP
+Mic 	2 	4 	2 	4 	1 	hath 	NN
+Mic 	2 	4 	2 	5 	1 	divided 	VBN
+Mic 	2 	4 	2 	6 	1 	our 	PRP$
+Mic 	2 	4 	2 	7 	1 	fields 	NNS
+Mic 	2 	4 	2 	8 	0 	.
+Mic 	2 	5 	1 	1 	1 	Therefore 	RB
+Mic 	2 	5 	1 	2 	1 	thou 	NN
+Mic 	2 	5 	1 	3 	1 	shalt 	NN
+Mic 	2 	5 	1 	4 	1 	have 	VB
+Mic 	2 	5 	1 	5 	1 	none 	NN
+Mic 	2 	5 	1 	6 	1 	that 	IN
+Mic 	2 	5 	1 	7 	1 	shall 	MD
+Mic 	2 	5 	1 	8 	1 	cast 	NN
+Mic 	2 	5 	1 	9 	1 	a 	DT
+Mic 	2 	5 	1 	10 	1 	cord 	NN
+Mic 	2 	5 	1 	11 	1 	by 	IN
+Mic 	2 	5 	1 	12 	1 	lot 	NN
+Mic 	2 	5 	1 	13 	1 	in 	IN
+Mic 	2 	5 	1 	14 	1 	the 	DT
+Mic 	2 	5 	1 	15 	1 	congregation 	NN
+Mic 	2 	5 	1 	16 	1 	of 	IN
+Mic 	2 	5 	1 	17 	1 	the 	DT
+Mic 	2 	5 	1 	18 	1 	LORD 	NN
+Mic 	2 	5 	1 	19 	0 	.
+Mic 	2 	6 	1 	1 	1 	Prophesy 	NN
+Mic 	2 	6 	1 	2 	1 	ye 	NN
+Mic 	2 	6 	1 	3 	1 	not 	RB
+Mic 	2 	6 	1 	4 	0 	,
+Mic 	2 	6 	1 	5 	1 	say 	VB
+Mic 	2 	6 	1 	6 	1 	they 	PRP
+Mic 	2 	6 	1 	7 	1 	to 	TO
+Mic 	2 	6 	1 	8 	1 	them 	PRP
+Mic 	2 	6 	1 	9 	1 	that 	IN
+Mic 	2 	6 	1 	10 	1 	prophesy 	NN
+Mic 	2 	6 	1 	11 	0 	:
+Mic 	2 	6 	1 	12 	1 	they 	PRP
+Mic 	2 	6 	1 	13 	1 	shall 	MD
+Mic 	2 	6 	1 	14 	1 	not 	RB
+Mic 	2 	6 	1 	15 	1 	prophesy 	NN
+Mic 	2 	6 	1 	16 	1 	to 	TO
+Mic 	2 	6 	1 	17 	1 	them 	PRP
+Mic 	2 	6 	1 	18 	0 	,
+Mic 	2 	6 	1 	19 	1 	that 	IN
+Mic 	2 	6 	1 	20 	1 	they 	PRP
+Mic 	2 	6 	1 	21 	1 	shall 	MD
+Mic 	2 	6 	1 	22 	1 	not 	RB
+Mic 	2 	6 	1 	23 	1 	take 	VB
+Mic 	2 	6 	1 	24 	1 	shame 	NN
+Mic 	2 	6 	1 	25 	0 	.
+Mic 	2 	7 	1 	1 	1 	O 	NN
+Mic 	2 	7 	1 	2 	1 	thou 	NN
+Mic 	2 	7 	1 	3 	1 	that 	IN
+Mic 	2 	7 	1 	4 	1 	art 	NN
+Mic 	2 	7 	1 	5 	1 	named 	VBN
+Mic 	2 	7 	1 	6 	1 	the 	DT
+Mic 	2 	7 	1 	7 	1 	house 	NN
+Mic 	2 	7 	1 	8 	1 	of 	IN
+Mic 	2 	7 	1 	9 	1 	Jacob 	NN
+Mic 	2 	7 	1 	10 	0 	,
+Mic 	2 	7 	1 	11 	1 	is 	VBZ
+Mic 	2 	7 	1 	12 	1 	the 	DT
+Mic 	2 	7 	1 	13 	1 	spirit 	NN
+Mic 	2 	7 	1 	14 	1 	of 	IN
+Mic 	2 	7 	1 	15 	1 	the 	DT
+Mic 	2 	7 	1 	16 	1 	LORD 	NN
+Mic 	2 	7 	1 	17 	1 	straitened 	VBN
+Mic 	2 	7 	1 	18 	0 	?
+Mic 	2 	7 	2 	1 	1 	are 	VBP
+Mic 	2 	7 	2 	2 	1 	these 	DT
+Mic 	2 	7 	2 	3 	1 	his 	PRP$
+Mic 	2 	7 	2 	4 	1 	doings 	NNS
+Mic 	2 	7 	2 	5 	0 	?
+Mic 	2 	7 	3 	1 	1 	do 	VB
+Mic 	2 	7 	3 	2 	1 	not 	RB
+Mic 	2 	7 	3 	3 	1 	my 	PRP$
+Mic 	2 	7 	3 	4 	1 	words 	NNS
+Mic 	2 	7 	3 	5 	1 	do 	VB
+Mic 	2 	7 	3 	6 	1 	good 	JJ
+Mic 	2 	7 	3 	7 	1 	to 	TO
+Mic 	2 	7 	3 	8 	1 	him 	PRP
+Mic 	2 	7 	3 	9 	1 	that 	IN
+Mic 	2 	7 	3 	10 	1 	walketh 	NNS
+Mic 	2 	7 	3 	11 	1 	uprightly 	RB
+Mic 	2 	7 	3 	12 	0 	?
+Mic 	2 	8 	1 	1 	1 	Even 	RB
+Mic 	2 	8 	1 	2 	1 	of 	IN
+Mic 	2 	8 	1 	3 	1 	late 	RB
+Mic 	2 	8 	1 	4 	1 	my 	PRP$
+Mic 	2 	8 	1 	5 	1 	people 	NNS
+Mic 	2 	8 	1 	6 	1 	is 	VBZ
+Mic 	2 	8 	1 	7 	1 	risen 	NN
+Mic 	2 	8 	1 	8 	1 	up 	RB
+Mic 	2 	8 	1 	9 	1 	as 	IN
+Mic 	2 	8 	1 	10 	1 	an 	DT
+Mic 	2 	8 	1 	11 	1 	enemy 	NN
+Mic 	2 	8 	1 	12 	0 	:
+Mic 	2 	8 	1 	13 	1 	ye 	NN
+Mic 	2 	8 	1 	14 	1 	pull 	NN
+Mic 	2 	8 	1 	15 	1 	off 	IN
+Mic 	2 	8 	1 	16 	1 	the 	DT
+Mic 	2 	8 	1 	17 	1 	robe 	NN
+Mic 	2 	8 	1 	18 	1 	with 	IN
+Mic 	2 	8 	1 	19 	1 	the 	DT
+Mic 	2 	8 	1 	20 	1 	garment 	NN
+Mic 	2 	8 	1 	21 	1 	from 	IN
+Mic 	2 	8 	1 	22 	1 	them 	PRP
+Mic 	2 	8 	1 	23 	1 	that 	IN
+Mic 	2 	8 	1 	24 	1 	pass 	NN
+Mic 	2 	8 	1 	25 	1 	by 	IN
+Mic 	2 	8 	1 	26 	1 	securely 	RB
+Mic 	2 	8 	1 	27 	1 	as 	IN
+Mic 	2 	8 	1 	28 	1 	men 	NNS
+Mic 	2 	8 	1 	29 	1 	averse 	NN
+Mic 	2 	8 	1 	30 	1 	from 	IN
+Mic 	2 	8 	1 	31 	1 	war 	NN
+Mic 	2 	8 	1 	32 	0 	.
+Mic 	2 	9 	1 	1 	1 	The 	DT
+Mic 	2 	9 	1 	2 	1 	women 	NNS
+Mic 	2 	9 	1 	3 	1 	of 	IN
+Mic 	2 	9 	1 	4 	1 	my 	PRP$
+Mic 	2 	9 	1 	5 	1 	people 	NNS
+Mic 	2 	9 	1 	6 	1 	have 	VB
+Mic 	2 	9 	1 	7 	1 	ye 	NN
+Mic 	2 	9 	1 	8 	1 	cast 	NN
+Mic 	2 	9 	1 	9 	1 	out 	IN
+Mic 	2 	9 	1 	10 	1 	from 	IN
+Mic 	2 	9 	1 	11 	1 	their 	PRP$
+Mic 	2 	9 	1 	12 	1 	pleasant 	NN
+Mic 	2 	9 	1 	13 	1 	houses 	NNS
+Mic 	2 	9 	1 	14 	0 	;
+Mic 	2 	9 	1 	15 	1 	from 	IN
+Mic 	2 	9 	1 	16 	1 	their 	PRP$
+Mic 	2 	9 	1 	17 	1 	children 	NNS
+Mic 	2 	9 	1 	18 	1 	have 	VB
+Mic 	2 	9 	1 	19 	1 	ye 	NN
+Mic 	2 	9 	1 	20 	1 	taken 	VBN
+Mic 	2 	9 	1 	21 	1 	away 	RB
+Mic 	2 	9 	1 	22 	1 	my 	PRP$
+Mic 	2 	9 	1 	23 	1 	glory 	NN
+Mic 	2 	9 	1 	24 	1 	for 	IN
+Mic 	2 	9 	1 	25 	1 	ever 	RB
+Mic 	2 	9 	1 	26 	0 	.
+Mic 	2 	10 	1 	1 	1 	Arise 	NN
+Mic 	2 	10 	1 	2 	1 	ye 	NN
+Mic 	2 	10 	1 	3 	0 	,
+Mic 	2 	10 	1 	4 	1 	and 	CC
+Mic 	2 	10 	1 	5 	1 	depart 	NN
+Mic 	2 	10 	1 	6 	0 	;
+Mic 	2 	10 	1 	7 	1 	for 	IN
+Mic 	2 	10 	1 	8 	1 	this 	DT
+Mic 	2 	10 	1 	9 	1 	is 	VBZ
+Mic 	2 	10 	1 	10 	1 	not 	RB
+Mic 	2 	10 	1 	11 	1 	your 	PRP$
+Mic 	2 	10 	1 	12 	1 	rest 	NN
+Mic 	2 	10 	1 	13 	0 	:
+Mic 	2 	10 	1 	14 	1 	because 	IN
+Mic 	2 	10 	1 	15 	1 	it 	PRP
+Mic 	2 	10 	1 	16 	1 	is 	VBZ
+Mic 	2 	10 	1 	17 	1 	polluted 	VBN
+Mic 	2 	10 	1 	18 	0 	,
+Mic 	2 	10 	1 	19 	1 	it 	PRP
+Mic 	2 	10 	1 	20 	1 	shall 	MD
+Mic 	2 	10 	1 	21 	1 	destroy 	NN
+Mic 	2 	10 	1 	22 	1 	you 	PRP
+Mic 	2 	10 	1 	23 	0 	,
+Mic 	2 	10 	1 	24 	1 	even 	RB
+Mic 	2 	10 	1 	25 	1 	with 	IN
+Mic 	2 	10 	1 	26 	1 	a 	DT
+Mic 	2 	10 	1 	27 	1 	sore 	NN
+Mic 	2 	10 	1 	28 	1 	destruction 	NN
+Mic 	2 	10 	1 	29 	0 	.
+Mic 	2 	11 	1 	1 	1 	If 	IN
+Mic 	2 	11 	1 	2 	1 	a 	DT
+Mic 	2 	11 	1 	3 	1 	man 	NN
+Mic 	2 	11 	1 	4 	1 	walking 	VBG
+Mic 	2 	11 	1 	5 	1 	in 	IN
+Mic 	2 	11 	1 	6 	1 	the 	DT
+Mic 	2 	11 	1 	7 	1 	spirit 	NN
+Mic 	2 	11 	1 	8 	1 	and 	CC
+Mic 	2 	11 	1 	9 	1 	falsehood 	NN
+Mic 	2 	11 	1 	10 	1 	do 	VB
+Mic 	2 	11 	1 	11 	1 	lie 	NN
+Mic 	2 	11 	1 	12 	0 	,
+Mic 	2 	11 	1 	13 	1 	saying 	VBG
+Mic 	2 	11 	1 	14 	0 	,
+Mic 	2 	11 	1 	15 	1 	I 	PRP
+Mic 	2 	11 	1 	16 	1 	will 	MD
+Mic 	2 	11 	1 	17 	1 	prophesy 	NN
+Mic 	2 	11 	1 	18 	1 	unto 	NN
+Mic 	2 	11 	1 	19 	1 	thee 	NN
+Mic 	2 	11 	1 	20 	1 	of 	IN
+Mic 	2 	11 	1 	21 	1 	wine 	NN
+Mic 	2 	11 	1 	22 	1 	and 	CC
+Mic 	2 	11 	1 	23 	1 	of 	IN
+Mic 	2 	11 	1 	24 	1 	strong 	JJ
+Mic 	2 	11 	1 	25 	1 	drink 	NN
+Mic 	2 	11 	1 	26 	0 	;
+Mic 	2 	11 	1 	27 	1 	he 	PRP
+Mic 	2 	11 	1 	28 	1 	shall 	MD
+Mic 	2 	11 	1 	29 	1 	even 	RB
+Mic 	2 	11 	1 	30 	1 	be 	VB
+Mic 	2 	11 	1 	31 	1 	the 	DT
+Mic 	2 	11 	1 	32 	1 	prophet 	NN
+Mic 	2 	11 	1 	33 	1 	of 	IN
+Mic 	2 	11 	1 	34 	1 	this 	DT
+Mic 	2 	11 	1 	35 	1 	people 	NNS
+Mic 	2 	11 	1 	36 	0 	.
+Mic 	2 	12 	1 	1 	1 	I 	PRP
+Mic 	2 	12 	1 	2 	1 	will 	MD
+Mic 	2 	12 	1 	3 	1 	surely 	RB
+Mic 	2 	12 	1 	4 	1 	assemble 	JJ
+Mic 	2 	12 	1 	5 	0 	,
+Mic 	2 	12 	1 	6 	1 	O 	NN
+Mic 	2 	12 	1 	7 	1 	Jacob 	NN
+Mic 	2 	12 	1 	8 	0 	,
+Mic 	2 	12 	1 	9 	1 	all 	DT
+Mic 	2 	12 	1 	10 	1 	of 	IN
+Mic 	2 	12 	1 	11 	1 	thee 	NN
+Mic 	2 	12 	1 	12 	0 	;
+Mic 	2 	12 	1 	13 	1 	I 	PRP
+Mic 	2 	12 	1 	14 	1 	will 	MD
+Mic 	2 	12 	1 	15 	1 	surely 	RB
+Mic 	2 	12 	1 	16 	1 	gather 	NN
+Mic 	2 	12 	1 	17 	1 	the 	DT
+Mic 	2 	12 	1 	18 	1 	remnant 	NN
+Mic 	2 	12 	1 	19 	1 	of 	IN
+Mic 	2 	12 	1 	20 	1 	Israel 	NNP
+Mic 	2 	12 	1 	21 	0 	;
+Mic 	2 	12 	1 	22 	1 	I 	PRP
+Mic 	2 	12 	1 	23 	1 	will 	MD
+Mic 	2 	12 	1 	24 	1 	put 	NN
+Mic 	2 	12 	1 	25 	1 	them 	PRP
+Mic 	2 	12 	1 	26 	1 	together 	RB
+Mic 	2 	12 	1 	27 	1 	as 	IN
+Mic 	2 	12 	1 	28 	1 	the 	DT
+Mic 	2 	12 	1 	29 	1 	sheep 	NN
+Mic 	2 	12 	1 	30 	1 	of 	IN
+Mic 	2 	12 	1 	31 	1 	Bozrah 	NN
+Mic 	2 	12 	1 	32 	0 	,
+Mic 	2 	12 	1 	33 	1 	as 	IN
+Mic 	2 	12 	1 	34 	1 	the 	DT
+Mic 	2 	12 	1 	35 	1 	flock 	NN
+Mic 	2 	12 	1 	36 	1 	in 	IN
+Mic 	2 	12 	1 	37 	1 	the 	DT
+Mic 	2 	12 	1 	38 	1 	midst 	NN
+Mic 	2 	12 	1 	39 	1 	of 	IN
+Mic 	2 	12 	1 	40 	1 	their 	PRP$
+Mic 	2 	12 	1 	41 	1 	fold 	NN
+Mic 	2 	12 	1 	42 	0 	:
+Mic 	2 	12 	1 	43 	1 	they 	PRP
+Mic 	2 	12 	1 	44 	1 	shall 	MD
+Mic 	2 	12 	1 	45 	1 	make 	VB
+Mic 	2 	12 	1 	46 	1 	great 	JJ
+Mic 	2 	12 	1 	47 	1 	noise 	NN
+Mic 	2 	12 	1 	48 	1 	by 	IN
+Mic 	2 	12 	1 	49 	1 	reason 	NN
+Mic 	2 	12 	1 	50 	1 	of 	IN
+Mic 	2 	12 	1 	51 	1 	the 	DT
+Mic 	2 	12 	1 	52 	1 	multitude 	NN
+Mic 	2 	12 	1 	53 	1 	of 	IN
+Mic 	2 	12 	1 	54 	1 	men 	NNS
+Mic 	2 	12 	1 	55 	0 	.
+Mic 	2 	13 	1 	1 	1 	The 	DT
+Mic 	2 	13 	1 	2 	1 	breaker 	NN
+Mic 	2 	13 	1 	3 	1 	is 	VBZ
+Mic 	2 	13 	1 	4 	1 	come 	VB
+Mic 	2 	13 	1 	5 	1 	up 	RB
+Mic 	2 	13 	1 	6 	1 	before 	IN
+Mic 	2 	13 	1 	7 	1 	them 	PRP
+Mic 	2 	13 	1 	8 	0 	:
+Mic 	2 	13 	1 	9 	1 	they 	PRP
+Mic 	2 	13 	1 	10 	1 	have 	VB
+Mic 	2 	13 	1 	11 	1 	broken 	NN
+Mic 	2 	13 	1 	12 	1 	up 	RB
+Mic 	2 	13 	1 	13 	0 	,
+Mic 	2 	13 	1 	14 	1 	and 	CC
+Mic 	2 	13 	1 	15 	1 	have 	VB
+Mic 	2 	13 	1 	16 	1 	passed 	VBN
+Mic 	2 	13 	1 	17 	1 	through 	IN
+Mic 	2 	13 	1 	18 	1 	the 	DT
+Mic 	2 	13 	1 	19 	1 	gate 	NN
+Mic 	2 	13 	1 	20 	0 	,
+Mic 	2 	13 	1 	21 	1 	and 	CC
+Mic 	2 	13 	1 	22 	1 	are 	VBP
+Mic 	2 	13 	1 	23 	1 	gone 	VBN
+Mic 	2 	13 	1 	24 	1 	out 	IN
+Mic 	2 	13 	1 	25 	1 	by 	IN
+Mic 	2 	13 	1 	26 	1 	it 	PRP
+Mic 	2 	13 	1 	27 	0 	:
+Mic 	2 	13 	1 	28 	1 	and 	CC
+Mic 	2 	13 	1 	29 	1 	their 	PRP$
+Mic 	2 	13 	1 	30 	1 	king 	NN
+Mic 	2 	13 	1 	31 	1 	shall 	MD
+Mic 	2 	13 	1 	32 	1 	pass 	NN
+Mic 	2 	13 	1 	33 	1 	before 	IN
+Mic 	2 	13 	1 	34 	1 	them 	PRP
+Mic 	2 	13 	1 	35 	0 	,
+Mic 	2 	13 	1 	36 	1 	and 	CC
+Mic 	2 	13 	1 	37 	1 	the 	DT
+Mic 	2 	13 	1 	38 	1 	LORD 	NN
+Mic 	2 	13 	1 	39 	1 	on 	IN
+Mic 	2 	13 	1 	40 	1 	the 	DT
+Mic 	2 	13 	1 	41 	1 	head 	NN
+Mic 	2 	13 	1 	42 	1 	of 	IN
+Mic 	2 	13 	1 	43 	1 	them 	PRP
+Mic 	2 	13 	1 	44 	0 	.
+Mic 	3 	1 	1 	1 	1 	And 	CC
+Mic 	3 	1 	1 	2 	1 	I 	PRP
+Mic 	3 	1 	1 	3 	1 	said 	VBD
+Mic 	3 	1 	1 	4 	0 	,
+Mic 	3 	1 	1 	5 	1 	Hear 	NN
+Mic 	3 	1 	1 	6 	0 	,
+Mic 	3 	1 	1 	7 	1 	I 	PRP
+Mic 	3 	1 	1 	8 	1 	pray 	NN
+Mic 	3 	1 	1 	9 	1 	you 	PRP
+Mic 	3 	1 	1 	10 	0 	,
+Mic 	3 	1 	1 	11 	1 	O 	NN
+Mic 	3 	1 	1 	12 	1 	heads 	NNS
+Mic 	3 	1 	1 	13 	1 	of 	IN
+Mic 	3 	1 	1 	14 	1 	Jacob 	NN
+Mic 	3 	1 	1 	15 	0 	,
+Mic 	3 	1 	1 	16 	1 	and 	CC
+Mic 	3 	1 	1 	17 	1 	ye 	NN
+Mic 	3 	1 	1 	18 	1 	princes 	NNS
+Mic 	3 	1 	1 	19 	1 	of 	IN
+Mic 	3 	1 	1 	20 	1 	the 	DT
+Mic 	3 	1 	1 	21 	1 	house 	NN
+Mic 	3 	1 	1 	22 	1 	of 	IN
+Mic 	3 	1 	1 	23 	1 	Israel 	NNP
+Mic 	3 	1 	1 	24 	0 	;
+Mic 	3 	1 	1 	25 	1 	Is 	NN
+Mic 	3 	1 	1 	26 	1 	it 	PRP
+Mic 	3 	1 	1 	27 	1 	not 	RB
+Mic 	3 	1 	1 	28 	1 	for 	IN
+Mic 	3 	1 	1 	29 	1 	you 	PRP
+Mic 	3 	1 	1 	30 	1 	to 	TO
+Mic 	3 	1 	1 	31 	1 	know 	VB
+Mic 	3 	1 	1 	32 	1 	judgment 	NN
+Mic 	3 	1 	1 	33 	0 	?
+Mic 	3 	2 	1 	1 	1 	Who 	WP
+Mic 	3 	2 	1 	2 	1 	hate 	NN
+Mic 	3 	2 	1 	3 	1 	the 	DT
+Mic 	3 	2 	1 	4 	1 	good 	JJ
+Mic 	3 	2 	1 	5 	0 	,
+Mic 	3 	2 	1 	6 	1 	and 	CC
+Mic 	3 	2 	1 	7 	1 	love 	NN
+Mic 	3 	2 	1 	8 	1 	the 	DT
+Mic 	3 	2 	1 	9 	1 	evil 	NN
+Mic 	3 	2 	1 	10 	0 	;
+Mic 	3 	2 	1 	11 	1 	who 	WP
+Mic 	3 	2 	1 	12 	1 	pluck 	NN
+Mic 	3 	2 	1 	13 	1 	off 	IN
+Mic 	3 	2 	1 	14 	1 	their 	PRP$
+Mic 	3 	2 	1 	15 	1 	skin 	NN
+Mic 	3 	2 	1 	16 	1 	from 	IN
+Mic 	3 	2 	1 	17 	1 	off 	IN
+Mic 	3 	2 	1 	18 	1 	them 	PRP
+Mic 	3 	2 	1 	19 	0 	,
+Mic 	3 	2 	1 	20 	1 	and 	CC
+Mic 	3 	2 	1 	21 	1 	their 	PRP$
+Mic 	3 	2 	1 	22 	1 	flesh 	NN
+Mic 	3 	2 	1 	23 	1 	from 	IN
+Mic 	3 	2 	1 	24 	1 	off 	IN
+Mic 	3 	2 	1 	25 	1 	their 	PRP$
+Mic 	3 	2 	1 	26 	1 	bones 	NNS
+Mic 	3 	2 	1 	27 	0 	;
+Mic 	3 	3 	1 	1 	1 	Who 	WP
+Mic 	3 	3 	1 	2 	1 	also 	RB
+Mic 	3 	3 	1 	3 	1 	eat 	NN
+Mic 	3 	3 	1 	4 	1 	the 	DT
+Mic 	3 	3 	1 	5 	1 	flesh 	NN
+Mic 	3 	3 	1 	6 	1 	of 	IN
+Mic 	3 	3 	1 	7 	1 	my 	PRP$
+Mic 	3 	3 	1 	8 	1 	people 	NNS
+Mic 	3 	3 	1 	9 	0 	,
+Mic 	3 	3 	1 	10 	1 	and 	CC
+Mic 	3 	3 	1 	11 	1 	flay 	NN
+Mic 	3 	3 	1 	12 	1 	their 	PRP$
+Mic 	3 	3 	1 	13 	1 	skin 	NN
+Mic 	3 	3 	1 	14 	1 	from 	IN
+Mic 	3 	3 	1 	15 	1 	off 	IN
+Mic 	3 	3 	1 	16 	1 	them 	PRP
+Mic 	3 	3 	1 	17 	0 	;
+Mic 	3 	3 	1 	18 	1 	and 	CC
+Mic 	3 	3 	1 	19 	1 	they 	PRP
+Mic 	3 	3 	1 	20 	1 	break 	NN
+Mic 	3 	3 	1 	21 	1 	their 	PRP$
+Mic 	3 	3 	1 	22 	1 	bones 	NNS
+Mic 	3 	3 	1 	23 	0 	,
+Mic 	3 	3 	1 	24 	1 	and 	CC
+Mic 	3 	3 	1 	25 	1 	chop 	NN
+Mic 	3 	3 	1 	26 	1 	them 	PRP
+Mic 	3 	3 	1 	27 	1 	in 	IN
+Mic 	3 	3 	1 	28 	1 	pieces 	NNS
+Mic 	3 	3 	1 	29 	0 	,
+Mic 	3 	3 	1 	30 	1 	as 	IN
+Mic 	3 	3 	1 	31 	1 	for 	IN
+Mic 	3 	3 	1 	32 	1 	the 	DT
+Mic 	3 	3 	1 	33 	1 	pot 	NN
+Mic 	3 	3 	1 	34 	0 	,
+Mic 	3 	3 	1 	35 	1 	and 	CC
+Mic 	3 	3 	1 	36 	1 	as 	IN
+Mic 	3 	3 	1 	37 	1 	flesh 	NN
+Mic 	3 	3 	1 	38 	1 	within 	IN
+Mic 	3 	3 	1 	39 	1 	the 	DT
+Mic 	3 	3 	1 	40 	1 	caldron 	NN
+Mic 	3 	3 	1 	41 	0 	.
+Mic 	3 	4 	1 	1 	1 	Then 	RB
+Mic 	3 	4 	1 	2 	1 	shall 	MD
+Mic 	3 	4 	1 	3 	1 	they 	PRP
+Mic 	3 	4 	1 	4 	1 	cry 	NN
+Mic 	3 	4 	1 	5 	1 	unto 	NN
+Mic 	3 	4 	1 	6 	1 	the 	DT
+Mic 	3 	4 	1 	7 	1 	LORD 	NN
+Mic 	3 	4 	1 	8 	0 	,
+Mic 	3 	4 	1 	9 	1 	but 	CC
+Mic 	3 	4 	1 	10 	1 	he 	PRP
+Mic 	3 	4 	1 	11 	1 	will 	MD
+Mic 	3 	4 	1 	12 	1 	not 	RB
+Mic 	3 	4 	1 	13 	1 	hear 	NN
+Mic 	3 	4 	1 	14 	1 	them 	PRP
+Mic 	3 	4 	1 	15 	0 	:
+Mic 	3 	4 	1 	16 	1 	he 	PRP
+Mic 	3 	4 	1 	17 	1 	will 	MD
+Mic 	3 	4 	1 	18 	1 	even 	RB
+Mic 	3 	4 	1 	19 	1 	hide 	NN
+Mic 	3 	4 	1 	20 	1 	his 	PRP$
+Mic 	3 	4 	1 	21 	1 	face 	NN
+Mic 	3 	4 	1 	22 	1 	from 	IN
+Mic 	3 	4 	1 	23 	1 	them 	PRP
+Mic 	3 	4 	1 	24 	1 	at 	IN
+Mic 	3 	4 	1 	25 	1 	that 	IN
+Mic 	3 	4 	1 	26 	1 	time 	NN
+Mic 	3 	4 	1 	27 	0 	,
+Mic 	3 	4 	1 	28 	1 	as 	IN
+Mic 	3 	4 	1 	29 	1 	they 	PRP
+Mic 	3 	4 	1 	30 	1 	have 	VB
+Mic 	3 	4 	1 	31 	1 	behaved 	VBN
+Mic 	3 	4 	1 	32 	1 	themselves 	PRP
+Mic 	3 	4 	1 	33 	1 	ill 	NN
+Mic 	3 	4 	1 	34 	1 	in 	IN
+Mic 	3 	4 	1 	35 	1 	their 	PRP$
+Mic 	3 	4 	1 	36 	1 	doings 	NNS
+Mic 	3 	4 	1 	37 	0 	.
+Mic 	3 	5 	1 	1 	1 	Thus 	RB
+Mic 	3 	5 	1 	2 	1 	saith 	NN
+Mic 	3 	5 	1 	3 	1 	the 	DT
+Mic 	3 	5 	1 	4 	1 	LORD 	NN
+Mic 	3 	5 	1 	5 	1 	concerning 	VBG
+Mic 	3 	5 	1 	6 	1 	the 	DT
+Mic 	3 	5 	1 	7 	1 	prophets 	NNS
+Mic 	3 	5 	1 	8 	1 	that 	IN
+Mic 	3 	5 	1 	9 	1 	make 	VB
+Mic 	3 	5 	1 	10 	1 	my 	PRP$
+Mic 	3 	5 	1 	11 	1 	people 	NNS
+Mic 	3 	5 	1 	12 	1 	err 	NN
+Mic 	3 	5 	1 	13 	0 	,
+Mic 	3 	5 	1 	14 	1 	that 	IN
+Mic 	3 	5 	1 	15 	1 	bite 	NN
+Mic 	3 	5 	1 	16 	1 	with 	IN
+Mic 	3 	5 	1 	17 	1 	their 	PRP$
+Mic 	3 	5 	1 	18 	1 	teeth 	NNS
+Mic 	3 	5 	1 	19 	0 	,
+Mic 	3 	5 	1 	20 	1 	and 	CC
+Mic 	3 	5 	1 	21 	1 	cry 	NN
+Mic 	3 	5 	1 	22 	0 	,
+Mic 	3 	5 	1 	23 	1 	Peace 	NN
+Mic 	3 	5 	1 	24 	0 	;
+Mic 	3 	5 	1 	25 	1 	and 	CC
+Mic 	3 	5 	1 	26 	1 	he 	PRP
+Mic 	3 	5 	1 	27 	1 	that 	IN
+Mic 	3 	5 	1 	28 	1 	putteth 	NN
+Mic 	3 	5 	1 	29 	1 	not 	RB
+Mic 	3 	5 	1 	30 	1 	into 	IN
+Mic 	3 	5 	1 	31 	1 	their 	PRP$
+Mic 	3 	5 	1 	32 	1 	mouths 	NNS
+Mic 	3 	5 	1 	33 	0 	,
+Mic 	3 	5 	1 	34 	1 	they 	PRP
+Mic 	3 	5 	1 	35 	1 	even 	RB
+Mic 	3 	5 	1 	36 	1 	prepare 	NN
+Mic 	3 	5 	1 	37 	1 	war 	NN
+Mic 	3 	5 	1 	38 	1 	against 	IN
+Mic 	3 	5 	1 	39 	1 	him 	PRP
+Mic 	3 	5 	1 	40 	0 	.
+Mic 	3 	6 	1 	1 	1 	Therefore 	RB
+Mic 	3 	6 	1 	2 	1 	night 	NN
+Mic 	3 	6 	1 	3 	1 	shall 	MD
+Mic 	3 	6 	1 	4 	1 	be 	VB
+Mic 	3 	6 	1 	5 	1 	unto 	NN
+Mic 	3 	6 	1 	6 	1 	you 	PRP
+Mic 	3 	6 	1 	7 	0 	,
+Mic 	3 	6 	1 	8 	1 	that 	IN
+Mic 	3 	6 	1 	9 	1 	ye 	NN
+Mic 	3 	6 	1 	10 	1 	shall 	MD
+Mic 	3 	6 	1 	11 	1 	not 	RB
+Mic 	3 	6 	1 	12 	1 	have 	VB
+Mic 	3 	6 	1 	13 	1 	a 	DT
+Mic 	3 	6 	1 	14 	1 	vision 	NN
+Mic 	3 	6 	1 	15 	0 	;
+Mic 	3 	6 	1 	16 	1 	and 	CC
+Mic 	3 	6 	1 	17 	1 	it 	PRP
+Mic 	3 	6 	1 	18 	1 	shall 	MD
+Mic 	3 	6 	1 	19 	1 	be 	VB
+Mic 	3 	6 	1 	20 	1 	dark 	NN
+Mic 	3 	6 	1 	21 	1 	unto 	NN
+Mic 	3 	6 	1 	22 	1 	you 	PRP
+Mic 	3 	6 	1 	23 	0 	,
+Mic 	3 	6 	1 	24 	1 	that 	IN
+Mic 	3 	6 	1 	25 	1 	ye 	NN
+Mic 	3 	6 	1 	26 	1 	shall 	MD
+Mic 	3 	6 	1 	27 	1 	not 	RB
+Mic 	3 	6 	1 	28 	1 	divine 	NN
+Mic 	3 	6 	1 	29 	0 	;
+Mic 	3 	6 	1 	30 	1 	and 	CC
+Mic 	3 	6 	1 	31 	1 	the 	DT
+Mic 	3 	6 	1 	32 	1 	sun 	NN
+Mic 	3 	6 	1 	33 	1 	shall 	MD
+Mic 	3 	6 	1 	34 	1 	go 	VB
+Mic 	3 	6 	1 	35 	1 	down 	RB
+Mic 	3 	6 	1 	36 	1 	over 	IN
+Mic 	3 	6 	1 	37 	1 	the 	DT
+Mic 	3 	6 	1 	38 	1 	prophets 	NNS
+Mic 	3 	6 	1 	39 	0 	,
+Mic 	3 	6 	1 	40 	1 	and 	CC
+Mic 	3 	6 	1 	41 	1 	the 	DT
+Mic 	3 	6 	1 	42 	1 	day 	NN
+Mic 	3 	6 	1 	43 	1 	shall 	MD
+Mic 	3 	6 	1 	44 	1 	be 	VB
+Mic 	3 	6 	1 	45 	1 	dark 	NN
+Mic 	3 	6 	1 	46 	1 	over 	IN
+Mic 	3 	6 	1 	47 	1 	them 	PRP
+Mic 	3 	6 	1 	48 	0 	.
+Mic 	3 	7 	1 	1 	1 	Then 	RB
+Mic 	3 	7 	1 	2 	1 	shall 	MD
+Mic 	3 	7 	1 	3 	1 	the 	DT
+Mic 	3 	7 	1 	4 	1 	seers 	NNS
+Mic 	3 	7 	1 	5 	1 	be 	VB
+Mic 	3 	7 	1 	6 	1 	ashamed 	VBN
+Mic 	3 	7 	1 	7 	0 	,
+Mic 	3 	7 	1 	8 	1 	and 	CC
+Mic 	3 	7 	1 	9 	1 	the 	DT
+Mic 	3 	7 	1 	10 	1 	diviners 	NNS
+Mic 	3 	7 	1 	11 	1 	confounded 	VBN
+Mic 	3 	7 	1 	12 	0 	:
+Mic 	3 	7 	1 	13 	1 	yea 	NN
+Mic 	3 	7 	1 	14 	0 	,
+Mic 	3 	7 	1 	15 	1 	they 	PRP
+Mic 	3 	7 	1 	16 	1 	shall 	MD
+Mic 	3 	7 	1 	17 	1 	all 	DT
+Mic 	3 	7 	1 	18 	1 	cover 	NN
+Mic 	3 	7 	1 	19 	1 	their 	PRP$
+Mic 	3 	7 	1 	20 	1 	lips 	NNS
+Mic 	3 	7 	1 	21 	0 	;
+Mic 	3 	7 	1 	22 	1 	for 	IN
+Mic 	3 	7 	1 	23 	1 	there 	RB
+Mic 	3 	7 	1 	24 	1 	is 	VBZ
+Mic 	3 	7 	1 	25 	1 	no 	DT
+Mic 	3 	7 	1 	26 	1 	answer 	NN
+Mic 	3 	7 	1 	27 	1 	of 	IN
+Mic 	3 	7 	1 	28 	1 	God 	NNP
+Mic 	3 	7 	1 	29 	0 	.
+Mic 	3 	8 	1 	1 	1 	But 	CC
+Mic 	3 	8 	1 	2 	1 	truly 	RB
+Mic 	3 	8 	1 	3 	1 	I 	PRP
+Mic 	3 	8 	1 	4 	1 	am 	VBP
+Mic 	3 	8 	1 	5 	1 	full 	JJ
+Mic 	3 	8 	1 	6 	1 	of 	IN
+Mic 	3 	8 	1 	7 	1 	power 	NN
+Mic 	3 	8 	1 	8 	1 	by 	IN
+Mic 	3 	8 	1 	9 	1 	the 	DT
+Mic 	3 	8 	1 	10 	1 	spirit 	NN
+Mic 	3 	8 	1 	11 	1 	of 	IN
+Mic 	3 	8 	1 	12 	1 	the 	DT
+Mic 	3 	8 	1 	13 	1 	LORD 	NN
+Mic 	3 	8 	1 	14 	0 	,
+Mic 	3 	8 	1 	15 	1 	and 	CC
+Mic 	3 	8 	1 	16 	1 	of 	IN
+Mic 	3 	8 	1 	17 	1 	judgment 	NN
+Mic 	3 	8 	1 	18 	0 	,
+Mic 	3 	8 	1 	19 	1 	and 	CC
+Mic 	3 	8 	1 	20 	1 	of 	IN
+Mic 	3 	8 	1 	21 	1 	might 	MD
+Mic 	3 	8 	1 	22 	0 	,
+Mic 	3 	8 	1 	23 	1 	to 	TO
+Mic 	3 	8 	1 	24 	1 	declare 	NN
+Mic 	3 	8 	1 	25 	1 	unto 	NN
+Mic 	3 	8 	1 	26 	1 	Jacob 	NN
+Mic 	3 	8 	1 	27 	1 	his 	PRP$
+Mic 	3 	8 	1 	28 	1 	transgression 	NN
+Mic 	3 	8 	1 	29 	0 	,
+Mic 	3 	8 	1 	30 	1 	and 	CC
+Mic 	3 	8 	1 	31 	1 	to 	TO
+Mic 	3 	8 	1 	32 	1 	Israel 	NNP
+Mic 	3 	8 	1 	33 	1 	his 	PRP$
+Mic 	3 	8 	1 	34 	1 	sin 	NN
+Mic 	3 	8 	1 	35 	0 	.
+Mic 	3 	9 	1 	1 	1 	Hear 	NN
+Mic 	3 	9 	1 	2 	1 	this 	DT
+Mic 	3 	9 	1 	3 	0 	,
+Mic 	3 	9 	1 	4 	1 	I 	PRP
+Mic 	3 	9 	1 	5 	1 	pray 	NN
+Mic 	3 	9 	1 	6 	1 	you 	PRP
+Mic 	3 	9 	1 	7 	0 	,
+Mic 	3 	9 	1 	8 	1 	ye 	NN
+Mic 	3 	9 	1 	9 	1 	heads 	NNS
+Mic 	3 	9 	1 	10 	1 	of 	IN
+Mic 	3 	9 	1 	11 	1 	the 	DT
+Mic 	3 	9 	1 	12 	1 	house 	NN
+Mic 	3 	9 	1 	13 	1 	of 	IN
+Mic 	3 	9 	1 	14 	1 	Jacob 	NN
+Mic 	3 	9 	1 	15 	0 	,
+Mic 	3 	9 	1 	16 	1 	and 	CC
+Mic 	3 	9 	1 	17 	1 	princes 	NNS
+Mic 	3 	9 	1 	18 	1 	of 	IN
+Mic 	3 	9 	1 	19 	1 	the 	DT
+Mic 	3 	9 	1 	20 	1 	house 	NN
+Mic 	3 	9 	1 	21 	1 	of 	IN
+Mic 	3 	9 	1 	22 	1 	Israel 	NNP
+Mic 	3 	9 	1 	23 	0 	,
+Mic 	3 	9 	1 	24 	1 	that 	IN
+Mic 	3 	9 	1 	25 	1 	abhor 	NN
+Mic 	3 	9 	1 	26 	1 	judgment 	NN
+Mic 	3 	9 	1 	27 	0 	,
+Mic 	3 	9 	1 	28 	1 	and 	CC
+Mic 	3 	9 	1 	29 	1 	pervert 	NN
+Mic 	3 	9 	1 	30 	1 	all 	DT
+Mic 	3 	9 	1 	31 	1 	equity 	NN
+Mic 	3 	9 	1 	32 	0 	.
+Mic 	3 	10 	1 	1 	1 	They 	PRP
+Mic 	3 	10 	1 	2 	1 	build 	NN
+Mic 	3 	10 	1 	3 	1 	up 	RB
+Mic 	3 	10 	1 	4 	1 	Zion 	NN
+Mic 	3 	10 	1 	5 	1 	with 	IN
+Mic 	3 	10 	1 	6 	1 	blood 	NN
+Mic 	3 	10 	1 	7 	0 	,
+Mic 	3 	10 	1 	8 	1 	and 	CC
+Mic 	3 	10 	1 	9 	1 	Jerusalem 	NN
+Mic 	3 	10 	1 	10 	1 	with 	IN
+Mic 	3 	10 	1 	11 	1 	iniquity 	NN
+Mic 	3 	10 	1 	12 	0 	.
+Mic 	3 	11 	1 	1 	1 	The 	DT
+Mic 	3 	11 	1 	2 	1 	heads 	NNS
+Mic 	3 	11 	1 	3 	1 	thereof 	NN
+Mic 	3 	11 	1 	4 	1 	judge 	NN
+Mic 	3 	11 	1 	5 	1 	for 	IN
+Mic 	3 	11 	1 	6 	1 	reward 	NN
+Mic 	3 	11 	1 	7 	0 	,
+Mic 	3 	11 	1 	8 	1 	and 	CC
+Mic 	3 	11 	1 	9 	1 	the 	DT
+Mic 	3 	11 	1 	10 	1 	priests 	NNS
+Mic 	3 	11 	1 	11 	1 	thereof 	NN
+Mic 	3 	11 	1 	12 	1 	teach 	NN
+Mic 	3 	11 	1 	13 	1 	for 	IN
+Mic 	3 	11 	1 	14 	1 	hire 	NN
+Mic 	3 	11 	1 	15 	0 	,
+Mic 	3 	11 	1 	16 	1 	and 	CC
+Mic 	3 	11 	1 	17 	1 	the 	DT
+Mic 	3 	11 	1 	18 	1 	prophets 	NNS
+Mic 	3 	11 	1 	19 	1 	thereof 	NN
+Mic 	3 	11 	1 	20 	1 	divine 	NN
+Mic 	3 	11 	1 	21 	1 	for 	IN
+Mic 	3 	11 	1 	22 	1 	money 	NN
+Mic 	3 	11 	1 	23 	0 	:
+Mic 	3 	11 	1 	24 	1 	yet 	RB
+Mic 	3 	11 	1 	25 	1 	will 	MD
+Mic 	3 	11 	1 	26 	1 	they 	PRP
+Mic 	3 	11 	1 	27 	1 	lean 	NN
+Mic 	3 	11 	1 	28 	1 	upon 	IN
+Mic 	3 	11 	1 	29 	1 	the 	DT
+Mic 	3 	11 	1 	30 	1 	LORD 	NN
+Mic 	3 	11 	1 	31 	0 	,
+Mic 	3 	11 	1 	32 	1 	and 	CC
+Mic 	3 	11 	1 	33 	1 	say 	VB
+Mic 	3 	11 	1 	34 	0 	,
+Mic 	3 	11 	1 	35 	1 	Is 	NN
+Mic 	3 	11 	1 	36 	1 	not 	RB
+Mic 	3 	11 	1 	37 	1 	the 	DT
+Mic 	3 	11 	1 	38 	1 	LORD 	NN
+Mic 	3 	11 	1 	39 	1 	among 	IN
+Mic 	3 	11 	1 	40 	1 	us 	PRP
+Mic 	3 	11 	1 	41 	0 	?
+Mic 	3 	11 	2 	1 	1 	none 	NN
+Mic 	3 	11 	2 	2 	1 	evil 	NN
+Mic 	3 	11 	2 	3 	1 	can 	MD
+Mic 	3 	11 	2 	4 	1 	come 	VB
+Mic 	3 	11 	2 	5 	1 	upon 	IN
+Mic 	3 	11 	2 	6 	1 	us 	PRP
+Mic 	3 	11 	2 	7 	0 	.
+Mic 	3 	12 	1 	1 	1 	Therefore 	RB
+Mic 	3 	12 	1 	2 	1 	shall 	MD
+Mic 	3 	12 	1 	3 	1 	Zion 	NN
+Mic 	3 	12 	1 	4 	1 	for 	IN
+Mic 	3 	12 	1 	5 	1 	your 	PRP$
+Mic 	3 	12 	1 	6 	1 	sake 	NN
+Mic 	3 	12 	1 	7 	1 	be 	VB
+Mic 	3 	12 	1 	8 	1 	plowed 	VBN
+Mic 	3 	12 	1 	9 	1 	as 	IN
+Mic 	3 	12 	1 	10 	1 	a 	DT
+Mic 	3 	12 	1 	11 	1 	field 	NN
+Mic 	3 	12 	1 	12 	0 	,
+Mic 	3 	12 	1 	13 	1 	and 	CC
+Mic 	3 	12 	1 	14 	1 	Jerusalem 	NN
+Mic 	3 	12 	1 	15 	1 	shall 	MD
+Mic 	3 	12 	1 	16 	1 	become 	NN
+Mic 	3 	12 	1 	17 	1 	heaps 	NNS
+Mic 	3 	12 	1 	18 	0 	,
+Mic 	3 	12 	1 	19 	1 	and 	CC
+Mic 	3 	12 	1 	20 	1 	the 	DT
+Mic 	3 	12 	1 	21 	1 	mountain 	NN
+Mic 	3 	12 	1 	22 	1 	of 	IN
+Mic 	3 	12 	1 	23 	1 	the 	DT
+Mic 	3 	12 	1 	24 	1 	house 	NN
+Mic 	3 	12 	1 	25 	1 	as 	IN
+Mic 	3 	12 	1 	26 	1 	the 	DT
+Mic 	3 	12 	1 	27 	1 	high 	JJ
+Mic 	3 	12 	1 	28 	1 	places 	NNS
+Mic 	3 	12 	1 	29 	1 	of 	IN
+Mic 	3 	12 	1 	30 	1 	the 	DT
+Mic 	3 	12 	1 	31 	1 	forest 	NN
+Mic 	3 	12 	1 	32 	0 	.
+Mic 	4 	1 	1 	1 	1 	But 	CC
+Mic 	4 	1 	1 	2 	1 	in 	IN
+Mic 	4 	1 	1 	3 	1 	the 	DT
+Mic 	4 	1 	1 	4 	1 	last 	JJ
+Mic 	4 	1 	1 	5 	1 	days 	NNS
+Mic 	4 	1 	1 	6 	1 	it 	PRP
+Mic 	4 	1 	1 	7 	1 	shall 	MD
+Mic 	4 	1 	1 	8 	1 	come 	VB
+Mic 	4 	1 	1 	9 	1 	to 	TO
+Mic 	4 	1 	1 	10 	1 	pass 	NN
+Mic 	4 	1 	1 	11 	0 	,
+Mic 	4 	1 	1 	12 	1 	that 	IN
+Mic 	4 	1 	1 	13 	1 	the 	DT
+Mic 	4 	1 	1 	14 	1 	mountain 	NN
+Mic 	4 	1 	1 	15 	1 	of 	IN
+Mic 	4 	1 	1 	16 	1 	the 	DT
+Mic 	4 	1 	1 	17 	1 	house 	NN
+Mic 	4 	1 	1 	18 	1 	of 	IN
+Mic 	4 	1 	1 	19 	1 	the 	DT
+Mic 	4 	1 	1 	20 	1 	LORD 	NN
+Mic 	4 	1 	1 	21 	1 	shall 	MD
+Mic 	4 	1 	1 	22 	1 	be 	VB
+Mic 	4 	1 	1 	23 	1 	established 	VBN
+Mic 	4 	1 	1 	24 	1 	in 	IN
+Mic 	4 	1 	1 	25 	1 	the 	DT
+Mic 	4 	1 	1 	26 	1 	top 	NN
+Mic 	4 	1 	1 	27 	1 	of 	IN
+Mic 	4 	1 	1 	28 	1 	the 	DT
+Mic 	4 	1 	1 	29 	1 	mountains 	NNS
+Mic 	4 	1 	1 	30 	0 	,
+Mic 	4 	1 	1 	31 	1 	and 	CC
+Mic 	4 	1 	1 	32 	1 	it 	PRP
+Mic 	4 	1 	1 	33 	1 	shall 	MD
+Mic 	4 	1 	1 	34 	1 	be 	VB
+Mic 	4 	1 	1 	35 	1 	exalted 	VBN
+Mic 	4 	1 	1 	36 	1 	above 	IN
+Mic 	4 	1 	1 	37 	1 	the 	DT
+Mic 	4 	1 	1 	38 	1 	hills 	NNS
+Mic 	4 	1 	1 	39 	0 	;
+Mic 	4 	1 	1 	40 	1 	and 	CC
+Mic 	4 	1 	1 	41 	1 	people 	NNS
+Mic 	4 	1 	1 	42 	1 	shall 	MD
+Mic 	4 	1 	1 	43 	1 	flow 	NN
+Mic 	4 	1 	1 	44 	1 	unto 	NN
+Mic 	4 	1 	1 	45 	1 	it 	PRP
+Mic 	4 	1 	1 	46 	0 	.
+Mic 	4 	2 	1 	1 	1 	And 	CC
+Mic 	4 	2 	1 	2 	1 	many 	JJ
+Mic 	4 	2 	1 	3 	1 	nations 	NNS
+Mic 	4 	2 	1 	4 	1 	shall 	MD
+Mic 	4 	2 	1 	5 	1 	come 	VB
+Mic 	4 	2 	1 	6 	0 	,
+Mic 	4 	2 	1 	7 	1 	and 	CC
+Mic 	4 	2 	1 	8 	1 	say 	VB
+Mic 	4 	2 	1 	9 	0 	,
+Mic 	4 	2 	1 	10 	1 	Come 	VB
+Mic 	4 	2 	1 	11 	0 	,
+Mic 	4 	2 	1 	12 	1 	and 	CC
+Mic 	4 	2 	1 	13 	1 	let 	VB
+Mic 	4 	2 	1 	14 	1 	us 	PRP
+Mic 	4 	2 	1 	15 	1 	go 	VB
+Mic 	4 	2 	1 	16 	1 	up 	RB
+Mic 	4 	2 	1 	17 	1 	to 	TO
+Mic 	4 	2 	1 	18 	1 	the 	DT
+Mic 	4 	2 	1 	19 	1 	mountain 	NN
+Mic 	4 	2 	1 	20 	1 	of 	IN
+Mic 	4 	2 	1 	21 	1 	the 	DT
+Mic 	4 	2 	1 	22 	1 	LORD 	NN
+Mic 	4 	2 	1 	23 	0 	,
+Mic 	4 	2 	1 	24 	1 	and 	CC
+Mic 	4 	2 	1 	25 	1 	to 	TO
+Mic 	4 	2 	1 	26 	1 	the 	DT
+Mic 	4 	2 	1 	27 	1 	house 	NN
+Mic 	4 	2 	1 	28 	1 	of 	IN
+Mic 	4 	2 	1 	29 	1 	the 	DT
+Mic 	4 	2 	1 	30 	1 	God 	NNP
+Mic 	4 	2 	1 	31 	1 	of 	IN
+Mic 	4 	2 	1 	32 	1 	Jacob 	NN
+Mic 	4 	2 	1 	33 	0 	;
+Mic 	4 	2 	1 	34 	1 	and 	CC
+Mic 	4 	2 	1 	35 	1 	he 	PRP
+Mic 	4 	2 	1 	36 	1 	will 	MD
+Mic 	4 	2 	1 	37 	1 	teach 	NN
+Mic 	4 	2 	1 	38 	1 	us 	PRP
+Mic 	4 	2 	1 	39 	1 	of 	IN
+Mic 	4 	2 	1 	40 	1 	his 	PRP$
+Mic 	4 	2 	1 	41 	1 	ways 	NNS
+Mic 	4 	2 	1 	42 	0 	,
+Mic 	4 	2 	1 	43 	1 	and 	CC
+Mic 	4 	2 	1 	44 	1 	we 	PRP
+Mic 	4 	2 	1 	45 	1 	will 	MD
+Mic 	4 	2 	1 	46 	1 	walk 	NN
+Mic 	4 	2 	1 	47 	1 	in 	IN
+Mic 	4 	2 	1 	48 	1 	his 	PRP$
+Mic 	4 	2 	1 	49 	1 	paths 	NNS
+Mic 	4 	2 	1 	50 	0 	:
+Mic 	4 	2 	1 	51 	1 	for 	IN
+Mic 	4 	2 	1 	52 	1 	the 	DT
+Mic 	4 	2 	1 	53 	1 	law 	NN
+Mic 	4 	2 	1 	54 	1 	shall 	MD
+Mic 	4 	2 	1 	55 	1 	go 	VB
+Mic 	4 	2 	1 	56 	1 	forth 	NN
+Mic 	4 	2 	1 	57 	1 	of 	IN
+Mic 	4 	2 	1 	58 	1 	Zion 	NN
+Mic 	4 	2 	1 	59 	0 	,
+Mic 	4 	2 	1 	60 	1 	and 	CC
+Mic 	4 	2 	1 	61 	1 	the 	DT
+Mic 	4 	2 	1 	62 	1 	word 	NN
+Mic 	4 	2 	1 	63 	1 	of 	IN
+Mic 	4 	2 	1 	64 	1 	the 	DT
+Mic 	4 	2 	1 	65 	1 	LORD 	NN
+Mic 	4 	2 	1 	66 	1 	from 	IN
+Mic 	4 	2 	1 	67 	1 	Jerusalem 	NN
+Mic 	4 	2 	1 	68 	0 	.
+Mic 	4 	3 	1 	1 	1 	And 	CC
+Mic 	4 	3 	1 	2 	1 	he 	PRP
+Mic 	4 	3 	1 	3 	1 	shall 	MD
+Mic 	4 	3 	1 	4 	1 	judge 	NN
+Mic 	4 	3 	1 	5 	1 	among 	IN
+Mic 	4 	3 	1 	6 	1 	many 	JJ
+Mic 	4 	3 	1 	7 	1 	people 	NNS
+Mic 	4 	3 	1 	8 	0 	,
+Mic 	4 	3 	1 	9 	1 	and 	CC
+Mic 	4 	3 	1 	10 	1 	rebuke 	NN
+Mic 	4 	3 	1 	11 	1 	strong 	JJ
+Mic 	4 	3 	1 	12 	1 	nations 	NNS
+Mic 	4 	3 	1 	13 	1 	afar 	NN
+Mic 	4 	3 	1 	14 	1 	off 	IN
+Mic 	4 	3 	1 	15 	0 	;
+Mic 	4 	3 	1 	16 	1 	and 	CC
+Mic 	4 	3 	1 	17 	1 	they 	PRP
+Mic 	4 	3 	1 	18 	1 	shall 	MD
+Mic 	4 	3 	1 	19 	1 	beat 	NN
+Mic 	4 	3 	1 	20 	1 	their 	PRP$
+Mic 	4 	3 	1 	21 	1 	swords 	NNS
+Mic 	4 	3 	1 	22 	1 	into 	IN
+Mic 	4 	3 	1 	23 	1 	plowshares 	NNS
+Mic 	4 	3 	1 	24 	0 	,
+Mic 	4 	3 	1 	25 	1 	and 	CC
+Mic 	4 	3 	1 	26 	1 	their 	PRP$
+Mic 	4 	3 	1 	27 	1 	spears 	NNS
+Mic 	4 	3 	1 	28 	1 	into 	IN
+Mic 	4 	3 	1 	29 	1 	pruninghooks 	NNS
+Mic 	4 	3 	1 	30 	0 	:
+Mic 	4 	3 	1 	31 	1 	nation 	NN
+Mic 	4 	3 	1 	32 	1 	shall 	MD
+Mic 	4 	3 	1 	33 	1 	not 	RB
+Mic 	4 	3 	1 	34 	1 	lift 	NN
+Mic 	4 	3 	1 	35 	1 	up 	RB
+Mic 	4 	3 	1 	36 	1 	a 	DT
+Mic 	4 	3 	1 	37 	1 	sword 	NN
+Mic 	4 	3 	1 	38 	1 	against 	IN
+Mic 	4 	3 	1 	39 	1 	nation 	NN
+Mic 	4 	3 	1 	40 	0 	,
+Mic 	4 	3 	1 	41 	1 	neither 	DT
+Mic 	4 	3 	1 	42 	1 	shall 	MD
+Mic 	4 	3 	1 	43 	1 	they 	PRP
+Mic 	4 	3 	1 	44 	1 	learn 	NN
+Mic 	4 	3 	1 	45 	1 	war 	NN
+Mic 	4 	3 	1 	46 	1 	any 	DT
+Mic 	4 	3 	1 	47 	1 	more 	RBR
+Mic 	4 	3 	1 	48 	0 	.
+Mic 	4 	4 	1 	1 	1 	But 	CC
+Mic 	4 	4 	1 	2 	1 	they 	PRP
+Mic 	4 	4 	1 	3 	1 	shall 	MD
+Mic 	4 	4 	1 	4 	1 	sit 	NN
+Mic 	4 	4 	1 	5 	1 	every 	DT
+Mic 	4 	4 	1 	6 	1 	man 	NN
+Mic 	4 	4 	1 	7 	1 	under 	IN
+Mic 	4 	4 	1 	8 	1 	his 	PRP$
+Mic 	4 	4 	1 	9 	1 	vine 	NN
+Mic 	4 	4 	1 	10 	1 	and 	CC
+Mic 	4 	4 	1 	11 	1 	under 	IN
+Mic 	4 	4 	1 	12 	1 	his 	PRP$
+Mic 	4 	4 	1 	13 	1 	fig 	NN
+Mic 	4 	4 	1 	14 	1 	tree 	NN
+Mic 	4 	4 	1 	15 	0 	;
+Mic 	4 	4 	1 	16 	1 	and 	CC
+Mic 	4 	4 	1 	17 	1 	none 	NN
+Mic 	4 	4 	1 	18 	1 	shall 	MD
+Mic 	4 	4 	1 	19 	1 	make 	VB
+Mic 	4 	4 	1 	20 	1 	them 	PRP
+Mic 	4 	4 	1 	21 	1 	afraid 	NN
+Mic 	4 	4 	1 	22 	0 	:
+Mic 	4 	4 	1 	23 	1 	for 	IN
+Mic 	4 	4 	1 	24 	1 	the 	DT
+Mic 	4 	4 	1 	25 	1 	mouth 	NN
+Mic 	4 	4 	1 	26 	1 	of 	IN
+Mic 	4 	4 	1 	27 	1 	the 	DT
+Mic 	4 	4 	1 	28 	1 	LORD 	NN
+Mic 	4 	4 	1 	29 	1 	of 	IN
+Mic 	4 	4 	1 	30 	1 	hosts 	NNS
+Mic 	4 	4 	1 	31 	1 	hath 	NN
+Mic 	4 	4 	1 	32 	1 	spoken 	NN
+Mic 	4 	4 	1 	33 	1 	it 	PRP
+Mic 	4 	4 	1 	34 	0 	.
+Mic 	4 	5 	1 	1 	1 	For 	IN
+Mic 	4 	5 	1 	2 	1 	all 	DT
+Mic 	4 	5 	1 	3 	1 	people 	NNS
+Mic 	4 	5 	1 	4 	1 	will 	MD
+Mic 	4 	5 	1 	5 	1 	walk 	NN
+Mic 	4 	5 	1 	6 	1 	every 	DT
+Mic 	4 	5 	1 	7 	1 	one 	CD
+Mic 	4 	5 	1 	8 	1 	in 	IN
+Mic 	4 	5 	1 	9 	1 	the 	DT
+Mic 	4 	5 	1 	10 	1 	name 	NN
+Mic 	4 	5 	1 	11 	1 	of 	IN
+Mic 	4 	5 	1 	12 	1 	his 	PRP$
+Mic 	4 	5 	1 	13 	1 	god 	NN
+Mic 	4 	5 	1 	14 	0 	,
+Mic 	4 	5 	1 	15 	1 	and 	CC
+Mic 	4 	5 	1 	16 	1 	we 	PRP
+Mic 	4 	5 	1 	17 	1 	will 	MD
+Mic 	4 	5 	1 	18 	1 	walk 	NN
+Mic 	4 	5 	1 	19 	1 	in 	IN
+Mic 	4 	5 	1 	20 	1 	the 	DT
+Mic 	4 	5 	1 	21 	1 	name 	NN
+Mic 	4 	5 	1 	22 	1 	of 	IN
+Mic 	4 	5 	1 	23 	1 	the 	DT
+Mic 	4 	5 	1 	24 	1 	LORD 	NN
+Mic 	4 	5 	1 	25 	1 	our 	PRP$
+Mic 	4 	5 	1 	26 	1 	God 	NNP
+Mic 	4 	5 	1 	27 	1 	for 	IN
+Mic 	4 	5 	1 	28 	1 	ever 	RB
+Mic 	4 	5 	1 	29 	1 	and 	CC
+Mic 	4 	5 	1 	30 	1 	ever 	RB
+Mic 	4 	5 	1 	31 	0 	.
+Mic 	4 	6 	1 	1 	1 	In 	IN
+Mic 	4 	6 	1 	2 	1 	that 	IN
+Mic 	4 	6 	1 	3 	1 	day 	NN
+Mic 	4 	6 	1 	4 	0 	,
+Mic 	4 	6 	1 	5 	1 	saith 	NN
+Mic 	4 	6 	1 	6 	1 	the 	DT
+Mic 	4 	6 	1 	7 	1 	LORD 	NN
+Mic 	4 	6 	1 	8 	0 	,
+Mic 	4 	6 	1 	9 	1 	will 	MD
+Mic 	4 	6 	1 	10 	1 	I 	PRP
+Mic 	4 	6 	1 	11 	1 	assemble 	JJ
+Mic 	4 	6 	1 	12 	1 	her 	PRP$
+Mic 	4 	6 	1 	13 	1 	that 	IN
+Mic 	4 	6 	1 	14 	1 	halteth 	NN
+Mic 	4 	6 	1 	15 	0 	,
+Mic 	4 	6 	1 	16 	1 	and 	CC
+Mic 	4 	6 	1 	17 	1 	I 	PRP
+Mic 	4 	6 	1 	18 	1 	will 	MD
+Mic 	4 	6 	1 	19 	1 	gather 	NN
+Mic 	4 	6 	1 	20 	1 	her 	PRP$
+Mic 	4 	6 	1 	21 	1 	that 	IN
+Mic 	4 	6 	1 	22 	1 	is 	VBZ
+Mic 	4 	6 	1 	23 	1 	driven 	NN
+Mic 	4 	6 	1 	24 	1 	out 	IN
+Mic 	4 	6 	1 	25 	0 	,
+Mic 	4 	6 	1 	26 	1 	and 	CC
+Mic 	4 	6 	1 	27 	1 	her 	PRP$
+Mic 	4 	6 	1 	28 	1 	that 	IN
+Mic 	4 	6 	1 	29 	1 	I 	PRP
+Mic 	4 	6 	1 	30 	1 	have 	VB
+Mic 	4 	6 	1 	31 	1 	afflicted 	VBN
+Mic 	4 	6 	1 	32 	0 	;
+Mic 	4 	7 	1 	1 	1 	And 	CC
+Mic 	4 	7 	1 	2 	1 	I 	PRP
+Mic 	4 	7 	1 	3 	1 	will 	MD
+Mic 	4 	7 	1 	4 	1 	make 	VB
+Mic 	4 	7 	1 	5 	1 	her 	PRP$
+Mic 	4 	7 	1 	6 	1 	that 	IN
+Mic 	4 	7 	1 	7 	1 	halted 	VBN
+Mic 	4 	7 	1 	8 	1 	a 	DT
+Mic 	4 	7 	1 	9 	1 	remnant 	NN
+Mic 	4 	7 	1 	10 	0 	,
+Mic 	4 	7 	1 	11 	1 	and 	CC
+Mic 	4 	7 	1 	12 	1 	her 	PRP$
+Mic 	4 	7 	1 	13 	1 	that 	IN
+Mic 	4 	7 	1 	14 	1 	was 	VBD
+Mic 	4 	7 	1 	15 	1 	cast 	NN
+Mic 	4 	7 	1 	16 	1 	far 	RB
+Mic 	4 	7 	1 	17 	1 	off 	IN
+Mic 	4 	7 	1 	18 	1 	a 	DT
+Mic 	4 	7 	1 	19 	1 	strong 	JJ
+Mic 	4 	7 	1 	20 	1 	nation 	NN
+Mic 	4 	7 	1 	21 	0 	:
+Mic 	4 	7 	1 	22 	1 	and 	CC
+Mic 	4 	7 	1 	23 	1 	the 	DT
+Mic 	4 	7 	1 	24 	1 	LORD 	NN
+Mic 	4 	7 	1 	25 	1 	shall 	MD
+Mic 	4 	7 	1 	26 	1 	reign 	NN
+Mic 	4 	7 	1 	27 	1 	over 	IN
+Mic 	4 	7 	1 	28 	1 	them 	PRP
+Mic 	4 	7 	1 	29 	1 	in 	IN
+Mic 	4 	7 	1 	30 	1 	mount 	NN
+Mic 	4 	7 	1 	31 	1 	Zion 	NN
+Mic 	4 	7 	1 	32 	1 	from 	IN
+Mic 	4 	7 	1 	33 	1 	henceforth 	NN
+Mic 	4 	7 	1 	34 	0 	,
+Mic 	4 	7 	1 	35 	1 	even 	RB
+Mic 	4 	7 	1 	36 	1 	for 	IN
+Mic 	4 	7 	1 	37 	1 	ever 	RB
+Mic 	4 	7 	1 	38 	0 	.
+Mic 	4 	8 	1 	1 	1 	And 	CC
+Mic 	4 	8 	1 	2 	1 	thou 	NN
+Mic 	4 	8 	1 	3 	0 	,
+Mic 	4 	8 	1 	4 	1 	O 	NN
+Mic 	4 	8 	1 	5 	1 	tower 	NN
+Mic 	4 	8 	1 	6 	1 	of 	IN
+Mic 	4 	8 	1 	7 	1 	the 	DT
+Mic 	4 	8 	1 	8 	1 	flock 	NN
+Mic 	4 	8 	1 	9 	0 	,
+Mic 	4 	8 	1 	10 	1 	the 	DT
+Mic 	4 	8 	1 	11 	1 	strong 	JJ
+Mic 	4 	8 	1 	12 	1 	hold 	NN
+Mic 	4 	8 	1 	13 	1 	of 	IN
+Mic 	4 	8 	1 	14 	1 	the 	DT
+Mic 	4 	8 	1 	15 	1 	daughter 	NN
+Mic 	4 	8 	1 	16 	1 	of 	IN
+Mic 	4 	8 	1 	17 	1 	Zion 	NN
+Mic 	4 	8 	1 	18 	0 	,
+Mic 	4 	8 	1 	19 	1 	unto 	NN
+Mic 	4 	8 	1 	20 	1 	thee 	NN
+Mic 	4 	8 	1 	21 	1 	shall 	MD
+Mic 	4 	8 	1 	22 	1 	it 	PRP
+Mic 	4 	8 	1 	23 	1 	come 	VB
+Mic 	4 	8 	1 	24 	0 	,
+Mic 	4 	8 	1 	25 	1 	even 	RB
+Mic 	4 	8 	1 	26 	1 	the 	DT
+Mic 	4 	8 	1 	27 	1 	first 	RB
+Mic 	4 	8 	1 	28 	1 	dominion 	NN
+Mic 	4 	8 	1 	29 	0 	;
+Mic 	4 	8 	1 	30 	1 	the 	DT
+Mic 	4 	8 	1 	31 	1 	kingdom 	NN
+Mic 	4 	8 	1 	32 	1 	shall 	MD
+Mic 	4 	8 	1 	33 	1 	come 	VB
+Mic 	4 	8 	1 	34 	1 	to 	TO
+Mic 	4 	8 	1 	35 	1 	the 	DT
+Mic 	4 	8 	1 	36 	1 	daughter 	NN
+Mic 	4 	8 	1 	37 	1 	of 	IN
+Mic 	4 	8 	1 	38 	1 	Jerusalem 	NN
+Mic 	4 	8 	1 	39 	0 	.
+Mic 	4 	9 	1 	1 	1 	Now 	RB
+Mic 	4 	9 	1 	2 	1 	why 	WRB
+Mic 	4 	9 	1 	3 	1 	dost 	NN
+Mic 	4 	9 	1 	4 	1 	thou 	NN
+Mic 	4 	9 	1 	5 	1 	cry 	NN
+Mic 	4 	9 	1 	6 	1 	out 	IN
+Mic 	4 	9 	1 	7 	1 	aloud 	NN
+Mic 	4 	9 	1 	8 	0 	?
+Mic 	4 	9 	2 	1 	1 	is 	VBZ
+Mic 	4 	9 	2 	2 	1 	there 	RB
+Mic 	4 	9 	2 	3 	1 	no 	DT
+Mic 	4 	9 	2 	4 	1 	king 	NN
+Mic 	4 	9 	2 	5 	1 	in 	IN
+Mic 	4 	9 	2 	6 	1 	thee 	NN
+Mic 	4 	9 	2 	7 	0 	?
+Mic 	4 	9 	3 	1 	1 	is 	VBZ
+Mic 	4 	9 	3 	2 	1 	thy 	NN
+Mic 	4 	9 	3 	3 	1 	counsellor 	NN
+Mic 	4 	9 	3 	4 	1 	perished 	VBN
+Mic 	4 	9 	3 	5 	0 	?
+Mic 	4 	9 	4 	1 	1 	for 	IN
+Mic 	4 	9 	4 	2 	1 	pangs 	NNS
+Mic 	4 	9 	4 	3 	1 	have 	VB
+Mic 	4 	9 	4 	4 	1 	taken 	VBN
+Mic 	4 	9 	4 	5 	1 	thee 	NN
+Mic 	4 	9 	4 	6 	1 	as 	IN
+Mic 	4 	9 	4 	7 	1 	a 	DT
+Mic 	4 	9 	4 	8 	1 	woman 	NN
+Mic 	4 	9 	4 	9 	1 	in 	IN
+Mic 	4 	9 	4 	10 	1 	travail 	NN
+Mic 	4 	9 	4 	11 	0 	.
+Mic 	4 	10 	1 	1 	1 	Be 	VB
+Mic 	4 	10 	1 	2 	1 	in 	IN
+Mic 	4 	10 	1 	3 	1 	pain 	NN
+Mic 	4 	10 	1 	4 	0 	,
+Mic 	4 	10 	1 	5 	1 	and 	CC
+Mic 	4 	10 	1 	6 	1 	labour 	NN
+Mic 	4 	10 	1 	7 	1 	to 	TO
+Mic 	4 	10 	1 	8 	1 	bring 	NN
+Mic 	4 	10 	1 	9 	1 	forth 	NN
+Mic 	4 	10 	1 	10 	0 	,
+Mic 	4 	10 	1 	11 	1 	O 	NN
+Mic 	4 	10 	1 	12 	1 	daughter 	NN
+Mic 	4 	10 	1 	13 	1 	of 	IN
+Mic 	4 	10 	1 	14 	1 	Zion 	NN
+Mic 	4 	10 	1 	15 	0 	,
+Mic 	4 	10 	1 	16 	1 	like 	IN
+Mic 	4 	10 	1 	17 	1 	a 	DT
+Mic 	4 	10 	1 	18 	1 	woman 	NN
+Mic 	4 	10 	1 	19 	1 	in 	IN
+Mic 	4 	10 	1 	20 	1 	travail 	NN
+Mic 	4 	10 	1 	21 	0 	:
+Mic 	4 	10 	1 	22 	1 	for 	IN
+Mic 	4 	10 	1 	23 	1 	now 	RB
+Mic 	4 	10 	1 	24 	1 	shalt 	NN
+Mic 	4 	10 	1 	25 	1 	thou 	NN
+Mic 	4 	10 	1 	26 	1 	go 	VB
+Mic 	4 	10 	1 	27 	1 	forth 	NN
+Mic 	4 	10 	1 	28 	1 	out 	IN
+Mic 	4 	10 	1 	29 	1 	of 	IN
+Mic 	4 	10 	1 	30 	1 	the 	DT
+Mic 	4 	10 	1 	31 	1 	city 	NN
+Mic 	4 	10 	1 	32 	0 	,
+Mic 	4 	10 	1 	33 	1 	and 	CC
+Mic 	4 	10 	1 	34 	1 	thou 	NN
+Mic 	4 	10 	1 	35 	1 	shalt 	NN
+Mic 	4 	10 	1 	36 	1 	dwell 	NN
+Mic 	4 	10 	1 	37 	1 	in 	IN
+Mic 	4 	10 	1 	38 	1 	the 	DT
+Mic 	4 	10 	1 	39 	1 	field 	NN
+Mic 	4 	10 	1 	40 	0 	,
+Mic 	4 	10 	1 	41 	1 	and 	CC
+Mic 	4 	10 	1 	42 	1 	thou 	NN
+Mic 	4 	10 	1 	43 	1 	shalt 	NN
+Mic 	4 	10 	1 	44 	1 	go 	VB
+Mic 	4 	10 	1 	45 	1 	even 	RB
+Mic 	4 	10 	1 	46 	1 	to 	TO
+Mic 	4 	10 	1 	47 	1 	Babylon 	NN
+Mic 	4 	10 	1 	48 	0 	;
+Mic 	4 	10 	1 	49 	1 	there 	RB
+Mic 	4 	10 	1 	50 	1 	shalt 	NN
+Mic 	4 	10 	1 	51 	1 	thou 	NN
+Mic 	4 	10 	1 	52 	1 	be 	VB
+Mic 	4 	10 	1 	53 	1 	delivered 	VBN
+Mic 	4 	10 	1 	54 	0 	;
+Mic 	4 	10 	1 	55 	1 	there 	RB
+Mic 	4 	10 	1 	56 	1 	the 	DT
+Mic 	4 	10 	1 	57 	1 	LORD 	NN
+Mic 	4 	10 	1 	58 	1 	shall 	MD
+Mic 	4 	10 	1 	59 	1 	redeem 	NN
+Mic 	4 	10 	1 	60 	1 	thee 	NN
+Mic 	4 	10 	1 	61 	1 	from 	IN
+Mic 	4 	10 	1 	62 	1 	the 	DT
+Mic 	4 	10 	1 	63 	1 	hand 	NN
+Mic 	4 	10 	1 	64 	1 	of 	IN
+Mic 	4 	10 	1 	65 	1 	thine 	NN
+Mic 	4 	10 	1 	66 	1 	enemies 	NNS
+Mic 	4 	10 	1 	67 	0 	.
+Mic 	4 	11 	1 	1 	1 	Now 	RB
+Mic 	4 	11 	1 	2 	1 	also 	RB
+Mic 	4 	11 	1 	3 	1 	many 	JJ
+Mic 	4 	11 	1 	4 	1 	nations 	NNS
+Mic 	4 	11 	1 	5 	1 	are 	VBP
+Mic 	4 	11 	1 	6 	1 	gathered 	VBN
+Mic 	4 	11 	1 	7 	1 	against 	IN
+Mic 	4 	11 	1 	8 	1 	thee 	NN
+Mic 	4 	11 	1 	9 	0 	,
+Mic 	4 	11 	1 	10 	1 	that 	IN
+Mic 	4 	11 	1 	11 	1 	say 	VB
+Mic 	4 	11 	1 	12 	0 	,
+Mic 	4 	11 	1 	13 	1 	Let 	VB
+Mic 	4 	11 	1 	14 	1 	her 	PRP$
+Mic 	4 	11 	1 	15 	1 	be 	VB
+Mic 	4 	11 	1 	16 	1 	defiled 	VBN
+Mic 	4 	11 	1 	17 	0 	,
+Mic 	4 	11 	1 	18 	1 	and 	CC
+Mic 	4 	11 	1 	19 	1 	let 	VB
+Mic 	4 	11 	1 	20 	1 	our 	PRP$
+Mic 	4 	11 	1 	21 	1 	eye 	NN
+Mic 	4 	11 	1 	22 	1 	look 	NN
+Mic 	4 	11 	1 	23 	1 	upon 	IN
+Mic 	4 	11 	1 	24 	1 	Zion 	NN
+Mic 	4 	11 	1 	25 	0 	.
+Mic 	4 	12 	1 	1 	1 	But 	CC
+Mic 	4 	12 	1 	2 	1 	they 	PRP
+Mic 	4 	12 	1 	3 	1 	know 	VB
+Mic 	4 	12 	1 	4 	1 	not 	RB
+Mic 	4 	12 	1 	5 	1 	the 	DT
+Mic 	4 	12 	1 	6 	1 	thoughts 	NNS
+Mic 	4 	12 	1 	7 	1 	of 	IN
+Mic 	4 	12 	1 	8 	1 	the 	DT
+Mic 	4 	12 	1 	9 	1 	LORD 	NN
+Mic 	4 	12 	1 	10 	0 	,
+Mic 	4 	12 	1 	11 	1 	neither 	DT
+Mic 	4 	12 	1 	12 	1 	understand 	NN
+Mic 	4 	12 	1 	13 	1 	they 	PRP
+Mic 	4 	12 	1 	14 	1 	his 	PRP$
+Mic 	4 	12 	1 	15 	1 	counsel 	NN
+Mic 	4 	12 	1 	16 	0 	:
+Mic 	4 	12 	1 	17 	1 	for 	IN
+Mic 	4 	12 	1 	18 	1 	he 	PRP
+Mic 	4 	12 	1 	19 	1 	shall 	MD
+Mic 	4 	12 	1 	20 	1 	gather 	NN
+Mic 	4 	12 	1 	21 	1 	them 	PRP
+Mic 	4 	12 	1 	22 	1 	as 	IN
+Mic 	4 	12 	1 	23 	1 	the 	DT
+Mic 	4 	12 	1 	24 	1 	sheaves 	NNS
+Mic 	4 	12 	1 	25 	1 	into 	IN
+Mic 	4 	12 	1 	26 	1 	the 	DT
+Mic 	4 	12 	1 	27 	1 	floor 	NN
+Mic 	4 	12 	1 	28 	0 	.
+Mic 	4 	13 	1 	1 	1 	Arise 	NN
+Mic 	4 	13 	1 	2 	1 	and 	CC
+Mic 	4 	13 	1 	3 	1 	thresh 	NN
+Mic 	4 	13 	1 	4 	0 	,
+Mic 	4 	13 	1 	5 	1 	O 	NN
+Mic 	4 	13 	1 	6 	1 	daughter 	NN
+Mic 	4 	13 	1 	7 	1 	of 	IN
+Mic 	4 	13 	1 	8 	1 	Zion 	NN
+Mic 	4 	13 	1 	9 	0 	:
+Mic 	4 	13 	1 	10 	1 	for 	IN
+Mic 	4 	13 	1 	11 	1 	I 	PRP
+Mic 	4 	13 	1 	12 	1 	will 	MD
+Mic 	4 	13 	1 	13 	1 	make 	VB
+Mic 	4 	13 	1 	14 	1 	thine 	NN
+Mic 	4 	13 	1 	15 	1 	horn 	NN
+Mic 	4 	13 	1 	16 	1 	iron 	NN
+Mic 	4 	13 	1 	17 	0 	,
+Mic 	4 	13 	1 	18 	1 	and 	CC
+Mic 	4 	13 	1 	19 	1 	I 	PRP
+Mic 	4 	13 	1 	20 	1 	will 	MD
+Mic 	4 	13 	1 	21 	1 	make 	VB
+Mic 	4 	13 	1 	22 	1 	thy 	NN
+Mic 	4 	13 	1 	23 	1 	hoofs 	NN
+Mic 	4 	13 	1 	24 	1 	brass 	NN
+Mic 	4 	13 	1 	25 	0 	:
+Mic 	4 	13 	1 	26 	1 	and 	CC
+Mic 	4 	13 	1 	27 	1 	thou 	NN
+Mic 	4 	13 	1 	28 	1 	shalt 	NN
+Mic 	4 	13 	1 	29 	1 	beat 	NN
+Mic 	4 	13 	1 	30 	1 	in 	IN
+Mic 	4 	13 	1 	31 	1 	pieces 	NNS
+Mic 	4 	13 	1 	32 	1 	many 	JJ
+Mic 	4 	13 	1 	33 	1 	people 	NNS
+Mic 	4 	13 	1 	34 	0 	:
+Mic 	4 	13 	1 	35 	1 	and 	CC
+Mic 	4 	13 	1 	36 	1 	I 	PRP
+Mic 	4 	13 	1 	37 	1 	will 	MD
+Mic 	4 	13 	1 	38 	1 	consecrate 	NN
+Mic 	4 	13 	1 	39 	1 	their 	PRP$
+Mic 	4 	13 	1 	40 	1 	gain 	NN
+Mic 	4 	13 	1 	41 	1 	unto 	NN
+Mic 	4 	13 	1 	42 	1 	the 	DT
+Mic 	4 	13 	1 	43 	1 	LORD 	NN
+Mic 	4 	13 	1 	44 	0 	,
+Mic 	4 	13 	1 	45 	1 	and 	CC
+Mic 	4 	13 	1 	46 	1 	their 	PRP$
+Mic 	4 	13 	1 	47 	1 	substance 	NN
+Mic 	4 	13 	1 	48 	1 	unto 	NN
+Mic 	4 	13 	1 	49 	1 	the 	DT
+Mic 	4 	13 	1 	50 	1 	Lord 	NN
+Mic 	4 	13 	1 	51 	1 	of 	IN
+Mic 	4 	13 	1 	52 	1 	the 	DT
+Mic 	4 	13 	1 	53 	1 	whole 	JJ
+Mic 	4 	13 	1 	54 	1 	earth 	NN
+Mic 	4 	13 	1 	55 	0 	.
+Mic 	5 	1 	1 	1 	1 	Now 	RB
+Mic 	5 	1 	1 	2 	1 	gather 	NN
+Mic 	5 	1 	1 	3 	1 	thyself 	NN
+Mic 	5 	1 	1 	4 	1 	in 	IN
+Mic 	5 	1 	1 	5 	1 	troops 	NNS
+Mic 	5 	1 	1 	6 	0 	,
+Mic 	5 	1 	1 	7 	1 	O 	NN
+Mic 	5 	1 	1 	8 	1 	daughter 	NN
+Mic 	5 	1 	1 	9 	1 	of 	IN
+Mic 	5 	1 	1 	10 	1 	troops 	NNS
+Mic 	5 	1 	1 	11 	0 	:
+Mic 	5 	1 	1 	12 	1 	he 	PRP
+Mic 	5 	1 	1 	13 	1 	hath 	NN
+Mic 	5 	1 	1 	14 	1 	laid 	NN
+Mic 	5 	1 	1 	15 	1 	siege 	NN
+Mic 	5 	1 	1 	16 	1 	against 	IN
+Mic 	5 	1 	1 	17 	1 	us 	PRP
+Mic 	5 	1 	1 	18 	0 	:
+Mic 	5 	1 	1 	19 	1 	they 	PRP
+Mic 	5 	1 	1 	20 	1 	shall 	MD
+Mic 	5 	1 	1 	21 	1 	smite 	NN
+Mic 	5 	1 	1 	22 	1 	the 	DT
+Mic 	5 	1 	1 	23 	1 	judge 	NN
+Mic 	5 	1 	1 	24 	1 	of 	IN
+Mic 	5 	1 	1 	25 	1 	Israel 	NNP
+Mic 	5 	1 	1 	26 	1 	with 	IN
+Mic 	5 	1 	1 	27 	1 	a 	DT
+Mic 	5 	1 	1 	28 	1 	rod 	NN
+Mic 	5 	1 	1 	29 	1 	upon 	IN
+Mic 	5 	1 	1 	30 	1 	the 	DT
+Mic 	5 	1 	1 	31 	1 	cheek 	NN
+Mic 	5 	1 	1 	32 	0 	.
+Mic 	5 	2 	1 	1 	1 	But 	CC
+Mic 	5 	2 	1 	2 	1 	thou 	NN
+Mic 	5 	2 	1 	3 	0 	,
+Mic 	5 	2 	1 	4 	1 	Bethlehem 	NNP
+Mic 	5 	2 	1 	5 	1 	Ephratah 	NN
+Mic 	5 	2 	1 	6 	0 	,
+Mic 	5 	2 	1 	7 	1 	though 	IN
+Mic 	5 	2 	1 	8 	1 	thou 	NN
+Mic 	5 	2 	1 	9 	1 	be 	VB
+Mic 	5 	2 	1 	10 	1 	little 	JJ
+Mic 	5 	2 	1 	11 	1 	among 	IN
+Mic 	5 	2 	1 	12 	1 	the 	DT
+Mic 	5 	2 	1 	13 	1 	thousands 	NNS
+Mic 	5 	2 	1 	14 	1 	of 	IN
+Mic 	5 	2 	1 	15 	1 	Judah 	NN
+Mic 	5 	2 	1 	16 	0 	,
+Mic 	5 	2 	1 	17 	1 	yet 	RB
+Mic 	5 	2 	1 	18 	1 	out 	IN
+Mic 	5 	2 	1 	19 	1 	of 	IN
+Mic 	5 	2 	1 	20 	1 	thee 	NN
+Mic 	5 	2 	1 	21 	1 	shall 	MD
+Mic 	5 	2 	1 	22 	1 	he 	PRP
+Mic 	5 	2 	1 	23 	1 	come 	VB
+Mic 	5 	2 	1 	24 	1 	forth 	NN
+Mic 	5 	2 	1 	25 	1 	unto 	NN
+Mic 	5 	2 	1 	26 	1 	me 	PRP
+Mic 	5 	2 	1 	27 	1 	that 	IN
+Mic 	5 	2 	1 	28 	1 	is 	VBZ
+Mic 	5 	2 	1 	29 	1 	to 	TO
+Mic 	5 	2 	1 	30 	1 	be 	VB
+Mic 	5 	2 	1 	31 	1 	ruler 	NN
+Mic 	5 	2 	1 	32 	1 	in 	IN
+Mic 	5 	2 	1 	33 	1 	Israel 	NNP
+Mic 	5 	2 	1 	34 	0 	;
+Mic 	5 	2 	1 	35 	1 	whose 	WP$
+Mic 	5 	2 	1 	36 	1 	goings 	NNS
+Mic 	5 	2 	1 	37 	1 	forth 	NN
+Mic 	5 	2 	1 	38 	1 	have 	VB
+Mic 	5 	2 	1 	39 	1 	been 	VBN
+Mic 	5 	2 	1 	40 	1 	from 	IN
+Mic 	5 	2 	1 	41 	1 	of 	IN
+Mic 	5 	2 	1 	42 	1 	old 	JJ
+Mic 	5 	2 	1 	43 	0 	,
+Mic 	5 	2 	1 	44 	1 	from 	IN
+Mic 	5 	2 	1 	45 	1 	everlasting 	VBG
+Mic 	5 	2 	1 	46 	0 	.
+Mic 	5 	3 	1 	1 	1 	Therefore 	RB
+Mic 	5 	3 	1 	2 	1 	will 	MD
+Mic 	5 	3 	1 	3 	1 	he 	PRP
+Mic 	5 	3 	1 	4 	1 	give 	VB
+Mic 	5 	3 	1 	5 	1 	them 	PRP
+Mic 	5 	3 	1 	6 	1 	up 	RB
+Mic 	5 	3 	1 	7 	0 	,
+Mic 	5 	3 	1 	8 	1 	until 	IN
+Mic 	5 	3 	1 	9 	1 	the 	DT
+Mic 	5 	3 	1 	10 	1 	time 	NN
+Mic 	5 	3 	1 	11 	1 	that 	IN
+Mic 	5 	3 	1 	12 	1 	she 	PRP
+Mic 	5 	3 	1 	13 	1 	which 	WDT
+Mic 	5 	3 	1 	14 	1 	travaileth 	NNS
+Mic 	5 	3 	1 	15 	1 	hath 	NN
+Mic 	5 	3 	1 	16 	1 	brought 	NN
+Mic 	5 	3 	1 	17 	1 	forth 	NN
+Mic 	5 	3 	1 	18 	0 	:
+Mic 	5 	3 	1 	19 	1 	then 	RB
+Mic 	5 	3 	1 	20 	1 	the 	DT
+Mic 	5 	3 	1 	21 	1 	remnant 	NN
+Mic 	5 	3 	1 	22 	1 	of 	IN
+Mic 	5 	3 	1 	23 	1 	his 	PRP$
+Mic 	5 	3 	1 	24 	1 	brethren 	NNS
+Mic 	5 	3 	1 	25 	1 	shall 	MD
+Mic 	5 	3 	1 	26 	1 	return 	NN
+Mic 	5 	3 	1 	27 	1 	unto 	NN
+Mic 	5 	3 	1 	28 	1 	the 	DT
+Mic 	5 	3 	1 	29 	1 	children 	NNS
+Mic 	5 	3 	1 	30 	1 	of 	IN
+Mic 	5 	3 	1 	31 	1 	Israel 	NNP
+Mic 	5 	3 	1 	32 	0 	.
+Mic 	5 	4 	1 	1 	1 	And 	CC
+Mic 	5 	4 	1 	2 	1 	he 	PRP
+Mic 	5 	4 	1 	3 	1 	shall 	MD
+Mic 	5 	4 	1 	4 	1 	stand 	NN
+Mic 	5 	4 	1 	5 	1 	and 	CC
+Mic 	5 	4 	1 	6 	1 	feed 	NN
+Mic 	5 	4 	1 	7 	1 	in 	IN
+Mic 	5 	4 	1 	8 	1 	the 	DT
+Mic 	5 	4 	1 	9 	1 	strength 	NN
+Mic 	5 	4 	1 	10 	1 	of 	IN
+Mic 	5 	4 	1 	11 	1 	the 	DT
+Mic 	5 	4 	1 	12 	1 	LORD 	NN
+Mic 	5 	4 	1 	13 	0 	,
+Mic 	5 	4 	1 	14 	1 	in 	IN
+Mic 	5 	4 	1 	15 	1 	the 	DT
+Mic 	5 	4 	1 	16 	1 	majesty 	NN
+Mic 	5 	4 	1 	17 	1 	of 	IN
+Mic 	5 	4 	1 	18 	1 	the 	DT
+Mic 	5 	4 	1 	19 	1 	name 	NN
+Mic 	5 	4 	1 	20 	1 	of 	IN
+Mic 	5 	4 	1 	21 	1 	the 	DT
+Mic 	5 	4 	1 	22 	1 	LORD 	NN
+Mic 	5 	4 	1 	23 	1 	his 	PRP$
+Mic 	5 	4 	1 	24 	1 	God 	NNP
+Mic 	5 	4 	1 	25 	0 	;
+Mic 	5 	4 	1 	26 	1 	and 	CC
+Mic 	5 	4 	1 	27 	1 	they 	PRP
+Mic 	5 	4 	1 	28 	1 	shall 	MD
+Mic 	5 	4 	1 	29 	1 	abide 	NN
+Mic 	5 	4 	1 	30 	0 	:
+Mic 	5 	4 	1 	31 	1 	for 	IN
+Mic 	5 	4 	1 	32 	1 	now 	RB
+Mic 	5 	4 	1 	33 	1 	shall 	MD
+Mic 	5 	4 	1 	34 	1 	he 	PRP
+Mic 	5 	4 	1 	35 	1 	be 	VB
+Mic 	5 	4 	1 	36 	1 	great 	JJ
+Mic 	5 	4 	1 	37 	1 	unto 	NN
+Mic 	5 	4 	1 	38 	1 	the 	DT
+Mic 	5 	4 	1 	39 	1 	ends 	NNS
+Mic 	5 	4 	1 	40 	1 	of 	IN
+Mic 	5 	4 	1 	41 	1 	the 	DT
+Mic 	5 	4 	1 	42 	1 	earth 	NN
+Mic 	5 	4 	1 	43 	0 	.
+Mic 	5 	5 	1 	1 	1 	And 	CC
+Mic 	5 	5 	1 	2 	1 	this 	DT
+Mic 	5 	5 	1 	3 	1 	man 	NN
+Mic 	5 	5 	1 	4 	1 	shall 	MD
+Mic 	5 	5 	1 	5 	1 	be 	VB
+Mic 	5 	5 	1 	6 	1 	the 	DT
+Mic 	5 	5 	1 	7 	1 	peace 	NN
+Mic 	5 	5 	1 	8 	0 	,
+Mic 	5 	5 	1 	9 	1 	when 	WRB
+Mic 	5 	5 	1 	10 	1 	the 	DT
+Mic 	5 	5 	1 	11 	1 	Assyrian 	JJ
+Mic 	5 	5 	1 	12 	1 	shall 	MD
+Mic 	5 	5 	1 	13 	1 	come 	VB
+Mic 	5 	5 	1 	14 	1 	into 	IN
+Mic 	5 	5 	1 	15 	1 	our 	PRP$
+Mic 	5 	5 	1 	16 	1 	land 	NN
+Mic 	5 	5 	1 	17 	0 	:
+Mic 	5 	5 	1 	18 	1 	and 	CC
+Mic 	5 	5 	1 	19 	1 	when 	WRB
+Mic 	5 	5 	1 	20 	1 	he 	PRP
+Mic 	5 	5 	1 	21 	1 	shall 	MD
+Mic 	5 	5 	1 	22 	1 	tread 	NN
+Mic 	5 	5 	1 	23 	1 	in 	IN
+Mic 	5 	5 	1 	24 	1 	our 	PRP$
+Mic 	5 	5 	1 	25 	1 	palaces 	NNS
+Mic 	5 	5 	1 	26 	0 	,
+Mic 	5 	5 	1 	27 	1 	then 	RB
+Mic 	5 	5 	1 	28 	1 	shall 	MD
+Mic 	5 	5 	1 	29 	1 	we 	PRP
+Mic 	5 	5 	1 	30 	1 	raise 	NN
+Mic 	5 	5 	1 	31 	1 	against 	IN
+Mic 	5 	5 	1 	32 	1 	him 	PRP
+Mic 	5 	5 	1 	33 	1 	seven 	CD
+Mic 	5 	5 	1 	34 	1 	shepherds 	NNS
+Mic 	5 	5 	1 	35 	0 	,
+Mic 	5 	5 	1 	36 	1 	and 	CC
+Mic 	5 	5 	1 	37 	1 	eight 	CD
+Mic 	5 	5 	1 	38 	1 	principal 	NN
+Mic 	5 	5 	1 	39 	1 	men 	NNS
+Mic 	5 	5 	1 	40 	0 	.
+Mic 	5 	6 	1 	1 	1 	And 	CC
+Mic 	5 	6 	1 	2 	1 	they 	PRP
+Mic 	5 	6 	1 	3 	1 	shall 	MD
+Mic 	5 	6 	1 	4 	1 	waste 	NN
+Mic 	5 	6 	1 	5 	1 	the 	DT
+Mic 	5 	6 	1 	6 	1 	land 	NN
+Mic 	5 	6 	1 	7 	1 	of 	IN
+Mic 	5 	6 	1 	8 	1 	Assyria 	NNS
+Mic 	5 	6 	1 	9 	1 	with 	IN
+Mic 	5 	6 	1 	10 	1 	the 	DT
+Mic 	5 	6 	1 	11 	1 	sword 	NN
+Mic 	5 	6 	1 	12 	0 	,
+Mic 	5 	6 	1 	13 	1 	and 	CC
+Mic 	5 	6 	1 	14 	1 	the 	DT
+Mic 	5 	6 	1 	15 	1 	land 	NN
+Mic 	5 	6 	1 	16 	1 	of 	IN
+Mic 	5 	6 	1 	17 	1 	Nimrod 	NN
+Mic 	5 	6 	1 	18 	1 	in 	IN
+Mic 	5 	6 	1 	19 	1 	the 	DT
+Mic 	5 	6 	1 	20 	1 	entrances 	NNS
+Mic 	5 	6 	1 	21 	1 	thereof 	NN
+Mic 	5 	6 	1 	22 	0 	:
+Mic 	5 	6 	1 	23 	1 	thus 	RB
+Mic 	5 	6 	1 	24 	1 	shall 	MD
+Mic 	5 	6 	1 	25 	1 	he 	PRP
+Mic 	5 	6 	1 	26 	1 	deliver 	NN
+Mic 	5 	6 	1 	27 	1 	us 	PRP
+Mic 	5 	6 	1 	28 	1 	from 	IN
+Mic 	5 	6 	1 	29 	1 	the 	DT
+Mic 	5 	6 	1 	30 	1 	Assyrian 	JJ
+Mic 	5 	6 	1 	31 	0 	,
+Mic 	5 	6 	1 	32 	1 	when 	WRB
+Mic 	5 	6 	1 	33 	1 	he 	PRP
+Mic 	5 	6 	1 	34 	1 	cometh 	NNS
+Mic 	5 	6 	1 	35 	1 	into 	IN
+Mic 	5 	6 	1 	36 	1 	our 	PRP$
+Mic 	5 	6 	1 	37 	1 	land 	NN
+Mic 	5 	6 	1 	38 	0 	,
+Mic 	5 	6 	1 	39 	1 	and 	CC
+Mic 	5 	6 	1 	40 	1 	when 	WRB
+Mic 	5 	6 	1 	41 	1 	he 	PRP
+Mic 	5 	6 	1 	42 	1 	treadeth 	NNS
+Mic 	5 	6 	1 	43 	1 	within 	IN
+Mic 	5 	6 	1 	44 	1 	our 	PRP$
+Mic 	5 	6 	1 	45 	1 	borders 	NNS
+Mic 	5 	6 	1 	46 	0 	.
+Mic 	5 	7 	1 	1 	1 	And 	CC
+Mic 	5 	7 	1 	2 	1 	the 	DT
+Mic 	5 	7 	1 	3 	1 	remnant 	NN
+Mic 	5 	7 	1 	4 	1 	of 	IN
+Mic 	5 	7 	1 	5 	1 	Jacob 	NN
+Mic 	5 	7 	1 	6 	1 	shall 	MD
+Mic 	5 	7 	1 	7 	1 	be 	VB
+Mic 	5 	7 	1 	8 	1 	in 	IN
+Mic 	5 	7 	1 	9 	1 	the 	DT
+Mic 	5 	7 	1 	10 	1 	midst 	NN
+Mic 	5 	7 	1 	11 	1 	of 	IN
+Mic 	5 	7 	1 	12 	1 	many 	JJ
+Mic 	5 	7 	1 	13 	1 	people 	NNS
+Mic 	5 	7 	1 	14 	1 	as 	IN
+Mic 	5 	7 	1 	15 	1 	a 	DT
+Mic 	5 	7 	1 	16 	1 	dew 	NN
+Mic 	5 	7 	1 	17 	1 	from 	IN
+Mic 	5 	7 	1 	18 	1 	the 	DT
+Mic 	5 	7 	1 	19 	1 	LORD 	NN
+Mic 	5 	7 	1 	20 	0 	,
+Mic 	5 	7 	1 	21 	1 	as 	IN
+Mic 	5 	7 	1 	22 	1 	the 	DT
+Mic 	5 	7 	1 	23 	1 	showers 	NNS
+Mic 	5 	7 	1 	24 	1 	upon 	IN
+Mic 	5 	7 	1 	25 	1 	the 	DT
+Mic 	5 	7 	1 	26 	1 	grass 	NN
+Mic 	5 	7 	1 	27 	0 	,
+Mic 	5 	7 	1 	28 	1 	that 	IN
+Mic 	5 	7 	1 	29 	1 	tarrieth 	NNS
+Mic 	5 	7 	1 	30 	1 	not 	RB
+Mic 	5 	7 	1 	31 	1 	for 	IN
+Mic 	5 	7 	1 	32 	1 	man 	NN
+Mic 	5 	7 	1 	33 	0 	,
+Mic 	5 	7 	1 	34 	1 	nor 	CC
+Mic 	5 	7 	1 	35 	1 	waiteth 	NNS
+Mic 	5 	7 	1 	36 	1 	for 	IN
+Mic 	5 	7 	1 	37 	1 	the 	DT
+Mic 	5 	7 	1 	38 	1 	sons 	NNS
+Mic 	5 	7 	1 	39 	1 	of 	IN
+Mic 	5 	7 	1 	40 	1 	men 	NNS
+Mic 	5 	7 	1 	41 	0 	.
+Mic 	5 	8 	1 	1 	1 	And 	CC
+Mic 	5 	8 	1 	2 	1 	the 	DT
+Mic 	5 	8 	1 	3 	1 	remnant 	NN
+Mic 	5 	8 	1 	4 	1 	of 	IN
+Mic 	5 	8 	1 	5 	1 	Jacob 	NN
+Mic 	5 	8 	1 	6 	1 	shall 	MD
+Mic 	5 	8 	1 	7 	1 	be 	VB
+Mic 	5 	8 	1 	8 	1 	among 	IN
+Mic 	5 	8 	1 	9 	1 	the 	DT
+Mic 	5 	8 	1 	10 	1 	Gentiles 	NNS
+Mic 	5 	8 	1 	11 	1 	in 	IN
+Mic 	5 	8 	1 	12 	1 	the 	DT
+Mic 	5 	8 	1 	13 	1 	midst 	NN
+Mic 	5 	8 	1 	14 	1 	of 	IN
+Mic 	5 	8 	1 	15 	1 	many 	JJ
+Mic 	5 	8 	1 	16 	1 	people 	NNS
+Mic 	5 	8 	1 	17 	1 	as 	IN
+Mic 	5 	8 	1 	18 	1 	a 	DT
+Mic 	5 	8 	1 	19 	1 	lion 	NN
+Mic 	5 	8 	1 	20 	1 	among 	IN
+Mic 	5 	8 	1 	21 	1 	the 	DT
+Mic 	5 	8 	1 	22 	1 	beasts 	NNS
+Mic 	5 	8 	1 	23 	1 	of 	IN
+Mic 	5 	8 	1 	24 	1 	the 	DT
+Mic 	5 	8 	1 	25 	1 	forest 	NN
+Mic 	5 	8 	1 	26 	0 	,
+Mic 	5 	8 	1 	27 	1 	as 	IN
+Mic 	5 	8 	1 	28 	1 	a 	DT
+Mic 	5 	8 	1 	29 	1 	young 	JJ
+Mic 	5 	8 	1 	30 	1 	lion 	NN
+Mic 	5 	8 	1 	31 	1 	among 	IN
+Mic 	5 	8 	1 	32 	1 	the 	DT
+Mic 	5 	8 	1 	33 	1 	flocks 	NNS
+Mic 	5 	8 	1 	34 	1 	of 	IN
+Mic 	5 	8 	1 	35 	1 	sheep 	NN
+Mic 	5 	8 	1 	36 	0 	:
+Mic 	5 	8 	1 	37 	1 	who 	WP
+Mic 	5 	8 	1 	38 	0 	,
+Mic 	5 	8 	1 	39 	1 	if 	IN
+Mic 	5 	8 	1 	40 	1 	he 	PRP
+Mic 	5 	8 	1 	41 	1 	go 	VB
+Mic 	5 	8 	1 	42 	1 	through 	IN
+Mic 	5 	8 	1 	43 	0 	,
+Mic 	5 	8 	1 	44 	1 	both 	DT
+Mic 	5 	8 	1 	45 	1 	treadeth 	NNS
+Mic 	5 	8 	1 	46 	1 	down 	RB
+Mic 	5 	8 	1 	47 	0 	,
+Mic 	5 	8 	1 	48 	1 	and 	CC
+Mic 	5 	8 	1 	49 	1 	teareth 	NNS
+Mic 	5 	8 	1 	50 	1 	in 	IN
+Mic 	5 	8 	1 	51 	1 	pieces 	NNS
+Mic 	5 	8 	1 	52 	0 	,
+Mic 	5 	8 	1 	53 	1 	and 	CC
+Mic 	5 	8 	1 	54 	1 	none 	NN
+Mic 	5 	8 	1 	55 	1 	can 	MD
+Mic 	5 	8 	1 	56 	1 	deliver 	NN
+Mic 	5 	8 	1 	57 	0 	.
+Mic 	5 	9 	1 	1 	1 	Thine 	NN
+Mic 	5 	9 	1 	2 	1 	hand 	NN
+Mic 	5 	9 	1 	3 	1 	shall 	MD
+Mic 	5 	9 	1 	4 	1 	be 	VB
+Mic 	5 	9 	1 	5 	1 	lifted 	VBN
+Mic 	5 	9 	1 	6 	1 	up 	RB
+Mic 	5 	9 	1 	7 	1 	upon 	IN
+Mic 	5 	9 	1 	8 	1 	thine 	NN
+Mic 	5 	9 	1 	9 	1 	adversaries 	NNS
+Mic 	5 	9 	1 	10 	0 	,
+Mic 	5 	9 	1 	11 	1 	and 	CC
+Mic 	5 	9 	1 	12 	1 	all 	DT
+Mic 	5 	9 	1 	13 	1 	thine 	NN
+Mic 	5 	9 	1 	14 	1 	enemies 	NNS
+Mic 	5 	9 	1 	15 	1 	shall 	MD
+Mic 	5 	9 	1 	16 	1 	be 	VB
+Mic 	5 	9 	1 	17 	1 	cut 	NN
+Mic 	5 	9 	1 	18 	1 	off 	IN
+Mic 	5 	9 	1 	19 	0 	.
+Mic 	5 	10 	1 	1 	1 	And 	CC
+Mic 	5 	10 	1 	2 	1 	it 	PRP
+Mic 	5 	10 	1 	3 	1 	shall 	MD
+Mic 	5 	10 	1 	4 	1 	come 	VB
+Mic 	5 	10 	1 	5 	1 	to 	TO
+Mic 	5 	10 	1 	6 	1 	pass 	NN
+Mic 	5 	10 	1 	7 	1 	in 	IN
+Mic 	5 	10 	1 	8 	1 	that 	IN
+Mic 	5 	10 	1 	9 	1 	day 	NN
+Mic 	5 	10 	1 	10 	0 	,
+Mic 	5 	10 	1 	11 	1 	saith 	NN
+Mic 	5 	10 	1 	12 	1 	the 	DT
+Mic 	5 	10 	1 	13 	1 	LORD 	NN
+Mic 	5 	10 	1 	14 	0 	,
+Mic 	5 	10 	1 	15 	1 	that 	IN
+Mic 	5 	10 	1 	16 	1 	I 	PRP
+Mic 	5 	10 	1 	17 	1 	will 	MD
+Mic 	5 	10 	1 	18 	1 	cut 	NN
+Mic 	5 	10 	1 	19 	1 	off 	IN
+Mic 	5 	10 	1 	20 	1 	thy 	NN
+Mic 	5 	10 	1 	21 	1 	horses 	NNS
+Mic 	5 	10 	1 	22 	1 	out 	IN
+Mic 	5 	10 	1 	23 	1 	of 	IN
+Mic 	5 	10 	1 	24 	1 	the 	DT
+Mic 	5 	10 	1 	25 	1 	midst 	NN
+Mic 	5 	10 	1 	26 	1 	of 	IN
+Mic 	5 	10 	1 	27 	1 	thee 	NN
+Mic 	5 	10 	1 	28 	0 	,
+Mic 	5 	10 	1 	29 	1 	and 	CC
+Mic 	5 	10 	1 	30 	1 	I 	PRP
+Mic 	5 	10 	1 	31 	1 	will 	MD
+Mic 	5 	10 	1 	32 	1 	destroy 	NN
+Mic 	5 	10 	1 	33 	1 	thy 	NN
+Mic 	5 	10 	1 	34 	1 	chariots 	NNS
+Mic 	5 	10 	1 	35 	0 	:
+Mic 	5 	11 	1 	1 	1 	And 	CC
+Mic 	5 	11 	1 	2 	1 	I 	PRP
+Mic 	5 	11 	1 	3 	1 	will 	MD
+Mic 	5 	11 	1 	4 	1 	cut 	NN
+Mic 	5 	11 	1 	5 	1 	off 	IN
+Mic 	5 	11 	1 	6 	1 	the 	DT
+Mic 	5 	11 	1 	7 	1 	cities 	NNS
+Mic 	5 	11 	1 	8 	1 	of 	IN
+Mic 	5 	11 	1 	9 	1 	thy 	NN
+Mic 	5 	11 	1 	10 	1 	land 	NN
+Mic 	5 	11 	1 	11 	0 	,
+Mic 	5 	11 	1 	12 	1 	and 	CC
+Mic 	5 	11 	1 	13 	1 	throw 	NN
+Mic 	5 	11 	1 	14 	1 	down 	RB
+Mic 	5 	11 	1 	15 	1 	all 	DT
+Mic 	5 	11 	1 	16 	1 	thy 	NN
+Mic 	5 	11 	1 	17 	1 	strong 	JJ
+Mic 	5 	11 	1 	18 	1 	holds 	VBZ
+Mic 	5 	11 	1 	19 	0 	:
+Mic 	5 	12 	1 	1 	1 	And 	CC
+Mic 	5 	12 	1 	2 	1 	I 	PRP
+Mic 	5 	12 	1 	3 	1 	will 	MD
+Mic 	5 	12 	1 	4 	1 	cut 	NN
+Mic 	5 	12 	1 	5 	1 	off 	IN
+Mic 	5 	12 	1 	6 	1 	witchcrafts 	NNS
+Mic 	5 	12 	1 	7 	1 	out 	IN
+Mic 	5 	12 	1 	8 	1 	of 	IN
+Mic 	5 	12 	1 	9 	1 	thine 	NN
+Mic 	5 	12 	1 	10 	1 	hand 	NN
+Mic 	5 	12 	1 	11 	0 	;
+Mic 	5 	12 	1 	12 	1 	and 	CC
+Mic 	5 	12 	1 	13 	1 	thou 	NN
+Mic 	5 	12 	1 	14 	1 	shalt 	NN
+Mic 	5 	12 	1 	15 	1 	have 	VB
+Mic 	5 	12 	1 	16 	1 	no 	DT
+Mic 	5 	12 	1 	17 	1 	more 	RBR
+Mic 	5 	12 	1 	18 	1 	soothsayers 	NNS
+Mic 	5 	12 	1 	19 	0 	:
+Mic 	5 	13 	1 	1 	1 	Thy 	NN
+Mic 	5 	13 	1 	2 	1 	graven 	NN
+Mic 	5 	13 	1 	3 	1 	images 	NNS
+Mic 	5 	13 	1 	4 	1 	also 	RB
+Mic 	5 	13 	1 	5 	1 	will 	MD
+Mic 	5 	13 	1 	6 	1 	I 	PRP
+Mic 	5 	13 	1 	7 	1 	cut 	NN
+Mic 	5 	13 	1 	8 	1 	off 	IN
+Mic 	5 	13 	1 	9 	0 	,
+Mic 	5 	13 	1 	10 	1 	and 	CC
+Mic 	5 	13 	1 	11 	1 	thy 	NN
+Mic 	5 	13 	1 	12 	1 	standing 	VBG
+Mic 	5 	13 	1 	13 	1 	images 	NNS
+Mic 	5 	13 	1 	14 	1 	out 	IN
+Mic 	5 	13 	1 	15 	1 	of 	IN
+Mic 	5 	13 	1 	16 	1 	the 	DT
+Mic 	5 	13 	1 	17 	1 	midst 	NN
+Mic 	5 	13 	1 	18 	1 	of 	IN
+Mic 	5 	13 	1 	19 	1 	thee 	NN
+Mic 	5 	13 	1 	20 	0 	;
+Mic 	5 	13 	1 	21 	1 	and 	CC
+Mic 	5 	13 	1 	22 	1 	thou 	NN
+Mic 	5 	13 	1 	23 	1 	shalt 	NN
+Mic 	5 	13 	1 	24 	1 	no 	DT
+Mic 	5 	13 	1 	25 	1 	more 	RBR
+Mic 	5 	13 	1 	26 	1 	worship 	NN
+Mic 	5 	13 	1 	27 	1 	the 	DT
+Mic 	5 	13 	1 	28 	1 	work 	NN
+Mic 	5 	13 	1 	29 	1 	of 	IN
+Mic 	5 	13 	1 	30 	1 	thine 	NN
+Mic 	5 	13 	1 	31 	1 	hands 	NNS
+Mic 	5 	13 	1 	32 	0 	.
+Mic 	5 	14 	1 	1 	1 	And 	CC
+Mic 	5 	14 	1 	2 	1 	I 	PRP
+Mic 	5 	14 	1 	3 	1 	will 	MD
+Mic 	5 	14 	1 	4 	1 	pluck 	NN
+Mic 	5 	14 	1 	5 	1 	up 	RB
+Mic 	5 	14 	1 	6 	1 	thy 	NN
+Mic 	5 	14 	1 	7 	1 	groves 	NNS
+Mic 	5 	14 	1 	8 	1 	out 	IN
+Mic 	5 	14 	1 	9 	1 	of 	IN
+Mic 	5 	14 	1 	10 	1 	the 	DT
+Mic 	5 	14 	1 	11 	1 	midst 	NN
+Mic 	5 	14 	1 	12 	1 	of 	IN
+Mic 	5 	14 	1 	13 	1 	thee 	NN
+Mic 	5 	14 	1 	14 	0 	:
+Mic 	5 	14 	1 	15 	1 	so 	RB
+Mic 	5 	14 	1 	16 	1 	will 	MD
+Mic 	5 	14 	1 	17 	1 	I 	PRP
+Mic 	5 	14 	1 	18 	1 	destroy 	NN
+Mic 	5 	14 	1 	19 	1 	thy 	NN
+Mic 	5 	14 	1 	20 	1 	cities 	NNS
+Mic 	5 	14 	1 	21 	0 	.
+Mic 	5 	15 	1 	1 	1 	And 	CC
+Mic 	5 	15 	1 	2 	1 	I 	PRP
+Mic 	5 	15 	1 	3 	1 	will 	MD
+Mic 	5 	15 	1 	4 	1 	execute 	NN
+Mic 	5 	15 	1 	5 	1 	vengeance 	NN
+Mic 	5 	15 	1 	6 	1 	in 	IN
+Mic 	5 	15 	1 	7 	1 	anger 	NN
+Mic 	5 	15 	1 	8 	1 	and 	CC
+Mic 	5 	15 	1 	9 	1 	fury 	NN
+Mic 	5 	15 	1 	10 	1 	upon 	IN
+Mic 	5 	15 	1 	11 	1 	the 	DT
+Mic 	5 	15 	1 	12 	1 	heathen 	NN
+Mic 	5 	15 	1 	13 	0 	,
+Mic 	5 	15 	1 	14 	1 	such 	JJ
+Mic 	5 	15 	1 	15 	1 	as 	IN
+Mic 	5 	15 	1 	16 	1 	they 	PRP
+Mic 	5 	15 	1 	17 	1 	have 	VB
+Mic 	5 	15 	1 	18 	1 	not 	RB
+Mic 	5 	15 	1 	19 	1 	heard 	NN
+Mic 	5 	15 	1 	20 	0 	.
+Mic 	6 	1 	1 	1 	1 	Hear 	NN
+Mic 	6 	1 	1 	2 	1 	ye 	NN
+Mic 	6 	1 	1 	3 	1 	now 	RB
+Mic 	6 	1 	1 	4 	1 	what 	WP
+Mic 	6 	1 	1 	5 	1 	the 	DT
+Mic 	6 	1 	1 	6 	1 	LORD 	NN
+Mic 	6 	1 	1 	7 	1 	saith 	NN
+Mic 	6 	1 	1 	8 	0 	;
+Mic 	6 	1 	1 	9 	1 	Arise 	NN
+Mic 	6 	1 	1 	10 	0 	,
+Mic 	6 	1 	1 	11 	1 	contend 	NN
+Mic 	6 	1 	1 	12 	1 	thou 	NN
+Mic 	6 	1 	1 	13 	1 	before 	IN
+Mic 	6 	1 	1 	14 	1 	the 	DT
+Mic 	6 	1 	1 	15 	1 	mountains 	NNS
+Mic 	6 	1 	1 	16 	0 	,
+Mic 	6 	1 	1 	17 	1 	and 	CC
+Mic 	6 	1 	1 	18 	1 	let 	VB
+Mic 	6 	1 	1 	19 	1 	the 	DT
+Mic 	6 	1 	1 	20 	1 	hills 	NNS
+Mic 	6 	1 	1 	21 	1 	hear 	NN
+Mic 	6 	1 	1 	22 	1 	thy 	NN
+Mic 	6 	1 	1 	23 	1 	voice 	NN
+Mic 	6 	1 	1 	24 	0 	.
+Mic 	6 	2 	1 	1 	1 	Hear 	NN
+Mic 	6 	2 	1 	2 	1 	ye 	NN
+Mic 	6 	2 	1 	3 	0 	,
+Mic 	6 	2 	1 	4 	1 	O 	NN
+Mic 	6 	2 	1 	5 	1 	mountains 	NNS
+Mic 	6 	2 	1 	6 	0 	,
+Mic 	6 	2 	1 	7 	1 	the 	DT
+Mic 	6 	2 	1 	8 	1 	LORD 	NN
+Mic 	6 	2 	1 	9 	0 	's
+Mic 	6 	2 	1 	10 	1 	controversy 	NN
+Mic 	6 	2 	1 	11 	0 	,
+Mic 	6 	2 	1 	12 	1 	and 	CC
+Mic 	6 	2 	1 	13 	1 	ye 	NN
+Mic 	6 	2 	1 	14 	1 	strong 	JJ
+Mic 	6 	2 	1 	15 	1 	foundations 	NNS
+Mic 	6 	2 	1 	16 	1 	of 	IN
+Mic 	6 	2 	1 	17 	1 	the 	DT
+Mic 	6 	2 	1 	18 	1 	earth 	NN
+Mic 	6 	2 	1 	19 	0 	:
+Mic 	6 	2 	1 	20 	1 	for 	IN
+Mic 	6 	2 	1 	21 	1 	the 	DT
+Mic 	6 	2 	1 	22 	1 	LORD 	NN
+Mic 	6 	2 	1 	23 	1 	hath 	NN
+Mic 	6 	2 	1 	24 	1 	a 	DT
+Mic 	6 	2 	1 	25 	1 	controversy 	NN
+Mic 	6 	2 	1 	26 	1 	with 	IN
+Mic 	6 	2 	1 	27 	1 	his 	PRP$
+Mic 	6 	2 	1 	28 	1 	people 	NNS
+Mic 	6 	2 	1 	29 	0 	,
+Mic 	6 	2 	1 	30 	1 	and 	CC
+Mic 	6 	2 	1 	31 	1 	he 	PRP
+Mic 	6 	2 	1 	32 	1 	will 	MD
+Mic 	6 	2 	1 	33 	1 	plead 	NN
+Mic 	6 	2 	1 	34 	1 	with 	IN
+Mic 	6 	2 	1 	35 	1 	Israel 	NNP
+Mic 	6 	2 	1 	36 	0 	.
+Mic 	6 	3 	1 	1 	1 	O 	NN
+Mic 	6 	3 	1 	2 	1 	my 	PRP$
+Mic 	6 	3 	1 	3 	1 	people 	NNS
+Mic 	6 	3 	1 	4 	0 	,
+Mic 	6 	3 	1 	5 	1 	what 	WP
+Mic 	6 	3 	1 	6 	1 	have 	VB
+Mic 	6 	3 	1 	7 	1 	I 	PRP
+Mic 	6 	3 	1 	8 	1 	done 	VBN
+Mic 	6 	3 	1 	9 	1 	unto 	NN
+Mic 	6 	3 	1 	10 	1 	thee 	NN
+Mic 	6 	3 	1 	11 	0 	?
+Mic 	6 	3 	2 	1 	1 	and 	CC
+Mic 	6 	3 	2 	2 	1 	wherein 	NN
+Mic 	6 	3 	2 	3 	1 	have 	VB
+Mic 	6 	3 	2 	4 	1 	I 	PRP
+Mic 	6 	3 	2 	5 	1 	wearied 	VBN
+Mic 	6 	3 	2 	6 	1 	thee 	NN
+Mic 	6 	3 	2 	7 	0 	?
+Mic 	6 	3 	3 	1 	1 	testify 	NN
+Mic 	6 	3 	3 	2 	1 	against 	IN
+Mic 	6 	3 	3 	3 	1 	me 	PRP
+Mic 	6 	3 	3 	4 	0 	.
+Mic 	6 	4 	1 	1 	1 	For 	IN
+Mic 	6 	4 	1 	2 	1 	I 	PRP
+Mic 	6 	4 	1 	3 	1 	brought 	NN
+Mic 	6 	4 	1 	4 	1 	thee 	NN
+Mic 	6 	4 	1 	5 	1 	up 	RB
+Mic 	6 	4 	1 	6 	1 	out 	IN
+Mic 	6 	4 	1 	7 	1 	of 	IN
+Mic 	6 	4 	1 	8 	1 	the 	DT
+Mic 	6 	4 	1 	9 	1 	land 	NN
+Mic 	6 	4 	1 	10 	1 	of 	IN
+Mic 	6 	4 	1 	11 	1 	Egypt 	NN
+Mic 	6 	4 	1 	12 	0 	,
+Mic 	6 	4 	1 	13 	1 	and 	CC
+Mic 	6 	4 	1 	14 	1 	redeemed 	VBN
+Mic 	6 	4 	1 	15 	1 	thee 	NN
+Mic 	6 	4 	1 	16 	1 	out 	IN
+Mic 	6 	4 	1 	17 	1 	of 	IN
+Mic 	6 	4 	1 	18 	1 	the 	DT
+Mic 	6 	4 	1 	19 	1 	house 	NN
+Mic 	6 	4 	1 	20 	1 	of 	IN
+Mic 	6 	4 	1 	21 	1 	servants 	NNS
+Mic 	6 	4 	1 	22 	0 	;
+Mic 	6 	4 	1 	23 	1 	and 	CC
+Mic 	6 	4 	1 	24 	1 	I 	PRP
+Mic 	6 	4 	1 	25 	1 	sent 	NN
+Mic 	6 	4 	1 	26 	1 	before 	IN
+Mic 	6 	4 	1 	27 	1 	thee 	NN
+Mic 	6 	4 	1 	28 	1 	Moses 	NNS
+Mic 	6 	4 	1 	29 	0 	,
+Mic 	6 	4 	1 	30 	1 	Aaron 	NNP
+Mic 	6 	4 	1 	31 	0 	,
+Mic 	6 	4 	1 	32 	1 	and 	CC
+Mic 	6 	4 	1 	33 	1 	Miriam 	NN
+Mic 	6 	4 	1 	34 	0 	.
+Mic 	6 	5 	1 	1 	1 	O 	NN
+Mic 	6 	5 	1 	2 	1 	my 	PRP$
+Mic 	6 	5 	1 	3 	1 	people 	NNS
+Mic 	6 	5 	1 	4 	0 	,
+Mic 	6 	5 	1 	5 	1 	remember 	VB
+Mic 	6 	5 	1 	6 	1 	now 	RB
+Mic 	6 	5 	1 	7 	1 	what 	WP
+Mic 	6 	5 	1 	8 	1 	Balak 	NN
+Mic 	6 	5 	1 	9 	1 	king 	NN
+Mic 	6 	5 	1 	10 	1 	of 	IN
+Mic 	6 	5 	1 	11 	1 	Moab 	NN
+Mic 	6 	5 	1 	12 	1 	consulted 	VBN
+Mic 	6 	5 	1 	13 	0 	,
+Mic 	6 	5 	1 	14 	1 	and 	CC
+Mic 	6 	5 	1 	15 	1 	what 	WP
+Mic 	6 	5 	1 	16 	1 	Balaam 	NN
+Mic 	6 	5 	1 	17 	1 	the 	DT
+Mic 	6 	5 	1 	18 	1 	son 	NN
+Mic 	6 	5 	1 	19 	1 	of 	IN
+Mic 	6 	5 	1 	20 	1 	Beor 	NN
+Mic 	6 	5 	1 	21 	1 	answered 	VBN
+Mic 	6 	5 	1 	22 	1 	him 	PRP
+Mic 	6 	5 	1 	23 	1 	from 	IN
+Mic 	6 	5 	1 	24 	1 	Shittim 	NN
+Mic 	6 	5 	1 	25 	1 	unto 	NN
+Mic 	6 	5 	1 	26 	1 	Gilgal 	NNP
+Mic 	6 	5 	1 	27 	0 	;
+Mic 	6 	5 	1 	28 	1 	that 	IN
+Mic 	6 	5 	1 	29 	1 	ye 	NN
+Mic 	6 	5 	1 	30 	1 	may 	MD
+Mic 	6 	5 	1 	31 	1 	know 	VB
+Mic 	6 	5 	1 	32 	1 	the 	DT
+Mic 	6 	5 	1 	33 	1 	righteousness 	NN
+Mic 	6 	5 	1 	34 	1 	of 	IN
+Mic 	6 	5 	1 	35 	1 	the 	DT
+Mic 	6 	5 	1 	36 	1 	LORD 	NN
+Mic 	6 	5 	1 	37 	0 	.
+Mic 	6 	6 	1 	1 	1 	Wherewith 	NN
+Mic 	6 	6 	1 	2 	1 	shall 	MD
+Mic 	6 	6 	1 	3 	1 	I 	PRP
+Mic 	6 	6 	1 	4 	1 	come 	VB
+Mic 	6 	6 	1 	5 	1 	before 	IN
+Mic 	6 	6 	1 	6 	1 	the 	DT
+Mic 	6 	6 	1 	7 	1 	LORD 	NN
+Mic 	6 	6 	1 	8 	0 	,
+Mic 	6 	6 	1 	9 	1 	and 	CC
+Mic 	6 	6 	1 	10 	1 	bow 	NN
+Mic 	6 	6 	1 	11 	1 	myself 	PRP
+Mic 	6 	6 	1 	12 	1 	before 	IN
+Mic 	6 	6 	1 	13 	1 	the 	DT
+Mic 	6 	6 	1 	14 	1 	high 	JJ
+Mic 	6 	6 	1 	15 	1 	God 	NNP
+Mic 	6 	6 	1 	16 	0 	?
+Mic 	6 	6 	2 	1 	1 	shall 	MD
+Mic 	6 	6 	2 	2 	1 	I 	PRP
+Mic 	6 	6 	2 	3 	1 	come 	VB
+Mic 	6 	6 	2 	4 	1 	before 	IN
+Mic 	6 	6 	2 	5 	1 	him 	PRP
+Mic 	6 	6 	2 	6 	1 	with 	IN
+Mic 	6 	6 	2 	7 	1 	burnt 	NN
+Mic 	6 	6 	2 	8 	1 	offerings 	NNS
+Mic 	6 	6 	2 	9 	0 	,
+Mic 	6 	6 	2 	10 	1 	with 	IN
+Mic 	6 	6 	2 	11 	1 	calves 	NNS
+Mic 	6 	6 	2 	12 	1 	of 	IN
+Mic 	6 	6 	2 	13 	1 	a 	DT
+Mic 	6 	6 	2 	14 	1 	year 	NN
+Mic 	6 	6 	2 	15 	1 	old 	JJ
+Mic 	6 	6 	2 	16 	0 	?
+Mic 	6 	7 	1 	1 	1 	Will 	MD
+Mic 	6 	7 	1 	2 	1 	the 	DT
+Mic 	6 	7 	1 	3 	1 	LORD 	NN
+Mic 	6 	7 	1 	4 	1 	be 	VB
+Mic 	6 	7 	1 	5 	1 	pleased 	JJ
+Mic 	6 	7 	1 	6 	1 	with 	IN
+Mic 	6 	7 	1 	7 	1 	thousands 	NNS
+Mic 	6 	7 	1 	8 	1 	of 	IN
+Mic 	6 	7 	1 	9 	1 	rams 	NNS
+Mic 	6 	7 	1 	10 	0 	,
+Mic 	6 	7 	1 	11 	1 	or 	CC
+Mic 	6 	7 	1 	12 	1 	with 	IN
+Mic 	6 	7 	1 	13 	1 	ten 	NNS
+Mic 	6 	7 	1 	14 	1 	thousands 	NNS
+Mic 	6 	7 	1 	15 	1 	of 	IN
+Mic 	6 	7 	1 	16 	1 	rivers 	NNS
+Mic 	6 	7 	1 	17 	1 	of 	IN
+Mic 	6 	7 	1 	18 	1 	oil 	NN
+Mic 	6 	7 	1 	19 	0 	?
+Mic 	6 	7 	2 	1 	1 	shall 	MD
+Mic 	6 	7 	2 	2 	1 	I 	PRP
+Mic 	6 	7 	2 	3 	1 	give 	VB
+Mic 	6 	7 	2 	4 	1 	my 	PRP$
+Mic 	6 	7 	2 	5 	1 	firstborn 	NN
+Mic 	6 	7 	2 	6 	1 	for 	IN
+Mic 	6 	7 	2 	7 	1 	my 	PRP$
+Mic 	6 	7 	2 	8 	1 	transgression 	NN
+Mic 	6 	7 	2 	9 	0 	,
+Mic 	6 	7 	2 	10 	1 	the 	DT
+Mic 	6 	7 	2 	11 	1 	fruit 	NN
+Mic 	6 	7 	2 	12 	1 	of 	IN
+Mic 	6 	7 	2 	13 	1 	my 	PRP$
+Mic 	6 	7 	2 	14 	1 	body 	NN
+Mic 	6 	7 	2 	15 	1 	for 	IN
+Mic 	6 	7 	2 	16 	1 	the 	DT
+Mic 	6 	7 	2 	17 	1 	sin 	NN
+Mic 	6 	7 	2 	18 	1 	of 	IN
+Mic 	6 	7 	2 	19 	1 	my 	PRP$
+Mic 	6 	7 	2 	20 	1 	soul 	NN
+Mic 	6 	7 	2 	21 	0 	?
+Mic 	6 	8 	1 	1 	1 	He 	PRP
+Mic 	6 	8 	1 	2 	1 	hath 	NN
+Mic 	6 	8 	1 	3 	1 	shewed 	VBN
+Mic 	6 	8 	1 	4 	1 	thee 	NN
+Mic 	6 	8 	1 	5 	0 	,
+Mic 	6 	8 	1 	6 	1 	O 	NN
+Mic 	6 	8 	1 	7 	1 	man 	NN
+Mic 	6 	8 	1 	8 	0 	,
+Mic 	6 	8 	1 	9 	1 	what 	WP
+Mic 	6 	8 	1 	10 	1 	is 	VBZ
+Mic 	6 	8 	1 	11 	1 	good 	JJ
+Mic 	6 	8 	1 	12 	0 	;
+Mic 	6 	8 	1 	13 	1 	and 	CC
+Mic 	6 	8 	1 	14 	1 	what 	WP
+Mic 	6 	8 	1 	15 	1 	doth 	NN
+Mic 	6 	8 	1 	16 	1 	the 	DT
+Mic 	6 	8 	1 	17 	1 	LORD 	NN
+Mic 	6 	8 	1 	18 	1 	require 	NN
+Mic 	6 	8 	1 	19 	1 	of 	IN
+Mic 	6 	8 	1 	20 	1 	thee 	NN
+Mic 	6 	8 	1 	21 	0 	,
+Mic 	6 	8 	1 	22 	1 	but 	CC
+Mic 	6 	8 	1 	23 	1 	to 	TO
+Mic 	6 	8 	1 	24 	1 	do 	VB
+Mic 	6 	8 	1 	25 	1 	justly 	RB
+Mic 	6 	8 	1 	26 	0 	,
+Mic 	6 	8 	1 	27 	1 	and 	CC
+Mic 	6 	8 	1 	28 	1 	to 	TO
+Mic 	6 	8 	1 	29 	1 	love 	NN
+Mic 	6 	8 	1 	30 	1 	mercy 	NN
+Mic 	6 	8 	1 	31 	0 	,
+Mic 	6 	8 	1 	32 	1 	and 	CC
+Mic 	6 	8 	1 	33 	1 	to 	TO
+Mic 	6 	8 	1 	34 	1 	walk 	NN
+Mic 	6 	8 	1 	35 	1 	humbly 	RB
+Mic 	6 	8 	1 	36 	1 	with 	IN
+Mic 	6 	8 	1 	37 	1 	thy 	NN
+Mic 	6 	8 	1 	38 	1 	God 	NNP
+Mic 	6 	8 	1 	39 	0 	?
+Mic 	6 	9 	1 	1 	1 	The 	DT
+Mic 	6 	9 	1 	2 	1 	LORD 	NN
+Mic 	6 	9 	1 	3 	0 	's
+Mic 	6 	9 	1 	4 	1 	voice 	NN
+Mic 	6 	9 	1 	5 	1 	crieth 	NNS
+Mic 	6 	9 	1 	6 	1 	unto 	NN
+Mic 	6 	9 	1 	7 	1 	the 	DT
+Mic 	6 	9 	1 	8 	1 	city 	NN
+Mic 	6 	9 	1 	9 	0 	,
+Mic 	6 	9 	1 	10 	1 	and 	CC
+Mic 	6 	9 	1 	11 	1 	the 	DT
+Mic 	6 	9 	1 	12 	1 	man 	NN
+Mic 	6 	9 	1 	13 	1 	of 	IN
+Mic 	6 	9 	1 	14 	1 	wisdom 	NN
+Mic 	6 	9 	1 	15 	1 	shall 	MD
+Mic 	6 	9 	1 	16 	1 	see 	VB
+Mic 	6 	9 	1 	17 	1 	thy 	NN
+Mic 	6 	9 	1 	18 	1 	name 	NN
+Mic 	6 	9 	1 	19 	0 	:
+Mic 	6 	9 	1 	20 	1 	hear 	NN
+Mic 	6 	9 	1 	21 	1 	ye 	NN
+Mic 	6 	9 	1 	22 	1 	the 	DT
+Mic 	6 	9 	1 	23 	1 	rod 	NN
+Mic 	6 	9 	1 	24 	0 	,
+Mic 	6 	9 	1 	25 	1 	and 	CC
+Mic 	6 	9 	1 	26 	1 	who 	WP
+Mic 	6 	9 	1 	27 	1 	hath 	NN
+Mic 	6 	9 	1 	28 	1 	appointed 	VBN
+Mic 	6 	9 	1 	29 	1 	it 	PRP
+Mic 	6 	9 	1 	30 	0 	.
+Mic 	6 	10 	1 	1 	1 	Are 	NN
+Mic 	6 	10 	1 	2 	1 	there 	RB
+Mic 	6 	10 	1 	3 	1 	yet 	RB
+Mic 	6 	10 	1 	4 	1 	the 	DT
+Mic 	6 	10 	1 	5 	1 	treasures 	NNS
+Mic 	6 	10 	1 	6 	1 	of 	IN
+Mic 	6 	10 	1 	7 	1 	wickedness 	NN
+Mic 	6 	10 	1 	8 	1 	in 	IN
+Mic 	6 	10 	1 	9 	1 	the 	DT
+Mic 	6 	10 	1 	10 	1 	house 	NN
+Mic 	6 	10 	1 	11 	1 	of 	IN
+Mic 	6 	10 	1 	12 	1 	the 	DT
+Mic 	6 	10 	1 	13 	1 	wicked 	VBD
+Mic 	6 	10 	1 	14 	0 	,
+Mic 	6 	10 	1 	15 	1 	and 	CC
+Mic 	6 	10 	1 	16 	1 	the 	DT
+Mic 	6 	10 	1 	17 	1 	scant 	NN
+Mic 	6 	10 	1 	18 	1 	measure 	NN
+Mic 	6 	10 	1 	19 	1 	that 	IN
+Mic 	6 	10 	1 	20 	1 	is 	VBZ
+Mic 	6 	10 	1 	21 	1 	abominable 	JJ
+Mic 	6 	10 	1 	22 	0 	?
+Mic 	6 	11 	1 	1 	1 	Shall 	NN
+Mic 	6 	11 	1 	2 	1 	I 	PRP
+Mic 	6 	11 	1 	3 	1 	count 	NN
+Mic 	6 	11 	1 	4 	1 	them 	PRP
+Mic 	6 	11 	1 	5 	1 	pure 	NN
+Mic 	6 	11 	1 	6 	1 	with 	IN
+Mic 	6 	11 	1 	7 	1 	the 	DT
+Mic 	6 	11 	1 	8 	1 	wicked 	VBD
+Mic 	6 	11 	1 	9 	1 	balances 	NNS
+Mic 	6 	11 	1 	10 	0 	,
+Mic 	6 	11 	1 	11 	1 	and 	CC
+Mic 	6 	11 	1 	12 	1 	with 	IN
+Mic 	6 	11 	1 	13 	1 	the 	DT
+Mic 	6 	11 	1 	14 	1 	bag 	NN
+Mic 	6 	11 	1 	15 	1 	of 	IN
+Mic 	6 	11 	1 	16 	1 	deceitful 	NN
+Mic 	6 	11 	1 	17 	1 	weights 	NNS
+Mic 	6 	11 	1 	18 	0 	?
+Mic 	6 	12 	1 	1 	1 	For 	IN
+Mic 	6 	12 	1 	2 	1 	the 	DT
+Mic 	6 	12 	1 	3 	1 	rich 	JJ
+Mic 	6 	12 	1 	4 	1 	men 	NNS
+Mic 	6 	12 	1 	5 	1 	thereof 	NN
+Mic 	6 	12 	1 	6 	1 	are 	VBP
+Mic 	6 	12 	1 	7 	1 	full 	JJ
+Mic 	6 	12 	1 	8 	1 	of 	IN
+Mic 	6 	12 	1 	9 	1 	violence 	NN
+Mic 	6 	12 	1 	10 	0 	,
+Mic 	6 	12 	1 	11 	1 	and 	CC
+Mic 	6 	12 	1 	12 	1 	the 	DT
+Mic 	6 	12 	1 	13 	1 	inhabitants 	NNS
+Mic 	6 	12 	1 	14 	1 	thereof 	NN
+Mic 	6 	12 	1 	15 	1 	have 	VB
+Mic 	6 	12 	1 	16 	1 	spoken 	NN
+Mic 	6 	12 	1 	17 	1 	lies 	NNS
+Mic 	6 	12 	1 	18 	0 	,
+Mic 	6 	12 	1 	19 	1 	and 	CC
+Mic 	6 	12 	1 	20 	1 	their 	PRP$
+Mic 	6 	12 	1 	21 	1 	tongue 	NN
+Mic 	6 	12 	1 	22 	1 	is 	VBZ
+Mic 	6 	12 	1 	23 	1 	deceitful 	NN
+Mic 	6 	12 	1 	24 	1 	in 	IN
+Mic 	6 	12 	1 	25 	1 	their 	PRP$
+Mic 	6 	12 	1 	26 	1 	mouth 	NN
+Mic 	6 	12 	1 	27 	0 	.
+Mic 	6 	13 	1 	1 	1 	Therefore 	RB
+Mic 	6 	13 	1 	2 	1 	also 	RB
+Mic 	6 	13 	1 	3 	1 	will 	MD
+Mic 	6 	13 	1 	4 	1 	I 	PRP
+Mic 	6 	13 	1 	5 	1 	make 	VB
+Mic 	6 	13 	1 	6 	1 	thee 	NN
+Mic 	6 	13 	1 	7 	1 	sick 	NN
+Mic 	6 	13 	1 	8 	1 	in 	IN
+Mic 	6 	13 	1 	9 	1 	smiting 	VBG
+Mic 	6 	13 	1 	10 	1 	thee 	NN
+Mic 	6 	13 	1 	11 	0 	,
+Mic 	6 	13 	1 	12 	1 	in 	IN
+Mic 	6 	13 	1 	13 	1 	making 	VBG
+Mic 	6 	13 	1 	14 	1 	thee 	NN
+Mic 	6 	13 	1 	15 	1 	desolate 	NN
+Mic 	6 	13 	1 	16 	1 	because 	IN
+Mic 	6 	13 	1 	17 	1 	of 	IN
+Mic 	6 	13 	1 	18 	1 	thy 	NN
+Mic 	6 	13 	1 	19 	1 	sins 	NNS
+Mic 	6 	13 	1 	20 	0 	.
+Mic 	6 	14 	1 	1 	1 	Thou 	NN
+Mic 	6 	14 	1 	2 	1 	shalt 	NN
+Mic 	6 	14 	1 	3 	1 	eat 	NN
+Mic 	6 	14 	1 	4 	0 	,
+Mic 	6 	14 	1 	5 	1 	but 	CC
+Mic 	6 	14 	1 	6 	1 	not 	RB
+Mic 	6 	14 	1 	7 	1 	be 	VB
+Mic 	6 	14 	1 	8 	1 	satisfied 	JJ
+Mic 	6 	14 	1 	9 	0 	;
+Mic 	6 	14 	1 	10 	1 	and 	CC
+Mic 	6 	14 	1 	11 	1 	thy 	NN
+Mic 	6 	14 	1 	12 	1 	casting 	VBG
+Mic 	6 	14 	1 	13 	1 	down 	RB
+Mic 	6 	14 	1 	14 	1 	shall 	MD
+Mic 	6 	14 	1 	15 	1 	be 	VB
+Mic 	6 	14 	1 	16 	1 	in 	IN
+Mic 	6 	14 	1 	17 	1 	the 	DT
+Mic 	6 	14 	1 	18 	1 	midst 	NN
+Mic 	6 	14 	1 	19 	1 	of 	IN
+Mic 	6 	14 	1 	20 	1 	thee 	NN
+Mic 	6 	14 	1 	21 	0 	;
+Mic 	6 	14 	1 	22 	1 	and 	CC
+Mic 	6 	14 	1 	23 	1 	thou 	NN
+Mic 	6 	14 	1 	24 	1 	shalt 	NN
+Mic 	6 	14 	1 	25 	1 	take 	VB
+Mic 	6 	14 	1 	26 	1 	hold 	NN
+Mic 	6 	14 	1 	27 	0 	,
+Mic 	6 	14 	1 	28 	1 	but 	CC
+Mic 	6 	14 	1 	29 	1 	shalt 	NN
+Mic 	6 	14 	1 	30 	1 	not 	RB
+Mic 	6 	14 	1 	31 	1 	deliver 	NN
+Mic 	6 	14 	1 	32 	0 	;
+Mic 	6 	14 	1 	33 	1 	and 	CC
+Mic 	6 	14 	1 	34 	1 	that 	IN
+Mic 	6 	14 	1 	35 	1 	which 	WDT
+Mic 	6 	14 	1 	36 	1 	thou 	NN
+Mic 	6 	14 	1 	37 	1 	deliverest 	NN
+Mic 	6 	14 	1 	38 	1 	will 	MD
+Mic 	6 	14 	1 	39 	1 	I 	PRP
+Mic 	6 	14 	1 	40 	1 	give 	VB
+Mic 	6 	14 	1 	41 	1 	up 	RB
+Mic 	6 	14 	1 	42 	1 	to 	TO
+Mic 	6 	14 	1 	43 	1 	the 	DT
+Mic 	6 	14 	1 	44 	1 	sword 	NN
+Mic 	6 	14 	1 	45 	0 	.
+Mic 	6 	15 	1 	1 	1 	Thou 	NN
+Mic 	6 	15 	1 	2 	1 	shalt 	NN
+Mic 	6 	15 	1 	3 	1 	sow 	NN
+Mic 	6 	15 	1 	4 	0 	,
+Mic 	6 	15 	1 	5 	1 	but 	CC
+Mic 	6 	15 	1 	6 	1 	thou 	NN
+Mic 	6 	15 	1 	7 	1 	shalt 	NN
+Mic 	6 	15 	1 	8 	1 	not 	RB
+Mic 	6 	15 	1 	9 	1 	reap 	NN
+Mic 	6 	15 	1 	10 	0 	;
+Mic 	6 	15 	1 	11 	1 	thou 	NN
+Mic 	6 	15 	1 	12 	1 	shalt 	NN
+Mic 	6 	15 	1 	13 	1 	tread 	NN
+Mic 	6 	15 	1 	14 	1 	the 	DT
+Mic 	6 	15 	1 	15 	1 	olives 	NNS
+Mic 	6 	15 	1 	16 	0 	,
+Mic 	6 	15 	1 	17 	1 	but 	CC
+Mic 	6 	15 	1 	18 	1 	thou 	NN
+Mic 	6 	15 	1 	19 	1 	shalt 	NN
+Mic 	6 	15 	1 	20 	1 	not 	RB
+Mic 	6 	15 	1 	21 	1 	anoint 	NN
+Mic 	6 	15 	1 	22 	1 	thee 	NN
+Mic 	6 	15 	1 	23 	1 	with 	IN
+Mic 	6 	15 	1 	24 	1 	oil 	NN
+Mic 	6 	15 	1 	25 	0 	;
+Mic 	6 	15 	1 	26 	1 	and 	CC
+Mic 	6 	15 	1 	27 	1 	sweet 	NN
+Mic 	6 	15 	1 	28 	1 	wine 	NN
+Mic 	6 	15 	1 	29 	0 	,
+Mic 	6 	15 	1 	30 	1 	but 	CC
+Mic 	6 	15 	1 	31 	1 	shalt 	NN
+Mic 	6 	15 	1 	32 	1 	not 	RB
+Mic 	6 	15 	1 	33 	1 	drink 	NN
+Mic 	6 	15 	1 	34 	1 	wine 	NN
+Mic 	6 	15 	1 	35 	0 	.
+Mic 	6 	16 	1 	1 	1 	For 	IN
+Mic 	6 	16 	1 	2 	1 	the 	DT
+Mic 	6 	16 	1 	3 	1 	statutes 	NNS
+Mic 	6 	16 	1 	4 	1 	of 	IN
+Mic 	6 	16 	1 	5 	1 	Omri 	NN
+Mic 	6 	16 	1 	6 	1 	are 	VBP
+Mic 	6 	16 	1 	7 	1 	kept 	NN
+Mic 	6 	16 	1 	8 	0 	,
+Mic 	6 	16 	1 	9 	1 	and 	CC
+Mic 	6 	16 	1 	10 	1 	all 	DT
+Mic 	6 	16 	1 	11 	1 	the 	DT
+Mic 	6 	16 	1 	12 	1 	works 	NNS
+Mic 	6 	16 	1 	13 	1 	of 	IN
+Mic 	6 	16 	1 	14 	1 	the 	DT
+Mic 	6 	16 	1 	15 	1 	house 	NN
+Mic 	6 	16 	1 	16 	1 	of 	IN
+Mic 	6 	16 	1 	17 	1 	Ahab 	NN
+Mic 	6 	16 	1 	18 	0 	,
+Mic 	6 	16 	1 	19 	1 	and 	CC
+Mic 	6 	16 	1 	20 	1 	ye 	NN
+Mic 	6 	16 	1 	21 	1 	walk 	NN
+Mic 	6 	16 	1 	22 	1 	in 	IN
+Mic 	6 	16 	1 	23 	1 	their 	PRP$
+Mic 	6 	16 	1 	24 	1 	counsels 	NNS
+Mic 	6 	16 	1 	25 	0 	;
+Mic 	6 	16 	1 	26 	1 	that 	IN
+Mic 	6 	16 	1 	27 	1 	I 	PRP
+Mic 	6 	16 	1 	28 	1 	should 	MD
+Mic 	6 	16 	1 	29 	1 	make 	VB
+Mic 	6 	16 	1 	30 	1 	thee 	NN
+Mic 	6 	16 	1 	31 	1 	a 	DT
+Mic 	6 	16 	1 	32 	1 	desolation 	NN
+Mic 	6 	16 	1 	33 	0 	,
+Mic 	6 	16 	1 	34 	1 	and 	CC
+Mic 	6 	16 	1 	35 	1 	the 	DT
+Mic 	6 	16 	1 	36 	1 	inhabitants 	NNS
+Mic 	6 	16 	1 	37 	1 	thereof 	NN
+Mic 	6 	16 	1 	38 	1 	an 	DT
+Mic 	6 	16 	1 	39 	1 	hissing 	VBG
+Mic 	6 	16 	1 	40 	0 	:
+Mic 	6 	16 	1 	41 	1 	therefore 	RB
+Mic 	6 	16 	1 	42 	1 	ye 	NN
+Mic 	6 	16 	1 	43 	1 	shall 	MD
+Mic 	6 	16 	1 	44 	1 	bear 	NN
+Mic 	6 	16 	1 	45 	1 	the 	DT
+Mic 	6 	16 	1 	46 	1 	reproach 	NN
+Mic 	6 	16 	1 	47 	1 	of 	IN
+Mic 	6 	16 	1 	48 	1 	my 	PRP$
+Mic 	6 	16 	1 	49 	1 	people 	NNS
+Mic 	6 	16 	1 	50 	0 	.
+Mic 	7 	1 	1 	1 	1 	Woe 	NN
+Mic 	7 	1 	1 	2 	1 	is 	VBZ
+Mic 	7 	1 	1 	3 	1 	me 	PRP
+Mic 	7 	1 	1 	4 	0 	!
+Mic 	7 	1 	2 	1 	1 	for 	IN
+Mic 	7 	1 	2 	2 	1 	I 	PRP
+Mic 	7 	1 	2 	3 	1 	am 	VBP
+Mic 	7 	1 	2 	4 	1 	as 	IN
+Mic 	7 	1 	2 	5 	1 	when 	WRB
+Mic 	7 	1 	2 	6 	1 	they 	PRP
+Mic 	7 	1 	2 	7 	1 	have 	VB
+Mic 	7 	1 	2 	8 	1 	gathered 	VBN
+Mic 	7 	1 	2 	9 	1 	the 	DT
+Mic 	7 	1 	2 	10 	1 	summer 	NN
+Mic 	7 	1 	2 	11 	1 	fruits 	NNS
+Mic 	7 	1 	2 	12 	0 	,
+Mic 	7 	1 	2 	13 	1 	as 	IN
+Mic 	7 	1 	2 	14 	1 	the 	DT
+Mic 	7 	1 	2 	15 	1 	grapegleanings 	NNS
+Mic 	7 	1 	2 	16 	1 	of 	IN
+Mic 	7 	1 	2 	17 	1 	the 	DT
+Mic 	7 	1 	2 	18 	1 	vintage 	NN
+Mic 	7 	1 	2 	19 	0 	:
+Mic 	7 	1 	2 	20 	1 	there 	RB
+Mic 	7 	1 	2 	21 	1 	is 	VBZ
+Mic 	7 	1 	2 	22 	1 	no 	DT
+Mic 	7 	1 	2 	23 	1 	cluster 	NN
+Mic 	7 	1 	2 	24 	1 	to 	TO
+Mic 	7 	1 	2 	25 	1 	eat 	NN
+Mic 	7 	1 	2 	26 	0 	:
+Mic 	7 	1 	2 	27 	1 	my 	PRP$
+Mic 	7 	1 	2 	28 	1 	soul 	NN
+Mic 	7 	1 	2 	29 	1 	desired 	VBN
+Mic 	7 	1 	2 	30 	1 	the 	DT
+Mic 	7 	1 	2 	31 	1 	firstripe 	NN
+Mic 	7 	1 	2 	32 	1 	fruit 	NN
+Mic 	7 	1 	2 	33 	0 	.
+Mic 	7 	2 	1 	1 	1 	The 	DT
+Mic 	7 	2 	1 	2 	1 	good 	JJ
+Mic 	7 	2 	1 	3 	1 	man 	NN
+Mic 	7 	2 	1 	4 	1 	is 	VBZ
+Mic 	7 	2 	1 	5 	1 	perished 	VBN
+Mic 	7 	2 	1 	6 	1 	out 	IN
+Mic 	7 	2 	1 	7 	1 	of 	IN
+Mic 	7 	2 	1 	8 	1 	the 	DT
+Mic 	7 	2 	1 	9 	1 	earth 	NN
+Mic 	7 	2 	1 	10 	0 	:
+Mic 	7 	2 	1 	11 	1 	and 	CC
+Mic 	7 	2 	1 	12 	1 	there 	RB
+Mic 	7 	2 	1 	13 	1 	is 	VBZ
+Mic 	7 	2 	1 	14 	1 	none 	NN
+Mic 	7 	2 	1 	15 	1 	upright 	JJ
+Mic 	7 	2 	1 	16 	1 	among 	IN
+Mic 	7 	2 	1 	17 	1 	men 	NNS
+Mic 	7 	2 	1 	18 	0 	:
+Mic 	7 	2 	1 	19 	1 	they 	PRP
+Mic 	7 	2 	1 	20 	1 	all 	DT
+Mic 	7 	2 	1 	21 	1 	lie 	NN
+Mic 	7 	2 	1 	22 	1 	in 	IN
+Mic 	7 	2 	1 	23 	1 	wait 	NN
+Mic 	7 	2 	1 	24 	1 	for 	IN
+Mic 	7 	2 	1 	25 	1 	blood 	NN
+Mic 	7 	2 	1 	26 	0 	;
+Mic 	7 	2 	1 	27 	1 	they 	PRP
+Mic 	7 	2 	1 	28 	1 	hunt 	NN
+Mic 	7 	2 	1 	29 	1 	every 	DT
+Mic 	7 	2 	1 	30 	1 	man 	NN
+Mic 	7 	2 	1 	31 	1 	his 	PRP$
+Mic 	7 	2 	1 	32 	1 	brother 	NN
+Mic 	7 	2 	1 	33 	1 	with 	IN
+Mic 	7 	2 	1 	34 	1 	a 	DT
+Mic 	7 	2 	1 	35 	1 	net 	NN
+Mic 	7 	2 	1 	36 	0 	.
+Mic 	7 	3 	1 	1 	1 	That 	DT
+Mic 	7 	3 	1 	2 	1 	they 	PRP
+Mic 	7 	3 	1 	3 	1 	may 	MD
+Mic 	7 	3 	1 	4 	1 	do 	VB
+Mic 	7 	3 	1 	5 	1 	evil 	NN
+Mic 	7 	3 	1 	6 	1 	with 	IN
+Mic 	7 	3 	1 	7 	1 	both 	DT
+Mic 	7 	3 	1 	8 	1 	hands 	NNS
+Mic 	7 	3 	1 	9 	1 	earnestly 	RB
+Mic 	7 	3 	1 	10 	0 	,
+Mic 	7 	3 	1 	11 	1 	the 	DT
+Mic 	7 	3 	1 	12 	1 	prince 	NN
+Mic 	7 	3 	1 	13 	1 	asketh 	NNS
+Mic 	7 	3 	1 	14 	0 	,
+Mic 	7 	3 	1 	15 	1 	and 	CC
+Mic 	7 	3 	1 	16 	1 	the 	DT
+Mic 	7 	3 	1 	17 	1 	judge 	NN
+Mic 	7 	3 	1 	18 	1 	asketh 	NNS
+Mic 	7 	3 	1 	19 	1 	for 	IN
+Mic 	7 	3 	1 	20 	1 	a 	DT
+Mic 	7 	3 	1 	21 	1 	reward 	NN
+Mic 	7 	3 	1 	22 	0 	;
+Mic 	7 	3 	1 	23 	1 	and 	CC
+Mic 	7 	3 	1 	24 	1 	the 	DT
+Mic 	7 	3 	1 	25 	1 	great 	JJ
+Mic 	7 	3 	1 	26 	1 	man 	NN
+Mic 	7 	3 	1 	27 	0 	,
+Mic 	7 	3 	1 	28 	1 	he 	PRP
+Mic 	7 	3 	1 	29 	1 	uttereth 	NNS
+Mic 	7 	3 	1 	30 	1 	his 	PRP$
+Mic 	7 	3 	1 	31 	1 	mischievous 	JJ
+Mic 	7 	3 	1 	32 	1 	desire 	NN
+Mic 	7 	3 	1 	33 	0 	:
+Mic 	7 	3 	1 	34 	1 	so 	RB
+Mic 	7 	3 	1 	35 	1 	they 	PRP
+Mic 	7 	3 	1 	36 	1 	wrap 	NN
+Mic 	7 	3 	1 	37 	1 	it 	PRP
+Mic 	7 	3 	1 	38 	1 	up 	RB
+Mic 	7 	3 	1 	39 	0 	.
+Mic 	7 	4 	1 	1 	1 	The 	DT
+Mic 	7 	4 	1 	2 	1 	best 	JJS
+Mic 	7 	4 	1 	3 	1 	of 	IN
+Mic 	7 	4 	1 	4 	1 	them 	PRP
+Mic 	7 	4 	1 	5 	1 	is 	VBZ
+Mic 	7 	4 	1 	6 	1 	as 	IN
+Mic 	7 	4 	1 	7 	1 	a 	DT
+Mic 	7 	4 	1 	8 	1 	brier 	NN
+Mic 	7 	4 	1 	9 	0 	:
+Mic 	7 	4 	1 	10 	1 	the 	DT
+Mic 	7 	4 	1 	11 	1 	most 	JJS
+Mic 	7 	4 	1 	12 	1 	upright 	JJ
+Mic 	7 	4 	1 	13 	1 	is 	VBZ
+Mic 	7 	4 	1 	14 	1 	sharper 	NN
+Mic 	7 	4 	1 	15 	1 	than 	IN
+Mic 	7 	4 	1 	16 	1 	a 	DT
+Mic 	7 	4 	1 	17 	1 	thorn 	NN
+Mic 	7 	4 	1 	18 	1 	hedge 	NN
+Mic 	7 	4 	1 	19 	0 	:
+Mic 	7 	4 	1 	20 	1 	the 	DT
+Mic 	7 	4 	1 	21 	1 	day 	NN
+Mic 	7 	4 	1 	22 	1 	of 	IN
+Mic 	7 	4 	1 	23 	1 	thy 	NN
+Mic 	7 	4 	1 	24 	1 	watchmen 	NNS
+Mic 	7 	4 	1 	25 	1 	and 	CC
+Mic 	7 	4 	1 	26 	1 	thy 	NN
+Mic 	7 	4 	1 	27 	1 	visitation 	NN
+Mic 	7 	4 	1 	28 	1 	cometh 	NNS
+Mic 	7 	4 	1 	29 	0 	;
+Mic 	7 	4 	1 	30 	1 	now 	RB
+Mic 	7 	4 	1 	31 	1 	shall 	MD
+Mic 	7 	4 	1 	32 	1 	be 	VB
+Mic 	7 	4 	1 	33 	1 	their 	PRP$
+Mic 	7 	4 	1 	34 	1 	perplexity 	NN
+Mic 	7 	4 	1 	35 	0 	.
+Mic 	7 	5 	1 	1 	1 	Trust 	NNP
+Mic 	7 	5 	1 	2 	1 	ye 	NN
+Mic 	7 	5 	1 	3 	1 	not 	RB
+Mic 	7 	5 	1 	4 	1 	in 	IN
+Mic 	7 	5 	1 	5 	1 	a 	DT
+Mic 	7 	5 	1 	6 	1 	friend 	NN
+Mic 	7 	5 	1 	7 	0 	,
+Mic 	7 	5 	1 	8 	1 	put 	NN
+Mic 	7 	5 	1 	9 	1 	ye 	NN
+Mic 	7 	5 	1 	10 	1 	not 	RB
+Mic 	7 	5 	1 	11 	1 	confidence 	NN
+Mic 	7 	5 	1 	12 	1 	in 	IN
+Mic 	7 	5 	1 	13 	1 	a 	DT
+Mic 	7 	5 	1 	14 	1 	guide 	NN
+Mic 	7 	5 	1 	15 	0 	:
+Mic 	7 	5 	1 	16 	1 	keep 	VB
+Mic 	7 	5 	1 	17 	1 	the 	DT
+Mic 	7 	5 	1 	18 	1 	doors 	NNS
+Mic 	7 	5 	1 	19 	1 	of 	IN
+Mic 	7 	5 	1 	20 	1 	thy 	NN
+Mic 	7 	5 	1 	21 	1 	mouth 	NN
+Mic 	7 	5 	1 	22 	1 	from 	IN
+Mic 	7 	5 	1 	23 	1 	her 	PRP$
+Mic 	7 	5 	1 	24 	1 	that 	IN
+Mic 	7 	5 	1 	25 	1 	lieth 	NN
+Mic 	7 	5 	1 	26 	1 	in 	IN
+Mic 	7 	5 	1 	27 	1 	thy 	NN
+Mic 	7 	5 	1 	28 	1 	bosom 	NN
+Mic 	7 	5 	1 	29 	0 	.
+Mic 	7 	6 	1 	1 	1 	For 	IN
+Mic 	7 	6 	1 	2 	1 	the 	DT
+Mic 	7 	6 	1 	3 	1 	son 	NN
+Mic 	7 	6 	1 	4 	1 	dishonoureth 	NN
+Mic 	7 	6 	1 	5 	1 	the 	DT
+Mic 	7 	6 	1 	6 	1 	father 	NN
+Mic 	7 	6 	1 	7 	0 	,
+Mic 	7 	6 	1 	8 	1 	the 	DT
+Mic 	7 	6 	1 	9 	1 	daughter 	NN
+Mic 	7 	6 	1 	10 	1 	riseth 	NN
+Mic 	7 	6 	1 	11 	1 	up 	RB
+Mic 	7 	6 	1 	12 	1 	against 	IN
+Mic 	7 	6 	1 	13 	1 	her 	PRP$
+Mic 	7 	6 	1 	14 	1 	mother 	NN
+Mic 	7 	6 	1 	15 	0 	,
+Mic 	7 	6 	1 	16 	1 	the 	DT
+Mic 	7 	6 	1 	17 	1 	daughter 	NN
+Mic 	7 	6 	1 	18 	1 	in 	IN
+Mic 	7 	6 	1 	19 	1 	law 	NN
+Mic 	7 	6 	1 	20 	1 	against 	IN
+Mic 	7 	6 	1 	21 	1 	her 	PRP$
+Mic 	7 	6 	1 	22 	1 	mother 	NN
+Mic 	7 	6 	1 	23 	1 	in 	IN
+Mic 	7 	6 	1 	24 	1 	law 	NN
+Mic 	7 	6 	1 	25 	0 	;
+Mic 	7 	6 	1 	26 	1 	a 	DT
+Mic 	7 	6 	1 	27 	1 	man 	NN
+Mic 	7 	6 	1 	28 	0 	's
+Mic 	7 	6 	1 	29 	1 	enemies 	NNS
+Mic 	7 	6 	1 	30 	1 	are 	VBP
+Mic 	7 	6 	1 	31 	1 	the 	DT
+Mic 	7 	6 	1 	32 	1 	men 	NNS
+Mic 	7 	6 	1 	33 	1 	of 	IN
+Mic 	7 	6 	1 	34 	1 	his 	PRP$
+Mic 	7 	6 	1 	35 	1 	own 	JJ
+Mic 	7 	6 	1 	36 	1 	house 	NN
+Mic 	7 	6 	1 	37 	0 	.
+Mic 	7 	7 	1 	1 	1 	Therefore 	RB
+Mic 	7 	7 	1 	2 	1 	I 	PRP
+Mic 	7 	7 	1 	3 	1 	will 	MD
+Mic 	7 	7 	1 	4 	1 	look 	NN
+Mic 	7 	7 	1 	5 	1 	unto 	NN
+Mic 	7 	7 	1 	6 	1 	the 	DT
+Mic 	7 	7 	1 	7 	1 	LORD 	NN
+Mic 	7 	7 	1 	8 	0 	;
+Mic 	7 	7 	1 	9 	1 	I 	PRP
+Mic 	7 	7 	1 	10 	1 	will 	MD
+Mic 	7 	7 	1 	11 	1 	wait 	NN
+Mic 	7 	7 	1 	12 	1 	for 	IN
+Mic 	7 	7 	1 	13 	1 	the 	DT
+Mic 	7 	7 	1 	14 	1 	God 	NNP
+Mic 	7 	7 	1 	15 	1 	of 	IN
+Mic 	7 	7 	1 	16 	1 	my 	PRP$
+Mic 	7 	7 	1 	17 	1 	salvation 	NN
+Mic 	7 	7 	1 	18 	0 	:
+Mic 	7 	7 	1 	19 	1 	my 	PRP$
+Mic 	7 	7 	1 	20 	1 	God 	NNP
+Mic 	7 	7 	1 	21 	1 	will 	MD
+Mic 	7 	7 	1 	22 	1 	hear 	NN
+Mic 	7 	7 	1 	23 	1 	me 	PRP
+Mic 	7 	7 	1 	24 	0 	.
+Mic 	7 	8 	1 	1 	1 	Rejoice 	NN
+Mic 	7 	8 	1 	2 	1 	not 	RB
+Mic 	7 	8 	1 	3 	1 	against 	IN
+Mic 	7 	8 	1 	4 	1 	me 	PRP
+Mic 	7 	8 	1 	5 	0 	,
+Mic 	7 	8 	1 	6 	1 	O 	NN
+Mic 	7 	8 	1 	7 	1 	mine 	NN
+Mic 	7 	8 	1 	8 	1 	enemy 	NN
+Mic 	7 	8 	1 	9 	0 	:
+Mic 	7 	8 	1 	10 	1 	when 	WRB
+Mic 	7 	8 	1 	11 	1 	I 	PRP
+Mic 	7 	8 	1 	12 	1 	fall 	NN
+Mic 	7 	8 	1 	13 	0 	,
+Mic 	7 	8 	1 	14 	1 	I 	PRP
+Mic 	7 	8 	1 	15 	1 	shall 	MD
+Mic 	7 	8 	1 	16 	1 	arise 	NN
+Mic 	7 	8 	1 	17 	0 	;
+Mic 	7 	8 	1 	18 	1 	when 	WRB
+Mic 	7 	8 	1 	19 	1 	I 	PRP
+Mic 	7 	8 	1 	20 	1 	sit 	NN
+Mic 	7 	8 	1 	21 	1 	in 	IN
+Mic 	7 	8 	1 	22 	1 	darkness 	NN
+Mic 	7 	8 	1 	23 	0 	,
+Mic 	7 	8 	1 	24 	1 	the 	DT
+Mic 	7 	8 	1 	25 	1 	LORD 	NN
+Mic 	7 	8 	1 	26 	1 	shall 	MD
+Mic 	7 	8 	1 	27 	1 	be 	VB
+Mic 	7 	8 	1 	28 	1 	a 	DT
+Mic 	7 	8 	1 	29 	1 	light 	NN
+Mic 	7 	8 	1 	30 	1 	unto 	NN
+Mic 	7 	8 	1 	31 	1 	me 	PRP
+Mic 	7 	8 	1 	32 	0 	.
+Mic 	7 	9 	1 	1 	1 	I 	PRP
+Mic 	7 	9 	1 	2 	1 	will 	MD
+Mic 	7 	9 	1 	3 	1 	bear 	NN
+Mic 	7 	9 	1 	4 	1 	the 	DT
+Mic 	7 	9 	1 	5 	1 	indignation 	NN
+Mic 	7 	9 	1 	6 	1 	of 	IN
+Mic 	7 	9 	1 	7 	1 	the 	DT
+Mic 	7 	9 	1 	8 	1 	LORD 	NN
+Mic 	7 	9 	1 	9 	0 	,
+Mic 	7 	9 	1 	10 	1 	because 	IN
+Mic 	7 	9 	1 	11 	1 	I 	PRP
+Mic 	7 	9 	1 	12 	1 	have 	VB
+Mic 	7 	9 	1 	13 	1 	sinned 	VBN
+Mic 	7 	9 	1 	14 	1 	against 	IN
+Mic 	7 	9 	1 	15 	1 	him 	PRP
+Mic 	7 	9 	1 	16 	0 	,
+Mic 	7 	9 	1 	17 	1 	until 	IN
+Mic 	7 	9 	1 	18 	1 	he 	PRP
+Mic 	7 	9 	1 	19 	1 	plead 	NN
+Mic 	7 	9 	1 	20 	1 	my 	PRP$
+Mic 	7 	9 	1 	21 	1 	cause 	NN
+Mic 	7 	9 	1 	22 	0 	,
+Mic 	7 	9 	1 	23 	1 	and 	CC
+Mic 	7 	9 	1 	24 	1 	execute 	NN
+Mic 	7 	9 	1 	25 	1 	judgment 	NN
+Mic 	7 	9 	1 	26 	1 	for 	IN
+Mic 	7 	9 	1 	27 	1 	me 	PRP
+Mic 	7 	9 	1 	28 	0 	:
+Mic 	7 	9 	1 	29 	1 	he 	PRP
+Mic 	7 	9 	1 	30 	1 	will 	MD
+Mic 	7 	9 	1 	31 	1 	bring 	NN
+Mic 	7 	9 	1 	32 	1 	me 	PRP
+Mic 	7 	9 	1 	33 	1 	forth 	NN
+Mic 	7 	9 	1 	34 	1 	to 	TO
+Mic 	7 	9 	1 	35 	1 	the 	DT
+Mic 	7 	9 	1 	36 	1 	light 	NN
+Mic 	7 	9 	1 	37 	0 	,
+Mic 	7 	9 	1 	38 	1 	and 	CC
+Mic 	7 	9 	1 	39 	1 	I 	PRP
+Mic 	7 	9 	1 	40 	1 	shall 	MD
+Mic 	7 	9 	1 	41 	1 	behold 	NN
+Mic 	7 	9 	1 	42 	1 	his 	PRP$
+Mic 	7 	9 	1 	43 	1 	righteousness 	NN
+Mic 	7 	9 	1 	44 	0 	.
+Mic 	7 	10 	1 	1 	1 	Then 	RB
+Mic 	7 	10 	1 	2 	1 	she 	PRP
+Mic 	7 	10 	1 	3 	1 	that 	IN
+Mic 	7 	10 	1 	4 	1 	is 	VBZ
+Mic 	7 	10 	1 	5 	1 	mine 	NN
+Mic 	7 	10 	1 	6 	1 	enemy 	NN
+Mic 	7 	10 	1 	7 	1 	shall 	MD
+Mic 	7 	10 	1 	8 	1 	see 	VB
+Mic 	7 	10 	1 	9 	1 	it 	PRP
+Mic 	7 	10 	1 	10 	0 	,
+Mic 	7 	10 	1 	11 	1 	and 	CC
+Mic 	7 	10 	1 	12 	1 	shame 	NN
+Mic 	7 	10 	1 	13 	1 	shall 	MD
+Mic 	7 	10 	1 	14 	1 	cover 	NN
+Mic 	7 	10 	1 	15 	1 	her 	PRP$
+Mic 	7 	10 	1 	16 	1 	which 	WDT
+Mic 	7 	10 	1 	17 	1 	said 	VBD
+Mic 	7 	10 	1 	18 	1 	unto 	NN
+Mic 	7 	10 	1 	19 	1 	me 	PRP
+Mic 	7 	10 	1 	20 	0 	,
+Mic 	7 	10 	1 	21 	1 	Where 	WRB
+Mic 	7 	10 	1 	22 	1 	is 	VBZ
+Mic 	7 	10 	1 	23 	1 	the 	DT
+Mic 	7 	10 	1 	24 	1 	LORD 	NN
+Mic 	7 	10 	1 	25 	1 	thy 	NN
+Mic 	7 	10 	1 	26 	1 	God 	NNP
+Mic 	7 	10 	1 	27 	0 	?
+Mic 	7 	10 	2 	1 	1 	mine 	NN
+Mic 	7 	10 	2 	2 	1 	eyes 	NNS
+Mic 	7 	10 	2 	3 	1 	shall 	MD
+Mic 	7 	10 	2 	4 	1 	behold 	NN
+Mic 	7 	10 	2 	5 	1 	her 	PRP$
+Mic 	7 	10 	2 	6 	0 	:
+Mic 	7 	10 	2 	7 	1 	now 	RB
+Mic 	7 	10 	2 	8 	1 	shall 	MD
+Mic 	7 	10 	2 	9 	1 	she 	PRP
+Mic 	7 	10 	2 	10 	1 	be 	VB
+Mic 	7 	10 	2 	11 	1 	trodden 	NN
+Mic 	7 	10 	2 	12 	1 	down 	RB
+Mic 	7 	10 	2 	13 	1 	as 	IN
+Mic 	7 	10 	2 	14 	1 	the 	DT
+Mic 	7 	10 	2 	15 	1 	mire 	NN
+Mic 	7 	10 	2 	16 	1 	of 	IN
+Mic 	7 	10 	2 	17 	1 	the 	DT
+Mic 	7 	10 	2 	18 	1 	streets 	NNS
+Mic 	7 	10 	2 	19 	0 	.
+Mic 	7 	11 	1 	1 	1 	In 	IN
+Mic 	7 	11 	1 	2 	1 	the 	DT
+Mic 	7 	11 	1 	3 	1 	day 	NN
+Mic 	7 	11 	1 	4 	1 	that 	IN
+Mic 	7 	11 	1 	5 	1 	thy 	NN
+Mic 	7 	11 	1 	6 	1 	walls 	NNS
+Mic 	7 	11 	1 	7 	1 	are 	VBP
+Mic 	7 	11 	1 	8 	1 	to 	TO
+Mic 	7 	11 	1 	9 	1 	be 	VB
+Mic 	7 	11 	1 	10 	1 	built 	NN
+Mic 	7 	11 	1 	11 	0 	,
+Mic 	7 	11 	1 	12 	1 	in 	IN
+Mic 	7 	11 	1 	13 	1 	that 	IN
+Mic 	7 	11 	1 	14 	1 	day 	NN
+Mic 	7 	11 	1 	15 	1 	shall 	MD
+Mic 	7 	11 	1 	16 	1 	the 	DT
+Mic 	7 	11 	1 	17 	1 	decree 	NN
+Mic 	7 	11 	1 	18 	1 	be 	VB
+Mic 	7 	11 	1 	19 	1 	far 	RB
+Mic 	7 	11 	1 	20 	1 	removed 	VBN
+Mic 	7 	11 	1 	21 	0 	.
+Mic 	7 	12 	1 	1 	1 	In 	IN
+Mic 	7 	12 	1 	2 	1 	that 	IN
+Mic 	7 	12 	1 	3 	1 	day 	NN
+Mic 	7 	12 	1 	4 	1 	also 	RB
+Mic 	7 	12 	1 	5 	1 	he 	PRP
+Mic 	7 	12 	1 	6 	1 	shall 	MD
+Mic 	7 	12 	1 	7 	1 	come 	VB
+Mic 	7 	12 	1 	8 	1 	even 	RB
+Mic 	7 	12 	1 	9 	1 	to 	TO
+Mic 	7 	12 	1 	10 	1 	thee 	NN
+Mic 	7 	12 	1 	11 	1 	from 	IN
+Mic 	7 	12 	1 	12 	1 	Assyria 	NNS
+Mic 	7 	12 	1 	13 	0 	,
+Mic 	7 	12 	1 	14 	1 	and 	CC
+Mic 	7 	12 	1 	15 	1 	from 	IN
+Mic 	7 	12 	1 	16 	1 	the 	DT
+Mic 	7 	12 	1 	17 	1 	fortified 	VBN
+Mic 	7 	12 	1 	18 	1 	cities 	NNS
+Mic 	7 	12 	1 	19 	0 	,
+Mic 	7 	12 	1 	20 	1 	and 	CC
+Mic 	7 	12 	1 	21 	1 	from 	IN
+Mic 	7 	12 	1 	22 	1 	the 	DT
+Mic 	7 	12 	1 	23 	1 	fortress 	NN
+Mic 	7 	12 	1 	24 	1 	even 	RB
+Mic 	7 	12 	1 	25 	1 	to 	TO
+Mic 	7 	12 	1 	26 	1 	the 	DT
+Mic 	7 	12 	1 	27 	1 	river 	NN
+Mic 	7 	12 	1 	28 	0 	,
+Mic 	7 	12 	1 	29 	1 	and 	CC
+Mic 	7 	12 	1 	30 	1 	from 	IN
+Mic 	7 	12 	1 	31 	1 	sea 	NN
+Mic 	7 	12 	1 	32 	1 	to 	TO
+Mic 	7 	12 	1 	33 	1 	sea 	NN
+Mic 	7 	12 	1 	34 	0 	,
+Mic 	7 	12 	1 	35 	1 	and 	CC
+Mic 	7 	12 	1 	36 	1 	from 	IN
+Mic 	7 	12 	1 	37 	1 	mountain 	NN
+Mic 	7 	12 	1 	38 	1 	to 	TO
+Mic 	7 	12 	1 	39 	1 	mountain 	NN
+Mic 	7 	12 	1 	40 	0 	.
+Mic 	7 	13 	1 	1 	1 	Notwithstanding 	VBG
+Mic 	7 	13 	1 	2 	1 	the 	DT
+Mic 	7 	13 	1 	3 	1 	land 	NN
+Mic 	7 	13 	1 	4 	1 	shall 	MD
+Mic 	7 	13 	1 	5 	1 	be 	VB
+Mic 	7 	13 	1 	6 	1 	desolate 	NN
+Mic 	7 	13 	1 	7 	1 	because 	IN
+Mic 	7 	13 	1 	8 	1 	of 	IN
+Mic 	7 	13 	1 	9 	1 	them 	PRP
+Mic 	7 	13 	1 	10 	1 	that 	IN
+Mic 	7 	13 	1 	11 	1 	dwell 	NN
+Mic 	7 	13 	1 	12 	1 	therein 	NN
+Mic 	7 	13 	1 	13 	0 	,
+Mic 	7 	13 	1 	14 	1 	for 	IN
+Mic 	7 	13 	1 	15 	1 	the 	DT
+Mic 	7 	13 	1 	16 	1 	fruit 	NN
+Mic 	7 	13 	1 	17 	1 	of 	IN
+Mic 	7 	13 	1 	18 	1 	their 	PRP$
+Mic 	7 	13 	1 	19 	1 	doings 	NNS
+Mic 	7 	13 	1 	20 	0 	.
+Mic 	7 	14 	1 	1 	1 	Feed 	NN
+Mic 	7 	14 	1 	2 	1 	thy 	NN
+Mic 	7 	14 	1 	3 	1 	people 	NNS
+Mic 	7 	14 	1 	4 	1 	with 	IN
+Mic 	7 	14 	1 	5 	1 	thy 	NN
+Mic 	7 	14 	1 	6 	1 	rod 	NN
+Mic 	7 	14 	1 	7 	0 	,
+Mic 	7 	14 	1 	8 	1 	the 	DT
+Mic 	7 	14 	1 	9 	1 	flock 	NN
+Mic 	7 	14 	1 	10 	1 	of 	IN
+Mic 	7 	14 	1 	11 	1 	thine 	NN
+Mic 	7 	14 	1 	12 	1 	heritage 	NN
+Mic 	7 	14 	1 	13 	0 	,
+Mic 	7 	14 	1 	14 	1 	which 	WDT
+Mic 	7 	14 	1 	15 	1 	dwell 	NN
+Mic 	7 	14 	1 	16 	1 	solitarily 	RB
+Mic 	7 	14 	1 	17 	1 	in 	IN
+Mic 	7 	14 	1 	18 	1 	the 	DT
+Mic 	7 	14 	1 	19 	1 	wood 	NN
+Mic 	7 	14 	1 	20 	0 	,
+Mic 	7 	14 	1 	21 	1 	in 	IN
+Mic 	7 	14 	1 	22 	1 	the 	DT
+Mic 	7 	14 	1 	23 	1 	midst 	NN
+Mic 	7 	14 	1 	24 	1 	of 	IN
+Mic 	7 	14 	1 	25 	1 	Carmel 	NN
+Mic 	7 	14 	1 	26 	0 	:
+Mic 	7 	14 	1 	27 	1 	let 	VB
+Mic 	7 	14 	1 	28 	1 	them 	PRP
+Mic 	7 	14 	1 	29 	1 	feed 	NN
+Mic 	7 	14 	1 	30 	1 	in 	IN
+Mic 	7 	14 	1 	31 	1 	Bashan 	NNP
+Mic 	7 	14 	1 	32 	1 	and 	CC
+Mic 	7 	14 	1 	33 	1 	Gilead 	NN
+Mic 	7 	14 	1 	34 	0 	,
+Mic 	7 	14 	1 	35 	1 	as 	IN
+Mic 	7 	14 	1 	36 	1 	in 	IN
+Mic 	7 	14 	1 	37 	1 	the 	DT
+Mic 	7 	14 	1 	38 	1 	days 	NNS
+Mic 	7 	14 	1 	39 	1 	of 	IN
+Mic 	7 	14 	1 	40 	1 	old 	JJ
+Mic 	7 	14 	1 	41 	0 	.
+Mic 	7 	15 	1 	1 	1 	According 	VBG
+Mic 	7 	15 	1 	2 	1 	to 	TO
+Mic 	7 	15 	1 	3 	1 	the 	DT
+Mic 	7 	15 	1 	4 	1 	days 	NNS
+Mic 	7 	15 	1 	5 	1 	of 	IN
+Mic 	7 	15 	1 	6 	1 	thy 	NN
+Mic 	7 	15 	1 	7 	1 	coming 	VBG
+Mic 	7 	15 	1 	8 	1 	out 	IN
+Mic 	7 	15 	1 	9 	1 	of 	IN
+Mic 	7 	15 	1 	10 	1 	the 	DT
+Mic 	7 	15 	1 	11 	1 	land 	NN
+Mic 	7 	15 	1 	12 	1 	of 	IN
+Mic 	7 	15 	1 	13 	1 	Egypt 	NN
+Mic 	7 	15 	1 	14 	1 	will 	MD
+Mic 	7 	15 	1 	15 	1 	I 	PRP
+Mic 	7 	15 	1 	16 	1 	shew 	NN
+Mic 	7 	15 	1 	17 	1 	unto 	NN
+Mic 	7 	15 	1 	18 	1 	him 	PRP
+Mic 	7 	15 	1 	19 	1 	marvellous 	JJ
+Mic 	7 	15 	1 	20 	1 	things 	NNS
+Mic 	7 	15 	1 	21 	0 	.
+Mic 	7 	16 	1 	1 	1 	The 	DT
+Mic 	7 	16 	1 	2 	1 	nations 	NNS
+Mic 	7 	16 	1 	3 	1 	shall 	MD
+Mic 	7 	16 	1 	4 	1 	see 	VB
+Mic 	7 	16 	1 	5 	1 	and 	CC
+Mic 	7 	16 	1 	6 	1 	be 	VB
+Mic 	7 	16 	1 	7 	1 	confounded 	VBN
+Mic 	7 	16 	1 	8 	1 	at 	IN
+Mic 	7 	16 	1 	9 	1 	all 	DT
+Mic 	7 	16 	1 	10 	1 	their 	PRP$
+Mic 	7 	16 	1 	11 	1 	might 	MD
+Mic 	7 	16 	1 	12 	0 	:
+Mic 	7 	16 	1 	13 	1 	they 	PRP
+Mic 	7 	16 	1 	14 	1 	shall 	MD
+Mic 	7 	16 	1 	15 	1 	lay 	NN
+Mic 	7 	16 	1 	16 	1 	their 	PRP$
+Mic 	7 	16 	1 	17 	1 	hand 	NN
+Mic 	7 	16 	1 	18 	1 	upon 	IN
+Mic 	7 	16 	1 	19 	1 	their 	PRP$
+Mic 	7 	16 	1 	20 	1 	mouth 	NN
+Mic 	7 	16 	1 	21 	0 	,
+Mic 	7 	16 	1 	22 	1 	their 	PRP$
+Mic 	7 	16 	1 	23 	1 	ears 	NNS
+Mic 	7 	16 	1 	24 	1 	shall 	MD
+Mic 	7 	16 	1 	25 	1 	be 	VB
+Mic 	7 	16 	1 	26 	1 	deaf 	NN
+Mic 	7 	16 	1 	27 	0 	.
+Mic 	7 	17 	1 	1 	1 	They 	PRP
+Mic 	7 	17 	1 	2 	1 	shall 	MD
+Mic 	7 	17 	1 	3 	1 	lick 	NN
+Mic 	7 	17 	1 	4 	1 	the 	DT
+Mic 	7 	17 	1 	5 	1 	dust 	NN
+Mic 	7 	17 	1 	6 	1 	like 	IN
+Mic 	7 	17 	1 	7 	1 	a 	DT
+Mic 	7 	17 	1 	8 	1 	serpent 	NN
+Mic 	7 	17 	1 	9 	0 	,
+Mic 	7 	17 	1 	10 	1 	they 	PRP
+Mic 	7 	17 	1 	11 	1 	shall 	MD
+Mic 	7 	17 	1 	12 	1 	move 	NN
+Mic 	7 	17 	1 	13 	1 	out 	IN
+Mic 	7 	17 	1 	14 	1 	of 	IN
+Mic 	7 	17 	1 	15 	1 	their 	PRP$
+Mic 	7 	17 	1 	16 	1 	holes 	NNS
+Mic 	7 	17 	1 	17 	1 	like 	IN
+Mic 	7 	17 	1 	18 	1 	worms 	NNS
+Mic 	7 	17 	1 	19 	1 	of 	IN
+Mic 	7 	17 	1 	20 	1 	the 	DT
+Mic 	7 	17 	1 	21 	1 	earth 	NN
+Mic 	7 	17 	1 	22 	0 	:
+Mic 	7 	17 	1 	23 	1 	they 	PRP
+Mic 	7 	17 	1 	24 	1 	shall 	MD
+Mic 	7 	17 	1 	25 	1 	be 	VB
+Mic 	7 	17 	1 	26 	1 	afraid 	NN
+Mic 	7 	17 	1 	27 	1 	of 	IN
+Mic 	7 	17 	1 	28 	1 	the 	DT
+Mic 	7 	17 	1 	29 	1 	LORD 	NN
+Mic 	7 	17 	1 	30 	1 	our 	PRP$
+Mic 	7 	17 	1 	31 	1 	God 	NNP
+Mic 	7 	17 	1 	32 	0 	,
+Mic 	7 	17 	1 	33 	1 	and 	CC
+Mic 	7 	17 	1 	34 	1 	shall 	MD
+Mic 	7 	17 	1 	35 	1 	fear 	NN
+Mic 	7 	17 	1 	36 	1 	because 	IN
+Mic 	7 	17 	1 	37 	1 	of 	IN
+Mic 	7 	17 	1 	38 	1 	thee 	NN
+Mic 	7 	17 	1 	39 	0 	.
+Mic 	7 	18 	1 	1 	1 	Who 	WP
+Mic 	7 	18 	1 	2 	1 	is 	VBZ
+Mic 	7 	18 	1 	3 	1 	a 	DT
+Mic 	7 	18 	1 	4 	1 	God 	NNP
+Mic 	7 	18 	1 	5 	1 	like 	IN
+Mic 	7 	18 	1 	6 	1 	unto 	NN
+Mic 	7 	18 	1 	7 	1 	thee 	NN
+Mic 	7 	18 	1 	8 	0 	,
+Mic 	7 	18 	1 	9 	1 	that 	IN
+Mic 	7 	18 	1 	10 	1 	pardoneth 	NN
+Mic 	7 	18 	1 	11 	1 	iniquity 	NN
+Mic 	7 	18 	1 	12 	0 	,
+Mic 	7 	18 	1 	13 	1 	and 	CC
+Mic 	7 	18 	1 	14 	1 	passeth 	NN
+Mic 	7 	18 	1 	15 	1 	by 	IN
+Mic 	7 	18 	1 	16 	1 	the 	DT
+Mic 	7 	18 	1 	17 	1 	transgression 	NN
+Mic 	7 	18 	1 	18 	1 	of 	IN
+Mic 	7 	18 	1 	19 	1 	the 	DT
+Mic 	7 	18 	1 	20 	1 	remnant 	NN
+Mic 	7 	18 	1 	21 	1 	of 	IN
+Mic 	7 	18 	1 	22 	1 	his 	PRP$
+Mic 	7 	18 	1 	23 	1 	heritage 	NN
+Mic 	7 	18 	1 	24 	0 	?
+Mic 	7 	18 	2 	1 	1 	he 	PRP
+Mic 	7 	18 	2 	2 	1 	retaineth 	NN
+Mic 	7 	18 	2 	3 	1 	not 	RB
+Mic 	7 	18 	2 	4 	1 	his 	PRP$
+Mic 	7 	18 	2 	5 	1 	anger 	NN
+Mic 	7 	18 	2 	6 	1 	for 	IN
+Mic 	7 	18 	2 	7 	1 	ever 	RB
+Mic 	7 	18 	2 	8 	0 	,
+Mic 	7 	18 	2 	9 	1 	because 	IN
+Mic 	7 	18 	2 	10 	1 	he 	PRP
+Mic 	7 	18 	2 	11 	1 	delighteth 	NN
+Mic 	7 	18 	2 	12 	1 	in 	IN
+Mic 	7 	18 	2 	13 	1 	mercy 	NN
+Mic 	7 	18 	2 	14 	0 	.
+Mic 	7 	19 	1 	1 	1 	He 	PRP
+Mic 	7 	19 	1 	2 	1 	will 	MD
+Mic 	7 	19 	1 	3 	1 	turn 	NN
+Mic 	7 	19 	1 	4 	1 	again 	RB
+Mic 	7 	19 	1 	5 	0 	,
+Mic 	7 	19 	1 	6 	1 	he 	PRP
+Mic 	7 	19 	1 	7 	1 	will 	MD
+Mic 	7 	19 	1 	8 	1 	have 	VB
+Mic 	7 	19 	1 	9 	1 	compassion 	NN
+Mic 	7 	19 	1 	10 	1 	upon 	IN
+Mic 	7 	19 	1 	11 	1 	us 	PRP
+Mic 	7 	19 	1 	12 	0 	;
+Mic 	7 	19 	1 	13 	1 	he 	PRP
+Mic 	7 	19 	1 	14 	1 	will 	MD
+Mic 	7 	19 	1 	15 	1 	subdue 	JJ
+Mic 	7 	19 	1 	16 	1 	our 	PRP$
+Mic 	7 	19 	1 	17 	1 	iniquities 	NNS
+Mic 	7 	19 	1 	18 	0 	;
+Mic 	7 	19 	1 	19 	1 	and 	CC
+Mic 	7 	19 	1 	20 	1 	thou 	NN
+Mic 	7 	19 	1 	21 	1 	wilt 	NN
+Mic 	7 	19 	1 	22 	1 	cast 	NN
+Mic 	7 	19 	1 	23 	1 	all 	DT
+Mic 	7 	19 	1 	24 	1 	their 	PRP$
+Mic 	7 	19 	1 	25 	1 	sins 	NNS
+Mic 	7 	19 	1 	26 	1 	into 	IN
+Mic 	7 	19 	1 	27 	1 	the 	DT
+Mic 	7 	19 	1 	28 	1 	depths 	NNS
+Mic 	7 	19 	1 	29 	1 	of 	IN
+Mic 	7 	19 	1 	30 	1 	the 	DT
+Mic 	7 	19 	1 	31 	1 	sea 	NN
+Mic 	7 	19 	1 	32 	0 	.
+Mic 	7 	20 	1 	1 	1 	Thou 	NN
+Mic 	7 	20 	1 	2 	1 	wilt 	NN
+Mic 	7 	20 	1 	3 	1 	perform 	NN
+Mic 	7 	20 	1 	4 	1 	the 	DT
+Mic 	7 	20 	1 	5 	1 	truth 	NN
+Mic 	7 	20 	1 	6 	1 	to 	TO
+Mic 	7 	20 	1 	7 	1 	Jacob 	NN
+Mic 	7 	20 	1 	8 	0 	,
+Mic 	7 	20 	1 	9 	1 	and 	CC
+Mic 	7 	20 	1 	10 	1 	the 	DT
+Mic 	7 	20 	1 	11 	1 	mercy 	NN
+Mic 	7 	20 	1 	12 	1 	to 	TO
+Mic 	7 	20 	1 	13 	1 	Abraham 	NNP
+Mic 	7 	20 	1 	14 	0 	,
+Mic 	7 	20 	1 	15 	1 	which 	WDT
+Mic 	7 	20 	1 	16 	1 	thou 	NN
+Mic 	7 	20 	1 	17 	1 	hast 	NN
+Mic 	7 	20 	1 	18 	1 	sworn 	NN
+Mic 	7 	20 	1 	19 	1 	unto 	NN
+Mic 	7 	20 	1 	20 	1 	our 	PRP$
+Mic 	7 	20 	1 	21 	1 	fathers 	NNS
+Mic 	7 	20 	1 	22 	1 	from 	IN
+Mic 	7 	20 	1 	23 	1 	the 	DT
+Mic 	7 	20 	1 	24 	1 	days 	NNS
+Mic 	7 	20 	1 	25 	1 	of 	IN
+Mic 	7 	20 	1 	26 	1 	old 	JJ
+Mic 	7 	20 	1 	27 	0 	.

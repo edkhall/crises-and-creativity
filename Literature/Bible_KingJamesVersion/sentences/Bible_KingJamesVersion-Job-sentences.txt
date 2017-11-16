@@ -1,0 +1,1231 @@
+book	chapter	verse_order	sentence_order	sentence
+Job 	1 	1 	1 	There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
+Job 	1 	2 	1 	And there were born unto him seven sons and three daughters.
+Job 	1 	3 	1 	His substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the greatest of all the men of the east.
+Job 	1 	4 	1 	And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them.
+Job 	1 	5 	1 	And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts.
+Job 	1 	5 	2 	Thus did Job continually.
+Job 	1 	6 	1 	Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.
+Job 	1 	7 	1 	And the LORD said unto Satan, Whence comest thou?
+Job 	1 	7 	2 	Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.
+Job 	1 	8 	1 	And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?
+Job 	1 	9 	1 	Then Satan answered the LORD, and said, Doth Job fear God for nought?
+Job 	1 	10 	1 	Hast not thou made an hedge about him, and about his house, and about all that he hath on every side?
+Job 	1 	10 	2 	thou hast blessed the work of his hands, and his substance is increased in the land.
+Job 	1 	11 	1 	But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.
+Job 	1 	12 	1 	And the LORD said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand.
+Job 	1 	12 	2 	So Satan went forth from the presence of the LORD.
+Job 	1 	13 	1 	And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother's house:
+Job 	1 	14 	1 	And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:
+Job 	1 	15 	1 	And the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee.
+Job 	1 	16 	1 	While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee.
+Job 	1 	17 	1 	While he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee.
+Job 	1 	18 	1 	While he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother's house:
+Job 	1 	19 	1 	And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee.
+Job 	1 	20 	1 	Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,
+Job 	1 	21 	1 	And said, Naked came I out of my mother's womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.
+Job 	1 	22 	1 	In all this Job sinned not, nor charged God foolishly.
+Job 	2 	1 	1 	Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.
+Job 	2 	2 	1 	And the LORD said unto Satan, From whence comest thou?
+Job 	2 	2 	2 	And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.
+Job 	2 	3 	1 	And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?
+Job 	2 	3 	2 	and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.
+Job 	2 	4 	1 	And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life.
+Job 	2 	5 	1 	But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.
+Job 	2 	6 	1 	And the LORD said unto Satan, Behold, he is in thine hand; but save his life.
+Job 	2 	7 	1 	So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.
+Job 	2 	8 	1 	And he took him a potsherd to scrape himself withal; and he sat down among the ashes.
+Job 	2 	9 	1 	Then said his wife unto him, Dost thou still retain thine integrity?
+Job 	2 	9 	2 	curse God, and die.
+Job 	2 	10 	1 	But he said unto her, Thou speakest as one of the foolish women speaketh.
+Job 	2 	10 	2 	What?
+Job 	2 	10 	3 	shall we receive good at the hand of God, and shall we not receive evil?
+Job 	2 	10 	4 	In all this did not Job sin with his lips.
+Job 	2 	11 	1 	Now when Job's three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.
+Job 	2 	12 	1 	And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven.
+Job 	2 	13 	1 	So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great.
+Job 	3 	1 	1 	After this opened Job his mouth, and cursed his day.
+Job 	3 	2 	1 	And Job spake, and said,
+Job 	3 	3 	1 	Let the day perish wherein I was born, and the night in which it was said, There is a man child conceived.
+Job 	3 	4 	1 	Let that day be darkness; let not God regard it from above, neither let the light shine upon it.
+Job 	3 	5 	1 	Let darkness and the shadow of death stain it; let a cloud dwell upon it; let the blackness of the day terrify it.
+Job 	3 	6 	1 	As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months.
+Job 	3 	7 	1 	Lo, let that night be solitary, let no joyful voice come therein.
+Job 	3 	8 	1 	Let them curse it that curse the day, who are ready to raise up their mourning.
+Job 	3 	9 	1 	Let the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:
+Job 	3 	10 	1 	Because it shut not up the doors of my mother's womb, nor hid sorrow from mine eyes.
+Job 	3 	11 	1 	Why died I not from the womb?
+Job 	3 	11 	2 	why did I not give up the ghost when I came out of the belly?
+Job 	3 	12 	1 	Why did the knees prevent me?
+Job 	3 	12 	2 	or why the breasts that I should suck?
+Job 	3 	13 	1 	For now should I have lain still and been quiet, I should have slept: then had I been at rest,
+Job 	3 	14 	1 	With kings and counsellors of the earth, which build desolate places for themselves;
+Job 	3 	15 	1 	Or with princes that had gold, who filled their houses with silver:
+Job 	3 	16 	1 	Or as an hidden untimely birth I had not been; as infants which never saw light.
+Job 	3 	17 	1 	There the wicked cease from troubling; and there the weary be at rest.
+Job 	3 	18 	1 	There the prisoners rest together; they hear not the voice of the oppressor.
+Job 	3 	19 	1 	The small and great are there; and the servant is free from his master.
+Job 	3 	20 	1 	Wherefore is light given to him that is in misery, and life unto the bitter in soul;
+Job 	3 	21 	1 	Which long for death, but it cometh not; and dig for it more than for hid treasures;
+Job 	3 	22 	1 	Which rejoice exceedingly, and are glad, when they can find the grave?
+Job 	3 	23 	1 	Why is light given to a man whose way is hid, and whom God hath hedged in?
+Job 	3 	24 	1 	For my sighing cometh before I eat, and my roarings are poured out like the waters.
+Job 	3 	25 	1 	For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me.
+Job 	3 	26 	1 	I was not in safety, neither had I rest, neither was I quiet; yet trouble came.
+Job 	4 	1 	1 	Then Eliphaz the Temanite answered and said,
+Job 	4 	2 	1 	If we assay to commune with thee, wilt thou be grieved?
+Job 	4 	2 	2 	but who can withhold himself from speaking?
+Job 	4 	3 	1 	Behold, thou hast instructed many, and thou hast strengthened the weak hands.
+Job 	4 	4 	1 	Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.
+Job 	4 	5 	1 	But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled.
+Job 	4 	6 	1 	Is not this thy fear, thy confidence, thy hope, and the uprightness of thy ways?
+Job 	4 	7 	1 	Remember, I pray thee, who ever perished, being innocent?
+Job 	4 	7 	2 	or where were the righteous cut off?
+Job 	4 	8 	1 	Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.
+Job 	4 	9 	1 	By the blast of God they perish, and by the breath of his nostrils are they consumed.
+Job 	4 	10 	1 	The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.
+Job 	4 	11 	1 	The old lion perisheth for lack of prey, and the stout lion's whelps are scattered abroad.
+Job 	4 	12 	1 	Now a thing was secretly brought to me, and mine ear received a little thereof.
+Job 	4 	13 	1 	In thoughts from the visions of the night, when deep sleep falleth on men,
+Job 	4 	14 	1 	Fear came upon me, and trembling, which made all my bones to shake.
+Job 	4 	15 	1 	Then a spirit passed before my face; the hair of my flesh stood up:
+Job 	4 	16 	1 	It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,
+Job 	4 	17 	1 	Shall mortal man be more just than God?
+Job 	4 	17 	2 	shall a man be more pure than his maker?
+Job 	4 	18 	1 	Behold, he put no trust in his servants; and his angels he charged with folly:
+Job 	4 	19 	1 	How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?
+Job 	4 	20 	1 	They are destroyed from morning to evening: they perish for ever without any regarding it.
+Job 	4 	21 	1 	Doth not their excellency which is in them go away?
+Job 	4 	21 	2 	they die, even without wisdom.
+Job 	5 	1 	1 	Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?
+Job 	5 	2 	1 	For wrath killeth the foolish man, and envy slayeth the silly one.
+Job 	5 	3 	1 	I have seen the foolish taking root: but suddenly I cursed his habitation.
+Job 	5 	4 	1 	His children are far from safety, and they are crushed in the gate, neither is there any to deliver them.
+Job 	5 	5 	1 	Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.
+Job 	5 	6 	1 	Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;
+Job 	5 	7 	1 	Yet man is born unto trouble, as the sparks fly upward.
+Job 	5 	8 	1 	I would seek unto God, and unto God would I commit my cause:
+Job 	5 	9 	1 	Which doeth great things and unsearchable; marvellous things without number:
+Job 	5 	10 	1 	Who giveth rain upon the earth, and sendeth waters upon the fields:
+Job 	5 	11 	1 	To set up on high those that be low; that those which mourn may be exalted to safety.
+Job 	5 	12 	1 	He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.
+Job 	5 	13 	1 	He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.
+Job 	5 	14 	1 	They meet with darkness in the day time, and grope in the noonday as in the night.
+Job 	5 	15 	1 	But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.
+Job 	5 	16 	1 	So the poor hath hope, and iniquity stoppeth her mouth.
+Job 	5 	17 	1 	Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:
+Job 	5 	18 	1 	For he maketh sore, and bindeth up: he woundeth, and his hands make whole.
+Job 	5 	19 	1 	He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.
+Job 	5 	20 	1 	In famine he shall redeem thee from death: and in war from the power of the sword.
+Job 	5 	21 	1 	Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.
+Job 	5 	22 	1 	At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.
+Job 	5 	23 	1 	For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.
+Job 	5 	24 	1 	And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.
+Job 	5 	25 	1 	Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth.
+Job 	5 	26 	1 	Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.
+Job 	5 	27 	1 	Lo this, we have searched it, so it is; hear it, and know thou it for thy good.
+Job 	6 	1 	1 	But Job answered and said,
+Job 	6 	2 	1 	Oh that my grief were throughly weighed, and my calamity laid in the balances together!
+Job 	6 	3 	1 	For now it would be heavier than the sand of the sea: therefore my words are swallowed up.
+Job 	6 	4 	1 	For the arrows of the Almighty are within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me.
+Job 	6 	5 	1 	Doth the wild ass bray when he hath grass?
+Job 	6 	5 	2 	or loweth the ox over his fodder?
+Job 	6 	6 	1 	Can that which is unsavoury be eaten without salt?
+Job 	6 	6 	2 	or is there any taste in the white of an egg?
+Job 	6 	7 	1 	The things that my soul refused to touch are as my sorrowful meat.
+Job 	6 	8 	1 	Oh that I might have my request; and that God would grant me the thing that I long for!
+Job 	6 	9 	1 	Even that it would please God to destroy me; that he would let loose his hand, and cut me off!
+Job 	6 	10 	1 	Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.
+Job 	6 	11 	1 	What is my strength, that I should hope?
+Job 	6 	11 	2 	and what is mine end, that I should prolong my life?
+Job 	6 	12 	1 	Is my strength the strength of stones?
+Job 	6 	12 	2 	or is my flesh of brass?
+Job 	6 	13 	1 	Is not my help in me?
+Job 	6 	13 	2 	and is wisdom driven quite from me?
+Job 	6 	14 	1 	To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.
+Job 	6 	15 	1 	My brethren have dealt deceitfully as a brook, and as the stream of brooks they pass away;
+Job 	6 	16 	1 	Which are blackish by reason of the ice, and wherein the snow is hid:
+Job 	6 	17 	1 	What time they wax warm, they vanish: when it is hot, they are consumed out of their place.
+Job 	6 	18 	1 	The paths of their way are turned aside; they go to nothing, and perish.
+Job 	6 	19 	1 	The troops of Tema looked, the companies of Sheba waited for them.
+Job 	6 	20 	1 	They were confounded because they had hoped; they came thither, and were ashamed.
+Job 	6 	21 	1 	For now ye are nothing; ye see my casting down, and are afraid.
+Job 	6 	22 	1 	Did I say, Bring unto me?
+Job 	6 	22 	2 	or, Give a reward for me of your substance?
+Job 	6 	23 	1 	Or, Deliver me from the enemy's hand?
+Job 	6 	23 	2 	or, Redeem me from the hand of the mighty?
+Job 	6 	24 	1 	Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.
+Job 	6 	25 	1 	How forcible are right words!
+Job 	6 	25 	2 	but what doth your arguing reprove?
+Job 	6 	26 	1 	Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?
+Job 	6 	27 	1 	Yea, ye overwhelm the fatherless, and ye dig a pit for your friend.
+Job 	6 	28 	1 	Now therefore be content, look upon me; for it is evident unto you if I lie.
+Job 	6 	29 	1 	Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it.
+Job 	6 	30 	1 	Is there iniquity in my tongue?
+Job 	6 	30 	2 	cannot my taste discern perverse things?
+Job 	7 	1 	1 	Is there not an appointed time to man upon earth?
+Job 	7 	1 	2 	are not his days also like the days of an hireling?
+Job 	7 	2 	1 	As a servant earnestly desireth the shadow, and as an hireling looketh for the reward of his work:
+Job 	7 	3 	1 	So am I made to possess months of vanity, and wearisome nights are appointed to me.
+Job 	7 	4 	1 	When I lie down, I say, When shall I arise, and the night be gone?
+Job 	7 	4 	2 	and I am full of tossings to and fro unto the dawning of the day.
+Job 	7 	5 	1 	My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.
+Job 	7 	6 	1 	My days are swifter than a weaver's shuttle, and are spent without hope.
+Job 	7 	7 	1 	O remember that my life is wind: mine eye shall no more see good.
+Job 	7 	8 	1 	The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not.
+Job 	7 	9 	1 	As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more.
+Job 	7 	10 	1 	He shall return no more to his house, neither shall his place know him any more.
+Job 	7 	11 	1 	Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.
+Job 	7 	12 	1 	Am I a sea, or a whale, that thou settest a watch over me?
+Job 	7 	13 	1 	When I say, My bed shall comfort me, my couch shall ease my complaints;
+Job 	7 	14 	1 	Then thou scarest me with dreams, and terrifiest me through visions:
+Job 	7 	15 	1 	So that my soul chooseth strangling, and death rather than my life.
+Job 	7 	16 	1 	I loathe it; I would not live alway: let me alone; for my days are vanity.
+Job 	7 	17 	1 	What is man, that thou shouldest magnify him?
+Job 	7 	17 	2 	and that thou shouldest set thine heart upon him?
+Job 	7 	18 	1 	And that thou shouldest visit him every morning, and try him every moment?
+Job 	7 	19 	1 	How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?
+Job 	7 	20 	1 	I have sinned; what shall I do unto thee, O thou preserver of men?
+Job 	7 	20 	2 	why hast thou set me as a mark against thee, so that I am a burden to myself?
+Job 	7 	21 	1 	And why dost thou not pardon my transgression, and take away my iniquity?
+Job 	7 	21 	2 	for now shall I sleep in the dust; and thou shalt seek me in the morning, but I shall not be.
+Job 	8 	1 	1 	Then answered Bildad the Shuhite, and said,
+Job 	8 	2 	1 	How long wilt thou speak these things?
+Job 	8 	2 	2 	and how long shall the words of thy mouth be like a strong wind?
+Job 	8 	3 	1 	Doth God pervert judgment?
+Job 	8 	3 	2 	or doth the Almighty pervert justice?
+Job 	8 	4 	1 	If thy children have sinned against him, and he have cast them away for their transgression;
+Job 	8 	5 	1 	If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;
+Job 	8 	6 	1 	If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous.
+Job 	8 	7 	1 	Though thy beginning was small, yet thy latter end should greatly increase.
+Job 	8 	8 	1 	For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:
+Job 	8 	9 	1 	(For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)
+Job 	8 	10 	1 	Shall not they teach thee, and tell thee, and utter words out of their heart?
+Job 	8 	11 	1 	Can the rush grow up without mire?
+Job 	8 	11 	2 	can the flag grow without water?
+Job 	8 	12 	1 	Whilst it is yet in his greenness, and not cut down, it withereth before any other herb.
+Job 	8 	13 	1 	So are the paths of all that forget God; and the hypocrite's hope shall perish:
+Job 	8 	14 	1 	Whose hope shall be cut off, and whose trust shall be a spider's web.
+Job 	8 	15 	1 	He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure.
+Job 	8 	16 	1 	He is green before the sun, and his branch shooteth forth in his garden.
+Job 	8 	17 	1 	His roots are wrapped about the heap, and seeth the place of stones.
+Job 	8 	18 	1 	If he destroy him from his place, then it shall deny him, saying, I have not seen thee.
+Job 	8 	19 	1 	Behold, this is the joy of his way, and out of the earth shall others grow.
+Job 	8 	20 	1 	Behold, God will not cast away a perfect man, neither will he help the evil doers:
+Job 	8 	21 	1 	Till he fill thy mouth with laughing, and thy lips with rejoicing.
+Job 	8 	22 	1 	They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.
+Job 	9 	1 	1 	Then Job answered and said,
+Job 	9 	2 	1 	I know it is so of a truth: but how should man be just with God?
+Job 	9 	3 	1 	If he will contend with him, he cannot answer him one of a thousand.
+Job 	9 	4 	1 	He is wise in heart, and mighty in strength: who hath hardened himself against him, and hath prospered?
+Job 	9 	5 	1 	Which removeth the mountains, and they know not: which overturneth them in his anger.
+Job 	9 	6 	1 	Which shaketh the earth out of her place, and the pillars thereof tremble.
+Job 	9 	7 	1 	Which commandeth the sun, and it riseth not; and sealeth up the stars.
+Job 	9 	8 	1 	Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.
+Job 	9 	9 	1 	Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south.
+Job 	9 	10 	1 	Which doeth great things past finding out; yea, and wonders without number.
+Job 	9 	11 	1 	Lo, he goeth by me, and I see him not: he passeth on also, but I perceive him not.
+Job 	9 	12 	1 	Behold, he taketh away, who can hinder him?
+Job 	9 	12 	2 	who will say unto him, What doest thou?
+Job 	9 	13 	1 	If God will not withdraw his anger, the proud helpers do stoop under him.
+Job 	9 	14 	1 	How much less shall I answer him, and choose out my words to reason with him?
+Job 	9 	15 	1 	Whom, though I were righteous, yet would I not answer, but I would make supplication to my judge.
+Job 	9 	16 	1 	If I had called, and he had answered me; yet would I not believe that he had hearkened unto my voice.
+Job 	9 	17 	1 	For he breaketh me with a tempest, and multiplieth my wounds without cause.
+Job 	9 	18 	1 	He will not suffer me to take my breath, but filleth me with bitterness.
+Job 	9 	19 	1 	If I speak of strength, lo, he is strong: and if of judgment, who shall set me a time to plead?
+Job 	9 	20 	1 	If I justify myself, mine own mouth shall condemn me: if I say, I am perfect, it shall also prove me perverse.
+Job 	9 	21 	1 	Though I were perfect, yet would I not know my soul: I would despise my life.
+Job 	9 	22 	1 	This is one thing, therefore I said it, He destroyeth the perfect and the wicked.
+Job 	9 	23 	1 	If the scourge slay suddenly, he will laugh at the trial of the innocent.
+Job 	9 	24 	1 	The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?
+Job 	9 	25 	1 	Now my days are swifter than a post: they flee away, they see no good.
+Job 	9 	26 	1 	They are passed away as the swift ships: as the eagle that hasteth to the prey.
+Job 	9 	27 	1 	If I say, I will forget my complaint, I will leave off my heaviness, and comfort myself:
+Job 	9 	28 	1 	I am afraid of all my sorrows, I know that thou wilt not hold me innocent.
+Job 	9 	29 	1 	If I be wicked, why then labour I in vain?
+Job 	9 	30 	1 	If I wash myself with snow water, and make my hands never so clean;
+Job 	9 	31 	1 	Yet shalt thou plunge me in the ditch, and mine own clothes shall abhor me.
+Job 	9 	32 	1 	For he is not a man, as I am, that I should answer him, and we should come together in judgment.
+Job 	9 	33 	1 	Neither is there any daysman betwixt us, that might lay his hand upon us both.
+Job 	9 	34 	1 	Let him take his rod away from me, and let not his fear terrify me:
+Job 	9 	35 	1 	Then would I speak, and not fear him; but it is not so with me.
+Job 	10 	1 	1 	My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.
+Job 	10 	2 	1 	I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.
+Job 	10 	3 	1 	Is it good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?
+Job 	10 	4 	1 	Hast thou eyes of flesh?
+Job 	10 	4 	2 	or seest thou as man seeth?
+Job 	10 	5 	1 	Are thy days as the days of man?
+Job 	10 	5 	2 	are thy years as man's days,
+Job 	10 	6 	1 	That thou enquirest after mine iniquity, and searchest after my sin?
+Job 	10 	7 	1 	Thou knowest that I am not wicked; and there is none that can deliver out of thine hand.
+Job 	10 	8 	1 	Thine hands have made me and fashioned me together round about; yet thou dost destroy me.
+Job 	10 	9 	1 	Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?
+Job 	10 	10 	1 	Hast thou not poured me out as milk, and curdled me like cheese?
+Job 	10 	11 	1 	Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.
+Job 	10 	12 	1 	Thou hast granted me life and favour, and thy visitation hath preserved my spirit.
+Job 	10 	13 	1 	And these things hast thou hid in thine heart: I know that this is with thee.
+Job 	10 	14 	1 	If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.
+Job 	10 	15 	1 	If I be wicked, woe unto me; and if I be righteous, yet will I not lift up my head.
+Job 	10 	15 	2 	I am full of confusion; therefore see thou mine affliction;
+Job 	10 	16 	1 	For it increaseth.
+Job 	10 	16 	2 	Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.
+Job 	10 	17 	1 	Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.
+Job 	10 	18 	1 	Wherefore then hast thou brought me forth out of the womb?
+Job 	10 	18 	2 	Oh that I had given up the ghost, and no eye had seen me!
+Job 	10 	19 	1 	I should have been as though I had not been; I should have been carried from the womb to the grave.
+Job 	10 	20 	1 	Are not my days few?
+Job 	10 	20 	2 	cease then, and let me alone, that I may take comfort a little,
+Job 	10 	21 	1 	Before I go whence I shall not return, even to the land of darkness and the shadow of death;
+Job 	10 	22 	1 	A land of darkness, as darkness itself; and of the shadow of death, without any order, and where the light is as darkness.
+Job 	11 	1 	1 	Then answered Zophar the Naamathite, and said,
+Job 	11 	2 	1 	Should not the multitude of words be answered?
+Job 	11 	2 	2 	and should a man full of talk be justified?
+Job 	11 	3 	1 	Should thy lies make men hold their peace?
+Job 	11 	3 	2 	and when thou mockest, shall no man make thee ashamed?
+Job 	11 	4 	1 	For thou hast said, My doctrine is pure, and I am clean in thine eyes.
+Job 	11 	5 	1 	But oh that God would speak, and open his lips against thee;
+Job 	11 	6 	1 	And that he would shew thee the secrets of wisdom, that they are double to that which is!
+Job 	11 	6 	2 	Know therefore that God exacteth of thee less than thine iniquity deserveth.
+Job 	11 	7 	1 	Canst thou by searching find out God?
+Job 	11 	7 	2 	canst thou find out the Almighty unto perfection?
+Job 	11 	8 	1 	It is as high as heaven; what canst thou do?
+Job 	11 	8 	2 	deeper than hell; what canst thou know?
+Job 	11 	9 	1 	The measure thereof is longer than the earth, and broader than the sea.
+Job 	11 	10 	1 	If he cut off, and shut up, or gather together, then who can hinder him?
+Job 	11 	11 	1 	For he knoweth vain men: he seeth wickedness also; will he not then consider it?
+Job 	11 	12 	1 	For vain men would be wise, though man be born like a wild ass's colt.
+Job 	11 	13 	1 	If thou prepare thine heart, and stretch out thine hands toward him;
+Job 	11 	14 	1 	If iniquity be in thine hand, put it far away, and let not wickedness dwell in thy tabernacles.
+Job 	11 	15 	1 	For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:
+Job 	11 	16 	1 	Because thou shalt forget thy misery, and remember it as waters that pass away:
+Job 	11 	17 	1 	And thine age shall be clearer than the noonday: thou shalt shine forth, thou shalt be as the morning.
+Job 	11 	18 	1 	And thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety.
+Job 	11 	19 	1 	Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee.
+Job 	11 	20 	1 	But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.
+Job 	12 	1 	1 	And Job answered and said,
+Job 	12 	2 	1 	No doubt but ye are the people, and wisdom shall die with you.
+Job 	12 	3 	1 	But I have understanding as well as you; I am not inferior to you: yea, who knoweth not such things as these?
+Job 	12 	4 	1 	I am as one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright man is laughed to scorn.
+Job 	12 	5 	1 	He that is ready to slip with his feet is as a lamp despised in the thought of him that is at ease.
+Job 	12 	6 	1 	The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth abundantly.
+Job 	12 	7 	1 	But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:
+Job 	12 	8 	1 	Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee.
+Job 	12 	9 	1 	Who knoweth not in all these that the hand of the LORD hath wrought this?
+Job 	12 	10 	1 	In whose hand is the soul of every living thing, and the breath of all mankind.
+Job 	12 	11 	1 	Doth not the ear try words?
+Job 	12 	11 	2 	and the mouth taste his meat?
+Job 	12 	12 	1 	With the ancient is wisdom; and in length of days understanding.
+Job 	12 	13 	1 	With him is wisdom and strength, he hath counsel and understanding.
+Job 	12 	14 	1 	Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening.
+Job 	12 	15 	1 	Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth.
+Job 	12 	16 	1 	With him is strength and wisdom: the deceived and the deceiver are his.
+Job 	12 	17 	1 	He leadeth counsellors away spoiled, and maketh the judges fools.
+Job 	12 	18 	1 	He looseth the bond of kings, and girdeth their loins with a girdle.
+Job 	12 	19 	1 	He leadeth princes away spoiled, and overthroweth the mighty.
+Job 	12 	20 	1 	He removeth away the speech of the trusty, and taketh away the understanding of the aged.
+Job 	12 	21 	1 	He poureth contempt upon princes, and weakeneth the strength of the mighty.
+Job 	12 	22 	1 	He discovereth deep things out of darkness, and bringeth out to light the shadow of death.
+Job 	12 	23 	1 	He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them again.
+Job 	12 	24 	1 	He taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness where there is no way.
+Job 	12 	25 	1 	They grope in the dark without light, and he maketh them to stagger like a drunken man.
+Job 	13 	1 	1 	Lo, mine eye hath seen all this, mine ear hath heard and understood it.
+Job 	13 	2 	1 	What ye know, the same do I know also: I am not inferior unto you.
+Job 	13 	3 	1 	Surely I would speak to the Almighty, and I desire to reason with God.
+Job 	13 	4 	1 	But ye are forgers of lies, ye are all physicians of no value.
+Job 	13 	5 	1 	O that ye would altogether hold your peace!
+Job 	13 	5 	2 	and it should be your wisdom.
+Job 	13 	6 	1 	Hear now my reasoning, and hearken to the pleadings of my lips.
+Job 	13 	7 	1 	Will ye speak wickedly for God?
+Job 	13 	7 	2 	and talk deceitfully for him?
+Job 	13 	8 	1 	Will ye accept his person?
+Job 	13 	8 	2 	will ye contend for God?
+Job 	13 	9 	1 	Is it good that he should search you out?
+Job 	13 	9 	2 	or as one man mocketh another, do ye so mock him?
+Job 	13 	10 	1 	He will surely reprove you, if ye do secretly accept persons.
+Job 	13 	11 	1 	Shall not his excellency make you afraid?
+Job 	13 	11 	2 	and his dread fall upon you?
+Job 	13 	12 	1 	Your remembrances are like unto ashes, your bodies to bodies of clay.
+Job 	13 	13 	1 	Hold your peace, let me alone, that I may speak, and let come on me what will.
+Job 	13 	14 	1 	Wherefore do I take my flesh in my teeth, and put my life in mine hand?
+Job 	13 	15 	1 	Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.
+Job 	13 	16 	1 	He also shall be my salvation: for an hypocrite shall not come before him.
+Job 	13 	17 	1 	Hear diligently my speech, and my declaration with your ears.
+Job 	13 	18 	1 	Behold now, I have ordered my cause; I know that I shall be justified.
+Job 	13 	19 	1 	Who is he that will plead with me?
+Job 	13 	19 	2 	for now, if I hold my tongue, I shall give up the ghost.
+Job 	13 	20 	1 	Only do not two things unto me: then will I not hide myself from thee.
+Job 	13 	21 	1 	Withdraw thine hand far from me: and let not thy dread make me afraid.
+Job 	13 	22 	1 	Then call thou, and I will answer: or let me speak, and answer thou me.
+Job 	13 	23 	1 	How many are mine iniquities and sins?
+Job 	13 	23 	2 	make me to know my transgression and my sin.
+Job 	13 	24 	1 	Wherefore hidest thou thy face, and holdest me for thine enemy?
+Job 	13 	25 	1 	Wilt thou break a leaf driven to and fro?
+Job 	13 	25 	2 	and wilt thou pursue the dry stubble?
+Job 	13 	26 	1 	For thou writest bitter things against me, and makest me to possess the iniquities of my youth.
+Job 	13 	27 	1 	Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet.
+Job 	13 	28 	1 	And he, as a rotten thing, consumeth, as a garment that is moth eaten.
+Job 	14 	1 	1 	Man that is born of a woman is of few days and full of trouble.
+Job 	14 	2 	1 	He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.
+Job 	14 	3 	1 	And doth thou open thine eyes upon such an one, and bringest me into judgment with thee?
+Job 	14 	4 	1 	Who can bring a clean thing out of an unclean?
+Job 	14 	4 	2 	not one.
+Job 	14 	5 	1 	Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass;
+Job 	14 	6 	1 	Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.
+Job 	14 	7 	1 	For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.
+Job 	14 	8 	1 	Though the root thereof wax old in the earth, and the stock thereof die in the ground;
+Job 	14 	9 	1 	Yet through the scent of water it will bud, and bring forth boughs like a plant.
+Job 	14 	10 	1 	But man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?
+Job 	14 	11 	1 	As the waters fail from the sea, and the flood decayeth and drieth up:
+Job 	14 	12 	1 	So man lieth down, and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep.
+Job 	14 	13 	1 	O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!
+Job 	14 	14 	1 	If a man die, shall he live again?
+Job 	14 	14 	2 	all the days of my appointed time will I wait, till my change come.
+Job 	14 	15 	1 	Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands.
+Job 	14 	16 	1 	For now thou numberest my steps: dost thou not watch over my sin?
+Job 	14 	17 	1 	My transgression is sealed up in a bag, and thou sewest up mine iniquity.
+Job 	14 	18 	1 	And surely the mountains falling cometh to nought, and the rock is removed out of his place.
+Job 	14 	19 	1 	The waters wear the stones: thou washest away the things which grow out of the dust of the earth; and thou destroyest the hope of man.
+Job 	14 	20 	1 	Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.
+Job 	14 	21 	1 	His sons come to honour, and he knoweth it not; and they are brought low, but he perceiveth it not of them.
+Job 	14 	22 	1 	But his flesh upon him shall have pain, and his soul within him shall mourn.
+Job 	15 	1 	1 	Then answered Eliphaz the Temanite, and said,
+Job 	15 	2 	1 	Should a wise man utter vain knowledge, and fill his belly with the east wind?
+Job 	15 	3 	1 	Should he reason with unprofitable talk?
+Job 	15 	3 	2 	or with speeches wherewith he can do no good?
+Job 	15 	4 	1 	Yea, thou castest off fear, and restrainest prayer before God.
+Job 	15 	5 	1 	For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.
+Job 	15 	6 	1 	Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee.
+Job 	15 	7 	1 	Art thou the first man that was born?
+Job 	15 	7 	2 	or wast thou made before the hills?
+Job 	15 	8 	1 	Hast thou heard the secret of God?
+Job 	15 	8 	2 	and dost thou restrain wisdom to thyself?
+Job 	15 	9 	1 	What knowest thou, that we know not?
+Job 	15 	9 	2 	what understandest thou, which is not in us?
+Job 	15 	10 	1 	With us are both the grayheaded and very aged men, much elder than thy father.
+Job 	15 	11 	1 	Are the consolations of God small with thee?
+Job 	15 	11 	2 	is there any secret thing with thee?
+Job 	15 	12 	1 	Why doth thine heart carry thee away?
+Job 	15 	12 	2 	and what do thy eyes wink at,
+Job 	15 	13 	1 	That thou turnest thy spirit against God, and lettest such words go out of thy mouth?
+Job 	15 	14 	1 	What is man, that he should be clean?
+Job 	15 	14 	2 	and he which is born of a woman, that he should be righteous?
+Job 	15 	15 	1 	Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight.
+Job 	15 	16 	1 	How much more abominable and filthy is man, which drinketh iniquity like water?
+Job 	15 	17 	1 	I will shew thee, hear me; and that which I have seen I will declare;
+Job 	15 	18 	1 	Which wise men have told from their fathers, and have not hid it:
+Job 	15 	19 	1 	Unto whom alone the earth was given, and no stranger passed among them.
+Job 	15 	20 	1 	The wicked man travaileth with pain all his days, and the number of years is hidden to the oppressor.
+Job 	15 	21 	1 	A dreadful sound is in his ears: in prosperity the destroyer shall come upon him.
+Job 	15 	22 	1 	He believeth not that he shall return out of darkness, and he is waited for of the sword.
+Job 	15 	23 	1 	He wandereth abroad for bread, saying, Where is it?
+Job 	15 	23 	2 	he knoweth that the day of darkness is ready at his hand.
+Job 	15 	24 	1 	Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle.
+Job 	15 	25 	1 	For he stretcheth out his hand against God, and strengtheneth himself against the Almighty.
+Job 	15 	26 	1 	He runneth upon him, even on his neck, upon the thick bosses of his bucklers:
+Job 	15 	27 	1 	Because he covereth his face with his fatness, and maketh collops of fat on his flanks.
+Job 	15 	28 	1 	And he dwelleth in desolate cities, and in houses which no man inhabiteth, which are ready to become heaps.
+Job 	15 	29 	1 	He shall not be rich, neither shall his substance continue, neither shall he prolong the perfection thereof upon the earth.
+Job 	15 	30 	1 	He shall not depart out of darkness; the flame shall dry up his branches, and by the breath of his mouth shall he go away.
+Job 	15 	31 	1 	Let not him that is deceived trust in vanity: for vanity shall be his recompence.
+Job 	15 	32 	1 	It shall be accomplished before his time, and his branch shall not be green.
+Job 	15 	33 	1 	He shall shake off his unripe grape as the vine, and shall cast off his flower as the olive.
+Job 	15 	34 	1 	For the congregation of hypocrites shall be desolate, and fire shall consume the tabernacles of bribery.
+Job 	15 	35 	1 	They conceive mischief, and bring forth vanity, and their belly prepareth deceit.
+Job 	16 	1 	1 	Then Job answered and said,
+Job 	16 	2 	1 	I have heard many such things: miserable comforters are ye all.
+Job 	16 	3 	1 	Shall vain words have an end?
+Job 	16 	3 	2 	or what emboldeneth thee that thou answerest?
+Job 	16 	4 	1 	I also could speak as ye do: if your soul were in my soul's stead, I could heap up words against you, and shake mine head at you.
+Job 	16 	5 	1 	But I would strengthen you with my mouth, and the moving of my lips should asswage your grief.
+Job 	16 	6 	1 	Though I speak, my grief is not asswaged: and though I forbear, what am I eased?
+Job 	16 	7 	1 	But now he hath made me weary: thou hast made desolate all my company.
+Job 	16 	8 	1 	And thou hast filled me with wrinkles, which is a witness against me: and my leanness rising up in me beareth witness to my face.
+Job 	16 	9 	1 	He teareth me in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me.
+Job 	16 	10 	1 	They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.
+Job 	16 	11 	1 	God hath delivered me to the ungodly, and turned me over into the hands of the wicked.
+Job 	16 	12 	1 	I was at ease, but he hath broken me asunder: he hath also taken me by my neck, and shaken me to pieces, and set me up for his mark.
+Job 	16 	13 	1 	His archers compass me round about, he cleaveth my reins asunder, and doth not spare; he poureth out my gall upon the ground.
+Job 	16 	14 	1 	He breaketh me with breach upon breach, he runneth upon me like a giant.
+Job 	16 	15 	1 	I have sewed sackcloth upon my skin, and defiled my horn in the dust.
+Job 	16 	16 	1 	My face is foul with weeping, and on my eyelids is the shadow of death;
+Job 	16 	17 	1 	Not for any injustice in mine hands: also my prayer is pure.
+Job 	16 	18 	1 	O earth, cover not thou my blood, and let my cry have no place.
+Job 	16 	19 	1 	Also now, behold, my witness is in heaven, and my record is on high.
+Job 	16 	20 	1 	My friends scorn me: but mine eye poureth out tears unto God.
+Job 	16 	21 	1 	O that one might plead for a man with God, as a man pleadeth for his neighbour!
+Job 	16 	22 	1 	When a few years are come, then I shall go the way whence I shall not return.
+Job 	17 	1 	1 	My breath is corrupt, my days are extinct, the graves are ready for me.
+Job 	17 	2 	1 	Are there not mockers with me?
+Job 	17 	2 	2 	and doth not mine eye continue in their provocation?
+Job 	17 	3 	1 	Lay down now, put me in a surety with thee; who is he that will strike hands with me?
+Job 	17 	4 	1 	For thou hast hid their heart from understanding: therefore shalt thou not exalt them.
+Job 	17 	5 	1 	He that speaketh flattery to his friends, even the eyes of his children shall fail.
+Job 	17 	6 	1 	He hath made me also a byword of the people; and aforetime I was as a tabret.
+Job 	17 	7 	1 	Mine eye also is dim by reason of sorrow, and all my members are as a shadow.
+Job 	17 	8 	1 	Upright men shall be astonied at this, and the innocent shall stir up himself against the hypocrite.
+Job 	17 	9 	1 	The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger.
+Job 	17 	10 	1 	But as for you all, do ye return, and come now: for I cannot find one wise man among you.
+Job 	17 	11 	1 	My days are past, my purposes are broken off, even the thoughts of my heart.
+Job 	17 	12 	1 	They change the night into day: the light is short because of darkness.
+Job 	17 	13 	1 	If I wait, the grave is mine house: I have made my bed in the darkness.
+Job 	17 	14 	1 	I have said to corruption, Thou art my father: to the worm, Thou art my mother, and my sister.
+Job 	17 	15 	1 	And where is now my hope?
+Job 	17 	15 	2 	as for my hope, who shall see it?
+Job 	17 	16 	1 	They shall go down to the bars of the pit, when our rest together is in the dust.
+Job 	18 	1 	1 	Then answered Bildad the Shuhite, and said,
+Job 	18 	2 	1 	How long will it be ere ye make an end of words?
+Job 	18 	2 	2 	mark, and afterwards we will speak.
+Job 	18 	3 	1 	Wherefore are we counted as beasts, and reputed vile in your sight?
+Job 	18 	4 	1 	He teareth himself in his anger: shall the earth be forsaken for thee?
+Job 	18 	4 	2 	and shall the rock be removed out of his place?
+Job 	18 	5 	1 	Yea, the light of the wicked shall be put out, and the spark of his fire shall not shine.
+Job 	18 	6 	1 	The light shall be dark in his tabernacle, and his candle shall be put out with him.
+Job 	18 	7 	1 	The steps of his strength shall be straitened, and his own counsel shall cast him down.
+Job 	18 	8 	1 	For he is cast into a net by his own feet, and he walketh upon a snare.
+Job 	18 	9 	1 	The gin shall take him by the heel, and the robber shall prevail against him.
+Job 	18 	10 	1 	The snare is laid for him in the ground, and a trap for him in the way.
+Job 	18 	11 	1 	Terrors shall make him afraid on every side, and shall drive him to his feet.
+Job 	18 	12 	1 	His strength shall be hungerbitten, and destruction shall be ready at his side.
+Job 	18 	13 	1 	It shall devour the strength of his skin: even the firstborn of death shall devour his strength.
+Job 	18 	14 	1 	His confidence shall be rooted out of his tabernacle, and it shall bring him to the king of terrors.
+Job 	18 	15 	1 	It shall dwell in his tabernacle, because it is none of his: brimstone shall be scattered upon his habitation.
+Job 	18 	16 	1 	His roots shall be dried up beneath, and above shall his branch be cut off.
+Job 	18 	17 	1 	His remembrance shall perish from the earth, and he shall have no name in the street.
+Job 	18 	18 	1 	He shall be driven from light into darkness, and chased out of the world.
+Job 	18 	19 	1 	He shall neither have son nor nephew among his people, nor any remaining in his dwellings.
+Job 	18 	20 	1 	They that come after him shall be astonied at his day, as they that went before were affrighted.
+Job 	18 	21 	1 	Surely such are the dwellings of the wicked, and this is the place of him that knoweth not God.
+Job 	19 	1 	1 	Then Job answered and said,
+Job 	19 	2 	1 	How long will ye vex my soul, and break me in pieces with words?
+Job 	19 	3 	1 	These ten times have ye reproached me: ye are not ashamed that ye make yourselves strange to me.
+Job 	19 	4 	1 	And be it indeed that I have erred, mine error remaineth with myself.
+Job 	19 	5 	1 	If indeed ye will magnify yourselves against me, and plead against me my reproach:
+Job 	19 	6 	1 	Know now that God hath overthrown me, and hath compassed me with his net.
+Job 	19 	7 	1 	Behold, I cry out of wrong, but I am not heard: I cry aloud, but there is no judgment.
+Job 	19 	8 	1 	He hath fenced up my way that I cannot pass, and he hath set darkness in my paths.
+Job 	19 	9 	1 	He hath stripped me of my glory, and taken the crown from my head.
+Job 	19 	10 	1 	He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree.
+Job 	19 	11 	1 	He hath also kindled his wrath against me, and he counteth me unto him as one of his enemies.
+Job 	19 	12 	1 	His troops come together, and raise up their way against me, and encamp round about my tabernacle.
+Job 	19 	13 	1 	He hath put my brethren far from me, and mine acquaintance are verily estranged from me.
+Job 	19 	14 	1 	My kinsfolk have failed, and my familiar friends have forgotten me.
+Job 	19 	15 	1 	They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight.
+Job 	19 	16 	1 	I called my servant, and he gave me no answer; I intreated him with my mouth.
+Job 	19 	17 	1 	My breath is strange to my wife, though I intreated for the children's sake of mine own body.
+Job 	19 	18 	1 	Yea, young children despised me; I arose, and they spake against me.
+Job 	19 	19 	1 	All my inward friends abhorred me: and they whom I loved are turned against me.
+Job 	19 	20 	1 	My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.
+Job 	19 	21 	1 	Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me.
+Job 	19 	22 	1 	Why do ye persecute me as God, and are not satisfied with my flesh?
+Job 	19 	23 	1 	Oh that my words were now written!
+Job 	19 	23 	2 	oh that they were printed in a book!
+Job 	19 	24 	1 	That they were graven with an iron pen and lead in the rock for ever!
+Job 	19 	25 	1 	For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:
+Job 	19 	26 	1 	And though after my skin worms destroy this body, yet in my flesh shall I see God:
+Job 	19 	27 	1 	Whom I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me.
+Job 	19 	28 	1 	But ye should say, Why persecute we him, seeing the root of the matter is found in me?
+Job 	19 	29 	1 	Be ye afraid of the sword: for wrath bringeth the punishments of the sword, that ye may know there is a judgment.
+Job 	20 	1 	1 	Then answered Zophar the Naamathite, and said,
+Job 	20 	2 	1 	Therefore do my thoughts cause me to answer, and for this I make haste.
+Job 	20 	3 	1 	I have heard the check of my reproach, and the spirit of my understanding causeth me to answer.
+Job 	20 	4 	1 	Knowest thou not this of old, since man was placed upon earth,
+Job 	20 	5 	1 	That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?
+Job 	20 	6 	1 	Though his excellency mount up to the heavens, and his head reach unto the clouds;
+Job 	20 	7 	1 	Yet he shall perish for ever like his own dung: they which have seen him shall say, Where is he?
+Job 	20 	8 	1 	He shall fly away as a dream, and shall not be found: yea, he shall be chased away as a vision of the night.
+Job 	20 	9 	1 	The eye also which saw him shall see him no more; neither shall his place any more behold him.
+Job 	20 	10 	1 	His children shall seek to please the poor, and his hands shall restore their goods.
+Job 	20 	11 	1 	His bones are full of the sin of his youth, which shall lie down with him in the dust.
+Job 	20 	12 	1 	Though wickedness be sweet in his mouth, though he hide it under his tongue;
+Job 	20 	13 	1 	Though he spare it, and forsake it not; but keep it still within his mouth:
+Job 	20 	14 	1 	Yet his meat in his bowels is turned, it is the gall of asps within him.
+Job 	20 	15 	1 	He hath swallowed down riches, and he shall vomit them up again: God shall cast them out of his belly.
+Job 	20 	16 	1 	He shall suck the poison of asps: the viper's tongue shall slay him.
+Job 	20 	17 	1 	He shall not see the rivers, the floods, the brooks of honey and butter.
+Job 	20 	18 	1 	That which he laboured for shall he restore, and shall not swallow it down: according to his substance shall the restitution be, and he shall not rejoice therein.
+Job 	20 	19 	1 	Because he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not;
+Job 	20 	20 	1 	Surely he shall not feel quietness in his belly, he shall not save of that which he desired.
+Job 	20 	21 	1 	There shall none of his meat be left; therefore shall no man look for his goods.
+Job 	20 	22 	1 	In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.
+Job 	20 	23 	1 	When he is about to fill his belly, God shall cast the fury of his wrath upon him, and shall rain it upon him while he is eating.
+Job 	20 	24 	1 	He shall flee from the iron weapon, and the bow of steel shall strike him through.
+Job 	20 	25 	1 	It is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors are upon him.
+Job 	20 	26 	1 	All darkness shall be hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle.
+Job 	20 	27 	1 	The heaven shall reveal his iniquity; and the earth shall rise up against him.
+Job 	20 	28 	1 	The increase of his house shall depart, and his goods shall flow away in the day of his wrath.
+Job 	20 	29 	1 	This is the portion of a wicked man from God, and the heritage appointed unto him by God.
+Job 	21 	1 	1 	But Job answered and said,
+Job 	21 	2 	1 	Hear diligently my speech, and let this be your consolations.
+Job 	21 	3 	1 	Suffer me that I may speak; and after that I have spoken, mock on.
+Job 	21 	4 	1 	As for me, is my complaint to man?
+Job 	21 	4 	2 	and if it were so, why should not my spirit be troubled?
+Job 	21 	5 	1 	Mark me, and be astonished, and lay your hand upon your mouth.
+Job 	21 	6 	1 	Even when I remember I am afraid, and trembling taketh hold on my flesh.
+Job 	21 	7 	1 	Wherefore do the wicked live, become old, yea, are mighty in power?
+Job 	21 	8 	1 	Their seed is established in their sight with them, and their offspring before their eyes.
+Job 	21 	9 	1 	Their houses are safe from fear, neither is the rod of God upon them.
+Job 	21 	10 	1 	Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.
+Job 	21 	11 	1 	They send forth their little ones like a flock, and their children dance.
+Job 	21 	12 	1 	They take the timbrel and harp, and rejoice at the sound of the organ.
+Job 	21 	13 	1 	They spend their days in wealth, and in a moment go down to the grave.
+Job 	21 	14 	1 	Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways.
+Job 	21 	15 	1 	What is the Almighty, that we should serve him?
+Job 	21 	15 	2 	and what profit should we have, if we pray unto him?
+Job 	21 	16 	1 	Lo, their good is not in their hand: the counsel of the wicked is far from me.
+Job 	21 	17 	1 	How oft is the candle of the wicked put out!
+Job 	21 	17 	2 	and how oft cometh their destruction upon them!
+Job 	21 	17 	3 	God distributeth sorrows in his anger.
+Job 	21 	18 	1 	They are as stubble before the wind, and as chaff that the storm carrieth away.
+Job 	21 	19 	1 	God layeth up his iniquity for his children: he rewardeth him, and he shall know it.
+Job 	21 	20 	1 	His eyes shall see his destruction, and he shall drink of the wrath of the Almighty.
+Job 	21 	21 	1 	For what pleasure hath he in his house after him, when the number of his months is cut off in the midst?
+Job 	21 	22 	1 	Shall any teach God knowledge?
+Job 	21 	22 	2 	seeing he judgeth those that are high.
+Job 	21 	23 	1 	One dieth in his full strength, being wholly at ease and quiet.
+Job 	21 	24 	1 	His breasts are full of milk, and his bones are moistened with marrow.
+Job 	21 	25 	1 	And another dieth in the bitterness of his soul, and never eateth with pleasure.
+Job 	21 	26 	1 	They shall lie down alike in the dust, and the worms shall cover them.
+Job 	21 	27 	1 	Behold, I know your thoughts, and the devices which ye wrongfully imagine against me.
+Job 	21 	28 	1 	For ye say, Where is the house of the prince?
+Job 	21 	28 	2 	and where are the dwelling places of the wicked?
+Job 	21 	29 	1 	Have ye not asked them that go by the way?
+Job 	21 	29 	2 	and do ye not know their tokens,
+Job 	21 	30 	1 	That the wicked is reserved to the day of destruction?
+Job 	21 	30 	2 	they shall be brought forth to the day of wrath.
+Job 	21 	31 	1 	Who shall declare his way to his face?
+Job 	21 	31 	2 	and who shall repay him what he hath done?
+Job 	21 	32 	1 	Yet shall he be brought to the grave, and shall remain in the tomb.
+Job 	21 	33 	1 	The clods of the valley shall be sweet unto him, and every man shall draw after him, as there are innumerable before him.
+Job 	21 	34 	1 	How then comfort ye me in vain, seeing in your answers there remaineth falsehood?
+Job 	22 	1 	1 	Then Eliphaz the Temanite answered and said,
+Job 	22 	2 	1 	Can a man be profitable unto God, as he that is wise may be profitable unto himself?
+Job 	22 	3 	1 	Is it any pleasure to the Almighty, that thou art righteous?
+Job 	22 	3 	2 	or is it gain to him, that thou makest thy ways perfect?
+Job 	22 	4 	1 	Will he reprove thee for fear of thee?
+Job 	22 	4 	2 	will he enter with thee into judgment?
+Job 	22 	5 	1 	Is not thy wickedness great?
+Job 	22 	5 	2 	and thine iniquities infinite?
+Job 	22 	6 	1 	For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing.
+Job 	22 	7 	1 	Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry.
+Job 	22 	8 	1 	But as for the mighty man, he had the earth; and the honourable man dwelt in it.
+Job 	22 	9 	1 	Thou hast sent widows away empty, and the arms of the fatherless have been broken.
+Job 	22 	10 	1 	Therefore snares are round about thee, and sudden fear troubleth thee;
+Job 	22 	11 	1 	Or darkness, that thou canst not see; and abundance of waters cover thee.
+Job 	22 	12 	1 	Is not God in the height of heaven?
+Job 	22 	12 	2 	and behold the height of the stars, how high they are!
+Job 	22 	13 	1 	And thou sayest, How doth God know?
+Job 	22 	13 	2 	can he judge through the dark cloud?
+Job 	22 	14 	1 	Thick clouds are a covering to him, that he seeth not; and he walketh in the circuit of heaven.
+Job 	22 	15 	1 	Hast thou marked the old way which wicked men have trodden?
+Job 	22 	16 	1 	Which were cut down out of time, whose foundation was overflown with a flood:
+Job 	22 	17 	1 	Which said unto God, Depart from us: and what can the Almighty do for them?
+Job 	22 	18 	1 	Yet he filled their houses with good things: but the counsel of the wicked is far from me.
+Job 	22 	19 	1 	The righteous see it, and are glad: and the innocent laugh them to scorn.
+Job 	22 	20 	1 	Whereas our substance is not cut down, but the remnant of them the fire consumeth.
+Job 	22 	21 	1 	Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.
+Job 	22 	22 	1 	Receive, I pray thee, the law from his mouth, and lay up his words in thine heart.
+Job 	22 	23 	1 	If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles.
+Job 	22 	24 	1 	Then shalt thou lay up gold as dust, and the gold of Ophir as the stones of the brooks.
+Job 	22 	25 	1 	Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver.
+Job 	22 	26 	1 	For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God.
+Job 	22 	27 	1 	Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows.
+Job 	22 	28 	1 	Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways.
+Job 	22 	29 	1 	When men are cast down, then thou shalt say, There is lifting up; and he shall save the humble person.
+Job 	22 	30 	1 	He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands.
+Job 	23 	1 	1 	Then Job answered and said,
+Job 	23 	2 	1 	Even to day is my complaint bitter: my stroke is heavier than my groaning.
+Job 	23 	3 	1 	Oh that I knew where I might find him!
+Job 	23 	3 	2 	that I might come even to his seat!
+Job 	23 	4 	1 	I would order my cause before him, and fill my mouth with arguments.
+Job 	23 	5 	1 	I would know the words which he would answer me, and understand what he would say unto me.
+Job 	23 	6 	1 	Will he plead against me with his great power?
+Job 	23 	6 	2 	No; but he would put strength in me.
+Job 	23 	7 	1 	There the righteous might dispute with him; so should I be delivered for ever from my judge.
+Job 	23 	8 	1 	Behold, I go forward, but he is not there; and backward, but I cannot perceive him:
+Job 	23 	9 	1 	On the left hand, where he doth work, but I cannot behold him: he hideth himself on the right hand, that I cannot see him:
+Job 	23 	10 	1 	But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.
+Job 	23 	11 	1 	My foot hath held his steps, his way have I kept, and not declined.
+Job 	23 	12 	1 	Neither have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary food.
+Job 	23 	13 	1 	But he is in one mind, and who can turn him?
+Job 	23 	13 	2 	and what his soul desireth, even that he doeth.
+Job 	23 	14 	1 	For he performeth the thing that is appointed for me: and many such things are with him.
+Job 	23 	15 	1 	Therefore am I troubled at his presence: when I consider, I am afraid of him.
+Job 	23 	16 	1 	For God maketh my heart soft, and the Almighty troubleth me:
+Job 	23 	17 	1 	Because I was not cut off before the darkness, neither hath he covered the darkness from my face.
+Job 	24 	1 	1 	Why, seeing times are not hidden from the Almighty, do they that know him not see his days?
+Job 	24 	2 	1 	Some remove the landmarks; they violently take away flocks, and feed thereof.
+Job 	24 	3 	1 	They drive away the ass of the fatherless, they take the widow's ox for a pledge.
+Job 	24 	4 	1 	They turn the needy out of the way: the poor of the earth hide themselves together.
+Job 	24 	5 	1 	Behold, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yieldeth food for them and for their children.
+Job 	24 	6 	1 	They reap every one his corn in the field: and they gather the vintage of the wicked.
+Job 	24 	7 	1 	They cause the naked to lodge without clothing, that they have no covering in the cold.
+Job 	24 	8 	1 	They are wet with the showers of the mountains, and embrace the rock for want of a shelter.
+Job 	24 	9 	1 	They pluck the fatherless from the breast, and take a pledge of the poor.
+Job 	24 	10 	1 	They cause him to go naked without clothing, and they take away the sheaf from the hungry;
+Job 	24 	11 	1 	Which make oil within their walls, and tread their winepresses, and suffer thirst.
+Job 	24 	12 	1 	Men groan from out of the city, and the soul of the wounded crieth out: yet God layeth not folly to them.
+Job 	24 	13 	1 	They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.
+Job 	24 	14 	1 	The murderer rising with the light killeth the poor and needy, and in the night is as a thief.
+Job 	24 	15 	1 	The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face.
+Job 	24 	16 	1 	In the dark they dig through houses, which they had marked for themselves in the daytime: they know not the light.
+Job 	24 	17 	1 	For the morning is to them even as the shadow of death: if one know them, they are in the terrors of the shadow of death.
+Job 	24 	18 	1 	He is swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards.
+Job 	24 	19 	1 	Drought and heat consume the snow waters: so doth the grave those which have sinned.
+Job 	24 	20 	1 	The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree.
+Job 	24 	21 	1 	He evil entreateth the barren that beareth not: and doeth not good to the widow.
+Job 	24 	22 	1 	He draweth also the mighty with his power: he riseth up, and no man is sure of life.
+Job 	24 	23 	1 	Though it be given him to be in safety, whereon he resteth; yet his eyes are upon their ways.
+Job 	24 	24 	1 	They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn.
+Job 	24 	25 	1 	And if it be not so now, who will make me a liar, and make my speech nothing worth?
+Job 	25 	1 	1 	Then answered Bildad the Shuhite, and said,
+Job 	25 	2 	1 	Dominion and fear are with him, he maketh peace in his high places.
+Job 	25 	3 	1 	Is there any number of his armies?
+Job 	25 	3 	2 	and upon whom doth not his light arise?
+Job 	25 	4 	1 	How then can man be justified with God?
+Job 	25 	4 	2 	or how can he be clean that is born of a woman?
+Job 	25 	5 	1 	Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.
+Job 	25 	6 	1 	How much less man, that is a worm?
+Job 	25 	6 	2 	and the son of man, which is a worm?
+Job 	26 	1 	1 	But Job answered and said,
+Job 	26 	2 	1 	How hast thou helped him that is without power?
+Job 	26 	2 	2 	how savest thou the arm that hath no strength?
+Job 	26 	3 	1 	How hast thou counselled him that hath no wisdom?
+Job 	26 	3 	2 	and how hast thou plentifully declared the thing as it is?
+Job 	26 	4 	1 	To whom hast thou uttered words?
+Job 	26 	4 	2 	and whose spirit came from thee?
+Job 	26 	5 	1 	Dead things are formed from under the waters, and the inhabitants thereof.
+Job 	26 	6 	1 	Hell is naked before him, and destruction hath no covering.
+Job 	26 	7 	1 	He stretcheth out the north over the empty place, and hangeth the earth upon nothing.
+Job 	26 	8 	1 	He bindeth up the waters in his thick clouds; and the cloud is not rent under them.
+Job 	26 	9 	1 	He holdeth back the face of his throne, and spreadeth his cloud upon it.
+Job 	26 	10 	1 	He hath compassed the waters with bounds, until the day and night come to an end.
+Job 	26 	11 	1 	The pillars of heaven tremble and are astonished at his reproof.
+Job 	26 	12 	1 	He divideth the sea with his power, and by his understanding he smiteth through the proud.
+Job 	26 	13 	1 	By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent.
+Job 	26 	14 	1 	Lo, these are parts of his ways: but how little a portion is heard of him?
+Job 	26 	14 	2 	but the thunder of his power who can understand?
+Job 	27 	1 	1 	Moreover Job continued his parable, and said,
+Job 	27 	2 	1 	As God liveth, who hath taken away my judgment; and the Almighty, who hath vexed my soul;
+Job 	27 	3 	1 	All the while my breath is in me, and the spirit of God is in my nostrils;
+Job 	27 	4 	1 	My lips shall not speak wickedness, nor my tongue utter deceit.
+Job 	27 	5 	1 	God forbid that I should justify you: till I die I will not remove mine integrity from me.
+Job 	27 	6 	1 	My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live.
+Job 	27 	7 	1 	Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.
+Job 	27 	8 	1 	For what is the hope of the hypocrite, though he hath gained, when God taketh away his soul?
+Job 	27 	9 	1 	Will God hear his cry when trouble cometh upon him?
+Job 	27 	10 	1 	Will he delight himself in the Almighty?
+Job 	27 	10 	2 	will he always call upon God?
+Job 	27 	11 	1 	I will teach you by the hand of God: that which is with the Almighty will I not conceal.
+Job 	27 	12 	1 	Behold, all ye yourselves have seen it; why then are ye thus altogether vain?
+Job 	27 	13 	1 	This is the portion of a wicked man with God, and the heritage of oppressors, which they shall receive of the Almighty.
+Job 	27 	14 	1 	If his children be multiplied, it is for the sword: and his offspring shall not be satisfied with bread.
+Job 	27 	15 	1 	Those that remain of him shall be buried in death: and his widows shall not weep.
+Job 	27 	16 	1 	Though he heap up silver as the dust, and prepare raiment as the clay;
+Job 	27 	17 	1 	He may prepare it, but the just shall put it on, and the innocent shall divide the silver.
+Job 	27 	18 	1 	He buildeth his house as a moth, and as a booth that the keeper maketh.
+Job 	27 	19 	1 	The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he is not.
+Job 	27 	20 	1 	Terrors take hold on him as waters, a tempest stealeth him away in the night.
+Job 	27 	21 	1 	The east wind carrieth him away, and he departeth: and as a storm hurleth him out of his place.
+Job 	27 	22 	1 	For God shall cast upon him, and not spare: he would fain flee out of his hand.
+Job 	27 	23 	1 	Men shall clap their hands at him, and shall hiss him out of his place.
+Job 	28 	1 	1 	Surely there is a vein for the silver, and a place for gold where they fine it.
+Job 	28 	2 	1 	Iron is taken out of the earth, and brass is molten out of the stone.
+Job 	28 	3 	1 	He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death.
+Job 	28 	4 	1 	The flood breaketh out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men.
+Job 	28 	5 	1 	As for the earth, out of it cometh bread: and under it is turned up as it were fire.
+Job 	28 	6 	1 	The stones of it are the place of sapphires: and it hath dust of gold.
+Job 	28 	7 	1 	There is a path which no fowl knoweth, and which the vulture's eye hath not seen:
+Job 	28 	8 	1 	The lion's whelps have not trodden it, nor the fierce lion passed by it.
+Job 	28 	9 	1 	He putteth forth his hand upon the rock; he overturneth the mountains by the roots.
+Job 	28 	10 	1 	He cutteth out rivers among the rocks; and his eye seeth every precious thing.
+Job 	28 	11 	1 	He bindeth the floods from overflowing; and the thing that is hid bringeth he forth to light.
+Job 	28 	12 	1 	But where shall wisdom be found?
+Job 	28 	12 	2 	and where is the place of understanding?
+Job 	28 	13 	1 	Man knoweth not the price thereof; neither is it found in the land of the living.
+Job 	28 	14 	1 	The depth saith, It is not in me: and the sea saith, It is not with me.
+Job 	28 	15 	1 	It cannot be gotten for gold, neither shall silver be weighed for the price thereof.
+Job 	28 	16 	1 	It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire.
+Job 	28 	17 	1 	The gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold.
+Job 	28 	18 	1 	No mention shall be made of coral, or of pearls: for the price of wisdom is above rubies.
+Job 	28 	19 	1 	The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold.
+Job 	28 	20 	1 	Whence then cometh wisdom?
+Job 	28 	20 	2 	and where is the place of understanding?
+Job 	28 	21 	1 	Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.
+Job 	28 	22 	1 	Destruction and death say, We have heard the fame thereof with our ears.
+Job 	28 	23 	1 	God understandeth the way thereof, and he knoweth the place thereof.
+Job 	28 	24 	1 	For he looketh to the ends of the earth, and seeth under the whole heaven;
+Job 	28 	25 	1 	To make the weight for the winds; and he weigheth the waters by measure.
+Job 	28 	26 	1 	When he made a decree for the rain, and a way for the lightning of the thunder:
+Job 	28 	27 	1 	Then did he see it, and declare it; he prepared it, yea, and searched it out.
+Job 	28 	28 	1 	And unto man he said, Behold, the fear of the LORD, that is wisdom; and to depart from evil is understanding.
+Job 	29 	1 	1 	Moreover Job continued his parable, and said,
+Job 	29 	2 	1 	Oh that I were as in months past, as in the days when God preserved me;
+Job 	29 	3 	1 	When his candle shined upon my head, and when by his light I walked through darkness;
+Job 	29 	4 	1 	As I was in the days of my youth, when the secret of God was upon my tabernacle;
+Job 	29 	5 	1 	When the Almighty was yet with me, when my children were about me;
+Job 	29 	6 	1 	When I washed my steps with butter, and the rock poured me out rivers of oil;
+Job 	29 	7 	1 	When I went out to the gate through the city, when I prepared my seat in the street!
+Job 	29 	8 	1 	The young men saw me, and hid themselves: and the aged arose, and stood up.
+Job 	29 	9 	1 	The princes refrained talking, and laid their hand on their mouth.
+Job 	29 	10 	1 	The nobles held their peace, and their tongue cleaved to the roof of their mouth.
+Job 	29 	11 	1 	When the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:
+Job 	29 	12 	1 	Because I delivered the poor that cried, and the fatherless, and him that had none to help him.
+Job 	29 	13 	1 	The blessing of him that was ready to perish came upon me: and I caused the widow's heart to sing for joy.
+Job 	29 	14 	1 	I put on righteousness, and it clothed me: my judgment was as a robe and a diadem.
+Job 	29 	15 	1 	I was eyes to the blind, and feet was I to the lame.
+Job 	29 	16 	1 	I was a father to the poor: and the cause which I knew not I searched out.
+Job 	29 	17 	1 	And I brake the jaws of the wicked, and plucked the spoil out of his teeth.
+Job 	29 	18 	1 	Then I said, I shall die in my nest, and I shall multiply my days as the sand.
+Job 	29 	19 	1 	My root was spread out by the waters, and the dew lay all night upon my branch.
+Job 	29 	20 	1 	My glory was fresh in me, and my bow was renewed in my hand.
+Job 	29 	21 	1 	Unto me men gave ear, and waited, and kept silence at my counsel.
+Job 	29 	22 	1 	After my words they spake not again; and my speech dropped upon them.
+Job 	29 	23 	1 	And they waited for me as for the rain; and they opened their mouth wide as for the latter rain.
+Job 	29 	24 	1 	If I laughed on them, they believed it not; and the light of my countenance they cast not down.
+Job 	29 	25 	1 	I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforteth the mourners.
+Job 	30 	1 	1 	But now they that are younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.
+Job 	30 	2 	1 	Yea, whereto might the strength of their hands profit me, in whom old age was perished?
+Job 	30 	3 	1 	For want and famine they were solitary; fleeing into the wilderness in former time desolate and waste.
+Job 	30 	4 	1 	Who cut up mallows by the bushes, and juniper roots for their meat.
+Job 	30 	5 	1 	They were driven forth from among men, (they cried after them as after a thief;)
+Job 	30 	6 	1 	To dwell in the cliffs of the valleys, in caves of the earth, and in the rocks.
+Job 	30 	7 	1 	Among the bushes they brayed; under the nettles they were gathered together.
+Job 	30 	8 	1 	They were children of fools, yea, children of base men: they were viler than the earth.
+Job 	30 	9 	1 	And now am I their song, yea, I am their byword.
+Job 	30 	10 	1 	They abhor me, they flee far from me, and spare not to spit in my face.
+Job 	30 	11 	1 	Because he hath loosed my cord, and afflicted me, they have also let loose the bridle before me.
+Job 	30 	12 	1 	Upon my right hand rise the youth; they push away my feet, and they raise up against me the ways of their destruction.
+Job 	30 	13 	1 	They mar my path, they set forward my calamity, they have no helper.
+Job 	30 	14 	1 	They came upon me as a wide breaking in of waters: in the desolation they rolled themselves upon me.
+Job 	30 	15 	1 	Terrors are turned upon me: they pursue my soul as the wind: and my welfare passeth away as a cloud.
+Job 	30 	16 	1 	And now my soul is poured out upon me; the days of affliction have taken hold upon me.
+Job 	30 	17 	1 	My bones are pierced in me in the night season: and my sinews take no rest.
+Job 	30 	18 	1 	By the great force of my disease is my garment changed: it bindeth me about as the collar of my coat.
+Job 	30 	19 	1 	He hath cast me into the mire, and I am become like dust and ashes.
+Job 	30 	20 	1 	I cry unto thee, and thou dost not hear me: I stand up, and thou regardest me not.
+Job 	30 	21 	1 	Thou art become cruel to me: with thy strong hand thou opposest thyself against me.
+Job 	30 	22 	1 	Thou liftest me up to the wind; thou causest me to ride upon it, and dissolvest my substance.
+Job 	30 	23 	1 	For I know that thou wilt bring me to death, and to the house appointed for all living.
+Job 	30 	24 	1 	Howbeit he will not stretch out his hand to the grave, though they cry in his destruction.
+Job 	30 	25 	1 	Did not I weep for him that was in trouble?
+Job 	30 	25 	2 	was not my soul grieved for the poor?
+Job 	30 	26 	1 	When I looked for good, then evil came unto me: and when I waited for light, there came darkness.
+Job 	30 	27 	1 	My bowels boiled, and rested not: the days of affliction prevented me.
+Job 	30 	28 	1 	I went mourning without the sun: I stood up, and I cried in the congregation.
+Job 	30 	29 	1 	I am a brother to dragons, and a companion to owls.
+Job 	30 	30 	1 	My skin is black upon me, and my bones are burned with heat.
+Job 	30 	31 	1 	My harp also is turned to mourning, and my organ into the voice of them that weep.
+Job 	31 	1 	1 	I made a covenant with mine eyes; why then should I think upon a maid?
+Job 	31 	2 	1 	For what portion of God is there from above?
+Job 	31 	2 	2 	and what inheritance of the Almighty from on high?
+Job 	31 	3 	1 	Is not destruction to the wicked?
+Job 	31 	3 	2 	and a strange punishment to the workers of iniquity?
+Job 	31 	4 	1 	Doth not he see my ways, and count all my steps?
+Job 	31 	5 	1 	If I have walked with vanity, or if my foot hath hasted to deceit;
+Job 	31 	6 	1 	Let me be weighed in an even balance that God may know mine integrity.
+Job 	31 	7 	1 	If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;
+Job 	31 	8 	1 	Then let me sow, and let another eat; yea, let my offspring be rooted out.
+Job 	31 	9 	1 	If mine heart have been deceived by a woman, or if I have laid wait at my neighbour's door;
+Job 	31 	10 	1 	Then let my wife grind unto another, and let others bow down upon her.
+Job 	31 	11 	1 	For this is an heinous crime; yea, it is an iniquity to be punished by the judges.
+Job 	31 	12 	1 	For it is a fire that consumeth to destruction, and would root out all mine increase.
+Job 	31 	13 	1 	If I did despise the cause of my manservant or of my maidservant, when they contended with me;
+Job 	31 	14 	1 	What then shall I do when God riseth up?
+Job 	31 	14 	2 	and when he visiteth, what shall I answer him?
+Job 	31 	15 	1 	Did not he that made me in the womb make him?
+Job 	31 	15 	2 	and did not one fashion us in the womb?
+Job 	31 	16 	1 	If I have withheld the poor from their desire, or have caused the eyes of the widow to fail;
+Job 	31 	17 	1 	Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;
+Job 	31 	18 	1 	(For from my youth he was brought up with me, as with a father, and I have guided her from my mother's womb;)
+Job 	31 	19 	1 	If I have seen any perish for want of clothing, or any poor without covering;
+Job 	31 	20 	1 	If his loins have not blessed me, and if he were not warmed with the fleece of my sheep;
+Job 	31 	21 	1 	If I have lifted up my hand against the fatherless, when I saw my help in the gate:
+Job 	31 	22 	1 	Then let mine arm fall from my shoulder blade, and mine arm be broken from the bone.
+Job 	31 	23 	1 	For destruction from God was a terror to me, and by reason of his highness I could not endure.
+Job 	31 	24 	1 	If I have made gold my hope, or have said to the fine gold, Thou art my confidence;
+Job 	31 	25 	1 	If I rejoice because my wealth was great, and because mine hand had gotten much;
+Job 	31 	26 	1 	If I beheld the sun when it shined, or the moon walking in brightness;
+Job 	31 	27 	1 	And my heart hath been secretly enticed, or my mouth hath kissed my hand:
+Job 	31 	28 	1 	This also were an iniquity to be punished by the judge: for I should have denied the God that is above.
+Job 	31 	29 	1 	If I rejoice at the destruction of him that hated me, or lifted up myself when evil found him:
+Job 	31 	30 	1 	Neither have I suffered my mouth to sin by wishing a curse to his soul.
+Job 	31 	31 	1 	If the men of my tabernacle said not, Oh that we had of his flesh!
+Job 	31 	31 	2 	we cannot be satisfied.
+Job 	31 	32 	1 	The stranger did not lodge in the street: but I opened my doors to the traveller.
+Job 	31 	33 	1 	If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:
+Job 	31 	34 	1 	Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?
+Job 	31 	35 	1 	Oh that one would hear me!
+Job 	31 	35 	2 	behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book.
+Job 	31 	36 	1 	Surely I would take it upon my shoulder, and bind it as a crown to me.
+Job 	31 	37 	1 	I would declare unto him the number of my steps; as a prince would I go near unto him.
+Job 	31 	38 	1 	If my land cry against me, or that the furrows likewise thereof complain;
+Job 	31 	39 	1 	If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:
+Job 	31 	40 	1 	Let thistles grow instead of wheat, and cockle instead of barley.
+Job 	31 	40 	2 	The words of Job are ended.
+Job 	32 	1 	1 	So these three men ceased to answer Job, because he was righteous in his own eyes.
+Job 	32 	2 	1 	Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God.
+Job 	32 	3 	1 	Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job.
+Job 	32 	4 	1 	Now Elihu had waited till Job had spoken, because they were elder than he.
+Job 	32 	5 	1 	When Elihu saw that there was no answer in the mouth of these three men, then his wrath was kindled.
+Job 	32 	6 	1 	And Elihu the son of Barachel the Buzite answered and said, I am young, and ye are very old; wherefore I was afraid, and durst not shew you mine opinion.
+Job 	32 	7 	1 	I said, Days should speak, and multitude of years should teach wisdom.
+Job 	32 	8 	1 	But there is a spirit in man: and the inspiration of the Almighty giveth them understanding.
+Job 	32 	9 	1 	Great men are not always wise: neither do the aged understand judgment.
+Job 	32 	10 	1 	Therefore I said, Hearken to me; I also will shew mine opinion.
+Job 	32 	11 	1 	Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say.
+Job 	32 	12 	1 	Yea, I attended unto you, and, behold, there was none of you that convinced Job, or that answered his words:
+Job 	32 	13 	1 	Lest ye should say, We have found out wisdom: God thrusteth him down, not man.
+Job 	32 	14 	1 	Now he hath not directed his words against me: neither will I answer him with your speeches.
+Job 	32 	15 	1 	They were amazed, they answered no more: they left off speaking.
+Job 	32 	16 	1 	When I had waited, (for they spake not, but stood still, and answered no more;)
+Job 	32 	17 	1 	I said, I will answer also my part, I also will shew mine opinion.
+Job 	32 	18 	1 	For I am full of matter, the spirit within me constraineth me.
+Job 	32 	19 	1 	Behold, my belly is as wine which hath no vent; it is ready to burst like new bottles.
+Job 	32 	20 	1 	I will speak, that I may be refreshed: I will open my lips and answer.
+Job 	32 	21 	1 	Let me not, I pray you, accept any man's person, neither let me give flattering titles unto man.
+Job 	32 	22 	1 	For I know not to give flattering titles; in so doing my maker would soon take me away.
+Job 	33 	1 	1 	Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.
+Job 	33 	2 	1 	Behold, now I have opened my mouth, my tongue hath spoken in my mouth.
+Job 	33 	3 	1 	My words shall be of the uprightness of my heart: and my lips shall utter knowledge clearly.
+Job 	33 	4 	1 	The spirit of God hath made me, and the breath of the Almighty hath given me life.
+Job 	33 	5 	1 	If thou canst answer me, set thy words in order before me, stand up.
+Job 	33 	6 	1 	Behold, I am according to thy wish in God's stead: I also am formed out of the clay.
+Job 	33 	7 	1 	Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee.
+Job 	33 	8 	1 	Surely thou hast spoken in mine hearing, and I have heard the voice of thy words, saying,
+Job 	33 	9 	1 	I am clean without transgression, I am innocent; neither is there iniquity in me.
+Job 	33 	10 	1 	Behold, he findeth occasions against me, he counteth me for his enemy,
+Job 	33 	11 	1 	He putteth my feet in the stocks, he marketh all my paths.
+Job 	33 	12 	1 	Behold, in this thou art not just: I will answer thee, that God is greater than man.
+Job 	33 	13 	1 	Why dost thou strive against him?
+Job 	33 	13 	2 	for he giveth not account of any of his matters.
+Job 	33 	14 	1 	For God speaketh once, yea twice, yet man perceiveth it not.
+Job 	33 	15 	1 	In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed;
+Job 	33 	16 	1 	Then he openeth the ears of men, and sealeth their instruction,
+Job 	33 	17 	1 	That he may withdraw man from his purpose, and hide pride from man.
+Job 	33 	18 	1 	He keepeth back his soul from the pit, and his life from perishing by the sword.
+Job 	33 	19 	1 	He is chastened also with pain upon his bed, and the multitude of his bones with strong pain:
+Job 	33 	20 	1 	So that his life abhorreth bread, and his soul dainty meat.
+Job 	33 	21 	1 	His flesh is consumed away, that it cannot be seen; and his bones that were not seen stick out.
+Job 	33 	22 	1 	Yea, his soul draweth near unto the grave, and his life to the destroyers.
+Job 	33 	23 	1 	If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:
+Job 	33 	24 	1 	Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom.
+Job 	33 	25 	1 	His flesh shall be fresher than a child's: he shall return to the days of his youth:
+Job 	33 	26 	1 	He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness.
+Job 	33 	27 	1 	He looketh upon men, and if any say, I have sinned, and perverted that which was right, and it profited me not;
+Job 	33 	28 	1 	He will deliver his soul from going into the pit, and his life shall see the light.
+Job 	33 	29 	1 	Lo, all these things worketh God oftentimes with man,
+Job 	33 	30 	1 	To bring back his soul from the pit, to be enlightened with the light of the living.
+Job 	33 	31 	1 	Mark well, O Job, hearken unto me: hold thy peace, and I will speak.
+Job 	33 	32 	1 	If thou hast anything to say, answer me: speak, for I desire to justify thee.
+Job 	33 	33 	1 	If not, hearken unto me: hold thy peace, and I shall teach thee wisdom.
+Job 	34 	1 	1 	Furthermore Elihu answered and said,
+Job 	34 	2 	1 	Hear my words, O ye wise men; and give ear unto me, ye that have knowledge.
+Job 	34 	3 	1 	For the ear trieth words, as the mouth tasteth meat.
+Job 	34 	4 	1 	Let us choose to us judgment: let us know among ourselves what is good.
+Job 	34 	5 	1 	For Job hath said, I am righteous: and God hath taken away my judgment.
+Job 	34 	6 	1 	Should I lie against my right?
+Job 	34 	6 	2 	my wound is incurable without transgression.
+Job 	34 	7 	1 	What man is like Job, who drinketh up scorning like water?
+Job 	34 	8 	1 	Which goeth in company with the workers of iniquity, and walketh with wicked men.
+Job 	34 	9 	1 	For he hath said, It profiteth a man nothing that he should delight himself with God.
+Job 	34 	10 	1 	Therefore hearken unto me ye men of understanding: far be it from God, that he should do wickedness; and from the Almighty, that he should commit iniquity.
+Job 	34 	11 	1 	For the work of a man shall he render unto him, and cause every man to find according to his ways.
+Job 	34 	12 	1 	Yea, surely God will not do wickedly, neither will the Almighty pervert judgment.
+Job 	34 	13 	1 	Who hath given him a charge over the earth?
+Job 	34 	13 	2 	or who hath disposed the whole world?
+Job 	34 	14 	1 	If he set his heart upon man, if he gather unto himself his spirit and his breath;
+Job 	34 	15 	1 	All flesh shall perish together, and man shall turn again unto dust.
+Job 	34 	16 	1 	If now thou hast understanding, hear this: hearken to the voice of my words.
+Job 	34 	17 	1 	Shall even he that hateth right govern?
+Job 	34 	17 	2 	and wilt thou condemn him that is most just?
+Job 	34 	18 	1 	Is it fit to say to a king, Thou art wicked?
+Job 	34 	18 	2 	and to princes, Ye are ungodly?
+Job 	34 	19 	1 	How much less to him that accepteth not the persons of princes, nor regardeth the rich more than the poor?
+Job 	34 	19 	2 	for they all are the work of his hands.
+Job 	34 	20 	1 	In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand.
+Job 	34 	21 	1 	For his eyes are upon the ways of man, and he seeth all his goings.
+Job 	34 	22 	1 	There is no darkness, nor shadow of death, where the workers of iniquity may hide themselves.
+Job 	34 	23 	1 	For he will not lay upon man more than right; that he should enter into judgment with God.
+Job 	34 	24 	1 	He shall break in pieces mighty men without number, and set others in their stead.
+Job 	34 	25 	1 	Therefore he knoweth their works, and he overturneth them in the night, so that they are destroyed.
+Job 	34 	26 	1 	He striketh them as wicked men in the open sight of others;
+Job 	34 	27 	1 	Because they turned back from him, and would not consider any of his ways:
+Job 	34 	28 	1 	So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted.
+Job 	34 	29 	1 	When he giveth quietness, who then can make trouble?
+Job 	34 	29 	2 	and when he hideth his face, who then can behold him?
+Job 	34 	29 	3 	whether it be done against a nation, or against a man only:
+Job 	34 	30 	1 	That the hypocrite reign not, lest the people be ensnared.
+Job 	34 	31 	1 	Surely it is meet to be said unto God, I have borne chastisement, I will not offend any more:
+Job 	34 	32 	1 	That which I see not teach thou me: if I have done iniquity, I will do no more.
+Job 	34 	33 	1 	Should it be according to thy mind?
+Job 	34 	33 	2 	he will recompense it, whether thou refuse, or whether thou choose; and not I: therefore speak what thou knowest.
+Job 	34 	34 	1 	Let men of understanding tell me, and let a wise man hearken unto me.
+Job 	34 	35 	1 	hath spoken without knowledge, and his words were without wisdom.
+Job 	34 	36 	1 	My desire is that Job may be tried unto the end because of his answers for wicked men.
+Job 	34 	37 	1 	For he addeth rebellion unto his sin, he clappeth his hands among us, and multiplieth his words against God.
+Job 	35 	1 	1 	Elihu spake moreover, and said,
+Job 	35 	2 	1 	Thinkest thou this to be right, that thou saidst, My righteousness is more than God's?
+Job 	35 	3 	1 	For thou saidst, What advantage will it be unto thee?
+Job 	35 	3 	2 	and, What profit shall I have, if I be cleansed from my sin?
+Job 	35 	4 	1 	I will answer thee, and thy companions with thee.
+Job 	35 	5 	1 	Look unto the heavens, and see; and behold the clouds which are higher than thou.
+Job 	35 	6 	1 	If thou sinnest, what doest thou against him?
+Job 	35 	6 	2 	or if thy transgressions be multiplied, what doest thou unto him?
+Job 	35 	7 	1 	If thou be righteous, what givest thou him?
+Job 	35 	7 	2 	or what receiveth he of thine hand?
+Job 	35 	8 	1 	Thy wickedness may hurt a man as thou art; and thy righteousness may profit the son of man.
+Job 	35 	9 	1 	By reason of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty.
+Job 	35 	10 	1 	But none saith, Where is God my maker, who giveth songs in the night;
+Job 	35 	11 	1 	Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?
+Job 	35 	12 	1 	There they cry, but none giveth answer, because of the pride of evil men.
+Job 	35 	13 	1 	Surely God will not hear vanity, neither will the Almighty regard it.
+Job 	35 	14 	1 	Although thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him.
+Job 	35 	15 	1 	But now, because it is not so, he hath visited in his anger; yet he knoweth it not in great extremity:
+Job 	35 	16 	1 	Therefore doth Job open his mouth in vain; he multiplieth words without knowledge.
+Job 	36 	1 	1 	Elihu also proceeded, and said,
+Job 	36 	2 	1 	Suffer me a little, and I will shew thee that I have yet to speak on God's behalf.
+Job 	36 	3 	1 	I will fetch my knowledge from afar, and will ascribe righteousness to my Maker.
+Job 	36 	4 	1 	For truly my words shall not be false: he that is perfect in knowledge is with thee.
+Job 	36 	5 	1 	Behold, God is mighty, and despiseth not any: he is mighty in strength and wisdom.
+Job 	36 	6 	1 	He preserveth not the life of the wicked: but giveth right to the poor.
+Job 	36 	7 	1 	He withdraweth not his eyes from the righteous: but with kings are they on the throne; yea, he doth establish them for ever, and they are exalted.
+Job 	36 	8 	1 	And if they be bound in fetters, and be holden in cords of affliction;
+Job 	36 	9 	1 	Then he sheweth them their work, and their transgressions that they have exceeded.
+Job 	36 	10 	1 	He openeth also their ear to discipline, and commandeth that they return from iniquity.
+Job 	36 	11 	1 	If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures.
+Job 	36 	12 	1 	But if they obey not, they shall perish by the sword, and they shall die without knowledge.
+Job 	36 	13 	1 	But the hypocrites in heart heap up wrath: they cry not when he bindeth them.
+Job 	36 	14 	1 	They die in youth, and their life is among the unclean.
+Job 	36 	15 	1 	He delivereth the poor in his affliction, and openeth their ears in oppression.
+Job 	36 	16 	1 	Even so would he have removed thee out of the strait into a broad place, where there is no straitness; and that which should be set on thy table should be full of fatness.
+Job 	36 	17 	1 	But thou hast fulfilled the judgment of the wicked: judgment and justice take hold on thee.
+Job 	36 	18 	1 	Because there is wrath, beware lest he take thee away with his stroke: then a great ransom cannot deliver thee.
+Job 	36 	19 	1 	Will he esteem thy riches?
+Job 	36 	19 	2 	no, not gold, nor all the forces of strength.
+Job 	36 	20 	1 	Desire not the night, when people are cut off in their place.
+Job 	36 	21 	1 	Take heed, regard not iniquity: for this hast thou chosen rather than affliction.
+Job 	36 	22 	1 	Behold, God exalteth by his power: who teacheth like him?
+Job 	36 	23 	1 	Who hath enjoined him his way?
+Job 	36 	23 	2 	or who can say, Thou hast wrought iniquity?
+Job 	36 	24 	1 	Remember that thou magnify his work, which men behold.
+Job 	36 	25 	1 	Every man may see it; man may behold it afar off.
+Job 	36 	26 	1 	Behold, God is great, and we know him not, neither can the number of his years be searched out.
+Job 	36 	27 	1 	For he maketh small the drops of water: they pour down rain according to the vapour thereof:
+Job 	36 	28 	1 	Which the clouds do drop and distil upon man abundantly.
+Job 	36 	29 	1 	Also can any understand the spreadings of the clouds, or the noise of his tabernacle?
+Job 	36 	30 	1 	Behold, he spreadeth his light upon it, and covereth the bottom of the sea.
+Job 	36 	31 	1 	For by them judgeth he the people; he giveth meat in abundance.
+Job 	36 	32 	1 	With clouds he covereth the light; and commandeth it not to shine by the cloud that cometh betwixt.
+Job 	36 	33 	1 	The noise thereof sheweth concerning it, the cattle also concerning the vapour.
+Job 	37 	1 	1 	At this also my heart trembleth, and is moved out of his place.
+Job 	37 	2 	1 	Hear attentively the noise of his voice, and the sound that goeth out of his mouth.
+Job 	37 	3 	1 	He directeth it under the whole heaven, and his lightning unto the ends of the earth.
+Job 	37 	4 	1 	After it a voice roareth: he thundereth with the voice of his excellency; and he will not stay them when his voice is heard.
+Job 	37 	5 	1 	God thundereth marvellously with his voice; great things doeth he, which we cannot comprehend.
+Job 	37 	6 	1 	For he saith to the snow, Be thou on the earth; likewise to the small rain, and to the great rain of his strength.
+Job 	37 	7 	1 	He sealeth up the hand of every man; that all men may know his work.
+Job 	37 	8 	1 	Then the beasts go into dens, and remain in their places.
+Job 	37 	9 	1 	Out of the south cometh the whirlwind: and cold out of the north.
+Job 	37 	10 	1 	By the breath of God frost is given: and the breadth of the waters is straitened.
+Job 	37 	11 	1 	Also by watering he wearieth the thick cloud: he scattereth his bright cloud:
+Job 	37 	12 	1 	And it is turned round about by his counsels: that they may do whatsoever he commandeth them upon the face of the world in the earth.
+Job 	37 	13 	1 	He causeth it to come, whether for correction, or for his land, or for mercy.
+Job 	37 	14 	1 	Hearken unto this, O Job: stand still, and consider the wondrous works of God.
+Job 	37 	15 	1 	Dost thou know when God disposed them, and caused the light of his cloud to shine?
+Job 	37 	16 	1 	Dost thou know the balancings of the clouds, the wondrous works of him which is perfect in knowledge?
+Job 	37 	17 	1 	How thy garments are warm, when he quieteth the earth by the south wind?
+Job 	37 	18 	1 	Hast thou with him spread out the sky, which is strong, and as a molten looking glass?
+Job 	37 	19 	1 	Teach us what we shall say unto him; for we cannot order our speech by reason of darkness.
+Job 	37 	20 	1 	Shall it be told him that I speak?
+Job 	37 	20 	2 	if a man speak, surely he shall be swallowed up.
+Job 	37 	21 	1 	And now men see not the bright light which is in the clouds: but the wind passeth, and cleanseth them.
+Job 	37 	22 	1 	Fair weather cometh out of the north: with God is terrible majesty.
+Job 	37 	23 	1 	Touching the Almighty, we cannot find him out: he is excellent in power, and in judgment, and in plenty of justice: he will not afflict.
+Job 	37 	24 	1 	Men do therefore fear him: he respecteth not any that are wise of heart.
+Job 	38 	1 	1 	Then the LORD answered Job out of the whirlwind, and said,
+Job 	38 	2 	1 	Who is this that darkeneth counsel by words without knowledge?
+Job 	38 	3 	1 	Gird up now thy loins like a man; for I will demand of thee, and answer thou me.
+Job 	38 	4 	1 	Where wast thou when I laid the foundations of the earth?
+Job 	38 	4 	2 	declare, if thou hast understanding.
+Job 	38 	5 	1 	Who hath laid the measures thereof, if thou knowest?
+Job 	38 	5 	2 	or who hath stretched the line upon it?
+Job 	38 	6 	1 	Whereupon are the foundations thereof fastened?
+Job 	38 	6 	2 	or who laid the corner stone thereof;
+Job 	38 	7 	1 	When the morning stars sang together, and all the sons of God shouted for joy?
+Job 	38 	8 	1 	Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb?
+Job 	38 	9 	1 	When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,
+Job 	38 	10 	1 	And brake up for it my decreed place, and set bars and doors,
+Job 	38 	11 	1 	And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?
+Job 	38 	12 	1 	Hast thou commanded the morning since thy days; and caused the dayspring to know his place;
+Job 	38 	13 	1 	That it might take hold of the ends of the earth, that the wicked might be shaken out of it?
+Job 	38 	14 	1 	It is turned as clay to the seal; and they stand as a garment.
+Job 	38 	15 	1 	And from the wicked their light is withholden, and the high arm shall be broken.
+Job 	38 	16 	1 	Hast thou entered into the springs of the sea?
+Job 	38 	16 	2 	or hast thou walked in the search of the depth?
+Job 	38 	17 	1 	Have the gates of death been opened unto thee?
+Job 	38 	17 	2 	or hast thou seen the doors of the shadow of death?
+Job 	38 	18 	1 	Hast thou perceived the breadth of the earth?
+Job 	38 	18 	2 	declare if thou knowest it all.
+Job 	38 	19 	1 	Where is the way where light dwelleth?
+Job 	38 	19 	2 	and as for darkness, where is the place thereof,
+Job 	38 	20 	1 	That thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?
+Job 	38 	21 	1 	Knowest thou it, because thou wast then born?
+Job 	38 	21 	2 	or because the number of thy days is great?
+Job 	38 	22 	1 	Hast thou entered into the treasures of the snow?
+Job 	38 	22 	2 	or hast thou seen the treasures of the hail,
+Job 	38 	23 	1 	Which I have reserved against the time of trouble, against the day of battle and war?
+Job 	38 	24 	1 	By what way is the light parted, which scattereth the east wind upon the earth?
+Job 	38 	25 	1 	Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;
+Job 	38 	26 	1 	To cause it to rain on the earth, where no man is; on the wilderness, wherein there is no man;
+Job 	38 	27 	1 	To satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth?
+Job 	38 	28 	1 	Hath the rain a father?
+Job 	38 	28 	2 	or who hath begotten the drops of dew?
+Job 	38 	29 	1 	Out of whose womb came the ice?
+Job 	38 	29 	2 	and the hoary frost of heaven, who hath gendered it?
+Job 	38 	30 	1 	The waters are hid as with a stone, and the face of the deep is frozen.
+Job 	38 	31 	1 	Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?
+Job 	38 	32 	1 	Canst thou bring forth Mazzaroth in his season?
+Job 	38 	32 	2 	or canst thou guide Arcturus with his sons?
+Job 	38 	33 	1 	Knowest thou the ordinances of heaven?
+Job 	38 	33 	2 	canst thou set the dominion thereof in the earth?
+Job 	38 	34 	1 	Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?
+Job 	38 	35 	1 	Canst thou send lightnings, that they may go and say unto thee, Here we are?
+Job 	38 	36 	1 	Who hath put wisdom in the inward parts?
+Job 	38 	36 	2 	or who hath given understanding to the heart?
+Job 	38 	37 	1 	Who can number the clouds in wisdom?
+Job 	38 	37 	2 	or who can stay the bottles of heaven,
+Job 	38 	38 	1 	When the dust groweth into hardness, and the clods cleave fast together?
+Job 	38 	39 	1 	Wilt thou hunt the prey for the lion?
+Job 	38 	39 	2 	or fill the appetite of the young lions,
+Job 	38 	40 	1 	When they couch in their dens, and abide in the covert to lie in wait?
+Job 	38 	41 	1 	Who provideth for the raven his food?
+Job 	38 	41 	2 	when his young ones cry unto God, they wander for lack of meat.
+Job 	39 	1 	1 	Knowest thou the time when the wild goats of the rock bring forth?
+Job 	39 	1 	2 	or canst thou mark when the hinds do calve?
+Job 	39 	2 	1 	Canst thou number the months that they fulfil?
+Job 	39 	2 	2 	or knowest thou the time when they bring forth?
+Job 	39 	3 	1 	They bow themselves, they bring forth their young ones, they cast out their sorrows.
+Job 	39 	4 	1 	Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them.
+Job 	39 	5 	1 	Who hath sent out the wild ass free?
+Job 	39 	5 	2 	or who hath loosed the bands of the wild ass?
+Job 	39 	6 	1 	Whose house I have made the wilderness, and the barren land his dwellings.
+Job 	39 	7 	1 	He scorneth the multitude of the city, neither regardeth he the crying of the driver.
+Job 	39 	8 	1 	The range of the mountains is his pasture, and he searcheth after every green thing.
+Job 	39 	9 	1 	Will the unicorn be willing to serve thee, or abide by thy crib?
+Job 	39 	10 	1 	Canst thou bind the unicorn with his band in the furrow?
+Job 	39 	10 	2 	or will he harrow the valleys after thee?
+Job 	39 	11 	1 	Wilt thou trust him, because his strength is great?
+Job 	39 	11 	2 	or wilt thou leave thy labour to him?
+Job 	39 	12 	1 	Wilt thou believe him, that he will bring home thy seed, and gather it into thy barn?
+Job 	39 	13 	1 	Gavest thou the goodly wings unto the peacocks?
+Job 	39 	13 	2 	or wings and feathers unto the ostrich?
+Job 	39 	14 	1 	Which leaveth her eggs in the earth, and warmeth them in dust,
+Job 	39 	15 	1 	And forgetteth that the foot may crush them, or that the wild beast may break them.
+Job 	39 	16 	1 	She is hardened against her young ones, as though they were not her's: her labour is in vain without fear;
+Job 	39 	17 	1 	Because God hath deprived her of wisdom, neither hath he imparted to her understanding.
+Job 	39 	18 	1 	What time she lifteth up herself on high, she scorneth the horse and his rider.
+Job 	39 	19 	1 	Hast thou given the horse strength?
+Job 	39 	19 	2 	hast thou clothed his neck with thunder?
+Job 	39 	20 	1 	Canst thou make him afraid as a grasshopper?
+Job 	39 	20 	2 	the glory of his nostrils is terrible.
+Job 	39 	21 	1 	He paweth in the valley, and rejoiceth in his strength: he goeth on to meet the armed men.
+Job 	39 	22 	1 	He mocketh at fear, and is not affrighted; neither turneth he back from the sword.
+Job 	39 	23 	1 	The quiver rattleth against him, the glittering spear and the shield.
+Job 	39 	24 	1 	He swalloweth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet.
+Job 	39 	25 	1 	He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting.
+Job 	39 	26 	1 	Doth the hawk fly by thy wisdom, and stretch her wings toward the south?
+Job 	39 	27 	1 	Doth the eagle mount up at thy command, and make her nest on high?
+Job 	39 	28 	1 	She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place.
+Job 	39 	29 	1 	From thence she seeketh the prey, and her eyes behold afar off.
+Job 	39 	30 	1 	Her young ones also suck up blood: and where the slain are, there is she.
+Job 	40 	1 	1 	Moreover the LORD answered Job, and said,
+Job 	40 	2 	1 	Shall he that contendeth with the Almighty instruct him?
+Job 	40 	2 	2 	he that reproveth God, let him answer it.
+Job 	40 	3 	1 	Then Job answered the LORD, and said,
+Job 	40 	4 	1 	Behold, I am vile; what shall I answer thee?
+Job 	40 	4 	2 	I will lay mine hand upon my mouth.
+Job 	40 	5 	1 	Once have I spoken; but I will not answer: yea, twice; but I will proceed no further.
+Job 	40 	6 	1 	Then answered the LORD unto Job out of the whirlwind, and said,
+Job 	40 	7 	1 	Gird up thy loins now like a man: I will demand of thee, and declare thou unto me.
+Job 	40 	8 	1 	Wilt thou also disannul my judgment?
+Job 	40 	8 	2 	wilt thou condemn me, that thou mayest be righteous?
+Job 	40 	9 	1 	Hast thou an arm like God?
+Job 	40 	9 	2 	or canst thou thunder with a voice like him?
+Job 	40 	10 	1 	Deck thyself now with majesty and excellency; and array thyself with glory and beauty.
+Job 	40 	11 	1 	Cast abroad the rage of thy wrath: and behold every one that is proud, and abase him.
+Job 	40 	12 	1 	Look on every one that is proud, and bring him low; and tread down the wicked in their place.
+Job 	40 	13 	1 	Hide them in the dust together; and bind their faces in secret.
+Job 	40 	14 	1 	Then will I also confess unto thee that thine own right hand can save thee.
+Job 	40 	15 	1 	Behold now behemoth, which I made with thee; he eateth grass as an ox.
+Job 	40 	16 	1 	Lo now, his strength is in his loins, and his force is in the navel of his belly.
+Job 	40 	17 	1 	He moveth his tail like a cedar: the sinews of his stones are wrapped together.
+Job 	40 	18 	1 	His bones are as strong pieces of brass; his bones are like bars of iron.
+Job 	40 	19 	1 	He is the chief of the ways of God: he that made him can make his sword to approach unto him.
+Job 	40 	20 	1 	Surely the mountains bring him forth food, where all the beasts of the field play.
+Job 	40 	21 	1 	He lieth under the shady trees, in the covert of the reed, and fens.
+Job 	40 	22 	1 	The shady trees cover him with their shadow; the willows of the brook compass him about.
+Job 	40 	23 	1 	Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth.
+Job 	40 	24 	1 	He taketh it with his eyes: his nose pierceth through snares.
+Job 	41 	1 	1 	Canst thou draw out leviathan with an hook?
+Job 	41 	1 	2 	or his tongue with a cord which thou lettest down?
+Job 	41 	2 	1 	Canst thou put an hook into his nose?
+Job 	41 	2 	2 	or bore his jaw through with a thorn?
+Job 	41 	3 	1 	Will he make many supplications unto thee?
+Job 	41 	3 	2 	will he speak soft words unto thee?
+Job 	41 	4 	1 	Will he make a covenant with thee?
+Job 	41 	4 	2 	wilt thou take him for a servant for ever?
+Job 	41 	5 	1 	Wilt thou play with him as with a bird?
+Job 	41 	5 	2 	or wilt thou bind him for thy maidens?
+Job 	41 	6 	1 	Shall the companions make a banquet of him?
+Job 	41 	6 	2 	shall they part him among the merchants?
+Job 	41 	7 	1 	Canst thou fill his skin with barbed irons?
+Job 	41 	7 	2 	or his head with fish spears?
+Job 	41 	8 	1 	Lay thine hand upon him, remember the battle, do no more.
+Job 	41 	9 	1 	Behold, the hope of him is in vain: shall not one be cast down even at the sight of him?
+Job 	41 	10 	1 	None is so fierce that dare stir him up: who then is able to stand before me?
+Job 	41 	11 	1 	Who hath prevented me, that I should repay him?
+Job 	41 	11 	2 	whatsoever is under the whole heaven is mine.
+Job 	41 	12 	1 	I will not conceal his parts, nor his power, nor his comely proportion.
+Job 	41 	13 	1 	Who can discover the face of his garment?
+Job 	41 	13 	2 	or who can come to him with his double bridle?
+Job 	41 	14 	1 	Who can open the doors of his face?
+Job 	41 	14 	2 	his teeth are terrible round about.
+Job 	41 	15 	1 	His scales are his pride, shut up together as with a close seal.
+Job 	41 	16 	1 	One is so near to another, that no air can come between them.
+Job 	41 	17 	1 	They are joined one to another, they stick together, that they cannot be sundered.
+Job 	41 	18 	1 	By his neesings a light doth shine, and his eyes are like the eyelids of the morning.
+Job 	41 	19 	1 	Out of his mouth go burning lamps, and sparks of fire leap out.
+Job 	41 	20 	1 	Out of his nostrils goeth smoke, as out of a seething pot or caldron.
+Job 	41 	21 	1 	His breath kindleth coals, and a flame goeth out of his mouth.
+Job 	41 	22 	1 	In his neck remaineth strength, and sorrow is turned into joy before him.
+Job 	41 	23 	1 	The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.
+Job 	41 	24 	1 	His heart is as firm as a stone; yea, as hard as a piece of the nether millstone.
+Job 	41 	25 	1 	When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.
+Job 	41 	26 	1 	The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.
+Job 	41 	27 	1 	He esteemeth iron as straw, and brass as rotten wood.
+Job 	41 	28 	1 	The arrow cannot make him flee: slingstones are turned with him into stubble.
+Job 	41 	29 	1 	Darts are counted as stubble: he laugheth at the shaking of a spear.
+Job 	41 	30 	1 	Sharp stones are under him: he spreadeth sharp pointed things upon the mire.
+Job 	41 	31 	1 	He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.
+Job 	41 	32 	1 	He maketh a path to shine after him; one would think the deep to be hoary.
+Job 	41 	33 	1 	Upon earth there is not his like, who is made without fear.
+Job 	41 	34 	1 	He beholdeth all high things: he is a king over all the children of pride.
+Job 	42 	1 	1 	Then Job answered the LORD, and said,
+Job 	42 	2 	1 	I know that thou canst do every thing, and that no thought can be withholden from thee.
+Job 	42 	3 	1 	Who is he that hideth counsel without knowledge?
+Job 	42 	3 	2 	therefore have I uttered that I understood not; things too wonderful for me, which I knew not.
+Job 	42 	4 	1 	Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me.
+Job 	42 	5 	1 	I have heard of thee by the hearing of the ear: but now mine eye seeth thee.
+Job 	42 	6 	1 	Wherefore I abhor myself, and repent in dust and ashes.
+Job 	42 	7 	1 	And it was so, that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath.
+Job 	42 	8 	1 	Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job.
+Job 	42 	9 	1 	So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the LORD commanded them: the LORD also accepted Job.
+Job 	42 	10 	1 	And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before.
+Job 	42 	11 	1 	Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every one an earring of gold.
+Job 	42 	12 	1 	So the LORD blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses.
+Job 	42 	13 	1 	He had also seven sons and three daughters.
+Job 	42 	14 	1 	And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Kerenhappuch.
+Job 	42 	15 	1 	And in all the land were no women found so fair as the daughters of Job: and their father gave them inheritance among their brethren.
+Job 	42 	16 	1 	After this lived Job an hundred and forty years, and saw his sons, and his sons' sons, even four generations.
+Job 	42 	17 	1 	So Job died, being old and full of days.

@@ -1,0 +1,2638 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Ti1 	1 	1 	1 	1 	1 	Paul 	NNP
+Ti1 	1 	1 	1 	2 	0 	,
+Ti1 	1 	1 	1 	3 	1 	an 	DT
+Ti1 	1 	1 	1 	4 	1 	apostle 	NN
+Ti1 	1 	1 	1 	5 	1 	of 	IN
+Ti1 	1 	1 	1 	6 	1 	Jesus 	NN
+Ti1 	1 	1 	1 	7 	1 	Christ 	NN
+Ti1 	1 	1 	1 	8 	1 	by 	IN
+Ti1 	1 	1 	1 	9 	1 	the 	DT
+Ti1 	1 	1 	1 	10 	1 	commandment 	NN
+Ti1 	1 	1 	1 	11 	1 	of 	IN
+Ti1 	1 	1 	1 	12 	1 	God 	NNP
+Ti1 	1 	1 	1 	13 	1 	our 	PRP$
+Ti1 	1 	1 	1 	14 	1 	Saviour 	NN
+Ti1 	1 	1 	1 	15 	0 	,
+Ti1 	1 	1 	1 	16 	1 	and 	CC
+Ti1 	1 	1 	1 	17 	1 	Lord 	NN
+Ti1 	1 	1 	1 	18 	1 	Jesus 	NN
+Ti1 	1 	1 	1 	19 	1 	Christ 	NN
+Ti1 	1 	1 	1 	20 	0 	,
+Ti1 	1 	1 	1 	21 	1 	which 	WDT
+Ti1 	1 	1 	1 	22 	1 	is 	VBZ
+Ti1 	1 	1 	1 	23 	1 	our 	PRP$
+Ti1 	1 	1 	1 	24 	1 	hope 	NN
+Ti1 	1 	1 	1 	25 	0 	;
+Ti1 	1 	2 	1 	1 	1 	Unto 	IN
+Ti1 	1 	2 	1 	2 	1 	Timothy 	NN
+Ti1 	1 	2 	1 	3 	0 	,
+Ti1 	1 	2 	1 	4 	1 	my 	PRP$
+Ti1 	1 	2 	1 	5 	1 	own 	JJ
+Ti1 	1 	2 	1 	6 	1 	son 	NN
+Ti1 	1 	2 	1 	7 	1 	in 	IN
+Ti1 	1 	2 	1 	8 	1 	the 	DT
+Ti1 	1 	2 	1 	9 	1 	faith 	NN
+Ti1 	1 	2 	1 	10 	0 	:
+Ti1 	1 	2 	1 	11 	1 	Grace 	NN
+Ti1 	1 	2 	1 	12 	0 	,
+Ti1 	1 	2 	1 	13 	1 	mercy 	NN
+Ti1 	1 	2 	1 	14 	0 	,
+Ti1 	1 	2 	1 	15 	1 	and 	CC
+Ti1 	1 	2 	1 	16 	1 	peace 	NN
+Ti1 	1 	2 	1 	17 	0 	,
+Ti1 	1 	2 	1 	18 	1 	from 	IN
+Ti1 	1 	2 	1 	19 	1 	God 	NNP
+Ti1 	1 	2 	1 	20 	1 	our 	PRP$
+Ti1 	1 	2 	1 	21 	1 	Father 	NN
+Ti1 	1 	2 	1 	22 	1 	and 	CC
+Ti1 	1 	2 	1 	23 	1 	Jesus 	NN
+Ti1 	1 	2 	1 	24 	1 	Christ 	NN
+Ti1 	1 	2 	1 	25 	1 	our 	PRP$
+Ti1 	1 	2 	1 	26 	1 	Lord 	NN
+Ti1 	1 	2 	1 	27 	0 	.
+Ti1 	1 	3 	1 	1 	1 	As 	IN
+Ti1 	1 	3 	1 	2 	1 	I 	PRP
+Ti1 	1 	3 	1 	3 	1 	besought 	NN
+Ti1 	1 	3 	1 	4 	1 	thee 	NN
+Ti1 	1 	3 	1 	5 	1 	to 	TO
+Ti1 	1 	3 	1 	6 	1 	abide 	NN
+Ti1 	1 	3 	1 	7 	1 	still 	RB
+Ti1 	1 	3 	1 	8 	1 	at 	IN
+Ti1 	1 	3 	1 	9 	1 	Ephesus 	NN
+Ti1 	1 	3 	1 	10 	0 	,
+Ti1 	1 	3 	1 	11 	1 	when 	WRB
+Ti1 	1 	3 	1 	12 	1 	I 	PRP
+Ti1 	1 	3 	1 	13 	1 	went 	VBD
+Ti1 	1 	3 	1 	14 	1 	into 	IN
+Ti1 	1 	3 	1 	15 	1 	Macedonia 	NN
+Ti1 	1 	3 	1 	16 	0 	,
+Ti1 	1 	3 	1 	17 	1 	that 	IN
+Ti1 	1 	3 	1 	18 	1 	thou 	NN
+Ti1 	1 	3 	1 	19 	1 	mightest 	JJS
+Ti1 	1 	3 	1 	20 	1 	charge 	NN
+Ti1 	1 	3 	1 	21 	1 	some 	DT
+Ti1 	1 	3 	1 	22 	1 	that 	IN
+Ti1 	1 	3 	1 	23 	1 	they 	PRP
+Ti1 	1 	3 	1 	24 	1 	teach 	NN
+Ti1 	1 	3 	1 	25 	1 	no 	DT
+Ti1 	1 	3 	1 	26 	1 	other 	JJ
+Ti1 	1 	3 	1 	27 	1 	doctrine 	NN
+Ti1 	1 	3 	1 	28 	0 	,
+Ti1 	1 	4 	1 	1 	1 	Neither 	CC
+Ti1 	1 	4 	1 	2 	1 	give 	VB
+Ti1 	1 	4 	1 	3 	1 	heed 	NN
+Ti1 	1 	4 	1 	4 	1 	to 	TO
+Ti1 	1 	4 	1 	5 	1 	fables 	NNS
+Ti1 	1 	4 	1 	6 	1 	and 	CC
+Ti1 	1 	4 	1 	7 	1 	endless 	NN
+Ti1 	1 	4 	1 	8 	1 	genealogies 	NNS
+Ti1 	1 	4 	1 	9 	0 	,
+Ti1 	1 	4 	1 	10 	1 	which 	WDT
+Ti1 	1 	4 	1 	11 	1 	minister 	NN
+Ti1 	1 	4 	1 	12 	1 	questions 	NNS
+Ti1 	1 	4 	1 	13 	0 	,
+Ti1 	1 	4 	1 	14 	1 	rather 	RB
+Ti1 	1 	4 	1 	15 	1 	than 	IN
+Ti1 	1 	4 	1 	16 	1 	godly 	RB
+Ti1 	1 	4 	1 	17 	1 	edifying 	VBG
+Ti1 	1 	4 	1 	18 	1 	which 	WDT
+Ti1 	1 	4 	1 	19 	1 	is 	VBZ
+Ti1 	1 	4 	1 	20 	1 	in 	IN
+Ti1 	1 	4 	1 	21 	1 	faith 	NN
+Ti1 	1 	4 	1 	22 	0 	:
+Ti1 	1 	4 	1 	23 	1 	so 	RB
+Ti1 	1 	4 	1 	24 	1 	do 	VB
+Ti1 	1 	4 	1 	25 	0 	.
+Ti1 	1 	5 	1 	1 	1 	Now 	RB
+Ti1 	1 	5 	1 	2 	1 	the 	DT
+Ti1 	1 	5 	1 	3 	1 	end 	NN
+Ti1 	1 	5 	1 	4 	1 	of 	IN
+Ti1 	1 	5 	1 	5 	1 	the 	DT
+Ti1 	1 	5 	1 	6 	1 	commandment 	NN
+Ti1 	1 	5 	1 	7 	1 	is 	VBZ
+Ti1 	1 	5 	1 	8 	1 	charity 	NN
+Ti1 	1 	5 	1 	9 	1 	out 	IN
+Ti1 	1 	5 	1 	10 	1 	of 	IN
+Ti1 	1 	5 	1 	11 	1 	a 	DT
+Ti1 	1 	5 	1 	12 	1 	pure 	NN
+Ti1 	1 	5 	1 	13 	1 	heart 	NN
+Ti1 	1 	5 	1 	14 	0 	,
+Ti1 	1 	5 	1 	15 	1 	and 	CC
+Ti1 	1 	5 	1 	16 	1 	of 	IN
+Ti1 	1 	5 	1 	17 	1 	a 	DT
+Ti1 	1 	5 	1 	18 	1 	good 	JJ
+Ti1 	1 	5 	1 	19 	1 	conscience 	NN
+Ti1 	1 	5 	1 	20 	0 	,
+Ti1 	1 	5 	1 	21 	1 	and 	CC
+Ti1 	1 	5 	1 	22 	1 	of 	IN
+Ti1 	1 	5 	1 	23 	1 	faith 	NN
+Ti1 	1 	5 	1 	24 	1 	unfeigned 	JJ
+Ti1 	1 	5 	1 	25 	0 	:
+Ti1 	1 	6 	1 	1 	1 	From 	IN
+Ti1 	1 	6 	1 	2 	1 	which 	WDT
+Ti1 	1 	6 	1 	3 	1 	some 	DT
+Ti1 	1 	6 	1 	4 	1 	having 	VBG
+Ti1 	1 	6 	1 	5 	1 	swerved 	VBN
+Ti1 	1 	6 	1 	6 	1 	have 	VB
+Ti1 	1 	6 	1 	7 	1 	turned 	VBD
+Ti1 	1 	6 	1 	8 	1 	aside 	RB
+Ti1 	1 	6 	1 	9 	1 	unto 	NN
+Ti1 	1 	6 	1 	10 	1 	vain 	NN
+Ti1 	1 	6 	1 	11 	1 	jangling 	NN
+Ti1 	1 	6 	1 	12 	0 	;
+Ti1 	1 	7 	1 	1 	1 	Desiring 	VBG
+Ti1 	1 	7 	1 	2 	1 	to 	TO
+Ti1 	1 	7 	1 	3 	1 	be 	VB
+Ti1 	1 	7 	1 	4 	1 	teachers 	NNS
+Ti1 	1 	7 	1 	5 	1 	of 	IN
+Ti1 	1 	7 	1 	6 	1 	the 	DT
+Ti1 	1 	7 	1 	7 	1 	law 	NN
+Ti1 	1 	7 	1 	8 	0 	;
+Ti1 	1 	7 	1 	9 	1 	understanding 	VBG
+Ti1 	1 	7 	1 	10 	1 	neither 	DT
+Ti1 	1 	7 	1 	11 	1 	what 	WP
+Ti1 	1 	7 	1 	12 	1 	they 	PRP
+Ti1 	1 	7 	1 	13 	1 	say 	VB
+Ti1 	1 	7 	1 	14 	0 	,
+Ti1 	1 	7 	1 	15 	1 	nor 	CC
+Ti1 	1 	7 	1 	16 	1 	whereof 	NN
+Ti1 	1 	7 	1 	17 	1 	they 	PRP
+Ti1 	1 	7 	1 	18 	1 	affirm 	NN
+Ti1 	1 	7 	1 	19 	0 	.
+Ti1 	1 	8 	1 	1 	1 	But 	CC
+Ti1 	1 	8 	1 	2 	1 	we 	PRP
+Ti1 	1 	8 	1 	3 	1 	know 	VB
+Ti1 	1 	8 	1 	4 	1 	that 	IN
+Ti1 	1 	8 	1 	5 	1 	the 	DT
+Ti1 	1 	8 	1 	6 	1 	law 	NN
+Ti1 	1 	8 	1 	7 	1 	is 	VBZ
+Ti1 	1 	8 	1 	8 	1 	good 	JJ
+Ti1 	1 	8 	1 	9 	0 	,
+Ti1 	1 	8 	1 	10 	1 	if 	IN
+Ti1 	1 	8 	1 	11 	1 	a 	DT
+Ti1 	1 	8 	1 	12 	1 	man 	NN
+Ti1 	1 	8 	1 	13 	1 	use 	NN
+Ti1 	1 	8 	1 	14 	1 	it 	PRP
+Ti1 	1 	8 	1 	15 	1 	lawfully 	RB
+Ti1 	1 	8 	1 	16 	0 	;
+Ti1 	1 	9 	1 	1 	1 	Knowing 	VBG
+Ti1 	1 	9 	1 	2 	1 	this 	DT
+Ti1 	1 	9 	1 	3 	0 	,
+Ti1 	1 	9 	1 	4 	1 	that 	IN
+Ti1 	1 	9 	1 	5 	1 	the 	DT
+Ti1 	1 	9 	1 	6 	1 	law 	NN
+Ti1 	1 	9 	1 	7 	1 	is 	VBZ
+Ti1 	1 	9 	1 	8 	1 	not 	RB
+Ti1 	1 	9 	1 	9 	1 	made 	VBN
+Ti1 	1 	9 	1 	10 	1 	for 	IN
+Ti1 	1 	9 	1 	11 	1 	a 	DT
+Ti1 	1 	9 	1 	12 	1 	righteous 	JJ
+Ti1 	1 	9 	1 	13 	1 	man 	NN
+Ti1 	1 	9 	1 	14 	0 	,
+Ti1 	1 	9 	1 	15 	1 	but 	CC
+Ti1 	1 	9 	1 	16 	1 	for 	IN
+Ti1 	1 	9 	1 	17 	1 	the 	DT
+Ti1 	1 	9 	1 	18 	1 	lawless 	NN
+Ti1 	1 	9 	1 	19 	1 	and 	CC
+Ti1 	1 	9 	1 	20 	1 	disobedient 	NN
+Ti1 	1 	9 	1 	21 	0 	,
+Ti1 	1 	9 	1 	22 	1 	for 	IN
+Ti1 	1 	9 	1 	23 	1 	the 	DT
+Ti1 	1 	9 	1 	24 	1 	ungodly 	RB
+Ti1 	1 	9 	1 	25 	1 	and 	CC
+Ti1 	1 	9 	1 	26 	1 	for 	IN
+Ti1 	1 	9 	1 	27 	1 	sinners 	NNS
+Ti1 	1 	9 	1 	28 	0 	,
+Ti1 	1 	9 	1 	29 	1 	for 	IN
+Ti1 	1 	9 	1 	30 	1 	unholy 	NN
+Ti1 	1 	9 	1 	31 	1 	and 	CC
+Ti1 	1 	9 	1 	32 	1 	profane 	NN
+Ti1 	1 	9 	1 	33 	0 	,
+Ti1 	1 	9 	1 	34 	1 	for 	IN
+Ti1 	1 	9 	1 	35 	1 	murderers 	NNS
+Ti1 	1 	9 	1 	36 	1 	of 	IN
+Ti1 	1 	9 	1 	37 	1 	fathers 	NNS
+Ti1 	1 	9 	1 	38 	1 	and 	CC
+Ti1 	1 	9 	1 	39 	1 	murderers 	NNS
+Ti1 	1 	9 	1 	40 	1 	of 	IN
+Ti1 	1 	9 	1 	41 	1 	mothers 	NNS
+Ti1 	1 	9 	1 	42 	0 	,
+Ti1 	1 	9 	1 	43 	1 	for 	IN
+Ti1 	1 	9 	1 	44 	1 	manslayers 	NNS
+Ti1 	1 	9 	1 	45 	0 	,
+Ti1 	1 	10 	1 	1 	1 	For 	IN
+Ti1 	1 	10 	1 	2 	1 	whoremongers 	NNS
+Ti1 	1 	10 	1 	3 	0 	,
+Ti1 	1 	10 	1 	4 	1 	for 	IN
+Ti1 	1 	10 	1 	5 	1 	them 	PRP
+Ti1 	1 	10 	1 	6 	1 	that 	IN
+Ti1 	1 	10 	1 	7 	1 	defile 	NN
+Ti1 	1 	10 	1 	8 	1 	themselves 	PRP
+Ti1 	1 	10 	1 	9 	1 	with 	IN
+Ti1 	1 	10 	1 	10 	1 	mankind 	NN
+Ti1 	1 	10 	1 	11 	0 	,
+Ti1 	1 	10 	1 	12 	1 	for 	IN
+Ti1 	1 	10 	1 	13 	1 	menstealers 	NNS
+Ti1 	1 	10 	1 	14 	0 	,
+Ti1 	1 	10 	1 	15 	1 	for 	IN
+Ti1 	1 	10 	1 	16 	1 	liars 	NNS
+Ti1 	1 	10 	1 	17 	0 	,
+Ti1 	1 	10 	1 	18 	1 	for 	IN
+Ti1 	1 	10 	1 	19 	1 	perjured 	VBN
+Ti1 	1 	10 	1 	20 	1 	persons 	NNS
+Ti1 	1 	10 	1 	21 	0 	,
+Ti1 	1 	10 	1 	22 	1 	and 	CC
+Ti1 	1 	10 	1 	23 	1 	if 	IN
+Ti1 	1 	10 	1 	24 	1 	there 	RB
+Ti1 	1 	10 	1 	25 	1 	be 	VB
+Ti1 	1 	10 	1 	26 	1 	any 	DT
+Ti1 	1 	10 	1 	27 	1 	other 	JJ
+Ti1 	1 	10 	1 	28 	1 	thing 	NN
+Ti1 	1 	10 	1 	29 	1 	that 	IN
+Ti1 	1 	10 	1 	30 	1 	is 	VBZ
+Ti1 	1 	10 	1 	31 	1 	contrary 	JJ
+Ti1 	1 	10 	1 	32 	1 	to 	TO
+Ti1 	1 	10 	1 	33 	1 	sound 	NN
+Ti1 	1 	10 	1 	34 	1 	doctrine 	NN
+Ti1 	1 	10 	1 	35 	0 	;
+Ti1 	1 	11 	1 	1 	1 	According 	VBG
+Ti1 	1 	11 	1 	2 	1 	to 	TO
+Ti1 	1 	11 	1 	3 	1 	the 	DT
+Ti1 	1 	11 	1 	4 	1 	glorious 	JJ
+Ti1 	1 	11 	1 	5 	1 	gospel 	NN
+Ti1 	1 	11 	1 	6 	1 	of 	IN
+Ti1 	1 	11 	1 	7 	1 	the 	DT
+Ti1 	1 	11 	1 	8 	1 	blessed 	VBN
+Ti1 	1 	11 	1 	9 	1 	God 	NNP
+Ti1 	1 	11 	1 	10 	0 	,
+Ti1 	1 	11 	1 	11 	1 	which 	WDT
+Ti1 	1 	11 	1 	12 	1 	was 	VBD
+Ti1 	1 	11 	1 	13 	1 	committed 	VBN
+Ti1 	1 	11 	1 	14 	1 	to 	TO
+Ti1 	1 	11 	1 	15 	1 	my 	PRP$
+Ti1 	1 	11 	1 	16 	1 	trust 	NN
+Ti1 	1 	11 	1 	17 	0 	.
+Ti1 	1 	12 	1 	1 	1 	And 	CC
+Ti1 	1 	12 	1 	2 	1 	I 	PRP
+Ti1 	1 	12 	1 	3 	1 	thank 	NN
+Ti1 	1 	12 	1 	4 	1 	Christ 	NN
+Ti1 	1 	12 	1 	5 	1 	Jesus 	NN
+Ti1 	1 	12 	1 	6 	1 	our 	PRP$
+Ti1 	1 	12 	1 	7 	1 	Lord 	NN
+Ti1 	1 	12 	1 	8 	0 	,
+Ti1 	1 	12 	1 	9 	1 	who 	WP
+Ti1 	1 	12 	1 	10 	1 	hath 	NN
+Ti1 	1 	12 	1 	11 	1 	enabled 	VBN
+Ti1 	1 	12 	1 	12 	1 	me 	PRP
+Ti1 	1 	12 	1 	13 	0 	,
+Ti1 	1 	12 	1 	14 	1 	for 	IN
+Ti1 	1 	12 	1 	15 	1 	that 	IN
+Ti1 	1 	12 	1 	16 	1 	he 	PRP
+Ti1 	1 	12 	1 	17 	1 	counted 	VBN
+Ti1 	1 	12 	1 	18 	1 	me 	PRP
+Ti1 	1 	12 	1 	19 	1 	faithful 	NN
+Ti1 	1 	12 	1 	20 	0 	,
+Ti1 	1 	12 	1 	21 	1 	putting 	VBG
+Ti1 	1 	12 	1 	22 	1 	me 	PRP
+Ti1 	1 	12 	1 	23 	1 	into 	IN
+Ti1 	1 	12 	1 	24 	1 	the 	DT
+Ti1 	1 	12 	1 	25 	1 	ministry 	NN
+Ti1 	1 	12 	1 	26 	0 	;
+Ti1 	1 	13 	1 	1 	1 	Who 	WP
+Ti1 	1 	13 	1 	2 	1 	was 	VBD
+Ti1 	1 	13 	1 	3 	1 	before 	IN
+Ti1 	1 	13 	1 	4 	1 	a 	DT
+Ti1 	1 	13 	1 	5 	1 	blasphemer 	NN
+Ti1 	1 	13 	1 	6 	0 	,
+Ti1 	1 	13 	1 	7 	1 	and 	CC
+Ti1 	1 	13 	1 	8 	1 	a 	DT
+Ti1 	1 	13 	1 	9 	1 	persecutor 	NN
+Ti1 	1 	13 	1 	10 	0 	,
+Ti1 	1 	13 	1 	11 	1 	and 	CC
+Ti1 	1 	13 	1 	12 	1 	injurious 	JJ
+Ti1 	1 	13 	1 	13 	0 	:
+Ti1 	1 	13 	1 	14 	1 	but 	CC
+Ti1 	1 	13 	1 	15 	1 	I 	PRP
+Ti1 	1 	13 	1 	16 	1 	obtained 	VBN
+Ti1 	1 	13 	1 	17 	1 	mercy 	NN
+Ti1 	1 	13 	1 	18 	0 	,
+Ti1 	1 	13 	1 	19 	1 	because 	IN
+Ti1 	1 	13 	1 	20 	1 	I 	PRP
+Ti1 	1 	13 	1 	21 	1 	did 	VBD
+Ti1 	1 	13 	1 	22 	1 	it 	PRP
+Ti1 	1 	13 	1 	23 	1 	ignorantly 	RB
+Ti1 	1 	13 	1 	24 	1 	in 	IN
+Ti1 	1 	13 	1 	25 	1 	unbelief 	NN
+Ti1 	1 	13 	1 	26 	0 	.
+Ti1 	1 	14 	1 	1 	1 	And 	CC
+Ti1 	1 	14 	1 	2 	1 	the 	DT
+Ti1 	1 	14 	1 	3 	1 	grace 	NN
+Ti1 	1 	14 	1 	4 	1 	of 	IN
+Ti1 	1 	14 	1 	5 	1 	our 	PRP$
+Ti1 	1 	14 	1 	6 	1 	Lord 	NN
+Ti1 	1 	14 	1 	7 	1 	was 	VBD
+Ti1 	1 	14 	1 	8 	1 	exceeding 	VBG
+Ti1 	1 	14 	1 	9 	1 	abundant 	NN
+Ti1 	1 	14 	1 	10 	1 	with 	IN
+Ti1 	1 	14 	1 	11 	1 	faith 	NN
+Ti1 	1 	14 	1 	12 	1 	and 	CC
+Ti1 	1 	14 	1 	13 	1 	love 	NN
+Ti1 	1 	14 	1 	14 	1 	which 	WDT
+Ti1 	1 	14 	1 	15 	1 	is 	VBZ
+Ti1 	1 	14 	1 	16 	1 	in 	IN
+Ti1 	1 	14 	1 	17 	1 	Christ 	NN
+Ti1 	1 	14 	1 	18 	1 	Jesus 	NN
+Ti1 	1 	14 	1 	19 	0 	.
+Ti1 	1 	15 	1 	1 	1 	his 	PRP$
+Ti1 	1 	15 	1 	2 	1 	is 	VBZ
+Ti1 	1 	15 	1 	3 	1 	a 	DT
+Ti1 	1 	15 	1 	4 	1 	faithful 	NN
+Ti1 	1 	15 	1 	5 	1 	saying 	VBG
+Ti1 	1 	15 	1 	6 	0 	,
+Ti1 	1 	15 	1 	7 	1 	and 	CC
+Ti1 	1 	15 	1 	8 	1 	worthy 	NN
+Ti1 	1 	15 	1 	9 	1 	of 	IN
+Ti1 	1 	15 	1 	10 	1 	all 	DT
+Ti1 	1 	15 	1 	11 	1 	acceptation 	NN
+Ti1 	1 	15 	1 	12 	0 	,
+Ti1 	1 	15 	1 	13 	1 	that 	IN
+Ti1 	1 	15 	1 	14 	1 	Christ 	NN
+Ti1 	1 	15 	1 	15 	1 	Jesus 	NN
+Ti1 	1 	15 	1 	16 	1 	came 	VBD
+Ti1 	1 	15 	1 	17 	1 	into 	IN
+Ti1 	1 	15 	1 	18 	1 	the 	DT
+Ti1 	1 	15 	1 	19 	1 	world 	NN
+Ti1 	1 	15 	1 	20 	1 	to 	TO
+Ti1 	1 	15 	1 	21 	1 	save 	VB
+Ti1 	1 	15 	1 	22 	1 	sinners 	NNS
+Ti1 	1 	15 	1 	23 	0 	;
+Ti1 	1 	15 	1 	24 	1 	of 	IN
+Ti1 	1 	15 	1 	25 	1 	whom 	WP
+Ti1 	1 	15 	1 	26 	1 	I 	PRP
+Ti1 	1 	15 	1 	27 	1 	am 	VBP
+Ti1 	1 	15 	1 	28 	1 	chief 	NN
+Ti1 	1 	15 	1 	29 	0 	.
+Ti1 	1 	16 	1 	1 	1 	Howbeit 	NN
+Ti1 	1 	16 	1 	2 	1 	for 	IN
+Ti1 	1 	16 	1 	3 	1 	this 	DT
+Ti1 	1 	16 	1 	4 	1 	cause 	NN
+Ti1 	1 	16 	1 	5 	1 	I 	PRP
+Ti1 	1 	16 	1 	6 	1 	obtained 	VBN
+Ti1 	1 	16 	1 	7 	1 	mercy 	NN
+Ti1 	1 	16 	1 	8 	0 	,
+Ti1 	1 	16 	1 	9 	1 	that 	IN
+Ti1 	1 	16 	1 	10 	1 	in 	IN
+Ti1 	1 	16 	1 	11 	1 	me 	PRP
+Ti1 	1 	16 	1 	12 	1 	first 	RB
+Ti1 	1 	16 	1 	13 	1 	Jesus 	NN
+Ti1 	1 	16 	1 	14 	1 	Christ 	NN
+Ti1 	1 	16 	1 	15 	1 	might 	MD
+Ti1 	1 	16 	1 	16 	1 	shew 	NN
+Ti1 	1 	16 	1 	17 	1 	forth 	NN
+Ti1 	1 	16 	1 	18 	1 	all 	DT
+Ti1 	1 	16 	1 	19 	1 	longsuffering 	VBG
+Ti1 	1 	16 	1 	20 	0 	,
+Ti1 	1 	16 	1 	21 	1 	for 	IN
+Ti1 	1 	16 	1 	22 	1 	a 	DT
+Ti1 	1 	16 	1 	23 	1 	pattern 	NN
+Ti1 	1 	16 	1 	24 	1 	to 	TO
+Ti1 	1 	16 	1 	25 	1 	them 	PRP
+Ti1 	1 	16 	1 	26 	1 	which 	WDT
+Ti1 	1 	16 	1 	27 	1 	should 	MD
+Ti1 	1 	16 	1 	28 	1 	hereafter 	NN
+Ti1 	1 	16 	1 	29 	1 	believe 	VB
+Ti1 	1 	16 	1 	30 	1 	on 	IN
+Ti1 	1 	16 	1 	31 	1 	him 	PRP
+Ti1 	1 	16 	1 	32 	1 	to 	TO
+Ti1 	1 	16 	1 	33 	1 	life 	NN
+Ti1 	1 	16 	1 	34 	1 	everlasting 	VBG
+Ti1 	1 	16 	1 	35 	0 	.
+Ti1 	1 	17 	1 	1 	1 	Now 	RB
+Ti1 	1 	17 	1 	2 	1 	unto 	NN
+Ti1 	1 	17 	1 	3 	1 	the 	DT
+Ti1 	1 	17 	1 	4 	1 	King 	VBG
+Ti1 	1 	17 	1 	5 	1 	eternal 	JJ
+Ti1 	1 	17 	1 	6 	0 	,
+Ti1 	1 	17 	1 	7 	1 	immortal 	NN
+Ti1 	1 	17 	1 	8 	0 	,
+Ti1 	1 	17 	1 	9 	1 	invisible 	JJ
+Ti1 	1 	17 	1 	10 	0 	,
+Ti1 	1 	17 	1 	11 	1 	the 	DT
+Ti1 	1 	17 	1 	12 	1 	only 	RB
+Ti1 	1 	17 	1 	13 	1 	wise 	NN
+Ti1 	1 	17 	1 	14 	1 	God 	NNP
+Ti1 	1 	17 	1 	15 	0 	,
+Ti1 	1 	17 	1 	16 	1 	be 	VB
+Ti1 	1 	17 	1 	17 	1 	honour 	NN
+Ti1 	1 	17 	1 	18 	1 	and 	CC
+Ti1 	1 	17 	1 	19 	1 	glory 	NN
+Ti1 	1 	17 	1 	20 	1 	for 	IN
+Ti1 	1 	17 	1 	21 	1 	ever 	RB
+Ti1 	1 	17 	1 	22 	1 	and 	CC
+Ti1 	1 	17 	1 	23 	1 	ever 	RB
+Ti1 	1 	17 	1 	24 	0 	.
+Ti1 	1 	17 	2 	1 	1 	Amen 	NNS
+Ti1 	1 	17 	2 	2 	0 	.
+Ti1 	1 	18 	1 	1 	1 	his 	PRP$
+Ti1 	1 	18 	1 	2 	1 	charge 	NN
+Ti1 	1 	18 	1 	3 	1 	I 	PRP
+Ti1 	1 	18 	1 	4 	1 	commit 	NN
+Ti1 	1 	18 	1 	5 	1 	unto 	NN
+Ti1 	1 	18 	1 	6 	1 	thee 	NN
+Ti1 	1 	18 	1 	7 	0 	,
+Ti1 	1 	18 	1 	8 	1 	son 	NN
+Ti1 	1 	18 	1 	9 	1 	Timothy 	NN
+Ti1 	1 	18 	1 	10 	0 	,
+Ti1 	1 	18 	1 	11 	1 	according 	VBG
+Ti1 	1 	18 	1 	12 	1 	to 	TO
+Ti1 	1 	18 	1 	13 	1 	the 	DT
+Ti1 	1 	18 	1 	14 	1 	prophecies 	NNS
+Ti1 	1 	18 	1 	15 	1 	which 	WDT
+Ti1 	1 	18 	1 	16 	1 	went 	VBD
+Ti1 	1 	18 	1 	17 	1 	before 	IN
+Ti1 	1 	18 	1 	18 	1 	on 	IN
+Ti1 	1 	18 	1 	19 	1 	thee 	NN
+Ti1 	1 	18 	1 	20 	0 	,
+Ti1 	1 	18 	1 	21 	1 	that 	IN
+Ti1 	1 	18 	1 	22 	1 	thou 	NN
+Ti1 	1 	18 	1 	23 	1 	by 	IN
+Ti1 	1 	18 	1 	24 	1 	them 	PRP
+Ti1 	1 	18 	1 	25 	1 	mightest 	JJS
+Ti1 	1 	18 	1 	26 	1 	war 	NN
+Ti1 	1 	18 	1 	27 	1 	a 	DT
+Ti1 	1 	18 	1 	28 	1 	good 	JJ
+Ti1 	1 	18 	1 	29 	1 	warfare 	NN
+Ti1 	1 	18 	1 	30 	0 	;
+Ti1 	1 	19 	1 	1 	1 	Holding 	VBG
+Ti1 	1 	19 	1 	2 	1 	faith 	NN
+Ti1 	1 	19 	1 	3 	0 	,
+Ti1 	1 	19 	1 	4 	1 	and 	CC
+Ti1 	1 	19 	1 	5 	1 	a 	DT
+Ti1 	1 	19 	1 	6 	1 	good 	JJ
+Ti1 	1 	19 	1 	7 	1 	conscience 	NN
+Ti1 	1 	19 	1 	8 	0 	;
+Ti1 	1 	19 	1 	9 	1 	which 	WDT
+Ti1 	1 	19 	1 	10 	1 	some 	DT
+Ti1 	1 	19 	1 	11 	1 	having 	VBG
+Ti1 	1 	19 	1 	12 	1 	put 	NN
+Ti1 	1 	19 	1 	13 	1 	away 	RB
+Ti1 	1 	19 	1 	14 	1 	concerning 	VBG
+Ti1 	1 	19 	1 	15 	1 	faith 	NN
+Ti1 	1 	19 	1 	16 	1 	have 	VB
+Ti1 	1 	19 	1 	17 	1 	made 	VBN
+Ti1 	1 	19 	1 	18 	1 	shipwreck 	NN
+Ti1 	1 	19 	1 	19 	0 	:
+Ti1 	1 	20 	1 	1 	1 	Of 	IN
+Ti1 	1 	20 	1 	2 	1 	whom 	WP
+Ti1 	1 	20 	1 	3 	1 	is 	VBZ
+Ti1 	1 	20 	1 	4 	1 	Hymenaeus 	NN
+Ti1 	1 	20 	1 	5 	1 	and 	CC
+Ti1 	1 	20 	1 	6 	1 	Alexander 	NN
+Ti1 	1 	20 	1 	7 	0 	;
+Ti1 	1 	20 	1 	8 	1 	whom 	WP
+Ti1 	1 	20 	1 	9 	1 	I 	PRP
+Ti1 	1 	20 	1 	10 	1 	have 	VB
+Ti1 	1 	20 	1 	11 	1 	delivered 	VBN
+Ti1 	1 	20 	1 	12 	1 	unto 	NN
+Ti1 	1 	20 	1 	13 	1 	Satan 	NN
+Ti1 	1 	20 	1 	14 	0 	,
+Ti1 	1 	20 	1 	15 	1 	that 	IN
+Ti1 	1 	20 	1 	16 	1 	they 	PRP
+Ti1 	1 	20 	1 	17 	1 	may 	MD
+Ti1 	1 	20 	1 	18 	1 	learn 	NN
+Ti1 	1 	20 	1 	19 	1 	not 	RB
+Ti1 	1 	20 	1 	20 	1 	to 	TO
+Ti1 	1 	20 	1 	21 	1 	blaspheme 	NN
+Ti1 	1 	20 	1 	22 	0 	.
+Ti1 	2 	1 	1 	1 	1 	I 	PRP
+Ti1 	2 	1 	1 	2 	1 	exhort 	NN
+Ti1 	2 	1 	1 	3 	1 	therefore 	RB
+Ti1 	2 	1 	1 	4 	0 	,
+Ti1 	2 	1 	1 	5 	1 	that 	IN
+Ti1 	2 	1 	1 	6 	0 	,
+Ti1 	2 	1 	1 	7 	1 	first 	RB
+Ti1 	2 	1 	1 	8 	1 	of 	IN
+Ti1 	2 	1 	1 	9 	1 	all 	DT
+Ti1 	2 	1 	1 	10 	0 	,
+Ti1 	2 	1 	1 	11 	1 	supplications 	NNS
+Ti1 	2 	1 	1 	12 	0 	,
+Ti1 	2 	1 	1 	13 	1 	prayers 	NNS
+Ti1 	2 	1 	1 	14 	0 	,
+Ti1 	2 	1 	1 	15 	1 	intercessions 	NNS
+Ti1 	2 	1 	1 	16 	0 	,
+Ti1 	2 	1 	1 	17 	1 	and 	CC
+Ti1 	2 	1 	1 	18 	1 	giving 	VBG
+Ti1 	2 	1 	1 	19 	1 	of 	IN
+Ti1 	2 	1 	1 	20 	1 	thanks 	NNS
+Ti1 	2 	1 	1 	21 	0 	,
+Ti1 	2 	1 	1 	22 	1 	be 	VB
+Ti1 	2 	1 	1 	23 	1 	made 	VBN
+Ti1 	2 	1 	1 	24 	1 	for 	IN
+Ti1 	2 	1 	1 	25 	1 	all 	DT
+Ti1 	2 	1 	1 	26 	1 	men 	NNS
+Ti1 	2 	1 	1 	27 	0 	;
+Ti1 	2 	2 	1 	1 	1 	For 	IN
+Ti1 	2 	2 	1 	2 	1 	kings 	NNS
+Ti1 	2 	2 	1 	3 	0 	,
+Ti1 	2 	2 	1 	4 	1 	and 	CC
+Ti1 	2 	2 	1 	5 	1 	for 	IN
+Ti1 	2 	2 	1 	6 	1 	all 	DT
+Ti1 	2 	2 	1 	7 	1 	that 	IN
+Ti1 	2 	2 	1 	8 	1 	are 	VBP
+Ti1 	2 	2 	1 	9 	1 	in 	IN
+Ti1 	2 	2 	1 	10 	1 	authority 	NN
+Ti1 	2 	2 	1 	11 	0 	;
+Ti1 	2 	2 	1 	12 	1 	that 	IN
+Ti1 	2 	2 	1 	13 	1 	we 	PRP
+Ti1 	2 	2 	1 	14 	1 	may 	MD
+Ti1 	2 	2 	1 	15 	1 	lead 	NN
+Ti1 	2 	2 	1 	16 	1 	a 	DT
+Ti1 	2 	2 	1 	17 	1 	quiet 	JJ
+Ti1 	2 	2 	1 	18 	1 	and 	CC
+Ti1 	2 	2 	1 	19 	1 	peaceable 	JJ
+Ti1 	2 	2 	1 	20 	1 	life 	NN
+Ti1 	2 	2 	1 	21 	1 	in 	IN
+Ti1 	2 	2 	1 	22 	1 	all 	DT
+Ti1 	2 	2 	1 	23 	1 	godliness 	NN
+Ti1 	2 	2 	1 	24 	1 	and 	CC
+Ti1 	2 	2 	1 	25 	1 	honesty 	NN
+Ti1 	2 	2 	1 	26 	0 	.
+Ti1 	2 	3 	1 	1 	1 	For 	IN
+Ti1 	2 	3 	1 	2 	1 	this 	DT
+Ti1 	2 	3 	1 	3 	1 	is 	VBZ
+Ti1 	2 	3 	1 	4 	1 	good 	JJ
+Ti1 	2 	3 	1 	5 	1 	and 	CC
+Ti1 	2 	3 	1 	6 	1 	acceptable 	JJ
+Ti1 	2 	3 	1 	7 	1 	in 	IN
+Ti1 	2 	3 	1 	8 	1 	the 	DT
+Ti1 	2 	3 	1 	9 	1 	sight 	NN
+Ti1 	2 	3 	1 	10 	1 	of 	IN
+Ti1 	2 	3 	1 	11 	1 	God 	NNP
+Ti1 	2 	3 	1 	12 	1 	our 	PRP$
+Ti1 	2 	3 	1 	13 	1 	Saviour 	NN
+Ti1 	2 	3 	1 	14 	0 	;
+Ti1 	2 	4 	1 	1 	1 	Who 	WP
+Ti1 	2 	4 	1 	2 	1 	will 	MD
+Ti1 	2 	4 	1 	3 	1 	have 	VB
+Ti1 	2 	4 	1 	4 	1 	all 	DT
+Ti1 	2 	4 	1 	5 	1 	men 	NNS
+Ti1 	2 	4 	1 	6 	1 	to 	TO
+Ti1 	2 	4 	1 	7 	1 	be 	VB
+Ti1 	2 	4 	1 	8 	1 	saved 	VBN
+Ti1 	2 	4 	1 	9 	0 	,
+Ti1 	2 	4 	1 	10 	1 	and 	CC
+Ti1 	2 	4 	1 	11 	1 	to 	TO
+Ti1 	2 	4 	1 	12 	1 	come 	VB
+Ti1 	2 	4 	1 	13 	1 	unto 	NN
+Ti1 	2 	4 	1 	14 	1 	the 	DT
+Ti1 	2 	4 	1 	15 	1 	knowledge 	NN
+Ti1 	2 	4 	1 	16 	1 	of 	IN
+Ti1 	2 	4 	1 	17 	1 	the 	DT
+Ti1 	2 	4 	1 	18 	1 	truth 	NN
+Ti1 	2 	4 	1 	19 	0 	.
+Ti1 	2 	5 	1 	1 	1 	For 	IN
+Ti1 	2 	5 	1 	2 	1 	there 	RB
+Ti1 	2 	5 	1 	3 	1 	is 	VBZ
+Ti1 	2 	5 	1 	4 	1 	one 	CD
+Ti1 	2 	5 	1 	5 	1 	God 	NNP
+Ti1 	2 	5 	1 	6 	0 	,
+Ti1 	2 	5 	1 	7 	1 	and 	CC
+Ti1 	2 	5 	1 	8 	1 	one 	CD
+Ti1 	2 	5 	1 	9 	1 	mediator 	NN
+Ti1 	2 	5 	1 	10 	1 	between 	IN
+Ti1 	2 	5 	1 	11 	1 	God 	NNP
+Ti1 	2 	5 	1 	12 	1 	and 	CC
+Ti1 	2 	5 	1 	13 	1 	men 	NNS
+Ti1 	2 	5 	1 	14 	0 	,
+Ti1 	2 	5 	1 	15 	1 	the 	DT
+Ti1 	2 	5 	1 	16 	1 	man 	NN
+Ti1 	2 	5 	1 	17 	1 	Christ 	NN
+Ti1 	2 	5 	1 	18 	1 	Jesus 	NN
+Ti1 	2 	5 	1 	19 	0 	;
+Ti1 	2 	6 	1 	1 	1 	Who 	WP
+Ti1 	2 	6 	1 	2 	1 	gave 	VBD
+Ti1 	2 	6 	1 	3 	1 	himself 	PRP
+Ti1 	2 	6 	1 	4 	1 	a 	DT
+Ti1 	2 	6 	1 	5 	1 	ransom 	NN
+Ti1 	2 	6 	1 	6 	1 	for 	IN
+Ti1 	2 	6 	1 	7 	1 	all 	DT
+Ti1 	2 	6 	1 	8 	0 	,
+Ti1 	2 	6 	1 	9 	1 	to 	TO
+Ti1 	2 	6 	1 	10 	1 	be 	VB
+Ti1 	2 	6 	1 	11 	1 	testified 	VBN
+Ti1 	2 	6 	1 	12 	1 	in 	IN
+Ti1 	2 	6 	1 	13 	1 	due 	JJ
+Ti1 	2 	6 	1 	14 	1 	time 	NN
+Ti1 	2 	6 	1 	15 	0 	.
+Ti1 	2 	7 	1 	1 	1 	Whereunto 	IN
+Ti1 	2 	7 	1 	2 	1 	I 	PRP
+Ti1 	2 	7 	1 	3 	1 	am 	VBP
+Ti1 	2 	7 	1 	4 	1 	ordained 	VBN
+Ti1 	2 	7 	1 	5 	1 	a 	DT
+Ti1 	2 	7 	1 	6 	1 	preacher 	NN
+Ti1 	2 	7 	1 	7 	0 	,
+Ti1 	2 	7 	1 	8 	1 	and 	CC
+Ti1 	2 	7 	1 	9 	1 	an 	DT
+Ti1 	2 	7 	1 	10 	1 	apostle 	NN
+Ti1 	2 	7 	1 	11 	0 	,
+Ti1 	2 	7 	1 	12 	0 	(
+Ti1 	2 	7 	1 	13 	1 	I 	PRP
+Ti1 	2 	7 	1 	14 	1 	speak 	NN
+Ti1 	2 	7 	1 	15 	1 	the 	DT
+Ti1 	2 	7 	1 	16 	1 	truth 	NN
+Ti1 	2 	7 	1 	17 	1 	in 	IN
+Ti1 	2 	7 	1 	18 	1 	Christ 	NN
+Ti1 	2 	7 	1 	19 	0 	,
+Ti1 	2 	7 	1 	20 	1 	and 	CC
+Ti1 	2 	7 	1 	21 	1 	lie 	NN
+Ti1 	2 	7 	1 	22 	1 	not 	RB
+Ti1 	2 	7 	1 	23 	0 	;
+Ti1 	2 	7 	1 	24 	0 	)
+Ti1 	2 	7 	1 	25 	1 	a 	DT
+Ti1 	2 	7 	1 	26 	1 	teacher 	NN
+Ti1 	2 	7 	1 	27 	1 	of 	IN
+Ti1 	2 	7 	1 	28 	1 	the 	DT
+Ti1 	2 	7 	1 	29 	1 	Gentiles 	NNS
+Ti1 	2 	7 	1 	30 	1 	in 	IN
+Ti1 	2 	7 	1 	31 	1 	faith 	NN
+Ti1 	2 	7 	1 	32 	1 	and 	CC
+Ti1 	2 	7 	1 	33 	1 	verity 	NN
+Ti1 	2 	7 	1 	34 	0 	.
+Ti1 	2 	8 	1 	1 	1 	I 	PRP
+Ti1 	2 	8 	1 	2 	1 	will 	MD
+Ti1 	2 	8 	1 	3 	1 	therefore 	RB
+Ti1 	2 	8 	1 	4 	1 	that 	IN
+Ti1 	2 	8 	1 	5 	1 	men 	NNS
+Ti1 	2 	8 	1 	6 	1 	pray 	NN
+Ti1 	2 	8 	1 	7 	1 	every 	DT
+Ti1 	2 	8 	1 	8 	1 	where 	WRB
+Ti1 	2 	8 	1 	9 	0 	,
+Ti1 	2 	8 	1 	10 	1 	lifting 	VBG
+Ti1 	2 	8 	1 	11 	1 	up 	RB
+Ti1 	2 	8 	1 	12 	1 	holy 	NN
+Ti1 	2 	8 	1 	13 	1 	hands 	NNS
+Ti1 	2 	8 	1 	14 	0 	,
+Ti1 	2 	8 	1 	15 	1 	without 	IN
+Ti1 	2 	8 	1 	16 	1 	wrath 	NN
+Ti1 	2 	8 	1 	17 	1 	and 	CC
+Ti1 	2 	8 	1 	18 	1 	doubting 	VBG
+Ti1 	2 	8 	1 	19 	0 	.
+Ti1 	2 	9 	1 	1 	1 	In 	IN
+Ti1 	2 	9 	1 	2 	1 	like 	IN
+Ti1 	2 	9 	1 	3 	1 	manner 	NN
+Ti1 	2 	9 	1 	4 	1 	also 	RB
+Ti1 	2 	9 	1 	5 	0 	,
+Ti1 	2 	9 	1 	6 	1 	that 	IN
+Ti1 	2 	9 	1 	7 	1 	women 	NNS
+Ti1 	2 	9 	1 	8 	1 	adorn 	NN
+Ti1 	2 	9 	1 	9 	1 	themselves 	PRP
+Ti1 	2 	9 	1 	10 	1 	in 	IN
+Ti1 	2 	9 	1 	11 	1 	modest 	JJ
+Ti1 	2 	9 	1 	12 	1 	apparel 	NN
+Ti1 	2 	9 	1 	13 	0 	,
+Ti1 	2 	9 	1 	14 	1 	with 	IN
+Ti1 	2 	9 	1 	15 	1 	shamefacedness 	NN
+Ti1 	2 	9 	1 	16 	1 	and 	CC
+Ti1 	2 	9 	1 	17 	1 	sobriety 	NN
+Ti1 	2 	9 	1 	18 	0 	;
+Ti1 	2 	9 	1 	19 	1 	not 	RB
+Ti1 	2 	9 	1 	20 	1 	with 	IN
+Ti1 	2 	9 	1 	21 	1 	broided 	VBN
+Ti1 	2 	9 	1 	22 	1 	hair 	NN
+Ti1 	2 	9 	1 	23 	0 	,
+Ti1 	2 	9 	1 	24 	1 	or 	CC
+Ti1 	2 	9 	1 	25 	1 	gold 	NN
+Ti1 	2 	9 	1 	26 	0 	,
+Ti1 	2 	9 	1 	27 	1 	or 	CC
+Ti1 	2 	9 	1 	28 	1 	pearls 	NNS
+Ti1 	2 	9 	1 	29 	0 	,
+Ti1 	2 	9 	1 	30 	1 	or 	CC
+Ti1 	2 	9 	1 	31 	1 	costly 	JJ
+Ti1 	2 	9 	1 	32 	1 	array 	NN
+Ti1 	2 	9 	1 	33 	0 	;
+Ti1 	2 	10 	1 	1 	1 	But 	CC
+Ti1 	2 	10 	1 	2 	0 	(
+Ti1 	2 	10 	1 	3 	1 	which 	WDT
+Ti1 	2 	10 	1 	4 	1 	becometh 	NN
+Ti1 	2 	10 	1 	5 	1 	women 	NNS
+Ti1 	2 	10 	1 	6 	1 	professing 	VBG
+Ti1 	2 	10 	1 	7 	1 	godliness 	NN
+Ti1 	2 	10 	1 	8 	0 	)
+Ti1 	2 	10 	1 	9 	1 	with 	IN
+Ti1 	2 	10 	1 	10 	1 	good 	JJ
+Ti1 	2 	10 	1 	11 	1 	works 	NNS
+Ti1 	2 	10 	1 	12 	0 	.
+Ti1 	2 	11 	1 	1 	1 	Let 	VB
+Ti1 	2 	11 	1 	2 	1 	the 	DT
+Ti1 	2 	11 	1 	3 	1 	woman 	NN
+Ti1 	2 	11 	1 	4 	1 	learn 	NN
+Ti1 	2 	11 	1 	5 	1 	in 	IN
+Ti1 	2 	11 	1 	6 	1 	silence 	NN
+Ti1 	2 	11 	1 	7 	1 	with 	IN
+Ti1 	2 	11 	1 	8 	1 	all 	DT
+Ti1 	2 	11 	1 	9 	1 	subjection 	NN
+Ti1 	2 	11 	1 	10 	0 	.
+Ti1 	2 	12 	1 	1 	1 	But 	CC
+Ti1 	2 	12 	1 	2 	1 	I 	PRP
+Ti1 	2 	12 	1 	3 	1 	suffer 	NN
+Ti1 	2 	12 	1 	4 	1 	not 	RB
+Ti1 	2 	12 	1 	5 	1 	a 	DT
+Ti1 	2 	12 	1 	6 	1 	woman 	NN
+Ti1 	2 	12 	1 	7 	1 	to 	TO
+Ti1 	2 	12 	1 	8 	1 	teach 	NN
+Ti1 	2 	12 	1 	9 	0 	,
+Ti1 	2 	12 	1 	10 	1 	nor 	CC
+Ti1 	2 	12 	1 	11 	1 	to 	TO
+Ti1 	2 	12 	1 	12 	1 	usurp 	NN
+Ti1 	2 	12 	1 	13 	1 	authority 	NN
+Ti1 	2 	12 	1 	14 	1 	over 	IN
+Ti1 	2 	12 	1 	15 	1 	the 	DT
+Ti1 	2 	12 	1 	16 	1 	man 	NN
+Ti1 	2 	12 	1 	17 	0 	,
+Ti1 	2 	12 	1 	18 	1 	but 	CC
+Ti1 	2 	12 	1 	19 	1 	to 	TO
+Ti1 	2 	12 	1 	20 	1 	be 	VB
+Ti1 	2 	12 	1 	21 	1 	in 	IN
+Ti1 	2 	12 	1 	22 	1 	silence 	NN
+Ti1 	2 	12 	1 	23 	0 	.
+Ti1 	2 	13 	1 	1 	1 	For 	IN
+Ti1 	2 	13 	1 	2 	1 	Adam 	NN
+Ti1 	2 	13 	1 	3 	1 	was 	VBD
+Ti1 	2 	13 	1 	4 	1 	first 	RB
+Ti1 	2 	13 	1 	5 	1 	formed 	VBN
+Ti1 	2 	13 	1 	6 	0 	,
+Ti1 	2 	13 	1 	7 	1 	then 	RB
+Ti1 	2 	13 	1 	8 	1 	Eve 	NN
+Ti1 	2 	13 	1 	9 	0 	.
+Ti1 	2 	14 	1 	1 	1 	And 	CC
+Ti1 	2 	14 	1 	2 	1 	Adam 	NN
+Ti1 	2 	14 	1 	3 	1 	was 	VBD
+Ti1 	2 	14 	1 	4 	1 	not 	RB
+Ti1 	2 	14 	1 	5 	1 	deceived 	VBN
+Ti1 	2 	14 	1 	6 	0 	,
+Ti1 	2 	14 	1 	7 	1 	but 	CC
+Ti1 	2 	14 	1 	8 	1 	the 	DT
+Ti1 	2 	14 	1 	9 	1 	woman 	NN
+Ti1 	2 	14 	1 	10 	1 	being 	VBG
+Ti1 	2 	14 	1 	11 	1 	deceived 	VBN
+Ti1 	2 	14 	1 	12 	1 	was 	VBD
+Ti1 	2 	14 	1 	13 	1 	in 	IN
+Ti1 	2 	14 	1 	14 	1 	the 	DT
+Ti1 	2 	14 	1 	15 	1 	transgression 	NN
+Ti1 	2 	14 	1 	16 	0 	.
+Ti1 	2 	15 	1 	1 	1 	Notwithstanding 	VBG
+Ti1 	2 	15 	1 	2 	1 	she 	PRP
+Ti1 	2 	15 	1 	3 	1 	shall 	MD
+Ti1 	2 	15 	1 	4 	1 	be 	VB
+Ti1 	2 	15 	1 	5 	1 	saved 	VBN
+Ti1 	2 	15 	1 	6 	1 	in 	IN
+Ti1 	2 	15 	1 	7 	1 	childbearing 	VBG
+Ti1 	2 	15 	1 	8 	0 	,
+Ti1 	2 	15 	1 	9 	1 	if 	IN
+Ti1 	2 	15 	1 	10 	1 	they 	PRP
+Ti1 	2 	15 	1 	11 	1 	continue 	NN
+Ti1 	2 	15 	1 	12 	1 	in 	IN
+Ti1 	2 	15 	1 	13 	1 	faith 	NN
+Ti1 	2 	15 	1 	14 	1 	and 	CC
+Ti1 	2 	15 	1 	15 	1 	charity 	NN
+Ti1 	2 	15 	1 	16 	1 	and 	CC
+Ti1 	2 	15 	1 	17 	1 	holiness 	NN
+Ti1 	2 	15 	1 	18 	1 	with 	IN
+Ti1 	2 	15 	1 	19 	1 	sobriety 	NN
+Ti1 	2 	15 	1 	20 	0 	.
+Ti1 	3 	1 	1 	1 	1 	his 	PRP$
+Ti1 	3 	1 	1 	2 	1 	is 	VBZ
+Ti1 	3 	1 	1 	3 	1 	a 	DT
+Ti1 	3 	1 	1 	4 	1 	true 	JJ
+Ti1 	3 	1 	1 	5 	1 	saying 	VBG
+Ti1 	3 	1 	1 	6 	0 	,
+Ti1 	3 	1 	1 	7 	1 	If 	IN
+Ti1 	3 	1 	1 	8 	1 	a 	DT
+Ti1 	3 	1 	1 	9 	1 	man 	NN
+Ti1 	3 	1 	1 	10 	1 	desire 	NN
+Ti1 	3 	1 	1 	11 	1 	the 	DT
+Ti1 	3 	1 	1 	12 	1 	office 	NN
+Ti1 	3 	1 	1 	13 	1 	of 	IN
+Ti1 	3 	1 	1 	14 	1 	a 	DT
+Ti1 	3 	1 	1 	15 	1 	bishop 	NN
+Ti1 	3 	1 	1 	16 	0 	,
+Ti1 	3 	1 	1 	17 	1 	he 	PRP
+Ti1 	3 	1 	1 	18 	1 	desireth 	NN
+Ti1 	3 	1 	1 	19 	1 	a 	DT
+Ti1 	3 	1 	1 	20 	1 	good 	JJ
+Ti1 	3 	1 	1 	21 	1 	work 	NN
+Ti1 	3 	1 	1 	22 	0 	.
+Ti1 	3 	2 	1 	1 	1 	A 	DT
+Ti1 	3 	2 	1 	2 	1 	bishop 	NN
+Ti1 	3 	2 	1 	3 	1 	then 	RB
+Ti1 	3 	2 	1 	4 	1 	must 	MD
+Ti1 	3 	2 	1 	5 	1 	be 	VB
+Ti1 	3 	2 	1 	6 	1 	blameless 	NN
+Ti1 	3 	2 	1 	7 	0 	,
+Ti1 	3 	2 	1 	8 	1 	the 	DT
+Ti1 	3 	2 	1 	9 	1 	husband 	NN
+Ti1 	3 	2 	1 	10 	1 	of 	IN
+Ti1 	3 	2 	1 	11 	1 	one 	CD
+Ti1 	3 	2 	1 	12 	1 	wife 	NN
+Ti1 	3 	2 	1 	13 	0 	,
+Ti1 	3 	2 	1 	14 	1 	vigilant 	NN
+Ti1 	3 	2 	1 	15 	0 	,
+Ti1 	3 	2 	1 	16 	1 	sober 	NN
+Ti1 	3 	2 	1 	17 	0 	,
+Ti1 	3 	2 	1 	18 	1 	of 	IN
+Ti1 	3 	2 	1 	19 	1 	good 	JJ
+Ti1 	3 	2 	1 	20 	1 	behaviour 	NN
+Ti1 	3 	2 	1 	21 	0 	,
+Ti1 	3 	2 	1 	22 	1 	given 	VBN
+Ti1 	3 	2 	1 	23 	1 	to 	TO
+Ti1 	3 	2 	1 	24 	1 	hospitality 	NN
+Ti1 	3 	2 	1 	25 	0 	,
+Ti1 	3 	2 	1 	26 	1 	apt 	NN
+Ti1 	3 	2 	1 	27 	1 	to 	TO
+Ti1 	3 	2 	1 	28 	1 	teach 	NN
+Ti1 	3 	2 	1 	29 	0 	;
+Ti1 	3 	3 	1 	1 	1 	Not 	RB
+Ti1 	3 	3 	1 	2 	1 	given 	VBN
+Ti1 	3 	3 	1 	3 	1 	to 	TO
+Ti1 	3 	3 	1 	4 	1 	wine 	NN
+Ti1 	3 	3 	1 	5 	0 	,
+Ti1 	3 	3 	1 	6 	1 	no 	DT
+Ti1 	3 	3 	1 	7 	1 	striker 	NN
+Ti1 	3 	3 	1 	8 	0 	,
+Ti1 	3 	3 	1 	9 	1 	not 	RB
+Ti1 	3 	3 	1 	10 	1 	greedy 	NN
+Ti1 	3 	3 	1 	11 	1 	of 	IN
+Ti1 	3 	3 	1 	12 	1 	filthy 	NN
+Ti1 	3 	3 	1 	13 	1 	lucre 	NN
+Ti1 	3 	3 	1 	14 	0 	;
+Ti1 	3 	3 	1 	15 	1 	but 	CC
+Ti1 	3 	3 	1 	16 	1 	patient 	NN
+Ti1 	3 	3 	1 	17 	0 	,
+Ti1 	3 	3 	1 	18 	1 	not 	RB
+Ti1 	3 	3 	1 	19 	1 	a 	DT
+Ti1 	3 	3 	1 	20 	1 	brawler 	NN
+Ti1 	3 	3 	1 	21 	0 	,
+Ti1 	3 	3 	1 	22 	1 	not 	RB
+Ti1 	3 	3 	1 	23 	1 	covetous 	JJ
+Ti1 	3 	3 	1 	24 	0 	;
+Ti1 	3 	4 	1 	1 	1 	One 	CD
+Ti1 	3 	4 	1 	2 	1 	that 	IN
+Ti1 	3 	4 	1 	3 	1 	ruleth 	NN
+Ti1 	3 	4 	1 	4 	1 	well 	RB
+Ti1 	3 	4 	1 	5 	1 	his 	PRP$
+Ti1 	3 	4 	1 	6 	1 	own 	JJ
+Ti1 	3 	4 	1 	7 	1 	house 	NN
+Ti1 	3 	4 	1 	8 	0 	,
+Ti1 	3 	4 	1 	9 	1 	having 	VBG
+Ti1 	3 	4 	1 	10 	1 	his 	PRP$
+Ti1 	3 	4 	1 	11 	1 	children 	NNS
+Ti1 	3 	4 	1 	12 	1 	in 	IN
+Ti1 	3 	4 	1 	13 	1 	subjection 	NN
+Ti1 	3 	4 	1 	14 	1 	with 	IN
+Ti1 	3 	4 	1 	15 	1 	all 	DT
+Ti1 	3 	4 	1 	16 	1 	gravity 	NN
+Ti1 	3 	4 	1 	17 	0 	;
+Ti1 	3 	5 	1 	1 	0 	(
+Ti1 	3 	5 	1 	2 	1 	For 	IN
+Ti1 	3 	5 	1 	3 	1 	if 	IN
+Ti1 	3 	5 	1 	4 	1 	a 	DT
+Ti1 	3 	5 	1 	5 	1 	man 	NN
+Ti1 	3 	5 	1 	6 	1 	know 	VB
+Ti1 	3 	5 	1 	7 	1 	not 	RB
+Ti1 	3 	5 	1 	8 	1 	how 	WRB
+Ti1 	3 	5 	1 	9 	1 	to 	TO
+Ti1 	3 	5 	1 	10 	1 	rule 	NN
+Ti1 	3 	5 	1 	11 	1 	his 	PRP$
+Ti1 	3 	5 	1 	12 	1 	own 	JJ
+Ti1 	3 	5 	1 	13 	1 	house 	NN
+Ti1 	3 	5 	1 	14 	0 	,
+Ti1 	3 	5 	1 	15 	1 	how 	WRB
+Ti1 	3 	5 	1 	16 	1 	shall 	MD
+Ti1 	3 	5 	1 	17 	1 	he 	PRP
+Ti1 	3 	5 	1 	18 	1 	take 	VB
+Ti1 	3 	5 	1 	19 	1 	care 	NN
+Ti1 	3 	5 	1 	20 	1 	of 	IN
+Ti1 	3 	5 	1 	21 	1 	the 	DT
+Ti1 	3 	5 	1 	22 	1 	church 	NN
+Ti1 	3 	5 	1 	23 	1 	of 	IN
+Ti1 	3 	5 	1 	24 	1 	God 	NNP
+Ti1 	3 	5 	1 	25 	0 	?
+Ti1 	3 	5 	1 	26 	0 	)
+Ti1 	3 	6 	1 	1 	1 	Not 	RB
+Ti1 	3 	6 	1 	2 	1 	a 	DT
+Ti1 	3 	6 	1 	3 	1 	novice 	NN
+Ti1 	3 	6 	1 	4 	0 	,
+Ti1 	3 	6 	1 	5 	1 	lest 	JJS
+Ti1 	3 	6 	1 	6 	1 	being 	VBG
+Ti1 	3 	6 	1 	7 	1 	lifted 	VBN
+Ti1 	3 	6 	1 	8 	1 	up 	RB
+Ti1 	3 	6 	1 	9 	1 	with 	IN
+Ti1 	3 	6 	1 	10 	1 	pride 	NN
+Ti1 	3 	6 	1 	11 	1 	he 	PRP
+Ti1 	3 	6 	1 	12 	1 	fall 	NN
+Ti1 	3 	6 	1 	13 	1 	into 	IN
+Ti1 	3 	6 	1 	14 	1 	the 	DT
+Ti1 	3 	6 	1 	15 	1 	condemnation 	NN
+Ti1 	3 	6 	1 	16 	1 	of 	IN
+Ti1 	3 	6 	1 	17 	1 	the 	DT
+Ti1 	3 	6 	1 	18 	1 	devil 	NN
+Ti1 	3 	6 	1 	19 	0 	.
+Ti1 	3 	7 	1 	1 	1 	Moreover 	RB
+Ti1 	3 	7 	1 	2 	1 	he 	PRP
+Ti1 	3 	7 	1 	3 	1 	must 	MD
+Ti1 	3 	7 	1 	4 	1 	have 	VB
+Ti1 	3 	7 	1 	5 	1 	a 	DT
+Ti1 	3 	7 	1 	6 	1 	good 	JJ
+Ti1 	3 	7 	1 	7 	1 	report 	NN
+Ti1 	3 	7 	1 	8 	1 	of 	IN
+Ti1 	3 	7 	1 	9 	1 	them 	PRP
+Ti1 	3 	7 	1 	10 	1 	which 	WDT
+Ti1 	3 	7 	1 	11 	1 	are 	VBP
+Ti1 	3 	7 	1 	12 	1 	without 	IN
+Ti1 	3 	7 	1 	13 	0 	;
+Ti1 	3 	7 	1 	14 	1 	lest 	JJS
+Ti1 	3 	7 	1 	15 	1 	he 	PRP
+Ti1 	3 	7 	1 	16 	1 	fall 	NN
+Ti1 	3 	7 	1 	17 	1 	into 	IN
+Ti1 	3 	7 	1 	18 	1 	reproach 	NN
+Ti1 	3 	7 	1 	19 	1 	and 	CC
+Ti1 	3 	7 	1 	20 	1 	the 	DT
+Ti1 	3 	7 	1 	21 	1 	snare 	NN
+Ti1 	3 	7 	1 	22 	1 	of 	IN
+Ti1 	3 	7 	1 	23 	1 	the 	DT
+Ti1 	3 	7 	1 	24 	1 	devil 	NN
+Ti1 	3 	7 	1 	25 	0 	.
+Ti1 	3 	8 	1 	1 	1 	Likewise 	RB
+Ti1 	3 	8 	1 	2 	1 	must 	MD
+Ti1 	3 	8 	1 	3 	1 	the 	DT
+Ti1 	3 	8 	1 	4 	1 	deacons 	NNS
+Ti1 	3 	8 	1 	5 	1 	be 	VB
+Ti1 	3 	8 	1 	6 	1 	grave 	NN
+Ti1 	3 	8 	1 	7 	0 	,
+Ti1 	3 	8 	1 	8 	1 	not 	RB
+Ti1 	3 	8 	1 	9 	1 	doubletongued 	VBN
+Ti1 	3 	8 	1 	10 	0 	,
+Ti1 	3 	8 	1 	11 	1 	not 	RB
+Ti1 	3 	8 	1 	12 	1 	given 	VBN
+Ti1 	3 	8 	1 	13 	1 	to 	TO
+Ti1 	3 	8 	1 	14 	1 	much 	JJ
+Ti1 	3 	8 	1 	15 	1 	wine 	NN
+Ti1 	3 	8 	1 	16 	0 	,
+Ti1 	3 	8 	1 	17 	1 	not 	RB
+Ti1 	3 	8 	1 	18 	1 	greedy 	NN
+Ti1 	3 	8 	1 	19 	1 	of 	IN
+Ti1 	3 	8 	1 	20 	1 	filthy 	NN
+Ti1 	3 	8 	1 	21 	1 	lucre 	NN
+Ti1 	3 	8 	1 	22 	0 	;
+Ti1 	3 	9 	1 	1 	1 	Holding 	VBG
+Ti1 	3 	9 	1 	2 	1 	the 	DT
+Ti1 	3 	9 	1 	3 	1 	mystery 	NN
+Ti1 	3 	9 	1 	4 	1 	of 	IN
+Ti1 	3 	9 	1 	5 	1 	the 	DT
+Ti1 	3 	9 	1 	6 	1 	faith 	NN
+Ti1 	3 	9 	1 	7 	1 	in 	IN
+Ti1 	3 	9 	1 	8 	1 	a 	DT
+Ti1 	3 	9 	1 	9 	1 	pure 	NN
+Ti1 	3 	9 	1 	10 	1 	conscience 	NN
+Ti1 	3 	9 	1 	11 	0 	.
+Ti1 	3 	10 	1 	1 	1 	And 	CC
+Ti1 	3 	10 	1 	2 	1 	let 	VB
+Ti1 	3 	10 	1 	3 	1 	these 	DT
+Ti1 	3 	10 	1 	4 	1 	also 	RB
+Ti1 	3 	10 	1 	5 	1 	first 	RB
+Ti1 	3 	10 	1 	6 	1 	be 	VB
+Ti1 	3 	10 	1 	7 	1 	proved 	VBN
+Ti1 	3 	10 	1 	8 	0 	;
+Ti1 	3 	10 	1 	9 	1 	then 	RB
+Ti1 	3 	10 	1 	10 	1 	let 	VB
+Ti1 	3 	10 	1 	11 	1 	them 	PRP
+Ti1 	3 	10 	1 	12 	1 	use 	NN
+Ti1 	3 	10 	1 	13 	1 	the 	DT
+Ti1 	3 	10 	1 	14 	1 	office 	NN
+Ti1 	3 	10 	1 	15 	1 	of 	IN
+Ti1 	3 	10 	1 	16 	1 	a 	DT
+Ti1 	3 	10 	1 	17 	1 	deacon 	NN
+Ti1 	3 	10 	1 	18 	0 	,
+Ti1 	3 	10 	1 	19 	1 	being 	VBG
+Ti1 	3 	10 	1 	20 	1 	found 	NN
+Ti1 	3 	10 	1 	21 	1 	blameless 	NN
+Ti1 	3 	10 	1 	22 	0 	.
+Ti1 	3 	11 	1 	1 	1 	Even 	RB
+Ti1 	3 	11 	1 	2 	1 	so 	RB
+Ti1 	3 	11 	1 	3 	1 	must 	MD
+Ti1 	3 	11 	1 	4 	1 	their 	PRP$
+Ti1 	3 	11 	1 	5 	1 	wives 	NNS
+Ti1 	3 	11 	1 	6 	1 	be 	VB
+Ti1 	3 	11 	1 	7 	1 	grave 	NN
+Ti1 	3 	11 	1 	8 	0 	,
+Ti1 	3 	11 	1 	9 	1 	not 	RB
+Ti1 	3 	11 	1 	10 	1 	slanderers 	NNS
+Ti1 	3 	11 	1 	11 	0 	,
+Ti1 	3 	11 	1 	12 	1 	sober 	NN
+Ti1 	3 	11 	1 	13 	0 	,
+Ti1 	3 	11 	1 	14 	1 	faithful 	NN
+Ti1 	3 	11 	1 	15 	1 	in 	IN
+Ti1 	3 	11 	1 	16 	1 	all 	DT
+Ti1 	3 	11 	1 	17 	1 	things 	NNS
+Ti1 	3 	11 	1 	18 	0 	.
+Ti1 	3 	12 	1 	1 	1 	Let 	VB
+Ti1 	3 	12 	1 	2 	1 	the 	DT
+Ti1 	3 	12 	1 	3 	1 	deacons 	NNS
+Ti1 	3 	12 	1 	4 	1 	be 	VB
+Ti1 	3 	12 	1 	5 	1 	the 	DT
+Ti1 	3 	12 	1 	6 	1 	husbands 	NNS
+Ti1 	3 	12 	1 	7 	1 	of 	IN
+Ti1 	3 	12 	1 	8 	1 	one 	CD
+Ti1 	3 	12 	1 	9 	1 	wife 	NN
+Ti1 	3 	12 	1 	10 	0 	,
+Ti1 	3 	12 	1 	11 	1 	ruling 	NN
+Ti1 	3 	12 	1 	12 	1 	their 	PRP$
+Ti1 	3 	12 	1 	13 	1 	children 	NNS
+Ti1 	3 	12 	1 	14 	1 	and 	CC
+Ti1 	3 	12 	1 	15 	1 	their 	PRP$
+Ti1 	3 	12 	1 	16 	1 	own 	JJ
+Ti1 	3 	12 	1 	17 	1 	houses 	NNS
+Ti1 	3 	12 	1 	18 	1 	well 	RB
+Ti1 	3 	12 	1 	19 	0 	.
+Ti1 	3 	13 	1 	1 	1 	For 	IN
+Ti1 	3 	13 	1 	2 	1 	they 	PRP
+Ti1 	3 	13 	1 	3 	1 	that 	IN
+Ti1 	3 	13 	1 	4 	1 	have 	VB
+Ti1 	3 	13 	1 	5 	1 	used 	VBN
+Ti1 	3 	13 	1 	6 	1 	the 	DT
+Ti1 	3 	13 	1 	7 	1 	office 	NN
+Ti1 	3 	13 	1 	8 	1 	of 	IN
+Ti1 	3 	13 	1 	9 	1 	a 	DT
+Ti1 	3 	13 	1 	10 	1 	deacon 	NN
+Ti1 	3 	13 	1 	11 	1 	well 	RB
+Ti1 	3 	13 	1 	12 	1 	purchase 	NN
+Ti1 	3 	13 	1 	13 	1 	to 	TO
+Ti1 	3 	13 	1 	14 	1 	themselves 	PRP
+Ti1 	3 	13 	1 	15 	1 	a 	DT
+Ti1 	3 	13 	1 	16 	1 	good 	JJ
+Ti1 	3 	13 	1 	17 	1 	degree 	NN
+Ti1 	3 	13 	1 	18 	0 	,
+Ti1 	3 	13 	1 	19 	1 	and 	CC
+Ti1 	3 	13 	1 	20 	1 	great 	JJ
+Ti1 	3 	13 	1 	21 	1 	boldness 	NN
+Ti1 	3 	13 	1 	22 	1 	in 	IN
+Ti1 	3 	13 	1 	23 	1 	the 	DT
+Ti1 	3 	13 	1 	24 	1 	faith 	NN
+Ti1 	3 	13 	1 	25 	1 	which 	WDT
+Ti1 	3 	13 	1 	26 	1 	is 	VBZ
+Ti1 	3 	13 	1 	27 	1 	in 	IN
+Ti1 	3 	13 	1 	28 	1 	Christ 	NN
+Ti1 	3 	13 	1 	29 	1 	Jesus 	NN
+Ti1 	3 	13 	1 	30 	0 	.
+Ti1 	3 	14 	1 	1 	1 	hese 	NN
+Ti1 	3 	14 	1 	2 	1 	things 	NNS
+Ti1 	3 	14 	1 	3 	1 	write 	NN
+Ti1 	3 	14 	1 	4 	1 	I 	PRP
+Ti1 	3 	14 	1 	5 	1 	unto 	NN
+Ti1 	3 	14 	1 	6 	1 	thee 	NN
+Ti1 	3 	14 	1 	7 	0 	,
+Ti1 	3 	14 	1 	8 	1 	hoping 	VBG
+Ti1 	3 	14 	1 	9 	1 	to 	TO
+Ti1 	3 	14 	1 	10 	1 	come 	VB
+Ti1 	3 	14 	1 	11 	1 	unto 	NN
+Ti1 	3 	14 	1 	12 	1 	thee 	NN
+Ti1 	3 	14 	1 	13 	1 	shortly 	RB
+Ti1 	3 	14 	1 	14 	0 	:
+Ti1 	3 	15 	1 	1 	1 	But 	CC
+Ti1 	3 	15 	1 	2 	1 	if 	IN
+Ti1 	3 	15 	1 	3 	1 	I 	PRP
+Ti1 	3 	15 	1 	4 	1 	tarry 	NN
+Ti1 	3 	15 	1 	5 	1 	long 	RB
+Ti1 	3 	15 	1 	6 	0 	,
+Ti1 	3 	15 	1 	7 	1 	that 	IN
+Ti1 	3 	15 	1 	8 	1 	thou 	NN
+Ti1 	3 	15 	1 	9 	1 	mayest 	JJS
+Ti1 	3 	15 	1 	10 	1 	know 	VB
+Ti1 	3 	15 	1 	11 	1 	how 	WRB
+Ti1 	3 	15 	1 	12 	1 	thou 	NN
+Ti1 	3 	15 	1 	13 	1 	oughtest 	JJS
+Ti1 	3 	15 	1 	14 	1 	to 	TO
+Ti1 	3 	15 	1 	15 	1 	behave 	NN
+Ti1 	3 	15 	1 	16 	1 	thyself 	NN
+Ti1 	3 	15 	1 	17 	1 	in 	IN
+Ti1 	3 	15 	1 	18 	1 	the 	DT
+Ti1 	3 	15 	1 	19 	1 	house 	NN
+Ti1 	3 	15 	1 	20 	1 	of 	IN
+Ti1 	3 	15 	1 	21 	1 	God 	NNP
+Ti1 	3 	15 	1 	22 	0 	,
+Ti1 	3 	15 	1 	23 	1 	which 	WDT
+Ti1 	3 	15 	1 	24 	1 	is 	VBZ
+Ti1 	3 	15 	1 	25 	1 	the 	DT
+Ti1 	3 	15 	1 	26 	1 	church 	NN
+Ti1 	3 	15 	1 	27 	1 	of 	IN
+Ti1 	3 	15 	1 	28 	1 	the 	DT
+Ti1 	3 	15 	1 	29 	1 	living 	NN
+Ti1 	3 	15 	1 	30 	1 	God 	NNP
+Ti1 	3 	15 	1 	31 	0 	,
+Ti1 	3 	15 	1 	32 	1 	the 	DT
+Ti1 	3 	15 	1 	33 	1 	pillar 	NN
+Ti1 	3 	15 	1 	34 	1 	and 	CC
+Ti1 	3 	15 	1 	35 	1 	ground 	NN
+Ti1 	3 	15 	1 	36 	1 	of 	IN
+Ti1 	3 	15 	1 	37 	1 	the 	DT
+Ti1 	3 	15 	1 	38 	1 	truth 	NN
+Ti1 	3 	15 	1 	39 	0 	.
+Ti1 	3 	16 	1 	1 	1 	And 	CC
+Ti1 	3 	16 	1 	2 	1 	without 	IN
+Ti1 	3 	16 	1 	3 	1 	controversy 	NN
+Ti1 	3 	16 	1 	4 	1 	great 	JJ
+Ti1 	3 	16 	1 	5 	1 	is 	VBZ
+Ti1 	3 	16 	1 	6 	1 	the 	DT
+Ti1 	3 	16 	1 	7 	1 	mystery 	NN
+Ti1 	3 	16 	1 	8 	1 	of 	IN
+Ti1 	3 	16 	1 	9 	1 	godliness 	NN
+Ti1 	3 	16 	1 	10 	0 	:
+Ti1 	3 	16 	1 	11 	1 	God 	NNP
+Ti1 	3 	16 	1 	12 	1 	was 	VBD
+Ti1 	3 	16 	1 	13 	1 	manifest 	JJS
+Ti1 	3 	16 	1 	14 	1 	in 	IN
+Ti1 	3 	16 	1 	15 	1 	the 	DT
+Ti1 	3 	16 	1 	16 	1 	flesh 	NN
+Ti1 	3 	16 	1 	17 	0 	,
+Ti1 	3 	16 	1 	18 	1 	justified 	JJ
+Ti1 	3 	16 	1 	19 	1 	in 	IN
+Ti1 	3 	16 	1 	20 	1 	the 	DT
+Ti1 	3 	16 	1 	21 	1 	Spirit 	NN
+Ti1 	3 	16 	1 	22 	0 	,
+Ti1 	3 	16 	1 	23 	1 	seen 	VBN
+Ti1 	3 	16 	1 	24 	1 	of 	IN
+Ti1 	3 	16 	1 	25 	1 	angels 	NNS
+Ti1 	3 	16 	1 	26 	0 	,
+Ti1 	3 	16 	1 	27 	1 	preached 	VBN
+Ti1 	3 	16 	1 	28 	1 	unto 	NN
+Ti1 	3 	16 	1 	29 	1 	the 	DT
+Ti1 	3 	16 	1 	30 	1 	Gentiles 	NNS
+Ti1 	3 	16 	1 	31 	0 	,
+Ti1 	3 	16 	1 	32 	1 	believed 	VBN
+Ti1 	3 	16 	1 	33 	1 	on 	IN
+Ti1 	3 	16 	1 	34 	1 	in 	IN
+Ti1 	3 	16 	1 	35 	1 	the 	DT
+Ti1 	3 	16 	1 	36 	1 	world 	NN
+Ti1 	3 	16 	1 	37 	0 	,
+Ti1 	3 	16 	1 	38 	1 	received 	VBN
+Ti1 	3 	16 	1 	39 	1 	up 	RB
+Ti1 	3 	16 	1 	40 	1 	into 	IN
+Ti1 	3 	16 	1 	41 	1 	glory 	NN
+Ti1 	3 	16 	1 	42 	0 	.
+Ti1 	4 	1 	1 	1 	1 	Now 	RB
+Ti1 	4 	1 	1 	2 	1 	the 	DT
+Ti1 	4 	1 	1 	3 	1 	Spirit 	NN
+Ti1 	4 	1 	1 	4 	1 	speaketh 	NN
+Ti1 	4 	1 	1 	5 	1 	expressly 	RB
+Ti1 	4 	1 	1 	6 	0 	,
+Ti1 	4 	1 	1 	7 	1 	that 	IN
+Ti1 	4 	1 	1 	8 	1 	in 	IN
+Ti1 	4 	1 	1 	9 	1 	the 	DT
+Ti1 	4 	1 	1 	10 	1 	latter 	NN
+Ti1 	4 	1 	1 	11 	1 	times 	NNS
+Ti1 	4 	1 	1 	12 	1 	some 	DT
+Ti1 	4 	1 	1 	13 	1 	shall 	MD
+Ti1 	4 	1 	1 	14 	1 	depart 	NN
+Ti1 	4 	1 	1 	15 	1 	from 	IN
+Ti1 	4 	1 	1 	16 	1 	the 	DT
+Ti1 	4 	1 	1 	17 	1 	faith 	NN
+Ti1 	4 	1 	1 	18 	0 	,
+Ti1 	4 	1 	1 	19 	1 	giving 	VBG
+Ti1 	4 	1 	1 	20 	1 	heed 	NN
+Ti1 	4 	1 	1 	21 	1 	to 	TO
+Ti1 	4 	1 	1 	22 	1 	seducing 	VBG
+Ti1 	4 	1 	1 	23 	1 	spirits 	NNS
+Ti1 	4 	1 	1 	24 	0 	,
+Ti1 	4 	1 	1 	25 	1 	and 	CC
+Ti1 	4 	1 	1 	26 	1 	doctrines 	NNS
+Ti1 	4 	1 	1 	27 	1 	of 	IN
+Ti1 	4 	1 	1 	28 	1 	devils 	NNS
+Ti1 	4 	1 	1 	29 	0 	;
+Ti1 	4 	2 	1 	1 	1 	Speaking 	VBG
+Ti1 	4 	2 	1 	2 	1 	lies 	NNS
+Ti1 	4 	2 	1 	3 	1 	in 	IN
+Ti1 	4 	2 	1 	4 	1 	hypocrisy 	NN
+Ti1 	4 	2 	1 	5 	0 	;
+Ti1 	4 	2 	1 	6 	1 	having 	VBG
+Ti1 	4 	2 	1 	7 	1 	their 	PRP$
+Ti1 	4 	2 	1 	8 	1 	conscience 	NN
+Ti1 	4 	2 	1 	9 	1 	seared 	VBN
+Ti1 	4 	2 	1 	10 	1 	with 	IN
+Ti1 	4 	2 	1 	11 	1 	a 	DT
+Ti1 	4 	2 	1 	12 	1 	hot 	JJ
+Ti1 	4 	2 	1 	13 	1 	iron 	NN
+Ti1 	4 	2 	1 	14 	0 	;
+Ti1 	4 	3 	1 	1 	1 	Forbidding 	VBG
+Ti1 	4 	3 	1 	2 	1 	to 	TO
+Ti1 	4 	3 	1 	3 	1 	marry 	NN
+Ti1 	4 	3 	1 	4 	0 	,
+Ti1 	4 	3 	1 	5 	1 	and 	CC
+Ti1 	4 	3 	1 	6 	1 	commanding 	VBG
+Ti1 	4 	3 	1 	7 	1 	to 	TO
+Ti1 	4 	3 	1 	8 	1 	abstain 	NN
+Ti1 	4 	3 	1 	9 	1 	from 	IN
+Ti1 	4 	3 	1 	10 	1 	meats 	NNS
+Ti1 	4 	3 	1 	11 	0 	,
+Ti1 	4 	3 	1 	12 	1 	which 	WDT
+Ti1 	4 	3 	1 	13 	1 	God 	NNP
+Ti1 	4 	3 	1 	14 	1 	hath 	NN
+Ti1 	4 	3 	1 	15 	1 	created 	VBN
+Ti1 	4 	3 	1 	16 	1 	to 	TO
+Ti1 	4 	3 	1 	17 	1 	be 	VB
+Ti1 	4 	3 	1 	18 	1 	received 	VBN
+Ti1 	4 	3 	1 	19 	1 	with 	IN
+Ti1 	4 	3 	1 	20 	1 	thanksgiving 	VBG
+Ti1 	4 	3 	1 	21 	1 	of 	IN
+Ti1 	4 	3 	1 	22 	1 	them 	PRP
+Ti1 	4 	3 	1 	23 	1 	which 	WDT
+Ti1 	4 	3 	1 	24 	1 	believe 	VB
+Ti1 	4 	3 	1 	25 	1 	and 	CC
+Ti1 	4 	3 	1 	26 	1 	know 	VB
+Ti1 	4 	3 	1 	27 	1 	the 	DT
+Ti1 	4 	3 	1 	28 	1 	truth 	NN
+Ti1 	4 	3 	1 	29 	0 	.
+Ti1 	4 	4 	1 	1 	1 	For 	IN
+Ti1 	4 	4 	1 	2 	1 	every 	DT
+Ti1 	4 	4 	1 	3 	1 	creature 	NN
+Ti1 	4 	4 	1 	4 	1 	of 	IN
+Ti1 	4 	4 	1 	5 	1 	God 	NNP
+Ti1 	4 	4 	1 	6 	1 	is 	VBZ
+Ti1 	4 	4 	1 	7 	1 	good 	JJ
+Ti1 	4 	4 	1 	8 	0 	,
+Ti1 	4 	4 	1 	9 	1 	and 	CC
+Ti1 	4 	4 	1 	10 	1 	nothing 	NN
+Ti1 	4 	4 	1 	11 	1 	to 	TO
+Ti1 	4 	4 	1 	12 	1 	be 	VB
+Ti1 	4 	4 	1 	13 	1 	refused 	VBD
+Ti1 	4 	4 	1 	14 	0 	,
+Ti1 	4 	4 	1 	15 	1 	if 	IN
+Ti1 	4 	4 	1 	16 	1 	it 	PRP
+Ti1 	4 	4 	1 	17 	1 	be 	VB
+Ti1 	4 	4 	1 	18 	1 	received 	VBN
+Ti1 	4 	4 	1 	19 	1 	with 	IN
+Ti1 	4 	4 	1 	20 	1 	thanksgiving 	VBG
+Ti1 	4 	4 	1 	21 	0 	:
+Ti1 	4 	5 	1 	1 	1 	For 	IN
+Ti1 	4 	5 	1 	2 	1 	it 	PRP
+Ti1 	4 	5 	1 	3 	1 	is 	VBZ
+Ti1 	4 	5 	1 	4 	1 	sanctified 	VBN
+Ti1 	4 	5 	1 	5 	1 	by 	IN
+Ti1 	4 	5 	1 	6 	1 	the 	DT
+Ti1 	4 	5 	1 	7 	1 	word 	NN
+Ti1 	4 	5 	1 	8 	1 	of 	IN
+Ti1 	4 	5 	1 	9 	1 	God 	NNP
+Ti1 	4 	5 	1 	10 	1 	and 	CC
+Ti1 	4 	5 	1 	11 	1 	prayer 	NN
+Ti1 	4 	5 	1 	12 	0 	.
+Ti1 	4 	6 	1 	1 	1 	If 	IN
+Ti1 	4 	6 	1 	2 	1 	thou 	NN
+Ti1 	4 	6 	1 	3 	1 	put 	NN
+Ti1 	4 	6 	1 	4 	1 	the 	DT
+Ti1 	4 	6 	1 	5 	1 	brethren 	NNS
+Ti1 	4 	6 	1 	6 	1 	in 	IN
+Ti1 	4 	6 	1 	7 	1 	remembrance 	NN
+Ti1 	4 	6 	1 	8 	1 	of 	IN
+Ti1 	4 	6 	1 	9 	1 	these 	DT
+Ti1 	4 	6 	1 	10 	1 	things 	NNS
+Ti1 	4 	6 	1 	11 	0 	,
+Ti1 	4 	6 	1 	12 	1 	thou 	NN
+Ti1 	4 	6 	1 	13 	1 	shalt 	NN
+Ti1 	4 	6 	1 	14 	1 	be 	VB
+Ti1 	4 	6 	1 	15 	1 	a 	DT
+Ti1 	4 	6 	1 	16 	1 	good 	JJ
+Ti1 	4 	6 	1 	17 	1 	minister 	NN
+Ti1 	4 	6 	1 	18 	1 	of 	IN
+Ti1 	4 	6 	1 	19 	1 	Jesus 	NN
+Ti1 	4 	6 	1 	20 	1 	Christ 	NN
+Ti1 	4 	6 	1 	21 	0 	,
+Ti1 	4 	6 	1 	22 	1 	nourished 	VBN
+Ti1 	4 	6 	1 	23 	1 	up 	RB
+Ti1 	4 	6 	1 	24 	1 	in 	IN
+Ti1 	4 	6 	1 	25 	1 	the 	DT
+Ti1 	4 	6 	1 	26 	1 	words 	NNS
+Ti1 	4 	6 	1 	27 	1 	of 	IN
+Ti1 	4 	6 	1 	28 	1 	faith 	NN
+Ti1 	4 	6 	1 	29 	1 	and 	CC
+Ti1 	4 	6 	1 	30 	1 	of 	IN
+Ti1 	4 	6 	1 	31 	1 	good 	JJ
+Ti1 	4 	6 	1 	32 	1 	doctrine 	NN
+Ti1 	4 	6 	1 	33 	0 	,
+Ti1 	4 	6 	1 	34 	1 	whereunto 	NN
+Ti1 	4 	6 	1 	35 	1 	thou 	NN
+Ti1 	4 	6 	1 	36 	1 	hast 	NN
+Ti1 	4 	6 	1 	37 	1 	attained 	VBN
+Ti1 	4 	6 	1 	38 	0 	.
+Ti1 	4 	7 	1 	1 	1 	But 	CC
+Ti1 	4 	7 	1 	2 	1 	refuse 	NN
+Ti1 	4 	7 	1 	3 	1 	profane 	NN
+Ti1 	4 	7 	1 	4 	1 	and 	CC
+Ti1 	4 	7 	1 	5 	1 	old 	JJ
+Ti1 	4 	7 	1 	6 	1 	wives 	NNS
+Ti1 	4 	7 	1 	7 	0 	'
+Ti1 	4 	7 	1 	8 	1 	fables 	NNS
+Ti1 	4 	7 	1 	9 	0 	,
+Ti1 	4 	7 	1 	10 	1 	and 	CC
+Ti1 	4 	7 	1 	11 	1 	exercise 	NN
+Ti1 	4 	7 	1 	12 	1 	thyself 	NN
+Ti1 	4 	7 	1 	13 	1 	rather 	RB
+Ti1 	4 	7 	1 	14 	1 	unto 	NN
+Ti1 	4 	7 	1 	15 	1 	godliness 	NN
+Ti1 	4 	7 	1 	16 	0 	.
+Ti1 	4 	8 	1 	1 	1 	For 	IN
+Ti1 	4 	8 	1 	2 	1 	bodily 	RB
+Ti1 	4 	8 	1 	3 	1 	exercise 	NN
+Ti1 	4 	8 	1 	4 	1 	profiteth 	NN
+Ti1 	4 	8 	1 	5 	1 	little 	JJ
+Ti1 	4 	8 	1 	6 	0 	:
+Ti1 	4 	8 	1 	7 	1 	but 	CC
+Ti1 	4 	8 	1 	8 	1 	godliness 	NN
+Ti1 	4 	8 	1 	9 	1 	is 	VBZ
+Ti1 	4 	8 	1 	10 	1 	profitable 	JJ
+Ti1 	4 	8 	1 	11 	1 	unto 	NN
+Ti1 	4 	8 	1 	12 	1 	all 	DT
+Ti1 	4 	8 	1 	13 	1 	things 	NNS
+Ti1 	4 	8 	1 	14 	0 	,
+Ti1 	4 	8 	1 	15 	1 	having 	VBG
+Ti1 	4 	8 	1 	16 	1 	promise 	NN
+Ti1 	4 	8 	1 	17 	1 	of 	IN
+Ti1 	4 	8 	1 	18 	1 	the 	DT
+Ti1 	4 	8 	1 	19 	1 	life 	NN
+Ti1 	4 	8 	1 	20 	1 	that 	IN
+Ti1 	4 	8 	1 	21 	1 	now 	RB
+Ti1 	4 	8 	1 	22 	1 	is 	VBZ
+Ti1 	4 	8 	1 	23 	0 	,
+Ti1 	4 	8 	1 	24 	1 	and 	CC
+Ti1 	4 	8 	1 	25 	1 	of 	IN
+Ti1 	4 	8 	1 	26 	1 	that 	IN
+Ti1 	4 	8 	1 	27 	1 	which 	WDT
+Ti1 	4 	8 	1 	28 	1 	is 	VBZ
+Ti1 	4 	8 	1 	29 	1 	to 	TO
+Ti1 	4 	8 	1 	30 	1 	come 	VB
+Ti1 	4 	8 	1 	31 	0 	.
+Ti1 	4 	9 	1 	1 	1 	his 	PRP$
+Ti1 	4 	9 	1 	2 	1 	is 	VBZ
+Ti1 	4 	9 	1 	3 	1 	a 	DT
+Ti1 	4 	9 	1 	4 	1 	faithful 	NN
+Ti1 	4 	9 	1 	5 	1 	saying 	VBG
+Ti1 	4 	9 	1 	6 	1 	and 	CC
+Ti1 	4 	9 	1 	7 	1 	worthy 	NN
+Ti1 	4 	9 	1 	8 	1 	of 	IN
+Ti1 	4 	9 	1 	9 	1 	all 	DT
+Ti1 	4 	9 	1 	10 	1 	acceptation 	NN
+Ti1 	4 	9 	1 	11 	0 	.
+Ti1 	4 	10 	1 	1 	1 	For 	IN
+Ti1 	4 	10 	1 	2 	1 	therefore 	RB
+Ti1 	4 	10 	1 	3 	1 	we 	PRP
+Ti1 	4 	10 	1 	4 	1 	both 	DT
+Ti1 	4 	10 	1 	5 	1 	labour 	NN
+Ti1 	4 	10 	1 	6 	1 	and 	CC
+Ti1 	4 	10 	1 	7 	1 	suffer 	NN
+Ti1 	4 	10 	1 	8 	1 	reproach 	NN
+Ti1 	4 	10 	1 	9 	0 	,
+Ti1 	4 	10 	1 	10 	1 	because 	IN
+Ti1 	4 	10 	1 	11 	1 	we 	PRP
+Ti1 	4 	10 	1 	12 	1 	trust 	NN
+Ti1 	4 	10 	1 	13 	1 	in 	IN
+Ti1 	4 	10 	1 	14 	1 	the 	DT
+Ti1 	4 	10 	1 	15 	1 	living 	NN
+Ti1 	4 	10 	1 	16 	1 	God 	NNP
+Ti1 	4 	10 	1 	17 	0 	,
+Ti1 	4 	10 	1 	18 	1 	who 	WP
+Ti1 	4 	10 	1 	19 	1 	is 	VBZ
+Ti1 	4 	10 	1 	20 	1 	the 	DT
+Ti1 	4 	10 	1 	21 	1 	Saviour 	NN
+Ti1 	4 	10 	1 	22 	1 	of 	IN
+Ti1 	4 	10 	1 	23 	1 	all 	DT
+Ti1 	4 	10 	1 	24 	1 	men 	NNS
+Ti1 	4 	10 	1 	25 	0 	,
+Ti1 	4 	10 	1 	26 	1 	specially 	RB
+Ti1 	4 	10 	1 	27 	1 	of 	IN
+Ti1 	4 	10 	1 	28 	1 	those 	DT
+Ti1 	4 	10 	1 	29 	1 	that 	IN
+Ti1 	4 	10 	1 	30 	1 	believe 	VB
+Ti1 	4 	10 	1 	31 	0 	.
+Ti1 	4 	11 	1 	1 	1 	hese 	NN
+Ti1 	4 	11 	1 	2 	1 	things 	NNS
+Ti1 	4 	11 	1 	3 	1 	command 	NN
+Ti1 	4 	11 	1 	4 	1 	and 	CC
+Ti1 	4 	11 	1 	5 	1 	teach 	NN
+Ti1 	4 	11 	1 	6 	0 	.
+Ti1 	4 	12 	1 	1 	1 	Let 	VB
+Ti1 	4 	12 	1 	2 	1 	no 	DT
+Ti1 	4 	12 	1 	3 	1 	man 	NN
+Ti1 	4 	12 	1 	4 	1 	despise 	NN
+Ti1 	4 	12 	1 	5 	1 	thy 	NN
+Ti1 	4 	12 	1 	6 	1 	youth 	NN
+Ti1 	4 	12 	1 	7 	0 	;
+Ti1 	4 	12 	1 	8 	1 	but 	CC
+Ti1 	4 	12 	1 	9 	1 	be 	VB
+Ti1 	4 	12 	1 	10 	1 	thou 	NN
+Ti1 	4 	12 	1 	11 	1 	an 	DT
+Ti1 	4 	12 	1 	12 	1 	example 	NN
+Ti1 	4 	12 	1 	13 	1 	of 	IN
+Ti1 	4 	12 	1 	14 	1 	the 	DT
+Ti1 	4 	12 	1 	15 	1 	believers 	NNS
+Ti1 	4 	12 	1 	16 	0 	,
+Ti1 	4 	12 	1 	17 	1 	in 	IN
+Ti1 	4 	12 	1 	18 	1 	word 	NN
+Ti1 	4 	12 	1 	19 	0 	,
+Ti1 	4 	12 	1 	20 	1 	in 	IN
+Ti1 	4 	12 	1 	21 	1 	conversation 	NN
+Ti1 	4 	12 	1 	22 	0 	,
+Ti1 	4 	12 	1 	23 	1 	in 	IN
+Ti1 	4 	12 	1 	24 	1 	charity 	NN
+Ti1 	4 	12 	1 	25 	0 	,
+Ti1 	4 	12 	1 	26 	1 	in 	IN
+Ti1 	4 	12 	1 	27 	1 	spirit 	NN
+Ti1 	4 	12 	1 	28 	0 	,
+Ti1 	4 	12 	1 	29 	1 	in 	IN
+Ti1 	4 	12 	1 	30 	1 	faith 	NN
+Ti1 	4 	12 	1 	31 	0 	,
+Ti1 	4 	12 	1 	32 	1 	in 	IN
+Ti1 	4 	12 	1 	33 	1 	purity 	NN
+Ti1 	4 	12 	1 	34 	0 	.
+Ti1 	4 	13 	1 	1 	1 	ll 	NN
+Ti1 	4 	13 	1 	2 	1 	I 	PRP
+Ti1 	4 	13 	1 	3 	1 	come 	VB
+Ti1 	4 	13 	1 	4 	0 	,
+Ti1 	4 	13 	1 	5 	1 	give 	VB
+Ti1 	4 	13 	1 	6 	1 	attendance 	NN
+Ti1 	4 	13 	1 	7 	1 	to 	TO
+Ti1 	4 	13 	1 	8 	1 	reading 	NN
+Ti1 	4 	13 	1 	9 	0 	,
+Ti1 	4 	13 	1 	10 	1 	to 	TO
+Ti1 	4 	13 	1 	11 	1 	exhortation 	NN
+Ti1 	4 	13 	1 	12 	0 	,
+Ti1 	4 	13 	1 	13 	1 	to 	TO
+Ti1 	4 	13 	1 	14 	1 	doctrine 	NN
+Ti1 	4 	13 	1 	15 	0 	.
+Ti1 	4 	14 	1 	1 	1 	Neglect 	NN
+Ti1 	4 	14 	1 	2 	1 	not 	RB
+Ti1 	4 	14 	1 	3 	1 	the 	DT
+Ti1 	4 	14 	1 	4 	1 	gift 	NN
+Ti1 	4 	14 	1 	5 	1 	that 	IN
+Ti1 	4 	14 	1 	6 	1 	is 	VBZ
+Ti1 	4 	14 	1 	7 	1 	in 	IN
+Ti1 	4 	14 	1 	8 	1 	thee 	NN
+Ti1 	4 	14 	1 	9 	0 	,
+Ti1 	4 	14 	1 	10 	1 	which 	WDT
+Ti1 	4 	14 	1 	11 	1 	was 	VBD
+Ti1 	4 	14 	1 	12 	1 	given 	VBN
+Ti1 	4 	14 	1 	13 	1 	thee 	NN
+Ti1 	4 	14 	1 	14 	1 	by 	IN
+Ti1 	4 	14 	1 	15 	1 	prophecy 	NN
+Ti1 	4 	14 	1 	16 	0 	,
+Ti1 	4 	14 	1 	17 	1 	with 	IN
+Ti1 	4 	14 	1 	18 	1 	the 	DT
+Ti1 	4 	14 	1 	19 	1 	laying 	VBG
+Ti1 	4 	14 	1 	20 	1 	on 	IN
+Ti1 	4 	14 	1 	21 	1 	of 	IN
+Ti1 	4 	14 	1 	22 	1 	the 	DT
+Ti1 	4 	14 	1 	23 	1 	hands 	NNS
+Ti1 	4 	14 	1 	24 	1 	of 	IN
+Ti1 	4 	14 	1 	25 	1 	the 	DT
+Ti1 	4 	14 	1 	26 	1 	presbytery 	NN
+Ti1 	4 	14 	1 	27 	0 	.
+Ti1 	4 	15 	1 	1 	1 	Meditate 	NN
+Ti1 	4 	15 	1 	2 	1 	upon 	IN
+Ti1 	4 	15 	1 	3 	1 	these 	DT
+Ti1 	4 	15 	1 	4 	1 	things 	NNS
+Ti1 	4 	15 	1 	5 	0 	;
+Ti1 	4 	15 	1 	6 	1 	give 	VB
+Ti1 	4 	15 	1 	7 	1 	thyself 	NN
+Ti1 	4 	15 	1 	8 	1 	wholly 	RB
+Ti1 	4 	15 	1 	9 	1 	to 	TO
+Ti1 	4 	15 	1 	10 	1 	them 	PRP
+Ti1 	4 	15 	1 	11 	0 	;
+Ti1 	4 	15 	1 	12 	1 	that 	IN
+Ti1 	4 	15 	1 	13 	1 	thy 	NN
+Ti1 	4 	15 	1 	14 	1 	profiting 	VBG
+Ti1 	4 	15 	1 	15 	1 	may 	MD
+Ti1 	4 	15 	1 	16 	1 	appear 	VB
+Ti1 	4 	15 	1 	17 	1 	to 	TO
+Ti1 	4 	15 	1 	18 	1 	all 	DT
+Ti1 	4 	15 	1 	19 	0 	.
+Ti1 	4 	16 	1 	1 	1 	ake 	NN
+Ti1 	4 	16 	1 	2 	1 	heed 	NN
+Ti1 	4 	16 	1 	3 	1 	unto 	NN
+Ti1 	4 	16 	1 	4 	1 	thyself 	NN
+Ti1 	4 	16 	1 	5 	0 	,
+Ti1 	4 	16 	1 	6 	1 	and 	CC
+Ti1 	4 	16 	1 	7 	1 	unto 	NN
+Ti1 	4 	16 	1 	8 	1 	the 	DT
+Ti1 	4 	16 	1 	9 	1 	doctrine 	NN
+Ti1 	4 	16 	1 	10 	0 	;
+Ti1 	4 	16 	1 	11 	1 	continue 	NN
+Ti1 	4 	16 	1 	12 	1 	in 	IN
+Ti1 	4 	16 	1 	13 	1 	them 	PRP
+Ti1 	4 	16 	1 	14 	0 	:
+Ti1 	4 	16 	1 	15 	1 	for 	IN
+Ti1 	4 	16 	1 	16 	1 	in 	IN
+Ti1 	4 	16 	1 	17 	1 	doing 	VBG
+Ti1 	4 	16 	1 	18 	1 	this 	DT
+Ti1 	4 	16 	1 	19 	1 	thou 	NN
+Ti1 	4 	16 	1 	20 	1 	shalt 	NN
+Ti1 	4 	16 	1 	21 	1 	both 	DT
+Ti1 	4 	16 	1 	22 	1 	save 	VB
+Ti1 	4 	16 	1 	23 	1 	thyself 	NN
+Ti1 	4 	16 	1 	24 	0 	,
+Ti1 	4 	16 	1 	25 	1 	and 	CC
+Ti1 	4 	16 	1 	26 	1 	them 	PRP
+Ti1 	4 	16 	1 	27 	1 	that 	IN
+Ti1 	4 	16 	1 	28 	1 	hear 	NN
+Ti1 	4 	16 	1 	29 	1 	thee 	NN
+Ti1 	4 	16 	1 	30 	0 	.
+Ti1 	5 	1 	1 	1 	1 	Rebuke 	NN
+Ti1 	5 	1 	1 	2 	1 	not 	RB
+Ti1 	5 	1 	1 	3 	1 	an 	DT
+Ti1 	5 	1 	1 	4 	1 	elder 	NN
+Ti1 	5 	1 	1 	5 	0 	,
+Ti1 	5 	1 	1 	6 	1 	but 	CC
+Ti1 	5 	1 	1 	7 	1 	intreat 	NN
+Ti1 	5 	1 	1 	8 	1 	him 	PRP
+Ti1 	5 	1 	1 	9 	1 	as 	IN
+Ti1 	5 	1 	1 	10 	1 	a 	DT
+Ti1 	5 	1 	1 	11 	1 	father 	NN
+Ti1 	5 	1 	1 	12 	0 	;
+Ti1 	5 	1 	1 	13 	1 	and 	CC
+Ti1 	5 	1 	1 	14 	1 	the 	DT
+Ti1 	5 	1 	1 	15 	1 	younger 	JJR
+Ti1 	5 	1 	1 	16 	1 	men 	NNS
+Ti1 	5 	1 	1 	17 	1 	as 	IN
+Ti1 	5 	1 	1 	18 	1 	brethren 	NNS
+Ti1 	5 	1 	1 	19 	0 	;
+Ti1 	5 	2 	1 	1 	1 	he 	PRP
+Ti1 	5 	2 	1 	2 	1 	elder 	NN
+Ti1 	5 	2 	1 	3 	1 	women 	NNS
+Ti1 	5 	2 	1 	4 	1 	as 	IN
+Ti1 	5 	2 	1 	5 	1 	mothers 	NNS
+Ti1 	5 	2 	1 	6 	0 	;
+Ti1 	5 	2 	1 	7 	1 	the 	DT
+Ti1 	5 	2 	1 	8 	1 	younger 	JJR
+Ti1 	5 	2 	1 	9 	1 	as 	IN
+Ti1 	5 	2 	1 	10 	1 	sisters 	NNS
+Ti1 	5 	2 	1 	11 	0 	,
+Ti1 	5 	2 	1 	12 	1 	with 	IN
+Ti1 	5 	2 	1 	13 	1 	all 	DT
+Ti1 	5 	2 	1 	14 	1 	purity 	NN
+Ti1 	5 	2 	1 	15 	0 	.
+Ti1 	5 	3 	1 	1 	1 	Honour 	NN
+Ti1 	5 	3 	1 	2 	1 	widows 	NNS
+Ti1 	5 	3 	1 	3 	1 	that 	IN
+Ti1 	5 	3 	1 	4 	1 	are 	VBP
+Ti1 	5 	3 	1 	5 	1 	widows 	NNS
+Ti1 	5 	3 	1 	6 	1 	indeed 	RB
+Ti1 	5 	3 	1 	7 	0 	.
+Ti1 	5 	4 	1 	1 	1 	But 	CC
+Ti1 	5 	4 	1 	2 	1 	if 	IN
+Ti1 	5 	4 	1 	3 	1 	any 	DT
+Ti1 	5 	4 	1 	4 	1 	widow 	NN
+Ti1 	5 	4 	1 	5 	1 	have 	VB
+Ti1 	5 	4 	1 	6 	1 	children 	NNS
+Ti1 	5 	4 	1 	7 	1 	or 	CC
+Ti1 	5 	4 	1 	8 	1 	nephews 	NNS
+Ti1 	5 	4 	1 	9 	0 	,
+Ti1 	5 	4 	1 	10 	1 	let 	VB
+Ti1 	5 	4 	1 	11 	1 	them 	PRP
+Ti1 	5 	4 	1 	12 	1 	learn 	NN
+Ti1 	5 	4 	1 	13 	1 	first 	RB
+Ti1 	5 	4 	1 	14 	1 	to 	TO
+Ti1 	5 	4 	1 	15 	1 	shew 	NN
+Ti1 	5 	4 	1 	16 	1 	piety 	NN
+Ti1 	5 	4 	1 	17 	1 	at 	IN
+Ti1 	5 	4 	1 	18 	1 	home 	NN
+Ti1 	5 	4 	1 	19 	0 	,
+Ti1 	5 	4 	1 	20 	1 	and 	CC
+Ti1 	5 	4 	1 	21 	1 	to 	TO
+Ti1 	5 	4 	1 	22 	1 	requite 	NN
+Ti1 	5 	4 	1 	23 	1 	their 	PRP$
+Ti1 	5 	4 	1 	24 	1 	parents 	NNS
+Ti1 	5 	4 	1 	25 	0 	:
+Ti1 	5 	4 	1 	26 	1 	for 	IN
+Ti1 	5 	4 	1 	27 	1 	that 	IN
+Ti1 	5 	4 	1 	28 	1 	is 	VBZ
+Ti1 	5 	4 	1 	29 	1 	good 	JJ
+Ti1 	5 	4 	1 	30 	1 	and 	CC
+Ti1 	5 	4 	1 	31 	1 	acceptable 	JJ
+Ti1 	5 	4 	1 	32 	1 	before 	IN
+Ti1 	5 	4 	1 	33 	1 	God 	NNP
+Ti1 	5 	4 	1 	34 	0 	.
+Ti1 	5 	5 	1 	1 	1 	Now 	RB
+Ti1 	5 	5 	1 	2 	1 	she 	PRP
+Ti1 	5 	5 	1 	3 	1 	that 	IN
+Ti1 	5 	5 	1 	4 	1 	is 	VBZ
+Ti1 	5 	5 	1 	5 	1 	a 	DT
+Ti1 	5 	5 	1 	6 	1 	widow 	NN
+Ti1 	5 	5 	1 	7 	1 	indeed 	RB
+Ti1 	5 	5 	1 	8 	0 	,
+Ti1 	5 	5 	1 	9 	1 	and 	CC
+Ti1 	5 	5 	1 	10 	1 	desolate 	NN
+Ti1 	5 	5 	1 	11 	0 	,
+Ti1 	5 	5 	1 	12 	1 	trusteth 	NNS
+Ti1 	5 	5 	1 	13 	1 	in 	IN
+Ti1 	5 	5 	1 	14 	1 	God 	NNP
+Ti1 	5 	5 	1 	15 	0 	,
+Ti1 	5 	5 	1 	16 	1 	and 	CC
+Ti1 	5 	5 	1 	17 	1 	continueth 	NNS
+Ti1 	5 	5 	1 	18 	1 	in 	IN
+Ti1 	5 	5 	1 	19 	1 	supplications 	NNS
+Ti1 	5 	5 	1 	20 	1 	and 	CC
+Ti1 	5 	5 	1 	21 	1 	prayers 	NNS
+Ti1 	5 	5 	1 	22 	1 	night 	NN
+Ti1 	5 	5 	1 	23 	1 	and 	CC
+Ti1 	5 	5 	1 	24 	1 	day 	NN
+Ti1 	5 	5 	1 	25 	0 	.
+Ti1 	5 	6 	1 	1 	1 	But 	CC
+Ti1 	5 	6 	1 	2 	1 	she 	PRP
+Ti1 	5 	6 	1 	3 	1 	that 	IN
+Ti1 	5 	6 	1 	4 	1 	liveth 	NN
+Ti1 	5 	6 	1 	5 	1 	in 	IN
+Ti1 	5 	6 	1 	6 	1 	pleasure 	NN
+Ti1 	5 	6 	1 	7 	1 	is 	VBZ
+Ti1 	5 	6 	1 	8 	1 	dead 	JJ
+Ti1 	5 	6 	1 	9 	1 	while 	IN
+Ti1 	5 	6 	1 	10 	1 	she 	PRP
+Ti1 	5 	6 	1 	11 	1 	liveth 	NN
+Ti1 	5 	6 	1 	12 	0 	.
+Ti1 	5 	7 	1 	1 	1 	And 	CC
+Ti1 	5 	7 	1 	2 	1 	these 	DT
+Ti1 	5 	7 	1 	3 	1 	things 	NNS
+Ti1 	5 	7 	1 	4 	1 	give 	VB
+Ti1 	5 	7 	1 	5 	1 	in 	IN
+Ti1 	5 	7 	1 	6 	1 	charge 	NN
+Ti1 	5 	7 	1 	7 	0 	,
+Ti1 	5 	7 	1 	8 	1 	that 	IN
+Ti1 	5 	7 	1 	9 	1 	they 	PRP
+Ti1 	5 	7 	1 	10 	1 	may 	MD
+Ti1 	5 	7 	1 	11 	1 	be 	VB
+Ti1 	5 	7 	1 	12 	1 	blameless 	NN
+Ti1 	5 	7 	1 	13 	0 	.
+Ti1 	5 	8 	1 	1 	1 	But 	CC
+Ti1 	5 	8 	1 	2 	1 	if 	IN
+Ti1 	5 	8 	1 	3 	1 	any 	DT
+Ti1 	5 	8 	1 	4 	1 	provide 	NN
+Ti1 	5 	8 	1 	5 	1 	not 	RB
+Ti1 	5 	8 	1 	6 	1 	for 	IN
+Ti1 	5 	8 	1 	7 	1 	his 	PRP$
+Ti1 	5 	8 	1 	8 	1 	own 	JJ
+Ti1 	5 	8 	1 	9 	0 	,
+Ti1 	5 	8 	1 	10 	1 	and 	CC
+Ti1 	5 	8 	1 	11 	1 	specially 	RB
+Ti1 	5 	8 	1 	12 	1 	for 	IN
+Ti1 	5 	8 	1 	13 	1 	those 	DT
+Ti1 	5 	8 	1 	14 	1 	of 	IN
+Ti1 	5 	8 	1 	15 	1 	his 	PRP$
+Ti1 	5 	8 	1 	16 	1 	own 	JJ
+Ti1 	5 	8 	1 	17 	1 	house 	NN
+Ti1 	5 	8 	1 	18 	0 	,
+Ti1 	5 	8 	1 	19 	1 	he 	PRP
+Ti1 	5 	8 	1 	20 	1 	hath 	NN
+Ti1 	5 	8 	1 	21 	1 	denied 	VBD
+Ti1 	5 	8 	1 	22 	1 	the 	DT
+Ti1 	5 	8 	1 	23 	1 	faith 	NN
+Ti1 	5 	8 	1 	24 	0 	,
+Ti1 	5 	8 	1 	25 	1 	and 	CC
+Ti1 	5 	8 	1 	26 	1 	is 	VBZ
+Ti1 	5 	8 	1 	27 	1 	worse 	JJR
+Ti1 	5 	8 	1 	28 	1 	than 	IN
+Ti1 	5 	8 	1 	29 	1 	an 	DT
+Ti1 	5 	8 	1 	30 	1 	infidel 	NN
+Ti1 	5 	8 	1 	31 	0 	.
+Ti1 	5 	9 	1 	1 	1 	Let 	VB
+Ti1 	5 	9 	1 	2 	1 	not 	RB
+Ti1 	5 	9 	1 	3 	1 	a 	DT
+Ti1 	5 	9 	1 	4 	1 	widow 	NN
+Ti1 	5 	9 	1 	5 	1 	be 	VB
+Ti1 	5 	9 	1 	6 	1 	taken 	VBN
+Ti1 	5 	9 	1 	7 	1 	into 	IN
+Ti1 	5 	9 	1 	8 	1 	the 	DT
+Ti1 	5 	9 	1 	9 	1 	number 	NN
+Ti1 	5 	9 	1 	10 	1 	under 	IN
+Ti1 	5 	9 	1 	11 	1 	threescore 	NN
+Ti1 	5 	9 	1 	12 	1 	years 	NNS
+Ti1 	5 	9 	1 	13 	1 	old 	JJ
+Ti1 	5 	9 	1 	14 	0 	,
+Ti1 	5 	9 	1 	15 	1 	having 	VBG
+Ti1 	5 	9 	1 	16 	1 	been 	VBN
+Ti1 	5 	9 	1 	17 	1 	the 	DT
+Ti1 	5 	9 	1 	18 	1 	wife 	NN
+Ti1 	5 	9 	1 	19 	1 	of 	IN
+Ti1 	5 	9 	1 	20 	1 	one 	CD
+Ti1 	5 	9 	1 	21 	1 	man 	NN
+Ti1 	5 	9 	1 	22 	0 	.
+Ti1 	5 	10 	1 	1 	1 	Well 	RB
+Ti1 	5 	10 	1 	2 	1 	reported 	VBD
+Ti1 	5 	10 	1 	3 	1 	of 	IN
+Ti1 	5 	10 	1 	4 	1 	for 	IN
+Ti1 	5 	10 	1 	5 	1 	good 	JJ
+Ti1 	5 	10 	1 	6 	1 	works 	NNS
+Ti1 	5 	10 	1 	7 	0 	;
+Ti1 	5 	10 	1 	8 	1 	if 	IN
+Ti1 	5 	10 	1 	9 	1 	she 	PRP
+Ti1 	5 	10 	1 	10 	1 	have 	VB
+Ti1 	5 	10 	1 	11 	1 	brought 	NN
+Ti1 	5 	10 	1 	12 	1 	up 	RB
+Ti1 	5 	10 	1 	13 	1 	children 	NNS
+Ti1 	5 	10 	1 	14 	0 	,
+Ti1 	5 	10 	1 	15 	1 	if 	IN
+Ti1 	5 	10 	1 	16 	1 	she 	PRP
+Ti1 	5 	10 	1 	17 	1 	have 	VB
+Ti1 	5 	10 	1 	18 	1 	lodged 	VBN
+Ti1 	5 	10 	1 	19 	1 	strangers 	NNS
+Ti1 	5 	10 	1 	20 	0 	,
+Ti1 	5 	10 	1 	21 	1 	if 	IN
+Ti1 	5 	10 	1 	22 	1 	she 	PRP
+Ti1 	5 	10 	1 	23 	1 	have 	VB
+Ti1 	5 	10 	1 	24 	1 	washed 	VBN
+Ti1 	5 	10 	1 	25 	1 	the 	DT
+Ti1 	5 	10 	1 	26 	1 	saints 	NNS
+Ti1 	5 	10 	1 	27 	0 	'
+Ti1 	5 	10 	1 	28 	1 	feet 	NNS
+Ti1 	5 	10 	1 	29 	0 	,
+Ti1 	5 	10 	1 	30 	1 	if 	IN
+Ti1 	5 	10 	1 	31 	1 	she 	PRP
+Ti1 	5 	10 	1 	32 	1 	have 	VB
+Ti1 	5 	10 	1 	33 	1 	relieved 	VBN
+Ti1 	5 	10 	1 	34 	1 	the 	DT
+Ti1 	5 	10 	1 	35 	1 	afflicted 	VBN
+Ti1 	5 	10 	1 	36 	0 	,
+Ti1 	5 	10 	1 	37 	1 	if 	IN
+Ti1 	5 	10 	1 	38 	1 	she 	PRP
+Ti1 	5 	10 	1 	39 	1 	have 	VB
+Ti1 	5 	10 	1 	40 	1 	diligently 	RB
+Ti1 	5 	10 	1 	41 	1 	followed 	VBD
+Ti1 	5 	10 	1 	42 	1 	every 	DT
+Ti1 	5 	10 	1 	43 	1 	good 	JJ
+Ti1 	5 	10 	1 	44 	1 	work 	NN
+Ti1 	5 	10 	1 	45 	0 	.
+Ti1 	5 	11 	1 	1 	1 	But 	CC
+Ti1 	5 	11 	1 	2 	1 	the 	DT
+Ti1 	5 	11 	1 	3 	1 	younger 	JJR
+Ti1 	5 	11 	1 	4 	1 	widows 	NNS
+Ti1 	5 	11 	1 	5 	1 	refuse 	NN
+Ti1 	5 	11 	1 	6 	0 	:
+Ti1 	5 	11 	1 	7 	1 	for 	IN
+Ti1 	5 	11 	1 	8 	1 	when 	WRB
+Ti1 	5 	11 	1 	9 	1 	they 	PRP
+Ti1 	5 	11 	1 	10 	1 	have 	VB
+Ti1 	5 	11 	1 	11 	1 	begun 	VBN
+Ti1 	5 	11 	1 	12 	1 	to 	TO
+Ti1 	5 	11 	1 	13 	1 	wax 	NN
+Ti1 	5 	11 	1 	14 	1 	wanton 	NN
+Ti1 	5 	11 	1 	15 	1 	against 	IN
+Ti1 	5 	11 	1 	16 	1 	Christ 	NN
+Ti1 	5 	11 	1 	17 	0 	,
+Ti1 	5 	11 	1 	18 	1 	they 	PRP
+Ti1 	5 	11 	1 	19 	1 	will 	MD
+Ti1 	5 	11 	1 	20 	1 	marry 	NN
+Ti1 	5 	11 	1 	21 	0 	;
+Ti1 	5 	12 	1 	1 	1 	Having 	VBG
+Ti1 	5 	12 	1 	2 	1 	damnation 	NN
+Ti1 	5 	12 	1 	3 	0 	,
+Ti1 	5 	12 	1 	4 	1 	because 	IN
+Ti1 	5 	12 	1 	5 	1 	they 	PRP
+Ti1 	5 	12 	1 	6 	1 	have 	VB
+Ti1 	5 	12 	1 	7 	1 	cast 	NN
+Ti1 	5 	12 	1 	8 	1 	off 	IN
+Ti1 	5 	12 	1 	9 	1 	their 	PRP$
+Ti1 	5 	12 	1 	10 	1 	first 	RB
+Ti1 	5 	12 	1 	11 	1 	faith 	NN
+Ti1 	5 	12 	1 	12 	0 	.
+Ti1 	5 	13 	1 	1 	1 	And 	CC
+Ti1 	5 	13 	1 	2 	1 	withal 	NN
+Ti1 	5 	13 	1 	3 	1 	they 	PRP
+Ti1 	5 	13 	1 	4 	1 	learn 	NN
+Ti1 	5 	13 	1 	5 	1 	to 	TO
+Ti1 	5 	13 	1 	6 	1 	be 	VB
+Ti1 	5 	13 	1 	7 	1 	idle 	JJ
+Ti1 	5 	13 	1 	8 	0 	,
+Ti1 	5 	13 	1 	9 	1 	wandering 	VBG
+Ti1 	5 	13 	1 	10 	1 	about 	IN
+Ti1 	5 	13 	1 	11 	1 	from 	IN
+Ti1 	5 	13 	1 	12 	1 	house 	NN
+Ti1 	5 	13 	1 	13 	1 	to 	TO
+Ti1 	5 	13 	1 	14 	1 	house 	NN
+Ti1 	5 	13 	1 	15 	0 	;
+Ti1 	5 	13 	1 	16 	1 	and 	CC
+Ti1 	5 	13 	1 	17 	1 	not 	RB
+Ti1 	5 	13 	1 	18 	1 	only 	RB
+Ti1 	5 	13 	1 	19 	1 	idle 	JJ
+Ti1 	5 	13 	1 	20 	0 	,
+Ti1 	5 	13 	1 	21 	1 	but 	CC
+Ti1 	5 	13 	1 	22 	1 	tattlers 	NNS
+Ti1 	5 	13 	1 	23 	1 	also 	RB
+Ti1 	5 	13 	1 	24 	1 	and 	CC
+Ti1 	5 	13 	1 	25 	1 	busybodies 	NNS
+Ti1 	5 	13 	1 	26 	0 	,
+Ti1 	5 	13 	1 	27 	1 	speaking 	VBG
+Ti1 	5 	13 	1 	28 	1 	things 	NNS
+Ti1 	5 	13 	1 	29 	1 	which 	WDT
+Ti1 	5 	13 	1 	30 	1 	they 	PRP
+Ti1 	5 	13 	1 	31 	1 	ought 	MD
+Ti1 	5 	13 	1 	32 	1 	not 	RB
+Ti1 	5 	13 	1 	33 	0 	.
+Ti1 	5 	14 	1 	1 	1 	I 	PRP
+Ti1 	5 	14 	1 	2 	1 	will 	MD
+Ti1 	5 	14 	1 	3 	1 	therefore 	RB
+Ti1 	5 	14 	1 	4 	1 	that 	IN
+Ti1 	5 	14 	1 	5 	1 	the 	DT
+Ti1 	5 	14 	1 	6 	1 	younger 	JJR
+Ti1 	5 	14 	1 	7 	1 	women 	NNS
+Ti1 	5 	14 	1 	8 	1 	marry 	NN
+Ti1 	5 	14 	1 	9 	0 	,
+Ti1 	5 	14 	1 	10 	1 	bear 	NN
+Ti1 	5 	14 	1 	11 	1 	children 	NNS
+Ti1 	5 	14 	1 	12 	0 	,
+Ti1 	5 	14 	1 	13 	1 	guide 	NN
+Ti1 	5 	14 	1 	14 	1 	the 	DT
+Ti1 	5 	14 	1 	15 	1 	house 	NN
+Ti1 	5 	14 	1 	16 	0 	,
+Ti1 	5 	14 	1 	17 	1 	give 	VB
+Ti1 	5 	14 	1 	18 	1 	none 	NN
+Ti1 	5 	14 	1 	19 	1 	occasion 	NN
+Ti1 	5 	14 	1 	20 	1 	to 	TO
+Ti1 	5 	14 	1 	21 	1 	the 	DT
+Ti1 	5 	14 	1 	22 	1 	adversary 	NN
+Ti1 	5 	14 	1 	23 	1 	to 	TO
+Ti1 	5 	14 	1 	24 	1 	speak 	NN
+Ti1 	5 	14 	1 	25 	1 	reproachfully 	RB
+Ti1 	5 	14 	1 	26 	0 	.
+Ti1 	5 	15 	1 	1 	1 	For 	IN
+Ti1 	5 	15 	1 	2 	1 	some 	DT
+Ti1 	5 	15 	1 	3 	1 	are 	VBP
+Ti1 	5 	15 	1 	4 	1 	already 	RB
+Ti1 	5 	15 	1 	5 	1 	turned 	VBD
+Ti1 	5 	15 	1 	6 	1 	aside 	RB
+Ti1 	5 	15 	1 	7 	1 	after 	IN
+Ti1 	5 	15 	1 	8 	1 	Satan 	NN
+Ti1 	5 	15 	1 	9 	0 	.
+Ti1 	5 	16 	1 	1 	1 	If 	IN
+Ti1 	5 	16 	1 	2 	1 	any 	DT
+Ti1 	5 	16 	1 	3 	1 	man 	NN
+Ti1 	5 	16 	1 	4 	1 	or 	CC
+Ti1 	5 	16 	1 	5 	1 	woman 	NN
+Ti1 	5 	16 	1 	6 	1 	that 	IN
+Ti1 	5 	16 	1 	7 	1 	believeth 	NN
+Ti1 	5 	16 	1 	8 	1 	have 	VB
+Ti1 	5 	16 	1 	9 	1 	widows 	NNS
+Ti1 	5 	16 	1 	10 	0 	,
+Ti1 	5 	16 	1 	11 	1 	let 	VB
+Ti1 	5 	16 	1 	12 	1 	them 	PRP
+Ti1 	5 	16 	1 	13 	1 	relieve 	NN
+Ti1 	5 	16 	1 	14 	1 	them 	PRP
+Ti1 	5 	16 	1 	15 	0 	,
+Ti1 	5 	16 	1 	16 	1 	and 	CC
+Ti1 	5 	16 	1 	17 	1 	let 	VB
+Ti1 	5 	16 	1 	18 	1 	not 	RB
+Ti1 	5 	16 	1 	19 	1 	the 	DT
+Ti1 	5 	16 	1 	20 	1 	church 	NN
+Ti1 	5 	16 	1 	21 	1 	be 	VB
+Ti1 	5 	16 	1 	22 	1 	charged 	VBN
+Ti1 	5 	16 	1 	23 	0 	;
+Ti1 	5 	16 	1 	24 	1 	that 	IN
+Ti1 	5 	16 	1 	25 	1 	it 	PRP
+Ti1 	5 	16 	1 	26 	1 	may 	MD
+Ti1 	5 	16 	1 	27 	1 	relieve 	NN
+Ti1 	5 	16 	1 	28 	1 	them 	PRP
+Ti1 	5 	16 	1 	29 	1 	that 	IN
+Ti1 	5 	16 	1 	30 	1 	are 	VBP
+Ti1 	5 	16 	1 	31 	1 	widows 	NNS
+Ti1 	5 	16 	1 	32 	1 	indeed 	RB
+Ti1 	5 	16 	1 	33 	0 	.
+Ti1 	5 	17 	1 	1 	1 	Let 	VB
+Ti1 	5 	17 	1 	2 	1 	the 	DT
+Ti1 	5 	17 	1 	3 	1 	elders 	NNS
+Ti1 	5 	17 	1 	4 	1 	that 	IN
+Ti1 	5 	17 	1 	5 	1 	rule 	NN
+Ti1 	5 	17 	1 	6 	1 	well 	RB
+Ti1 	5 	17 	1 	7 	1 	be 	VB
+Ti1 	5 	17 	1 	8 	1 	counted 	VBN
+Ti1 	5 	17 	1 	9 	1 	worthy 	NN
+Ti1 	5 	17 	1 	10 	1 	of 	IN
+Ti1 	5 	17 	1 	11 	1 	double 	RB
+Ti1 	5 	17 	1 	12 	1 	honour 	NN
+Ti1 	5 	17 	1 	13 	0 	,
+Ti1 	5 	17 	1 	14 	1 	especially 	RB
+Ti1 	5 	17 	1 	15 	1 	they 	PRP
+Ti1 	5 	17 	1 	16 	1 	who 	WP
+Ti1 	5 	17 	1 	17 	1 	labour 	NN
+Ti1 	5 	17 	1 	18 	1 	in 	IN
+Ti1 	5 	17 	1 	19 	1 	the 	DT
+Ti1 	5 	17 	1 	20 	1 	word 	NN
+Ti1 	5 	17 	1 	21 	1 	and 	CC
+Ti1 	5 	17 	1 	22 	1 	doctrine 	NN
+Ti1 	5 	17 	1 	23 	0 	.
+Ti1 	5 	18 	1 	1 	1 	For 	IN
+Ti1 	5 	18 	1 	2 	1 	the 	DT
+Ti1 	5 	18 	1 	3 	1 	scripture 	NN
+Ti1 	5 	18 	1 	4 	1 	saith 	NN
+Ti1 	5 	18 	1 	5 	0 	,
+Ti1 	5 	18 	1 	6 	1 	Thou 	NN
+Ti1 	5 	18 	1 	7 	1 	shalt 	NN
+Ti1 	5 	18 	1 	8 	1 	not 	RB
+Ti1 	5 	18 	1 	9 	1 	muzzle 	NN
+Ti1 	5 	18 	1 	10 	1 	the 	DT
+Ti1 	5 	18 	1 	11 	1 	ox 	NN
+Ti1 	5 	18 	1 	12 	1 	that 	IN
+Ti1 	5 	18 	1 	13 	1 	treadeth 	NNS
+Ti1 	5 	18 	1 	14 	1 	out 	IN
+Ti1 	5 	18 	1 	15 	1 	the 	DT
+Ti1 	5 	18 	1 	16 	1 	corn 	NN
+Ti1 	5 	18 	1 	17 	0 	.
+Ti1 	5 	18 	2 	1 	1 	And 	CC
+Ti1 	5 	18 	2 	2 	0 	,
+Ti1 	5 	18 	2 	3 	1 	The 	DT
+Ti1 	5 	18 	2 	4 	1 	labourer 	NN
+Ti1 	5 	18 	2 	5 	1 	is 	VBZ
+Ti1 	5 	18 	2 	6 	1 	worthy 	NN
+Ti1 	5 	18 	2 	7 	1 	of 	IN
+Ti1 	5 	18 	2 	8 	1 	his 	PRP$
+Ti1 	5 	18 	2 	9 	1 	reward 	NN
+Ti1 	5 	18 	2 	10 	0 	.
+Ti1 	5 	19 	1 	1 	1 	Against 	IN
+Ti1 	5 	19 	1 	2 	1 	an 	DT
+Ti1 	5 	19 	1 	3 	1 	elder 	NN
+Ti1 	5 	19 	1 	4 	1 	receive 	NN
+Ti1 	5 	19 	1 	5 	1 	not 	RB
+Ti1 	5 	19 	1 	6 	1 	an 	DT
+Ti1 	5 	19 	1 	7 	1 	accusation 	NN
+Ti1 	5 	19 	1 	8 	0 	,
+Ti1 	5 	19 	1 	9 	1 	but 	CC
+Ti1 	5 	19 	1 	10 	1 	before 	IN
+Ti1 	5 	19 	1 	11 	1 	two 	CD
+Ti1 	5 	19 	1 	12 	1 	or 	CC
+Ti1 	5 	19 	1 	13 	1 	three 	CD
+Ti1 	5 	19 	1 	14 	1 	witnesses 	NNS
+Ti1 	5 	19 	1 	15 	0 	.
+Ti1 	5 	20 	1 	1 	1 	hem 	NN
+Ti1 	5 	20 	1 	2 	1 	that 	IN
+Ti1 	5 	20 	1 	3 	1 	sin 	NN
+Ti1 	5 	20 	1 	4 	1 	rebuke 	NN
+Ti1 	5 	20 	1 	5 	1 	before 	IN
+Ti1 	5 	20 	1 	6 	1 	all 	DT
+Ti1 	5 	20 	1 	7 	0 	,
+Ti1 	5 	20 	1 	8 	1 	that 	IN
+Ti1 	5 	20 	1 	9 	1 	others 	NNS
+Ti1 	5 	20 	1 	10 	1 	also 	RB
+Ti1 	5 	20 	1 	11 	1 	may 	MD
+Ti1 	5 	20 	1 	12 	1 	fear 	NN
+Ti1 	5 	20 	1 	13 	0 	.
+Ti1 	5 	21 	1 	1 	1 	I 	PRP
+Ti1 	5 	21 	1 	2 	1 	charge 	NN
+Ti1 	5 	21 	1 	3 	1 	thee 	NN
+Ti1 	5 	21 	1 	4 	1 	before 	IN
+Ti1 	5 	21 	1 	5 	1 	God 	NNP
+Ti1 	5 	21 	1 	6 	0 	,
+Ti1 	5 	21 	1 	7 	1 	and 	CC
+Ti1 	5 	21 	1 	8 	1 	the 	DT
+Ti1 	5 	21 	1 	9 	1 	Lord 	NN
+Ti1 	5 	21 	1 	10 	1 	Jesus 	NN
+Ti1 	5 	21 	1 	11 	1 	Christ 	NN
+Ti1 	5 	21 	1 	12 	0 	,
+Ti1 	5 	21 	1 	13 	1 	and 	CC
+Ti1 	5 	21 	1 	14 	1 	the 	DT
+Ti1 	5 	21 	1 	15 	1 	elect 	NN
+Ti1 	5 	21 	1 	16 	1 	angels 	NNS
+Ti1 	5 	21 	1 	17 	0 	,
+Ti1 	5 	21 	1 	18 	1 	that 	IN
+Ti1 	5 	21 	1 	19 	1 	thou 	NN
+Ti1 	5 	21 	1 	20 	1 	observe 	NN
+Ti1 	5 	21 	1 	21 	1 	these 	DT
+Ti1 	5 	21 	1 	22 	1 	things 	NNS
+Ti1 	5 	21 	1 	23 	1 	without 	IN
+Ti1 	5 	21 	1 	24 	1 	preferring 	VBG
+Ti1 	5 	21 	1 	25 	1 	one 	CD
+Ti1 	5 	21 	1 	26 	1 	before 	IN
+Ti1 	5 	21 	1 	27 	1 	another 	DT
+Ti1 	5 	21 	1 	28 	0 	,
+Ti1 	5 	21 	1 	29 	1 	doing 	VBG
+Ti1 	5 	21 	1 	30 	1 	nothing 	NN
+Ti1 	5 	21 	1 	31 	1 	by 	IN
+Ti1 	5 	21 	1 	32 	1 	partiality 	NN
+Ti1 	5 	21 	1 	33 	0 	.
+Ti1 	5 	22 	1 	1 	1 	Lay 	NN
+Ti1 	5 	22 	1 	2 	1 	hands 	NNS
+Ti1 	5 	22 	1 	3 	1 	suddenly 	RB
+Ti1 	5 	22 	1 	4 	1 	on 	IN
+Ti1 	5 	22 	1 	5 	1 	no 	DT
+Ti1 	5 	22 	1 	6 	1 	man 	NN
+Ti1 	5 	22 	1 	7 	0 	,
+Ti1 	5 	22 	1 	8 	1 	neither 	DT
+Ti1 	5 	22 	1 	9 	1 	be 	VB
+Ti1 	5 	22 	1 	10 	1 	partaker 	NN
+Ti1 	5 	22 	1 	11 	1 	of 	IN
+Ti1 	5 	22 	1 	12 	1 	other 	JJ
+Ti1 	5 	22 	1 	13 	1 	men 	NNS
+Ti1 	5 	22 	1 	14 	0 	's
+Ti1 	5 	22 	1 	15 	1 	sins 	NNS
+Ti1 	5 	22 	1 	16 	0 	:
+Ti1 	5 	22 	1 	17 	1 	keep 	VB
+Ti1 	5 	22 	1 	18 	1 	thyself 	NN
+Ti1 	5 	22 	1 	19 	1 	pure 	NN
+Ti1 	5 	22 	1 	20 	0 	.
+Ti1 	5 	23 	1 	1 	1 	Drink 	VB
+Ti1 	5 	23 	1 	2 	1 	no 	DT
+Ti1 	5 	23 	1 	3 	1 	longer 	NN
+Ti1 	5 	23 	1 	4 	1 	water 	NN
+Ti1 	5 	23 	1 	5 	0 	,
+Ti1 	5 	23 	1 	6 	1 	but 	CC
+Ti1 	5 	23 	1 	7 	1 	use 	NN
+Ti1 	5 	23 	1 	8 	1 	a 	DT
+Ti1 	5 	23 	1 	9 	1 	little 	JJ
+Ti1 	5 	23 	1 	10 	1 	wine 	NN
+Ti1 	5 	23 	1 	11 	1 	for 	IN
+Ti1 	5 	23 	1 	12 	1 	thy 	NN
+Ti1 	5 	23 	1 	13 	1 	stomach 	NN
+Ti1 	5 	23 	1 	14 	0 	's
+Ti1 	5 	23 	1 	15 	1 	sake 	NN
+Ti1 	5 	23 	1 	16 	1 	and 	CC
+Ti1 	5 	23 	1 	17 	1 	thine 	NN
+Ti1 	5 	23 	1 	18 	1 	often 	RB
+Ti1 	5 	23 	1 	19 	1 	infirmities 	NNS
+Ti1 	5 	23 	1 	20 	0 	.
+Ti1 	5 	24 	1 	1 	1 	Some 	DT
+Ti1 	5 	24 	1 	2 	1 	men 	NNS
+Ti1 	5 	24 	1 	3 	0 	's
+Ti1 	5 	24 	1 	4 	1 	sins 	NNS
+Ti1 	5 	24 	1 	5 	1 	are 	VBP
+Ti1 	5 	24 	1 	6 	1 	open 	JJ
+Ti1 	5 	24 	1 	7 	1 	beforehand 	NN
+Ti1 	5 	24 	1 	8 	0 	,
+Ti1 	5 	24 	1 	9 	1 	going 	VBG
+Ti1 	5 	24 	1 	10 	1 	before 	IN
+Ti1 	5 	24 	1 	11 	1 	to 	TO
+Ti1 	5 	24 	1 	12 	1 	judgment 	NN
+Ti1 	5 	24 	1 	13 	0 	;
+Ti1 	5 	24 	1 	14 	1 	and 	CC
+Ti1 	5 	24 	1 	15 	1 	some 	DT
+Ti1 	5 	24 	1 	16 	1 	men 	NNS
+Ti1 	5 	24 	1 	17 	1 	they 	PRP
+Ti1 	5 	24 	1 	18 	1 	follow 	VB
+Ti1 	5 	24 	1 	19 	1 	after 	IN
+Ti1 	5 	24 	1 	20 	0 	.
+Ti1 	5 	25 	1 	1 	1 	Likewise 	RB
+Ti1 	5 	25 	1 	2 	1 	also 	RB
+Ti1 	5 	25 	1 	3 	1 	the 	DT
+Ti1 	5 	25 	1 	4 	1 	good 	JJ
+Ti1 	5 	25 	1 	5 	1 	works 	NNS
+Ti1 	5 	25 	1 	6 	1 	of 	IN
+Ti1 	5 	25 	1 	7 	1 	some 	DT
+Ti1 	5 	25 	1 	8 	1 	are 	VBP
+Ti1 	5 	25 	1 	9 	1 	manifest 	JJS
+Ti1 	5 	25 	1 	10 	1 	beforehand 	NN
+Ti1 	5 	25 	1 	11 	0 	;
+Ti1 	5 	25 	1 	12 	1 	and 	CC
+Ti1 	5 	25 	1 	13 	1 	they 	PRP
+Ti1 	5 	25 	1 	14 	1 	that 	IN
+Ti1 	5 	25 	1 	15 	1 	are 	VBP
+Ti1 	5 	25 	1 	16 	1 	otherwise 	RB
+Ti1 	5 	25 	1 	17 	1 	can 	MD
+Ti1 	5 	25 	1 	18 	1 	not 	RB
+Ti1 	5 	25 	1 	19 	1 	be 	VB
+Ti1 	5 	25 	1 	20 	1 	hid 	NN
+Ti1 	5 	25 	1 	21 	0 	.
+Ti1 	6 	1 	1 	1 	1 	Let 	VB
+Ti1 	6 	1 	1 	2 	1 	as 	IN
+Ti1 	6 	1 	1 	3 	1 	many 	JJ
+Ti1 	6 	1 	1 	4 	1 	servants 	NNS
+Ti1 	6 	1 	1 	5 	1 	as 	IN
+Ti1 	6 	1 	1 	6 	1 	are 	VBP
+Ti1 	6 	1 	1 	7 	1 	under 	IN
+Ti1 	6 	1 	1 	8 	1 	the 	DT
+Ti1 	6 	1 	1 	9 	1 	yoke 	NN
+Ti1 	6 	1 	1 	10 	1 	count 	NN
+Ti1 	6 	1 	1 	11 	1 	their 	PRP$
+Ti1 	6 	1 	1 	12 	1 	own 	JJ
+Ti1 	6 	1 	1 	13 	1 	masters 	NNS
+Ti1 	6 	1 	1 	14 	1 	worthy 	NN
+Ti1 	6 	1 	1 	15 	1 	of 	IN
+Ti1 	6 	1 	1 	16 	1 	all 	DT
+Ti1 	6 	1 	1 	17 	1 	honour 	NN
+Ti1 	6 	1 	1 	18 	0 	,
+Ti1 	6 	1 	1 	19 	1 	that 	IN
+Ti1 	6 	1 	1 	20 	1 	the 	DT
+Ti1 	6 	1 	1 	21 	1 	name 	NN
+Ti1 	6 	1 	1 	22 	1 	of 	IN
+Ti1 	6 	1 	1 	23 	1 	God 	NNP
+Ti1 	6 	1 	1 	24 	1 	and 	CC
+Ti1 	6 	1 	1 	25 	1 	his 	PRP$
+Ti1 	6 	1 	1 	26 	1 	doctrine 	NN
+Ti1 	6 	1 	1 	27 	1 	be 	VB
+Ti1 	6 	1 	1 	28 	1 	not 	RB
+Ti1 	6 	1 	1 	29 	1 	blasphemed 	VBN
+Ti1 	6 	1 	1 	30 	0 	.
+Ti1 	6 	2 	1 	1 	1 	And 	CC
+Ti1 	6 	2 	1 	2 	1 	they 	PRP
+Ti1 	6 	2 	1 	3 	1 	that 	IN
+Ti1 	6 	2 	1 	4 	1 	have 	VB
+Ti1 	6 	2 	1 	5 	1 	believing 	VBG
+Ti1 	6 	2 	1 	6 	1 	masters 	NNS
+Ti1 	6 	2 	1 	7 	0 	,
+Ti1 	6 	2 	1 	8 	1 	let 	VB
+Ti1 	6 	2 	1 	9 	1 	them 	PRP
+Ti1 	6 	2 	1 	10 	1 	not 	RB
+Ti1 	6 	2 	1 	11 	1 	despise 	NN
+Ti1 	6 	2 	1 	12 	1 	them 	PRP
+Ti1 	6 	2 	1 	13 	0 	,
+Ti1 	6 	2 	1 	14 	1 	because 	IN
+Ti1 	6 	2 	1 	15 	1 	they 	PRP
+Ti1 	6 	2 	1 	16 	1 	are 	VBP
+Ti1 	6 	2 	1 	17 	1 	brethren 	NNS
+Ti1 	6 	2 	1 	18 	0 	;
+Ti1 	6 	2 	1 	19 	1 	but 	CC
+Ti1 	6 	2 	1 	20 	1 	rather 	RB
+Ti1 	6 	2 	1 	21 	1 	do 	VB
+Ti1 	6 	2 	1 	22 	1 	them 	PRP
+Ti1 	6 	2 	1 	23 	1 	service 	NN
+Ti1 	6 	2 	1 	24 	0 	,
+Ti1 	6 	2 	1 	25 	1 	because 	IN
+Ti1 	6 	2 	1 	26 	1 	they 	PRP
+Ti1 	6 	2 	1 	27 	1 	are 	VBP
+Ti1 	6 	2 	1 	28 	1 	faithful 	NN
+Ti1 	6 	2 	1 	29 	1 	and 	CC
+Ti1 	6 	2 	1 	30 	1 	beloved 	VBN
+Ti1 	6 	2 	1 	31 	0 	,
+Ti1 	6 	2 	1 	32 	1 	partakers 	NNS
+Ti1 	6 	2 	1 	33 	1 	of 	IN
+Ti1 	6 	2 	1 	34 	1 	the 	DT
+Ti1 	6 	2 	1 	35 	1 	benefit 	NN
+Ti1 	6 	2 	1 	36 	0 	.
+Ti1 	6 	2 	2 	1 	1 	These 	DT
+Ti1 	6 	2 	2 	2 	1 	things 	NNS
+Ti1 	6 	2 	2 	3 	1 	teach 	NN
+Ti1 	6 	2 	2 	4 	1 	and 	CC
+Ti1 	6 	2 	2 	5 	1 	exhort 	NN
+Ti1 	6 	2 	2 	6 	0 	.
+Ti1 	6 	3 	1 	1 	1 	If 	IN
+Ti1 	6 	3 	1 	2 	1 	any 	DT
+Ti1 	6 	3 	1 	3 	1 	man 	NN
+Ti1 	6 	3 	1 	4 	1 	teach 	NN
+Ti1 	6 	3 	1 	5 	1 	otherwise 	RB
+Ti1 	6 	3 	1 	6 	0 	,
+Ti1 	6 	3 	1 	7 	1 	and 	CC
+Ti1 	6 	3 	1 	8 	1 	consent 	NN
+Ti1 	6 	3 	1 	9 	1 	not 	RB
+Ti1 	6 	3 	1 	10 	1 	to 	TO
+Ti1 	6 	3 	1 	11 	1 	wholesome 	NN
+Ti1 	6 	3 	1 	12 	1 	words 	NNS
+Ti1 	6 	3 	1 	13 	0 	,
+Ti1 	6 	3 	1 	14 	1 	even 	RB
+Ti1 	6 	3 	1 	15 	1 	the 	DT
+Ti1 	6 	3 	1 	16 	1 	words 	NNS
+Ti1 	6 	3 	1 	17 	1 	of 	IN
+Ti1 	6 	3 	1 	18 	1 	our 	PRP$
+Ti1 	6 	3 	1 	19 	1 	Lord 	NN
+Ti1 	6 	3 	1 	20 	1 	Jesus 	NN
+Ti1 	6 	3 	1 	21 	1 	Christ 	NN
+Ti1 	6 	3 	1 	22 	0 	,
+Ti1 	6 	3 	1 	23 	1 	and 	CC
+Ti1 	6 	3 	1 	24 	1 	to 	TO
+Ti1 	6 	3 	1 	25 	1 	the 	DT
+Ti1 	6 	3 	1 	26 	1 	doctrine 	NN
+Ti1 	6 	3 	1 	27 	1 	which 	WDT
+Ti1 	6 	3 	1 	28 	1 	is 	VBZ
+Ti1 	6 	3 	1 	29 	1 	according 	VBG
+Ti1 	6 	3 	1 	30 	1 	to 	TO
+Ti1 	6 	3 	1 	31 	1 	godliness 	NN
+Ti1 	6 	3 	1 	32 	0 	;
+Ti1 	6 	4 	1 	1 	1 	He 	PRP
+Ti1 	6 	4 	1 	2 	1 	is 	VBZ
+Ti1 	6 	4 	1 	3 	1 	proud 	NN
+Ti1 	6 	4 	1 	4 	0 	,
+Ti1 	6 	4 	1 	5 	1 	knowing 	VBG
+Ti1 	6 	4 	1 	6 	1 	nothing 	NN
+Ti1 	6 	4 	1 	7 	0 	,
+Ti1 	6 	4 	1 	8 	1 	but 	CC
+Ti1 	6 	4 	1 	9 	1 	doting 	VBG
+Ti1 	6 	4 	1 	10 	1 	about 	IN
+Ti1 	6 	4 	1 	11 	1 	questions 	NNS
+Ti1 	6 	4 	1 	12 	1 	and 	CC
+Ti1 	6 	4 	1 	13 	1 	strifes 	NN
+Ti1 	6 	4 	1 	14 	1 	of 	IN
+Ti1 	6 	4 	1 	15 	1 	words 	NNS
+Ti1 	6 	4 	1 	16 	0 	,
+Ti1 	6 	4 	1 	17 	1 	whereof 	NN
+Ti1 	6 	4 	1 	18 	1 	cometh 	NNS
+Ti1 	6 	4 	1 	19 	1 	envy 	NN
+Ti1 	6 	4 	1 	20 	0 	,
+Ti1 	6 	4 	1 	21 	1 	strife 	NN
+Ti1 	6 	4 	1 	22 	0 	,
+Ti1 	6 	4 	1 	23 	1 	railings 	NNS
+Ti1 	6 	4 	1 	24 	0 	,
+Ti1 	6 	4 	1 	25 	1 	evil 	NN
+Ti1 	6 	4 	1 	26 	1 	surmisings 	NNS
+Ti1 	6 	4 	1 	27 	0 	,
+Ti1 	6 	5 	1 	1 	1 	Perverse 	NN
+Ti1 	6 	5 	1 	2 	1 	disputings 	NNS
+Ti1 	6 	5 	1 	3 	1 	of 	IN
+Ti1 	6 	5 	1 	4 	1 	men 	NNS
+Ti1 	6 	5 	1 	5 	1 	of 	IN
+Ti1 	6 	5 	1 	6 	1 	corrupt 	NN
+Ti1 	6 	5 	1 	7 	1 	minds 	NNS
+Ti1 	6 	5 	1 	8 	0 	,
+Ti1 	6 	5 	1 	9 	1 	and 	CC
+Ti1 	6 	5 	1 	10 	1 	destitute 	NN
+Ti1 	6 	5 	1 	11 	1 	of 	IN
+Ti1 	6 	5 	1 	12 	1 	the 	DT
+Ti1 	6 	5 	1 	13 	1 	truth 	NN
+Ti1 	6 	5 	1 	14 	0 	,
+Ti1 	6 	5 	1 	15 	1 	supposing 	VBG
+Ti1 	6 	5 	1 	16 	1 	that 	IN
+Ti1 	6 	5 	1 	17 	1 	gain 	NN
+Ti1 	6 	5 	1 	18 	1 	is 	VBZ
+Ti1 	6 	5 	1 	19 	1 	godliness 	NN
+Ti1 	6 	5 	1 	20 	0 	:
+Ti1 	6 	5 	1 	21 	1 	from 	IN
+Ti1 	6 	5 	1 	22 	1 	such 	JJ
+Ti1 	6 	5 	1 	23 	1 	withdraw 	NN
+Ti1 	6 	5 	1 	24 	1 	thyself 	NN
+Ti1 	6 	5 	1 	25 	0 	.
+Ti1 	6 	6 	1 	1 	1 	But 	CC
+Ti1 	6 	6 	1 	2 	1 	godliness 	NN
+Ti1 	6 	6 	1 	3 	1 	with 	IN
+Ti1 	6 	6 	1 	4 	1 	contentment 	NN
+Ti1 	6 	6 	1 	5 	1 	is 	VBZ
+Ti1 	6 	6 	1 	6 	1 	great 	JJ
+Ti1 	6 	6 	1 	7 	1 	gain 	NN
+Ti1 	6 	6 	1 	8 	0 	.
+Ti1 	6 	7 	1 	1 	1 	For 	IN
+Ti1 	6 	7 	1 	2 	1 	we 	PRP
+Ti1 	6 	7 	1 	3 	1 	brought 	NN
+Ti1 	6 	7 	1 	4 	1 	nothing 	NN
+Ti1 	6 	7 	1 	5 	1 	into 	IN
+Ti1 	6 	7 	1 	6 	1 	this 	DT
+Ti1 	6 	7 	1 	7 	1 	world 	NN
+Ti1 	6 	7 	1 	8 	0 	,
+Ti1 	6 	7 	1 	9 	1 	and 	CC
+Ti1 	6 	7 	1 	10 	1 	it 	PRP
+Ti1 	6 	7 	1 	11 	1 	is 	VBZ
+Ti1 	6 	7 	1 	12 	1 	certain 	JJ
+Ti1 	6 	7 	1 	13 	1 	we 	PRP
+Ti1 	6 	7 	1 	14 	1 	can 	MD
+Ti1 	6 	7 	1 	15 	1 	carry 	NN
+Ti1 	6 	7 	1 	16 	1 	nothing 	NN
+Ti1 	6 	7 	1 	17 	1 	out 	IN
+Ti1 	6 	7 	1 	18 	0 	.
+Ti1 	6 	8 	1 	1 	1 	And 	CC
+Ti1 	6 	8 	1 	2 	1 	having 	VBG
+Ti1 	6 	8 	1 	3 	1 	food 	NN
+Ti1 	6 	8 	1 	4 	1 	and 	CC
+Ti1 	6 	8 	1 	5 	1 	raiment 	NN
+Ti1 	6 	8 	1 	6 	1 	let 	VB
+Ti1 	6 	8 	1 	7 	1 	us 	PRP
+Ti1 	6 	8 	1 	8 	1 	be 	VB
+Ti1 	6 	8 	1 	9 	1 	therewith 	NN
+Ti1 	6 	8 	1 	10 	1 	content 	NN
+Ti1 	6 	8 	1 	11 	0 	.
+Ti1 	6 	9 	1 	1 	1 	But 	CC
+Ti1 	6 	9 	1 	2 	1 	they 	PRP
+Ti1 	6 	9 	1 	3 	1 	that 	IN
+Ti1 	6 	9 	1 	4 	1 	will 	MD
+Ti1 	6 	9 	1 	5 	1 	be 	VB
+Ti1 	6 	9 	1 	6 	1 	rich 	JJ
+Ti1 	6 	9 	1 	7 	1 	fall 	NN
+Ti1 	6 	9 	1 	8 	1 	into 	IN
+Ti1 	6 	9 	1 	9 	1 	temptation 	NN
+Ti1 	6 	9 	1 	10 	1 	and 	CC
+Ti1 	6 	9 	1 	11 	1 	a 	DT
+Ti1 	6 	9 	1 	12 	1 	snare 	NN
+Ti1 	6 	9 	1 	13 	0 	,
+Ti1 	6 	9 	1 	14 	1 	and 	CC
+Ti1 	6 	9 	1 	15 	1 	into 	IN
+Ti1 	6 	9 	1 	16 	1 	many 	JJ
+Ti1 	6 	9 	1 	17 	1 	foolish 	JJ
+Ti1 	6 	9 	1 	18 	1 	and 	CC
+Ti1 	6 	9 	1 	19 	1 	hurtful 	NN
+Ti1 	6 	9 	1 	20 	1 	lusts 	NNS
+Ti1 	6 	9 	1 	21 	0 	,
+Ti1 	6 	9 	1 	22 	1 	which 	WDT
+Ti1 	6 	9 	1 	23 	1 	drown 	NN
+Ti1 	6 	9 	1 	24 	1 	men 	NNS
+Ti1 	6 	9 	1 	25 	1 	in 	IN
+Ti1 	6 	9 	1 	26 	1 	destruction 	NN
+Ti1 	6 	9 	1 	27 	1 	and 	CC
+Ti1 	6 	9 	1 	28 	1 	perdition 	NN
+Ti1 	6 	9 	1 	29 	0 	.
+Ti1 	6 	10 	1 	1 	1 	For 	IN
+Ti1 	6 	10 	1 	2 	1 	the 	DT
+Ti1 	6 	10 	1 	3 	1 	love 	NN
+Ti1 	6 	10 	1 	4 	1 	of 	IN
+Ti1 	6 	10 	1 	5 	1 	money 	NN
+Ti1 	6 	10 	1 	6 	1 	is 	VBZ
+Ti1 	6 	10 	1 	7 	1 	the 	DT
+Ti1 	6 	10 	1 	8 	1 	root 	NN
+Ti1 	6 	10 	1 	9 	1 	of 	IN
+Ti1 	6 	10 	1 	10 	1 	all 	DT
+Ti1 	6 	10 	1 	11 	1 	evil 	NN
+Ti1 	6 	10 	1 	12 	0 	:
+Ti1 	6 	10 	1 	13 	1 	which 	WDT
+Ti1 	6 	10 	1 	14 	1 	while 	IN
+Ti1 	6 	10 	1 	15 	1 	some 	DT
+Ti1 	6 	10 	1 	16 	1 	coveted 	VBN
+Ti1 	6 	10 	1 	17 	1 	after 	IN
+Ti1 	6 	10 	1 	18 	0 	,
+Ti1 	6 	10 	1 	19 	1 	they 	PRP
+Ti1 	6 	10 	1 	20 	1 	have 	VB
+Ti1 	6 	10 	1 	21 	1 	erred 	VBN
+Ti1 	6 	10 	1 	22 	1 	from 	IN
+Ti1 	6 	10 	1 	23 	1 	the 	DT
+Ti1 	6 	10 	1 	24 	1 	faith 	NN
+Ti1 	6 	10 	1 	25 	0 	,
+Ti1 	6 	10 	1 	26 	1 	and 	CC
+Ti1 	6 	10 	1 	27 	1 	pierced 	VBN
+Ti1 	6 	10 	1 	28 	1 	themselves 	PRP
+Ti1 	6 	10 	1 	29 	1 	through 	IN
+Ti1 	6 	10 	1 	30 	1 	with 	IN
+Ti1 	6 	10 	1 	31 	1 	many 	JJ
+Ti1 	6 	10 	1 	32 	1 	sorrows 	NNS
+Ti1 	6 	10 	1 	33 	0 	.
+Ti1 	6 	11 	1 	1 	1 	But 	CC
+Ti1 	6 	11 	1 	2 	1 	thou 	NN
+Ti1 	6 	11 	1 	3 	0 	,
+Ti1 	6 	11 	1 	4 	1 	O 	NN
+Ti1 	6 	11 	1 	5 	1 	man 	NN
+Ti1 	6 	11 	1 	6 	1 	of 	IN
+Ti1 	6 	11 	1 	7 	1 	God 	NNP
+Ti1 	6 	11 	1 	8 	0 	,
+Ti1 	6 	11 	1 	9 	1 	flee 	NN
+Ti1 	6 	11 	1 	10 	1 	these 	DT
+Ti1 	6 	11 	1 	11 	1 	things 	NNS
+Ti1 	6 	11 	1 	12 	0 	;
+Ti1 	6 	11 	1 	13 	1 	and 	CC
+Ti1 	6 	11 	1 	14 	1 	follow 	VB
+Ti1 	6 	11 	1 	15 	1 	after 	IN
+Ti1 	6 	11 	1 	16 	1 	righteousness 	NN
+Ti1 	6 	11 	1 	17 	0 	,
+Ti1 	6 	11 	1 	18 	1 	godliness 	NN
+Ti1 	6 	11 	1 	19 	0 	,
+Ti1 	6 	11 	1 	20 	1 	faith 	NN
+Ti1 	6 	11 	1 	21 	0 	,
+Ti1 	6 	11 	1 	22 	1 	love 	NN
+Ti1 	6 	11 	1 	23 	0 	,
+Ti1 	6 	11 	1 	24 	1 	patience 	NN
+Ti1 	6 	11 	1 	25 	0 	,
+Ti1 	6 	11 	1 	26 	1 	meekness 	NN
+Ti1 	6 	11 	1 	27 	0 	.
+Ti1 	6 	12 	1 	1 	1 	Fight 	NN
+Ti1 	6 	12 	1 	2 	1 	the 	DT
+Ti1 	6 	12 	1 	3 	1 	good 	JJ
+Ti1 	6 	12 	1 	4 	1 	fight 	NN
+Ti1 	6 	12 	1 	5 	1 	of 	IN
+Ti1 	6 	12 	1 	6 	1 	faith 	NN
+Ti1 	6 	12 	1 	7 	0 	,
+Ti1 	6 	12 	1 	8 	1 	lay 	NN
+Ti1 	6 	12 	1 	9 	1 	hold 	NN
+Ti1 	6 	12 	1 	10 	1 	on 	IN
+Ti1 	6 	12 	1 	11 	1 	eternal 	JJ
+Ti1 	6 	12 	1 	12 	1 	life 	NN
+Ti1 	6 	12 	1 	13 	0 	,
+Ti1 	6 	12 	1 	14 	1 	whereunto 	NN
+Ti1 	6 	12 	1 	15 	1 	thou 	NN
+Ti1 	6 	12 	1 	16 	1 	art 	NN
+Ti1 	6 	12 	1 	17 	1 	also 	RB
+Ti1 	6 	12 	1 	18 	1 	called 	VBN
+Ti1 	6 	12 	1 	19 	0 	,
+Ti1 	6 	12 	1 	20 	1 	and 	CC
+Ti1 	6 	12 	1 	21 	1 	hast 	NN
+Ti1 	6 	12 	1 	22 	1 	professed 	VBN
+Ti1 	6 	12 	1 	23 	1 	a 	DT
+Ti1 	6 	12 	1 	24 	1 	good 	JJ
+Ti1 	6 	12 	1 	25 	1 	profession 	NN
+Ti1 	6 	12 	1 	26 	1 	before 	IN
+Ti1 	6 	12 	1 	27 	1 	many 	JJ
+Ti1 	6 	12 	1 	28 	1 	witnesses 	NNS
+Ti1 	6 	12 	1 	29 	0 	.
+Ti1 	6 	13 	1 	1 	1 	I 	PRP
+Ti1 	6 	13 	1 	2 	1 	give 	VB
+Ti1 	6 	13 	1 	3 	1 	thee 	NN
+Ti1 	6 	13 	1 	4 	1 	charge 	NN
+Ti1 	6 	13 	1 	5 	1 	in 	IN
+Ti1 	6 	13 	1 	6 	1 	the 	DT
+Ti1 	6 	13 	1 	7 	1 	sight 	NN
+Ti1 	6 	13 	1 	8 	1 	of 	IN
+Ti1 	6 	13 	1 	9 	1 	God 	NNP
+Ti1 	6 	13 	1 	10 	0 	,
+Ti1 	6 	13 	1 	11 	1 	who 	WP
+Ti1 	6 	13 	1 	12 	1 	quickeneth 	NNS
+Ti1 	6 	13 	1 	13 	1 	all 	DT
+Ti1 	6 	13 	1 	14 	1 	things 	NNS
+Ti1 	6 	13 	1 	15 	0 	,
+Ti1 	6 	13 	1 	16 	1 	and 	CC
+Ti1 	6 	13 	1 	17 	1 	before 	IN
+Ti1 	6 	13 	1 	18 	1 	Christ 	NN
+Ti1 	6 	13 	1 	19 	1 	Jesus 	NN
+Ti1 	6 	13 	1 	20 	0 	,
+Ti1 	6 	13 	1 	21 	1 	who 	WP
+Ti1 	6 	13 	1 	22 	1 	before 	IN
+Ti1 	6 	13 	1 	23 	1 	Pontius 	NN
+Ti1 	6 	13 	1 	24 	1 	Pilate 	NN
+Ti1 	6 	13 	1 	25 	1 	witnessed 	VBN
+Ti1 	6 	13 	1 	26 	1 	a 	DT
+Ti1 	6 	13 	1 	27 	1 	good 	JJ
+Ti1 	6 	13 	1 	28 	1 	confession 	NN
+Ti1 	6 	13 	1 	29 	0 	;
+Ti1 	6 	14 	1 	1 	1 	hat 	NN
+Ti1 	6 	14 	1 	2 	1 	thou 	NN
+Ti1 	6 	14 	1 	3 	1 	keep 	VB
+Ti1 	6 	14 	1 	4 	1 	this 	DT
+Ti1 	6 	14 	1 	5 	1 	commandment 	NN
+Ti1 	6 	14 	1 	6 	1 	without 	IN
+Ti1 	6 	14 	1 	7 	1 	spot 	NN
+Ti1 	6 	14 	1 	8 	0 	,
+Ti1 	6 	14 	1 	9 	1 	unrebukable 	JJ
+Ti1 	6 	14 	1 	10 	0 	,
+Ti1 	6 	14 	1 	11 	1 	until 	IN
+Ti1 	6 	14 	1 	12 	1 	the 	DT
+Ti1 	6 	14 	1 	13 	1 	appearing 	VBG
+Ti1 	6 	14 	1 	14 	1 	of 	IN
+Ti1 	6 	14 	1 	15 	1 	our 	PRP$
+Ti1 	6 	14 	1 	16 	1 	Lord 	NN
+Ti1 	6 	14 	1 	17 	1 	Jesus 	NN
+Ti1 	6 	14 	1 	18 	1 	Christ 	NN
+Ti1 	6 	14 	1 	19 	0 	:
+Ti1 	6 	15 	1 	1 	1 	Which 	WDT
+Ti1 	6 	15 	1 	2 	1 	in 	IN
+Ti1 	6 	15 	1 	3 	1 	his 	PRP$
+Ti1 	6 	15 	1 	4 	1 	times 	NNS
+Ti1 	6 	15 	1 	5 	1 	he 	PRP
+Ti1 	6 	15 	1 	6 	1 	shall 	MD
+Ti1 	6 	15 	1 	7 	1 	shew 	NN
+Ti1 	6 	15 	1 	8 	0 	,
+Ti1 	6 	15 	1 	9 	1 	who 	WP
+Ti1 	6 	15 	1 	10 	1 	is 	VBZ
+Ti1 	6 	15 	1 	11 	1 	the 	DT
+Ti1 	6 	15 	1 	12 	1 	blessed 	VBN
+Ti1 	6 	15 	1 	13 	1 	and 	CC
+Ti1 	6 	15 	1 	14 	1 	only 	RB
+Ti1 	6 	15 	1 	15 	1 	Potentate 	NN
+Ti1 	6 	15 	1 	16 	0 	,
+Ti1 	6 	15 	1 	17 	1 	the 	DT
+Ti1 	6 	15 	1 	18 	1 	King 	VBG
+Ti1 	6 	15 	1 	19 	1 	of 	IN
+Ti1 	6 	15 	1 	20 	1 	kings 	NNS
+Ti1 	6 	15 	1 	21 	0 	,
+Ti1 	6 	15 	1 	22 	1 	and 	CC
+Ti1 	6 	15 	1 	23 	1 	Lord 	NN
+Ti1 	6 	15 	1 	24 	1 	of 	IN
+Ti1 	6 	15 	1 	25 	1 	lords 	NNS
+Ti1 	6 	15 	1 	26 	0 	;
+Ti1 	6 	16 	1 	1 	1 	Who 	WP
+Ti1 	6 	16 	1 	2 	1 	only 	RB
+Ti1 	6 	16 	1 	3 	1 	hath 	NN
+Ti1 	6 	16 	1 	4 	1 	immortality 	NN
+Ti1 	6 	16 	1 	5 	0 	,
+Ti1 	6 	16 	1 	6 	1 	dwelling 	VBG
+Ti1 	6 	16 	1 	7 	1 	in 	IN
+Ti1 	6 	16 	1 	8 	1 	the 	DT
+Ti1 	6 	16 	1 	9 	1 	light 	NN
+Ti1 	6 	16 	1 	10 	1 	which 	WDT
+Ti1 	6 	16 	1 	11 	1 	no 	DT
+Ti1 	6 	16 	1 	12 	1 	man 	NN
+Ti1 	6 	16 	1 	13 	1 	can 	MD
+Ti1 	6 	16 	1 	14 	1 	approach 	NN
+Ti1 	6 	16 	1 	15 	1 	unto 	NN
+Ti1 	6 	16 	1 	16 	0 	;
+Ti1 	6 	16 	1 	17 	1 	whom 	WP
+Ti1 	6 	16 	1 	18 	1 	no 	DT
+Ti1 	6 	16 	1 	19 	1 	man 	NN
+Ti1 	6 	16 	1 	20 	1 	hath 	NN
+Ti1 	6 	16 	1 	21 	1 	seen 	VBN
+Ti1 	6 	16 	1 	22 	0 	,
+Ti1 	6 	16 	1 	23 	1 	nor 	CC
+Ti1 	6 	16 	1 	24 	1 	can 	MD
+Ti1 	6 	16 	1 	25 	1 	see 	VB
+Ti1 	6 	16 	1 	26 	0 	:
+Ti1 	6 	16 	1 	27 	1 	to 	TO
+Ti1 	6 	16 	1 	28 	1 	whom 	WP
+Ti1 	6 	16 	1 	29 	1 	be 	VB
+Ti1 	6 	16 	1 	30 	1 	honour 	NN
+Ti1 	6 	16 	1 	31 	1 	and 	CC
+Ti1 	6 	16 	1 	32 	1 	power 	NN
+Ti1 	6 	16 	1 	33 	1 	everlasting 	VBG
+Ti1 	6 	16 	1 	34 	0 	.
+Ti1 	6 	16 	2 	1 	1 	Amen 	NNS
+Ti1 	6 	16 	2 	2 	0 	.
+Ti1 	6 	17 	1 	1 	1 	Charge 	NN
+Ti1 	6 	17 	1 	2 	1 	them 	PRP
+Ti1 	6 	17 	1 	3 	1 	that 	IN
+Ti1 	6 	17 	1 	4 	1 	are 	VBP
+Ti1 	6 	17 	1 	5 	1 	rich 	JJ
+Ti1 	6 	17 	1 	6 	1 	in 	IN
+Ti1 	6 	17 	1 	7 	1 	this 	DT
+Ti1 	6 	17 	1 	8 	1 	world 	NN
+Ti1 	6 	17 	1 	9 	0 	,
+Ti1 	6 	17 	1 	10 	1 	that 	IN
+Ti1 	6 	17 	1 	11 	1 	they 	PRP
+Ti1 	6 	17 	1 	12 	1 	be 	VB
+Ti1 	6 	17 	1 	13 	1 	not 	RB
+Ti1 	6 	17 	1 	14 	1 	highminded 	VBD
+Ti1 	6 	17 	1 	15 	0 	,
+Ti1 	6 	17 	1 	16 	1 	nor 	CC
+Ti1 	6 	17 	1 	17 	1 	trust 	NN
+Ti1 	6 	17 	1 	18 	1 	in 	IN
+Ti1 	6 	17 	1 	19 	1 	uncertain 	JJ
+Ti1 	6 	17 	1 	20 	1 	riches 	NNS
+Ti1 	6 	17 	1 	21 	0 	,
+Ti1 	6 	17 	1 	22 	1 	but 	CC
+Ti1 	6 	17 	1 	23 	1 	in 	IN
+Ti1 	6 	17 	1 	24 	1 	the 	DT
+Ti1 	6 	17 	1 	25 	1 	living 	NN
+Ti1 	6 	17 	1 	26 	1 	God 	NNP
+Ti1 	6 	17 	1 	27 	0 	,
+Ti1 	6 	17 	1 	28 	1 	who 	WP
+Ti1 	6 	17 	1 	29 	1 	giveth 	NNS
+Ti1 	6 	17 	1 	30 	1 	us 	PRP
+Ti1 	6 	17 	1 	31 	1 	richly 	RB
+Ti1 	6 	17 	1 	32 	1 	all 	DT
+Ti1 	6 	17 	1 	33 	1 	things 	NNS
+Ti1 	6 	17 	1 	34 	1 	to 	TO
+Ti1 	6 	17 	1 	35 	1 	enjoy 	NN
+Ti1 	6 	17 	1 	36 	0 	;
+Ti1 	6 	18 	1 	1 	1 	hat 	NN
+Ti1 	6 	18 	1 	2 	1 	they 	PRP
+Ti1 	6 	18 	1 	3 	1 	do 	VB
+Ti1 	6 	18 	1 	4 	1 	good 	JJ
+Ti1 	6 	18 	1 	5 	0 	,
+Ti1 	6 	18 	1 	6 	1 	that 	IN
+Ti1 	6 	18 	1 	7 	1 	they 	PRP
+Ti1 	6 	18 	1 	8 	1 	be 	VB
+Ti1 	6 	18 	1 	9 	1 	rich 	JJ
+Ti1 	6 	18 	1 	10 	1 	in 	IN
+Ti1 	6 	18 	1 	11 	1 	good 	JJ
+Ti1 	6 	18 	1 	12 	1 	works 	NNS
+Ti1 	6 	18 	1 	13 	0 	,
+Ti1 	6 	18 	1 	14 	1 	ready 	JJ
+Ti1 	6 	18 	1 	15 	1 	to 	TO
+Ti1 	6 	18 	1 	16 	1 	distribute 	NN
+Ti1 	6 	18 	1 	17 	0 	,
+Ti1 	6 	18 	1 	18 	1 	willing 	JJ
+Ti1 	6 	18 	1 	19 	1 	to 	TO
+Ti1 	6 	18 	1 	20 	1 	communicate 	NN
+Ti1 	6 	18 	1 	21 	0 	;
+Ti1 	6 	19 	1 	1 	1 	Laying 	VBG
+Ti1 	6 	19 	1 	2 	1 	up 	RB
+Ti1 	6 	19 	1 	3 	1 	in 	IN
+Ti1 	6 	19 	1 	4 	1 	store 	NN
+Ti1 	6 	19 	1 	5 	1 	for 	IN
+Ti1 	6 	19 	1 	6 	1 	themselves 	PRP
+Ti1 	6 	19 	1 	7 	1 	a 	DT
+Ti1 	6 	19 	1 	8 	1 	good 	JJ
+Ti1 	6 	19 	1 	9 	1 	foundation 	NN
+Ti1 	6 	19 	1 	10 	1 	against 	IN
+Ti1 	6 	19 	1 	11 	1 	the 	DT
+Ti1 	6 	19 	1 	12 	1 	time 	NN
+Ti1 	6 	19 	1 	13 	1 	to 	TO
+Ti1 	6 	19 	1 	14 	1 	come 	VB
+Ti1 	6 	19 	1 	15 	0 	,
+Ti1 	6 	19 	1 	16 	1 	that 	IN
+Ti1 	6 	19 	1 	17 	1 	they 	PRP
+Ti1 	6 	19 	1 	18 	1 	may 	MD
+Ti1 	6 	19 	1 	19 	1 	lay 	NN
+Ti1 	6 	19 	1 	20 	1 	hold 	NN
+Ti1 	6 	19 	1 	21 	1 	on 	IN
+Ti1 	6 	19 	1 	22 	1 	eternal 	JJ
+Ti1 	6 	19 	1 	23 	1 	life 	NN
+Ti1 	6 	19 	1 	24 	0 	.
+Ti1 	6 	20 	1 	1 	1 	O 	NN
+Ti1 	6 	20 	1 	2 	1 	Timothy 	NN
+Ti1 	6 	20 	1 	3 	0 	,
+Ti1 	6 	20 	1 	4 	1 	keep 	VB
+Ti1 	6 	20 	1 	5 	1 	that 	IN
+Ti1 	6 	20 	1 	6 	1 	which 	WDT
+Ti1 	6 	20 	1 	7 	1 	is 	VBZ
+Ti1 	6 	20 	1 	8 	1 	committed 	VBN
+Ti1 	6 	20 	1 	9 	1 	to 	TO
+Ti1 	6 	20 	1 	10 	1 	thy 	NN
+Ti1 	6 	20 	1 	11 	1 	trust 	NN
+Ti1 	6 	20 	1 	12 	0 	,
+Ti1 	6 	20 	1 	13 	1 	avoiding 	VBG
+Ti1 	6 	20 	1 	14 	1 	profane 	NN
+Ti1 	6 	20 	1 	15 	1 	and 	CC
+Ti1 	6 	20 	1 	16 	1 	vain 	NN
+Ti1 	6 	20 	1 	17 	1 	babblings 	NNS
+Ti1 	6 	20 	1 	18 	0 	,
+Ti1 	6 	20 	1 	19 	1 	and 	CC
+Ti1 	6 	20 	1 	20 	1 	oppositions 	NNS
+Ti1 	6 	20 	1 	21 	1 	of 	IN
+Ti1 	6 	20 	1 	22 	1 	science 	NN
+Ti1 	6 	20 	1 	23 	1 	falsely 	RB
+Ti1 	6 	20 	1 	24 	1 	so 	RB
+Ti1 	6 	20 	1 	25 	1 	called 	VBN
+Ti1 	6 	20 	1 	26 	0 	:
+Ti1 	6 	21 	1 	1 	1 	Which 	WDT
+Ti1 	6 	21 	1 	2 	1 	some 	DT
+Ti1 	6 	21 	1 	3 	1 	professing 	VBG
+Ti1 	6 	21 	1 	4 	1 	have 	VB
+Ti1 	6 	21 	1 	5 	1 	erred 	VBN
+Ti1 	6 	21 	1 	6 	1 	concerning 	VBG
+Ti1 	6 	21 	1 	7 	1 	the 	DT
+Ti1 	6 	21 	1 	8 	1 	faith 	NN
+Ti1 	6 	21 	1 	9 	0 	.
+Ti1 	6 	21 	2 	1 	1 	Grace 	NN
+Ti1 	6 	21 	2 	2 	1 	be 	VB
+Ti1 	6 	21 	2 	3 	1 	with 	IN
+Ti1 	6 	21 	2 	4 	1 	thee 	NN
+Ti1 	6 	21 	2 	5 	0 	.
+Ti1 	6 	21 	3 	1 	1 	Amen 	NNS
+Ti1 	6 	21 	3 	2 	0 	.

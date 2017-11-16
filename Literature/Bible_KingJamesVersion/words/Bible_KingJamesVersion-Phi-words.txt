@@ -1,0 +1,2530 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Phi 	1 	1 	1 	1 	1 	aul 	NN
+Phi 	1 	1 	1 	2 	1 	and 	CC
+Phi 	1 	1 	1 	3 	1 	Timotheus 	NN
+Phi 	1 	1 	1 	4 	0 	,
+Phi 	1 	1 	1 	5 	1 	the 	DT
+Phi 	1 	1 	1 	6 	1 	servants 	NNS
+Phi 	1 	1 	1 	7 	1 	of 	IN
+Phi 	1 	1 	1 	8 	1 	Jesus 	NN
+Phi 	1 	1 	1 	9 	1 	Christ 	NN
+Phi 	1 	1 	1 	10 	0 	,
+Phi 	1 	1 	1 	11 	1 	to 	TO
+Phi 	1 	1 	1 	12 	1 	all 	DT
+Phi 	1 	1 	1 	13 	1 	the 	DT
+Phi 	1 	1 	1 	14 	1 	saints 	NNS
+Phi 	1 	1 	1 	15 	1 	in 	IN
+Phi 	1 	1 	1 	16 	1 	Christ 	NN
+Phi 	1 	1 	1 	17 	1 	Jesus 	NN
+Phi 	1 	1 	1 	18 	1 	which 	WDT
+Phi 	1 	1 	1 	19 	1 	are 	VBP
+Phi 	1 	1 	1 	20 	1 	at 	IN
+Phi 	1 	1 	1 	21 	1 	Philippi 	NN
+Phi 	1 	1 	1 	22 	0 	,
+Phi 	1 	1 	1 	23 	1 	with 	IN
+Phi 	1 	1 	1 	24 	1 	the 	DT
+Phi 	1 	1 	1 	25 	1 	bishops 	NNS
+Phi 	1 	1 	1 	26 	1 	and 	CC
+Phi 	1 	1 	1 	27 	1 	deacons 	NNS
+Phi 	1 	1 	1 	28 	0 	:
+Phi 	1 	2 	1 	1 	1 	Grace 	NN
+Phi 	1 	2 	1 	2 	1 	be 	VB
+Phi 	1 	2 	1 	3 	1 	unto 	NN
+Phi 	1 	2 	1 	4 	1 	you 	PRP
+Phi 	1 	2 	1 	5 	0 	,
+Phi 	1 	2 	1 	6 	1 	and 	CC
+Phi 	1 	2 	1 	7 	1 	peace 	NN
+Phi 	1 	2 	1 	8 	0 	,
+Phi 	1 	2 	1 	9 	1 	from 	IN
+Phi 	1 	2 	1 	10 	1 	God 	NNP
+Phi 	1 	2 	1 	11 	1 	our 	PRP$
+Phi 	1 	2 	1 	12 	1 	Father 	NN
+Phi 	1 	2 	1 	13 	0 	,
+Phi 	1 	2 	1 	14 	1 	and 	CC
+Phi 	1 	2 	1 	15 	1 	from 	IN
+Phi 	1 	2 	1 	16 	1 	the 	DT
+Phi 	1 	2 	1 	17 	1 	Lord 	NN
+Phi 	1 	2 	1 	18 	1 	Jesus 	NN
+Phi 	1 	2 	1 	19 	1 	Christ 	NN
+Phi 	1 	2 	1 	20 	0 	.
+Phi 	1 	3 	1 	1 	1 	I 	PRP
+Phi 	1 	3 	1 	2 	1 	thank 	NN
+Phi 	1 	3 	1 	3 	1 	my 	PRP$
+Phi 	1 	3 	1 	4 	1 	God 	NNP
+Phi 	1 	3 	1 	5 	1 	upon 	IN
+Phi 	1 	3 	1 	6 	1 	every 	DT
+Phi 	1 	3 	1 	7 	1 	remembrance 	NN
+Phi 	1 	3 	1 	8 	1 	of 	IN
+Phi 	1 	3 	1 	9 	1 	you 	PRP
+Phi 	1 	3 	1 	10 	0 	,
+Phi 	1 	4 	1 	1 	1 	Always 	NNS
+Phi 	1 	4 	1 	2 	1 	in 	IN
+Phi 	1 	4 	1 	3 	1 	every 	DT
+Phi 	1 	4 	1 	4 	1 	prayer 	NN
+Phi 	1 	4 	1 	5 	1 	of 	IN
+Phi 	1 	4 	1 	6 	1 	mine 	NN
+Phi 	1 	4 	1 	7 	1 	for 	IN
+Phi 	1 	4 	1 	8 	1 	you 	PRP
+Phi 	1 	4 	1 	9 	1 	all 	DT
+Phi 	1 	4 	1 	10 	1 	making 	VBG
+Phi 	1 	4 	1 	11 	1 	request 	NN
+Phi 	1 	4 	1 	12 	1 	with 	IN
+Phi 	1 	4 	1 	13 	1 	joy 	NN
+Phi 	1 	4 	1 	14 	0 	,
+Phi 	1 	5 	1 	1 	1 	For 	IN
+Phi 	1 	5 	1 	2 	1 	your 	PRP$
+Phi 	1 	5 	1 	3 	1 	fellowship 	NN
+Phi 	1 	5 	1 	4 	1 	in 	IN
+Phi 	1 	5 	1 	5 	1 	the 	DT
+Phi 	1 	5 	1 	6 	1 	gospel 	NN
+Phi 	1 	5 	1 	7 	1 	from 	IN
+Phi 	1 	5 	1 	8 	1 	the 	DT
+Phi 	1 	5 	1 	9 	1 	first 	RB
+Phi 	1 	5 	1 	10 	1 	day 	NN
+Phi 	1 	5 	1 	11 	1 	until 	IN
+Phi 	1 	5 	1 	12 	1 	now 	RB
+Phi 	1 	5 	1 	13 	0 	;
+Phi 	1 	6 	1 	1 	1 	Being 	VBG
+Phi 	1 	6 	1 	2 	1 	confident 	NN
+Phi 	1 	6 	1 	3 	1 	of 	IN
+Phi 	1 	6 	1 	4 	1 	this 	DT
+Phi 	1 	6 	1 	5 	1 	very 	RB
+Phi 	1 	6 	1 	6 	1 	thing 	NN
+Phi 	1 	6 	1 	7 	0 	,
+Phi 	1 	6 	1 	8 	1 	that 	IN
+Phi 	1 	6 	1 	9 	1 	he 	PRP
+Phi 	1 	6 	1 	10 	1 	which 	WDT
+Phi 	1 	6 	1 	11 	1 	hath 	NN
+Phi 	1 	6 	1 	12 	1 	begun 	VBN
+Phi 	1 	6 	1 	13 	1 	a 	DT
+Phi 	1 	6 	1 	14 	1 	good 	JJ
+Phi 	1 	6 	1 	15 	1 	work 	NN
+Phi 	1 	6 	1 	16 	1 	in 	IN
+Phi 	1 	6 	1 	17 	1 	you 	PRP
+Phi 	1 	6 	1 	18 	1 	will 	MD
+Phi 	1 	6 	1 	19 	1 	perform 	NN
+Phi 	1 	6 	1 	20 	1 	it 	PRP
+Phi 	1 	6 	1 	21 	1 	until 	IN
+Phi 	1 	6 	1 	22 	1 	the 	DT
+Phi 	1 	6 	1 	23 	1 	day 	NN
+Phi 	1 	6 	1 	24 	1 	of 	IN
+Phi 	1 	6 	1 	25 	1 	Jesus 	NN
+Phi 	1 	6 	1 	26 	1 	Christ 	NN
+Phi 	1 	6 	1 	27 	0 	:
+Phi 	1 	7 	1 	1 	1 	Even 	RB
+Phi 	1 	7 	1 	2 	1 	as 	IN
+Phi 	1 	7 	1 	3 	1 	it 	PRP
+Phi 	1 	7 	1 	4 	1 	is 	VBZ
+Phi 	1 	7 	1 	5 	1 	meet 	NN
+Phi 	1 	7 	1 	6 	1 	for 	IN
+Phi 	1 	7 	1 	7 	1 	me 	PRP
+Phi 	1 	7 	1 	8 	1 	to 	TO
+Phi 	1 	7 	1 	9 	1 	think 	NN
+Phi 	1 	7 	1 	10 	1 	this 	DT
+Phi 	1 	7 	1 	11 	1 	of 	IN
+Phi 	1 	7 	1 	12 	1 	you 	PRP
+Phi 	1 	7 	1 	13 	1 	all 	DT
+Phi 	1 	7 	1 	14 	0 	,
+Phi 	1 	7 	1 	15 	1 	because 	IN
+Phi 	1 	7 	1 	16 	1 	I 	PRP
+Phi 	1 	7 	1 	17 	1 	have 	VB
+Phi 	1 	7 	1 	18 	1 	you 	PRP
+Phi 	1 	7 	1 	19 	1 	in 	IN
+Phi 	1 	7 	1 	20 	1 	my 	PRP$
+Phi 	1 	7 	1 	21 	1 	heart 	NN
+Phi 	1 	7 	1 	22 	0 	;
+Phi 	1 	7 	1 	23 	1 	inasmuch 	JJ
+Phi 	1 	7 	1 	24 	1 	as 	IN
+Phi 	1 	7 	1 	25 	1 	both 	DT
+Phi 	1 	7 	1 	26 	1 	in 	IN
+Phi 	1 	7 	1 	27 	1 	my 	PRP$
+Phi 	1 	7 	1 	28 	1 	bonds 	NNS
+Phi 	1 	7 	1 	29 	0 	,
+Phi 	1 	7 	1 	30 	1 	and 	CC
+Phi 	1 	7 	1 	31 	1 	in 	IN
+Phi 	1 	7 	1 	32 	1 	the 	DT
+Phi 	1 	7 	1 	33 	1 	defence 	NN
+Phi 	1 	7 	1 	34 	1 	and 	CC
+Phi 	1 	7 	1 	35 	1 	confirmation 	NN
+Phi 	1 	7 	1 	36 	1 	of 	IN
+Phi 	1 	7 	1 	37 	1 	the 	DT
+Phi 	1 	7 	1 	38 	1 	gospel 	NN
+Phi 	1 	7 	1 	39 	0 	,
+Phi 	1 	7 	1 	40 	1 	ye 	NN
+Phi 	1 	7 	1 	41 	1 	all 	DT
+Phi 	1 	7 	1 	42 	1 	are 	VBP
+Phi 	1 	7 	1 	43 	1 	partakers 	NNS
+Phi 	1 	7 	1 	44 	1 	of 	IN
+Phi 	1 	7 	1 	45 	1 	my 	PRP$
+Phi 	1 	7 	1 	46 	1 	grace 	NN
+Phi 	1 	7 	1 	47 	0 	.
+Phi 	1 	8 	1 	1 	1 	For 	IN
+Phi 	1 	8 	1 	2 	1 	God 	NNP
+Phi 	1 	8 	1 	3 	1 	is 	VBZ
+Phi 	1 	8 	1 	4 	1 	my 	PRP$
+Phi 	1 	8 	1 	5 	1 	record 	NN
+Phi 	1 	8 	1 	6 	0 	,
+Phi 	1 	8 	1 	7 	1 	how 	WRB
+Phi 	1 	8 	1 	8 	1 	greatly 	RB
+Phi 	1 	8 	1 	9 	1 	I 	PRP
+Phi 	1 	8 	1 	10 	1 	long 	RB
+Phi 	1 	8 	1 	11 	1 	after 	IN
+Phi 	1 	8 	1 	12 	1 	you 	PRP
+Phi 	1 	8 	1 	13 	1 	all 	DT
+Phi 	1 	8 	1 	14 	1 	in 	IN
+Phi 	1 	8 	1 	15 	1 	the 	DT
+Phi 	1 	8 	1 	16 	1 	bowels 	NNS
+Phi 	1 	8 	1 	17 	1 	of 	IN
+Phi 	1 	8 	1 	18 	1 	Jesus 	NN
+Phi 	1 	8 	1 	19 	1 	Christ 	NN
+Phi 	1 	8 	1 	20 	0 	.
+Phi 	1 	9 	1 	1 	1 	And 	CC
+Phi 	1 	9 	1 	2 	1 	this 	DT
+Phi 	1 	9 	1 	3 	1 	I 	PRP
+Phi 	1 	9 	1 	4 	1 	pray 	NN
+Phi 	1 	9 	1 	5 	0 	,
+Phi 	1 	9 	1 	6 	1 	that 	IN
+Phi 	1 	9 	1 	7 	1 	your 	PRP$
+Phi 	1 	9 	1 	8 	1 	love 	NN
+Phi 	1 	9 	1 	9 	1 	may 	MD
+Phi 	1 	9 	1 	10 	1 	abound 	NN
+Phi 	1 	9 	1 	11 	1 	yet 	RB
+Phi 	1 	9 	1 	12 	1 	more 	RBR
+Phi 	1 	9 	1 	13 	1 	and 	CC
+Phi 	1 	9 	1 	14 	1 	more 	RBR
+Phi 	1 	9 	1 	15 	1 	in 	IN
+Phi 	1 	9 	1 	16 	1 	knowledge 	NN
+Phi 	1 	9 	1 	17 	1 	and 	CC
+Phi 	1 	9 	1 	18 	1 	in 	IN
+Phi 	1 	9 	1 	19 	1 	all 	DT
+Phi 	1 	9 	1 	20 	1 	judgment 	NN
+Phi 	1 	9 	1 	21 	0 	;
+Phi 	1 	10 	1 	1 	1 	That 	DT
+Phi 	1 	10 	1 	2 	1 	ye 	NN
+Phi 	1 	10 	1 	3 	1 	may 	MD
+Phi 	1 	10 	1 	4 	1 	approve 	VB
+Phi 	1 	10 	1 	5 	1 	things 	NNS
+Phi 	1 	10 	1 	6 	1 	that 	IN
+Phi 	1 	10 	1 	7 	1 	are 	VBP
+Phi 	1 	10 	1 	8 	1 	excellent 	NN
+Phi 	1 	10 	1 	9 	0 	;
+Phi 	1 	10 	1 	10 	1 	that 	IN
+Phi 	1 	10 	1 	11 	1 	ye 	NN
+Phi 	1 	10 	1 	12 	1 	may 	MD
+Phi 	1 	10 	1 	13 	1 	be 	VB
+Phi 	1 	10 	1 	14 	1 	sincere 	RB
+Phi 	1 	10 	1 	15 	1 	and 	CC
+Phi 	1 	10 	1 	16 	1 	without 	IN
+Phi 	1 	10 	1 	17 	1 	offence 	NN
+Phi 	1 	10 	1 	18 	1 	till 	NN
+Phi 	1 	10 	1 	19 	1 	the 	DT
+Phi 	1 	10 	1 	20 	1 	day 	NN
+Phi 	1 	10 	1 	21 	1 	of 	IN
+Phi 	1 	10 	1 	22 	1 	Christ 	NN
+Phi 	1 	10 	1 	23 	0 	.
+Phi 	1 	11 	1 	1 	1 	Being 	VBG
+Phi 	1 	11 	1 	2 	1 	filled 	VBN
+Phi 	1 	11 	1 	3 	1 	with 	IN
+Phi 	1 	11 	1 	4 	1 	the 	DT
+Phi 	1 	11 	1 	5 	1 	fruits 	NNS
+Phi 	1 	11 	1 	6 	1 	of 	IN
+Phi 	1 	11 	1 	7 	1 	righteousness 	NN
+Phi 	1 	11 	1 	8 	0 	,
+Phi 	1 	11 	1 	9 	1 	which 	WDT
+Phi 	1 	11 	1 	10 	1 	are 	VBP
+Phi 	1 	11 	1 	11 	1 	by 	IN
+Phi 	1 	11 	1 	12 	1 	Jesus 	NN
+Phi 	1 	11 	1 	13 	1 	Christ 	NN
+Phi 	1 	11 	1 	14 	0 	,
+Phi 	1 	11 	1 	15 	1 	unto 	NN
+Phi 	1 	11 	1 	16 	1 	the 	DT
+Phi 	1 	11 	1 	17 	1 	glory 	NN
+Phi 	1 	11 	1 	18 	1 	and 	CC
+Phi 	1 	11 	1 	19 	1 	praise 	NN
+Phi 	1 	11 	1 	20 	1 	of 	IN
+Phi 	1 	11 	1 	21 	1 	God 	NNP
+Phi 	1 	11 	1 	22 	0 	.
+Phi 	1 	12 	1 	1 	1 	But 	CC
+Phi 	1 	12 	1 	2 	1 	I 	PRP
+Phi 	1 	12 	1 	3 	1 	would 	MD
+Phi 	1 	12 	1 	4 	1 	ye 	NN
+Phi 	1 	12 	1 	5 	1 	should 	MD
+Phi 	1 	12 	1 	6 	1 	understand 	NN
+Phi 	1 	12 	1 	7 	0 	,
+Phi 	1 	12 	1 	8 	1 	brethren 	NNS
+Phi 	1 	12 	1 	9 	0 	,
+Phi 	1 	12 	1 	10 	1 	that 	IN
+Phi 	1 	12 	1 	11 	1 	the 	DT
+Phi 	1 	12 	1 	12 	1 	things 	NNS
+Phi 	1 	12 	1 	13 	1 	which 	WDT
+Phi 	1 	12 	1 	14 	1 	happened 	VBD
+Phi 	1 	12 	1 	15 	1 	unto 	NN
+Phi 	1 	12 	1 	16 	1 	me 	PRP
+Phi 	1 	12 	1 	17 	1 	have 	VB
+Phi 	1 	12 	1 	18 	1 	fallen 	VBN
+Phi 	1 	12 	1 	19 	1 	out 	IN
+Phi 	1 	12 	1 	20 	1 	rather 	RB
+Phi 	1 	12 	1 	21 	1 	unto 	NN
+Phi 	1 	12 	1 	22 	1 	the 	DT
+Phi 	1 	12 	1 	23 	1 	furtherance 	NN
+Phi 	1 	12 	1 	24 	1 	of 	IN
+Phi 	1 	12 	1 	25 	1 	the 	DT
+Phi 	1 	12 	1 	26 	1 	gospel 	NN
+Phi 	1 	12 	1 	27 	0 	;
+Phi 	1 	13 	1 	1 	1 	So 	RB
+Phi 	1 	13 	1 	2 	1 	that 	IN
+Phi 	1 	13 	1 	3 	1 	my 	PRP$
+Phi 	1 	13 	1 	4 	1 	bonds 	NNS
+Phi 	1 	13 	1 	5 	1 	in 	IN
+Phi 	1 	13 	1 	6 	1 	Christ 	NN
+Phi 	1 	13 	1 	7 	1 	are 	VBP
+Phi 	1 	13 	1 	8 	1 	manifest 	JJS
+Phi 	1 	13 	1 	9 	1 	in 	IN
+Phi 	1 	13 	1 	10 	1 	all 	DT
+Phi 	1 	13 	1 	11 	1 	the 	DT
+Phi 	1 	13 	1 	12 	1 	palace 	NN
+Phi 	1 	13 	1 	13 	0 	,
+Phi 	1 	13 	1 	14 	1 	and 	CC
+Phi 	1 	13 	1 	15 	1 	in 	IN
+Phi 	1 	13 	1 	16 	1 	all 	DT
+Phi 	1 	13 	1 	17 	1 	other 	JJ
+Phi 	1 	13 	1 	18 	1 	places 	NNS
+Phi 	1 	13 	1 	19 	0 	;
+Phi 	1 	14 	1 	1 	1 	And 	CC
+Phi 	1 	14 	1 	2 	1 	many 	JJ
+Phi 	1 	14 	1 	3 	1 	of 	IN
+Phi 	1 	14 	1 	4 	1 	the 	DT
+Phi 	1 	14 	1 	5 	1 	brethren 	NNS
+Phi 	1 	14 	1 	6 	1 	in 	IN
+Phi 	1 	14 	1 	7 	1 	the 	DT
+Phi 	1 	14 	1 	8 	1 	Lord 	NN
+Phi 	1 	14 	1 	9 	0 	,
+Phi 	1 	14 	1 	10 	1 	waxing 	VBG
+Phi 	1 	14 	1 	11 	1 	confident 	NN
+Phi 	1 	14 	1 	12 	1 	by 	IN
+Phi 	1 	14 	1 	13 	1 	my 	PRP$
+Phi 	1 	14 	1 	14 	1 	bonds 	NNS
+Phi 	1 	14 	1 	15 	0 	,
+Phi 	1 	14 	1 	16 	1 	are 	VBP
+Phi 	1 	14 	1 	17 	1 	much 	JJ
+Phi 	1 	14 	1 	18 	1 	more 	RBR
+Phi 	1 	14 	1 	19 	1 	bold 	NN
+Phi 	1 	14 	1 	20 	1 	to 	TO
+Phi 	1 	14 	1 	21 	1 	speak 	NN
+Phi 	1 	14 	1 	22 	1 	the 	DT
+Phi 	1 	14 	1 	23 	1 	word 	NN
+Phi 	1 	14 	1 	24 	1 	without 	IN
+Phi 	1 	14 	1 	25 	1 	fear 	NN
+Phi 	1 	14 	1 	26 	0 	.
+Phi 	1 	15 	1 	1 	1 	Some 	DT
+Phi 	1 	15 	1 	2 	1 	indeed 	RB
+Phi 	1 	15 	1 	3 	1 	preach 	NN
+Phi 	1 	15 	1 	4 	1 	Christ 	NN
+Phi 	1 	15 	1 	5 	1 	even 	RB
+Phi 	1 	15 	1 	6 	1 	of 	IN
+Phi 	1 	15 	1 	7 	1 	envy 	NN
+Phi 	1 	15 	1 	8 	1 	and 	CC
+Phi 	1 	15 	1 	9 	1 	strife 	NN
+Phi 	1 	15 	1 	10 	0 	;
+Phi 	1 	15 	1 	11 	1 	and 	CC
+Phi 	1 	15 	1 	12 	1 	some 	DT
+Phi 	1 	15 	1 	13 	1 	also 	RB
+Phi 	1 	15 	1 	14 	1 	of 	IN
+Phi 	1 	15 	1 	15 	1 	good 	JJ
+Phi 	1 	15 	1 	16 	1 	will 	MD
+Phi 	1 	15 	1 	17 	0 	:
+Phi 	1 	16 	1 	1 	1 	The 	DT
+Phi 	1 	16 	1 	2 	1 	one 	CD
+Phi 	1 	16 	1 	3 	1 	preach 	NN
+Phi 	1 	16 	1 	4 	1 	Christ 	NN
+Phi 	1 	16 	1 	5 	1 	of 	IN
+Phi 	1 	16 	1 	6 	1 	contention 	NN
+Phi 	1 	16 	1 	7 	0 	,
+Phi 	1 	16 	1 	8 	1 	not 	RB
+Phi 	1 	16 	1 	9 	1 	sincerely 	RB
+Phi 	1 	16 	1 	10 	0 	,
+Phi 	1 	16 	1 	11 	1 	supposing 	VBG
+Phi 	1 	16 	1 	12 	1 	to 	TO
+Phi 	1 	16 	1 	13 	1 	add 	VB
+Phi 	1 	16 	1 	14 	1 	affliction 	NN
+Phi 	1 	16 	1 	15 	1 	to 	TO
+Phi 	1 	16 	1 	16 	1 	my 	PRP$
+Phi 	1 	16 	1 	17 	1 	bonds 	NNS
+Phi 	1 	16 	1 	18 	0 	:
+Phi 	1 	17 	1 	1 	1 	But 	CC
+Phi 	1 	17 	1 	2 	1 	the 	DT
+Phi 	1 	17 	1 	3 	1 	other 	JJ
+Phi 	1 	17 	1 	4 	1 	of 	IN
+Phi 	1 	17 	1 	5 	1 	love 	NN
+Phi 	1 	17 	1 	6 	0 	,
+Phi 	1 	17 	1 	7 	1 	knowing 	VBG
+Phi 	1 	17 	1 	8 	1 	that 	IN
+Phi 	1 	17 	1 	9 	1 	I 	PRP
+Phi 	1 	17 	1 	10 	1 	am 	VBP
+Phi 	1 	17 	1 	11 	1 	set 	NN
+Phi 	1 	17 	1 	12 	1 	for 	IN
+Phi 	1 	17 	1 	13 	1 	the 	DT
+Phi 	1 	17 	1 	14 	1 	defence 	NN
+Phi 	1 	17 	1 	15 	1 	of 	IN
+Phi 	1 	17 	1 	16 	1 	the 	DT
+Phi 	1 	17 	1 	17 	1 	gospel 	NN
+Phi 	1 	17 	1 	18 	0 	.
+Phi 	1 	18 	1 	1 	1 	What 	WP
+Phi 	1 	18 	1 	2 	1 	then 	RB
+Phi 	1 	18 	1 	3 	0 	?
+Phi 	1 	18 	2 	1 	1 	notwithstanding 	VBG
+Phi 	1 	18 	2 	2 	0 	,
+Phi 	1 	18 	2 	3 	1 	every 	DT
+Phi 	1 	18 	2 	4 	1 	way 	NN
+Phi 	1 	18 	2 	5 	0 	,
+Phi 	1 	18 	2 	6 	1 	whether 	IN
+Phi 	1 	18 	2 	7 	1 	in 	IN
+Phi 	1 	18 	2 	8 	1 	pretence 	NN
+Phi 	1 	18 	2 	9 	0 	,
+Phi 	1 	18 	2 	10 	1 	or 	CC
+Phi 	1 	18 	2 	11 	1 	in 	IN
+Phi 	1 	18 	2 	12 	1 	truth 	NN
+Phi 	1 	18 	2 	13 	0 	,
+Phi 	1 	18 	2 	14 	1 	Christ 	NN
+Phi 	1 	18 	2 	15 	1 	is 	VBZ
+Phi 	1 	18 	2 	16 	1 	preached 	VBN
+Phi 	1 	18 	2 	17 	0 	;
+Phi 	1 	18 	2 	18 	1 	and 	CC
+Phi 	1 	18 	2 	19 	1 	I 	PRP
+Phi 	1 	18 	2 	20 	1 	therein 	NN
+Phi 	1 	18 	2 	21 	1 	do 	VB
+Phi 	1 	18 	2 	22 	1 	rejoice 	NN
+Phi 	1 	18 	2 	23 	0 	,
+Phi 	1 	18 	2 	24 	1 	yea 	NN
+Phi 	1 	18 	2 	25 	0 	,
+Phi 	1 	18 	2 	26 	1 	and 	CC
+Phi 	1 	18 	2 	27 	1 	will 	MD
+Phi 	1 	18 	2 	28 	1 	rejoice 	NN
+Phi 	1 	18 	2 	29 	0 	.
+Phi 	1 	19 	1 	1 	1 	For 	IN
+Phi 	1 	19 	1 	2 	1 	I 	PRP
+Phi 	1 	19 	1 	3 	1 	know 	VB
+Phi 	1 	19 	1 	4 	1 	that 	IN
+Phi 	1 	19 	1 	5 	1 	this 	DT
+Phi 	1 	19 	1 	6 	1 	shall 	MD
+Phi 	1 	19 	1 	7 	1 	turn 	NN
+Phi 	1 	19 	1 	8 	1 	to 	TO
+Phi 	1 	19 	1 	9 	1 	my 	PRP$
+Phi 	1 	19 	1 	10 	1 	salvation 	NN
+Phi 	1 	19 	1 	11 	1 	through 	IN
+Phi 	1 	19 	1 	12 	1 	your 	PRP$
+Phi 	1 	19 	1 	13 	1 	prayer 	NN
+Phi 	1 	19 	1 	14 	0 	,
+Phi 	1 	19 	1 	15 	1 	and 	CC
+Phi 	1 	19 	1 	16 	1 	the 	DT
+Phi 	1 	19 	1 	17 	1 	supply 	NN
+Phi 	1 	19 	1 	18 	1 	of 	IN
+Phi 	1 	19 	1 	19 	1 	the 	DT
+Phi 	1 	19 	1 	20 	1 	Spirit 	NN
+Phi 	1 	19 	1 	21 	1 	of 	IN
+Phi 	1 	19 	1 	22 	1 	Jesus 	NN
+Phi 	1 	19 	1 	23 	1 	Christ 	NN
+Phi 	1 	19 	1 	24 	0 	,
+Phi 	1 	20 	1 	1 	1 	According 	VBG
+Phi 	1 	20 	1 	2 	1 	to 	TO
+Phi 	1 	20 	1 	3 	1 	my 	PRP$
+Phi 	1 	20 	1 	4 	1 	earnest 	NN
+Phi 	1 	20 	1 	5 	1 	expectation 	NN
+Phi 	1 	20 	1 	6 	1 	and 	CC
+Phi 	1 	20 	1 	7 	1 	my 	PRP$
+Phi 	1 	20 	1 	8 	1 	hope 	NN
+Phi 	1 	20 	1 	9 	0 	,
+Phi 	1 	20 	1 	10 	1 	that 	IN
+Phi 	1 	20 	1 	11 	1 	in 	IN
+Phi 	1 	20 	1 	12 	1 	nothing 	NN
+Phi 	1 	20 	1 	13 	1 	I 	PRP
+Phi 	1 	20 	1 	14 	1 	shall 	MD
+Phi 	1 	20 	1 	15 	1 	be 	VB
+Phi 	1 	20 	1 	16 	1 	ashamed 	VBN
+Phi 	1 	20 	1 	17 	0 	,
+Phi 	1 	20 	1 	18 	1 	but 	CC
+Phi 	1 	20 	1 	19 	1 	that 	IN
+Phi 	1 	20 	1 	20 	1 	with 	IN
+Phi 	1 	20 	1 	21 	1 	all 	DT
+Phi 	1 	20 	1 	22 	1 	boldness 	NN
+Phi 	1 	20 	1 	23 	0 	,
+Phi 	1 	20 	1 	24 	1 	as 	IN
+Phi 	1 	20 	1 	25 	1 	always 	RB
+Phi 	1 	20 	1 	26 	0 	,
+Phi 	1 	20 	1 	27 	1 	so 	RB
+Phi 	1 	20 	1 	28 	1 	now 	RB
+Phi 	1 	20 	1 	29 	1 	also 	RB
+Phi 	1 	20 	1 	30 	1 	Christ 	NN
+Phi 	1 	20 	1 	31 	1 	shall 	MD
+Phi 	1 	20 	1 	32 	1 	be 	VB
+Phi 	1 	20 	1 	33 	1 	magnified 	VBN
+Phi 	1 	20 	1 	34 	1 	in 	IN
+Phi 	1 	20 	1 	35 	1 	my 	PRP$
+Phi 	1 	20 	1 	36 	1 	body 	NN
+Phi 	1 	20 	1 	37 	0 	,
+Phi 	1 	20 	1 	38 	1 	whether 	IN
+Phi 	1 	20 	1 	39 	1 	it 	PRP
+Phi 	1 	20 	1 	40 	1 	be 	VB
+Phi 	1 	20 	1 	41 	1 	by 	IN
+Phi 	1 	20 	1 	42 	1 	life 	NN
+Phi 	1 	20 	1 	43 	0 	,
+Phi 	1 	20 	1 	44 	1 	or 	CC
+Phi 	1 	20 	1 	45 	1 	by 	IN
+Phi 	1 	20 	1 	46 	1 	death 	NN
+Phi 	1 	20 	1 	47 	0 	.
+Phi 	1 	21 	1 	1 	1 	For 	IN
+Phi 	1 	21 	1 	2 	1 	to 	TO
+Phi 	1 	21 	1 	3 	1 	me 	PRP
+Phi 	1 	21 	1 	4 	1 	to 	TO
+Phi 	1 	21 	1 	5 	1 	live 	JJ
+Phi 	1 	21 	1 	6 	1 	is 	VBZ
+Phi 	1 	21 	1 	7 	1 	Christ 	NN
+Phi 	1 	21 	1 	8 	0 	,
+Phi 	1 	21 	1 	9 	1 	and 	CC
+Phi 	1 	21 	1 	10 	1 	to 	TO
+Phi 	1 	21 	1 	11 	1 	die 	NN
+Phi 	1 	21 	1 	12 	1 	is 	VBZ
+Phi 	1 	21 	1 	13 	1 	gain 	NN
+Phi 	1 	21 	1 	14 	0 	.
+Phi 	1 	22 	1 	1 	1 	But 	CC
+Phi 	1 	22 	1 	2 	1 	if 	IN
+Phi 	1 	22 	1 	3 	1 	I 	PRP
+Phi 	1 	22 	1 	4 	1 	live 	JJ
+Phi 	1 	22 	1 	5 	1 	in 	IN
+Phi 	1 	22 	1 	6 	1 	the 	DT
+Phi 	1 	22 	1 	7 	1 	flesh 	NN
+Phi 	1 	22 	1 	8 	0 	,
+Phi 	1 	22 	1 	9 	1 	this 	DT
+Phi 	1 	22 	1 	10 	1 	is 	VBZ
+Phi 	1 	22 	1 	11 	1 	the 	DT
+Phi 	1 	22 	1 	12 	1 	fruit 	NN
+Phi 	1 	22 	1 	13 	1 	of 	IN
+Phi 	1 	22 	1 	14 	1 	my 	PRP$
+Phi 	1 	22 	1 	15 	1 	labour 	NN
+Phi 	1 	22 	1 	16 	0 	:
+Phi 	1 	22 	1 	17 	1 	yet 	RB
+Phi 	1 	22 	1 	18 	1 	what 	WP
+Phi 	1 	22 	1 	19 	1 	I 	PRP
+Phi 	1 	22 	1 	20 	1 	shall 	MD
+Phi 	1 	22 	1 	21 	1 	choose 	NN
+Phi 	1 	22 	1 	22 	1 	I 	PRP
+Phi 	1 	22 	1 	23 	1 	wot 	NN
+Phi 	1 	22 	1 	24 	1 	not 	RB
+Phi 	1 	22 	1 	25 	0 	.
+Phi 	1 	23 	1 	1 	1 	For 	IN
+Phi 	1 	23 	1 	2 	1 	I 	PRP
+Phi 	1 	23 	1 	3 	1 	am 	VBP
+Phi 	1 	23 	1 	4 	1 	in 	IN
+Phi 	1 	23 	1 	5 	1 	a 	DT
+Phi 	1 	23 	1 	6 	1 	strait 	NN
+Phi 	1 	23 	1 	7 	1 	betwixt 	NN
+Phi 	1 	23 	1 	8 	1 	two 	CD
+Phi 	1 	23 	1 	9 	0 	,
+Phi 	1 	23 	1 	10 	1 	having 	VBG
+Phi 	1 	23 	1 	11 	1 	a 	DT
+Phi 	1 	23 	1 	12 	1 	desire 	NN
+Phi 	1 	23 	1 	13 	1 	to 	TO
+Phi 	1 	23 	1 	14 	1 	depart 	NN
+Phi 	1 	23 	1 	15 	0 	,
+Phi 	1 	23 	1 	16 	1 	and 	CC
+Phi 	1 	23 	1 	17 	1 	to 	TO
+Phi 	1 	23 	1 	18 	1 	be 	VB
+Phi 	1 	23 	1 	19 	1 	with 	IN
+Phi 	1 	23 	1 	20 	1 	Christ 	NN
+Phi 	1 	23 	1 	21 	0 	;
+Phi 	1 	23 	1 	22 	1 	which 	WDT
+Phi 	1 	23 	1 	23 	1 	is 	VBZ
+Phi 	1 	23 	1 	24 	1 	far 	RB
+Phi 	1 	23 	1 	25 	1 	better 	RBR
+Phi 	1 	23 	1 	26 	0 	:
+Phi 	1 	24 	1 	1 	1 	Nevertheless 	RB
+Phi 	1 	24 	1 	2 	1 	to 	TO
+Phi 	1 	24 	1 	3 	1 	abide 	NN
+Phi 	1 	24 	1 	4 	1 	in 	IN
+Phi 	1 	24 	1 	5 	1 	the 	DT
+Phi 	1 	24 	1 	6 	1 	flesh 	NN
+Phi 	1 	24 	1 	7 	1 	is 	VBZ
+Phi 	1 	24 	1 	8 	1 	more 	RBR
+Phi 	1 	24 	1 	9 	1 	needful 	JJ
+Phi 	1 	24 	1 	10 	1 	for 	IN
+Phi 	1 	24 	1 	11 	1 	you 	PRP
+Phi 	1 	24 	1 	12 	0 	.
+Phi 	1 	25 	1 	1 	1 	And 	CC
+Phi 	1 	25 	1 	2 	1 	having 	VBG
+Phi 	1 	25 	1 	3 	1 	this 	DT
+Phi 	1 	25 	1 	4 	1 	confidence 	NN
+Phi 	1 	25 	1 	5 	0 	,
+Phi 	1 	25 	1 	6 	1 	I 	PRP
+Phi 	1 	25 	1 	7 	1 	know 	VB
+Phi 	1 	25 	1 	8 	1 	that 	IN
+Phi 	1 	25 	1 	9 	1 	I 	PRP
+Phi 	1 	25 	1 	10 	1 	shall 	MD
+Phi 	1 	25 	1 	11 	1 	abide 	NN
+Phi 	1 	25 	1 	12 	1 	and 	CC
+Phi 	1 	25 	1 	13 	1 	continue 	NN
+Phi 	1 	25 	1 	14 	1 	with 	IN
+Phi 	1 	25 	1 	15 	1 	you 	PRP
+Phi 	1 	25 	1 	16 	1 	all 	DT
+Phi 	1 	25 	1 	17 	1 	for 	IN
+Phi 	1 	25 	1 	18 	1 	your 	PRP$
+Phi 	1 	25 	1 	19 	1 	furtherance 	NN
+Phi 	1 	25 	1 	20 	1 	and 	CC
+Phi 	1 	25 	1 	21 	1 	joy 	NN
+Phi 	1 	25 	1 	22 	1 	of 	IN
+Phi 	1 	25 	1 	23 	1 	faith 	NN
+Phi 	1 	25 	1 	24 	0 	;
+Phi 	1 	26 	1 	1 	1 	That 	DT
+Phi 	1 	26 	1 	2 	1 	your 	PRP$
+Phi 	1 	26 	1 	3 	1 	rejoicing 	VBG
+Phi 	1 	26 	1 	4 	1 	may 	MD
+Phi 	1 	26 	1 	5 	1 	be 	VB
+Phi 	1 	26 	1 	6 	1 	more 	RBR
+Phi 	1 	26 	1 	7 	1 	abundant 	NN
+Phi 	1 	26 	1 	8 	1 	in 	IN
+Phi 	1 	26 	1 	9 	1 	Jesus 	NN
+Phi 	1 	26 	1 	10 	1 	Christ 	NN
+Phi 	1 	26 	1 	11 	1 	for 	IN
+Phi 	1 	26 	1 	12 	1 	me 	PRP
+Phi 	1 	26 	1 	13 	1 	by 	IN
+Phi 	1 	26 	1 	14 	1 	my 	PRP$
+Phi 	1 	26 	1 	15 	1 	coming 	VBG
+Phi 	1 	26 	1 	16 	1 	to 	TO
+Phi 	1 	26 	1 	17 	1 	you 	PRP
+Phi 	1 	26 	1 	18 	1 	again 	RB
+Phi 	1 	26 	1 	19 	0 	.
+Phi 	1 	27 	1 	1 	1 	Only 	RB
+Phi 	1 	27 	1 	2 	1 	let 	VB
+Phi 	1 	27 	1 	3 	1 	your 	PRP$
+Phi 	1 	27 	1 	4 	1 	conversation 	NN
+Phi 	1 	27 	1 	5 	1 	be 	VB
+Phi 	1 	27 	1 	6 	1 	as 	IN
+Phi 	1 	27 	1 	7 	1 	it 	PRP
+Phi 	1 	27 	1 	8 	1 	becometh 	NN
+Phi 	1 	27 	1 	9 	1 	the 	DT
+Phi 	1 	27 	1 	10 	1 	gospel 	NN
+Phi 	1 	27 	1 	11 	1 	of 	IN
+Phi 	1 	27 	1 	12 	1 	Christ 	NN
+Phi 	1 	27 	1 	13 	0 	:
+Phi 	1 	27 	1 	14 	1 	that 	IN
+Phi 	1 	27 	1 	15 	1 	whether 	IN
+Phi 	1 	27 	1 	16 	1 	I 	PRP
+Phi 	1 	27 	1 	17 	1 	come 	VB
+Phi 	1 	27 	1 	18 	1 	and 	CC
+Phi 	1 	27 	1 	19 	1 	see 	VB
+Phi 	1 	27 	1 	20 	1 	you 	PRP
+Phi 	1 	27 	1 	21 	0 	,
+Phi 	1 	27 	1 	22 	1 	or 	CC
+Phi 	1 	27 	1 	23 	1 	else 	RB
+Phi 	1 	27 	1 	24 	1 	be 	VB
+Phi 	1 	27 	1 	25 	1 	absent 	NN
+Phi 	1 	27 	1 	26 	0 	,
+Phi 	1 	27 	1 	27 	1 	I 	PRP
+Phi 	1 	27 	1 	28 	1 	may 	MD
+Phi 	1 	27 	1 	29 	1 	hear 	NN
+Phi 	1 	27 	1 	30 	1 	of 	IN
+Phi 	1 	27 	1 	31 	1 	your 	PRP$
+Phi 	1 	27 	1 	32 	1 	affairs 	NNS
+Phi 	1 	27 	1 	33 	0 	,
+Phi 	1 	27 	1 	34 	1 	that 	IN
+Phi 	1 	27 	1 	35 	1 	ye 	NN
+Phi 	1 	27 	1 	36 	1 	stand 	NN
+Phi 	1 	27 	1 	37 	1 	fast 	NN
+Phi 	1 	27 	1 	38 	1 	in 	IN
+Phi 	1 	27 	1 	39 	1 	one 	CD
+Phi 	1 	27 	1 	40 	1 	spirit 	NN
+Phi 	1 	27 	1 	41 	0 	,
+Phi 	1 	27 	1 	42 	1 	with 	IN
+Phi 	1 	27 	1 	43 	1 	one 	CD
+Phi 	1 	27 	1 	44 	1 	mind 	NN
+Phi 	1 	27 	1 	45 	1 	striving 	VBG
+Phi 	1 	27 	1 	46 	1 	together 	RB
+Phi 	1 	27 	1 	47 	1 	for 	IN
+Phi 	1 	27 	1 	48 	1 	the 	DT
+Phi 	1 	27 	1 	49 	1 	faith 	NN
+Phi 	1 	27 	1 	50 	1 	of 	IN
+Phi 	1 	27 	1 	51 	1 	the 	DT
+Phi 	1 	27 	1 	52 	1 	gospel 	NN
+Phi 	1 	27 	1 	53 	0 	;
+Phi 	1 	28 	1 	1 	1 	And 	CC
+Phi 	1 	28 	1 	2 	1 	in 	IN
+Phi 	1 	28 	1 	3 	1 	nothing 	NN
+Phi 	1 	28 	1 	4 	1 	terrified 	VBN
+Phi 	1 	28 	1 	5 	1 	by 	IN
+Phi 	1 	28 	1 	6 	1 	your 	PRP$
+Phi 	1 	28 	1 	7 	1 	adversaries 	NNS
+Phi 	1 	28 	1 	8 	0 	:
+Phi 	1 	28 	1 	9 	1 	which 	WDT
+Phi 	1 	28 	1 	10 	1 	is 	VBZ
+Phi 	1 	28 	1 	11 	1 	to 	TO
+Phi 	1 	28 	1 	12 	1 	them 	PRP
+Phi 	1 	28 	1 	13 	1 	an 	DT
+Phi 	1 	28 	1 	14 	1 	evident 	NN
+Phi 	1 	28 	1 	15 	1 	token 	NN
+Phi 	1 	28 	1 	16 	1 	of 	IN
+Phi 	1 	28 	1 	17 	1 	perdition 	NN
+Phi 	1 	28 	1 	18 	0 	,
+Phi 	1 	28 	1 	19 	1 	but 	CC
+Phi 	1 	28 	1 	20 	1 	to 	TO
+Phi 	1 	28 	1 	21 	1 	you 	PRP
+Phi 	1 	28 	1 	22 	1 	of 	IN
+Phi 	1 	28 	1 	23 	1 	salvation 	NN
+Phi 	1 	28 	1 	24 	0 	,
+Phi 	1 	28 	1 	25 	1 	and 	CC
+Phi 	1 	28 	1 	26 	1 	that 	IN
+Phi 	1 	28 	1 	27 	1 	of 	IN
+Phi 	1 	28 	1 	28 	1 	God 	NNP
+Phi 	1 	28 	1 	29 	0 	.
+Phi 	1 	29 	1 	1 	1 	For 	IN
+Phi 	1 	29 	1 	2 	1 	unto 	NN
+Phi 	1 	29 	1 	3 	1 	you 	PRP
+Phi 	1 	29 	1 	4 	1 	it 	PRP
+Phi 	1 	29 	1 	5 	1 	is 	VBZ
+Phi 	1 	29 	1 	6 	1 	given 	VBN
+Phi 	1 	29 	1 	7 	1 	in 	IN
+Phi 	1 	29 	1 	8 	1 	the 	DT
+Phi 	1 	29 	1 	9 	1 	behalf 	NN
+Phi 	1 	29 	1 	10 	1 	of 	IN
+Phi 	1 	29 	1 	11 	1 	Christ 	NN
+Phi 	1 	29 	1 	12 	0 	,
+Phi 	1 	29 	1 	13 	1 	not 	RB
+Phi 	1 	29 	1 	14 	1 	only 	RB
+Phi 	1 	29 	1 	15 	1 	to 	TO
+Phi 	1 	29 	1 	16 	1 	believe 	VB
+Phi 	1 	29 	1 	17 	1 	on 	IN
+Phi 	1 	29 	1 	18 	1 	him 	PRP
+Phi 	1 	29 	1 	19 	0 	,
+Phi 	1 	29 	1 	20 	1 	but 	CC
+Phi 	1 	29 	1 	21 	1 	also 	RB
+Phi 	1 	29 	1 	22 	1 	to 	TO
+Phi 	1 	29 	1 	23 	1 	suffer 	NN
+Phi 	1 	29 	1 	24 	1 	for 	IN
+Phi 	1 	29 	1 	25 	1 	his 	PRP$
+Phi 	1 	29 	1 	26 	1 	sake 	NN
+Phi 	1 	29 	1 	27 	0 	;
+Phi 	1 	30 	1 	1 	1 	Having 	VBG
+Phi 	1 	30 	1 	2 	1 	the 	DT
+Phi 	1 	30 	1 	3 	1 	same 	JJ
+Phi 	1 	30 	1 	4 	1 	conflict 	NN
+Phi 	1 	30 	1 	5 	1 	which 	WDT
+Phi 	1 	30 	1 	6 	1 	ye 	NN
+Phi 	1 	30 	1 	7 	1 	saw 	NN
+Phi 	1 	30 	1 	8 	1 	in 	IN
+Phi 	1 	30 	1 	9 	1 	me 	PRP
+Phi 	1 	30 	1 	10 	0 	,
+Phi 	1 	30 	1 	11 	1 	and 	CC
+Phi 	1 	30 	1 	12 	1 	now 	RB
+Phi 	1 	30 	1 	13 	1 	hear 	NN
+Phi 	1 	30 	1 	14 	1 	to 	TO
+Phi 	1 	30 	1 	15 	1 	be 	VB
+Phi 	1 	30 	1 	16 	1 	in 	IN
+Phi 	1 	30 	1 	17 	1 	me 	PRP
+Phi 	1 	30 	1 	18 	0 	.
+Phi 	2 	1 	1 	1 	1 	If 	IN
+Phi 	2 	1 	1 	2 	1 	there 	RB
+Phi 	2 	1 	1 	3 	1 	be 	VB
+Phi 	2 	1 	1 	4 	1 	therefore 	RB
+Phi 	2 	1 	1 	5 	1 	any 	DT
+Phi 	2 	1 	1 	6 	1 	consolation 	NN
+Phi 	2 	1 	1 	7 	1 	in 	IN
+Phi 	2 	1 	1 	8 	1 	Christ 	NN
+Phi 	2 	1 	1 	9 	0 	,
+Phi 	2 	1 	1 	10 	1 	if 	IN
+Phi 	2 	1 	1 	11 	1 	any 	DT
+Phi 	2 	1 	1 	12 	1 	comfort 	NN
+Phi 	2 	1 	1 	13 	1 	of 	IN
+Phi 	2 	1 	1 	14 	1 	love 	NN
+Phi 	2 	1 	1 	15 	0 	,
+Phi 	2 	1 	1 	16 	1 	if 	IN
+Phi 	2 	1 	1 	17 	1 	any 	DT
+Phi 	2 	1 	1 	18 	1 	fellowship 	NN
+Phi 	2 	1 	1 	19 	1 	of 	IN
+Phi 	2 	1 	1 	20 	1 	the 	DT
+Phi 	2 	1 	1 	21 	1 	Spirit 	NN
+Phi 	2 	1 	1 	22 	0 	,
+Phi 	2 	1 	1 	23 	1 	if 	IN
+Phi 	2 	1 	1 	24 	1 	any 	DT
+Phi 	2 	1 	1 	25 	1 	bowels 	NNS
+Phi 	2 	1 	1 	26 	1 	and 	CC
+Phi 	2 	1 	1 	27 	1 	mercies 	NNS
+Phi 	2 	1 	1 	28 	0 	,
+Phi 	2 	2 	1 	1 	1 	Fulfil 	NN
+Phi 	2 	2 	1 	2 	1 	ye 	NN
+Phi 	2 	2 	1 	3 	1 	my 	PRP$
+Phi 	2 	2 	1 	4 	1 	joy 	NN
+Phi 	2 	2 	1 	5 	0 	,
+Phi 	2 	2 	1 	6 	1 	that 	IN
+Phi 	2 	2 	1 	7 	1 	ye 	NN
+Phi 	2 	2 	1 	8 	1 	be 	VB
+Phi 	2 	2 	1 	9 	1 	likeminded 	VBD
+Phi 	2 	2 	1 	10 	0 	,
+Phi 	2 	2 	1 	11 	1 	having 	VBG
+Phi 	2 	2 	1 	12 	1 	the 	DT
+Phi 	2 	2 	1 	13 	1 	same 	JJ
+Phi 	2 	2 	1 	14 	1 	love 	NN
+Phi 	2 	2 	1 	15 	0 	,
+Phi 	2 	2 	1 	16 	1 	being 	VBG
+Phi 	2 	2 	1 	17 	1 	of 	IN
+Phi 	2 	2 	1 	18 	1 	one 	CD
+Phi 	2 	2 	1 	19 	1 	accord 	NN
+Phi 	2 	2 	1 	20 	0 	,
+Phi 	2 	2 	1 	21 	1 	of 	IN
+Phi 	2 	2 	1 	22 	1 	one 	CD
+Phi 	2 	2 	1 	23 	1 	mind 	NN
+Phi 	2 	2 	1 	24 	0 	.
+Phi 	2 	3 	1 	1 	1 	Let 	VB
+Phi 	2 	3 	1 	2 	1 	nothing 	NN
+Phi 	2 	3 	1 	3 	1 	be 	VB
+Phi 	2 	3 	1 	4 	1 	done 	VBN
+Phi 	2 	3 	1 	5 	1 	through 	IN
+Phi 	2 	3 	1 	6 	1 	strife 	NN
+Phi 	2 	3 	1 	7 	1 	or 	CC
+Phi 	2 	3 	1 	8 	1 	vainglory 	NN
+Phi 	2 	3 	1 	9 	0 	;
+Phi 	2 	3 	1 	10 	1 	but 	CC
+Phi 	2 	3 	1 	11 	1 	in 	IN
+Phi 	2 	3 	1 	12 	1 	lowliness 	NN
+Phi 	2 	3 	1 	13 	1 	of 	IN
+Phi 	2 	3 	1 	14 	1 	mind 	NN
+Phi 	2 	3 	1 	15 	1 	let 	VB
+Phi 	2 	3 	1 	16 	1 	each 	DT
+Phi 	2 	3 	1 	17 	1 	esteem 	NN
+Phi 	2 	3 	1 	18 	1 	other 	JJ
+Phi 	2 	3 	1 	19 	1 	better 	RBR
+Phi 	2 	3 	1 	20 	1 	than 	IN
+Phi 	2 	3 	1 	21 	1 	themselves 	PRP
+Phi 	2 	3 	1 	22 	0 	.
+Phi 	2 	4 	1 	1 	1 	Look 	VB
+Phi 	2 	4 	1 	2 	1 	not 	RB
+Phi 	2 	4 	1 	3 	1 	every 	DT
+Phi 	2 	4 	1 	4 	1 	man 	NN
+Phi 	2 	4 	1 	5 	1 	on 	IN
+Phi 	2 	4 	1 	6 	1 	his 	PRP$
+Phi 	2 	4 	1 	7 	1 	own 	JJ
+Phi 	2 	4 	1 	8 	1 	things 	NNS
+Phi 	2 	4 	1 	9 	0 	,
+Phi 	2 	4 	1 	10 	1 	but 	CC
+Phi 	2 	4 	1 	11 	1 	every 	DT
+Phi 	2 	4 	1 	12 	1 	man 	NN
+Phi 	2 	4 	1 	13 	1 	also 	RB
+Phi 	2 	4 	1 	14 	1 	on 	IN
+Phi 	2 	4 	1 	15 	1 	the 	DT
+Phi 	2 	4 	1 	16 	1 	things 	NNS
+Phi 	2 	4 	1 	17 	1 	of 	IN
+Phi 	2 	4 	1 	18 	1 	others 	NNS
+Phi 	2 	4 	1 	19 	0 	.
+Phi 	2 	5 	1 	1 	1 	Let 	VB
+Phi 	2 	5 	1 	2 	1 	this 	DT
+Phi 	2 	5 	1 	3 	1 	mind 	NN
+Phi 	2 	5 	1 	4 	1 	be 	VB
+Phi 	2 	5 	1 	5 	1 	in 	IN
+Phi 	2 	5 	1 	6 	1 	you 	PRP
+Phi 	2 	5 	1 	7 	0 	,
+Phi 	2 	5 	1 	8 	1 	which 	WDT
+Phi 	2 	5 	1 	9 	1 	was 	VBD
+Phi 	2 	5 	1 	10 	1 	also 	RB
+Phi 	2 	5 	1 	11 	1 	in 	IN
+Phi 	2 	5 	1 	12 	1 	Christ 	NN
+Phi 	2 	5 	1 	13 	1 	Jesus 	NN
+Phi 	2 	5 	1 	14 	0 	:
+Phi 	2 	6 	1 	1 	1 	Who 	WP
+Phi 	2 	6 	1 	2 	0 	,
+Phi 	2 	6 	1 	3 	1 	being 	VBG
+Phi 	2 	6 	1 	4 	1 	in 	IN
+Phi 	2 	6 	1 	5 	1 	the 	DT
+Phi 	2 	6 	1 	6 	1 	form 	NN
+Phi 	2 	6 	1 	7 	1 	of 	IN
+Phi 	2 	6 	1 	8 	1 	God 	NNP
+Phi 	2 	6 	1 	9 	0 	,
+Phi 	2 	6 	1 	10 	1 	thought 	NN
+Phi 	2 	6 	1 	11 	1 	it 	PRP
+Phi 	2 	6 	1 	12 	1 	not 	RB
+Phi 	2 	6 	1 	13 	1 	robbery 	NN
+Phi 	2 	6 	1 	14 	1 	to 	TO
+Phi 	2 	6 	1 	15 	1 	be 	VB
+Phi 	2 	6 	1 	16 	1 	equal 	JJ
+Phi 	2 	6 	1 	17 	1 	with 	IN
+Phi 	2 	6 	1 	18 	1 	God 	NNP
+Phi 	2 	6 	1 	19 	0 	:
+Phi 	2 	7 	1 	1 	1 	But 	CC
+Phi 	2 	7 	1 	2 	1 	made 	VBN
+Phi 	2 	7 	1 	3 	1 	himself 	PRP
+Phi 	2 	7 	1 	4 	1 	of 	IN
+Phi 	2 	7 	1 	5 	1 	no 	DT
+Phi 	2 	7 	1 	6 	1 	reputation 	NN
+Phi 	2 	7 	1 	7 	0 	,
+Phi 	2 	7 	1 	8 	1 	and 	CC
+Phi 	2 	7 	1 	9 	1 	took 	VBD
+Phi 	2 	7 	1 	10 	1 	upon 	IN
+Phi 	2 	7 	1 	11 	1 	him 	PRP
+Phi 	2 	7 	1 	12 	1 	the 	DT
+Phi 	2 	7 	1 	13 	1 	form 	NN
+Phi 	2 	7 	1 	14 	1 	of 	IN
+Phi 	2 	7 	1 	15 	1 	a 	DT
+Phi 	2 	7 	1 	16 	1 	servant 	NN
+Phi 	2 	7 	1 	17 	0 	,
+Phi 	2 	7 	1 	18 	1 	and 	CC
+Phi 	2 	7 	1 	19 	1 	was 	VBD
+Phi 	2 	7 	1 	20 	1 	made 	VBN
+Phi 	2 	7 	1 	21 	1 	in 	IN
+Phi 	2 	7 	1 	22 	1 	the 	DT
+Phi 	2 	7 	1 	23 	1 	likeness 	NN
+Phi 	2 	7 	1 	24 	1 	of 	IN
+Phi 	2 	7 	1 	25 	1 	men 	NNS
+Phi 	2 	7 	1 	26 	0 	:
+Phi 	2 	8 	1 	1 	1 	And 	CC
+Phi 	2 	8 	1 	2 	1 	being 	VBG
+Phi 	2 	8 	1 	3 	1 	found 	NN
+Phi 	2 	8 	1 	4 	1 	in 	IN
+Phi 	2 	8 	1 	5 	1 	fashion 	NN
+Phi 	2 	8 	1 	6 	1 	as 	IN
+Phi 	2 	8 	1 	7 	1 	a 	DT
+Phi 	2 	8 	1 	8 	1 	man 	NN
+Phi 	2 	8 	1 	9 	0 	,
+Phi 	2 	8 	1 	10 	1 	he 	PRP
+Phi 	2 	8 	1 	11 	1 	humbled 	VBN
+Phi 	2 	8 	1 	12 	1 	himself 	PRP
+Phi 	2 	8 	1 	13 	0 	,
+Phi 	2 	8 	1 	14 	1 	and 	CC
+Phi 	2 	8 	1 	15 	1 	became 	VBD
+Phi 	2 	8 	1 	16 	1 	obedient 	NN
+Phi 	2 	8 	1 	17 	1 	unto 	NN
+Phi 	2 	8 	1 	18 	1 	death 	NN
+Phi 	2 	8 	1 	19 	0 	,
+Phi 	2 	8 	1 	20 	1 	even 	RB
+Phi 	2 	8 	1 	21 	1 	the 	DT
+Phi 	2 	8 	1 	22 	1 	death 	NN
+Phi 	2 	8 	1 	23 	1 	of 	IN
+Phi 	2 	8 	1 	24 	1 	the 	DT
+Phi 	2 	8 	1 	25 	1 	cross 	NN
+Phi 	2 	8 	1 	26 	0 	.
+Phi 	2 	9 	1 	1 	1 	Wherefore 	IN
+Phi 	2 	9 	1 	2 	1 	God 	NNP
+Phi 	2 	9 	1 	3 	1 	also 	RB
+Phi 	2 	9 	1 	4 	1 	hath 	NN
+Phi 	2 	9 	1 	5 	1 	highly 	RB
+Phi 	2 	9 	1 	6 	1 	exalted 	VBN
+Phi 	2 	9 	1 	7 	1 	him 	PRP
+Phi 	2 	9 	1 	8 	0 	,
+Phi 	2 	9 	1 	9 	1 	and 	CC
+Phi 	2 	9 	1 	10 	1 	given 	VBN
+Phi 	2 	9 	1 	11 	1 	him 	PRP
+Phi 	2 	9 	1 	12 	1 	a 	DT
+Phi 	2 	9 	1 	13 	1 	name 	NN
+Phi 	2 	9 	1 	14 	1 	which 	WDT
+Phi 	2 	9 	1 	15 	1 	is 	VBZ
+Phi 	2 	9 	1 	16 	1 	above 	IN
+Phi 	2 	9 	1 	17 	1 	every 	DT
+Phi 	2 	9 	1 	18 	1 	name 	NN
+Phi 	2 	9 	1 	19 	0 	:
+Phi 	2 	10 	1 	1 	1 	That 	DT
+Phi 	2 	10 	1 	2 	1 	at 	IN
+Phi 	2 	10 	1 	3 	1 	the 	DT
+Phi 	2 	10 	1 	4 	1 	name 	NN
+Phi 	2 	10 	1 	5 	1 	of 	IN
+Phi 	2 	10 	1 	6 	1 	Jesus 	NN
+Phi 	2 	10 	1 	7 	1 	every 	DT
+Phi 	2 	10 	1 	8 	1 	knee 	NN
+Phi 	2 	10 	1 	9 	1 	should 	MD
+Phi 	2 	10 	1 	10 	1 	bow 	NN
+Phi 	2 	10 	1 	11 	0 	,
+Phi 	2 	10 	1 	12 	1 	of 	IN
+Phi 	2 	10 	1 	13 	1 	things 	NNS
+Phi 	2 	10 	1 	14 	1 	in 	IN
+Phi 	2 	10 	1 	15 	1 	heaven 	NN
+Phi 	2 	10 	1 	16 	0 	,
+Phi 	2 	10 	1 	17 	1 	and 	CC
+Phi 	2 	10 	1 	18 	1 	things 	NNS
+Phi 	2 	10 	1 	19 	1 	in 	IN
+Phi 	2 	10 	1 	20 	1 	earth 	NN
+Phi 	2 	10 	1 	21 	0 	,
+Phi 	2 	10 	1 	22 	1 	and 	CC
+Phi 	2 	10 	1 	23 	1 	things 	NNS
+Phi 	2 	10 	1 	24 	1 	under 	IN
+Phi 	2 	10 	1 	25 	1 	the 	DT
+Phi 	2 	10 	1 	26 	1 	earth 	NN
+Phi 	2 	10 	1 	27 	0 	;
+Phi 	2 	11 	1 	1 	1 	And 	CC
+Phi 	2 	11 	1 	2 	1 	that 	IN
+Phi 	2 	11 	1 	3 	1 	every 	DT
+Phi 	2 	11 	1 	4 	1 	tongue 	NN
+Phi 	2 	11 	1 	5 	1 	should 	MD
+Phi 	2 	11 	1 	6 	1 	confess 	NN
+Phi 	2 	11 	1 	7 	1 	that 	IN
+Phi 	2 	11 	1 	8 	1 	Jesus 	NN
+Phi 	2 	11 	1 	9 	1 	Christ 	NN
+Phi 	2 	11 	1 	10 	1 	is 	VBZ
+Phi 	2 	11 	1 	11 	1 	Lord 	NN
+Phi 	2 	11 	1 	12 	0 	,
+Phi 	2 	11 	1 	13 	1 	to 	TO
+Phi 	2 	11 	1 	14 	1 	the 	DT
+Phi 	2 	11 	1 	15 	1 	glory 	NN
+Phi 	2 	11 	1 	16 	1 	of 	IN
+Phi 	2 	11 	1 	17 	1 	God 	NNP
+Phi 	2 	11 	1 	18 	1 	the 	DT
+Phi 	2 	11 	1 	19 	1 	Father 	NN
+Phi 	2 	11 	1 	20 	0 	.
+Phi 	2 	12 	1 	1 	1 	Wherefore 	IN
+Phi 	2 	12 	1 	2 	0 	,
+Phi 	2 	12 	1 	3 	1 	my 	PRP$
+Phi 	2 	12 	1 	4 	1 	beloved 	VBN
+Phi 	2 	12 	1 	5 	0 	,
+Phi 	2 	12 	1 	6 	1 	as 	IN
+Phi 	2 	12 	1 	7 	1 	ye 	NN
+Phi 	2 	12 	1 	8 	1 	have 	VB
+Phi 	2 	12 	1 	9 	1 	always 	RB
+Phi 	2 	12 	1 	10 	1 	obeyed 	NNS
+Phi 	2 	12 	1 	11 	0 	,
+Phi 	2 	12 	1 	12 	1 	not 	RB
+Phi 	2 	12 	1 	13 	1 	as 	IN
+Phi 	2 	12 	1 	14 	1 	in 	IN
+Phi 	2 	12 	1 	15 	1 	my 	PRP$
+Phi 	2 	12 	1 	16 	1 	presence 	NN
+Phi 	2 	12 	1 	17 	1 	only 	RB
+Phi 	2 	12 	1 	18 	0 	,
+Phi 	2 	12 	1 	19 	1 	but 	CC
+Phi 	2 	12 	1 	20 	1 	now 	RB
+Phi 	2 	12 	1 	21 	1 	much 	JJ
+Phi 	2 	12 	1 	22 	1 	more 	RBR
+Phi 	2 	12 	1 	23 	1 	in 	IN
+Phi 	2 	12 	1 	24 	1 	my 	PRP$
+Phi 	2 	12 	1 	25 	1 	absence 	NN
+Phi 	2 	12 	1 	26 	0 	,
+Phi 	2 	12 	1 	27 	1 	work 	NN
+Phi 	2 	12 	1 	28 	1 	out 	IN
+Phi 	2 	12 	1 	29 	1 	your 	PRP$
+Phi 	2 	12 	1 	30 	1 	own 	JJ
+Phi 	2 	12 	1 	31 	1 	salvation 	NN
+Phi 	2 	12 	1 	32 	1 	with 	IN
+Phi 	2 	12 	1 	33 	1 	fear 	NN
+Phi 	2 	12 	1 	34 	1 	and 	CC
+Phi 	2 	12 	1 	35 	1 	trembling 	VBG
+Phi 	2 	12 	1 	36 	0 	.
+Phi 	2 	13 	1 	1 	1 	For 	IN
+Phi 	2 	13 	1 	2 	1 	it 	PRP
+Phi 	2 	13 	1 	3 	1 	is 	VBZ
+Phi 	2 	13 	1 	4 	1 	God 	NNP
+Phi 	2 	13 	1 	5 	1 	which 	WDT
+Phi 	2 	13 	1 	6 	1 	worketh 	NNS
+Phi 	2 	13 	1 	7 	1 	in 	IN
+Phi 	2 	13 	1 	8 	1 	you 	PRP
+Phi 	2 	13 	1 	9 	1 	both 	DT
+Phi 	2 	13 	1 	10 	1 	to 	TO
+Phi 	2 	13 	1 	11 	1 	will 	MD
+Phi 	2 	13 	1 	12 	1 	and 	CC
+Phi 	2 	13 	1 	13 	1 	to 	TO
+Phi 	2 	13 	1 	14 	1 	do 	VB
+Phi 	2 	13 	1 	15 	1 	of 	IN
+Phi 	2 	13 	1 	16 	1 	his 	PRP$
+Phi 	2 	13 	1 	17 	1 	good 	JJ
+Phi 	2 	13 	1 	18 	1 	pleasure 	NN
+Phi 	2 	13 	1 	19 	0 	.
+Phi 	2 	14 	1 	1 	1 	Do 	VB
+Phi 	2 	14 	1 	2 	1 	all 	DT
+Phi 	2 	14 	1 	3 	1 	things 	NNS
+Phi 	2 	14 	1 	4 	1 	without 	IN
+Phi 	2 	14 	1 	5 	1 	murmurings 	NNS
+Phi 	2 	14 	1 	6 	1 	and 	CC
+Phi 	2 	14 	1 	7 	1 	disputings 	NNS
+Phi 	2 	14 	1 	8 	0 	:
+Phi 	2 	15 	1 	1 	1 	That 	DT
+Phi 	2 	15 	1 	2 	1 	ye 	NN
+Phi 	2 	15 	1 	3 	1 	may 	MD
+Phi 	2 	15 	1 	4 	1 	be 	VB
+Phi 	2 	15 	1 	5 	1 	blameless 	NN
+Phi 	2 	15 	1 	6 	1 	and 	CC
+Phi 	2 	15 	1 	7 	1 	harmless 	NN
+Phi 	2 	15 	1 	8 	0 	,
+Phi 	2 	15 	1 	9 	1 	the 	DT
+Phi 	2 	15 	1 	10 	1 	sons 	NNS
+Phi 	2 	15 	1 	11 	1 	of 	IN
+Phi 	2 	15 	1 	12 	1 	God 	NNP
+Phi 	2 	15 	1 	13 	0 	,
+Phi 	2 	15 	1 	14 	1 	without 	IN
+Phi 	2 	15 	1 	15 	1 	rebuke 	NN
+Phi 	2 	15 	1 	16 	0 	,
+Phi 	2 	15 	1 	17 	1 	in 	IN
+Phi 	2 	15 	1 	18 	1 	the 	DT
+Phi 	2 	15 	1 	19 	1 	midst 	NN
+Phi 	2 	15 	1 	20 	1 	of 	IN
+Phi 	2 	15 	1 	21 	1 	a 	DT
+Phi 	2 	15 	1 	22 	1 	crooked 	NNS
+Phi 	2 	15 	1 	23 	1 	and 	CC
+Phi 	2 	15 	1 	24 	1 	perverse 	NN
+Phi 	2 	15 	1 	25 	1 	nation 	NN
+Phi 	2 	15 	1 	26 	0 	,
+Phi 	2 	15 	1 	27 	1 	among 	IN
+Phi 	2 	15 	1 	28 	1 	whom 	WP
+Phi 	2 	15 	1 	29 	1 	ye 	NN
+Phi 	2 	15 	1 	30 	1 	shine 	NN
+Phi 	2 	15 	1 	31 	1 	as 	IN
+Phi 	2 	15 	1 	32 	1 	lights 	NNS
+Phi 	2 	15 	1 	33 	1 	in 	IN
+Phi 	2 	15 	1 	34 	1 	the 	DT
+Phi 	2 	15 	1 	35 	1 	world 	NN
+Phi 	2 	15 	1 	36 	0 	;
+Phi 	2 	16 	1 	1 	1 	Holding 	VBG
+Phi 	2 	16 	1 	2 	1 	forth 	NN
+Phi 	2 	16 	1 	3 	1 	the 	DT
+Phi 	2 	16 	1 	4 	1 	word 	NN
+Phi 	2 	16 	1 	5 	1 	of 	IN
+Phi 	2 	16 	1 	6 	1 	life 	NN
+Phi 	2 	16 	1 	7 	0 	;
+Phi 	2 	16 	1 	8 	1 	that 	IN
+Phi 	2 	16 	1 	9 	1 	I 	PRP
+Phi 	2 	16 	1 	10 	1 	may 	MD
+Phi 	2 	16 	1 	11 	1 	rejoice 	NN
+Phi 	2 	16 	1 	12 	1 	in 	IN
+Phi 	2 	16 	1 	13 	1 	the 	DT
+Phi 	2 	16 	1 	14 	1 	day 	NN
+Phi 	2 	16 	1 	15 	1 	of 	IN
+Phi 	2 	16 	1 	16 	1 	Christ 	NN
+Phi 	2 	16 	1 	17 	0 	,
+Phi 	2 	16 	1 	18 	1 	that 	IN
+Phi 	2 	16 	1 	19 	1 	I 	PRP
+Phi 	2 	16 	1 	20 	1 	have 	VB
+Phi 	2 	16 	1 	21 	1 	not 	RB
+Phi 	2 	16 	1 	22 	1 	run 	VB
+Phi 	2 	16 	1 	23 	1 	in 	IN
+Phi 	2 	16 	1 	24 	1 	vain 	NN
+Phi 	2 	16 	1 	25 	0 	,
+Phi 	2 	16 	1 	26 	1 	neither 	DT
+Phi 	2 	16 	1 	27 	1 	laboured 	VBN
+Phi 	2 	16 	1 	28 	1 	in 	IN
+Phi 	2 	16 	1 	29 	1 	vain 	NN
+Phi 	2 	16 	1 	30 	0 	.
+Phi 	2 	17 	1 	1 	1 	Yea 	NN
+Phi 	2 	17 	1 	2 	0 	,
+Phi 	2 	17 	1 	3 	1 	and 	CC
+Phi 	2 	17 	1 	4 	1 	if 	IN
+Phi 	2 	17 	1 	5 	1 	I 	PRP
+Phi 	2 	17 	1 	6 	1 	be 	VB
+Phi 	2 	17 	1 	7 	1 	offered 	VBN
+Phi 	2 	17 	1 	8 	1 	upon 	IN
+Phi 	2 	17 	1 	9 	1 	the 	DT
+Phi 	2 	17 	1 	10 	1 	sacrifice 	NN
+Phi 	2 	17 	1 	11 	1 	and 	CC
+Phi 	2 	17 	1 	12 	1 	service 	NN
+Phi 	2 	17 	1 	13 	1 	of 	IN
+Phi 	2 	17 	1 	14 	1 	your 	PRP$
+Phi 	2 	17 	1 	15 	1 	faith 	NN
+Phi 	2 	17 	1 	16 	0 	,
+Phi 	2 	17 	1 	17 	1 	I 	PRP
+Phi 	2 	17 	1 	18 	1 	joy 	NN
+Phi 	2 	17 	1 	19 	0 	,
+Phi 	2 	17 	1 	20 	1 	and 	CC
+Phi 	2 	17 	1 	21 	1 	rejoice 	NN
+Phi 	2 	17 	1 	22 	1 	with 	IN
+Phi 	2 	17 	1 	23 	1 	you 	PRP
+Phi 	2 	17 	1 	24 	1 	all 	DT
+Phi 	2 	17 	1 	25 	0 	.
+Phi 	2 	18 	1 	1 	1 	For 	IN
+Phi 	2 	18 	1 	2 	1 	the 	DT
+Phi 	2 	18 	1 	3 	1 	same 	JJ
+Phi 	2 	18 	1 	4 	1 	cause 	NN
+Phi 	2 	18 	1 	5 	1 	also 	RB
+Phi 	2 	18 	1 	6 	1 	do 	VB
+Phi 	2 	18 	1 	7 	1 	ye 	NN
+Phi 	2 	18 	1 	8 	1 	joy 	NN
+Phi 	2 	18 	1 	9 	0 	,
+Phi 	2 	18 	1 	10 	1 	and 	CC
+Phi 	2 	18 	1 	11 	1 	rejoice 	NN
+Phi 	2 	18 	1 	12 	1 	with 	IN
+Phi 	2 	18 	1 	13 	1 	me 	PRP
+Phi 	2 	18 	1 	14 	0 	.
+Phi 	2 	19 	1 	1 	1 	But 	CC
+Phi 	2 	19 	1 	2 	1 	I 	PRP
+Phi 	2 	19 	1 	3 	1 	trust 	NN
+Phi 	2 	19 	1 	4 	1 	in 	IN
+Phi 	2 	19 	1 	5 	1 	the 	DT
+Phi 	2 	19 	1 	6 	1 	Lord 	NN
+Phi 	2 	19 	1 	7 	1 	Jesus 	NN
+Phi 	2 	19 	1 	8 	1 	to 	TO
+Phi 	2 	19 	1 	9 	1 	send 	NN
+Phi 	2 	19 	1 	10 	1 	Timotheus 	NN
+Phi 	2 	19 	1 	11 	1 	shortly 	RB
+Phi 	2 	19 	1 	12 	1 	unto 	NN
+Phi 	2 	19 	1 	13 	1 	you 	PRP
+Phi 	2 	19 	1 	14 	0 	,
+Phi 	2 	19 	1 	15 	1 	that 	IN
+Phi 	2 	19 	1 	16 	1 	I 	PRP
+Phi 	2 	19 	1 	17 	1 	also 	RB
+Phi 	2 	19 	1 	18 	1 	may 	MD
+Phi 	2 	19 	1 	19 	1 	be 	VB
+Phi 	2 	19 	1 	20 	1 	of 	IN
+Phi 	2 	19 	1 	21 	1 	good 	JJ
+Phi 	2 	19 	1 	22 	1 	comfort 	NN
+Phi 	2 	19 	1 	23 	0 	,
+Phi 	2 	19 	1 	24 	1 	when 	WRB
+Phi 	2 	19 	1 	25 	1 	I 	PRP
+Phi 	2 	19 	1 	26 	1 	know 	VB
+Phi 	2 	19 	1 	27 	1 	your 	PRP$
+Phi 	2 	19 	1 	28 	1 	state 	NN
+Phi 	2 	19 	1 	29 	0 	.
+Phi 	2 	20 	1 	1 	1 	For 	IN
+Phi 	2 	20 	1 	2 	1 	I 	PRP
+Phi 	2 	20 	1 	3 	1 	have 	VB
+Phi 	2 	20 	1 	4 	1 	no 	DT
+Phi 	2 	20 	1 	5 	1 	man 	NN
+Phi 	2 	20 	1 	6 	1 	likeminded 	VBD
+Phi 	2 	20 	1 	7 	0 	,
+Phi 	2 	20 	1 	8 	1 	who 	WP
+Phi 	2 	20 	1 	9 	1 	will 	MD
+Phi 	2 	20 	1 	10 	1 	naturally 	RB
+Phi 	2 	20 	1 	11 	1 	care 	NN
+Phi 	2 	20 	1 	12 	1 	for 	IN
+Phi 	2 	20 	1 	13 	1 	your 	PRP$
+Phi 	2 	20 	1 	14 	1 	state 	NN
+Phi 	2 	20 	1 	15 	0 	.
+Phi 	2 	21 	1 	1 	1 	For 	IN
+Phi 	2 	21 	1 	2 	1 	all 	DT
+Phi 	2 	21 	1 	3 	1 	seek 	NN
+Phi 	2 	21 	1 	4 	1 	their 	PRP$
+Phi 	2 	21 	1 	5 	1 	own 	JJ
+Phi 	2 	21 	1 	6 	0 	,
+Phi 	2 	21 	1 	7 	1 	not 	RB
+Phi 	2 	21 	1 	8 	1 	the 	DT
+Phi 	2 	21 	1 	9 	1 	things 	NNS
+Phi 	2 	21 	1 	10 	1 	which 	WDT
+Phi 	2 	21 	1 	11 	1 	are 	VBP
+Phi 	2 	21 	1 	12 	1 	Jesus 	NN
+Phi 	2 	21 	1 	13 	1 	Christ 	NN
+Phi 	2 	21 	1 	14 	0 	's
+Phi 	2 	21 	1 	15 	0 	.
+Phi 	2 	22 	1 	1 	1 	But 	CC
+Phi 	2 	22 	1 	2 	1 	ye 	NN
+Phi 	2 	22 	1 	3 	1 	know 	VB
+Phi 	2 	22 	1 	4 	1 	the 	DT
+Phi 	2 	22 	1 	5 	1 	proof 	NN
+Phi 	2 	22 	1 	6 	1 	of 	IN
+Phi 	2 	22 	1 	7 	1 	him 	PRP
+Phi 	2 	22 	1 	8 	0 	,
+Phi 	2 	22 	1 	9 	1 	that 	IN
+Phi 	2 	22 	1 	10 	0 	,
+Phi 	2 	22 	1 	11 	1 	as 	IN
+Phi 	2 	22 	1 	12 	1 	a 	DT
+Phi 	2 	22 	1 	13 	1 	son 	NN
+Phi 	2 	22 	1 	14 	1 	with 	IN
+Phi 	2 	22 	1 	15 	1 	the 	DT
+Phi 	2 	22 	1 	16 	1 	father 	NN
+Phi 	2 	22 	1 	17 	0 	,
+Phi 	2 	22 	1 	18 	1 	he 	PRP
+Phi 	2 	22 	1 	19 	1 	hath 	NN
+Phi 	2 	22 	1 	20 	1 	served 	VBD
+Phi 	2 	22 	1 	21 	1 	with 	IN
+Phi 	2 	22 	1 	22 	1 	me 	PRP
+Phi 	2 	22 	1 	23 	1 	in 	IN
+Phi 	2 	22 	1 	24 	1 	the 	DT
+Phi 	2 	22 	1 	25 	1 	gospel 	NN
+Phi 	2 	22 	1 	26 	0 	.
+Phi 	2 	23 	1 	1 	1 	Him 	NN
+Phi 	2 	23 	1 	2 	1 	therefore 	RB
+Phi 	2 	23 	1 	3 	1 	I 	PRP
+Phi 	2 	23 	1 	4 	1 	hope 	NN
+Phi 	2 	23 	1 	5 	1 	to 	TO
+Phi 	2 	23 	1 	6 	1 	send 	NN
+Phi 	2 	23 	1 	7 	1 	presently 	RB
+Phi 	2 	23 	1 	8 	0 	,
+Phi 	2 	23 	1 	9 	1 	so 	RB
+Phi 	2 	23 	1 	10 	1 	soon 	RB
+Phi 	2 	23 	1 	11 	1 	as 	IN
+Phi 	2 	23 	1 	12 	1 	I 	PRP
+Phi 	2 	23 	1 	13 	1 	shall 	MD
+Phi 	2 	23 	1 	14 	1 	see 	VB
+Phi 	2 	23 	1 	15 	1 	how 	WRB
+Phi 	2 	23 	1 	16 	1 	it 	PRP
+Phi 	2 	23 	1 	17 	1 	will 	MD
+Phi 	2 	23 	1 	18 	1 	go 	VB
+Phi 	2 	23 	1 	19 	1 	with 	IN
+Phi 	2 	23 	1 	20 	1 	me 	PRP
+Phi 	2 	23 	1 	21 	0 	.
+Phi 	2 	24 	1 	1 	1 	But 	CC
+Phi 	2 	24 	1 	2 	1 	I 	PRP
+Phi 	2 	24 	1 	3 	1 	trust 	NN
+Phi 	2 	24 	1 	4 	1 	in 	IN
+Phi 	2 	24 	1 	5 	1 	the 	DT
+Phi 	2 	24 	1 	6 	1 	Lord 	NN
+Phi 	2 	24 	1 	7 	1 	that 	IN
+Phi 	2 	24 	1 	8 	1 	I 	PRP
+Phi 	2 	24 	1 	9 	1 	also 	RB
+Phi 	2 	24 	1 	10 	1 	myself 	PRP
+Phi 	2 	24 	1 	11 	1 	shall 	MD
+Phi 	2 	24 	1 	12 	1 	come 	VB
+Phi 	2 	24 	1 	13 	1 	shortly 	RB
+Phi 	2 	24 	1 	14 	0 	.
+Phi 	2 	25 	1 	1 	1 	Yet 	RB
+Phi 	2 	25 	1 	2 	1 	I 	PRP
+Phi 	2 	25 	1 	3 	1 	supposed 	VBN
+Phi 	2 	25 	1 	4 	1 	it 	PRP
+Phi 	2 	25 	1 	5 	1 	necessary 	JJ
+Phi 	2 	25 	1 	6 	1 	to 	TO
+Phi 	2 	25 	1 	7 	1 	send 	NN
+Phi 	2 	25 	1 	8 	1 	to 	TO
+Phi 	2 	25 	1 	9 	1 	you 	PRP
+Phi 	2 	25 	1 	10 	1 	Epaphroditus 	NN
+Phi 	2 	25 	1 	11 	0 	,
+Phi 	2 	25 	1 	12 	1 	my 	PRP$
+Phi 	2 	25 	1 	13 	1 	brother 	NN
+Phi 	2 	25 	1 	14 	0 	,
+Phi 	2 	25 	1 	15 	1 	and 	CC
+Phi 	2 	25 	1 	16 	1 	companion 	NN
+Phi 	2 	25 	1 	17 	1 	in 	IN
+Phi 	2 	25 	1 	18 	1 	labour 	NN
+Phi 	2 	25 	1 	19 	0 	,
+Phi 	2 	25 	1 	20 	1 	and 	CC
+Phi 	2 	25 	1 	21 	1 	fellowsoldier 	NN
+Phi 	2 	25 	1 	22 	0 	,
+Phi 	2 	25 	1 	23 	1 	but 	CC
+Phi 	2 	25 	1 	24 	1 	your 	PRP$
+Phi 	2 	25 	1 	25 	1 	messenger 	NN
+Phi 	2 	25 	1 	26 	0 	,
+Phi 	2 	25 	1 	27 	1 	and 	CC
+Phi 	2 	25 	1 	28 	1 	he 	PRP
+Phi 	2 	25 	1 	29 	1 	that 	IN
+Phi 	2 	25 	1 	30 	1 	ministered 	VBN
+Phi 	2 	25 	1 	31 	1 	to 	TO
+Phi 	2 	25 	1 	32 	1 	my 	PRP$
+Phi 	2 	25 	1 	33 	1 	wants 	VBZ
+Phi 	2 	25 	1 	34 	0 	.
+Phi 	2 	26 	1 	1 	1 	For 	IN
+Phi 	2 	26 	1 	2 	1 	he 	PRP
+Phi 	2 	26 	1 	3 	1 	longed 	VBN
+Phi 	2 	26 	1 	4 	1 	after 	IN
+Phi 	2 	26 	1 	5 	1 	you 	PRP
+Phi 	2 	26 	1 	6 	1 	all 	DT
+Phi 	2 	26 	1 	7 	0 	,
+Phi 	2 	26 	1 	8 	1 	and 	CC
+Phi 	2 	26 	1 	9 	1 	was 	VBD
+Phi 	2 	26 	1 	10 	1 	full 	JJ
+Phi 	2 	26 	1 	11 	1 	of 	IN
+Phi 	2 	26 	1 	12 	1 	heaviness 	NN
+Phi 	2 	26 	1 	13 	0 	,
+Phi 	2 	26 	1 	14 	1 	because 	IN
+Phi 	2 	26 	1 	15 	1 	that 	IN
+Phi 	2 	26 	1 	16 	1 	ye 	NN
+Phi 	2 	26 	1 	17 	1 	had 	VBD
+Phi 	2 	26 	1 	18 	1 	heard 	NN
+Phi 	2 	26 	1 	19 	1 	that 	IN
+Phi 	2 	26 	1 	20 	1 	he 	PRP
+Phi 	2 	26 	1 	21 	1 	had 	VBD
+Phi 	2 	26 	1 	22 	1 	been 	VBN
+Phi 	2 	26 	1 	23 	1 	sick 	NN
+Phi 	2 	26 	1 	24 	0 	.
+Phi 	2 	27 	1 	1 	1 	For 	IN
+Phi 	2 	27 	1 	2 	1 	indeed 	RB
+Phi 	2 	27 	1 	3 	1 	he 	PRP
+Phi 	2 	27 	1 	4 	1 	was 	VBD
+Phi 	2 	27 	1 	5 	1 	sick 	NN
+Phi 	2 	27 	1 	6 	1 	nigh 	JJ
+Phi 	2 	27 	1 	7 	1 	unto 	NN
+Phi 	2 	27 	1 	8 	1 	death 	NN
+Phi 	2 	27 	1 	9 	0 	:
+Phi 	2 	27 	1 	10 	1 	but 	CC
+Phi 	2 	27 	1 	11 	1 	God 	NNP
+Phi 	2 	27 	1 	12 	1 	had 	VBD
+Phi 	2 	27 	1 	13 	1 	mercy 	NN
+Phi 	2 	27 	1 	14 	1 	on 	IN
+Phi 	2 	27 	1 	15 	1 	him 	PRP
+Phi 	2 	27 	1 	16 	0 	;
+Phi 	2 	27 	1 	17 	1 	and 	CC
+Phi 	2 	27 	1 	18 	1 	not 	RB
+Phi 	2 	27 	1 	19 	1 	on 	IN
+Phi 	2 	27 	1 	20 	1 	him 	PRP
+Phi 	2 	27 	1 	21 	1 	only 	RB
+Phi 	2 	27 	1 	22 	0 	,
+Phi 	2 	27 	1 	23 	1 	but 	CC
+Phi 	2 	27 	1 	24 	1 	on 	IN
+Phi 	2 	27 	1 	25 	1 	me 	PRP
+Phi 	2 	27 	1 	26 	1 	also 	RB
+Phi 	2 	27 	1 	27 	0 	,
+Phi 	2 	27 	1 	28 	1 	lest 	JJS
+Phi 	2 	27 	1 	29 	1 	I 	PRP
+Phi 	2 	27 	1 	30 	1 	should 	MD
+Phi 	2 	27 	1 	31 	1 	have 	VB
+Phi 	2 	27 	1 	32 	1 	sorrow 	NN
+Phi 	2 	27 	1 	33 	1 	upon 	IN
+Phi 	2 	27 	1 	34 	1 	sorrow 	NN
+Phi 	2 	27 	1 	35 	0 	.
+Phi 	2 	28 	1 	1 	1 	I 	PRP
+Phi 	2 	28 	1 	2 	1 	sent 	NN
+Phi 	2 	28 	1 	3 	1 	him 	PRP
+Phi 	2 	28 	1 	4 	1 	therefore 	RB
+Phi 	2 	28 	1 	5 	1 	the 	DT
+Phi 	2 	28 	1 	6 	1 	more 	RBR
+Phi 	2 	28 	1 	7 	1 	carefully 	RB
+Phi 	2 	28 	1 	8 	0 	,
+Phi 	2 	28 	1 	9 	1 	that 	IN
+Phi 	2 	28 	1 	10 	0 	,
+Phi 	2 	28 	1 	11 	1 	when 	WRB
+Phi 	2 	28 	1 	12 	1 	ye 	NN
+Phi 	2 	28 	1 	13 	1 	see 	VB
+Phi 	2 	28 	1 	14 	1 	him 	PRP
+Phi 	2 	28 	1 	15 	1 	again 	RB
+Phi 	2 	28 	1 	16 	0 	,
+Phi 	2 	28 	1 	17 	1 	ye 	NN
+Phi 	2 	28 	1 	18 	1 	may 	MD
+Phi 	2 	28 	1 	19 	1 	rejoice 	NN
+Phi 	2 	28 	1 	20 	0 	,
+Phi 	2 	28 	1 	21 	1 	and 	CC
+Phi 	2 	28 	1 	22 	1 	that 	IN
+Phi 	2 	28 	1 	23 	1 	I 	PRP
+Phi 	2 	28 	1 	24 	1 	may 	MD
+Phi 	2 	28 	1 	25 	1 	be 	VB
+Phi 	2 	28 	1 	26 	1 	the 	DT
+Phi 	2 	28 	1 	27 	1 	less 	RBR
+Phi 	2 	28 	1 	28 	1 	sorrowful 	NN
+Phi 	2 	28 	1 	29 	0 	.
+Phi 	2 	29 	1 	1 	1 	Receive 	VB
+Phi 	2 	29 	1 	2 	1 	him 	PRP
+Phi 	2 	29 	1 	3 	1 	therefore 	RB
+Phi 	2 	29 	1 	4 	1 	in 	IN
+Phi 	2 	29 	1 	5 	1 	the 	DT
+Phi 	2 	29 	1 	6 	1 	Lord 	NN
+Phi 	2 	29 	1 	7 	1 	with 	IN
+Phi 	2 	29 	1 	8 	1 	all 	DT
+Phi 	2 	29 	1 	9 	1 	gladness 	NN
+Phi 	2 	29 	1 	10 	0 	;
+Phi 	2 	29 	1 	11 	1 	and 	CC
+Phi 	2 	29 	1 	12 	1 	hold 	NN
+Phi 	2 	29 	1 	13 	1 	such 	JJ
+Phi 	2 	29 	1 	14 	1 	in 	IN
+Phi 	2 	29 	1 	15 	1 	reputation 	NN
+Phi 	2 	29 	1 	16 	0 	:
+Phi 	2 	30 	1 	1 	1 	Because 	IN
+Phi 	2 	30 	1 	2 	1 	for 	IN
+Phi 	2 	30 	1 	3 	1 	the 	DT
+Phi 	2 	30 	1 	4 	1 	work 	NN
+Phi 	2 	30 	1 	5 	1 	of 	IN
+Phi 	2 	30 	1 	6 	1 	Christ 	NN
+Phi 	2 	30 	1 	7 	1 	he 	PRP
+Phi 	2 	30 	1 	8 	1 	was 	VBD
+Phi 	2 	30 	1 	9 	1 	nigh 	JJ
+Phi 	2 	30 	1 	10 	1 	unto 	NN
+Phi 	2 	30 	1 	11 	1 	death 	NN
+Phi 	2 	30 	1 	12 	0 	,
+Phi 	2 	30 	1 	13 	1 	not 	RB
+Phi 	2 	30 	1 	14 	1 	regarding 	VBG
+Phi 	2 	30 	1 	15 	1 	his 	PRP$
+Phi 	2 	30 	1 	16 	1 	life 	NN
+Phi 	2 	30 	1 	17 	0 	,
+Phi 	2 	30 	1 	18 	1 	to 	TO
+Phi 	2 	30 	1 	19 	1 	supply 	NN
+Phi 	2 	30 	1 	20 	1 	your 	PRP$
+Phi 	2 	30 	1 	21 	1 	lack 	NN
+Phi 	2 	30 	1 	22 	1 	of 	IN
+Phi 	2 	30 	1 	23 	1 	service 	NN
+Phi 	2 	30 	1 	24 	1 	toward 	IN
+Phi 	2 	30 	1 	25 	1 	me 	PRP
+Phi 	2 	30 	1 	26 	0 	.
+Phi 	3 	1 	1 	1 	1 	Finally 	RB
+Phi 	3 	1 	1 	2 	0 	,
+Phi 	3 	1 	1 	3 	1 	my 	PRP$
+Phi 	3 	1 	1 	4 	1 	brethren 	NNS
+Phi 	3 	1 	1 	5 	0 	,
+Phi 	3 	1 	1 	6 	1 	rejoice 	NN
+Phi 	3 	1 	1 	7 	1 	in 	IN
+Phi 	3 	1 	1 	8 	1 	the 	DT
+Phi 	3 	1 	1 	9 	1 	Lord 	NN
+Phi 	3 	1 	1 	10 	0 	.
+Phi 	3 	1 	2 	1 	1 	To 	TO
+Phi 	3 	1 	2 	2 	1 	write 	NN
+Phi 	3 	1 	2 	3 	1 	the 	DT
+Phi 	3 	1 	2 	4 	1 	same 	JJ
+Phi 	3 	1 	2 	5 	1 	things 	NNS
+Phi 	3 	1 	2 	6 	1 	to 	TO
+Phi 	3 	1 	2 	7 	1 	you 	PRP
+Phi 	3 	1 	2 	8 	0 	,
+Phi 	3 	1 	2 	9 	1 	to 	TO
+Phi 	3 	1 	2 	10 	1 	me 	PRP
+Phi 	3 	1 	2 	11 	1 	indeed 	RB
+Phi 	3 	1 	2 	12 	1 	is 	VBZ
+Phi 	3 	1 	2 	13 	1 	not 	RB
+Phi 	3 	1 	2 	14 	1 	grievous 	JJ
+Phi 	3 	1 	2 	15 	0 	,
+Phi 	3 	1 	2 	16 	1 	but 	CC
+Phi 	3 	1 	2 	17 	1 	for 	IN
+Phi 	3 	1 	2 	18 	1 	you 	PRP
+Phi 	3 	1 	2 	19 	1 	it 	PRP
+Phi 	3 	1 	2 	20 	1 	is 	VBZ
+Phi 	3 	1 	2 	21 	1 	safe 	JJ
+Phi 	3 	1 	2 	22 	0 	.
+Phi 	3 	2 	1 	1 	1 	Beware 	NN
+Phi 	3 	2 	1 	2 	1 	of 	IN
+Phi 	3 	2 	1 	3 	1 	dogs 	NNS
+Phi 	3 	2 	1 	4 	0 	,
+Phi 	3 	2 	1 	5 	1 	beware 	NN
+Phi 	3 	2 	1 	6 	1 	of 	IN
+Phi 	3 	2 	1 	7 	1 	evil 	NN
+Phi 	3 	2 	1 	8 	1 	workers 	NNS
+Phi 	3 	2 	1 	9 	0 	,
+Phi 	3 	2 	1 	10 	1 	beware 	NN
+Phi 	3 	2 	1 	11 	1 	of 	IN
+Phi 	3 	2 	1 	12 	1 	the 	DT
+Phi 	3 	2 	1 	13 	1 	concision 	NN
+Phi 	3 	2 	1 	14 	0 	.
+Phi 	3 	3 	1 	1 	1 	For 	IN
+Phi 	3 	3 	1 	2 	1 	we 	PRP
+Phi 	3 	3 	1 	3 	1 	are 	VBP
+Phi 	3 	3 	1 	4 	1 	the 	DT
+Phi 	3 	3 	1 	5 	1 	circumcision 	NN
+Phi 	3 	3 	1 	6 	0 	,
+Phi 	3 	3 	1 	7 	1 	which 	WDT
+Phi 	3 	3 	1 	8 	1 	worship 	NN
+Phi 	3 	3 	1 	9 	1 	God 	NNP
+Phi 	3 	3 	1 	10 	1 	in 	IN
+Phi 	3 	3 	1 	11 	1 	the 	DT
+Phi 	3 	3 	1 	12 	1 	spirit 	NN
+Phi 	3 	3 	1 	13 	0 	,
+Phi 	3 	3 	1 	14 	1 	and 	CC
+Phi 	3 	3 	1 	15 	1 	rejoice 	NN
+Phi 	3 	3 	1 	16 	1 	in 	IN
+Phi 	3 	3 	1 	17 	1 	Christ 	NN
+Phi 	3 	3 	1 	18 	1 	Jesus 	NN
+Phi 	3 	3 	1 	19 	0 	,
+Phi 	3 	3 	1 	20 	1 	and 	CC
+Phi 	3 	3 	1 	21 	1 	have 	VB
+Phi 	3 	3 	1 	22 	1 	no 	DT
+Phi 	3 	3 	1 	23 	1 	confidence 	NN
+Phi 	3 	3 	1 	24 	1 	in 	IN
+Phi 	3 	3 	1 	25 	1 	the 	DT
+Phi 	3 	3 	1 	26 	1 	flesh 	NN
+Phi 	3 	3 	1 	27 	0 	.
+Phi 	3 	4 	1 	1 	1 	Though 	IN
+Phi 	3 	4 	1 	2 	1 	I 	PRP
+Phi 	3 	4 	1 	3 	1 	might 	MD
+Phi 	3 	4 	1 	4 	1 	also 	RB
+Phi 	3 	4 	1 	5 	1 	have 	VB
+Phi 	3 	4 	1 	6 	1 	confidence 	NN
+Phi 	3 	4 	1 	7 	1 	in 	IN
+Phi 	3 	4 	1 	8 	1 	the 	DT
+Phi 	3 	4 	1 	9 	1 	flesh 	NN
+Phi 	3 	4 	1 	10 	0 	.
+Phi 	3 	4 	2 	1 	1 	If 	IN
+Phi 	3 	4 	2 	2 	1 	any 	DT
+Phi 	3 	4 	2 	3 	1 	other 	JJ
+Phi 	3 	4 	2 	4 	1 	man 	NN
+Phi 	3 	4 	2 	5 	1 	thinketh 	NNS
+Phi 	3 	4 	2 	6 	1 	that 	IN
+Phi 	3 	4 	2 	7 	1 	he 	PRP
+Phi 	3 	4 	2 	8 	1 	hath 	NN
+Phi 	3 	4 	2 	9 	1 	whereof 	NN
+Phi 	3 	4 	2 	10 	1 	he 	PRP
+Phi 	3 	4 	2 	11 	1 	might 	MD
+Phi 	3 	4 	2 	12 	1 	trust 	NN
+Phi 	3 	4 	2 	13 	1 	in 	IN
+Phi 	3 	4 	2 	14 	1 	the 	DT
+Phi 	3 	4 	2 	15 	1 	flesh 	NN
+Phi 	3 	4 	2 	16 	0 	,
+Phi 	3 	4 	2 	17 	1 	I 	PRP
+Phi 	3 	4 	2 	18 	1 	more 	RBR
+Phi 	3 	4 	2 	19 	0 	:
+Phi 	3 	5 	1 	1 	1 	Circumcised 	VBN
+Phi 	3 	5 	1 	2 	1 	the 	DT
+Phi 	3 	5 	1 	3 	1 	eighth 	NN
+Phi 	3 	5 	1 	4 	1 	day 	NN
+Phi 	3 	5 	1 	5 	0 	,
+Phi 	3 	5 	1 	6 	1 	of 	IN
+Phi 	3 	5 	1 	7 	1 	the 	DT
+Phi 	3 	5 	1 	8 	1 	stock 	NN
+Phi 	3 	5 	1 	9 	1 	of 	IN
+Phi 	3 	5 	1 	10 	1 	Israel 	NNP
+Phi 	3 	5 	1 	11 	0 	,
+Phi 	3 	5 	1 	12 	1 	of 	IN
+Phi 	3 	5 	1 	13 	1 	the 	DT
+Phi 	3 	5 	1 	14 	1 	tribe 	NN
+Phi 	3 	5 	1 	15 	1 	of 	IN
+Phi 	3 	5 	1 	16 	1 	Benjamin 	NNP
+Phi 	3 	5 	1 	17 	0 	,
+Phi 	3 	5 	1 	18 	1 	an 	DT
+Phi 	3 	5 	1 	19 	1 	Hebrew 	NN
+Phi 	3 	5 	1 	20 	1 	of 	IN
+Phi 	3 	5 	1 	21 	1 	the 	DT
+Phi 	3 	5 	1 	22 	1 	Hebrews 	NNS
+Phi 	3 	5 	1 	23 	0 	;
+Phi 	3 	5 	1 	24 	1 	as 	IN
+Phi 	3 	5 	1 	25 	1 	touching 	VBG
+Phi 	3 	5 	1 	26 	1 	the 	DT
+Phi 	3 	5 	1 	27 	1 	law 	NN
+Phi 	3 	5 	1 	28 	0 	,
+Phi 	3 	5 	1 	29 	1 	a 	DT
+Phi 	3 	5 	1 	30 	1 	Pharisee 	NN
+Phi 	3 	5 	1 	31 	0 	;
+Phi 	3 	6 	1 	1 	1 	Concerning 	VBG
+Phi 	3 	6 	1 	2 	1 	zeal 	NN
+Phi 	3 	6 	1 	3 	0 	,
+Phi 	3 	6 	1 	4 	1 	persecuting 	VBG
+Phi 	3 	6 	1 	5 	1 	the 	DT
+Phi 	3 	6 	1 	6 	1 	church 	NN
+Phi 	3 	6 	1 	7 	0 	;
+Phi 	3 	6 	1 	8 	1 	touching 	VBG
+Phi 	3 	6 	1 	9 	1 	the 	DT
+Phi 	3 	6 	1 	10 	1 	righteousness 	NN
+Phi 	3 	6 	1 	11 	1 	which 	WDT
+Phi 	3 	6 	1 	12 	1 	is 	VBZ
+Phi 	3 	6 	1 	13 	1 	in 	IN
+Phi 	3 	6 	1 	14 	1 	the 	DT
+Phi 	3 	6 	1 	15 	1 	law 	NN
+Phi 	3 	6 	1 	16 	0 	,
+Phi 	3 	6 	1 	17 	1 	blameless 	NN
+Phi 	3 	6 	1 	18 	0 	.
+Phi 	3 	7 	1 	1 	1 	But 	CC
+Phi 	3 	7 	1 	2 	1 	what 	WP
+Phi 	3 	7 	1 	3 	1 	things 	NNS
+Phi 	3 	7 	1 	4 	1 	were 	VBD
+Phi 	3 	7 	1 	5 	1 	gain 	NN
+Phi 	3 	7 	1 	6 	1 	to 	TO
+Phi 	3 	7 	1 	7 	1 	me 	PRP
+Phi 	3 	7 	1 	8 	0 	,
+Phi 	3 	7 	1 	9 	1 	those 	DT
+Phi 	3 	7 	1 	10 	1 	I 	PRP
+Phi 	3 	7 	1 	11 	1 	counted 	VBN
+Phi 	3 	7 	1 	12 	1 	loss 	NN
+Phi 	3 	7 	1 	13 	1 	for 	IN
+Phi 	3 	7 	1 	14 	1 	Christ 	NN
+Phi 	3 	7 	1 	15 	0 	.
+Phi 	3 	8 	1 	1 	1 	Yea 	NN
+Phi 	3 	8 	1 	2 	1 	doubtless 	NN
+Phi 	3 	8 	1 	3 	0 	,
+Phi 	3 	8 	1 	4 	1 	and 	CC
+Phi 	3 	8 	1 	5 	1 	I 	PRP
+Phi 	3 	8 	1 	6 	1 	count 	NN
+Phi 	3 	8 	1 	7 	1 	all 	DT
+Phi 	3 	8 	1 	8 	1 	things 	NNS
+Phi 	3 	8 	1 	9 	1 	but 	CC
+Phi 	3 	8 	1 	10 	1 	loss 	NN
+Phi 	3 	8 	1 	11 	1 	for 	IN
+Phi 	3 	8 	1 	12 	1 	the 	DT
+Phi 	3 	8 	1 	13 	1 	excellency 	NN
+Phi 	3 	8 	1 	14 	1 	of 	IN
+Phi 	3 	8 	1 	15 	1 	the 	DT
+Phi 	3 	8 	1 	16 	1 	knowledge 	NN
+Phi 	3 	8 	1 	17 	1 	of 	IN
+Phi 	3 	8 	1 	18 	1 	Christ 	NN
+Phi 	3 	8 	1 	19 	1 	Jesus 	NN
+Phi 	3 	8 	1 	20 	1 	my 	PRP$
+Phi 	3 	8 	1 	21 	1 	Lord 	NN
+Phi 	3 	8 	1 	22 	0 	:
+Phi 	3 	8 	1 	23 	1 	for 	IN
+Phi 	3 	8 	1 	24 	1 	whom 	WP
+Phi 	3 	8 	1 	25 	1 	I 	PRP
+Phi 	3 	8 	1 	26 	1 	have 	VB
+Phi 	3 	8 	1 	27 	1 	suffered 	VBD
+Phi 	3 	8 	1 	28 	1 	the 	DT
+Phi 	3 	8 	1 	29 	1 	loss 	NN
+Phi 	3 	8 	1 	30 	1 	of 	IN
+Phi 	3 	8 	1 	31 	1 	all 	DT
+Phi 	3 	8 	1 	32 	1 	things 	NNS
+Phi 	3 	8 	1 	33 	0 	,
+Phi 	3 	8 	1 	34 	1 	and 	CC
+Phi 	3 	8 	1 	35 	1 	do 	VB
+Phi 	3 	8 	1 	36 	1 	count 	NN
+Phi 	3 	8 	1 	37 	1 	them 	PRP
+Phi 	3 	8 	1 	38 	1 	but 	CC
+Phi 	3 	8 	1 	39 	1 	dung 	NN
+Phi 	3 	8 	1 	40 	0 	,
+Phi 	3 	8 	1 	41 	1 	that 	IN
+Phi 	3 	8 	1 	42 	1 	I 	PRP
+Phi 	3 	8 	1 	43 	1 	may 	MD
+Phi 	3 	8 	1 	44 	1 	win 	NN
+Phi 	3 	8 	1 	45 	1 	Christ 	NN
+Phi 	3 	8 	1 	46 	0 	,
+Phi 	3 	9 	1 	1 	1 	And 	CC
+Phi 	3 	9 	1 	2 	1 	be 	VB
+Phi 	3 	9 	1 	3 	1 	found 	NN
+Phi 	3 	9 	1 	4 	1 	in 	IN
+Phi 	3 	9 	1 	5 	1 	him 	PRP
+Phi 	3 	9 	1 	6 	0 	,
+Phi 	3 	9 	1 	7 	1 	not 	RB
+Phi 	3 	9 	1 	8 	1 	having 	VBG
+Phi 	3 	9 	1 	9 	1 	mine 	NN
+Phi 	3 	9 	1 	10 	1 	own 	JJ
+Phi 	3 	9 	1 	11 	1 	righteousness 	NN
+Phi 	3 	9 	1 	12 	0 	,
+Phi 	3 	9 	1 	13 	1 	which 	WDT
+Phi 	3 	9 	1 	14 	1 	is 	VBZ
+Phi 	3 	9 	1 	15 	1 	of 	IN
+Phi 	3 	9 	1 	16 	1 	the 	DT
+Phi 	3 	9 	1 	17 	1 	law 	NN
+Phi 	3 	9 	1 	18 	0 	,
+Phi 	3 	9 	1 	19 	1 	but 	CC
+Phi 	3 	9 	1 	20 	1 	that 	IN
+Phi 	3 	9 	1 	21 	1 	which 	WDT
+Phi 	3 	9 	1 	22 	1 	is 	VBZ
+Phi 	3 	9 	1 	23 	1 	through 	IN
+Phi 	3 	9 	1 	24 	1 	the 	DT
+Phi 	3 	9 	1 	25 	1 	faith 	NN
+Phi 	3 	9 	1 	26 	1 	of 	IN
+Phi 	3 	9 	1 	27 	1 	Christ 	NN
+Phi 	3 	9 	1 	28 	0 	,
+Phi 	3 	9 	1 	29 	1 	the 	DT
+Phi 	3 	9 	1 	30 	1 	righteousness 	NN
+Phi 	3 	9 	1 	31 	1 	which 	WDT
+Phi 	3 	9 	1 	32 	1 	is 	VBZ
+Phi 	3 	9 	1 	33 	1 	of 	IN
+Phi 	3 	9 	1 	34 	1 	God 	NNP
+Phi 	3 	9 	1 	35 	1 	by 	IN
+Phi 	3 	9 	1 	36 	1 	faith 	NN
+Phi 	3 	9 	1 	37 	0 	:
+Phi 	3 	10 	1 	1 	1 	That 	DT
+Phi 	3 	10 	1 	2 	1 	I 	PRP
+Phi 	3 	10 	1 	3 	1 	may 	MD
+Phi 	3 	10 	1 	4 	1 	know 	VB
+Phi 	3 	10 	1 	5 	1 	him 	PRP
+Phi 	3 	10 	1 	6 	0 	,
+Phi 	3 	10 	1 	7 	1 	and 	CC
+Phi 	3 	10 	1 	8 	1 	the 	DT
+Phi 	3 	10 	1 	9 	1 	power 	NN
+Phi 	3 	10 	1 	10 	1 	of 	IN
+Phi 	3 	10 	1 	11 	1 	his 	PRP$
+Phi 	3 	10 	1 	12 	1 	resurrection 	NN
+Phi 	3 	10 	1 	13 	0 	,
+Phi 	3 	10 	1 	14 	1 	and 	CC
+Phi 	3 	10 	1 	15 	1 	the 	DT
+Phi 	3 	10 	1 	16 	1 	fellowship 	NN
+Phi 	3 	10 	1 	17 	1 	of 	IN
+Phi 	3 	10 	1 	18 	1 	his 	PRP$
+Phi 	3 	10 	1 	19 	1 	sufferings 	NNS
+Phi 	3 	10 	1 	20 	0 	,
+Phi 	3 	10 	1 	21 	1 	being 	VBG
+Phi 	3 	10 	1 	22 	1 	made 	VBN
+Phi 	3 	10 	1 	23 	1 	conformable 	JJ
+Phi 	3 	10 	1 	24 	1 	unto 	NN
+Phi 	3 	10 	1 	25 	1 	his 	PRP$
+Phi 	3 	10 	1 	26 	1 	death 	NN
+Phi 	3 	10 	1 	27 	0 	;
+Phi 	3 	11 	1 	1 	1 	If 	IN
+Phi 	3 	11 	1 	2 	1 	by 	IN
+Phi 	3 	11 	1 	3 	1 	any 	DT
+Phi 	3 	11 	1 	4 	1 	means 	NNS
+Phi 	3 	11 	1 	5 	1 	I 	PRP
+Phi 	3 	11 	1 	6 	1 	might 	MD
+Phi 	3 	11 	1 	7 	1 	attain 	NN
+Phi 	3 	11 	1 	8 	1 	unto 	NN
+Phi 	3 	11 	1 	9 	1 	the 	DT
+Phi 	3 	11 	1 	10 	1 	resurrection 	NN
+Phi 	3 	11 	1 	11 	1 	of 	IN
+Phi 	3 	11 	1 	12 	1 	the 	DT
+Phi 	3 	11 	1 	13 	1 	dead 	JJ
+Phi 	3 	11 	1 	14 	0 	.
+Phi 	3 	12 	1 	1 	1 	Not 	RB
+Phi 	3 	12 	1 	2 	1 	as 	IN
+Phi 	3 	12 	1 	3 	1 	though 	IN
+Phi 	3 	12 	1 	4 	1 	I 	PRP
+Phi 	3 	12 	1 	5 	1 	had 	VBD
+Phi 	3 	12 	1 	6 	1 	already 	RB
+Phi 	3 	12 	1 	7 	1 	attained 	VBN
+Phi 	3 	12 	1 	8 	0 	,
+Phi 	3 	12 	1 	9 	1 	either 	DT
+Phi 	3 	12 	1 	10 	1 	were 	VBD
+Phi 	3 	12 	1 	11 	1 	already 	RB
+Phi 	3 	12 	1 	12 	1 	perfect 	NN
+Phi 	3 	12 	1 	13 	0 	:
+Phi 	3 	12 	1 	14 	1 	but 	CC
+Phi 	3 	12 	1 	15 	1 	I 	PRP
+Phi 	3 	12 	1 	16 	1 	follow 	VB
+Phi 	3 	12 	1 	17 	1 	after 	IN
+Phi 	3 	12 	1 	18 	0 	,
+Phi 	3 	12 	1 	19 	1 	if 	IN
+Phi 	3 	12 	1 	20 	1 	that 	IN
+Phi 	3 	12 	1 	21 	1 	I 	PRP
+Phi 	3 	12 	1 	22 	1 	may 	MD
+Phi 	3 	12 	1 	23 	1 	apprehend 	NN
+Phi 	3 	12 	1 	24 	1 	that 	IN
+Phi 	3 	12 	1 	25 	1 	for 	IN
+Phi 	3 	12 	1 	26 	1 	which 	WDT
+Phi 	3 	12 	1 	27 	1 	also 	RB
+Phi 	3 	12 	1 	28 	1 	I 	PRP
+Phi 	3 	12 	1 	29 	1 	am 	VBP
+Phi 	3 	12 	1 	30 	1 	apprehended 	VBD
+Phi 	3 	12 	1 	31 	1 	of 	IN
+Phi 	3 	12 	1 	32 	1 	Christ 	NN
+Phi 	3 	12 	1 	33 	1 	Jesus 	NN
+Phi 	3 	12 	1 	34 	0 	.
+Phi 	3 	13 	1 	1 	1 	Brethren 	NNS
+Phi 	3 	13 	1 	2 	0 	,
+Phi 	3 	13 	1 	3 	1 	I 	PRP
+Phi 	3 	13 	1 	4 	1 	count 	NN
+Phi 	3 	13 	1 	5 	1 	not 	RB
+Phi 	3 	13 	1 	6 	1 	myself 	PRP
+Phi 	3 	13 	1 	7 	1 	to 	TO
+Phi 	3 	13 	1 	8 	1 	have 	VB
+Phi 	3 	13 	1 	9 	1 	apprehended 	VBD
+Phi 	3 	13 	1 	10 	0 	:
+Phi 	3 	13 	1 	11 	1 	but 	CC
+Phi 	3 	13 	1 	12 	1 	this 	DT
+Phi 	3 	13 	1 	13 	1 	one 	CD
+Phi 	3 	13 	1 	14 	1 	thing 	NN
+Phi 	3 	13 	1 	15 	1 	I 	PRP
+Phi 	3 	13 	1 	16 	1 	do 	VB
+Phi 	3 	13 	1 	17 	0 	,
+Phi 	3 	13 	1 	18 	1 	forgetting 	VBG
+Phi 	3 	13 	1 	19 	1 	those 	DT
+Phi 	3 	13 	1 	20 	1 	things 	NNS
+Phi 	3 	13 	1 	21 	1 	which 	WDT
+Phi 	3 	13 	1 	22 	1 	are 	VBP
+Phi 	3 	13 	1 	23 	1 	behind 	IN
+Phi 	3 	13 	1 	24 	0 	,
+Phi 	3 	13 	1 	25 	1 	and 	CC
+Phi 	3 	13 	1 	26 	1 	reaching 	VBG
+Phi 	3 	13 	1 	27 	1 	forth 	NN
+Phi 	3 	13 	1 	28 	1 	unto 	NN
+Phi 	3 	13 	1 	29 	1 	those 	DT
+Phi 	3 	13 	1 	30 	1 	things 	NNS
+Phi 	3 	13 	1 	31 	1 	which 	WDT
+Phi 	3 	13 	1 	32 	1 	are 	VBP
+Phi 	3 	13 	1 	33 	1 	before 	IN
+Phi 	3 	13 	1 	34 	0 	,
+Phi 	3 	14 	1 	1 	1 	I 	PRP
+Phi 	3 	14 	1 	2 	1 	press 	NN
+Phi 	3 	14 	1 	3 	1 	toward 	IN
+Phi 	3 	14 	1 	4 	1 	the 	DT
+Phi 	3 	14 	1 	5 	1 	mark 	NN
+Phi 	3 	14 	1 	6 	1 	for 	IN
+Phi 	3 	14 	1 	7 	1 	the 	DT
+Phi 	3 	14 	1 	8 	1 	prize 	NN
+Phi 	3 	14 	1 	9 	1 	of 	IN
+Phi 	3 	14 	1 	10 	1 	the 	DT
+Phi 	3 	14 	1 	11 	1 	high 	JJ
+Phi 	3 	14 	1 	12 	1 	calling 	VBG
+Phi 	3 	14 	1 	13 	1 	of 	IN
+Phi 	3 	14 	1 	14 	1 	God 	NNP
+Phi 	3 	14 	1 	15 	1 	in 	IN
+Phi 	3 	14 	1 	16 	1 	Christ 	NN
+Phi 	3 	14 	1 	17 	1 	Jesus 	NN
+Phi 	3 	14 	1 	18 	0 	.
+Phi 	3 	15 	1 	1 	1 	Let 	VB
+Phi 	3 	15 	1 	2 	1 	us 	PRP
+Phi 	3 	15 	1 	3 	1 	therefore 	RB
+Phi 	3 	15 	1 	4 	0 	,
+Phi 	3 	15 	1 	5 	1 	as 	IN
+Phi 	3 	15 	1 	6 	1 	many 	JJ
+Phi 	3 	15 	1 	7 	1 	as 	IN
+Phi 	3 	15 	1 	8 	1 	be 	VB
+Phi 	3 	15 	1 	9 	1 	perfect 	NN
+Phi 	3 	15 	1 	10 	0 	,
+Phi 	3 	15 	1 	11 	1 	be 	VB
+Phi 	3 	15 	1 	12 	1 	thus 	RB
+Phi 	3 	15 	1 	13 	1 	minded 	VBN
+Phi 	3 	15 	1 	14 	0 	:
+Phi 	3 	15 	1 	15 	1 	and 	CC
+Phi 	3 	15 	1 	16 	1 	if 	IN
+Phi 	3 	15 	1 	17 	1 	in 	IN
+Phi 	3 	15 	1 	18 	1 	any 	DT
+Phi 	3 	15 	1 	19 	1 	thing 	NN
+Phi 	3 	15 	1 	20 	1 	ye 	NN
+Phi 	3 	15 	1 	21 	1 	be 	VB
+Phi 	3 	15 	1 	22 	1 	otherwise 	RB
+Phi 	3 	15 	1 	23 	1 	minded 	VBN
+Phi 	3 	15 	1 	24 	0 	,
+Phi 	3 	15 	1 	25 	1 	God 	NNP
+Phi 	3 	15 	1 	26 	1 	shall 	MD
+Phi 	3 	15 	1 	27 	1 	reveal 	NN
+Phi 	3 	15 	1 	28 	1 	even 	RB
+Phi 	3 	15 	1 	29 	1 	this 	DT
+Phi 	3 	15 	1 	30 	1 	unto 	NN
+Phi 	3 	15 	1 	31 	1 	you 	PRP
+Phi 	3 	15 	1 	32 	0 	.
+Phi 	3 	16 	1 	1 	1 	Nevertheless 	RB
+Phi 	3 	16 	1 	2 	0 	,
+Phi 	3 	16 	1 	3 	1 	whereto 	NN
+Phi 	3 	16 	1 	4 	1 	we 	PRP
+Phi 	3 	16 	1 	5 	1 	have 	VB
+Phi 	3 	16 	1 	6 	1 	already 	RB
+Phi 	3 	16 	1 	7 	1 	attained 	VBN
+Phi 	3 	16 	1 	8 	0 	,
+Phi 	3 	16 	1 	9 	1 	let 	VB
+Phi 	3 	16 	1 	10 	1 	us 	PRP
+Phi 	3 	16 	1 	11 	1 	walk 	NN
+Phi 	3 	16 	1 	12 	1 	by 	IN
+Phi 	3 	16 	1 	13 	1 	the 	DT
+Phi 	3 	16 	1 	14 	1 	same 	JJ
+Phi 	3 	16 	1 	15 	1 	rule 	NN
+Phi 	3 	16 	1 	16 	0 	,
+Phi 	3 	16 	1 	17 	1 	let 	VB
+Phi 	3 	16 	1 	18 	1 	us 	PRP
+Phi 	3 	16 	1 	19 	1 	mind 	NN
+Phi 	3 	16 	1 	20 	1 	the 	DT
+Phi 	3 	16 	1 	21 	1 	same 	JJ
+Phi 	3 	16 	1 	22 	1 	thing 	NN
+Phi 	3 	16 	1 	23 	0 	.
+Phi 	3 	17 	1 	1 	1 	Brethren 	NNS
+Phi 	3 	17 	1 	2 	0 	,
+Phi 	3 	17 	1 	3 	1 	be 	VB
+Phi 	3 	17 	1 	4 	1 	followers 	NNS
+Phi 	3 	17 	1 	5 	1 	together 	RB
+Phi 	3 	17 	1 	6 	1 	of 	IN
+Phi 	3 	17 	1 	7 	1 	me 	PRP
+Phi 	3 	17 	1 	8 	0 	,
+Phi 	3 	17 	1 	9 	1 	and 	CC
+Phi 	3 	17 	1 	10 	1 	mark 	NN
+Phi 	3 	17 	1 	11 	1 	them 	PRP
+Phi 	3 	17 	1 	12 	1 	which 	WDT
+Phi 	3 	17 	1 	13 	1 	walk 	NN
+Phi 	3 	17 	1 	14 	1 	so 	RB
+Phi 	3 	17 	1 	15 	1 	as 	IN
+Phi 	3 	17 	1 	16 	1 	ye 	NN
+Phi 	3 	17 	1 	17 	1 	have 	VB
+Phi 	3 	17 	1 	18 	1 	us 	PRP
+Phi 	3 	17 	1 	19 	1 	for 	IN
+Phi 	3 	17 	1 	20 	1 	an 	DT
+Phi 	3 	17 	1 	21 	1 	ensample 	NN
+Phi 	3 	17 	1 	22 	0 	.
+Phi 	3 	18 	1 	1 	0 	(
+Phi 	3 	18 	1 	2 	1 	For 	IN
+Phi 	3 	18 	1 	3 	1 	many 	JJ
+Phi 	3 	18 	1 	4 	1 	walk 	NN
+Phi 	3 	18 	1 	5 	0 	,
+Phi 	3 	18 	1 	6 	1 	of 	IN
+Phi 	3 	18 	1 	7 	1 	whom 	WP
+Phi 	3 	18 	1 	8 	1 	I 	PRP
+Phi 	3 	18 	1 	9 	1 	have 	VB
+Phi 	3 	18 	1 	10 	1 	told 	NN
+Phi 	3 	18 	1 	11 	1 	you 	PRP
+Phi 	3 	18 	1 	12 	1 	often 	RB
+Phi 	3 	18 	1 	13 	0 	,
+Phi 	3 	18 	1 	14 	1 	and 	CC
+Phi 	3 	18 	1 	15 	1 	now 	RB
+Phi 	3 	18 	1 	16 	1 	tell 	NN
+Phi 	3 	18 	1 	17 	1 	you 	PRP
+Phi 	3 	18 	1 	18 	1 	even 	RB
+Phi 	3 	18 	1 	19 	1 	weeping 	VBG
+Phi 	3 	18 	1 	20 	0 	,
+Phi 	3 	18 	1 	21 	1 	that 	IN
+Phi 	3 	18 	1 	22 	1 	they 	PRP
+Phi 	3 	18 	1 	23 	1 	are 	VBP
+Phi 	3 	18 	1 	24 	1 	the 	DT
+Phi 	3 	18 	1 	25 	1 	enemies 	NNS
+Phi 	3 	18 	1 	26 	1 	of 	IN
+Phi 	3 	18 	1 	27 	1 	the 	DT
+Phi 	3 	18 	1 	28 	1 	cross 	NN
+Phi 	3 	18 	1 	29 	1 	of 	IN
+Phi 	3 	18 	1 	30 	1 	Christ 	NN
+Phi 	3 	18 	1 	31 	0 	:
+Phi 	3 	19 	1 	1 	1 	Whose 	VB
+Phi 	3 	19 	1 	2 	1 	end 	NN
+Phi 	3 	19 	1 	3 	1 	is 	VBZ
+Phi 	3 	19 	1 	4 	1 	destruction 	NN
+Phi 	3 	19 	1 	5 	0 	,
+Phi 	3 	19 	1 	6 	1 	whose 	WP$
+Phi 	3 	19 	1 	7 	1 	God 	NNP
+Phi 	3 	19 	1 	8 	1 	is 	VBZ
+Phi 	3 	19 	1 	9 	1 	their 	PRP$
+Phi 	3 	19 	1 	10 	1 	belly 	RB
+Phi 	3 	19 	1 	11 	0 	,
+Phi 	3 	19 	1 	12 	1 	and 	CC
+Phi 	3 	19 	1 	13 	1 	whose 	WP$
+Phi 	3 	19 	1 	14 	1 	glory 	NN
+Phi 	3 	19 	1 	15 	1 	is 	VBZ
+Phi 	3 	19 	1 	16 	1 	in 	IN
+Phi 	3 	19 	1 	17 	1 	their 	PRP$
+Phi 	3 	19 	1 	18 	1 	shame 	NN
+Phi 	3 	19 	1 	19 	0 	,
+Phi 	3 	19 	1 	20 	1 	who 	WP
+Phi 	3 	19 	1 	21 	1 	mind 	NN
+Phi 	3 	19 	1 	22 	1 	earthly 	RB
+Phi 	3 	19 	1 	23 	1 	things 	NNS
+Phi 	3 	19 	1 	24 	0 	.
+Phi 	3 	19 	1 	25 	0 	)
+Phi 	3 	20 	1 	1 	1 	For 	IN
+Phi 	3 	20 	1 	2 	1 	our 	PRP$
+Phi 	3 	20 	1 	3 	1 	conversation 	NN
+Phi 	3 	20 	1 	4 	1 	is 	VBZ
+Phi 	3 	20 	1 	5 	1 	in 	IN
+Phi 	3 	20 	1 	6 	1 	heaven 	NN
+Phi 	3 	20 	1 	7 	0 	;
+Phi 	3 	20 	1 	8 	1 	from 	IN
+Phi 	3 	20 	1 	9 	1 	whence 	NN
+Phi 	3 	20 	1 	10 	1 	also 	RB
+Phi 	3 	20 	1 	11 	1 	we 	PRP
+Phi 	3 	20 	1 	12 	1 	look 	NN
+Phi 	3 	20 	1 	13 	1 	for 	IN
+Phi 	3 	20 	1 	14 	1 	the 	DT
+Phi 	3 	20 	1 	15 	1 	Saviour 	NN
+Phi 	3 	20 	1 	16 	0 	,
+Phi 	3 	20 	1 	17 	1 	the 	DT
+Phi 	3 	20 	1 	18 	1 	Lord 	NN
+Phi 	3 	20 	1 	19 	1 	Jesus 	NN
+Phi 	3 	20 	1 	20 	1 	Christ 	NN
+Phi 	3 	20 	1 	21 	0 	:
+Phi 	3 	21 	1 	1 	1 	Who 	WP
+Phi 	3 	21 	1 	2 	1 	shall 	MD
+Phi 	3 	21 	1 	3 	1 	change 	NN
+Phi 	3 	21 	1 	4 	1 	our 	PRP$
+Phi 	3 	21 	1 	5 	1 	vile 	NN
+Phi 	3 	21 	1 	6 	1 	body 	NN
+Phi 	3 	21 	1 	7 	0 	,
+Phi 	3 	21 	1 	8 	1 	that 	IN
+Phi 	3 	21 	1 	9 	1 	it 	PRP
+Phi 	3 	21 	1 	10 	1 	may 	MD
+Phi 	3 	21 	1 	11 	1 	be 	VB
+Phi 	3 	21 	1 	12 	1 	fashioned 	VBN
+Phi 	3 	21 	1 	13 	1 	like 	IN
+Phi 	3 	21 	1 	14 	1 	unto 	NN
+Phi 	3 	21 	1 	15 	1 	his 	PRP$
+Phi 	3 	21 	1 	16 	1 	glorious 	JJ
+Phi 	3 	21 	1 	17 	1 	body 	NN
+Phi 	3 	21 	1 	18 	0 	,
+Phi 	3 	21 	1 	19 	1 	according 	VBG
+Phi 	3 	21 	1 	20 	1 	to 	TO
+Phi 	3 	21 	1 	21 	1 	the 	DT
+Phi 	3 	21 	1 	22 	1 	working 	VBG
+Phi 	3 	21 	1 	23 	1 	whereby 	NN
+Phi 	3 	21 	1 	24 	1 	he 	PRP
+Phi 	3 	21 	1 	25 	1 	is 	VBZ
+Phi 	3 	21 	1 	26 	1 	able 	JJ
+Phi 	3 	21 	1 	27 	1 	even 	RB
+Phi 	3 	21 	1 	28 	1 	to 	TO
+Phi 	3 	21 	1 	29 	1 	subdue 	JJ
+Phi 	3 	21 	1 	30 	1 	all 	DT
+Phi 	3 	21 	1 	31 	1 	things 	NNS
+Phi 	3 	21 	1 	32 	1 	unto 	NN
+Phi 	3 	21 	1 	33 	1 	himself 	PRP
+Phi 	3 	21 	1 	34 	0 	.
+Phi 	4 	1 	1 	1 	1 	Therefore 	RB
+Phi 	4 	1 	1 	2 	0 	,
+Phi 	4 	1 	1 	3 	1 	my 	PRP$
+Phi 	4 	1 	1 	4 	1 	brethren 	NNS
+Phi 	4 	1 	1 	5 	1 	dearly 	RB
+Phi 	4 	1 	1 	6 	1 	beloved 	VBN
+Phi 	4 	1 	1 	7 	1 	and 	CC
+Phi 	4 	1 	1 	8 	1 	longed 	VBN
+Phi 	4 	1 	1 	9 	1 	for 	IN
+Phi 	4 	1 	1 	10 	0 	,
+Phi 	4 	1 	1 	11 	1 	my 	PRP$
+Phi 	4 	1 	1 	12 	1 	joy 	NN
+Phi 	4 	1 	1 	13 	1 	and 	CC
+Phi 	4 	1 	1 	14 	1 	crown 	NN
+Phi 	4 	1 	1 	15 	0 	,
+Phi 	4 	1 	1 	16 	1 	so 	RB
+Phi 	4 	1 	1 	17 	1 	stand 	NN
+Phi 	4 	1 	1 	18 	1 	fast 	NN
+Phi 	4 	1 	1 	19 	1 	in 	IN
+Phi 	4 	1 	1 	20 	1 	the 	DT
+Phi 	4 	1 	1 	21 	1 	Lord 	NN
+Phi 	4 	1 	1 	22 	0 	,
+Phi 	4 	1 	1 	23 	1 	my 	PRP$
+Phi 	4 	1 	1 	24 	1 	dearly 	RB
+Phi 	4 	1 	1 	25 	1 	beloved 	VBN
+Phi 	4 	1 	1 	26 	0 	.
+Phi 	4 	2 	1 	1 	1 	I 	PRP
+Phi 	4 	2 	1 	2 	1 	beseech 	NN
+Phi 	4 	2 	1 	3 	1 	Euodias 	NNS
+Phi 	4 	2 	1 	4 	0 	,
+Phi 	4 	2 	1 	5 	1 	and 	CC
+Phi 	4 	2 	1 	6 	1 	beseech 	NN
+Phi 	4 	2 	1 	7 	1 	Syntyche 	NN
+Phi 	4 	2 	1 	8 	0 	,
+Phi 	4 	2 	1 	9 	1 	that 	IN
+Phi 	4 	2 	1 	10 	1 	they 	PRP
+Phi 	4 	2 	1 	11 	1 	be 	VB
+Phi 	4 	2 	1 	12 	1 	of 	IN
+Phi 	4 	2 	1 	13 	1 	the 	DT
+Phi 	4 	2 	1 	14 	1 	same 	JJ
+Phi 	4 	2 	1 	15 	1 	mind 	NN
+Phi 	4 	2 	1 	16 	1 	in 	IN
+Phi 	4 	2 	1 	17 	1 	the 	DT
+Phi 	4 	2 	1 	18 	1 	Lord 	NN
+Phi 	4 	2 	1 	19 	0 	.
+Phi 	4 	3 	1 	1 	1 	And 	CC
+Phi 	4 	3 	1 	2 	1 	I 	PRP
+Phi 	4 	3 	1 	3 	1 	intreat 	NN
+Phi 	4 	3 	1 	4 	1 	thee 	NN
+Phi 	4 	3 	1 	5 	1 	also 	RB
+Phi 	4 	3 	1 	6 	0 	,
+Phi 	4 	3 	1 	7 	1 	true 	JJ
+Phi 	4 	3 	1 	8 	1 	yokefellow 	NN
+Phi 	4 	3 	1 	9 	0 	,
+Phi 	4 	3 	1 	10 	1 	help 	NN
+Phi 	4 	3 	1 	11 	1 	those 	DT
+Phi 	4 	3 	1 	12 	1 	women 	NNS
+Phi 	4 	3 	1 	13 	1 	which 	WDT
+Phi 	4 	3 	1 	14 	1 	laboured 	VBN
+Phi 	4 	3 	1 	15 	1 	with 	IN
+Phi 	4 	3 	1 	16 	1 	me 	PRP
+Phi 	4 	3 	1 	17 	1 	in 	IN
+Phi 	4 	3 	1 	18 	1 	the 	DT
+Phi 	4 	3 	1 	19 	1 	gospel 	NN
+Phi 	4 	3 	1 	20 	0 	,
+Phi 	4 	3 	1 	21 	1 	with 	IN
+Phi 	4 	3 	1 	22 	1 	Clement 	NN
+Phi 	4 	3 	1 	23 	1 	also 	RB
+Phi 	4 	3 	1 	24 	0 	,
+Phi 	4 	3 	1 	25 	1 	and 	CC
+Phi 	4 	3 	1 	26 	1 	with 	IN
+Phi 	4 	3 	1 	27 	1 	other 	JJ
+Phi 	4 	3 	1 	28 	1 	my 	PRP$
+Phi 	4 	3 	1 	29 	1 	fellowlabourers 	NNS
+Phi 	4 	3 	1 	30 	0 	,
+Phi 	4 	3 	1 	31 	1 	whose 	WP$
+Phi 	4 	3 	1 	32 	1 	names 	NNS
+Phi 	4 	3 	1 	33 	1 	are 	VBP
+Phi 	4 	3 	1 	34 	1 	in 	IN
+Phi 	4 	3 	1 	35 	1 	the 	DT
+Phi 	4 	3 	1 	36 	1 	book 	NN
+Phi 	4 	3 	1 	37 	1 	of 	IN
+Phi 	4 	3 	1 	38 	1 	life 	NN
+Phi 	4 	3 	1 	39 	0 	.
+Phi 	4 	4 	1 	1 	1 	Rejoice 	NN
+Phi 	4 	4 	1 	2 	1 	in 	IN
+Phi 	4 	4 	1 	3 	1 	the 	DT
+Phi 	4 	4 	1 	4 	1 	Lord 	NN
+Phi 	4 	4 	1 	5 	1 	alway 	RB
+Phi 	4 	4 	1 	6 	0 	:
+Phi 	4 	4 	1 	7 	1 	and 	CC
+Phi 	4 	4 	1 	8 	1 	again 	RB
+Phi 	4 	4 	1 	9 	1 	I 	PRP
+Phi 	4 	4 	1 	10 	1 	say 	VB
+Phi 	4 	4 	1 	11 	0 	,
+Phi 	4 	4 	1 	12 	1 	Rejoice 	NN
+Phi 	4 	4 	1 	13 	0 	.
+Phi 	4 	5 	1 	1 	1 	Let 	VB
+Phi 	4 	5 	1 	2 	1 	your 	PRP$
+Phi 	4 	5 	1 	3 	1 	moderation 	NN
+Phi 	4 	5 	1 	4 	1 	be 	VB
+Phi 	4 	5 	1 	5 	1 	known 	VBN
+Phi 	4 	5 	1 	6 	1 	unto 	NN
+Phi 	4 	5 	1 	7 	1 	all 	DT
+Phi 	4 	5 	1 	8 	1 	men 	NNS
+Phi 	4 	5 	1 	9 	0 	.
+Phi 	4 	5 	2 	1 	1 	The 	DT
+Phi 	4 	5 	2 	2 	1 	Lord 	NN
+Phi 	4 	5 	2 	3 	1 	is 	VBZ
+Phi 	4 	5 	2 	4 	1 	at 	IN
+Phi 	4 	5 	2 	5 	1 	hand 	NN
+Phi 	4 	5 	2 	6 	0 	.
+Phi 	4 	6 	1 	1 	1 	Be 	VB
+Phi 	4 	6 	1 	2 	1 	careful 	NN
+Phi 	4 	6 	1 	3 	1 	for 	IN
+Phi 	4 	6 	1 	4 	1 	nothing 	NN
+Phi 	4 	6 	1 	5 	0 	;
+Phi 	4 	6 	1 	6 	1 	but 	CC
+Phi 	4 	6 	1 	7 	1 	in 	IN
+Phi 	4 	6 	1 	8 	1 	every 	DT
+Phi 	4 	6 	1 	9 	1 	thing 	NN
+Phi 	4 	6 	1 	10 	1 	by 	IN
+Phi 	4 	6 	1 	11 	1 	prayer 	NN
+Phi 	4 	6 	1 	12 	1 	and 	CC
+Phi 	4 	6 	1 	13 	1 	supplication 	NN
+Phi 	4 	6 	1 	14 	1 	with 	IN
+Phi 	4 	6 	1 	15 	1 	thanksgiving 	VBG
+Phi 	4 	6 	1 	16 	1 	let 	VB
+Phi 	4 	6 	1 	17 	1 	your 	PRP$
+Phi 	4 	6 	1 	18 	1 	requests 	NNS
+Phi 	4 	6 	1 	19 	1 	be 	VB
+Phi 	4 	6 	1 	20 	1 	made 	VBN
+Phi 	4 	6 	1 	21 	1 	known 	VBN
+Phi 	4 	6 	1 	22 	1 	unto 	NN
+Phi 	4 	6 	1 	23 	1 	God 	NNP
+Phi 	4 	6 	1 	24 	0 	.
+Phi 	4 	7 	1 	1 	1 	And 	CC
+Phi 	4 	7 	1 	2 	1 	the 	DT
+Phi 	4 	7 	1 	3 	1 	peace 	NN
+Phi 	4 	7 	1 	4 	1 	of 	IN
+Phi 	4 	7 	1 	5 	1 	God 	NNP
+Phi 	4 	7 	1 	6 	0 	,
+Phi 	4 	7 	1 	7 	1 	which 	WDT
+Phi 	4 	7 	1 	8 	1 	passeth 	NN
+Phi 	4 	7 	1 	9 	1 	all 	DT
+Phi 	4 	7 	1 	10 	1 	understanding 	VBG
+Phi 	4 	7 	1 	11 	0 	,
+Phi 	4 	7 	1 	12 	1 	shall 	MD
+Phi 	4 	7 	1 	13 	1 	keep 	VB
+Phi 	4 	7 	1 	14 	1 	your 	PRP$
+Phi 	4 	7 	1 	15 	1 	hearts 	NNS
+Phi 	4 	7 	1 	16 	1 	and 	CC
+Phi 	4 	7 	1 	17 	1 	minds 	NNS
+Phi 	4 	7 	1 	18 	1 	through 	IN
+Phi 	4 	7 	1 	19 	1 	Christ 	NN
+Phi 	4 	7 	1 	20 	1 	Jesus 	NN
+Phi 	4 	7 	1 	21 	0 	.
+Phi 	4 	8 	1 	1 	1 	Finally 	RB
+Phi 	4 	8 	1 	2 	0 	,
+Phi 	4 	8 	1 	3 	1 	brethren 	NNS
+Phi 	4 	8 	1 	4 	0 	,
+Phi 	4 	8 	1 	5 	1 	whatsoever 	NN
+Phi 	4 	8 	1 	6 	1 	things 	NNS
+Phi 	4 	8 	1 	7 	1 	are 	VBP
+Phi 	4 	8 	1 	8 	1 	true 	JJ
+Phi 	4 	8 	1 	9 	0 	,
+Phi 	4 	8 	1 	10 	1 	whatsoever 	NN
+Phi 	4 	8 	1 	11 	1 	things 	NNS
+Phi 	4 	8 	1 	12 	1 	are 	VBP
+Phi 	4 	8 	1 	13 	1 	honest 	NN
+Phi 	4 	8 	1 	14 	0 	,
+Phi 	4 	8 	1 	15 	1 	whatsoever 	NN
+Phi 	4 	8 	1 	16 	1 	things 	NNS
+Phi 	4 	8 	1 	17 	1 	are 	VBP
+Phi 	4 	8 	1 	18 	1 	just 	RB
+Phi 	4 	8 	1 	19 	0 	,
+Phi 	4 	8 	1 	20 	1 	whatsoever 	NN
+Phi 	4 	8 	1 	21 	1 	things 	NNS
+Phi 	4 	8 	1 	22 	1 	are 	VBP
+Phi 	4 	8 	1 	23 	1 	pure 	NN
+Phi 	4 	8 	1 	24 	0 	,
+Phi 	4 	8 	1 	25 	1 	whatsoever 	NN
+Phi 	4 	8 	1 	26 	1 	things 	NNS
+Phi 	4 	8 	1 	27 	1 	are 	VBP
+Phi 	4 	8 	1 	28 	1 	lovely 	RB
+Phi 	4 	8 	1 	29 	0 	,
+Phi 	4 	8 	1 	30 	1 	whatsoever 	NN
+Phi 	4 	8 	1 	31 	1 	things 	NNS
+Phi 	4 	8 	1 	32 	1 	are 	VBP
+Phi 	4 	8 	1 	33 	1 	of 	IN
+Phi 	4 	8 	1 	34 	1 	good 	JJ
+Phi 	4 	8 	1 	35 	1 	report 	NN
+Phi 	4 	8 	1 	36 	0 	;
+Phi 	4 	8 	1 	37 	1 	if 	IN
+Phi 	4 	8 	1 	38 	1 	there 	RB
+Phi 	4 	8 	1 	39 	1 	be 	VB
+Phi 	4 	8 	1 	40 	1 	any 	DT
+Phi 	4 	8 	1 	41 	1 	virtue 	NN
+Phi 	4 	8 	1 	42 	0 	,
+Phi 	4 	8 	1 	43 	1 	and 	CC
+Phi 	4 	8 	1 	44 	1 	if 	IN
+Phi 	4 	8 	1 	45 	1 	there 	RB
+Phi 	4 	8 	1 	46 	1 	be 	VB
+Phi 	4 	8 	1 	47 	1 	any 	DT
+Phi 	4 	8 	1 	48 	1 	praise 	NN
+Phi 	4 	8 	1 	49 	0 	,
+Phi 	4 	8 	1 	50 	1 	think 	NN
+Phi 	4 	8 	1 	51 	1 	on 	IN
+Phi 	4 	8 	1 	52 	1 	these 	DT
+Phi 	4 	8 	1 	53 	1 	things 	NNS
+Phi 	4 	8 	1 	54 	0 	.
+Phi 	4 	9 	1 	1 	1 	Those 	DT
+Phi 	4 	9 	1 	2 	1 	things 	NNS
+Phi 	4 	9 	1 	3 	0 	,
+Phi 	4 	9 	1 	4 	1 	which 	WDT
+Phi 	4 	9 	1 	5 	1 	ye 	NN
+Phi 	4 	9 	1 	6 	1 	have 	VB
+Phi 	4 	9 	1 	7 	1 	both 	DT
+Phi 	4 	9 	1 	8 	1 	learned 	VBN
+Phi 	4 	9 	1 	9 	0 	,
+Phi 	4 	9 	1 	10 	1 	and 	CC
+Phi 	4 	9 	1 	11 	1 	received 	VBN
+Phi 	4 	9 	1 	12 	0 	,
+Phi 	4 	9 	1 	13 	1 	and 	CC
+Phi 	4 	9 	1 	14 	1 	heard 	NN
+Phi 	4 	9 	1 	15 	0 	,
+Phi 	4 	9 	1 	16 	1 	and 	CC
+Phi 	4 	9 	1 	17 	1 	seen 	VBN
+Phi 	4 	9 	1 	18 	1 	in 	IN
+Phi 	4 	9 	1 	19 	1 	me 	PRP
+Phi 	4 	9 	1 	20 	0 	,
+Phi 	4 	9 	1 	21 	1 	do 	VB
+Phi 	4 	9 	1 	22 	0 	:
+Phi 	4 	9 	1 	23 	1 	and 	CC
+Phi 	4 	9 	1 	24 	1 	the 	DT
+Phi 	4 	9 	1 	25 	1 	God 	NNP
+Phi 	4 	9 	1 	26 	1 	of 	IN
+Phi 	4 	9 	1 	27 	1 	peace 	NN
+Phi 	4 	9 	1 	28 	1 	shall 	MD
+Phi 	4 	9 	1 	29 	1 	be 	VB
+Phi 	4 	9 	1 	30 	1 	with 	IN
+Phi 	4 	9 	1 	31 	1 	you 	PRP
+Phi 	4 	9 	1 	32 	0 	.
+Phi 	4 	10 	1 	1 	1 	But 	CC
+Phi 	4 	10 	1 	2 	1 	I 	PRP
+Phi 	4 	10 	1 	3 	1 	rejoiced 	VBN
+Phi 	4 	10 	1 	4 	1 	in 	IN
+Phi 	4 	10 	1 	5 	1 	the 	DT
+Phi 	4 	10 	1 	6 	1 	Lord 	NN
+Phi 	4 	10 	1 	7 	1 	greatly 	RB
+Phi 	4 	10 	1 	8 	0 	,
+Phi 	4 	10 	1 	9 	1 	that 	IN
+Phi 	4 	10 	1 	10 	1 	now 	RB
+Phi 	4 	10 	1 	11 	1 	at 	IN
+Phi 	4 	10 	1 	12 	1 	the 	DT
+Phi 	4 	10 	1 	13 	1 	last 	JJ
+Phi 	4 	10 	1 	14 	1 	your 	PRP$
+Phi 	4 	10 	1 	15 	1 	care 	NN
+Phi 	4 	10 	1 	16 	1 	of 	IN
+Phi 	4 	10 	1 	17 	1 	me 	PRP
+Phi 	4 	10 	1 	18 	1 	hath 	NN
+Phi 	4 	10 	1 	19 	1 	flourished 	VBN
+Phi 	4 	10 	1 	20 	1 	again 	RB
+Phi 	4 	10 	1 	21 	0 	;
+Phi 	4 	10 	1 	22 	1 	wherein 	NN
+Phi 	4 	10 	1 	23 	1 	ye 	NN
+Phi 	4 	10 	1 	24 	1 	were 	VBD
+Phi 	4 	10 	1 	25 	1 	also 	RB
+Phi 	4 	10 	1 	26 	1 	careful 	NN
+Phi 	4 	10 	1 	27 	0 	,
+Phi 	4 	10 	1 	28 	1 	but 	CC
+Phi 	4 	10 	1 	29 	1 	ye 	NN
+Phi 	4 	10 	1 	30 	1 	lacked 	VBN
+Phi 	4 	10 	1 	31 	1 	opportunity 	NN
+Phi 	4 	10 	1 	32 	0 	.
+Phi 	4 	11 	1 	1 	1 	Not 	RB
+Phi 	4 	11 	1 	2 	1 	that 	IN
+Phi 	4 	11 	1 	3 	1 	I 	PRP
+Phi 	4 	11 	1 	4 	1 	speak 	NN
+Phi 	4 	11 	1 	5 	1 	in 	IN
+Phi 	4 	11 	1 	6 	1 	respect 	NN
+Phi 	4 	11 	1 	7 	1 	of 	IN
+Phi 	4 	11 	1 	8 	1 	want 	NN
+Phi 	4 	11 	1 	9 	0 	:
+Phi 	4 	11 	1 	10 	1 	for 	IN
+Phi 	4 	11 	1 	11 	1 	I 	PRP
+Phi 	4 	11 	1 	12 	1 	have 	VB
+Phi 	4 	11 	1 	13 	1 	learned 	VBN
+Phi 	4 	11 	1 	14 	0 	,
+Phi 	4 	11 	1 	15 	1 	in 	IN
+Phi 	4 	11 	1 	16 	1 	whatsoever 	NN
+Phi 	4 	11 	1 	17 	1 	state 	NN
+Phi 	4 	11 	1 	18 	1 	I 	PRP
+Phi 	4 	11 	1 	19 	1 	am 	VBP
+Phi 	4 	11 	1 	20 	0 	,
+Phi 	4 	11 	1 	21 	1 	therewith 	NN
+Phi 	4 	11 	1 	22 	1 	to 	TO
+Phi 	4 	11 	1 	23 	1 	be 	VB
+Phi 	4 	11 	1 	24 	1 	content 	NN
+Phi 	4 	11 	1 	25 	0 	.
+Phi 	4 	12 	1 	1 	1 	I 	PRP
+Phi 	4 	12 	1 	2 	1 	know 	VB
+Phi 	4 	12 	1 	3 	1 	both 	DT
+Phi 	4 	12 	1 	4 	1 	how 	WRB
+Phi 	4 	12 	1 	5 	1 	to 	TO
+Phi 	4 	12 	1 	6 	1 	be 	VB
+Phi 	4 	12 	1 	7 	1 	abased 	VBN
+Phi 	4 	12 	1 	8 	0 	,
+Phi 	4 	12 	1 	9 	1 	and 	CC
+Phi 	4 	12 	1 	10 	1 	I 	PRP
+Phi 	4 	12 	1 	11 	1 	know 	VB
+Phi 	4 	12 	1 	12 	1 	how 	WRB
+Phi 	4 	12 	1 	13 	1 	to 	TO
+Phi 	4 	12 	1 	14 	1 	abound 	NN
+Phi 	4 	12 	1 	15 	0 	:
+Phi 	4 	12 	1 	16 	1 	every 	DT
+Phi 	4 	12 	1 	17 	1 	where 	WRB
+Phi 	4 	12 	1 	18 	1 	and 	CC
+Phi 	4 	12 	1 	19 	1 	in 	IN
+Phi 	4 	12 	1 	20 	1 	all 	DT
+Phi 	4 	12 	1 	21 	1 	things 	NNS
+Phi 	4 	12 	1 	22 	1 	I 	PRP
+Phi 	4 	12 	1 	23 	1 	am 	VBP
+Phi 	4 	12 	1 	24 	1 	instructed 	VBN
+Phi 	4 	12 	1 	25 	1 	both 	DT
+Phi 	4 	12 	1 	26 	1 	to 	TO
+Phi 	4 	12 	1 	27 	1 	be 	VB
+Phi 	4 	12 	1 	28 	1 	full 	JJ
+Phi 	4 	12 	1 	29 	1 	and 	CC
+Phi 	4 	12 	1 	30 	1 	to 	TO
+Phi 	4 	12 	1 	31 	1 	be 	VB
+Phi 	4 	12 	1 	32 	1 	hungry 	NN
+Phi 	4 	12 	1 	33 	0 	,
+Phi 	4 	12 	1 	34 	1 	both 	DT
+Phi 	4 	12 	1 	35 	1 	to 	TO
+Phi 	4 	12 	1 	36 	1 	abound 	NN
+Phi 	4 	12 	1 	37 	1 	and 	CC
+Phi 	4 	12 	1 	38 	1 	to 	TO
+Phi 	4 	12 	1 	39 	1 	suffer 	NN
+Phi 	4 	12 	1 	40 	1 	need 	NN
+Phi 	4 	12 	1 	41 	0 	.
+Phi 	4 	13 	1 	1 	1 	I 	PRP
+Phi 	4 	13 	1 	2 	1 	can 	MD
+Phi 	4 	13 	1 	3 	1 	do 	VB
+Phi 	4 	13 	1 	4 	1 	all 	DT
+Phi 	4 	13 	1 	5 	1 	things 	NNS
+Phi 	4 	13 	1 	6 	1 	through 	IN
+Phi 	4 	13 	1 	7 	1 	Christ 	NN
+Phi 	4 	13 	1 	8 	1 	which 	WDT
+Phi 	4 	13 	1 	9 	1 	strengtheneth 	NN
+Phi 	4 	13 	1 	10 	1 	me 	PRP
+Phi 	4 	13 	1 	11 	0 	.
+Phi 	4 	14 	1 	1 	1 	Notwithstanding 	VBG
+Phi 	4 	14 	1 	2 	1 	ye 	NN
+Phi 	4 	14 	1 	3 	1 	have 	VB
+Phi 	4 	14 	1 	4 	1 	well 	RB
+Phi 	4 	14 	1 	5 	1 	done 	VBN
+Phi 	4 	14 	1 	6 	0 	,
+Phi 	4 	14 	1 	7 	1 	that 	IN
+Phi 	4 	14 	1 	8 	1 	ye 	NN
+Phi 	4 	14 	1 	9 	1 	did 	VBD
+Phi 	4 	14 	1 	10 	1 	communicate 	NN
+Phi 	4 	14 	1 	11 	1 	with 	IN
+Phi 	4 	14 	1 	12 	1 	my 	PRP$
+Phi 	4 	14 	1 	13 	1 	affliction 	NN
+Phi 	4 	14 	1 	14 	0 	.
+Phi 	4 	15 	1 	1 	1 	Now 	RB
+Phi 	4 	15 	1 	2 	1 	ye 	NN
+Phi 	4 	15 	1 	3 	1 	Philippians 	NNS
+Phi 	4 	15 	1 	4 	1 	know 	VB
+Phi 	4 	15 	1 	5 	1 	also 	RB
+Phi 	4 	15 	1 	6 	0 	,
+Phi 	4 	15 	1 	7 	1 	that 	IN
+Phi 	4 	15 	1 	8 	1 	in 	IN
+Phi 	4 	15 	1 	9 	1 	the 	DT
+Phi 	4 	15 	1 	10 	1 	beginning 	VBG
+Phi 	4 	15 	1 	11 	1 	of 	IN
+Phi 	4 	15 	1 	12 	1 	the 	DT
+Phi 	4 	15 	1 	13 	1 	gospel 	NN
+Phi 	4 	15 	1 	14 	0 	,
+Phi 	4 	15 	1 	15 	1 	when 	WRB
+Phi 	4 	15 	1 	16 	1 	I 	PRP
+Phi 	4 	15 	1 	17 	1 	departed 	VBN
+Phi 	4 	15 	1 	18 	1 	from 	IN
+Phi 	4 	15 	1 	19 	1 	Macedonia 	NN
+Phi 	4 	15 	1 	20 	0 	,
+Phi 	4 	15 	1 	21 	1 	no 	DT
+Phi 	4 	15 	1 	22 	1 	church 	NN
+Phi 	4 	15 	1 	23 	1 	communicated 	VBN
+Phi 	4 	15 	1 	24 	1 	with 	IN
+Phi 	4 	15 	1 	25 	1 	me 	PRP
+Phi 	4 	15 	1 	26 	1 	as 	IN
+Phi 	4 	15 	1 	27 	1 	concerning 	VBG
+Phi 	4 	15 	1 	28 	1 	giving 	VBG
+Phi 	4 	15 	1 	29 	1 	and 	CC
+Phi 	4 	15 	1 	30 	1 	receiving 	VBG
+Phi 	4 	15 	1 	31 	0 	,
+Phi 	4 	15 	1 	32 	1 	but 	CC
+Phi 	4 	15 	1 	33 	1 	ye 	NN
+Phi 	4 	15 	1 	34 	1 	only 	RB
+Phi 	4 	15 	1 	35 	0 	.
+Phi 	4 	16 	1 	1 	1 	For 	IN
+Phi 	4 	16 	1 	2 	1 	even 	RB
+Phi 	4 	16 	1 	3 	1 	in 	IN
+Phi 	4 	16 	1 	4 	1 	Thessalonica 	NN
+Phi 	4 	16 	1 	5 	1 	ye 	NN
+Phi 	4 	16 	1 	6 	1 	sent 	NN
+Phi 	4 	16 	1 	7 	1 	once 	RB
+Phi 	4 	16 	1 	8 	1 	and 	CC
+Phi 	4 	16 	1 	9 	1 	again 	RB
+Phi 	4 	16 	1 	10 	1 	unto 	NN
+Phi 	4 	16 	1 	11 	1 	my 	PRP$
+Phi 	4 	16 	1 	12 	1 	necessity 	NN
+Phi 	4 	16 	1 	13 	0 	.
+Phi 	4 	17 	1 	1 	1 	Not 	RB
+Phi 	4 	17 	1 	2 	1 	because 	IN
+Phi 	4 	17 	1 	3 	1 	I 	PRP
+Phi 	4 	17 	1 	4 	1 	desire 	NN
+Phi 	4 	17 	1 	5 	1 	a 	DT
+Phi 	4 	17 	1 	6 	1 	gift 	NN
+Phi 	4 	17 	1 	7 	0 	:
+Phi 	4 	17 	1 	8 	1 	but 	CC
+Phi 	4 	17 	1 	9 	1 	I 	PRP
+Phi 	4 	17 	1 	10 	1 	desire 	NN
+Phi 	4 	17 	1 	11 	1 	fruit 	NN
+Phi 	4 	17 	1 	12 	1 	that 	IN
+Phi 	4 	17 	1 	13 	1 	may 	MD
+Phi 	4 	17 	1 	14 	1 	abound 	NN
+Phi 	4 	17 	1 	15 	1 	to 	TO
+Phi 	4 	17 	1 	16 	1 	your 	PRP$
+Phi 	4 	17 	1 	17 	1 	account 	NN
+Phi 	4 	17 	1 	18 	0 	.
+Phi 	4 	18 	1 	1 	1 	But 	CC
+Phi 	4 	18 	1 	2 	1 	I 	PRP
+Phi 	4 	18 	1 	3 	1 	have 	VB
+Phi 	4 	18 	1 	4 	1 	all 	DT
+Phi 	4 	18 	1 	5 	0 	,
+Phi 	4 	18 	1 	6 	1 	and 	CC
+Phi 	4 	18 	1 	7 	1 	abound 	NN
+Phi 	4 	18 	1 	8 	0 	:
+Phi 	4 	18 	1 	9 	1 	I 	PRP
+Phi 	4 	18 	1 	10 	1 	am 	VBP
+Phi 	4 	18 	1 	11 	1 	full 	JJ
+Phi 	4 	18 	1 	12 	0 	,
+Phi 	4 	18 	1 	13 	1 	having 	VBG
+Phi 	4 	18 	1 	14 	1 	received 	VBN
+Phi 	4 	18 	1 	15 	1 	of 	IN
+Phi 	4 	18 	1 	16 	1 	Epaphroditus 	NN
+Phi 	4 	18 	1 	17 	1 	the 	DT
+Phi 	4 	18 	1 	18 	1 	things 	NNS
+Phi 	4 	18 	1 	19 	1 	which 	WDT
+Phi 	4 	18 	1 	20 	1 	were 	VBD
+Phi 	4 	18 	1 	21 	1 	sent 	NN
+Phi 	4 	18 	1 	22 	1 	from 	IN
+Phi 	4 	18 	1 	23 	1 	you 	PRP
+Phi 	4 	18 	1 	24 	0 	,
+Phi 	4 	18 	1 	25 	1 	an 	DT
+Phi 	4 	18 	1 	26 	1 	odour 	NN
+Phi 	4 	18 	1 	27 	1 	of 	IN
+Phi 	4 	18 	1 	28 	1 	a 	DT
+Phi 	4 	18 	1 	29 	1 	sweet 	NN
+Phi 	4 	18 	1 	30 	1 	smell 	NN
+Phi 	4 	18 	1 	31 	0 	,
+Phi 	4 	18 	1 	32 	1 	a 	DT
+Phi 	4 	18 	1 	33 	1 	sacrifice 	NN
+Phi 	4 	18 	1 	34 	1 	acceptable 	JJ
+Phi 	4 	18 	1 	35 	0 	,
+Phi 	4 	18 	1 	36 	1 	wellpleasing 	VBG
+Phi 	4 	18 	1 	37 	1 	to 	TO
+Phi 	4 	18 	1 	38 	1 	God 	NNP
+Phi 	4 	18 	1 	39 	0 	.
+Phi 	4 	19 	1 	1 	1 	But 	CC
+Phi 	4 	19 	1 	2 	1 	my 	PRP$
+Phi 	4 	19 	1 	3 	1 	God 	NNP
+Phi 	4 	19 	1 	4 	1 	shall 	MD
+Phi 	4 	19 	1 	5 	1 	supply 	NN
+Phi 	4 	19 	1 	6 	1 	all 	DT
+Phi 	4 	19 	1 	7 	1 	your 	PRP$
+Phi 	4 	19 	1 	8 	1 	need 	NN
+Phi 	4 	19 	1 	9 	1 	according 	VBG
+Phi 	4 	19 	1 	10 	1 	to 	TO
+Phi 	4 	19 	1 	11 	1 	his 	PRP$
+Phi 	4 	19 	1 	12 	1 	riches 	NNS
+Phi 	4 	19 	1 	13 	1 	in 	IN
+Phi 	4 	19 	1 	14 	1 	glory 	NN
+Phi 	4 	19 	1 	15 	1 	by 	IN
+Phi 	4 	19 	1 	16 	1 	Christ 	NN
+Phi 	4 	19 	1 	17 	1 	Jesus 	NN
+Phi 	4 	19 	1 	18 	0 	.
+Phi 	4 	20 	1 	1 	1 	Now 	RB
+Phi 	4 	20 	1 	2 	1 	unto 	NN
+Phi 	4 	20 	1 	3 	1 	God 	NNP
+Phi 	4 	20 	1 	4 	1 	and 	CC
+Phi 	4 	20 	1 	5 	1 	our 	PRP$
+Phi 	4 	20 	1 	6 	1 	Father 	NN
+Phi 	4 	20 	1 	7 	1 	be 	VB
+Phi 	4 	20 	1 	8 	1 	glory 	NN
+Phi 	4 	20 	1 	9 	1 	for 	IN
+Phi 	4 	20 	1 	10 	1 	ever 	RB
+Phi 	4 	20 	1 	11 	1 	and 	CC
+Phi 	4 	20 	1 	12 	1 	ever 	RB
+Phi 	4 	20 	1 	13 	0 	.
+Phi 	4 	20 	2 	1 	1 	Amen 	NNS
+Phi 	4 	20 	2 	2 	0 	.
+Phi 	4 	21 	1 	1 	1 	Salute 	NN
+Phi 	4 	21 	1 	2 	1 	every 	DT
+Phi 	4 	21 	1 	3 	1 	saint 	NN
+Phi 	4 	21 	1 	4 	1 	in 	IN
+Phi 	4 	21 	1 	5 	1 	Christ 	NN
+Phi 	4 	21 	1 	6 	1 	Jesus 	NN
+Phi 	4 	21 	1 	7 	0 	.
+Phi 	4 	21 	2 	1 	1 	The 	DT
+Phi 	4 	21 	2 	2 	1 	brethren 	NNS
+Phi 	4 	21 	2 	3 	1 	which 	WDT
+Phi 	4 	21 	2 	4 	1 	are 	VBP
+Phi 	4 	21 	2 	5 	1 	with 	IN
+Phi 	4 	21 	2 	6 	1 	me 	PRP
+Phi 	4 	21 	2 	7 	1 	greet 	NN
+Phi 	4 	21 	2 	8 	1 	you 	PRP
+Phi 	4 	21 	2 	9 	0 	.
+Phi 	4 	22 	1 	1 	1 	All 	DT
+Phi 	4 	22 	1 	2 	1 	the 	DT
+Phi 	4 	22 	1 	3 	1 	saints 	NNS
+Phi 	4 	22 	1 	4 	1 	salute 	NN
+Phi 	4 	22 	1 	5 	1 	you 	PRP
+Phi 	4 	22 	1 	6 	0 	,
+Phi 	4 	22 	1 	7 	1 	chiefly 	NN
+Phi 	4 	22 	1 	8 	1 	they 	PRP
+Phi 	4 	22 	1 	9 	1 	that 	IN
+Phi 	4 	22 	1 	10 	1 	are 	VBP
+Phi 	4 	22 	1 	11 	1 	of 	IN
+Phi 	4 	22 	1 	12 	1 	Caesar 	NN
+Phi 	4 	22 	1 	13 	0 	's
+Phi 	4 	22 	1 	14 	1 	household 	NN
+Phi 	4 	22 	1 	15 	0 	.
+Phi 	4 	23 	1 	1 	1 	The 	DT
+Phi 	4 	23 	1 	2 	1 	grace 	NN
+Phi 	4 	23 	1 	3 	1 	of 	IN
+Phi 	4 	23 	1 	4 	1 	our 	PRP$
+Phi 	4 	23 	1 	5 	1 	Lord 	NN
+Phi 	4 	23 	1 	6 	1 	Jesus 	NN
+Phi 	4 	23 	1 	7 	1 	Christ 	NN
+Phi 	4 	23 	1 	8 	1 	be 	VB
+Phi 	4 	23 	1 	9 	1 	with 	IN
+Phi 	4 	23 	1 	10 	1 	you 	PRP
+Phi 	4 	23 	1 	11 	1 	all 	DT
+Phi 	4 	23 	1 	12 	0 	.
+Phi 	4 	23 	2 	1 	1 	Amen 	NNS
+Phi 	4 	23 	2 	2 	0 	.

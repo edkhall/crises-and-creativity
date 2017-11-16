@@ -1,0 +1,2070 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Mal 	1 	1 	1 	1 	1 	The 	DT
+Mal 	1 	1 	1 	2 	1 	burden 	NN
+Mal 	1 	1 	1 	3 	1 	of 	IN
+Mal 	1 	1 	1 	4 	1 	the 	DT
+Mal 	1 	1 	1 	5 	1 	word 	NN
+Mal 	1 	1 	1 	6 	1 	of 	IN
+Mal 	1 	1 	1 	7 	1 	the 	DT
+Mal 	1 	1 	1 	8 	1 	LORD 	NN
+Mal 	1 	1 	1 	9 	1 	to 	TO
+Mal 	1 	1 	1 	10 	1 	Israel 	NNP
+Mal 	1 	1 	1 	11 	1 	by 	IN
+Mal 	1 	1 	1 	12 	1 	Malachi 	NNS
+Mal 	1 	1 	1 	13 	0 	.
+Mal 	1 	2 	1 	1 	1 	I 	PRP
+Mal 	1 	2 	1 	2 	1 	have 	VB
+Mal 	1 	2 	1 	3 	1 	loved 	VBN
+Mal 	1 	2 	1 	4 	1 	you 	PRP
+Mal 	1 	2 	1 	5 	0 	,
+Mal 	1 	2 	1 	6 	1 	saith 	NN
+Mal 	1 	2 	1 	7 	1 	the 	DT
+Mal 	1 	2 	1 	8 	1 	LORD 	NN
+Mal 	1 	2 	1 	9 	0 	.
+Mal 	1 	2 	2 	1 	1 	Yet 	RB
+Mal 	1 	2 	2 	2 	1 	ye 	NN
+Mal 	1 	2 	2 	3 	1 	say 	VB
+Mal 	1 	2 	2 	4 	0 	,
+Mal 	1 	2 	2 	5 	1 	Wherein 	NNP
+Mal 	1 	2 	2 	6 	1 	hast 	NN
+Mal 	1 	2 	2 	7 	1 	thou 	NN
+Mal 	1 	2 	2 	8 	1 	loved 	VBN
+Mal 	1 	2 	2 	9 	1 	us 	PRP
+Mal 	1 	2 	2 	10 	0 	?
+Mal 	1 	2 	3 	1 	1 	Was 	NN
+Mal 	1 	2 	3 	2 	1 	not 	RB
+Mal 	1 	2 	3 	3 	1 	Esau 	NN
+Mal 	1 	2 	3 	4 	1 	Jacob 	NN
+Mal 	1 	2 	3 	5 	0 	's
+Mal 	1 	2 	3 	6 	1 	brother 	NN
+Mal 	1 	2 	3 	7 	0 	?
+Mal 	1 	2 	4 	1 	1 	saith 	NN
+Mal 	1 	2 	4 	2 	1 	the 	DT
+Mal 	1 	2 	4 	3 	1 	LORD 	NN
+Mal 	1 	2 	4 	4 	0 	:
+Mal 	1 	2 	4 	5 	1 	yet 	RB
+Mal 	1 	2 	4 	6 	1 	I 	PRP
+Mal 	1 	2 	4 	7 	1 	loved 	VBN
+Mal 	1 	2 	4 	8 	1 	Jacob 	NN
+Mal 	1 	2 	4 	9 	0 	,
+Mal 	1 	3 	1 	1 	1 	And 	CC
+Mal 	1 	3 	1 	2 	1 	I 	PRP
+Mal 	1 	3 	1 	3 	1 	hated 	VBN
+Mal 	1 	3 	1 	4 	1 	Esau 	NN
+Mal 	1 	3 	1 	5 	0 	,
+Mal 	1 	3 	1 	6 	1 	and 	CC
+Mal 	1 	3 	1 	7 	1 	laid 	NN
+Mal 	1 	3 	1 	8 	1 	his 	PRP$
+Mal 	1 	3 	1 	9 	1 	mountains 	NNS
+Mal 	1 	3 	1 	10 	1 	and 	CC
+Mal 	1 	3 	1 	11 	1 	his 	PRP$
+Mal 	1 	3 	1 	12 	1 	heritage 	NN
+Mal 	1 	3 	1 	13 	1 	waste 	NN
+Mal 	1 	3 	1 	14 	1 	for 	IN
+Mal 	1 	3 	1 	15 	1 	the 	DT
+Mal 	1 	3 	1 	16 	1 	dragons 	NNS
+Mal 	1 	3 	1 	17 	1 	of 	IN
+Mal 	1 	3 	1 	18 	1 	the 	DT
+Mal 	1 	3 	1 	19 	1 	wilderness 	NN
+Mal 	1 	3 	1 	20 	0 	.
+Mal 	1 	4 	1 	1 	1 	Whereas 	NNS
+Mal 	1 	4 	1 	2 	1 	Edom 	NN
+Mal 	1 	4 	1 	3 	1 	saith 	NN
+Mal 	1 	4 	1 	4 	0 	,
+Mal 	1 	4 	1 	5 	1 	We 	PRP
+Mal 	1 	4 	1 	6 	1 	are 	VBP
+Mal 	1 	4 	1 	7 	1 	impoverished 	VBN
+Mal 	1 	4 	1 	8 	0 	,
+Mal 	1 	4 	1 	9 	1 	but 	CC
+Mal 	1 	4 	1 	10 	1 	we 	PRP
+Mal 	1 	4 	1 	11 	1 	will 	MD
+Mal 	1 	4 	1 	12 	1 	return 	NN
+Mal 	1 	4 	1 	13 	1 	and 	CC
+Mal 	1 	4 	1 	14 	1 	build 	NN
+Mal 	1 	4 	1 	15 	1 	the 	DT
+Mal 	1 	4 	1 	16 	1 	desolate 	NN
+Mal 	1 	4 	1 	17 	1 	places 	NNS
+Mal 	1 	4 	1 	18 	0 	;
+Mal 	1 	4 	1 	19 	1 	thus 	RB
+Mal 	1 	4 	1 	20 	1 	saith 	NN
+Mal 	1 	4 	1 	21 	1 	the 	DT
+Mal 	1 	4 	1 	22 	1 	LORD 	NN
+Mal 	1 	4 	1 	23 	1 	of 	IN
+Mal 	1 	4 	1 	24 	1 	hosts 	NNS
+Mal 	1 	4 	1 	25 	0 	,
+Mal 	1 	4 	1 	26 	1 	They 	PRP
+Mal 	1 	4 	1 	27 	1 	shall 	MD
+Mal 	1 	4 	1 	28 	1 	build 	NN
+Mal 	1 	4 	1 	29 	0 	,
+Mal 	1 	4 	1 	30 	1 	but 	CC
+Mal 	1 	4 	1 	31 	1 	I 	PRP
+Mal 	1 	4 	1 	32 	1 	will 	MD
+Mal 	1 	4 	1 	33 	1 	throw 	NN
+Mal 	1 	4 	1 	34 	1 	down 	RB
+Mal 	1 	4 	1 	35 	0 	;
+Mal 	1 	4 	1 	36 	1 	and 	CC
+Mal 	1 	4 	1 	37 	1 	they 	PRP
+Mal 	1 	4 	1 	38 	1 	shall 	MD
+Mal 	1 	4 	1 	39 	1 	call 	NN
+Mal 	1 	4 	1 	40 	1 	them 	PRP
+Mal 	1 	4 	1 	41 	0 	,
+Mal 	1 	4 	1 	42 	1 	The 	DT
+Mal 	1 	4 	1 	43 	1 	border 	NN
+Mal 	1 	4 	1 	44 	1 	of 	IN
+Mal 	1 	4 	1 	45 	1 	wickedness 	NN
+Mal 	1 	4 	1 	46 	0 	,
+Mal 	1 	4 	1 	47 	1 	and 	CC
+Mal 	1 	4 	1 	48 	0 	,
+Mal 	1 	4 	1 	49 	1 	The 	DT
+Mal 	1 	4 	1 	50 	1 	people 	NNS
+Mal 	1 	4 	1 	51 	1 	against 	IN
+Mal 	1 	4 	1 	52 	1 	whom 	WP
+Mal 	1 	4 	1 	53 	1 	the 	DT
+Mal 	1 	4 	1 	54 	1 	LORD 	NN
+Mal 	1 	4 	1 	55 	1 	hath 	NN
+Mal 	1 	4 	1 	56 	1 	indignation 	NN
+Mal 	1 	4 	1 	57 	1 	for 	IN
+Mal 	1 	4 	1 	58 	1 	ever 	RB
+Mal 	1 	4 	1 	59 	0 	.
+Mal 	1 	5 	1 	1 	1 	And 	CC
+Mal 	1 	5 	1 	2 	1 	your 	PRP$
+Mal 	1 	5 	1 	3 	1 	eyes 	NNS
+Mal 	1 	5 	1 	4 	1 	shall 	MD
+Mal 	1 	5 	1 	5 	1 	see 	VB
+Mal 	1 	5 	1 	6 	0 	,
+Mal 	1 	5 	1 	7 	1 	and 	CC
+Mal 	1 	5 	1 	8 	1 	ye 	NN
+Mal 	1 	5 	1 	9 	1 	shall 	MD
+Mal 	1 	5 	1 	10 	1 	say 	VB
+Mal 	1 	5 	1 	11 	0 	,
+Mal 	1 	5 	1 	12 	1 	The 	DT
+Mal 	1 	5 	1 	13 	1 	LORD 	NN
+Mal 	1 	5 	1 	14 	1 	will 	MD
+Mal 	1 	5 	1 	15 	1 	be 	VB
+Mal 	1 	5 	1 	16 	1 	magnified 	VBN
+Mal 	1 	5 	1 	17 	1 	from 	IN
+Mal 	1 	5 	1 	18 	1 	the 	DT
+Mal 	1 	5 	1 	19 	1 	border 	NN
+Mal 	1 	5 	1 	20 	1 	of 	IN
+Mal 	1 	5 	1 	21 	1 	Israel 	NNP
+Mal 	1 	5 	1 	22 	0 	.
+Mal 	1 	6 	1 	1 	1 	A 	DT
+Mal 	1 	6 	1 	2 	1 	son 	NN
+Mal 	1 	6 	1 	3 	1 	honoureth 	NN
+Mal 	1 	6 	1 	4 	1 	his 	PRP$
+Mal 	1 	6 	1 	5 	1 	father 	NN
+Mal 	1 	6 	1 	6 	0 	,
+Mal 	1 	6 	1 	7 	1 	and 	CC
+Mal 	1 	6 	1 	8 	1 	a 	DT
+Mal 	1 	6 	1 	9 	1 	servant 	NN
+Mal 	1 	6 	1 	10 	1 	his 	PRP$
+Mal 	1 	6 	1 	11 	1 	master 	NN
+Mal 	1 	6 	1 	12 	0 	:
+Mal 	1 	6 	1 	13 	1 	if 	IN
+Mal 	1 	6 	1 	14 	1 	then 	RB
+Mal 	1 	6 	1 	15 	1 	I 	PRP
+Mal 	1 	6 	1 	16 	1 	be 	VB
+Mal 	1 	6 	1 	17 	1 	a 	DT
+Mal 	1 	6 	1 	18 	1 	father 	NN
+Mal 	1 	6 	1 	19 	0 	,
+Mal 	1 	6 	1 	20 	1 	where 	WRB
+Mal 	1 	6 	1 	21 	1 	is 	VBZ
+Mal 	1 	6 	1 	22 	1 	mine 	NN
+Mal 	1 	6 	1 	23 	1 	honour 	NN
+Mal 	1 	6 	1 	24 	0 	?
+Mal 	1 	6 	2 	1 	1 	and 	CC
+Mal 	1 	6 	2 	2 	1 	if 	IN
+Mal 	1 	6 	2 	3 	1 	I 	PRP
+Mal 	1 	6 	2 	4 	1 	be 	VB
+Mal 	1 	6 	2 	5 	1 	a 	DT
+Mal 	1 	6 	2 	6 	1 	master 	NN
+Mal 	1 	6 	2 	7 	0 	,
+Mal 	1 	6 	2 	8 	1 	where 	WRB
+Mal 	1 	6 	2 	9 	1 	is 	VBZ
+Mal 	1 	6 	2 	10 	1 	my 	PRP$
+Mal 	1 	6 	2 	11 	1 	fear 	NN
+Mal 	1 	6 	2 	12 	0 	?
+Mal 	1 	6 	3 	1 	1 	saith 	NN
+Mal 	1 	6 	3 	2 	1 	the 	DT
+Mal 	1 	6 	3 	3 	1 	LORD 	NN
+Mal 	1 	6 	3 	4 	1 	of 	IN
+Mal 	1 	6 	3 	5 	1 	hosts 	NNS
+Mal 	1 	6 	3 	6 	1 	unto 	NN
+Mal 	1 	6 	3 	7 	1 	you 	PRP
+Mal 	1 	6 	3 	8 	0 	,
+Mal 	1 	6 	3 	9 	1 	O 	NN
+Mal 	1 	6 	3 	10 	1 	priests 	NNS
+Mal 	1 	6 	3 	11 	0 	,
+Mal 	1 	6 	3 	12 	1 	that 	IN
+Mal 	1 	6 	3 	13 	1 	despise 	NN
+Mal 	1 	6 	3 	14 	1 	my 	PRP$
+Mal 	1 	6 	3 	15 	1 	name 	NN
+Mal 	1 	6 	3 	16 	0 	.
+Mal 	1 	6 	4 	1 	1 	And 	CC
+Mal 	1 	6 	4 	2 	1 	ye 	NN
+Mal 	1 	6 	4 	3 	1 	say 	VB
+Mal 	1 	6 	4 	4 	0 	,
+Mal 	1 	6 	4 	5 	1 	Wherein 	NNP
+Mal 	1 	6 	4 	6 	1 	have 	VB
+Mal 	1 	6 	4 	7 	1 	we 	PRP
+Mal 	1 	6 	4 	8 	1 	despised 	VBN
+Mal 	1 	6 	4 	9 	1 	thy 	NN
+Mal 	1 	6 	4 	10 	1 	name 	NN
+Mal 	1 	6 	4 	11 	0 	?
+Mal 	1 	7 	1 	1 	1 	Ye 	NN
+Mal 	1 	7 	1 	2 	1 	offer 	NN
+Mal 	1 	7 	1 	3 	1 	polluted 	VBN
+Mal 	1 	7 	1 	4 	1 	bread 	NN
+Mal 	1 	7 	1 	5 	1 	upon 	IN
+Mal 	1 	7 	1 	6 	1 	mine 	NN
+Mal 	1 	7 	1 	7 	1 	altar 	NN
+Mal 	1 	7 	1 	8 	0 	;
+Mal 	1 	7 	1 	9 	1 	and 	CC
+Mal 	1 	7 	1 	10 	1 	ye 	NN
+Mal 	1 	7 	1 	11 	1 	say 	VB
+Mal 	1 	7 	1 	12 	0 	,
+Mal 	1 	7 	1 	13 	1 	Wherein 	NNP
+Mal 	1 	7 	1 	14 	1 	have 	VB
+Mal 	1 	7 	1 	15 	1 	we 	PRP
+Mal 	1 	7 	1 	16 	1 	polluted 	VBN
+Mal 	1 	7 	1 	17 	1 	thee 	NN
+Mal 	1 	7 	1 	18 	0 	?
+Mal 	1 	7 	2 	1 	1 	In 	IN
+Mal 	1 	7 	2 	2 	1 	that 	IN
+Mal 	1 	7 	2 	3 	1 	ye 	NN
+Mal 	1 	7 	2 	4 	1 	say 	VB
+Mal 	1 	7 	2 	5 	0 	,
+Mal 	1 	7 	2 	6 	1 	The 	DT
+Mal 	1 	7 	2 	7 	1 	table 	NN
+Mal 	1 	7 	2 	8 	1 	of 	IN
+Mal 	1 	7 	2 	9 	1 	the 	DT
+Mal 	1 	7 	2 	10 	1 	LORD 	NN
+Mal 	1 	7 	2 	11 	1 	is 	VBZ
+Mal 	1 	7 	2 	12 	1 	contemptible 	JJ
+Mal 	1 	7 	2 	13 	0 	.
+Mal 	1 	8 	1 	1 	1 	And 	CC
+Mal 	1 	8 	1 	2 	1 	if 	IN
+Mal 	1 	8 	1 	3 	1 	ye 	NN
+Mal 	1 	8 	1 	4 	1 	offer 	NN
+Mal 	1 	8 	1 	5 	1 	the 	DT
+Mal 	1 	8 	1 	6 	1 	blind 	NN
+Mal 	1 	8 	1 	7 	1 	for 	IN
+Mal 	1 	8 	1 	8 	1 	sacrifice 	NN
+Mal 	1 	8 	1 	9 	0 	,
+Mal 	1 	8 	1 	10 	1 	is 	VBZ
+Mal 	1 	8 	1 	11 	1 	it 	PRP
+Mal 	1 	8 	1 	12 	1 	not 	RB
+Mal 	1 	8 	1 	13 	1 	evil 	NN
+Mal 	1 	8 	1 	14 	0 	?
+Mal 	1 	8 	2 	1 	1 	and 	CC
+Mal 	1 	8 	2 	2 	1 	if 	IN
+Mal 	1 	8 	2 	3 	1 	ye 	NN
+Mal 	1 	8 	2 	4 	1 	offer 	NN
+Mal 	1 	8 	2 	5 	1 	the 	DT
+Mal 	1 	8 	2 	6 	1 	lame 	NN
+Mal 	1 	8 	2 	7 	1 	and 	CC
+Mal 	1 	8 	2 	8 	1 	sick 	NN
+Mal 	1 	8 	2 	9 	0 	,
+Mal 	1 	8 	2 	10 	1 	is 	VBZ
+Mal 	1 	8 	2 	11 	1 	it 	PRP
+Mal 	1 	8 	2 	12 	1 	not 	RB
+Mal 	1 	8 	2 	13 	1 	evil 	NN
+Mal 	1 	8 	2 	14 	0 	?
+Mal 	1 	8 	3 	1 	1 	offer 	NN
+Mal 	1 	8 	3 	2 	1 	it 	PRP
+Mal 	1 	8 	3 	3 	1 	now 	RB
+Mal 	1 	8 	3 	4 	1 	unto 	NN
+Mal 	1 	8 	3 	5 	1 	thy 	NN
+Mal 	1 	8 	3 	6 	1 	governor 	NN
+Mal 	1 	8 	3 	7 	0 	;
+Mal 	1 	8 	3 	8 	1 	will 	MD
+Mal 	1 	8 	3 	9 	1 	he 	PRP
+Mal 	1 	8 	3 	10 	1 	be 	VB
+Mal 	1 	8 	3 	11 	1 	pleased 	JJ
+Mal 	1 	8 	3 	12 	1 	with 	IN
+Mal 	1 	8 	3 	13 	1 	thee 	NN
+Mal 	1 	8 	3 	14 	0 	,
+Mal 	1 	8 	3 	15 	1 	or 	CC
+Mal 	1 	8 	3 	16 	1 	accept 	NN
+Mal 	1 	8 	3 	17 	1 	thy 	NN
+Mal 	1 	8 	3 	18 	1 	person 	NN
+Mal 	1 	8 	3 	19 	0 	?
+Mal 	1 	8 	4 	1 	1 	saith 	NN
+Mal 	1 	8 	4 	2 	1 	the 	DT
+Mal 	1 	8 	4 	3 	1 	LORD 	NN
+Mal 	1 	8 	4 	4 	1 	of 	IN
+Mal 	1 	8 	4 	5 	1 	hosts 	NNS
+Mal 	1 	8 	4 	6 	0 	.
+Mal 	1 	9 	1 	1 	1 	And 	CC
+Mal 	1 	9 	1 	2 	1 	now 	RB
+Mal 	1 	9 	1 	3 	0 	,
+Mal 	1 	9 	1 	4 	1 	I 	PRP
+Mal 	1 	9 	1 	5 	1 	pray 	NN
+Mal 	1 	9 	1 	6 	1 	you 	PRP
+Mal 	1 	9 	1 	7 	0 	,
+Mal 	1 	9 	1 	8 	1 	beseech 	NN
+Mal 	1 	9 	1 	9 	1 	God 	NNP
+Mal 	1 	9 	1 	10 	1 	that 	IN
+Mal 	1 	9 	1 	11 	1 	he 	PRP
+Mal 	1 	9 	1 	12 	1 	will 	MD
+Mal 	1 	9 	1 	13 	1 	be 	VB
+Mal 	1 	9 	1 	14 	1 	gracious 	JJ
+Mal 	1 	9 	1 	15 	1 	unto 	NN
+Mal 	1 	9 	1 	16 	1 	us 	PRP
+Mal 	1 	9 	1 	17 	0 	:
+Mal 	1 	9 	1 	18 	1 	this 	DT
+Mal 	1 	9 	1 	19 	1 	hath 	NN
+Mal 	1 	9 	1 	20 	1 	been 	VBN
+Mal 	1 	9 	1 	21 	1 	by 	IN
+Mal 	1 	9 	1 	22 	1 	your 	PRP$
+Mal 	1 	9 	1 	23 	1 	means 	NNS
+Mal 	1 	9 	1 	24 	0 	:
+Mal 	1 	9 	1 	25 	1 	will 	MD
+Mal 	1 	9 	1 	26 	1 	he 	PRP
+Mal 	1 	9 	1 	27 	1 	regard 	NN
+Mal 	1 	9 	1 	28 	1 	your 	PRP$
+Mal 	1 	9 	1 	29 	1 	persons 	NNS
+Mal 	1 	9 	1 	30 	0 	?
+Mal 	1 	9 	2 	1 	1 	saith 	NN
+Mal 	1 	9 	2 	2 	1 	the 	DT
+Mal 	1 	9 	2 	3 	1 	LORD 	NN
+Mal 	1 	9 	2 	4 	1 	of 	IN
+Mal 	1 	9 	2 	5 	1 	hosts 	NNS
+Mal 	1 	9 	2 	6 	0 	.
+Mal 	1 	10 	1 	1 	1 	Who 	WP
+Mal 	1 	10 	1 	2 	1 	is 	VBZ
+Mal 	1 	10 	1 	3 	1 	there 	RB
+Mal 	1 	10 	1 	4 	1 	even 	RB
+Mal 	1 	10 	1 	5 	1 	among 	IN
+Mal 	1 	10 	1 	6 	1 	you 	PRP
+Mal 	1 	10 	1 	7 	1 	that 	IN
+Mal 	1 	10 	1 	8 	1 	would 	MD
+Mal 	1 	10 	1 	9 	1 	shut 	NN
+Mal 	1 	10 	1 	10 	1 	the 	DT
+Mal 	1 	10 	1 	11 	1 	doors 	NNS
+Mal 	1 	10 	1 	12 	1 	for 	IN
+Mal 	1 	10 	1 	13 	1 	nought 	NN
+Mal 	1 	10 	1 	14 	0 	?
+Mal 	1 	10 	2 	1 	1 	neither 	DT
+Mal 	1 	10 	2 	2 	1 	do 	VB
+Mal 	1 	10 	2 	3 	1 	ye 	NN
+Mal 	1 	10 	2 	4 	1 	kindle 	VB
+Mal 	1 	10 	2 	5 	1 	fire 	NN
+Mal 	1 	10 	2 	6 	1 	on 	IN
+Mal 	1 	10 	2 	7 	1 	mine 	NN
+Mal 	1 	10 	2 	8 	1 	altar 	NN
+Mal 	1 	10 	2 	9 	1 	for 	IN
+Mal 	1 	10 	2 	10 	1 	nought 	NN
+Mal 	1 	10 	2 	11 	0 	.
+Mal 	1 	10 	3 	1 	1 	I 	PRP
+Mal 	1 	10 	3 	2 	1 	have 	VB
+Mal 	1 	10 	3 	3 	1 	no 	DT
+Mal 	1 	10 	3 	4 	1 	pleasure 	NN
+Mal 	1 	10 	3 	5 	1 	in 	IN
+Mal 	1 	10 	3 	6 	1 	you 	PRP
+Mal 	1 	10 	3 	7 	0 	,
+Mal 	1 	10 	3 	8 	1 	saith 	NN
+Mal 	1 	10 	3 	9 	1 	the 	DT
+Mal 	1 	10 	3 	10 	1 	LORD 	NN
+Mal 	1 	10 	3 	11 	1 	of 	IN
+Mal 	1 	10 	3 	12 	1 	hosts 	NNS
+Mal 	1 	10 	3 	13 	0 	,
+Mal 	1 	10 	3 	14 	1 	neither 	DT
+Mal 	1 	10 	3 	15 	1 	will 	MD
+Mal 	1 	10 	3 	16 	1 	I 	PRP
+Mal 	1 	10 	3 	17 	1 	accept 	NN
+Mal 	1 	10 	3 	18 	1 	an 	DT
+Mal 	1 	10 	3 	19 	1 	offering 	NN
+Mal 	1 	10 	3 	20 	1 	at 	IN
+Mal 	1 	10 	3 	21 	1 	your 	PRP$
+Mal 	1 	10 	3 	22 	1 	hand 	NN
+Mal 	1 	10 	3 	23 	0 	.
+Mal 	1 	11 	1 	1 	1 	For 	IN
+Mal 	1 	11 	1 	2 	1 	from 	IN
+Mal 	1 	11 	1 	3 	1 	the 	DT
+Mal 	1 	11 	1 	4 	1 	rising 	VBG
+Mal 	1 	11 	1 	5 	1 	of 	IN
+Mal 	1 	11 	1 	6 	1 	the 	DT
+Mal 	1 	11 	1 	7 	1 	sun 	NN
+Mal 	1 	11 	1 	8 	1 	even 	RB
+Mal 	1 	11 	1 	9 	1 	unto 	NN
+Mal 	1 	11 	1 	10 	1 	the 	DT
+Mal 	1 	11 	1 	11 	1 	going 	VBG
+Mal 	1 	11 	1 	12 	1 	down 	RB
+Mal 	1 	11 	1 	13 	1 	of 	IN
+Mal 	1 	11 	1 	14 	1 	the 	DT
+Mal 	1 	11 	1 	15 	1 	same 	JJ
+Mal 	1 	11 	1 	16 	1 	my 	PRP$
+Mal 	1 	11 	1 	17 	1 	name 	NN
+Mal 	1 	11 	1 	18 	1 	shall 	MD
+Mal 	1 	11 	1 	19 	1 	be 	VB
+Mal 	1 	11 	1 	20 	1 	great 	JJ
+Mal 	1 	11 	1 	21 	1 	among 	IN
+Mal 	1 	11 	1 	22 	1 	the 	DT
+Mal 	1 	11 	1 	23 	1 	Gentiles 	NNS
+Mal 	1 	11 	1 	24 	0 	;
+Mal 	1 	11 	1 	25 	1 	and 	CC
+Mal 	1 	11 	1 	26 	1 	in 	IN
+Mal 	1 	11 	1 	27 	1 	every 	DT
+Mal 	1 	11 	1 	28 	1 	place 	NN
+Mal 	1 	11 	1 	29 	1 	incense 	NN
+Mal 	1 	11 	1 	30 	1 	shall 	MD
+Mal 	1 	11 	1 	31 	1 	be 	VB
+Mal 	1 	11 	1 	32 	1 	offered 	VBN
+Mal 	1 	11 	1 	33 	1 	unto 	NN
+Mal 	1 	11 	1 	34 	1 	my 	PRP$
+Mal 	1 	11 	1 	35 	1 	name 	NN
+Mal 	1 	11 	1 	36 	0 	,
+Mal 	1 	11 	1 	37 	1 	and 	CC
+Mal 	1 	11 	1 	38 	1 	a 	DT
+Mal 	1 	11 	1 	39 	1 	pure 	NN
+Mal 	1 	11 	1 	40 	1 	offering 	NN
+Mal 	1 	11 	1 	41 	0 	:
+Mal 	1 	11 	1 	42 	1 	for 	IN
+Mal 	1 	11 	1 	43 	1 	my 	PRP$
+Mal 	1 	11 	1 	44 	1 	name 	NN
+Mal 	1 	11 	1 	45 	1 	shall 	MD
+Mal 	1 	11 	1 	46 	1 	be 	VB
+Mal 	1 	11 	1 	47 	1 	great 	JJ
+Mal 	1 	11 	1 	48 	1 	among 	IN
+Mal 	1 	11 	1 	49 	1 	the 	DT
+Mal 	1 	11 	1 	50 	1 	heathen 	NN
+Mal 	1 	11 	1 	51 	0 	,
+Mal 	1 	11 	1 	52 	1 	saith 	NN
+Mal 	1 	11 	1 	53 	1 	the 	DT
+Mal 	1 	11 	1 	54 	1 	LORD 	NN
+Mal 	1 	11 	1 	55 	1 	of 	IN
+Mal 	1 	11 	1 	56 	1 	hosts 	NNS
+Mal 	1 	11 	1 	57 	0 	.
+Mal 	1 	12 	1 	1 	1 	But 	CC
+Mal 	1 	12 	1 	2 	1 	ye 	NN
+Mal 	1 	12 	1 	3 	1 	have 	VB
+Mal 	1 	12 	1 	4 	1 	profaned 	VBN
+Mal 	1 	12 	1 	5 	1 	it 	PRP
+Mal 	1 	12 	1 	6 	0 	,
+Mal 	1 	12 	1 	7 	1 	in 	IN
+Mal 	1 	12 	1 	8 	1 	that 	IN
+Mal 	1 	12 	1 	9 	1 	ye 	NN
+Mal 	1 	12 	1 	10 	1 	say 	VB
+Mal 	1 	12 	1 	11 	0 	,
+Mal 	1 	12 	1 	12 	1 	The 	DT
+Mal 	1 	12 	1 	13 	1 	table 	NN
+Mal 	1 	12 	1 	14 	1 	of 	IN
+Mal 	1 	12 	1 	15 	1 	the 	DT
+Mal 	1 	12 	1 	16 	1 	LORD 	NN
+Mal 	1 	12 	1 	17 	1 	is 	VBZ
+Mal 	1 	12 	1 	18 	1 	polluted 	VBN
+Mal 	1 	12 	1 	19 	0 	;
+Mal 	1 	12 	1 	20 	1 	and 	CC
+Mal 	1 	12 	1 	21 	1 	the 	DT
+Mal 	1 	12 	1 	22 	1 	fruit 	NN
+Mal 	1 	12 	1 	23 	1 	thereof 	NN
+Mal 	1 	12 	1 	24 	0 	,
+Mal 	1 	12 	1 	25 	1 	even 	RB
+Mal 	1 	12 	1 	26 	1 	his 	PRP$
+Mal 	1 	12 	1 	27 	1 	meat 	NN
+Mal 	1 	12 	1 	28 	0 	,
+Mal 	1 	12 	1 	29 	1 	is 	VBZ
+Mal 	1 	12 	1 	30 	1 	contemptible 	JJ
+Mal 	1 	12 	1 	31 	0 	.
+Mal 	1 	13 	1 	1 	1 	Ye 	NN
+Mal 	1 	13 	1 	2 	1 	said 	VBD
+Mal 	1 	13 	1 	3 	1 	also 	RB
+Mal 	1 	13 	1 	4 	0 	,
+Mal 	1 	13 	1 	5 	1 	Behold 	NN
+Mal 	1 	13 	1 	6 	0 	,
+Mal 	1 	13 	1 	7 	1 	what 	WP
+Mal 	1 	13 	1 	8 	1 	a 	DT
+Mal 	1 	13 	1 	9 	1 	weariness 	NN
+Mal 	1 	13 	1 	10 	1 	is 	VBZ
+Mal 	1 	13 	1 	11 	1 	it 	PRP
+Mal 	1 	13 	1 	12 	0 	!
+Mal 	1 	13 	2 	1 	1 	and 	CC
+Mal 	1 	13 	2 	2 	1 	ye 	NN
+Mal 	1 	13 	2 	3 	1 	have 	VB
+Mal 	1 	13 	2 	4 	1 	snuffed 	NN
+Mal 	1 	13 	2 	5 	1 	at 	IN
+Mal 	1 	13 	2 	6 	1 	it 	PRP
+Mal 	1 	13 	2 	7 	0 	,
+Mal 	1 	13 	2 	8 	1 	saith 	NN
+Mal 	1 	13 	2 	9 	1 	the 	DT
+Mal 	1 	13 	2 	10 	1 	LORD 	NN
+Mal 	1 	13 	2 	11 	1 	of 	IN
+Mal 	1 	13 	2 	12 	1 	hosts 	NNS
+Mal 	1 	13 	2 	13 	0 	;
+Mal 	1 	13 	2 	14 	1 	and 	CC
+Mal 	1 	13 	2 	15 	1 	ye 	NN
+Mal 	1 	13 	2 	16 	1 	brought 	NN
+Mal 	1 	13 	2 	17 	1 	that 	IN
+Mal 	1 	13 	2 	18 	1 	which 	WDT
+Mal 	1 	13 	2 	19 	1 	was 	VBD
+Mal 	1 	13 	2 	20 	1 	torn 	NN
+Mal 	1 	13 	2 	21 	0 	,
+Mal 	1 	13 	2 	22 	1 	and 	CC
+Mal 	1 	13 	2 	23 	1 	the 	DT
+Mal 	1 	13 	2 	24 	1 	lame 	NN
+Mal 	1 	13 	2 	25 	0 	,
+Mal 	1 	13 	2 	26 	1 	and 	CC
+Mal 	1 	13 	2 	27 	1 	the 	DT
+Mal 	1 	13 	2 	28 	1 	sick 	NN
+Mal 	1 	13 	2 	29 	0 	;
+Mal 	1 	13 	2 	30 	1 	thus 	RB
+Mal 	1 	13 	2 	31 	1 	ye 	NN
+Mal 	1 	13 	2 	32 	1 	brought 	NN
+Mal 	1 	13 	2 	33 	1 	an 	DT
+Mal 	1 	13 	2 	34 	1 	offering 	NN
+Mal 	1 	13 	2 	35 	0 	:
+Mal 	1 	13 	2 	36 	1 	should 	MD
+Mal 	1 	13 	2 	37 	1 	I 	PRP
+Mal 	1 	13 	2 	38 	1 	accept 	NN
+Mal 	1 	13 	2 	39 	1 	this 	DT
+Mal 	1 	13 	2 	40 	1 	of 	IN
+Mal 	1 	13 	2 	41 	1 	your 	PRP$
+Mal 	1 	13 	2 	42 	1 	hand 	NN
+Mal 	1 	13 	2 	43 	0 	?
+Mal 	1 	13 	3 	1 	1 	saith 	NN
+Mal 	1 	13 	3 	2 	1 	the 	DT
+Mal 	1 	13 	3 	3 	1 	LORD 	NN
+Mal 	1 	13 	3 	4 	0 	.
+Mal 	1 	14 	1 	1 	1 	But 	CC
+Mal 	1 	14 	1 	2 	1 	cursed 	VBN
+Mal 	1 	14 	1 	3 	1 	be 	VB
+Mal 	1 	14 	1 	4 	1 	the 	DT
+Mal 	1 	14 	1 	5 	1 	deceiver 	NN
+Mal 	1 	14 	1 	6 	0 	,
+Mal 	1 	14 	1 	7 	1 	which 	WDT
+Mal 	1 	14 	1 	8 	1 	hath 	NN
+Mal 	1 	14 	1 	9 	1 	in 	IN
+Mal 	1 	14 	1 	10 	1 	his 	PRP$
+Mal 	1 	14 	1 	11 	1 	flock 	NN
+Mal 	1 	14 	1 	12 	1 	a 	DT
+Mal 	1 	14 	1 	13 	1 	male 	NN
+Mal 	1 	14 	1 	14 	0 	,
+Mal 	1 	14 	1 	15 	1 	and 	CC
+Mal 	1 	14 	1 	16 	1 	voweth 	NNS
+Mal 	1 	14 	1 	17 	0 	,
+Mal 	1 	14 	1 	18 	1 	and 	CC
+Mal 	1 	14 	1 	19 	1 	sacrificeth 	NN
+Mal 	1 	14 	1 	20 	1 	unto 	NN
+Mal 	1 	14 	1 	21 	1 	the 	DT
+Mal 	1 	14 	1 	22 	1 	LORD 	NN
+Mal 	1 	14 	1 	23 	1 	a 	DT
+Mal 	1 	14 	1 	24 	1 	corrupt 	NN
+Mal 	1 	14 	1 	25 	1 	thing 	NN
+Mal 	1 	14 	1 	26 	0 	:
+Mal 	1 	14 	1 	27 	1 	for 	IN
+Mal 	1 	14 	1 	28 	1 	I 	PRP
+Mal 	1 	14 	1 	29 	1 	am 	VBP
+Mal 	1 	14 	1 	30 	1 	a 	DT
+Mal 	1 	14 	1 	31 	1 	great 	JJ
+Mal 	1 	14 	1 	32 	1 	King 	VBG
+Mal 	1 	14 	1 	33 	0 	,
+Mal 	1 	14 	1 	34 	1 	saith 	NN
+Mal 	1 	14 	1 	35 	1 	the 	DT
+Mal 	1 	14 	1 	36 	1 	LORD 	NN
+Mal 	1 	14 	1 	37 	1 	of 	IN
+Mal 	1 	14 	1 	38 	1 	hosts 	NNS
+Mal 	1 	14 	1 	39 	0 	,
+Mal 	1 	14 	1 	40 	1 	and 	CC
+Mal 	1 	14 	1 	41 	1 	my 	PRP$
+Mal 	1 	14 	1 	42 	1 	name 	NN
+Mal 	1 	14 	1 	43 	1 	is 	VBZ
+Mal 	1 	14 	1 	44 	1 	dreadful 	NN
+Mal 	1 	14 	1 	45 	1 	among 	IN
+Mal 	1 	14 	1 	46 	1 	the 	DT
+Mal 	1 	14 	1 	47 	1 	heathen 	NN
+Mal 	1 	14 	1 	48 	0 	.
+Mal 	2 	1 	1 	1 	1 	And 	CC
+Mal 	2 	1 	1 	2 	1 	now 	RB
+Mal 	2 	1 	1 	3 	0 	,
+Mal 	2 	1 	1 	4 	1 	O 	NN
+Mal 	2 	1 	1 	5 	1 	ye 	NN
+Mal 	2 	1 	1 	6 	1 	priests 	NNS
+Mal 	2 	1 	1 	7 	0 	,
+Mal 	2 	1 	1 	8 	1 	this 	DT
+Mal 	2 	1 	1 	9 	1 	commandment 	NN
+Mal 	2 	1 	1 	10 	1 	is 	VBZ
+Mal 	2 	1 	1 	11 	1 	for 	IN
+Mal 	2 	1 	1 	12 	1 	you 	PRP
+Mal 	2 	1 	1 	13 	0 	.
+Mal 	2 	2 	1 	1 	1 	If 	IN
+Mal 	2 	2 	1 	2 	1 	ye 	NN
+Mal 	2 	2 	1 	3 	1 	will 	MD
+Mal 	2 	2 	1 	4 	1 	not 	RB
+Mal 	2 	2 	1 	5 	1 	hear 	NN
+Mal 	2 	2 	1 	6 	0 	,
+Mal 	2 	2 	1 	7 	1 	and 	CC
+Mal 	2 	2 	1 	8 	1 	if 	IN
+Mal 	2 	2 	1 	9 	1 	ye 	NN
+Mal 	2 	2 	1 	10 	1 	will 	MD
+Mal 	2 	2 	1 	11 	1 	not 	RB
+Mal 	2 	2 	1 	12 	1 	lay 	NN
+Mal 	2 	2 	1 	13 	1 	it 	PRP
+Mal 	2 	2 	1 	14 	1 	to 	TO
+Mal 	2 	2 	1 	15 	1 	heart 	NN
+Mal 	2 	2 	1 	16 	0 	,
+Mal 	2 	2 	1 	17 	1 	to 	TO
+Mal 	2 	2 	1 	18 	1 	give 	VB
+Mal 	2 	2 	1 	19 	1 	glory 	NN
+Mal 	2 	2 	1 	20 	1 	unto 	NN
+Mal 	2 	2 	1 	21 	1 	my 	PRP$
+Mal 	2 	2 	1 	22 	1 	name 	NN
+Mal 	2 	2 	1 	23 	0 	,
+Mal 	2 	2 	1 	24 	1 	saith 	NN
+Mal 	2 	2 	1 	25 	1 	the 	DT
+Mal 	2 	2 	1 	26 	1 	LORD 	NN
+Mal 	2 	2 	1 	27 	1 	of 	IN
+Mal 	2 	2 	1 	28 	1 	hosts 	NNS
+Mal 	2 	2 	1 	29 	0 	,
+Mal 	2 	2 	1 	30 	1 	I 	PRP
+Mal 	2 	2 	1 	31 	1 	will 	MD
+Mal 	2 	2 	1 	32 	1 	even 	RB
+Mal 	2 	2 	1 	33 	1 	send 	NN
+Mal 	2 	2 	1 	34 	1 	a 	DT
+Mal 	2 	2 	1 	35 	1 	curse 	NN
+Mal 	2 	2 	1 	36 	1 	upon 	IN
+Mal 	2 	2 	1 	37 	1 	you 	PRP
+Mal 	2 	2 	1 	38 	0 	,
+Mal 	2 	2 	1 	39 	1 	and 	CC
+Mal 	2 	2 	1 	40 	1 	I 	PRP
+Mal 	2 	2 	1 	41 	1 	will 	MD
+Mal 	2 	2 	1 	42 	1 	curse 	NN
+Mal 	2 	2 	1 	43 	1 	your 	PRP$
+Mal 	2 	2 	1 	44 	1 	blessings 	NNS
+Mal 	2 	2 	1 	45 	0 	:
+Mal 	2 	2 	1 	46 	1 	yea 	NN
+Mal 	2 	2 	1 	47 	0 	,
+Mal 	2 	2 	1 	48 	1 	I 	PRP
+Mal 	2 	2 	1 	49 	1 	have 	VB
+Mal 	2 	2 	1 	50 	1 	cursed 	VBN
+Mal 	2 	2 	1 	51 	1 	them 	PRP
+Mal 	2 	2 	1 	52 	1 	already 	RB
+Mal 	2 	2 	1 	53 	0 	,
+Mal 	2 	2 	1 	54 	1 	because 	IN
+Mal 	2 	2 	1 	55 	1 	ye 	NN
+Mal 	2 	2 	1 	56 	1 	do 	VB
+Mal 	2 	2 	1 	57 	1 	not 	RB
+Mal 	2 	2 	1 	58 	1 	lay 	NN
+Mal 	2 	2 	1 	59 	1 	it 	PRP
+Mal 	2 	2 	1 	60 	1 	to 	TO
+Mal 	2 	2 	1 	61 	1 	heart 	NN
+Mal 	2 	2 	1 	62 	0 	.
+Mal 	2 	3 	1 	1 	1 	Behold 	NN
+Mal 	2 	3 	1 	2 	0 	,
+Mal 	2 	3 	1 	3 	1 	I 	PRP
+Mal 	2 	3 	1 	4 	1 	will 	MD
+Mal 	2 	3 	1 	5 	1 	corrupt 	NN
+Mal 	2 	3 	1 	6 	1 	your 	PRP$
+Mal 	2 	3 	1 	7 	1 	seed 	NN
+Mal 	2 	3 	1 	8 	0 	,
+Mal 	2 	3 	1 	9 	1 	and 	CC
+Mal 	2 	3 	1 	10 	1 	spread 	NN
+Mal 	2 	3 	1 	11 	1 	dung 	NN
+Mal 	2 	3 	1 	12 	1 	upon 	IN
+Mal 	2 	3 	1 	13 	1 	your 	PRP$
+Mal 	2 	3 	1 	14 	1 	faces 	VBZ
+Mal 	2 	3 	1 	15 	0 	,
+Mal 	2 	3 	1 	16 	1 	even 	RB
+Mal 	2 	3 	1 	17 	1 	the 	DT
+Mal 	2 	3 	1 	18 	1 	dung 	NN
+Mal 	2 	3 	1 	19 	1 	of 	IN
+Mal 	2 	3 	1 	20 	1 	your 	PRP$
+Mal 	2 	3 	1 	21 	1 	solemn 	NN
+Mal 	2 	3 	1 	22 	1 	feasts 	NNS
+Mal 	2 	3 	1 	23 	0 	;
+Mal 	2 	3 	1 	24 	1 	and 	CC
+Mal 	2 	3 	1 	25 	1 	one 	CD
+Mal 	2 	3 	1 	26 	1 	shall 	MD
+Mal 	2 	3 	1 	27 	1 	take 	VB
+Mal 	2 	3 	1 	28 	1 	you 	PRP
+Mal 	2 	3 	1 	29 	1 	away 	RB
+Mal 	2 	3 	1 	30 	1 	with 	IN
+Mal 	2 	3 	1 	31 	1 	it 	PRP
+Mal 	2 	3 	1 	32 	0 	.
+Mal 	2 	4 	1 	1 	1 	And 	CC
+Mal 	2 	4 	1 	2 	1 	ye 	NN
+Mal 	2 	4 	1 	3 	1 	shall 	MD
+Mal 	2 	4 	1 	4 	1 	know 	VB
+Mal 	2 	4 	1 	5 	1 	that 	IN
+Mal 	2 	4 	1 	6 	1 	I 	PRP
+Mal 	2 	4 	1 	7 	1 	have 	VB
+Mal 	2 	4 	1 	8 	1 	sent 	NN
+Mal 	2 	4 	1 	9 	1 	this 	DT
+Mal 	2 	4 	1 	10 	1 	commandment 	NN
+Mal 	2 	4 	1 	11 	1 	unto 	NN
+Mal 	2 	4 	1 	12 	1 	you 	PRP
+Mal 	2 	4 	1 	13 	0 	,
+Mal 	2 	4 	1 	14 	1 	that 	IN
+Mal 	2 	4 	1 	15 	1 	my 	PRP$
+Mal 	2 	4 	1 	16 	1 	covenant 	NN
+Mal 	2 	4 	1 	17 	1 	might 	MD
+Mal 	2 	4 	1 	18 	1 	be 	VB
+Mal 	2 	4 	1 	19 	1 	with 	IN
+Mal 	2 	4 	1 	20 	1 	Levi 	NN
+Mal 	2 	4 	1 	21 	0 	,
+Mal 	2 	4 	1 	22 	1 	saith 	NN
+Mal 	2 	4 	1 	23 	1 	the 	DT
+Mal 	2 	4 	1 	24 	1 	LORD 	NN
+Mal 	2 	4 	1 	25 	1 	of 	IN
+Mal 	2 	4 	1 	26 	1 	hosts 	NNS
+Mal 	2 	4 	1 	27 	0 	.
+Mal 	2 	5 	1 	1 	1 	y 	NN
+Mal 	2 	5 	1 	2 	1 	covenant 	NN
+Mal 	2 	5 	1 	3 	1 	was 	VBD
+Mal 	2 	5 	1 	4 	1 	with 	IN
+Mal 	2 	5 	1 	5 	1 	him 	PRP
+Mal 	2 	5 	1 	6 	1 	of 	IN
+Mal 	2 	5 	1 	7 	1 	life 	NN
+Mal 	2 	5 	1 	8 	1 	and 	CC
+Mal 	2 	5 	1 	9 	1 	peace 	NN
+Mal 	2 	5 	1 	10 	0 	;
+Mal 	2 	5 	1 	11 	1 	and 	CC
+Mal 	2 	5 	1 	12 	1 	I 	PRP
+Mal 	2 	5 	1 	13 	1 	gave 	VBD
+Mal 	2 	5 	1 	14 	1 	them 	PRP
+Mal 	2 	5 	1 	15 	1 	to 	TO
+Mal 	2 	5 	1 	16 	1 	him 	PRP
+Mal 	2 	5 	1 	17 	1 	for 	IN
+Mal 	2 	5 	1 	18 	1 	the 	DT
+Mal 	2 	5 	1 	19 	1 	fear 	NN
+Mal 	2 	5 	1 	20 	1 	wherewith 	NN
+Mal 	2 	5 	1 	21 	1 	he 	PRP
+Mal 	2 	5 	1 	22 	1 	feared 	VBN
+Mal 	2 	5 	1 	23 	1 	me 	PRP
+Mal 	2 	5 	1 	24 	0 	,
+Mal 	2 	5 	1 	25 	1 	and 	CC
+Mal 	2 	5 	1 	26 	1 	was 	VBD
+Mal 	2 	5 	1 	27 	1 	afraid 	NN
+Mal 	2 	5 	1 	28 	1 	before 	IN
+Mal 	2 	5 	1 	29 	1 	my 	PRP$
+Mal 	2 	5 	1 	30 	1 	name 	NN
+Mal 	2 	5 	1 	31 	0 	.
+Mal 	2 	6 	1 	1 	1 	The 	DT
+Mal 	2 	6 	1 	2 	1 	law 	NN
+Mal 	2 	6 	1 	3 	1 	of 	IN
+Mal 	2 	6 	1 	4 	1 	truth 	NN
+Mal 	2 	6 	1 	5 	1 	was 	VBD
+Mal 	2 	6 	1 	6 	1 	in 	IN
+Mal 	2 	6 	1 	7 	1 	his 	PRP$
+Mal 	2 	6 	1 	8 	1 	mouth 	NN
+Mal 	2 	6 	1 	9 	0 	,
+Mal 	2 	6 	1 	10 	1 	and 	CC
+Mal 	2 	6 	1 	11 	1 	iniquity 	NN
+Mal 	2 	6 	1 	12 	1 	was 	VBD
+Mal 	2 	6 	1 	13 	1 	not 	RB
+Mal 	2 	6 	1 	14 	1 	found 	NN
+Mal 	2 	6 	1 	15 	1 	in 	IN
+Mal 	2 	6 	1 	16 	1 	his 	PRP$
+Mal 	2 	6 	1 	17 	1 	lips 	NNS
+Mal 	2 	6 	1 	18 	0 	:
+Mal 	2 	6 	1 	19 	1 	he 	PRP
+Mal 	2 	6 	1 	20 	1 	walked 	VBD
+Mal 	2 	6 	1 	21 	1 	with 	IN
+Mal 	2 	6 	1 	22 	1 	me 	PRP
+Mal 	2 	6 	1 	23 	1 	in 	IN
+Mal 	2 	6 	1 	24 	1 	peace 	NN
+Mal 	2 	6 	1 	25 	1 	and 	CC
+Mal 	2 	6 	1 	26 	1 	equity 	NN
+Mal 	2 	6 	1 	27 	0 	,
+Mal 	2 	6 	1 	28 	1 	and 	CC
+Mal 	2 	6 	1 	29 	1 	did 	VBD
+Mal 	2 	6 	1 	30 	1 	turn 	NN
+Mal 	2 	6 	1 	31 	1 	many 	JJ
+Mal 	2 	6 	1 	32 	1 	away 	RB
+Mal 	2 	6 	1 	33 	1 	from 	IN
+Mal 	2 	6 	1 	34 	1 	iniquity 	NN
+Mal 	2 	6 	1 	35 	0 	.
+Mal 	2 	7 	1 	1 	1 	For 	IN
+Mal 	2 	7 	1 	2 	1 	the 	DT
+Mal 	2 	7 	1 	3 	1 	priest 	NN
+Mal 	2 	7 	1 	4 	0 	's
+Mal 	2 	7 	1 	5 	1 	lips 	NNS
+Mal 	2 	7 	1 	6 	1 	should 	MD
+Mal 	2 	7 	1 	7 	1 	keep 	VB
+Mal 	2 	7 	1 	8 	1 	knowledge 	NN
+Mal 	2 	7 	1 	9 	0 	,
+Mal 	2 	7 	1 	10 	1 	and 	CC
+Mal 	2 	7 	1 	11 	1 	they 	PRP
+Mal 	2 	7 	1 	12 	1 	should 	MD
+Mal 	2 	7 	1 	13 	1 	seek 	NN
+Mal 	2 	7 	1 	14 	1 	the 	DT
+Mal 	2 	7 	1 	15 	1 	law 	NN
+Mal 	2 	7 	1 	16 	1 	at 	IN
+Mal 	2 	7 	1 	17 	1 	his 	PRP$
+Mal 	2 	7 	1 	18 	1 	mouth 	NN
+Mal 	2 	7 	1 	19 	0 	:
+Mal 	2 	7 	1 	20 	1 	for 	IN
+Mal 	2 	7 	1 	21 	1 	he 	PRP
+Mal 	2 	7 	1 	22 	1 	is 	VBZ
+Mal 	2 	7 	1 	23 	1 	the 	DT
+Mal 	2 	7 	1 	24 	1 	messenger 	NN
+Mal 	2 	7 	1 	25 	1 	of 	IN
+Mal 	2 	7 	1 	26 	1 	the 	DT
+Mal 	2 	7 	1 	27 	1 	LORD 	NN
+Mal 	2 	7 	1 	28 	1 	of 	IN
+Mal 	2 	7 	1 	29 	1 	hosts 	NNS
+Mal 	2 	7 	1 	30 	0 	.
+Mal 	2 	8 	1 	1 	1 	But 	CC
+Mal 	2 	8 	1 	2 	1 	ye 	NN
+Mal 	2 	8 	1 	3 	1 	are 	VBP
+Mal 	2 	8 	1 	4 	1 	departed 	VBN
+Mal 	2 	8 	1 	5 	1 	out 	IN
+Mal 	2 	8 	1 	6 	1 	of 	IN
+Mal 	2 	8 	1 	7 	1 	the 	DT
+Mal 	2 	8 	1 	8 	1 	way 	NN
+Mal 	2 	8 	1 	9 	0 	;
+Mal 	2 	8 	1 	10 	1 	ye 	NN
+Mal 	2 	8 	1 	11 	1 	have 	VB
+Mal 	2 	8 	1 	12 	1 	caused 	VBN
+Mal 	2 	8 	1 	13 	1 	many 	JJ
+Mal 	2 	8 	1 	14 	1 	to 	TO
+Mal 	2 	8 	1 	15 	1 	stumble 	JJ
+Mal 	2 	8 	1 	16 	1 	at 	IN
+Mal 	2 	8 	1 	17 	1 	the 	DT
+Mal 	2 	8 	1 	18 	1 	law 	NN
+Mal 	2 	8 	1 	19 	0 	;
+Mal 	2 	8 	1 	20 	1 	ye 	NN
+Mal 	2 	8 	1 	21 	1 	have 	VB
+Mal 	2 	8 	1 	22 	1 	corrupted 	VBN
+Mal 	2 	8 	1 	23 	1 	the 	DT
+Mal 	2 	8 	1 	24 	1 	covenant 	NN
+Mal 	2 	8 	1 	25 	1 	of 	IN
+Mal 	2 	8 	1 	26 	1 	Levi 	NN
+Mal 	2 	8 	1 	27 	0 	,
+Mal 	2 	8 	1 	28 	1 	saith 	NN
+Mal 	2 	8 	1 	29 	1 	the 	DT
+Mal 	2 	8 	1 	30 	1 	LORD 	NN
+Mal 	2 	8 	1 	31 	1 	of 	IN
+Mal 	2 	8 	1 	32 	1 	hosts 	NNS
+Mal 	2 	8 	1 	33 	0 	.
+Mal 	2 	9 	1 	1 	1 	Therefore 	RB
+Mal 	2 	9 	1 	2 	1 	have 	VB
+Mal 	2 	9 	1 	3 	1 	I 	PRP
+Mal 	2 	9 	1 	4 	1 	also 	RB
+Mal 	2 	9 	1 	5 	1 	made 	VBN
+Mal 	2 	9 	1 	6 	1 	you 	PRP
+Mal 	2 	9 	1 	7 	1 	contemptible 	JJ
+Mal 	2 	9 	1 	8 	1 	and 	CC
+Mal 	2 	9 	1 	9 	1 	base 	NN
+Mal 	2 	9 	1 	10 	1 	before 	IN
+Mal 	2 	9 	1 	11 	1 	all 	DT
+Mal 	2 	9 	1 	12 	1 	the 	DT
+Mal 	2 	9 	1 	13 	1 	people 	NNS
+Mal 	2 	9 	1 	14 	0 	,
+Mal 	2 	9 	1 	15 	1 	according 	VBG
+Mal 	2 	9 	1 	16 	1 	as 	IN
+Mal 	2 	9 	1 	17 	1 	ye 	NN
+Mal 	2 	9 	1 	18 	1 	have 	VB
+Mal 	2 	9 	1 	19 	1 	not 	RB
+Mal 	2 	9 	1 	20 	1 	kept 	NN
+Mal 	2 	9 	1 	21 	1 	my 	PRP$
+Mal 	2 	9 	1 	22 	1 	ways 	NNS
+Mal 	2 	9 	1 	23 	0 	,
+Mal 	2 	9 	1 	24 	1 	but 	CC
+Mal 	2 	9 	1 	25 	1 	have 	VB
+Mal 	2 	9 	1 	26 	1 	been 	VBN
+Mal 	2 	9 	1 	27 	1 	partial 	JJ
+Mal 	2 	9 	1 	28 	1 	in 	IN
+Mal 	2 	9 	1 	29 	1 	the 	DT
+Mal 	2 	9 	1 	30 	1 	law 	NN
+Mal 	2 	9 	1 	31 	0 	.
+Mal 	2 	10 	1 	1 	1 	Have 	VB
+Mal 	2 	10 	1 	2 	1 	we 	PRP
+Mal 	2 	10 	1 	3 	1 	not 	RB
+Mal 	2 	10 	1 	4 	1 	all 	DT
+Mal 	2 	10 	1 	5 	1 	one 	CD
+Mal 	2 	10 	1 	6 	1 	father 	NN
+Mal 	2 	10 	1 	7 	0 	?
+Mal 	2 	10 	2 	1 	1 	hath 	NN
+Mal 	2 	10 	2 	2 	1 	not 	RB
+Mal 	2 	10 	2 	3 	1 	one 	CD
+Mal 	2 	10 	2 	4 	1 	God 	NNP
+Mal 	2 	10 	2 	5 	1 	created 	VBN
+Mal 	2 	10 	2 	6 	1 	us 	PRP
+Mal 	2 	10 	2 	7 	0 	?
+Mal 	2 	10 	3 	1 	1 	why 	WRB
+Mal 	2 	10 	3 	2 	1 	do 	VB
+Mal 	2 	10 	3 	3 	1 	we 	PRP
+Mal 	2 	10 	3 	4 	1 	deal 	NN
+Mal 	2 	10 	3 	5 	1 	treacherously 	RB
+Mal 	2 	10 	3 	6 	1 	every 	DT
+Mal 	2 	10 	3 	7 	1 	man 	NN
+Mal 	2 	10 	3 	8 	1 	against 	IN
+Mal 	2 	10 	3 	9 	1 	his 	PRP$
+Mal 	2 	10 	3 	10 	1 	brother 	NN
+Mal 	2 	10 	3 	11 	0 	,
+Mal 	2 	10 	3 	12 	1 	by 	IN
+Mal 	2 	10 	3 	13 	1 	profaning 	VBG
+Mal 	2 	10 	3 	14 	1 	the 	DT
+Mal 	2 	10 	3 	15 	1 	covenant 	NN
+Mal 	2 	10 	3 	16 	1 	of 	IN
+Mal 	2 	10 	3 	17 	1 	our 	PRP$
+Mal 	2 	10 	3 	18 	1 	fathers 	NNS
+Mal 	2 	10 	3 	19 	0 	?
+Mal 	2 	11 	1 	1 	1 	Judah 	NN
+Mal 	2 	11 	1 	2 	1 	hath 	NN
+Mal 	2 	11 	1 	3 	1 	dealt 	NN
+Mal 	2 	11 	1 	4 	1 	treacherously 	RB
+Mal 	2 	11 	1 	5 	0 	,
+Mal 	2 	11 	1 	6 	1 	and 	CC
+Mal 	2 	11 	1 	7 	1 	an 	DT
+Mal 	2 	11 	1 	8 	1 	abomination 	NN
+Mal 	2 	11 	1 	9 	1 	is 	VBZ
+Mal 	2 	11 	1 	10 	1 	committed 	VBN
+Mal 	2 	11 	1 	11 	1 	in 	IN
+Mal 	2 	11 	1 	12 	1 	Israel 	NNP
+Mal 	2 	11 	1 	13 	1 	and 	CC
+Mal 	2 	11 	1 	14 	1 	in 	IN
+Mal 	2 	11 	1 	15 	1 	Jerusalem 	NN
+Mal 	2 	11 	1 	16 	0 	;
+Mal 	2 	11 	1 	17 	1 	for 	IN
+Mal 	2 	11 	1 	18 	1 	Judah 	NN
+Mal 	2 	11 	1 	19 	1 	hath 	NN
+Mal 	2 	11 	1 	20 	1 	profaned 	VBN
+Mal 	2 	11 	1 	21 	1 	the 	DT
+Mal 	2 	11 	1 	22 	1 	holiness 	NN
+Mal 	2 	11 	1 	23 	1 	of 	IN
+Mal 	2 	11 	1 	24 	1 	the 	DT
+Mal 	2 	11 	1 	25 	1 	LORD 	NN
+Mal 	2 	11 	1 	26 	1 	which 	WDT
+Mal 	2 	11 	1 	27 	1 	he 	PRP
+Mal 	2 	11 	1 	28 	1 	loved 	VBN
+Mal 	2 	11 	1 	29 	0 	,
+Mal 	2 	11 	1 	30 	1 	and 	CC
+Mal 	2 	11 	1 	31 	1 	hath 	NN
+Mal 	2 	11 	1 	32 	1 	married 	JJ
+Mal 	2 	11 	1 	33 	1 	the 	DT
+Mal 	2 	11 	1 	34 	1 	daughter 	NN
+Mal 	2 	11 	1 	35 	1 	of 	IN
+Mal 	2 	11 	1 	36 	1 	a 	DT
+Mal 	2 	11 	1 	37 	1 	strange 	NN
+Mal 	2 	11 	1 	38 	1 	god 	NN
+Mal 	2 	11 	1 	39 	0 	.
+Mal 	2 	12 	1 	1 	1 	The 	DT
+Mal 	2 	12 	1 	2 	1 	LORD 	NN
+Mal 	2 	12 	1 	3 	1 	will 	MD
+Mal 	2 	12 	1 	4 	1 	cut 	NN
+Mal 	2 	12 	1 	5 	1 	off 	IN
+Mal 	2 	12 	1 	6 	1 	the 	DT
+Mal 	2 	12 	1 	7 	1 	man 	NN
+Mal 	2 	12 	1 	8 	1 	that 	IN
+Mal 	2 	12 	1 	9 	1 	doeth 	NN
+Mal 	2 	12 	1 	10 	1 	this 	DT
+Mal 	2 	12 	1 	11 	0 	,
+Mal 	2 	12 	1 	12 	1 	the 	DT
+Mal 	2 	12 	1 	13 	1 	master 	NN
+Mal 	2 	12 	1 	14 	1 	and 	CC
+Mal 	2 	12 	1 	15 	1 	the 	DT
+Mal 	2 	12 	1 	16 	1 	scholar 	NN
+Mal 	2 	12 	1 	17 	0 	,
+Mal 	2 	12 	1 	18 	1 	out 	IN
+Mal 	2 	12 	1 	19 	1 	of 	IN
+Mal 	2 	12 	1 	20 	1 	the 	DT
+Mal 	2 	12 	1 	21 	1 	tabernacles 	NNS
+Mal 	2 	12 	1 	22 	1 	of 	IN
+Mal 	2 	12 	1 	23 	1 	Jacob 	NN
+Mal 	2 	12 	1 	24 	0 	,
+Mal 	2 	12 	1 	25 	1 	and 	CC
+Mal 	2 	12 	1 	26 	1 	him 	PRP
+Mal 	2 	12 	1 	27 	1 	that 	IN
+Mal 	2 	12 	1 	28 	1 	offereth 	NNS
+Mal 	2 	12 	1 	29 	1 	an 	DT
+Mal 	2 	12 	1 	30 	1 	offering 	NN
+Mal 	2 	12 	1 	31 	1 	unto 	NN
+Mal 	2 	12 	1 	32 	1 	the 	DT
+Mal 	2 	12 	1 	33 	1 	LORD 	NN
+Mal 	2 	12 	1 	34 	1 	of 	IN
+Mal 	2 	12 	1 	35 	1 	hosts 	NNS
+Mal 	2 	12 	1 	36 	0 	.
+Mal 	2 	13 	1 	1 	1 	And 	CC
+Mal 	2 	13 	1 	2 	1 	this 	DT
+Mal 	2 	13 	1 	3 	1 	have 	VB
+Mal 	2 	13 	1 	4 	1 	ye 	NN
+Mal 	2 	13 	1 	5 	1 	done 	VBN
+Mal 	2 	13 	1 	6 	1 	again 	RB
+Mal 	2 	13 	1 	7 	0 	,
+Mal 	2 	13 	1 	8 	1 	covering 	VBG
+Mal 	2 	13 	1 	9 	1 	the 	DT
+Mal 	2 	13 	1 	10 	1 	altar 	NN
+Mal 	2 	13 	1 	11 	1 	of 	IN
+Mal 	2 	13 	1 	12 	1 	the 	DT
+Mal 	2 	13 	1 	13 	1 	LORD 	NN
+Mal 	2 	13 	1 	14 	1 	with 	IN
+Mal 	2 	13 	1 	15 	1 	tears 	NNS
+Mal 	2 	13 	1 	16 	0 	,
+Mal 	2 	13 	1 	17 	1 	with 	IN
+Mal 	2 	13 	1 	18 	1 	weeping 	VBG
+Mal 	2 	13 	1 	19 	0 	,
+Mal 	2 	13 	1 	20 	1 	and 	CC
+Mal 	2 	13 	1 	21 	1 	with 	IN
+Mal 	2 	13 	1 	22 	1 	crying 	VBG
+Mal 	2 	13 	1 	23 	1 	out 	IN
+Mal 	2 	13 	1 	24 	0 	,
+Mal 	2 	13 	1 	25 	1 	insomuch 	JJ
+Mal 	2 	13 	1 	26 	1 	that 	IN
+Mal 	2 	13 	1 	27 	1 	he 	PRP
+Mal 	2 	13 	1 	28 	1 	regardeth 	NN
+Mal 	2 	13 	1 	29 	1 	not 	RB
+Mal 	2 	13 	1 	30 	1 	the 	DT
+Mal 	2 	13 	1 	31 	1 	offering 	NN
+Mal 	2 	13 	1 	32 	1 	any 	DT
+Mal 	2 	13 	1 	33 	1 	more 	RBR
+Mal 	2 	13 	1 	34 	0 	,
+Mal 	2 	13 	1 	35 	1 	or 	CC
+Mal 	2 	13 	1 	36 	1 	receiveth 	NN
+Mal 	2 	13 	1 	37 	1 	it 	PRP
+Mal 	2 	13 	1 	38 	1 	with 	IN
+Mal 	2 	13 	1 	39 	1 	good 	JJ
+Mal 	2 	13 	1 	40 	1 	will 	MD
+Mal 	2 	13 	1 	41 	1 	at 	IN
+Mal 	2 	13 	1 	42 	1 	your 	PRP$
+Mal 	2 	13 	1 	43 	1 	hand 	NN
+Mal 	2 	13 	1 	44 	0 	.
+Mal 	2 	14 	1 	1 	1 	Yet 	RB
+Mal 	2 	14 	1 	2 	1 	ye 	NN
+Mal 	2 	14 	1 	3 	1 	say 	VB
+Mal 	2 	14 	1 	4 	0 	,
+Mal 	2 	14 	1 	5 	1 	Wherefore 	IN
+Mal 	2 	14 	1 	6 	0 	?
+Mal 	2 	14 	2 	1 	1 	Because 	IN
+Mal 	2 	14 	2 	2 	1 	the 	DT
+Mal 	2 	14 	2 	3 	1 	LORD 	NN
+Mal 	2 	14 	2 	4 	1 	hath 	NN
+Mal 	2 	14 	2 	5 	1 	been 	VBN
+Mal 	2 	14 	2 	6 	1 	witness 	NN
+Mal 	2 	14 	2 	7 	1 	between 	IN
+Mal 	2 	14 	2 	8 	1 	thee 	NN
+Mal 	2 	14 	2 	9 	1 	and 	CC
+Mal 	2 	14 	2 	10 	1 	the 	DT
+Mal 	2 	14 	2 	11 	1 	wife 	NN
+Mal 	2 	14 	2 	12 	1 	of 	IN
+Mal 	2 	14 	2 	13 	1 	thy 	NN
+Mal 	2 	14 	2 	14 	1 	youth 	NN
+Mal 	2 	14 	2 	15 	0 	,
+Mal 	2 	14 	2 	16 	1 	against 	IN
+Mal 	2 	14 	2 	17 	1 	whom 	WP
+Mal 	2 	14 	2 	18 	1 	thou 	NN
+Mal 	2 	14 	2 	19 	1 	hast 	NN
+Mal 	2 	14 	2 	20 	1 	dealt 	NN
+Mal 	2 	14 	2 	21 	1 	treacherously 	RB
+Mal 	2 	14 	2 	22 	0 	:
+Mal 	2 	14 	2 	23 	1 	yet 	RB
+Mal 	2 	14 	2 	24 	1 	is 	VBZ
+Mal 	2 	14 	2 	25 	1 	she 	PRP
+Mal 	2 	14 	2 	26 	1 	thy 	NN
+Mal 	2 	14 	2 	27 	1 	companion 	NN
+Mal 	2 	14 	2 	28 	0 	,
+Mal 	2 	14 	2 	29 	1 	and 	CC
+Mal 	2 	14 	2 	30 	1 	the 	DT
+Mal 	2 	14 	2 	31 	1 	wife 	NN
+Mal 	2 	14 	2 	32 	1 	of 	IN
+Mal 	2 	14 	2 	33 	1 	thy 	NN
+Mal 	2 	14 	2 	34 	1 	covenant 	NN
+Mal 	2 	14 	2 	35 	0 	.
+Mal 	2 	15 	1 	1 	1 	And 	CC
+Mal 	2 	15 	1 	2 	1 	did 	VBD
+Mal 	2 	15 	1 	3 	1 	not 	RB
+Mal 	2 	15 	1 	4 	1 	he 	PRP
+Mal 	2 	15 	1 	5 	1 	make 	VB
+Mal 	2 	15 	1 	6 	1 	one 	CD
+Mal 	2 	15 	1 	7 	0 	?
+Mal 	2 	15 	2 	1 	1 	Yet 	RB
+Mal 	2 	15 	2 	2 	1 	had 	VBD
+Mal 	2 	15 	2 	3 	1 	he 	PRP
+Mal 	2 	15 	2 	4 	1 	the 	DT
+Mal 	2 	15 	2 	5 	1 	residue 	NN
+Mal 	2 	15 	2 	6 	1 	of 	IN
+Mal 	2 	15 	2 	7 	1 	the 	DT
+Mal 	2 	15 	2 	8 	1 	spirit 	NN
+Mal 	2 	15 	2 	9 	0 	.
+Mal 	2 	15 	3 	1 	1 	And 	CC
+Mal 	2 	15 	3 	2 	1 	wherefore 	NN
+Mal 	2 	15 	3 	3 	1 	one 	CD
+Mal 	2 	15 	3 	4 	0 	?
+Mal 	2 	15 	4 	1 	1 	That 	DT
+Mal 	2 	15 	4 	2 	1 	he 	PRP
+Mal 	2 	15 	4 	3 	1 	might 	MD
+Mal 	2 	15 	4 	4 	1 	seek 	NN
+Mal 	2 	15 	4 	5 	1 	a 	DT
+Mal 	2 	15 	4 	6 	1 	godly 	RB
+Mal 	2 	15 	4 	7 	1 	seed 	NN
+Mal 	2 	15 	4 	8 	0 	.
+Mal 	2 	15 	5 	1 	1 	Therefore 	RB
+Mal 	2 	15 	5 	2 	1 	take 	VB
+Mal 	2 	15 	5 	3 	1 	heed 	NN
+Mal 	2 	15 	5 	4 	1 	to 	TO
+Mal 	2 	15 	5 	5 	1 	your 	PRP$
+Mal 	2 	15 	5 	6 	1 	spirit 	NN
+Mal 	2 	15 	5 	7 	0 	,
+Mal 	2 	15 	5 	8 	1 	and 	CC
+Mal 	2 	15 	5 	9 	1 	let 	VB
+Mal 	2 	15 	5 	10 	1 	none 	NN
+Mal 	2 	15 	5 	11 	1 	deal 	NN
+Mal 	2 	15 	5 	12 	1 	treacherously 	RB
+Mal 	2 	15 	5 	13 	1 	against 	IN
+Mal 	2 	15 	5 	14 	1 	the 	DT
+Mal 	2 	15 	5 	15 	1 	wife 	NN
+Mal 	2 	15 	5 	16 	1 	of 	IN
+Mal 	2 	15 	5 	17 	1 	his 	PRP$
+Mal 	2 	15 	5 	18 	1 	youth 	NN
+Mal 	2 	15 	5 	19 	0 	.
+Mal 	2 	16 	1 	1 	1 	For 	IN
+Mal 	2 	16 	1 	2 	1 	the 	DT
+Mal 	2 	16 	1 	3 	1 	LORD 	NN
+Mal 	2 	16 	1 	4 	0 	,
+Mal 	2 	16 	1 	5 	1 	the 	DT
+Mal 	2 	16 	1 	6 	1 	God 	NNP
+Mal 	2 	16 	1 	7 	1 	of 	IN
+Mal 	2 	16 	1 	8 	1 	Israel 	NNP
+Mal 	2 	16 	1 	9 	0 	,
+Mal 	2 	16 	1 	10 	1 	saith 	NN
+Mal 	2 	16 	1 	11 	1 	that 	IN
+Mal 	2 	16 	1 	12 	1 	he 	PRP
+Mal 	2 	16 	1 	13 	1 	hateth 	NN
+Mal 	2 	16 	1 	14 	1 	putting 	VBG
+Mal 	2 	16 	1 	15 	1 	away 	RB
+Mal 	2 	16 	1 	16 	0 	:
+Mal 	2 	16 	1 	17 	1 	for 	IN
+Mal 	2 	16 	1 	18 	1 	one 	CD
+Mal 	2 	16 	1 	19 	1 	covereth 	NNS
+Mal 	2 	16 	1 	20 	1 	violence 	NN
+Mal 	2 	16 	1 	21 	1 	with 	IN
+Mal 	2 	16 	1 	22 	1 	his 	PRP$
+Mal 	2 	16 	1 	23 	1 	garment 	NN
+Mal 	2 	16 	1 	24 	0 	,
+Mal 	2 	16 	1 	25 	1 	saith 	NN
+Mal 	2 	16 	1 	26 	1 	the 	DT
+Mal 	2 	16 	1 	27 	1 	LORD 	NN
+Mal 	2 	16 	1 	28 	1 	of 	IN
+Mal 	2 	16 	1 	29 	1 	hosts 	NNS
+Mal 	2 	16 	1 	30 	0 	:
+Mal 	2 	16 	1 	31 	1 	therefore 	RB
+Mal 	2 	16 	1 	32 	1 	take 	VB
+Mal 	2 	16 	1 	33 	1 	heed 	NN
+Mal 	2 	16 	1 	34 	1 	to 	TO
+Mal 	2 	16 	1 	35 	1 	your 	PRP$
+Mal 	2 	16 	1 	36 	1 	spirit 	NN
+Mal 	2 	16 	1 	37 	0 	,
+Mal 	2 	16 	1 	38 	1 	that 	IN
+Mal 	2 	16 	1 	39 	1 	ye 	NN
+Mal 	2 	16 	1 	40 	1 	deal 	NN
+Mal 	2 	16 	1 	41 	1 	not 	RB
+Mal 	2 	16 	1 	42 	1 	treacherously 	RB
+Mal 	2 	16 	1 	43 	0 	.
+Mal 	2 	17 	1 	1 	1 	Ye 	NN
+Mal 	2 	17 	1 	2 	1 	have 	VB
+Mal 	2 	17 	1 	3 	1 	wearied 	VBN
+Mal 	2 	17 	1 	4 	1 	the 	DT
+Mal 	2 	17 	1 	5 	1 	LORD 	NN
+Mal 	2 	17 	1 	6 	1 	with 	IN
+Mal 	2 	17 	1 	7 	1 	your 	PRP$
+Mal 	2 	17 	1 	8 	1 	words 	NNS
+Mal 	2 	17 	1 	9 	0 	.
+Mal 	2 	17 	2 	1 	1 	Yet 	RB
+Mal 	2 	17 	2 	2 	1 	ye 	NN
+Mal 	2 	17 	2 	3 	1 	say 	VB
+Mal 	2 	17 	2 	4 	0 	,
+Mal 	2 	17 	2 	5 	1 	Wherein 	NNP
+Mal 	2 	17 	2 	6 	1 	have 	VB
+Mal 	2 	17 	2 	7 	1 	we 	PRP
+Mal 	2 	17 	2 	8 	1 	wearied 	VBN
+Mal 	2 	17 	2 	9 	1 	him 	PRP
+Mal 	2 	17 	2 	10 	0 	?
+Mal 	2 	17 	3 	1 	1 	When 	WRB
+Mal 	2 	17 	3 	2 	1 	ye 	NN
+Mal 	2 	17 	3 	3 	1 	say 	VB
+Mal 	2 	17 	3 	4 	0 	,
+Mal 	2 	17 	3 	5 	1 	Every 	DT
+Mal 	2 	17 	3 	6 	1 	one 	CD
+Mal 	2 	17 	3 	7 	1 	that 	IN
+Mal 	2 	17 	3 	8 	1 	doeth 	NN
+Mal 	2 	17 	3 	9 	1 	evil 	NN
+Mal 	2 	17 	3 	10 	1 	is 	VBZ
+Mal 	2 	17 	3 	11 	1 	good 	JJ
+Mal 	2 	17 	3 	12 	1 	in 	IN
+Mal 	2 	17 	3 	13 	1 	the 	DT
+Mal 	2 	17 	3 	14 	1 	sight 	NN
+Mal 	2 	17 	3 	15 	1 	of 	IN
+Mal 	2 	17 	3 	16 	1 	the 	DT
+Mal 	2 	17 	3 	17 	1 	LORD 	NN
+Mal 	2 	17 	3 	18 	0 	,
+Mal 	2 	17 	3 	19 	1 	and 	CC
+Mal 	2 	17 	3 	20 	1 	he 	PRP
+Mal 	2 	17 	3 	21 	1 	delighteth 	NN
+Mal 	2 	17 	3 	22 	1 	in 	IN
+Mal 	2 	17 	3 	23 	1 	them 	PRP
+Mal 	2 	17 	3 	24 	0 	;
+Mal 	2 	17 	3 	25 	1 	or 	CC
+Mal 	2 	17 	3 	26 	0 	,
+Mal 	2 	17 	3 	27 	1 	Where 	WRB
+Mal 	2 	17 	3 	28 	1 	is 	VBZ
+Mal 	2 	17 	3 	29 	1 	the 	DT
+Mal 	2 	17 	3 	30 	1 	God 	NNP
+Mal 	2 	17 	3 	31 	1 	of 	IN
+Mal 	2 	17 	3 	32 	1 	judgment 	NN
+Mal 	2 	17 	3 	33 	0 	?
+Mal 	3 	1 	1 	1 	1 	Behold 	NN
+Mal 	3 	1 	1 	2 	0 	,
+Mal 	3 	1 	1 	3 	1 	I 	PRP
+Mal 	3 	1 	1 	4 	1 	will 	MD
+Mal 	3 	1 	1 	5 	1 	send 	NN
+Mal 	3 	1 	1 	6 	1 	my 	PRP$
+Mal 	3 	1 	1 	7 	1 	messenger 	NN
+Mal 	3 	1 	1 	8 	0 	,
+Mal 	3 	1 	1 	9 	1 	and 	CC
+Mal 	3 	1 	1 	10 	1 	he 	PRP
+Mal 	3 	1 	1 	11 	1 	shall 	MD
+Mal 	3 	1 	1 	12 	1 	prepare 	NN
+Mal 	3 	1 	1 	13 	1 	the 	DT
+Mal 	3 	1 	1 	14 	1 	way 	NN
+Mal 	3 	1 	1 	15 	1 	before 	IN
+Mal 	3 	1 	1 	16 	1 	me 	PRP
+Mal 	3 	1 	1 	17 	0 	:
+Mal 	3 	1 	1 	18 	1 	and 	CC
+Mal 	3 	1 	1 	19 	1 	the 	DT
+Mal 	3 	1 	1 	20 	1 	LORD 	NN
+Mal 	3 	1 	1 	21 	0 	,
+Mal 	3 	1 	1 	22 	1 	whom 	WP
+Mal 	3 	1 	1 	23 	1 	ye 	NN
+Mal 	3 	1 	1 	24 	1 	seek 	NN
+Mal 	3 	1 	1 	25 	0 	,
+Mal 	3 	1 	1 	26 	1 	shall 	MD
+Mal 	3 	1 	1 	27 	1 	suddenly 	RB
+Mal 	3 	1 	1 	28 	1 	come 	VB
+Mal 	3 	1 	1 	29 	1 	to 	TO
+Mal 	3 	1 	1 	30 	1 	his 	PRP$
+Mal 	3 	1 	1 	31 	1 	temple 	NN
+Mal 	3 	1 	1 	32 	0 	,
+Mal 	3 	1 	1 	33 	1 	even 	RB
+Mal 	3 	1 	1 	34 	1 	the 	DT
+Mal 	3 	1 	1 	35 	1 	messenger 	NN
+Mal 	3 	1 	1 	36 	1 	of 	IN
+Mal 	3 	1 	1 	37 	1 	the 	DT
+Mal 	3 	1 	1 	38 	1 	covenant 	NN
+Mal 	3 	1 	1 	39 	0 	,
+Mal 	3 	1 	1 	40 	1 	whom 	WP
+Mal 	3 	1 	1 	41 	1 	ye 	NN
+Mal 	3 	1 	1 	42 	1 	delight 	NN
+Mal 	3 	1 	1 	43 	1 	in 	IN
+Mal 	3 	1 	1 	44 	0 	:
+Mal 	3 	1 	1 	45 	1 	behold 	NN
+Mal 	3 	1 	1 	46 	0 	,
+Mal 	3 	1 	1 	47 	1 	he 	PRP
+Mal 	3 	1 	1 	48 	1 	shall 	MD
+Mal 	3 	1 	1 	49 	1 	come 	VB
+Mal 	3 	1 	1 	50 	0 	,
+Mal 	3 	1 	1 	51 	1 	saith 	NN
+Mal 	3 	1 	1 	52 	1 	the 	DT
+Mal 	3 	1 	1 	53 	1 	LORD 	NN
+Mal 	3 	1 	1 	54 	1 	of 	IN
+Mal 	3 	1 	1 	55 	1 	hosts 	NNS
+Mal 	3 	1 	1 	56 	0 	.
+Mal 	3 	2 	1 	1 	1 	But 	CC
+Mal 	3 	2 	1 	2 	1 	who 	WP
+Mal 	3 	2 	1 	3 	1 	may 	MD
+Mal 	3 	2 	1 	4 	1 	abide 	NN
+Mal 	3 	2 	1 	5 	1 	the 	DT
+Mal 	3 	2 	1 	6 	1 	day 	NN
+Mal 	3 	2 	1 	7 	1 	of 	IN
+Mal 	3 	2 	1 	8 	1 	his 	PRP$
+Mal 	3 	2 	1 	9 	1 	coming 	VBG
+Mal 	3 	2 	1 	10 	0 	?
+Mal 	3 	2 	2 	1 	1 	and 	CC
+Mal 	3 	2 	2 	2 	1 	who 	WP
+Mal 	3 	2 	2 	3 	1 	shall 	MD
+Mal 	3 	2 	2 	4 	1 	stand 	NN
+Mal 	3 	2 	2 	5 	1 	when 	WRB
+Mal 	3 	2 	2 	6 	1 	he 	PRP
+Mal 	3 	2 	2 	7 	1 	appeareth 	NNS
+Mal 	3 	2 	2 	8 	0 	?
+Mal 	3 	2 	3 	1 	1 	for 	IN
+Mal 	3 	2 	3 	2 	1 	he 	PRP
+Mal 	3 	2 	3 	3 	1 	is 	VBZ
+Mal 	3 	2 	3 	4 	1 	like 	IN
+Mal 	3 	2 	3 	5 	1 	a 	DT
+Mal 	3 	2 	3 	6 	1 	refiner 	NN
+Mal 	3 	2 	3 	7 	0 	's
+Mal 	3 	2 	3 	8 	1 	fire 	NN
+Mal 	3 	2 	3 	9 	0 	,
+Mal 	3 	2 	3 	10 	1 	and 	CC
+Mal 	3 	2 	3 	11 	1 	like 	IN
+Mal 	3 	2 	3 	12 	1 	fullers 	NNS
+Mal 	3 	2 	3 	13 	0 	'
+Mal 	3 	2 	3 	14 	1 	soap 	NN
+Mal 	3 	2 	3 	15 	0 	:
+Mal 	3 	3 	1 	1 	1 	And 	CC
+Mal 	3 	3 	1 	2 	1 	he 	PRP
+Mal 	3 	3 	1 	3 	1 	shall 	MD
+Mal 	3 	3 	1 	4 	1 	sit 	NN
+Mal 	3 	3 	1 	5 	1 	as 	IN
+Mal 	3 	3 	1 	6 	1 	a 	DT
+Mal 	3 	3 	1 	7 	1 	refiner 	NN
+Mal 	3 	3 	1 	8 	1 	and 	CC
+Mal 	3 	3 	1 	9 	1 	purifier 	NN
+Mal 	3 	3 	1 	10 	1 	of 	IN
+Mal 	3 	3 	1 	11 	1 	silver 	NN
+Mal 	3 	3 	1 	12 	0 	:
+Mal 	3 	3 	1 	13 	1 	and 	CC
+Mal 	3 	3 	1 	14 	1 	he 	PRP
+Mal 	3 	3 	1 	15 	1 	shall 	MD
+Mal 	3 	3 	1 	16 	1 	purify 	NN
+Mal 	3 	3 	1 	17 	1 	the 	DT
+Mal 	3 	3 	1 	18 	1 	sons 	NNS
+Mal 	3 	3 	1 	19 	1 	of 	IN
+Mal 	3 	3 	1 	20 	1 	Levi 	NN
+Mal 	3 	3 	1 	21 	0 	,
+Mal 	3 	3 	1 	22 	1 	and 	CC
+Mal 	3 	3 	1 	23 	1 	purge 	NN
+Mal 	3 	3 	1 	24 	1 	them 	PRP
+Mal 	3 	3 	1 	25 	1 	as 	IN
+Mal 	3 	3 	1 	26 	1 	gold 	NN
+Mal 	3 	3 	1 	27 	1 	and 	CC
+Mal 	3 	3 	1 	28 	1 	silver 	NN
+Mal 	3 	3 	1 	29 	0 	,
+Mal 	3 	3 	1 	30 	1 	that 	IN
+Mal 	3 	3 	1 	31 	1 	they 	PRP
+Mal 	3 	3 	1 	32 	1 	may 	MD
+Mal 	3 	3 	1 	33 	1 	offer 	NN
+Mal 	3 	3 	1 	34 	1 	unto 	NN
+Mal 	3 	3 	1 	35 	1 	the 	DT
+Mal 	3 	3 	1 	36 	1 	LORD 	NN
+Mal 	3 	3 	1 	37 	1 	an 	DT
+Mal 	3 	3 	1 	38 	1 	offering 	NN
+Mal 	3 	3 	1 	39 	1 	in 	IN
+Mal 	3 	3 	1 	40 	1 	righteousness 	NN
+Mal 	3 	3 	1 	41 	0 	.
+Mal 	3 	4 	1 	1 	1 	Then 	RB
+Mal 	3 	4 	1 	2 	1 	shall 	MD
+Mal 	3 	4 	1 	3 	1 	the 	DT
+Mal 	3 	4 	1 	4 	1 	offering 	NN
+Mal 	3 	4 	1 	5 	1 	of 	IN
+Mal 	3 	4 	1 	6 	1 	Judah 	NN
+Mal 	3 	4 	1 	7 	1 	and 	CC
+Mal 	3 	4 	1 	8 	1 	Jerusalem 	NN
+Mal 	3 	4 	1 	9 	1 	be 	VB
+Mal 	3 	4 	1 	10 	1 	pleasant 	NN
+Mal 	3 	4 	1 	11 	1 	unto 	NN
+Mal 	3 	4 	1 	12 	1 	the 	DT
+Mal 	3 	4 	1 	13 	1 	LORD 	NN
+Mal 	3 	4 	1 	14 	0 	,
+Mal 	3 	4 	1 	15 	1 	as 	IN
+Mal 	3 	4 	1 	16 	1 	in 	IN
+Mal 	3 	4 	1 	17 	1 	the 	DT
+Mal 	3 	4 	1 	18 	1 	days 	NNS
+Mal 	3 	4 	1 	19 	1 	of 	IN
+Mal 	3 	4 	1 	20 	1 	old 	JJ
+Mal 	3 	4 	1 	21 	0 	,
+Mal 	3 	4 	1 	22 	1 	and 	CC
+Mal 	3 	4 	1 	23 	1 	as 	IN
+Mal 	3 	4 	1 	24 	1 	in 	IN
+Mal 	3 	4 	1 	25 	1 	former 	JJ
+Mal 	3 	4 	1 	26 	1 	years 	NNS
+Mal 	3 	4 	1 	27 	0 	.
+Mal 	3 	5 	1 	1 	1 	And 	CC
+Mal 	3 	5 	1 	2 	1 	I 	PRP
+Mal 	3 	5 	1 	3 	1 	will 	MD
+Mal 	3 	5 	1 	4 	1 	come 	VB
+Mal 	3 	5 	1 	5 	1 	near 	IN
+Mal 	3 	5 	1 	6 	1 	to 	TO
+Mal 	3 	5 	1 	7 	1 	you 	PRP
+Mal 	3 	5 	1 	8 	1 	to 	TO
+Mal 	3 	5 	1 	9 	1 	judgment 	NN
+Mal 	3 	5 	1 	10 	0 	;
+Mal 	3 	5 	1 	11 	1 	and 	CC
+Mal 	3 	5 	1 	12 	1 	I 	PRP
+Mal 	3 	5 	1 	13 	1 	will 	MD
+Mal 	3 	5 	1 	14 	1 	be 	VB
+Mal 	3 	5 	1 	15 	1 	a 	DT
+Mal 	3 	5 	1 	16 	1 	swift 	NN
+Mal 	3 	5 	1 	17 	1 	witness 	NN
+Mal 	3 	5 	1 	18 	1 	against 	IN
+Mal 	3 	5 	1 	19 	1 	the 	DT
+Mal 	3 	5 	1 	20 	1 	sorcerers 	NNS
+Mal 	3 	5 	1 	21 	0 	,
+Mal 	3 	5 	1 	22 	1 	and 	CC
+Mal 	3 	5 	1 	23 	1 	against 	IN
+Mal 	3 	5 	1 	24 	1 	the 	DT
+Mal 	3 	5 	1 	25 	1 	adulterers 	NNS
+Mal 	3 	5 	1 	26 	0 	,
+Mal 	3 	5 	1 	27 	1 	and 	CC
+Mal 	3 	5 	1 	28 	1 	against 	IN
+Mal 	3 	5 	1 	29 	1 	false 	JJ
+Mal 	3 	5 	1 	30 	1 	swearers 	NNS
+Mal 	3 	5 	1 	31 	0 	,
+Mal 	3 	5 	1 	32 	1 	and 	CC
+Mal 	3 	5 	1 	33 	1 	against 	IN
+Mal 	3 	5 	1 	34 	1 	those 	DT
+Mal 	3 	5 	1 	35 	1 	that 	IN
+Mal 	3 	5 	1 	36 	1 	oppress 	NN
+Mal 	3 	5 	1 	37 	1 	the 	DT
+Mal 	3 	5 	1 	38 	1 	hireling 	VBG
+Mal 	3 	5 	1 	39 	1 	in 	IN
+Mal 	3 	5 	1 	40 	1 	his 	PRP$
+Mal 	3 	5 	1 	41 	1 	wages 	NNS
+Mal 	3 	5 	1 	42 	0 	,
+Mal 	3 	5 	1 	43 	1 	the 	DT
+Mal 	3 	5 	1 	44 	1 	widow 	NN
+Mal 	3 	5 	1 	45 	0 	,
+Mal 	3 	5 	1 	46 	1 	and 	CC
+Mal 	3 	5 	1 	47 	1 	the 	DT
+Mal 	3 	5 	1 	48 	1 	fatherless 	NN
+Mal 	3 	5 	1 	49 	0 	,
+Mal 	3 	5 	1 	50 	1 	and 	CC
+Mal 	3 	5 	1 	51 	1 	that 	IN
+Mal 	3 	5 	1 	52 	1 	turn 	NN
+Mal 	3 	5 	1 	53 	1 	aside 	RB
+Mal 	3 	5 	1 	54 	1 	the 	DT
+Mal 	3 	5 	1 	55 	1 	stranger 	NN
+Mal 	3 	5 	1 	56 	1 	from 	IN
+Mal 	3 	5 	1 	57 	1 	his 	PRP$
+Mal 	3 	5 	1 	58 	1 	right 	NN
+Mal 	3 	5 	1 	59 	0 	,
+Mal 	3 	5 	1 	60 	1 	and 	CC
+Mal 	3 	5 	1 	61 	1 	fear 	NN
+Mal 	3 	5 	1 	62 	1 	not 	RB
+Mal 	3 	5 	1 	63 	1 	me 	PRP
+Mal 	3 	5 	1 	64 	0 	,
+Mal 	3 	5 	1 	65 	1 	saith 	NN
+Mal 	3 	5 	1 	66 	1 	the 	DT
+Mal 	3 	5 	1 	67 	1 	LORD 	NN
+Mal 	3 	5 	1 	68 	1 	of 	IN
+Mal 	3 	5 	1 	69 	1 	hosts 	NNS
+Mal 	3 	5 	1 	70 	0 	.
+Mal 	3 	6 	1 	1 	1 	For 	IN
+Mal 	3 	6 	1 	2 	1 	I 	PRP
+Mal 	3 	6 	1 	3 	1 	am 	VBP
+Mal 	3 	6 	1 	4 	1 	the 	DT
+Mal 	3 	6 	1 	5 	1 	LORD 	NN
+Mal 	3 	6 	1 	6 	0 	,
+Mal 	3 	6 	1 	7 	1 	I 	PRP
+Mal 	3 	6 	1 	8 	1 	change 	NN
+Mal 	3 	6 	1 	9 	1 	not 	RB
+Mal 	3 	6 	1 	10 	0 	;
+Mal 	3 	6 	1 	11 	1 	therefore 	RB
+Mal 	3 	6 	1 	12 	1 	ye 	NN
+Mal 	3 	6 	1 	13 	1 	sons 	NNS
+Mal 	3 	6 	1 	14 	1 	of 	IN
+Mal 	3 	6 	1 	15 	1 	Jacob 	NN
+Mal 	3 	6 	1 	16 	1 	are 	VBP
+Mal 	3 	6 	1 	17 	1 	not 	RB
+Mal 	3 	6 	1 	18 	1 	consumed 	VBN
+Mal 	3 	6 	1 	19 	0 	.
+Mal 	3 	7 	1 	1 	1 	Even 	RB
+Mal 	3 	7 	1 	2 	1 	from 	IN
+Mal 	3 	7 	1 	3 	1 	the 	DT
+Mal 	3 	7 	1 	4 	1 	days 	NNS
+Mal 	3 	7 	1 	5 	1 	of 	IN
+Mal 	3 	7 	1 	6 	1 	your 	PRP$
+Mal 	3 	7 	1 	7 	1 	fathers 	NNS
+Mal 	3 	7 	1 	8 	1 	ye 	NN
+Mal 	3 	7 	1 	9 	1 	are 	VBP
+Mal 	3 	7 	1 	10 	1 	gone 	VBN
+Mal 	3 	7 	1 	11 	1 	away 	RB
+Mal 	3 	7 	1 	12 	1 	from 	IN
+Mal 	3 	7 	1 	13 	1 	mine 	NN
+Mal 	3 	7 	1 	14 	1 	ordinances 	NNS
+Mal 	3 	7 	1 	15 	0 	,
+Mal 	3 	7 	1 	16 	1 	and 	CC
+Mal 	3 	7 	1 	17 	1 	have 	VB
+Mal 	3 	7 	1 	18 	1 	not 	RB
+Mal 	3 	7 	1 	19 	1 	kept 	NN
+Mal 	3 	7 	1 	20 	1 	them 	PRP
+Mal 	3 	7 	1 	21 	0 	.
+Mal 	3 	7 	2 	1 	1 	Return 	NN
+Mal 	3 	7 	2 	2 	1 	unto 	NN
+Mal 	3 	7 	2 	3 	1 	me 	PRP
+Mal 	3 	7 	2 	4 	0 	,
+Mal 	3 	7 	2 	5 	1 	and 	CC
+Mal 	3 	7 	2 	6 	1 	I 	PRP
+Mal 	3 	7 	2 	7 	1 	will 	MD
+Mal 	3 	7 	2 	8 	1 	return 	NN
+Mal 	3 	7 	2 	9 	1 	unto 	NN
+Mal 	3 	7 	2 	10 	1 	you 	PRP
+Mal 	3 	7 	2 	11 	0 	,
+Mal 	3 	7 	2 	12 	1 	saith 	NN
+Mal 	3 	7 	2 	13 	1 	the 	DT
+Mal 	3 	7 	2 	14 	1 	LORD 	NN
+Mal 	3 	7 	2 	15 	1 	of 	IN
+Mal 	3 	7 	2 	16 	1 	hosts 	NNS
+Mal 	3 	7 	2 	17 	0 	.
+Mal 	3 	7 	3 	1 	1 	But 	CC
+Mal 	3 	7 	3 	2 	1 	ye 	NN
+Mal 	3 	7 	3 	3 	1 	said 	VBD
+Mal 	3 	7 	3 	4 	0 	,
+Mal 	3 	7 	3 	5 	1 	Wherein 	NNP
+Mal 	3 	7 	3 	6 	1 	shall 	MD
+Mal 	3 	7 	3 	7 	1 	we 	PRP
+Mal 	3 	7 	3 	8 	1 	return 	NN
+Mal 	3 	7 	3 	9 	0 	?
+Mal 	3 	8 	1 	1 	1 	Will 	MD
+Mal 	3 	8 	1 	2 	1 	a 	DT
+Mal 	3 	8 	1 	3 	1 	man 	NN
+Mal 	3 	8 	1 	4 	1 	rob 	NN
+Mal 	3 	8 	1 	5 	1 	God 	NNP
+Mal 	3 	8 	1 	6 	0 	?
+Mal 	3 	8 	2 	1 	1 	Yet 	RB
+Mal 	3 	8 	2 	2 	1 	ye 	NN
+Mal 	3 	8 	2 	3 	1 	have 	VB
+Mal 	3 	8 	2 	4 	1 	robbed 	NN
+Mal 	3 	8 	2 	5 	1 	me 	PRP
+Mal 	3 	8 	2 	6 	0 	.
+Mal 	3 	8 	3 	1 	1 	But 	CC
+Mal 	3 	8 	3 	2 	1 	ye 	NN
+Mal 	3 	8 	3 	3 	1 	say 	VB
+Mal 	3 	8 	3 	4 	0 	,
+Mal 	3 	8 	3 	5 	1 	Wherein 	NNP
+Mal 	3 	8 	3 	6 	1 	have 	VB
+Mal 	3 	8 	3 	7 	1 	we 	PRP
+Mal 	3 	8 	3 	8 	1 	robbed 	NN
+Mal 	3 	8 	3 	9 	1 	thee 	NN
+Mal 	3 	8 	3 	10 	0 	?
+Mal 	3 	8 	4 	1 	1 	In 	IN
+Mal 	3 	8 	4 	2 	1 	tithes 	NNS
+Mal 	3 	8 	4 	3 	1 	and 	CC
+Mal 	3 	8 	4 	4 	1 	offerings 	NNS
+Mal 	3 	8 	4 	5 	0 	.
+Mal 	3 	9 	1 	1 	1 	Ye 	NN
+Mal 	3 	9 	1 	2 	1 	are 	VBP
+Mal 	3 	9 	1 	3 	1 	cursed 	VBN
+Mal 	3 	9 	1 	4 	1 	with 	IN
+Mal 	3 	9 	1 	5 	1 	a 	DT
+Mal 	3 	9 	1 	6 	1 	curse 	NN
+Mal 	3 	9 	1 	7 	0 	:
+Mal 	3 	9 	1 	8 	1 	for 	IN
+Mal 	3 	9 	1 	9 	1 	ye 	NN
+Mal 	3 	9 	1 	10 	1 	have 	VB
+Mal 	3 	9 	1 	11 	1 	robbed 	NN
+Mal 	3 	9 	1 	12 	1 	me 	PRP
+Mal 	3 	9 	1 	13 	0 	,
+Mal 	3 	9 	1 	14 	1 	even 	RB
+Mal 	3 	9 	1 	15 	1 	this 	DT
+Mal 	3 	9 	1 	16 	1 	whole 	JJ
+Mal 	3 	9 	1 	17 	1 	nation 	NN
+Mal 	3 	9 	1 	18 	0 	.
+Mal 	3 	10 	1 	1 	1 	Bring 	VB
+Mal 	3 	10 	1 	2 	1 	ye 	NN
+Mal 	3 	10 	1 	3 	1 	all 	DT
+Mal 	3 	10 	1 	4 	1 	the 	DT
+Mal 	3 	10 	1 	5 	1 	tithes 	NNS
+Mal 	3 	10 	1 	6 	1 	into 	IN
+Mal 	3 	10 	1 	7 	1 	the 	DT
+Mal 	3 	10 	1 	8 	1 	storehouse 	NN
+Mal 	3 	10 	1 	9 	0 	,
+Mal 	3 	10 	1 	10 	1 	that 	IN
+Mal 	3 	10 	1 	11 	1 	there 	RB
+Mal 	3 	10 	1 	12 	1 	may 	MD
+Mal 	3 	10 	1 	13 	1 	be 	VB
+Mal 	3 	10 	1 	14 	1 	meat 	NN
+Mal 	3 	10 	1 	15 	1 	in 	IN
+Mal 	3 	10 	1 	16 	1 	mine 	NN
+Mal 	3 	10 	1 	17 	1 	house 	NN
+Mal 	3 	10 	1 	18 	0 	,
+Mal 	3 	10 	1 	19 	1 	and 	CC
+Mal 	3 	10 	1 	20 	1 	prove 	NN
+Mal 	3 	10 	1 	21 	1 	me 	PRP
+Mal 	3 	10 	1 	22 	1 	now 	RB
+Mal 	3 	10 	1 	23 	1 	herewith 	NN
+Mal 	3 	10 	1 	24 	0 	,
+Mal 	3 	10 	1 	25 	1 	saith 	NN
+Mal 	3 	10 	1 	26 	1 	the 	DT
+Mal 	3 	10 	1 	27 	1 	LORD 	NN
+Mal 	3 	10 	1 	28 	1 	of 	IN
+Mal 	3 	10 	1 	29 	1 	hosts 	NNS
+Mal 	3 	10 	1 	30 	0 	,
+Mal 	3 	10 	1 	31 	1 	if 	IN
+Mal 	3 	10 	1 	32 	1 	I 	PRP
+Mal 	3 	10 	1 	33 	1 	will 	MD
+Mal 	3 	10 	1 	34 	1 	not 	RB
+Mal 	3 	10 	1 	35 	1 	open 	JJ
+Mal 	3 	10 	1 	36 	1 	you 	PRP
+Mal 	3 	10 	1 	37 	1 	the 	DT
+Mal 	3 	10 	1 	38 	1 	windows 	NNS
+Mal 	3 	10 	1 	39 	1 	of 	IN
+Mal 	3 	10 	1 	40 	1 	heaven 	NN
+Mal 	3 	10 	1 	41 	0 	,
+Mal 	3 	10 	1 	42 	1 	and 	CC
+Mal 	3 	10 	1 	43 	1 	pour 	NN
+Mal 	3 	10 	1 	44 	1 	you 	PRP
+Mal 	3 	10 	1 	45 	1 	out 	IN
+Mal 	3 	10 	1 	46 	1 	a 	DT
+Mal 	3 	10 	1 	47 	1 	blessing 	NN
+Mal 	3 	10 	1 	48 	0 	,
+Mal 	3 	10 	1 	49 	1 	that 	IN
+Mal 	3 	10 	1 	50 	1 	there 	RB
+Mal 	3 	10 	1 	51 	1 	shall 	MD
+Mal 	3 	10 	1 	52 	1 	not 	RB
+Mal 	3 	10 	1 	53 	1 	be 	VB
+Mal 	3 	10 	1 	54 	1 	room 	NN
+Mal 	3 	10 	1 	55 	1 	enough 	RB
+Mal 	3 	10 	1 	56 	1 	to 	TO
+Mal 	3 	10 	1 	57 	1 	receive 	NN
+Mal 	3 	10 	1 	58 	1 	it 	PRP
+Mal 	3 	10 	1 	59 	0 	.
+Mal 	3 	11 	1 	1 	1 	And 	CC
+Mal 	3 	11 	1 	2 	1 	I 	PRP
+Mal 	3 	11 	1 	3 	1 	will 	MD
+Mal 	3 	11 	1 	4 	1 	rebuke 	NN
+Mal 	3 	11 	1 	5 	1 	the 	DT
+Mal 	3 	11 	1 	6 	1 	devourer 	NN
+Mal 	3 	11 	1 	7 	1 	for 	IN
+Mal 	3 	11 	1 	8 	1 	your 	PRP$
+Mal 	3 	11 	1 	9 	1 	sakes 	NNS
+Mal 	3 	11 	1 	10 	0 	,
+Mal 	3 	11 	1 	11 	1 	and 	CC
+Mal 	3 	11 	1 	12 	1 	he 	PRP
+Mal 	3 	11 	1 	13 	1 	shall 	MD
+Mal 	3 	11 	1 	14 	1 	not 	RB
+Mal 	3 	11 	1 	15 	1 	destroy 	NN
+Mal 	3 	11 	1 	16 	1 	the 	DT
+Mal 	3 	11 	1 	17 	1 	fruits 	NNS
+Mal 	3 	11 	1 	18 	1 	of 	IN
+Mal 	3 	11 	1 	19 	1 	your 	PRP$
+Mal 	3 	11 	1 	20 	1 	ground 	NN
+Mal 	3 	11 	1 	21 	0 	;
+Mal 	3 	11 	1 	22 	1 	neither 	DT
+Mal 	3 	11 	1 	23 	1 	shall 	MD
+Mal 	3 	11 	1 	24 	1 	your 	PRP$
+Mal 	3 	11 	1 	25 	1 	vine 	NN
+Mal 	3 	11 	1 	26 	1 	cast 	NN
+Mal 	3 	11 	1 	27 	1 	her 	PRP$
+Mal 	3 	11 	1 	28 	1 	fruit 	NN
+Mal 	3 	11 	1 	29 	1 	before 	IN
+Mal 	3 	11 	1 	30 	1 	the 	DT
+Mal 	3 	11 	1 	31 	1 	time 	NN
+Mal 	3 	11 	1 	32 	1 	in 	IN
+Mal 	3 	11 	1 	33 	1 	the 	DT
+Mal 	3 	11 	1 	34 	1 	field 	NN
+Mal 	3 	11 	1 	35 	0 	,
+Mal 	3 	11 	1 	36 	1 	saith 	NN
+Mal 	3 	11 	1 	37 	1 	the 	DT
+Mal 	3 	11 	1 	38 	1 	LORD 	NN
+Mal 	3 	11 	1 	39 	1 	of 	IN
+Mal 	3 	11 	1 	40 	1 	hosts 	NNS
+Mal 	3 	11 	1 	41 	0 	.
+Mal 	3 	12 	1 	1 	1 	And 	CC
+Mal 	3 	12 	1 	2 	1 	all 	DT
+Mal 	3 	12 	1 	3 	1 	nations 	NNS
+Mal 	3 	12 	1 	4 	1 	shall 	MD
+Mal 	3 	12 	1 	5 	1 	call 	NN
+Mal 	3 	12 	1 	6 	1 	you 	PRP
+Mal 	3 	12 	1 	7 	1 	blessed 	VBN
+Mal 	3 	12 	1 	8 	0 	:
+Mal 	3 	12 	1 	9 	1 	for 	IN
+Mal 	3 	12 	1 	10 	1 	ye 	NN
+Mal 	3 	12 	1 	11 	1 	shall 	MD
+Mal 	3 	12 	1 	12 	1 	be 	VB
+Mal 	3 	12 	1 	13 	1 	a 	DT
+Mal 	3 	12 	1 	14 	1 	delightsome 	NN
+Mal 	3 	12 	1 	15 	1 	land 	NN
+Mal 	3 	12 	1 	16 	0 	,
+Mal 	3 	12 	1 	17 	1 	saith 	NN
+Mal 	3 	12 	1 	18 	1 	the 	DT
+Mal 	3 	12 	1 	19 	1 	LORD 	NN
+Mal 	3 	12 	1 	20 	1 	of 	IN
+Mal 	3 	12 	1 	21 	1 	hosts 	NNS
+Mal 	3 	12 	1 	22 	0 	.
+Mal 	3 	13 	1 	1 	1 	Your 	PRP$
+Mal 	3 	13 	1 	2 	1 	words 	NNS
+Mal 	3 	13 	1 	3 	1 	have 	VB
+Mal 	3 	13 	1 	4 	1 	been 	VBN
+Mal 	3 	13 	1 	5 	1 	stout 	NN
+Mal 	3 	13 	1 	6 	1 	against 	IN
+Mal 	3 	13 	1 	7 	1 	me 	PRP
+Mal 	3 	13 	1 	8 	0 	,
+Mal 	3 	13 	1 	9 	1 	saith 	NN
+Mal 	3 	13 	1 	10 	1 	the 	DT
+Mal 	3 	13 	1 	11 	1 	LORD 	NN
+Mal 	3 	13 	1 	12 	0 	.
+Mal 	3 	13 	2 	1 	1 	Yet 	RB
+Mal 	3 	13 	2 	2 	1 	ye 	NN
+Mal 	3 	13 	2 	3 	1 	say 	VB
+Mal 	3 	13 	2 	4 	0 	,
+Mal 	3 	13 	2 	5 	1 	What 	WP
+Mal 	3 	13 	2 	6 	1 	have 	VB
+Mal 	3 	13 	2 	7 	1 	we 	PRP
+Mal 	3 	13 	2 	8 	1 	spoken 	NN
+Mal 	3 	13 	2 	9 	1 	so 	RB
+Mal 	3 	13 	2 	10 	1 	much 	JJ
+Mal 	3 	13 	2 	11 	1 	against 	IN
+Mal 	3 	13 	2 	12 	1 	thee 	NN
+Mal 	3 	13 	2 	13 	0 	?
+Mal 	3 	14 	1 	1 	1 	Ye 	NN
+Mal 	3 	14 	1 	2 	1 	have 	VB
+Mal 	3 	14 	1 	3 	1 	said 	VBD
+Mal 	3 	14 	1 	4 	0 	,
+Mal 	3 	14 	1 	5 	1 	It 	PRP
+Mal 	3 	14 	1 	6 	1 	is 	VBZ
+Mal 	3 	14 	1 	7 	1 	vain 	NN
+Mal 	3 	14 	1 	8 	1 	to 	TO
+Mal 	3 	14 	1 	9 	1 	serve 	NN
+Mal 	3 	14 	1 	10 	1 	God 	NNP
+Mal 	3 	14 	1 	11 	0 	:
+Mal 	3 	14 	1 	12 	1 	and 	CC
+Mal 	3 	14 	1 	13 	1 	what 	WP
+Mal 	3 	14 	1 	14 	1 	profit 	NN
+Mal 	3 	14 	1 	15 	1 	is 	VBZ
+Mal 	3 	14 	1 	16 	1 	it 	PRP
+Mal 	3 	14 	1 	17 	1 	that 	IN
+Mal 	3 	14 	1 	18 	1 	we 	PRP
+Mal 	3 	14 	1 	19 	1 	have 	VB
+Mal 	3 	14 	1 	20 	1 	kept 	NN
+Mal 	3 	14 	1 	21 	1 	his 	PRP$
+Mal 	3 	14 	1 	22 	1 	ordinance 	NN
+Mal 	3 	14 	1 	23 	0 	,
+Mal 	3 	14 	1 	24 	1 	and 	CC
+Mal 	3 	14 	1 	25 	1 	that 	IN
+Mal 	3 	14 	1 	26 	1 	we 	PRP
+Mal 	3 	14 	1 	27 	1 	have 	VB
+Mal 	3 	14 	1 	28 	1 	walked 	VBD
+Mal 	3 	14 	1 	29 	1 	mournfully 	RB
+Mal 	3 	14 	1 	30 	1 	before 	IN
+Mal 	3 	14 	1 	31 	1 	the 	DT
+Mal 	3 	14 	1 	32 	1 	LORD 	NN
+Mal 	3 	14 	1 	33 	1 	of 	IN
+Mal 	3 	14 	1 	34 	1 	hosts 	NNS
+Mal 	3 	14 	1 	35 	0 	?
+Mal 	3 	15 	1 	1 	1 	And 	CC
+Mal 	3 	15 	1 	2 	1 	now 	RB
+Mal 	3 	15 	1 	3 	1 	we 	PRP
+Mal 	3 	15 	1 	4 	1 	call 	NN
+Mal 	3 	15 	1 	5 	1 	the 	DT
+Mal 	3 	15 	1 	6 	1 	proud 	NN
+Mal 	3 	15 	1 	7 	1 	happy 	JJ
+Mal 	3 	15 	1 	8 	0 	;
+Mal 	3 	15 	1 	9 	1 	yea 	NN
+Mal 	3 	15 	1 	10 	0 	,
+Mal 	3 	15 	1 	11 	1 	they 	PRP
+Mal 	3 	15 	1 	12 	1 	that 	IN
+Mal 	3 	15 	1 	13 	1 	work 	NN
+Mal 	3 	15 	1 	14 	1 	wickedness 	NN
+Mal 	3 	15 	1 	15 	1 	are 	VBP
+Mal 	3 	15 	1 	16 	1 	set 	NN
+Mal 	3 	15 	1 	17 	1 	up 	RB
+Mal 	3 	15 	1 	18 	0 	;
+Mal 	3 	15 	1 	19 	1 	yea 	NN
+Mal 	3 	15 	1 	20 	0 	,
+Mal 	3 	15 	1 	21 	1 	they 	PRP
+Mal 	3 	15 	1 	22 	1 	that 	IN
+Mal 	3 	15 	1 	23 	1 	tempt 	NN
+Mal 	3 	15 	1 	24 	1 	God 	NNP
+Mal 	3 	15 	1 	25 	1 	are 	VBP
+Mal 	3 	15 	1 	26 	1 	even 	RB
+Mal 	3 	15 	1 	27 	1 	delivered 	VBN
+Mal 	3 	15 	1 	28 	0 	.
+Mal 	3 	16 	1 	1 	1 	Then 	RB
+Mal 	3 	16 	1 	2 	1 	they 	PRP
+Mal 	3 	16 	1 	3 	1 	that 	IN
+Mal 	3 	16 	1 	4 	1 	feared 	VBN
+Mal 	3 	16 	1 	5 	1 	the 	DT
+Mal 	3 	16 	1 	6 	1 	LORD 	NN
+Mal 	3 	16 	1 	7 	1 	spake 	NN
+Mal 	3 	16 	1 	8 	1 	often 	RB
+Mal 	3 	16 	1 	9 	1 	one 	CD
+Mal 	3 	16 	1 	10 	1 	to 	TO
+Mal 	3 	16 	1 	11 	1 	another 	DT
+Mal 	3 	16 	1 	12 	0 	:
+Mal 	3 	16 	1 	13 	1 	and 	CC
+Mal 	3 	16 	1 	14 	1 	the 	DT
+Mal 	3 	16 	1 	15 	1 	LORD 	NN
+Mal 	3 	16 	1 	16 	1 	hearkened 	VBN
+Mal 	3 	16 	1 	17 	0 	,
+Mal 	3 	16 	1 	18 	1 	and 	CC
+Mal 	3 	16 	1 	19 	1 	heard 	NN
+Mal 	3 	16 	1 	20 	1 	it 	PRP
+Mal 	3 	16 	1 	21 	0 	,
+Mal 	3 	16 	1 	22 	1 	and 	CC
+Mal 	3 	16 	1 	23 	1 	a 	DT
+Mal 	3 	16 	1 	24 	1 	book 	NN
+Mal 	3 	16 	1 	25 	1 	of 	IN
+Mal 	3 	16 	1 	26 	1 	remembrance 	NN
+Mal 	3 	16 	1 	27 	1 	was 	VBD
+Mal 	3 	16 	1 	28 	1 	written 	VBN
+Mal 	3 	16 	1 	29 	1 	before 	IN
+Mal 	3 	16 	1 	30 	1 	him 	PRP
+Mal 	3 	16 	1 	31 	1 	for 	IN
+Mal 	3 	16 	1 	32 	1 	them 	PRP
+Mal 	3 	16 	1 	33 	1 	that 	IN
+Mal 	3 	16 	1 	34 	1 	feared 	VBN
+Mal 	3 	16 	1 	35 	1 	the 	DT
+Mal 	3 	16 	1 	36 	1 	LORD 	NN
+Mal 	3 	16 	1 	37 	0 	,
+Mal 	3 	16 	1 	38 	1 	and 	CC
+Mal 	3 	16 	1 	39 	1 	that 	IN
+Mal 	3 	16 	1 	40 	1 	thought 	NN
+Mal 	3 	16 	1 	41 	1 	upon 	IN
+Mal 	3 	16 	1 	42 	1 	his 	PRP$
+Mal 	3 	16 	1 	43 	1 	name 	NN
+Mal 	3 	16 	1 	44 	0 	.
+Mal 	3 	17 	1 	1 	1 	And 	CC
+Mal 	3 	17 	1 	2 	1 	they 	PRP
+Mal 	3 	17 	1 	3 	1 	shall 	MD
+Mal 	3 	17 	1 	4 	1 	be 	VB
+Mal 	3 	17 	1 	5 	1 	mine 	NN
+Mal 	3 	17 	1 	6 	0 	,
+Mal 	3 	17 	1 	7 	1 	saith 	NN
+Mal 	3 	17 	1 	8 	1 	the 	DT
+Mal 	3 	17 	1 	9 	1 	LORD 	NN
+Mal 	3 	17 	1 	10 	1 	of 	IN
+Mal 	3 	17 	1 	11 	1 	hosts 	NNS
+Mal 	3 	17 	1 	12 	0 	,
+Mal 	3 	17 	1 	13 	1 	in 	IN
+Mal 	3 	17 	1 	14 	1 	that 	IN
+Mal 	3 	17 	1 	15 	1 	day 	NN
+Mal 	3 	17 	1 	16 	1 	when 	WRB
+Mal 	3 	17 	1 	17 	1 	I 	PRP
+Mal 	3 	17 	1 	18 	1 	make 	VB
+Mal 	3 	17 	1 	19 	1 	up 	RB
+Mal 	3 	17 	1 	20 	1 	my 	PRP$
+Mal 	3 	17 	1 	21 	1 	jewels 	NNS
+Mal 	3 	17 	1 	22 	0 	;
+Mal 	3 	17 	1 	23 	1 	and 	CC
+Mal 	3 	17 	1 	24 	1 	I 	PRP
+Mal 	3 	17 	1 	25 	1 	will 	MD
+Mal 	3 	17 	1 	26 	1 	spare 	NN
+Mal 	3 	17 	1 	27 	1 	them 	PRP
+Mal 	3 	17 	1 	28 	0 	,
+Mal 	3 	17 	1 	29 	1 	as 	IN
+Mal 	3 	17 	1 	30 	1 	a 	DT
+Mal 	3 	17 	1 	31 	1 	man 	NN
+Mal 	3 	17 	1 	32 	1 	spareth 	NN
+Mal 	3 	17 	1 	33 	1 	his 	PRP$
+Mal 	3 	17 	1 	34 	1 	own 	JJ
+Mal 	3 	17 	1 	35 	1 	son 	NN
+Mal 	3 	17 	1 	36 	1 	that 	IN
+Mal 	3 	17 	1 	37 	1 	serveth 	NN
+Mal 	3 	17 	1 	38 	1 	him 	PRP
+Mal 	3 	17 	1 	39 	0 	.
+Mal 	3 	18 	1 	1 	1 	Then 	RB
+Mal 	3 	18 	1 	2 	1 	shall 	MD
+Mal 	3 	18 	1 	3 	1 	ye 	NN
+Mal 	3 	18 	1 	4 	1 	return 	NN
+Mal 	3 	18 	1 	5 	0 	,
+Mal 	3 	18 	1 	6 	1 	and 	CC
+Mal 	3 	18 	1 	7 	1 	discern 	NN
+Mal 	3 	18 	1 	8 	1 	between 	IN
+Mal 	3 	18 	1 	9 	1 	the 	DT
+Mal 	3 	18 	1 	10 	1 	righteous 	JJ
+Mal 	3 	18 	1 	11 	1 	and 	CC
+Mal 	3 	18 	1 	12 	1 	the 	DT
+Mal 	3 	18 	1 	13 	1 	wicked 	VBD
+Mal 	3 	18 	1 	14 	0 	,
+Mal 	3 	18 	1 	15 	1 	between 	IN
+Mal 	3 	18 	1 	16 	1 	him 	PRP
+Mal 	3 	18 	1 	17 	1 	that 	IN
+Mal 	3 	18 	1 	18 	1 	serveth 	NN
+Mal 	3 	18 	1 	19 	1 	God 	NNP
+Mal 	3 	18 	1 	20 	1 	and 	CC
+Mal 	3 	18 	1 	21 	1 	him 	PRP
+Mal 	3 	18 	1 	22 	1 	that 	IN
+Mal 	3 	18 	1 	23 	1 	serveth 	NN
+Mal 	3 	18 	1 	24 	1 	him 	PRP
+Mal 	3 	18 	1 	25 	1 	not 	RB
+Mal 	3 	18 	1 	26 	0 	.
+Mal 	4 	1 	1 	1 	1 	For 	IN
+Mal 	4 	1 	1 	2 	0 	,
+Mal 	4 	1 	1 	3 	1 	behold 	NN
+Mal 	4 	1 	1 	4 	0 	,
+Mal 	4 	1 	1 	5 	1 	the 	DT
+Mal 	4 	1 	1 	6 	1 	day 	NN
+Mal 	4 	1 	1 	7 	1 	cometh 	NNS
+Mal 	4 	1 	1 	8 	0 	,
+Mal 	4 	1 	1 	9 	1 	that 	IN
+Mal 	4 	1 	1 	10 	1 	shall 	MD
+Mal 	4 	1 	1 	11 	1 	burn 	NN
+Mal 	4 	1 	1 	12 	1 	as 	IN
+Mal 	4 	1 	1 	13 	1 	an 	DT
+Mal 	4 	1 	1 	14 	1 	oven 	RB
+Mal 	4 	1 	1 	15 	0 	;
+Mal 	4 	1 	1 	16 	1 	and 	CC
+Mal 	4 	1 	1 	17 	1 	all 	DT
+Mal 	4 	1 	1 	18 	1 	the 	DT
+Mal 	4 	1 	1 	19 	1 	proud 	NN
+Mal 	4 	1 	1 	20 	0 	,
+Mal 	4 	1 	1 	21 	1 	yea 	NN
+Mal 	4 	1 	1 	22 	0 	,
+Mal 	4 	1 	1 	23 	1 	and 	CC
+Mal 	4 	1 	1 	24 	1 	all 	DT
+Mal 	4 	1 	1 	25 	1 	that 	IN
+Mal 	4 	1 	1 	26 	1 	do 	VB
+Mal 	4 	1 	1 	27 	1 	wickedly 	RB
+Mal 	4 	1 	1 	28 	0 	,
+Mal 	4 	1 	1 	29 	1 	shall 	MD
+Mal 	4 	1 	1 	30 	1 	be 	VB
+Mal 	4 	1 	1 	31 	1 	stubble 	JJ
+Mal 	4 	1 	1 	32 	0 	:
+Mal 	4 	1 	1 	33 	1 	and 	CC
+Mal 	4 	1 	1 	34 	1 	the 	DT
+Mal 	4 	1 	1 	35 	1 	day 	NN
+Mal 	4 	1 	1 	36 	1 	that 	IN
+Mal 	4 	1 	1 	37 	1 	cometh 	NNS
+Mal 	4 	1 	1 	38 	1 	shall 	MD
+Mal 	4 	1 	1 	39 	1 	burn 	NN
+Mal 	4 	1 	1 	40 	1 	them 	PRP
+Mal 	4 	1 	1 	41 	1 	up 	RB
+Mal 	4 	1 	1 	42 	0 	,
+Mal 	4 	1 	1 	43 	1 	saith 	NN
+Mal 	4 	1 	1 	44 	1 	the 	DT
+Mal 	4 	1 	1 	45 	1 	LORD 	NN
+Mal 	4 	1 	1 	46 	1 	of 	IN
+Mal 	4 	1 	1 	47 	1 	hosts 	NNS
+Mal 	4 	1 	1 	48 	0 	,
+Mal 	4 	1 	1 	49 	1 	that 	IN
+Mal 	4 	1 	1 	50 	1 	it 	PRP
+Mal 	4 	1 	1 	51 	1 	shall 	MD
+Mal 	4 	1 	1 	52 	1 	leave 	VB
+Mal 	4 	1 	1 	53 	1 	them 	PRP
+Mal 	4 	1 	1 	54 	1 	neither 	DT
+Mal 	4 	1 	1 	55 	1 	root 	NN
+Mal 	4 	1 	1 	56 	1 	nor 	CC
+Mal 	4 	1 	1 	57 	1 	branch 	NN
+Mal 	4 	1 	1 	58 	0 	.
+Mal 	4 	2 	1 	1 	1 	But 	CC
+Mal 	4 	2 	1 	2 	1 	unto 	NN
+Mal 	4 	2 	1 	3 	1 	you 	PRP
+Mal 	4 	2 	1 	4 	1 	that 	IN
+Mal 	4 	2 	1 	5 	1 	fear 	NN
+Mal 	4 	2 	1 	6 	1 	my 	PRP$
+Mal 	4 	2 	1 	7 	1 	name 	NN
+Mal 	4 	2 	1 	8 	1 	shall 	MD
+Mal 	4 	2 	1 	9 	1 	the 	DT
+Mal 	4 	2 	1 	10 	1 	Sun 	NNP
+Mal 	4 	2 	1 	11 	1 	of 	IN
+Mal 	4 	2 	1 	12 	1 	righteousness 	NN
+Mal 	4 	2 	1 	13 	1 	arise 	NN
+Mal 	4 	2 	1 	14 	1 	with 	IN
+Mal 	4 	2 	1 	15 	1 	healing 	VBG
+Mal 	4 	2 	1 	16 	1 	in 	IN
+Mal 	4 	2 	1 	17 	1 	his 	PRP$
+Mal 	4 	2 	1 	18 	1 	wings 	NNS
+Mal 	4 	2 	1 	19 	0 	;
+Mal 	4 	2 	1 	20 	1 	and 	CC
+Mal 	4 	2 	1 	21 	1 	ye 	NN
+Mal 	4 	2 	1 	22 	1 	shall 	MD
+Mal 	4 	2 	1 	23 	1 	go 	VB
+Mal 	4 	2 	1 	24 	1 	forth 	NN
+Mal 	4 	2 	1 	25 	0 	,
+Mal 	4 	2 	1 	26 	1 	and 	CC
+Mal 	4 	2 	1 	27 	1 	grow 	NN
+Mal 	4 	2 	1 	28 	1 	up 	RB
+Mal 	4 	2 	1 	29 	1 	as 	IN
+Mal 	4 	2 	1 	30 	1 	calves 	NNS
+Mal 	4 	2 	1 	31 	1 	of 	IN
+Mal 	4 	2 	1 	32 	1 	the 	DT
+Mal 	4 	2 	1 	33 	1 	stall 	NN
+Mal 	4 	2 	1 	34 	0 	.
+Mal 	4 	3 	1 	1 	1 	And 	CC
+Mal 	4 	3 	1 	2 	1 	ye 	NN
+Mal 	4 	3 	1 	3 	1 	shall 	MD
+Mal 	4 	3 	1 	4 	1 	tread 	NN
+Mal 	4 	3 	1 	5 	1 	down 	RB
+Mal 	4 	3 	1 	6 	1 	the 	DT
+Mal 	4 	3 	1 	7 	1 	wicked 	VBD
+Mal 	4 	3 	1 	8 	0 	;
+Mal 	4 	3 	1 	9 	1 	for 	IN
+Mal 	4 	3 	1 	10 	1 	they 	PRP
+Mal 	4 	3 	1 	11 	1 	shall 	MD
+Mal 	4 	3 	1 	12 	1 	be 	VB
+Mal 	4 	3 	1 	13 	1 	ashes 	NNS
+Mal 	4 	3 	1 	14 	1 	under 	IN
+Mal 	4 	3 	1 	15 	1 	the 	DT
+Mal 	4 	3 	1 	16 	1 	soles 	NNS
+Mal 	4 	3 	1 	17 	1 	of 	IN
+Mal 	4 	3 	1 	18 	1 	your 	PRP$
+Mal 	4 	3 	1 	19 	1 	feet 	NNS
+Mal 	4 	3 	1 	20 	1 	in 	IN
+Mal 	4 	3 	1 	21 	1 	the 	DT
+Mal 	4 	3 	1 	22 	1 	day 	NN
+Mal 	4 	3 	1 	23 	1 	that 	IN
+Mal 	4 	3 	1 	24 	1 	I 	PRP
+Mal 	4 	3 	1 	25 	1 	shall 	MD
+Mal 	4 	3 	1 	26 	1 	do 	VB
+Mal 	4 	3 	1 	27 	1 	this 	DT
+Mal 	4 	3 	1 	28 	0 	,
+Mal 	4 	3 	1 	29 	1 	saith 	NN
+Mal 	4 	3 	1 	30 	1 	the 	DT
+Mal 	4 	3 	1 	31 	1 	LORD 	NN
+Mal 	4 	3 	1 	32 	1 	of 	IN
+Mal 	4 	3 	1 	33 	1 	hosts 	NNS
+Mal 	4 	3 	1 	34 	0 	.
+Mal 	4 	4 	1 	1 	1 	Remember 	VB
+Mal 	4 	4 	1 	2 	1 	ye 	NN
+Mal 	4 	4 	1 	3 	1 	the 	DT
+Mal 	4 	4 	1 	4 	1 	law 	NN
+Mal 	4 	4 	1 	5 	1 	of 	IN
+Mal 	4 	4 	1 	6 	1 	Moses 	NNS
+Mal 	4 	4 	1 	7 	1 	my 	PRP$
+Mal 	4 	4 	1 	8 	1 	servant 	NN
+Mal 	4 	4 	1 	9 	0 	,
+Mal 	4 	4 	1 	10 	1 	which 	WDT
+Mal 	4 	4 	1 	11 	1 	I 	PRP
+Mal 	4 	4 	1 	12 	1 	commanded 	VBN
+Mal 	4 	4 	1 	13 	1 	unto 	NN
+Mal 	4 	4 	1 	14 	1 	him 	PRP
+Mal 	4 	4 	1 	15 	1 	in 	IN
+Mal 	4 	4 	1 	16 	1 	Horeb 	NN
+Mal 	4 	4 	1 	17 	1 	for 	IN
+Mal 	4 	4 	1 	18 	1 	all 	DT
+Mal 	4 	4 	1 	19 	1 	Israel 	NNP
+Mal 	4 	4 	1 	20 	0 	,
+Mal 	4 	4 	1 	21 	1 	with 	IN
+Mal 	4 	4 	1 	22 	1 	the 	DT
+Mal 	4 	4 	1 	23 	1 	statutes 	NNS
+Mal 	4 	4 	1 	24 	1 	and 	CC
+Mal 	4 	4 	1 	25 	1 	judgments 	NNS
+Mal 	4 	4 	1 	26 	0 	.
+Mal 	4 	5 	1 	1 	1 	Behold 	NN
+Mal 	4 	5 	1 	2 	0 	,
+Mal 	4 	5 	1 	3 	1 	I 	PRP
+Mal 	4 	5 	1 	4 	1 	will 	MD
+Mal 	4 	5 	1 	5 	1 	send 	NN
+Mal 	4 	5 	1 	6 	1 	you 	PRP
+Mal 	4 	5 	1 	7 	1 	Elijah 	NN
+Mal 	4 	5 	1 	8 	1 	the 	DT
+Mal 	4 	5 	1 	9 	1 	prophet 	NN
+Mal 	4 	5 	1 	10 	1 	before 	IN
+Mal 	4 	5 	1 	11 	1 	the 	DT
+Mal 	4 	5 	1 	12 	1 	coming 	VBG
+Mal 	4 	5 	1 	13 	1 	of 	IN
+Mal 	4 	5 	1 	14 	1 	the 	DT
+Mal 	4 	5 	1 	15 	1 	great 	JJ
+Mal 	4 	5 	1 	16 	1 	and 	CC
+Mal 	4 	5 	1 	17 	1 	dreadful 	NN
+Mal 	4 	5 	1 	18 	1 	day 	NN
+Mal 	4 	5 	1 	19 	1 	of 	IN
+Mal 	4 	5 	1 	20 	1 	the 	DT
+Mal 	4 	5 	1 	21 	1 	LORD 	NN
+Mal 	4 	5 	1 	22 	0 	:
+Mal 	4 	6 	1 	1 	1 	And 	CC
+Mal 	4 	6 	1 	2 	1 	he 	PRP
+Mal 	4 	6 	1 	3 	1 	shall 	MD
+Mal 	4 	6 	1 	4 	1 	turn 	NN
+Mal 	4 	6 	1 	5 	1 	the 	DT
+Mal 	4 	6 	1 	6 	1 	heart 	NN
+Mal 	4 	6 	1 	7 	1 	of 	IN
+Mal 	4 	6 	1 	8 	1 	the 	DT
+Mal 	4 	6 	1 	9 	1 	fathers 	NNS
+Mal 	4 	6 	1 	10 	1 	to 	TO
+Mal 	4 	6 	1 	11 	1 	the 	DT
+Mal 	4 	6 	1 	12 	1 	children 	NNS
+Mal 	4 	6 	1 	13 	0 	,
+Mal 	4 	6 	1 	14 	1 	and 	CC
+Mal 	4 	6 	1 	15 	1 	the 	DT
+Mal 	4 	6 	1 	16 	1 	heart 	NN
+Mal 	4 	6 	1 	17 	1 	of 	IN
+Mal 	4 	6 	1 	18 	1 	the 	DT
+Mal 	4 	6 	1 	19 	1 	children 	NNS
+Mal 	4 	6 	1 	20 	1 	to 	TO
+Mal 	4 	6 	1 	21 	1 	their 	PRP$
+Mal 	4 	6 	1 	22 	1 	fathers 	NNS
+Mal 	4 	6 	1 	23 	0 	,
+Mal 	4 	6 	1 	24 	1 	lest 	JJS
+Mal 	4 	6 	1 	25 	1 	I 	PRP
+Mal 	4 	6 	1 	26 	1 	come 	VB
+Mal 	4 	6 	1 	27 	1 	and 	CC
+Mal 	4 	6 	1 	28 	1 	smite 	NN
+Mal 	4 	6 	1 	29 	1 	the 	DT
+Mal 	4 	6 	1 	30 	1 	earth 	NN
+Mal 	4 	6 	1 	31 	1 	with 	IN
+Mal 	4 	6 	1 	32 	1 	a 	DT
+Mal 	4 	6 	1 	33 	1 	curse 	NN
+Mal 	4 	6 	1 	34 	0 	.

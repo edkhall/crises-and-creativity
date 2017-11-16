@@ -1,0 +1,5996 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Hos 	1 	1 	1 	1 	1 	The 	DT
+Hos 	1 	1 	1 	2 	1 	word 	NN
+Hos 	1 	1 	1 	3 	1 	of 	IN
+Hos 	1 	1 	1 	4 	1 	the 	DT
+Hos 	1 	1 	1 	5 	1 	LORD 	NN
+Hos 	1 	1 	1 	6 	1 	that 	IN
+Hos 	1 	1 	1 	7 	1 	came 	VBD
+Hos 	1 	1 	1 	8 	1 	unto 	NN
+Hos 	1 	1 	1 	9 	1 	Hosea 	NN
+Hos 	1 	1 	1 	10 	0 	,
+Hos 	1 	1 	1 	11 	1 	the 	DT
+Hos 	1 	1 	1 	12 	1 	son 	NN
+Hos 	1 	1 	1 	13 	1 	of 	IN
+Hos 	1 	1 	1 	14 	1 	Beeri 	NN
+Hos 	1 	1 	1 	15 	0 	,
+Hos 	1 	1 	1 	16 	1 	in 	IN
+Hos 	1 	1 	1 	17 	1 	the 	DT
+Hos 	1 	1 	1 	18 	1 	days 	NNS
+Hos 	1 	1 	1 	19 	1 	of 	IN
+Hos 	1 	1 	1 	20 	1 	Uzziah 	NN
+Hos 	1 	1 	1 	21 	0 	,
+Hos 	1 	1 	1 	22 	1 	Jotham 	NN
+Hos 	1 	1 	1 	23 	0 	,
+Hos 	1 	1 	1 	24 	1 	Ahaz 	NN
+Hos 	1 	1 	1 	25 	0 	,
+Hos 	1 	1 	1 	26 	1 	and 	CC
+Hos 	1 	1 	1 	27 	1 	Hezekiah 	NN
+Hos 	1 	1 	1 	28 	0 	,
+Hos 	1 	1 	1 	29 	1 	kings 	NNS
+Hos 	1 	1 	1 	30 	1 	of 	IN
+Hos 	1 	1 	1 	31 	1 	Judah 	NN
+Hos 	1 	1 	1 	32 	0 	,
+Hos 	1 	1 	1 	33 	1 	and 	CC
+Hos 	1 	1 	1 	34 	1 	in 	IN
+Hos 	1 	1 	1 	35 	1 	the 	DT
+Hos 	1 	1 	1 	36 	1 	days 	NNS
+Hos 	1 	1 	1 	37 	1 	of 	IN
+Hos 	1 	1 	1 	38 	1 	Jeroboam 	NN
+Hos 	1 	1 	1 	39 	1 	the 	DT
+Hos 	1 	1 	1 	40 	1 	son 	NN
+Hos 	1 	1 	1 	41 	1 	of 	IN
+Hos 	1 	1 	1 	42 	1 	Joash 	NN
+Hos 	1 	1 	1 	43 	0 	,
+Hos 	1 	1 	1 	44 	1 	king 	NN
+Hos 	1 	1 	1 	45 	1 	of 	IN
+Hos 	1 	1 	1 	46 	1 	Israel 	NNP
+Hos 	1 	1 	1 	47 	0 	.
+Hos 	1 	2 	1 	1 	1 	The 	DT
+Hos 	1 	2 	1 	2 	1 	beginning 	VBG
+Hos 	1 	2 	1 	3 	1 	of 	IN
+Hos 	1 	2 	1 	4 	1 	the 	DT
+Hos 	1 	2 	1 	5 	1 	word 	NN
+Hos 	1 	2 	1 	6 	1 	of 	IN
+Hos 	1 	2 	1 	7 	1 	the 	DT
+Hos 	1 	2 	1 	8 	1 	LORD 	NN
+Hos 	1 	2 	1 	9 	1 	by 	IN
+Hos 	1 	2 	1 	10 	1 	Hosea 	NN
+Hos 	1 	2 	1 	11 	0 	.
+Hos 	1 	2 	2 	1 	1 	And 	CC
+Hos 	1 	2 	2 	2 	1 	the 	DT
+Hos 	1 	2 	2 	3 	1 	LORD 	NN
+Hos 	1 	2 	2 	4 	1 	said 	VBD
+Hos 	1 	2 	2 	5 	1 	to 	TO
+Hos 	1 	2 	2 	6 	1 	Hosea 	NN
+Hos 	1 	2 	2 	7 	0 	,
+Hos 	1 	2 	2 	8 	1 	Go 	VB
+Hos 	1 	2 	2 	9 	0 	,
+Hos 	1 	2 	2 	10 	1 	take 	VB
+Hos 	1 	2 	2 	11 	1 	unto 	NN
+Hos 	1 	2 	2 	12 	1 	thee 	NN
+Hos 	1 	2 	2 	13 	1 	a 	DT
+Hos 	1 	2 	2 	14 	1 	wife 	NN
+Hos 	1 	2 	2 	15 	1 	of 	IN
+Hos 	1 	2 	2 	16 	1 	whoredoms 	NNS
+Hos 	1 	2 	2 	17 	1 	and 	CC
+Hos 	1 	2 	2 	18 	1 	children 	NNS
+Hos 	1 	2 	2 	19 	1 	of 	IN
+Hos 	1 	2 	2 	20 	1 	whoredoms 	NNS
+Hos 	1 	2 	2 	21 	0 	:
+Hos 	1 	2 	2 	22 	1 	for 	IN
+Hos 	1 	2 	2 	23 	1 	the 	DT
+Hos 	1 	2 	2 	24 	1 	land 	NN
+Hos 	1 	2 	2 	25 	1 	hath 	NN
+Hos 	1 	2 	2 	26 	1 	committed 	VBN
+Hos 	1 	2 	2 	27 	1 	great 	JJ
+Hos 	1 	2 	2 	28 	1 	whoredom 	NN
+Hos 	1 	2 	2 	29 	0 	,
+Hos 	1 	2 	2 	30 	1 	departing 	VBG
+Hos 	1 	2 	2 	31 	1 	from 	IN
+Hos 	1 	2 	2 	32 	1 	the 	DT
+Hos 	1 	2 	2 	33 	1 	LORD 	NN
+Hos 	1 	2 	2 	34 	0 	.
+Hos 	1 	3 	1 	1 	1 	So 	RB
+Hos 	1 	3 	1 	2 	1 	he 	PRP
+Hos 	1 	3 	1 	3 	1 	went 	VBD
+Hos 	1 	3 	1 	4 	1 	and 	CC
+Hos 	1 	3 	1 	5 	1 	took 	VBD
+Hos 	1 	3 	1 	6 	1 	Gomer 	NN
+Hos 	1 	3 	1 	7 	1 	the 	DT
+Hos 	1 	3 	1 	8 	1 	daughter 	NN
+Hos 	1 	3 	1 	9 	1 	of 	IN
+Hos 	1 	3 	1 	10 	1 	Diblaim 	NN
+Hos 	1 	3 	1 	11 	0 	;
+Hos 	1 	3 	1 	12 	1 	which 	WDT
+Hos 	1 	3 	1 	13 	1 	conceived 	VBN
+Hos 	1 	3 	1 	14 	0 	,
+Hos 	1 	3 	1 	15 	1 	and 	CC
+Hos 	1 	3 	1 	16 	1 	bare 	NN
+Hos 	1 	3 	1 	17 	1 	him 	PRP
+Hos 	1 	3 	1 	18 	1 	a 	DT
+Hos 	1 	3 	1 	19 	1 	son 	NN
+Hos 	1 	3 	1 	20 	0 	.
+Hos 	1 	4 	1 	1 	1 	And 	CC
+Hos 	1 	4 	1 	2 	1 	the 	DT
+Hos 	1 	4 	1 	3 	1 	LORD 	NN
+Hos 	1 	4 	1 	4 	1 	said 	VBD
+Hos 	1 	4 	1 	5 	1 	unto 	NN
+Hos 	1 	4 	1 	6 	1 	him 	PRP
+Hos 	1 	4 	1 	7 	0 	,
+Hos 	1 	4 	1 	8 	1 	Call 	VB
+Hos 	1 	4 	1 	9 	1 	his 	PRP$
+Hos 	1 	4 	1 	10 	1 	name 	NN
+Hos 	1 	4 	1 	11 	1 	Jezreel 	NN
+Hos 	1 	4 	1 	12 	0 	;
+Hos 	1 	4 	1 	13 	1 	for 	IN
+Hos 	1 	4 	1 	14 	1 	yet 	RB
+Hos 	1 	4 	1 	15 	1 	a 	DT
+Hos 	1 	4 	1 	16 	1 	little 	JJ
+Hos 	1 	4 	1 	17 	1 	while 	IN
+Hos 	1 	4 	1 	18 	0 	,
+Hos 	1 	4 	1 	19 	1 	and 	CC
+Hos 	1 	4 	1 	20 	1 	I 	PRP
+Hos 	1 	4 	1 	21 	1 	will 	MD
+Hos 	1 	4 	1 	22 	1 	avenge 	NN
+Hos 	1 	4 	1 	23 	1 	the 	DT
+Hos 	1 	4 	1 	24 	1 	blood 	NN
+Hos 	1 	4 	1 	25 	1 	of 	IN
+Hos 	1 	4 	1 	26 	1 	Jezreel 	NN
+Hos 	1 	4 	1 	27 	1 	upon 	IN
+Hos 	1 	4 	1 	28 	1 	the 	DT
+Hos 	1 	4 	1 	29 	1 	house 	NN
+Hos 	1 	4 	1 	30 	1 	of 	IN
+Hos 	1 	4 	1 	31 	1 	Jehu 	NN
+Hos 	1 	4 	1 	32 	0 	,
+Hos 	1 	4 	1 	33 	1 	and 	CC
+Hos 	1 	4 	1 	34 	1 	will 	MD
+Hos 	1 	4 	1 	35 	1 	cause 	NN
+Hos 	1 	4 	1 	36 	1 	to 	TO
+Hos 	1 	4 	1 	37 	1 	cease 	NN
+Hos 	1 	4 	1 	38 	1 	the 	DT
+Hos 	1 	4 	1 	39 	1 	kingdom 	NN
+Hos 	1 	4 	1 	40 	1 	of 	IN
+Hos 	1 	4 	1 	41 	1 	the 	DT
+Hos 	1 	4 	1 	42 	1 	house 	NN
+Hos 	1 	4 	1 	43 	1 	of 	IN
+Hos 	1 	4 	1 	44 	1 	Israel 	NNP
+Hos 	1 	4 	1 	45 	0 	.
+Hos 	1 	5 	1 	1 	1 	And 	CC
+Hos 	1 	5 	1 	2 	1 	it 	PRP
+Hos 	1 	5 	1 	3 	1 	shall 	MD
+Hos 	1 	5 	1 	4 	1 	come 	VB
+Hos 	1 	5 	1 	5 	1 	to 	TO
+Hos 	1 	5 	1 	6 	1 	pass 	NN
+Hos 	1 	5 	1 	7 	1 	at 	IN
+Hos 	1 	5 	1 	8 	1 	that 	IN
+Hos 	1 	5 	1 	9 	1 	day 	NN
+Hos 	1 	5 	1 	10 	0 	,
+Hos 	1 	5 	1 	11 	1 	that 	IN
+Hos 	1 	5 	1 	12 	1 	I 	PRP
+Hos 	1 	5 	1 	13 	1 	will 	MD
+Hos 	1 	5 	1 	14 	1 	break 	NN
+Hos 	1 	5 	1 	15 	1 	the 	DT
+Hos 	1 	5 	1 	16 	1 	bow 	NN
+Hos 	1 	5 	1 	17 	1 	of 	IN
+Hos 	1 	5 	1 	18 	1 	Israel 	NNP
+Hos 	1 	5 	1 	19 	0 	,
+Hos 	1 	5 	1 	20 	1 	in 	IN
+Hos 	1 	5 	1 	21 	1 	the 	DT
+Hos 	1 	5 	1 	22 	1 	valley 	NN
+Hos 	1 	5 	1 	23 	1 	of 	IN
+Hos 	1 	5 	1 	24 	1 	Jezreel 	NN
+Hos 	1 	5 	1 	25 	0 	.
+Hos 	1 	6 	1 	1 	1 	And 	CC
+Hos 	1 	6 	1 	2 	1 	she 	PRP
+Hos 	1 	6 	1 	3 	1 	conceived 	VBN
+Hos 	1 	6 	1 	4 	1 	again 	RB
+Hos 	1 	6 	1 	5 	0 	,
+Hos 	1 	6 	1 	6 	1 	and 	CC
+Hos 	1 	6 	1 	7 	1 	bare 	NN
+Hos 	1 	6 	1 	8 	1 	a 	DT
+Hos 	1 	6 	1 	9 	1 	daughter 	NN
+Hos 	1 	6 	1 	10 	0 	.
+Hos 	1 	6 	2 	1 	1 	And 	CC
+Hos 	1 	6 	2 	2 	1 	God 	NNP
+Hos 	1 	6 	2 	3 	1 	said 	VBD
+Hos 	1 	6 	2 	4 	1 	unto 	NN
+Hos 	1 	6 	2 	5 	1 	him 	PRP
+Hos 	1 	6 	2 	6 	0 	,
+Hos 	1 	6 	2 	7 	1 	Call 	VB
+Hos 	1 	6 	2 	8 	1 	her 	PRP$
+Hos 	1 	6 	2 	9 	1 	name 	NN
+Hos 	1 	6 	2 	10 	1 	Loruhamah 	NN
+Hos 	1 	6 	2 	11 	0 	:
+Hos 	1 	6 	2 	12 	1 	for 	IN
+Hos 	1 	6 	2 	13 	1 	I 	PRP
+Hos 	1 	6 	2 	14 	1 	will 	MD
+Hos 	1 	6 	2 	15 	1 	no 	DT
+Hos 	1 	6 	2 	16 	1 	more 	RBR
+Hos 	1 	6 	2 	17 	1 	have 	VB
+Hos 	1 	6 	2 	18 	1 	mercy 	NN
+Hos 	1 	6 	2 	19 	1 	upon 	IN
+Hos 	1 	6 	2 	20 	1 	the 	DT
+Hos 	1 	6 	2 	21 	1 	house 	NN
+Hos 	1 	6 	2 	22 	1 	of 	IN
+Hos 	1 	6 	2 	23 	1 	Israel 	NNP
+Hos 	1 	6 	2 	24 	0 	;
+Hos 	1 	6 	2 	25 	1 	but 	CC
+Hos 	1 	6 	2 	26 	1 	I 	PRP
+Hos 	1 	6 	2 	27 	1 	will 	MD
+Hos 	1 	6 	2 	28 	1 	utterly 	RB
+Hos 	1 	6 	2 	29 	1 	take 	VB
+Hos 	1 	6 	2 	30 	1 	them 	PRP
+Hos 	1 	6 	2 	31 	1 	away 	RB
+Hos 	1 	6 	2 	32 	0 	.
+Hos 	1 	7 	1 	1 	1 	But 	CC
+Hos 	1 	7 	1 	2 	1 	I 	PRP
+Hos 	1 	7 	1 	3 	1 	will 	MD
+Hos 	1 	7 	1 	4 	1 	have 	VB
+Hos 	1 	7 	1 	5 	1 	mercy 	NN
+Hos 	1 	7 	1 	6 	1 	upon 	IN
+Hos 	1 	7 	1 	7 	1 	the 	DT
+Hos 	1 	7 	1 	8 	1 	house 	NN
+Hos 	1 	7 	1 	9 	1 	of 	IN
+Hos 	1 	7 	1 	10 	1 	Judah 	NN
+Hos 	1 	7 	1 	11 	0 	,
+Hos 	1 	7 	1 	12 	1 	and 	CC
+Hos 	1 	7 	1 	13 	1 	will 	MD
+Hos 	1 	7 	1 	14 	1 	save 	VB
+Hos 	1 	7 	1 	15 	1 	them 	PRP
+Hos 	1 	7 	1 	16 	1 	by 	IN
+Hos 	1 	7 	1 	17 	1 	the 	DT
+Hos 	1 	7 	1 	18 	1 	LORD 	NN
+Hos 	1 	7 	1 	19 	1 	their 	PRP$
+Hos 	1 	7 	1 	20 	1 	God 	NNP
+Hos 	1 	7 	1 	21 	0 	,
+Hos 	1 	7 	1 	22 	1 	and 	CC
+Hos 	1 	7 	1 	23 	1 	will 	MD
+Hos 	1 	7 	1 	24 	1 	not 	RB
+Hos 	1 	7 	1 	25 	1 	save 	VB
+Hos 	1 	7 	1 	26 	1 	them 	PRP
+Hos 	1 	7 	1 	27 	1 	by 	IN
+Hos 	1 	7 	1 	28 	1 	bow 	NN
+Hos 	1 	7 	1 	29 	0 	,
+Hos 	1 	7 	1 	30 	1 	nor 	CC
+Hos 	1 	7 	1 	31 	1 	by 	IN
+Hos 	1 	7 	1 	32 	1 	sword 	NN
+Hos 	1 	7 	1 	33 	0 	,
+Hos 	1 	7 	1 	34 	1 	nor 	CC
+Hos 	1 	7 	1 	35 	1 	by 	IN
+Hos 	1 	7 	1 	36 	1 	battle 	NN
+Hos 	1 	7 	1 	37 	0 	,
+Hos 	1 	7 	1 	38 	1 	by 	IN
+Hos 	1 	7 	1 	39 	1 	horses 	NNS
+Hos 	1 	7 	1 	40 	0 	,
+Hos 	1 	7 	1 	41 	1 	nor 	CC
+Hos 	1 	7 	1 	42 	1 	by 	IN
+Hos 	1 	7 	1 	43 	1 	horsemen 	NNS
+Hos 	1 	7 	1 	44 	0 	.
+Hos 	1 	8 	1 	1 	1 	Now 	RB
+Hos 	1 	8 	1 	2 	1 	when 	WRB
+Hos 	1 	8 	1 	3 	1 	she 	PRP
+Hos 	1 	8 	1 	4 	1 	had 	VBD
+Hos 	1 	8 	1 	5 	1 	weaned 	VBN
+Hos 	1 	8 	1 	6 	1 	Loruhamah 	NN
+Hos 	1 	8 	1 	7 	0 	,
+Hos 	1 	8 	1 	8 	1 	she 	PRP
+Hos 	1 	8 	1 	9 	1 	conceived 	VBN
+Hos 	1 	8 	1 	10 	0 	,
+Hos 	1 	8 	1 	11 	1 	and 	CC
+Hos 	1 	8 	1 	12 	1 	bare 	NN
+Hos 	1 	8 	1 	13 	1 	a 	DT
+Hos 	1 	8 	1 	14 	1 	son 	NN
+Hos 	1 	8 	1 	15 	0 	.
+Hos 	1 	9 	1 	1 	1 	Then 	RB
+Hos 	1 	9 	1 	2 	1 	said 	VBD
+Hos 	1 	9 	1 	3 	1 	God 	NNP
+Hos 	1 	9 	1 	4 	0 	,
+Hos 	1 	9 	1 	5 	1 	Call 	VB
+Hos 	1 	9 	1 	6 	1 	his 	PRP$
+Hos 	1 	9 	1 	7 	1 	name 	NN
+Hos 	1 	9 	1 	8 	1 	Loammi 	NN
+Hos 	1 	9 	1 	9 	0 	:
+Hos 	1 	9 	1 	10 	1 	for 	IN
+Hos 	1 	9 	1 	11 	1 	ye 	NN
+Hos 	1 	9 	1 	12 	1 	are 	VBP
+Hos 	1 	9 	1 	13 	1 	not 	RB
+Hos 	1 	9 	1 	14 	1 	my 	PRP$
+Hos 	1 	9 	1 	15 	1 	people 	NNS
+Hos 	1 	9 	1 	16 	0 	,
+Hos 	1 	9 	1 	17 	1 	and 	CC
+Hos 	1 	9 	1 	18 	1 	I 	PRP
+Hos 	1 	9 	1 	19 	1 	will 	MD
+Hos 	1 	9 	1 	20 	1 	not 	RB
+Hos 	1 	9 	1 	21 	1 	be 	VB
+Hos 	1 	9 	1 	22 	1 	your 	PRP$
+Hos 	1 	9 	1 	23 	1 	God 	NNP
+Hos 	1 	9 	1 	24 	0 	.
+Hos 	1 	10 	1 	1 	1 	Yet 	RB
+Hos 	1 	10 	1 	2 	1 	the 	DT
+Hos 	1 	10 	1 	3 	1 	number 	NN
+Hos 	1 	10 	1 	4 	1 	of 	IN
+Hos 	1 	10 	1 	5 	1 	the 	DT
+Hos 	1 	10 	1 	6 	1 	children 	NNS
+Hos 	1 	10 	1 	7 	1 	of 	IN
+Hos 	1 	10 	1 	8 	1 	Israel 	NNP
+Hos 	1 	10 	1 	9 	1 	shall 	MD
+Hos 	1 	10 	1 	10 	1 	be 	VB
+Hos 	1 	10 	1 	11 	1 	as 	IN
+Hos 	1 	10 	1 	12 	1 	the 	DT
+Hos 	1 	10 	1 	13 	1 	sand 	NN
+Hos 	1 	10 	1 	14 	1 	of 	IN
+Hos 	1 	10 	1 	15 	1 	the 	DT
+Hos 	1 	10 	1 	16 	1 	sea 	NN
+Hos 	1 	10 	1 	17 	0 	,
+Hos 	1 	10 	1 	18 	1 	which 	WDT
+Hos 	1 	10 	1 	19 	1 	can 	MD
+Hos 	1 	10 	1 	20 	1 	not 	RB
+Hos 	1 	10 	1 	21 	1 	be 	VB
+Hos 	1 	10 	1 	22 	1 	measured 	VBN
+Hos 	1 	10 	1 	23 	1 	nor 	CC
+Hos 	1 	10 	1 	24 	1 	numbered 	JJ
+Hos 	1 	10 	1 	25 	0 	;
+Hos 	1 	10 	1 	26 	1 	and 	CC
+Hos 	1 	10 	1 	27 	1 	it 	PRP
+Hos 	1 	10 	1 	28 	1 	shall 	MD
+Hos 	1 	10 	1 	29 	1 	come 	VB
+Hos 	1 	10 	1 	30 	1 	to 	TO
+Hos 	1 	10 	1 	31 	1 	pass 	NN
+Hos 	1 	10 	1 	32 	0 	,
+Hos 	1 	10 	1 	33 	1 	that 	IN
+Hos 	1 	10 	1 	34 	1 	in 	IN
+Hos 	1 	10 	1 	35 	1 	the 	DT
+Hos 	1 	10 	1 	36 	1 	place 	NN
+Hos 	1 	10 	1 	37 	1 	where 	WRB
+Hos 	1 	10 	1 	38 	1 	it 	PRP
+Hos 	1 	10 	1 	39 	1 	was 	VBD
+Hos 	1 	10 	1 	40 	1 	said 	VBD
+Hos 	1 	10 	1 	41 	1 	unto 	NN
+Hos 	1 	10 	1 	42 	1 	them 	PRP
+Hos 	1 	10 	1 	43 	0 	,
+Hos 	1 	10 	1 	44 	1 	Ye 	NN
+Hos 	1 	10 	1 	45 	1 	are 	VBP
+Hos 	1 	10 	1 	46 	1 	not 	RB
+Hos 	1 	10 	1 	47 	1 	my 	PRP$
+Hos 	1 	10 	1 	48 	1 	people 	NNS
+Hos 	1 	10 	1 	49 	0 	,
+Hos 	1 	10 	1 	50 	1 	there 	RB
+Hos 	1 	10 	1 	51 	1 	it 	PRP
+Hos 	1 	10 	1 	52 	1 	shall 	MD
+Hos 	1 	10 	1 	53 	1 	be 	VB
+Hos 	1 	10 	1 	54 	1 	said 	VBD
+Hos 	1 	10 	1 	55 	1 	unto 	NN
+Hos 	1 	10 	1 	56 	1 	them 	PRP
+Hos 	1 	10 	1 	57 	0 	,
+Hos 	1 	10 	1 	58 	1 	Ye 	NN
+Hos 	1 	10 	1 	59 	1 	are 	VBP
+Hos 	1 	10 	1 	60 	1 	the 	DT
+Hos 	1 	10 	1 	61 	1 	sons 	NNS
+Hos 	1 	10 	1 	62 	1 	of 	IN
+Hos 	1 	10 	1 	63 	1 	the 	DT
+Hos 	1 	10 	1 	64 	1 	living 	NN
+Hos 	1 	10 	1 	65 	1 	God 	NNP
+Hos 	1 	10 	1 	66 	0 	.
+Hos 	1 	11 	1 	1 	1 	Then 	RB
+Hos 	1 	11 	1 	2 	1 	shall 	MD
+Hos 	1 	11 	1 	3 	1 	the 	DT
+Hos 	1 	11 	1 	4 	1 	children 	NNS
+Hos 	1 	11 	1 	5 	1 	of 	IN
+Hos 	1 	11 	1 	6 	1 	Judah 	NN
+Hos 	1 	11 	1 	7 	1 	and 	CC
+Hos 	1 	11 	1 	8 	1 	the 	DT
+Hos 	1 	11 	1 	9 	1 	children 	NNS
+Hos 	1 	11 	1 	10 	1 	of 	IN
+Hos 	1 	11 	1 	11 	1 	Israel 	NNP
+Hos 	1 	11 	1 	12 	1 	be 	VB
+Hos 	1 	11 	1 	13 	1 	gathered 	VBN
+Hos 	1 	11 	1 	14 	1 	together 	RB
+Hos 	1 	11 	1 	15 	0 	,
+Hos 	1 	11 	1 	16 	1 	and 	CC
+Hos 	1 	11 	1 	17 	1 	appoint 	NN
+Hos 	1 	11 	1 	18 	1 	themselves 	PRP
+Hos 	1 	11 	1 	19 	1 	one 	CD
+Hos 	1 	11 	1 	20 	1 	head 	NN
+Hos 	1 	11 	1 	21 	0 	,
+Hos 	1 	11 	1 	22 	1 	and 	CC
+Hos 	1 	11 	1 	23 	1 	they 	PRP
+Hos 	1 	11 	1 	24 	1 	shall 	MD
+Hos 	1 	11 	1 	25 	1 	come 	VB
+Hos 	1 	11 	1 	26 	1 	up 	RB
+Hos 	1 	11 	1 	27 	1 	out 	IN
+Hos 	1 	11 	1 	28 	1 	of 	IN
+Hos 	1 	11 	1 	29 	1 	the 	DT
+Hos 	1 	11 	1 	30 	1 	land 	NN
+Hos 	1 	11 	1 	31 	0 	:
+Hos 	1 	11 	1 	32 	1 	for 	IN
+Hos 	1 	11 	1 	33 	1 	great 	JJ
+Hos 	1 	11 	1 	34 	1 	shall 	MD
+Hos 	1 	11 	1 	35 	1 	be 	VB
+Hos 	1 	11 	1 	36 	1 	the 	DT
+Hos 	1 	11 	1 	37 	1 	day 	NN
+Hos 	1 	11 	1 	38 	1 	of 	IN
+Hos 	1 	11 	1 	39 	1 	Jezreel 	NN
+Hos 	1 	11 	1 	40 	0 	.
+Hos 	2 	1 	1 	1 	1 	Say 	NN
+Hos 	2 	1 	1 	2 	1 	ye 	NN
+Hos 	2 	1 	1 	3 	1 	unto 	NN
+Hos 	2 	1 	1 	4 	1 	your 	PRP$
+Hos 	2 	1 	1 	5 	1 	brethren 	NNS
+Hos 	2 	1 	1 	6 	0 	,
+Hos 	2 	1 	1 	7 	1 	Ammi 	NN
+Hos 	2 	1 	1 	8 	0 	;
+Hos 	2 	1 	1 	9 	1 	and 	CC
+Hos 	2 	1 	1 	10 	1 	to 	TO
+Hos 	2 	1 	1 	11 	1 	your 	PRP$
+Hos 	2 	1 	1 	12 	1 	sisters 	NNS
+Hos 	2 	1 	1 	13 	0 	,
+Hos 	2 	1 	1 	14 	1 	Ruhamah 	NN
+Hos 	2 	1 	1 	15 	0 	.
+Hos 	2 	2 	1 	1 	1 	Plead 	NN
+Hos 	2 	2 	1 	2 	1 	with 	IN
+Hos 	2 	2 	1 	3 	1 	your 	PRP$
+Hos 	2 	2 	1 	4 	1 	mother 	NN
+Hos 	2 	2 	1 	5 	0 	,
+Hos 	2 	2 	1 	6 	1 	plead 	NN
+Hos 	2 	2 	1 	7 	0 	:
+Hos 	2 	2 	1 	8 	1 	for 	IN
+Hos 	2 	2 	1 	9 	1 	she 	PRP
+Hos 	2 	2 	1 	10 	1 	is 	VBZ
+Hos 	2 	2 	1 	11 	1 	not 	RB
+Hos 	2 	2 	1 	12 	1 	my 	PRP$
+Hos 	2 	2 	1 	13 	1 	wife 	NN
+Hos 	2 	2 	1 	14 	0 	,
+Hos 	2 	2 	1 	15 	1 	neither 	DT
+Hos 	2 	2 	1 	16 	1 	am 	VBP
+Hos 	2 	2 	1 	17 	1 	I 	PRP
+Hos 	2 	2 	1 	18 	1 	her 	PRP$
+Hos 	2 	2 	1 	19 	1 	husband 	NN
+Hos 	2 	2 	1 	20 	0 	:
+Hos 	2 	2 	1 	21 	1 	let 	VB
+Hos 	2 	2 	1 	22 	1 	her 	PRP$
+Hos 	2 	2 	1 	23 	1 	therefore 	RB
+Hos 	2 	2 	1 	24 	1 	put 	NN
+Hos 	2 	2 	1 	25 	1 	away 	RB
+Hos 	2 	2 	1 	26 	1 	her 	PRP$
+Hos 	2 	2 	1 	27 	1 	whoredoms 	NNS
+Hos 	2 	2 	1 	28 	1 	out 	IN
+Hos 	2 	2 	1 	29 	1 	of 	IN
+Hos 	2 	2 	1 	30 	1 	her 	PRP$
+Hos 	2 	2 	1 	31 	1 	sight 	NN
+Hos 	2 	2 	1 	32 	0 	,
+Hos 	2 	2 	1 	33 	1 	and 	CC
+Hos 	2 	2 	1 	34 	1 	her 	PRP$
+Hos 	2 	2 	1 	35 	1 	adulteries 	NNS
+Hos 	2 	2 	1 	36 	1 	from 	IN
+Hos 	2 	2 	1 	37 	1 	between 	IN
+Hos 	2 	2 	1 	38 	1 	her 	PRP$
+Hos 	2 	2 	1 	39 	1 	breasts 	NNS
+Hos 	2 	2 	1 	40 	0 	;
+Hos 	2 	3 	1 	1 	1 	Lest 	JJS
+Hos 	2 	3 	1 	2 	1 	I 	PRP
+Hos 	2 	3 	1 	3 	1 	strip 	NN
+Hos 	2 	3 	1 	4 	1 	her 	PRP$
+Hos 	2 	3 	1 	5 	1 	naked 	JJ
+Hos 	2 	3 	1 	6 	0 	,
+Hos 	2 	3 	1 	7 	1 	and 	CC
+Hos 	2 	3 	1 	8 	1 	set 	NN
+Hos 	2 	3 	1 	9 	1 	her 	PRP$
+Hos 	2 	3 	1 	10 	1 	as 	IN
+Hos 	2 	3 	1 	11 	1 	in 	IN
+Hos 	2 	3 	1 	12 	1 	the 	DT
+Hos 	2 	3 	1 	13 	1 	day 	NN
+Hos 	2 	3 	1 	14 	1 	that 	IN
+Hos 	2 	3 	1 	15 	1 	she 	PRP
+Hos 	2 	3 	1 	16 	1 	was 	VBD
+Hos 	2 	3 	1 	17 	1 	born 	NN
+Hos 	2 	3 	1 	18 	0 	,
+Hos 	2 	3 	1 	19 	1 	and 	CC
+Hos 	2 	3 	1 	20 	1 	make 	VB
+Hos 	2 	3 	1 	21 	1 	her 	PRP$
+Hos 	2 	3 	1 	22 	1 	as 	IN
+Hos 	2 	3 	1 	23 	1 	a 	DT
+Hos 	2 	3 	1 	24 	1 	wilderness 	NN
+Hos 	2 	3 	1 	25 	0 	,
+Hos 	2 	3 	1 	26 	1 	and 	CC
+Hos 	2 	3 	1 	27 	1 	set 	NN
+Hos 	2 	3 	1 	28 	1 	her 	PRP$
+Hos 	2 	3 	1 	29 	1 	like 	IN
+Hos 	2 	3 	1 	30 	1 	a 	DT
+Hos 	2 	3 	1 	31 	1 	dry 	NN
+Hos 	2 	3 	1 	32 	1 	land 	NN
+Hos 	2 	3 	1 	33 	0 	,
+Hos 	2 	3 	1 	34 	1 	and 	CC
+Hos 	2 	3 	1 	35 	1 	slay 	NN
+Hos 	2 	3 	1 	36 	1 	her 	PRP$
+Hos 	2 	3 	1 	37 	1 	with 	IN
+Hos 	2 	3 	1 	38 	1 	thirst 	NN
+Hos 	2 	3 	1 	39 	0 	.
+Hos 	2 	4 	1 	1 	1 	And 	CC
+Hos 	2 	4 	1 	2 	1 	I 	PRP
+Hos 	2 	4 	1 	3 	1 	will 	MD
+Hos 	2 	4 	1 	4 	1 	not 	RB
+Hos 	2 	4 	1 	5 	1 	have 	VB
+Hos 	2 	4 	1 	6 	1 	mercy 	NN
+Hos 	2 	4 	1 	7 	1 	upon 	IN
+Hos 	2 	4 	1 	8 	1 	her 	PRP$
+Hos 	2 	4 	1 	9 	1 	children 	NNS
+Hos 	2 	4 	1 	10 	0 	;
+Hos 	2 	4 	1 	11 	1 	for 	IN
+Hos 	2 	4 	1 	12 	1 	they 	PRP
+Hos 	2 	4 	1 	13 	1 	be 	VB
+Hos 	2 	4 	1 	14 	1 	the 	DT
+Hos 	2 	4 	1 	15 	1 	children 	NNS
+Hos 	2 	4 	1 	16 	1 	of 	IN
+Hos 	2 	4 	1 	17 	1 	whoredoms 	NNS
+Hos 	2 	4 	1 	18 	0 	.
+Hos 	2 	5 	1 	1 	1 	For 	IN
+Hos 	2 	5 	1 	2 	1 	their 	PRP$
+Hos 	2 	5 	1 	3 	1 	mother 	NN
+Hos 	2 	5 	1 	4 	1 	hath 	NN
+Hos 	2 	5 	1 	5 	1 	played 	NNS
+Hos 	2 	5 	1 	6 	1 	the 	DT
+Hos 	2 	5 	1 	7 	1 	harlot 	NN
+Hos 	2 	5 	1 	8 	0 	:
+Hos 	2 	5 	1 	9 	1 	she 	PRP
+Hos 	2 	5 	1 	10 	1 	that 	IN
+Hos 	2 	5 	1 	11 	1 	conceived 	VBN
+Hos 	2 	5 	1 	12 	1 	them 	PRP
+Hos 	2 	5 	1 	13 	1 	hath 	NN
+Hos 	2 	5 	1 	14 	1 	done 	VBN
+Hos 	2 	5 	1 	15 	1 	shamefully 	RB
+Hos 	2 	5 	1 	16 	0 	:
+Hos 	2 	5 	1 	17 	1 	for 	IN
+Hos 	2 	5 	1 	18 	1 	she 	PRP
+Hos 	2 	5 	1 	19 	1 	said 	VBD
+Hos 	2 	5 	1 	20 	0 	,
+Hos 	2 	5 	1 	21 	1 	I 	PRP
+Hos 	2 	5 	1 	22 	1 	will 	MD
+Hos 	2 	5 	1 	23 	1 	go 	VB
+Hos 	2 	5 	1 	24 	1 	after 	IN
+Hos 	2 	5 	1 	25 	1 	my 	PRP$
+Hos 	2 	5 	1 	26 	1 	lovers 	NNS
+Hos 	2 	5 	1 	27 	0 	,
+Hos 	2 	5 	1 	28 	1 	that 	IN
+Hos 	2 	5 	1 	29 	1 	give 	VB
+Hos 	2 	5 	1 	30 	1 	me 	PRP
+Hos 	2 	5 	1 	31 	1 	my 	PRP$
+Hos 	2 	5 	1 	32 	1 	bread 	NN
+Hos 	2 	5 	1 	33 	1 	and 	CC
+Hos 	2 	5 	1 	34 	1 	my 	PRP$
+Hos 	2 	5 	1 	35 	1 	water 	NN
+Hos 	2 	5 	1 	36 	0 	,
+Hos 	2 	5 	1 	37 	1 	my 	PRP$
+Hos 	2 	5 	1 	38 	1 	wool 	NN
+Hos 	2 	5 	1 	39 	1 	and 	CC
+Hos 	2 	5 	1 	40 	1 	my 	PRP$
+Hos 	2 	5 	1 	41 	1 	flax 	NN
+Hos 	2 	5 	1 	42 	0 	,
+Hos 	2 	5 	1 	43 	1 	mine 	NN
+Hos 	2 	5 	1 	44 	1 	oil 	NN
+Hos 	2 	5 	1 	45 	1 	and 	CC
+Hos 	2 	5 	1 	46 	1 	my 	PRP$
+Hos 	2 	5 	1 	47 	1 	drink 	NN
+Hos 	2 	5 	1 	48 	0 	.
+Hos 	2 	6 	1 	1 	1 	Therefore 	RB
+Hos 	2 	6 	1 	2 	0 	,
+Hos 	2 	6 	1 	3 	1 	behold 	NN
+Hos 	2 	6 	1 	4 	0 	,
+Hos 	2 	6 	1 	5 	1 	I 	PRP
+Hos 	2 	6 	1 	6 	1 	will 	MD
+Hos 	2 	6 	1 	7 	1 	hedge 	NN
+Hos 	2 	6 	1 	8 	1 	up 	RB
+Hos 	2 	6 	1 	9 	1 	thy 	NN
+Hos 	2 	6 	1 	10 	1 	way 	NN
+Hos 	2 	6 	1 	11 	1 	with 	IN
+Hos 	2 	6 	1 	12 	1 	thorns 	NNS
+Hos 	2 	6 	1 	13 	0 	,
+Hos 	2 	6 	1 	14 	1 	and 	CC
+Hos 	2 	6 	1 	15 	1 	make 	VB
+Hos 	2 	6 	1 	16 	1 	a 	DT
+Hos 	2 	6 	1 	17 	1 	wall 	NN
+Hos 	2 	6 	1 	18 	0 	,
+Hos 	2 	6 	1 	19 	1 	that 	IN
+Hos 	2 	6 	1 	20 	1 	she 	PRP
+Hos 	2 	6 	1 	21 	1 	shall 	MD
+Hos 	2 	6 	1 	22 	1 	not 	RB
+Hos 	2 	6 	1 	23 	1 	find 	VB
+Hos 	2 	6 	1 	24 	1 	her 	PRP$
+Hos 	2 	6 	1 	25 	1 	paths 	NNS
+Hos 	2 	6 	1 	26 	0 	.
+Hos 	2 	7 	1 	1 	1 	And 	CC
+Hos 	2 	7 	1 	2 	1 	she 	PRP
+Hos 	2 	7 	1 	3 	1 	shall 	MD
+Hos 	2 	7 	1 	4 	1 	follow 	VB
+Hos 	2 	7 	1 	5 	1 	after 	IN
+Hos 	2 	7 	1 	6 	1 	her 	PRP$
+Hos 	2 	7 	1 	7 	1 	lovers 	NNS
+Hos 	2 	7 	1 	8 	0 	,
+Hos 	2 	7 	1 	9 	1 	but 	CC
+Hos 	2 	7 	1 	10 	1 	she 	PRP
+Hos 	2 	7 	1 	11 	1 	shall 	MD
+Hos 	2 	7 	1 	12 	1 	not 	RB
+Hos 	2 	7 	1 	13 	1 	overtake 	NN
+Hos 	2 	7 	1 	14 	1 	them 	PRP
+Hos 	2 	7 	1 	15 	0 	;
+Hos 	2 	7 	1 	16 	1 	and 	CC
+Hos 	2 	7 	1 	17 	1 	she 	PRP
+Hos 	2 	7 	1 	18 	1 	shall 	MD
+Hos 	2 	7 	1 	19 	1 	seek 	NN
+Hos 	2 	7 	1 	20 	1 	them 	PRP
+Hos 	2 	7 	1 	21 	0 	,
+Hos 	2 	7 	1 	22 	1 	but 	CC
+Hos 	2 	7 	1 	23 	1 	shall 	MD
+Hos 	2 	7 	1 	24 	1 	not 	RB
+Hos 	2 	7 	1 	25 	1 	find 	VB
+Hos 	2 	7 	1 	26 	1 	them 	PRP
+Hos 	2 	7 	1 	27 	0 	:
+Hos 	2 	7 	1 	28 	1 	then 	RB
+Hos 	2 	7 	1 	29 	1 	shall 	MD
+Hos 	2 	7 	1 	30 	1 	she 	PRP
+Hos 	2 	7 	1 	31 	1 	say 	VB
+Hos 	2 	7 	1 	32 	0 	,
+Hos 	2 	7 	1 	33 	1 	I 	PRP
+Hos 	2 	7 	1 	34 	1 	will 	MD
+Hos 	2 	7 	1 	35 	1 	go 	VB
+Hos 	2 	7 	1 	36 	1 	and 	CC
+Hos 	2 	7 	1 	37 	1 	return 	NN
+Hos 	2 	7 	1 	38 	1 	to 	TO
+Hos 	2 	7 	1 	39 	1 	my 	PRP$
+Hos 	2 	7 	1 	40 	1 	first 	RB
+Hos 	2 	7 	1 	41 	1 	husband 	NN
+Hos 	2 	7 	1 	42 	0 	;
+Hos 	2 	7 	1 	43 	1 	for 	IN
+Hos 	2 	7 	1 	44 	1 	then 	RB
+Hos 	2 	7 	1 	45 	1 	was 	VBD
+Hos 	2 	7 	1 	46 	1 	it 	PRP
+Hos 	2 	7 	1 	47 	1 	better 	RBR
+Hos 	2 	7 	1 	48 	1 	with 	IN
+Hos 	2 	7 	1 	49 	1 	me 	PRP
+Hos 	2 	7 	1 	50 	1 	than 	IN
+Hos 	2 	7 	1 	51 	1 	now 	RB
+Hos 	2 	7 	1 	52 	0 	.
+Hos 	2 	8 	1 	1 	1 	For 	IN
+Hos 	2 	8 	1 	2 	1 	she 	PRP
+Hos 	2 	8 	1 	3 	1 	did 	VBD
+Hos 	2 	8 	1 	4 	1 	not 	RB
+Hos 	2 	8 	1 	5 	1 	know 	VB
+Hos 	2 	8 	1 	6 	1 	that 	IN
+Hos 	2 	8 	1 	7 	1 	I 	PRP
+Hos 	2 	8 	1 	8 	1 	gave 	VBD
+Hos 	2 	8 	1 	9 	1 	her 	PRP$
+Hos 	2 	8 	1 	10 	1 	corn 	NN
+Hos 	2 	8 	1 	11 	0 	,
+Hos 	2 	8 	1 	12 	1 	and 	CC
+Hos 	2 	8 	1 	13 	1 	wine 	NN
+Hos 	2 	8 	1 	14 	0 	,
+Hos 	2 	8 	1 	15 	1 	and 	CC
+Hos 	2 	8 	1 	16 	1 	oil 	NN
+Hos 	2 	8 	1 	17 	0 	,
+Hos 	2 	8 	1 	18 	1 	and 	CC
+Hos 	2 	8 	1 	19 	1 	multiplied 	VBN
+Hos 	2 	8 	1 	20 	1 	her 	PRP$
+Hos 	2 	8 	1 	21 	1 	silver 	NN
+Hos 	2 	8 	1 	22 	1 	and 	CC
+Hos 	2 	8 	1 	23 	1 	gold 	NN
+Hos 	2 	8 	1 	24 	0 	,
+Hos 	2 	8 	1 	25 	1 	which 	WDT
+Hos 	2 	8 	1 	26 	1 	they 	PRP
+Hos 	2 	8 	1 	27 	1 	prepared 	JJ
+Hos 	2 	8 	1 	28 	1 	for 	IN
+Hos 	2 	8 	1 	29 	1 	Baal 	NN
+Hos 	2 	8 	1 	30 	0 	.
+Hos 	2 	9 	1 	1 	1 	Therefore 	RB
+Hos 	2 	9 	1 	2 	1 	will 	MD
+Hos 	2 	9 	1 	3 	1 	I 	PRP
+Hos 	2 	9 	1 	4 	1 	return 	NN
+Hos 	2 	9 	1 	5 	0 	,
+Hos 	2 	9 	1 	6 	1 	and 	CC
+Hos 	2 	9 	1 	7 	1 	take 	VB
+Hos 	2 	9 	1 	8 	1 	away 	RB
+Hos 	2 	9 	1 	9 	1 	my 	PRP$
+Hos 	2 	9 	1 	10 	1 	corn 	NN
+Hos 	2 	9 	1 	11 	1 	in 	IN
+Hos 	2 	9 	1 	12 	1 	the 	DT
+Hos 	2 	9 	1 	13 	1 	time 	NN
+Hos 	2 	9 	1 	14 	1 	thereof 	NN
+Hos 	2 	9 	1 	15 	0 	,
+Hos 	2 	9 	1 	16 	1 	and 	CC
+Hos 	2 	9 	1 	17 	1 	my 	PRP$
+Hos 	2 	9 	1 	18 	1 	wine 	NN
+Hos 	2 	9 	1 	19 	1 	in 	IN
+Hos 	2 	9 	1 	20 	1 	the 	DT
+Hos 	2 	9 	1 	21 	1 	season 	NN
+Hos 	2 	9 	1 	22 	1 	thereof 	NN
+Hos 	2 	9 	1 	23 	0 	,
+Hos 	2 	9 	1 	24 	1 	and 	CC
+Hos 	2 	9 	1 	25 	1 	will 	MD
+Hos 	2 	9 	1 	26 	1 	recover 	NN
+Hos 	2 	9 	1 	27 	1 	my 	PRP$
+Hos 	2 	9 	1 	28 	1 	wool 	NN
+Hos 	2 	9 	1 	29 	1 	and 	CC
+Hos 	2 	9 	1 	30 	1 	my 	PRP$
+Hos 	2 	9 	1 	31 	1 	flax 	NN
+Hos 	2 	9 	1 	32 	1 	given 	VBN
+Hos 	2 	9 	1 	33 	1 	to 	TO
+Hos 	2 	9 	1 	34 	1 	cover 	NN
+Hos 	2 	9 	1 	35 	1 	her 	PRP$
+Hos 	2 	9 	1 	36 	1 	nakedness 	NN
+Hos 	2 	9 	1 	37 	0 	.
+Hos 	2 	10 	1 	1 	1 	And 	CC
+Hos 	2 	10 	1 	2 	1 	now 	RB
+Hos 	2 	10 	1 	3 	1 	will 	MD
+Hos 	2 	10 	1 	4 	1 	I 	PRP
+Hos 	2 	10 	1 	5 	1 	discover 	NN
+Hos 	2 	10 	1 	6 	1 	her 	PRP$
+Hos 	2 	10 	1 	7 	1 	lewdness 	NN
+Hos 	2 	10 	1 	8 	1 	in 	IN
+Hos 	2 	10 	1 	9 	1 	the 	DT
+Hos 	2 	10 	1 	10 	1 	sight 	NN
+Hos 	2 	10 	1 	11 	1 	of 	IN
+Hos 	2 	10 	1 	12 	1 	her 	PRP$
+Hos 	2 	10 	1 	13 	1 	lovers 	NNS
+Hos 	2 	10 	1 	14 	0 	,
+Hos 	2 	10 	1 	15 	1 	and 	CC
+Hos 	2 	10 	1 	16 	1 	none 	NN
+Hos 	2 	10 	1 	17 	1 	shall 	MD
+Hos 	2 	10 	1 	18 	1 	deliver 	NN
+Hos 	2 	10 	1 	19 	1 	her 	PRP$
+Hos 	2 	10 	1 	20 	1 	out 	IN
+Hos 	2 	10 	1 	21 	1 	of 	IN
+Hos 	2 	10 	1 	22 	1 	mine 	NN
+Hos 	2 	10 	1 	23 	1 	hand 	NN
+Hos 	2 	10 	1 	24 	0 	.
+Hos 	2 	11 	1 	1 	1 	I 	PRP
+Hos 	2 	11 	1 	2 	1 	will 	MD
+Hos 	2 	11 	1 	3 	1 	also 	RB
+Hos 	2 	11 	1 	4 	1 	cause 	NN
+Hos 	2 	11 	1 	5 	1 	all 	DT
+Hos 	2 	11 	1 	6 	1 	her 	PRP$
+Hos 	2 	11 	1 	7 	1 	mirth 	NN
+Hos 	2 	11 	1 	8 	1 	to 	TO
+Hos 	2 	11 	1 	9 	1 	cease 	NN
+Hos 	2 	11 	1 	10 	0 	,
+Hos 	2 	11 	1 	11 	1 	her 	PRP$
+Hos 	2 	11 	1 	12 	1 	feast 	NN
+Hos 	2 	11 	1 	13 	1 	days 	NNS
+Hos 	2 	11 	1 	14 	0 	,
+Hos 	2 	11 	1 	15 	1 	her 	PRP$
+Hos 	2 	11 	1 	16 	1 	new 	JJ
+Hos 	2 	11 	1 	17 	1 	moons 	NNS
+Hos 	2 	11 	1 	18 	0 	,
+Hos 	2 	11 	1 	19 	1 	and 	CC
+Hos 	2 	11 	1 	20 	1 	her 	PRP$
+Hos 	2 	11 	1 	21 	1 	sabbaths 	NNS
+Hos 	2 	11 	1 	22 	0 	,
+Hos 	2 	11 	1 	23 	1 	and 	CC
+Hos 	2 	11 	1 	24 	1 	all 	DT
+Hos 	2 	11 	1 	25 	1 	her 	PRP$
+Hos 	2 	11 	1 	26 	1 	solemn 	NN
+Hos 	2 	11 	1 	27 	1 	feasts 	NNS
+Hos 	2 	11 	1 	28 	0 	.
+Hos 	2 	12 	1 	1 	1 	And 	CC
+Hos 	2 	12 	1 	2 	1 	I 	PRP
+Hos 	2 	12 	1 	3 	1 	will 	MD
+Hos 	2 	12 	1 	4 	1 	destroy 	NN
+Hos 	2 	12 	1 	5 	1 	her 	PRP$
+Hos 	2 	12 	1 	6 	1 	vines 	NNS
+Hos 	2 	12 	1 	7 	1 	and 	CC
+Hos 	2 	12 	1 	8 	1 	her 	PRP$
+Hos 	2 	12 	1 	9 	1 	fig 	NN
+Hos 	2 	12 	1 	10 	1 	trees 	NNS
+Hos 	2 	12 	1 	11 	0 	,
+Hos 	2 	12 	1 	12 	1 	whereof 	NN
+Hos 	2 	12 	1 	13 	1 	she 	PRP
+Hos 	2 	12 	1 	14 	1 	hath 	NN
+Hos 	2 	12 	1 	15 	1 	said 	VBD
+Hos 	2 	12 	1 	16 	0 	,
+Hos 	2 	12 	1 	17 	1 	These 	DT
+Hos 	2 	12 	1 	18 	1 	are 	VBP
+Hos 	2 	12 	1 	19 	1 	my 	PRP$
+Hos 	2 	12 	1 	20 	1 	rewards 	NNS
+Hos 	2 	12 	1 	21 	1 	that 	IN
+Hos 	2 	12 	1 	22 	1 	my 	PRP$
+Hos 	2 	12 	1 	23 	1 	lovers 	NNS
+Hos 	2 	12 	1 	24 	1 	have 	VB
+Hos 	2 	12 	1 	25 	1 	given 	VBN
+Hos 	2 	12 	1 	26 	1 	me 	PRP
+Hos 	2 	12 	1 	27 	0 	:
+Hos 	2 	12 	1 	28 	1 	and 	CC
+Hos 	2 	12 	1 	29 	1 	I 	PRP
+Hos 	2 	12 	1 	30 	1 	will 	MD
+Hos 	2 	12 	1 	31 	1 	make 	VB
+Hos 	2 	12 	1 	32 	1 	them 	PRP
+Hos 	2 	12 	1 	33 	1 	a 	DT
+Hos 	2 	12 	1 	34 	1 	forest 	NN
+Hos 	2 	12 	1 	35 	0 	,
+Hos 	2 	12 	1 	36 	1 	and 	CC
+Hos 	2 	12 	1 	37 	1 	the 	DT
+Hos 	2 	12 	1 	38 	1 	beasts 	NNS
+Hos 	2 	12 	1 	39 	1 	of 	IN
+Hos 	2 	12 	1 	40 	1 	the 	DT
+Hos 	2 	12 	1 	41 	1 	field 	NN
+Hos 	2 	12 	1 	42 	1 	shall 	MD
+Hos 	2 	12 	1 	43 	1 	eat 	NN
+Hos 	2 	12 	1 	44 	1 	them 	PRP
+Hos 	2 	12 	1 	45 	0 	.
+Hos 	2 	13 	1 	1 	1 	And 	CC
+Hos 	2 	13 	1 	2 	1 	I 	PRP
+Hos 	2 	13 	1 	3 	1 	will 	MD
+Hos 	2 	13 	1 	4 	1 	visit 	NN
+Hos 	2 	13 	1 	5 	1 	upon 	IN
+Hos 	2 	13 	1 	6 	1 	her 	PRP$
+Hos 	2 	13 	1 	7 	1 	the 	DT
+Hos 	2 	13 	1 	8 	1 	days 	NNS
+Hos 	2 	13 	1 	9 	1 	of 	IN
+Hos 	2 	13 	1 	10 	1 	Baalim 	NN
+Hos 	2 	13 	1 	11 	0 	,
+Hos 	2 	13 	1 	12 	1 	wherein 	NN
+Hos 	2 	13 	1 	13 	1 	she 	PRP
+Hos 	2 	13 	1 	14 	1 	burned 	VBN
+Hos 	2 	13 	1 	15 	1 	incense 	NN
+Hos 	2 	13 	1 	16 	1 	to 	TO
+Hos 	2 	13 	1 	17 	1 	them 	PRP
+Hos 	2 	13 	1 	18 	0 	,
+Hos 	2 	13 	1 	19 	1 	and 	CC
+Hos 	2 	13 	1 	20 	1 	she 	PRP
+Hos 	2 	13 	1 	21 	1 	decked 	VBN
+Hos 	2 	13 	1 	22 	1 	herself 	NN
+Hos 	2 	13 	1 	23 	1 	with 	IN
+Hos 	2 	13 	1 	24 	1 	her 	PRP$
+Hos 	2 	13 	1 	25 	1 	earrings 	NNS
+Hos 	2 	13 	1 	26 	1 	and 	CC
+Hos 	2 	13 	1 	27 	1 	her 	PRP$
+Hos 	2 	13 	1 	28 	1 	jewels 	NNS
+Hos 	2 	13 	1 	29 	0 	,
+Hos 	2 	13 	1 	30 	1 	and 	CC
+Hos 	2 	13 	1 	31 	1 	she 	PRP
+Hos 	2 	13 	1 	32 	1 	went 	VBD
+Hos 	2 	13 	1 	33 	1 	after 	IN
+Hos 	2 	13 	1 	34 	1 	her 	PRP$
+Hos 	2 	13 	1 	35 	1 	lovers 	NNS
+Hos 	2 	13 	1 	36 	0 	,
+Hos 	2 	13 	1 	37 	1 	and 	CC
+Hos 	2 	13 	1 	38 	1 	forgat 	NN
+Hos 	2 	13 	1 	39 	1 	me 	PRP
+Hos 	2 	13 	1 	40 	0 	,
+Hos 	2 	13 	1 	41 	1 	saith 	NN
+Hos 	2 	13 	1 	42 	1 	the 	DT
+Hos 	2 	13 	1 	43 	1 	LORD 	NN
+Hos 	2 	13 	1 	44 	0 	.
+Hos 	2 	14 	1 	1 	1 	Therefore 	RB
+Hos 	2 	14 	1 	2 	0 	,
+Hos 	2 	14 	1 	3 	1 	behold 	NN
+Hos 	2 	14 	1 	4 	0 	,
+Hos 	2 	14 	1 	5 	1 	I 	PRP
+Hos 	2 	14 	1 	6 	1 	will 	MD
+Hos 	2 	14 	1 	7 	1 	allure 	NN
+Hos 	2 	14 	1 	8 	1 	her 	PRP$
+Hos 	2 	14 	1 	9 	0 	,
+Hos 	2 	14 	1 	10 	1 	and 	CC
+Hos 	2 	14 	1 	11 	1 	bring 	NN
+Hos 	2 	14 	1 	12 	1 	her 	PRP$
+Hos 	2 	14 	1 	13 	1 	into 	IN
+Hos 	2 	14 	1 	14 	1 	the 	DT
+Hos 	2 	14 	1 	15 	1 	wilderness 	NN
+Hos 	2 	14 	1 	16 	0 	,
+Hos 	2 	14 	1 	17 	1 	and 	CC
+Hos 	2 	14 	1 	18 	1 	speak 	NN
+Hos 	2 	14 	1 	19 	1 	comfortably 	RB
+Hos 	2 	14 	1 	20 	1 	unto 	NN
+Hos 	2 	14 	1 	21 	1 	her 	PRP$
+Hos 	2 	14 	1 	22 	0 	.
+Hos 	2 	15 	1 	1 	1 	And 	CC
+Hos 	2 	15 	1 	2 	1 	I 	PRP
+Hos 	2 	15 	1 	3 	1 	will 	MD
+Hos 	2 	15 	1 	4 	1 	give 	VB
+Hos 	2 	15 	1 	5 	1 	her 	PRP$
+Hos 	2 	15 	1 	6 	1 	her 	PRP$
+Hos 	2 	15 	1 	7 	1 	vineyards 	NNS
+Hos 	2 	15 	1 	8 	1 	from 	IN
+Hos 	2 	15 	1 	9 	1 	thence 	NN
+Hos 	2 	15 	1 	10 	0 	,
+Hos 	2 	15 	1 	11 	1 	and 	CC
+Hos 	2 	15 	1 	12 	1 	the 	DT
+Hos 	2 	15 	1 	13 	1 	valley 	NN
+Hos 	2 	15 	1 	14 	1 	of 	IN
+Hos 	2 	15 	1 	15 	1 	Achor 	NN
+Hos 	2 	15 	1 	16 	1 	for 	IN
+Hos 	2 	15 	1 	17 	1 	a 	DT
+Hos 	2 	15 	1 	18 	1 	door 	NN
+Hos 	2 	15 	1 	19 	1 	of 	IN
+Hos 	2 	15 	1 	20 	1 	hope 	NN
+Hos 	2 	15 	1 	21 	0 	:
+Hos 	2 	15 	1 	22 	1 	and 	CC
+Hos 	2 	15 	1 	23 	1 	she 	PRP
+Hos 	2 	15 	1 	24 	1 	shall 	MD
+Hos 	2 	15 	1 	25 	1 	sing 	VBG
+Hos 	2 	15 	1 	26 	1 	there 	RB
+Hos 	2 	15 	1 	27 	0 	,
+Hos 	2 	15 	1 	28 	1 	as 	IN
+Hos 	2 	15 	1 	29 	1 	in 	IN
+Hos 	2 	15 	1 	30 	1 	the 	DT
+Hos 	2 	15 	1 	31 	1 	days 	NNS
+Hos 	2 	15 	1 	32 	1 	of 	IN
+Hos 	2 	15 	1 	33 	1 	her 	PRP$
+Hos 	2 	15 	1 	34 	1 	youth 	NN
+Hos 	2 	15 	1 	35 	0 	,
+Hos 	2 	15 	1 	36 	1 	and 	CC
+Hos 	2 	15 	1 	37 	1 	as 	IN
+Hos 	2 	15 	1 	38 	1 	in 	IN
+Hos 	2 	15 	1 	39 	1 	the 	DT
+Hos 	2 	15 	1 	40 	1 	day 	NN
+Hos 	2 	15 	1 	41 	1 	when 	WRB
+Hos 	2 	15 	1 	42 	1 	she 	PRP
+Hos 	2 	15 	1 	43 	1 	came 	VBD
+Hos 	2 	15 	1 	44 	1 	up 	RB
+Hos 	2 	15 	1 	45 	1 	out 	IN
+Hos 	2 	15 	1 	46 	1 	of 	IN
+Hos 	2 	15 	1 	47 	1 	the 	DT
+Hos 	2 	15 	1 	48 	1 	land 	NN
+Hos 	2 	15 	1 	49 	1 	of 	IN
+Hos 	2 	15 	1 	50 	1 	Egypt 	NN
+Hos 	2 	15 	1 	51 	0 	.
+Hos 	2 	16 	1 	1 	1 	And 	CC
+Hos 	2 	16 	1 	2 	1 	it 	PRP
+Hos 	2 	16 	1 	3 	1 	shall 	MD
+Hos 	2 	16 	1 	4 	1 	be 	VB
+Hos 	2 	16 	1 	5 	1 	at 	IN
+Hos 	2 	16 	1 	6 	1 	that 	IN
+Hos 	2 	16 	1 	7 	1 	day 	NN
+Hos 	2 	16 	1 	8 	0 	,
+Hos 	2 	16 	1 	9 	1 	saith 	NN
+Hos 	2 	16 	1 	10 	1 	the 	DT
+Hos 	2 	16 	1 	11 	1 	LORD 	NN
+Hos 	2 	16 	1 	12 	0 	,
+Hos 	2 	16 	1 	13 	1 	that 	IN
+Hos 	2 	16 	1 	14 	1 	thou 	NN
+Hos 	2 	16 	1 	15 	1 	shalt 	NN
+Hos 	2 	16 	1 	16 	1 	call 	NN
+Hos 	2 	16 	1 	17 	1 	me 	PRP
+Hos 	2 	16 	1 	18 	1 	Ishi 	NN
+Hos 	2 	16 	1 	19 	0 	;
+Hos 	2 	16 	1 	20 	1 	and 	CC
+Hos 	2 	16 	1 	21 	1 	shalt 	NN
+Hos 	2 	16 	1 	22 	1 	call 	NN
+Hos 	2 	16 	1 	23 	1 	me 	PRP
+Hos 	2 	16 	1 	24 	1 	no 	DT
+Hos 	2 	16 	1 	25 	1 	more 	RBR
+Hos 	2 	16 	1 	26 	1 	Baali 	NN
+Hos 	2 	16 	1 	27 	0 	.
+Hos 	2 	17 	1 	1 	1 	For 	IN
+Hos 	2 	17 	1 	2 	1 	I 	PRP
+Hos 	2 	17 	1 	3 	1 	will 	MD
+Hos 	2 	17 	1 	4 	1 	take 	VB
+Hos 	2 	17 	1 	5 	1 	away 	RB
+Hos 	2 	17 	1 	6 	1 	the 	DT
+Hos 	2 	17 	1 	7 	1 	names 	NNS
+Hos 	2 	17 	1 	8 	1 	of 	IN
+Hos 	2 	17 	1 	9 	1 	Baalim 	NN
+Hos 	2 	17 	1 	10 	1 	out 	IN
+Hos 	2 	17 	1 	11 	1 	of 	IN
+Hos 	2 	17 	1 	12 	1 	her 	PRP$
+Hos 	2 	17 	1 	13 	1 	mouth 	NN
+Hos 	2 	17 	1 	14 	0 	,
+Hos 	2 	17 	1 	15 	1 	and 	CC
+Hos 	2 	17 	1 	16 	1 	they 	PRP
+Hos 	2 	17 	1 	17 	1 	shall 	MD
+Hos 	2 	17 	1 	18 	1 	no 	DT
+Hos 	2 	17 	1 	19 	1 	more 	RBR
+Hos 	2 	17 	1 	20 	1 	be 	VB
+Hos 	2 	17 	1 	21 	1 	remembered 	VBN
+Hos 	2 	17 	1 	22 	1 	by 	IN
+Hos 	2 	17 	1 	23 	1 	their 	PRP$
+Hos 	2 	17 	1 	24 	1 	name 	NN
+Hos 	2 	17 	1 	25 	0 	.
+Hos 	2 	18 	1 	1 	1 	And 	CC
+Hos 	2 	18 	1 	2 	1 	in 	IN
+Hos 	2 	18 	1 	3 	1 	that 	IN
+Hos 	2 	18 	1 	4 	1 	day 	NN
+Hos 	2 	18 	1 	5 	1 	will 	MD
+Hos 	2 	18 	1 	6 	1 	I 	PRP
+Hos 	2 	18 	1 	7 	1 	make 	VB
+Hos 	2 	18 	1 	8 	1 	a 	DT
+Hos 	2 	18 	1 	9 	1 	covenant 	NN
+Hos 	2 	18 	1 	10 	1 	for 	IN
+Hos 	2 	18 	1 	11 	1 	them 	PRP
+Hos 	2 	18 	1 	12 	1 	with 	IN
+Hos 	2 	18 	1 	13 	1 	the 	DT
+Hos 	2 	18 	1 	14 	1 	beasts 	NNS
+Hos 	2 	18 	1 	15 	1 	of 	IN
+Hos 	2 	18 	1 	16 	1 	the 	DT
+Hos 	2 	18 	1 	17 	1 	field 	NN
+Hos 	2 	18 	1 	18 	1 	and 	CC
+Hos 	2 	18 	1 	19 	1 	with 	IN
+Hos 	2 	18 	1 	20 	1 	the 	DT
+Hos 	2 	18 	1 	21 	1 	fowls 	NN
+Hos 	2 	18 	1 	22 	1 	of 	IN
+Hos 	2 	18 	1 	23 	1 	heaven 	NN
+Hos 	2 	18 	1 	24 	0 	,
+Hos 	2 	18 	1 	25 	1 	and 	CC
+Hos 	2 	18 	1 	26 	1 	with 	IN
+Hos 	2 	18 	1 	27 	1 	the 	DT
+Hos 	2 	18 	1 	28 	1 	creeping 	VBG
+Hos 	2 	18 	1 	29 	1 	things 	NNS
+Hos 	2 	18 	1 	30 	1 	of 	IN
+Hos 	2 	18 	1 	31 	1 	the 	DT
+Hos 	2 	18 	1 	32 	1 	ground 	NN
+Hos 	2 	18 	1 	33 	0 	:
+Hos 	2 	18 	1 	34 	1 	and 	CC
+Hos 	2 	18 	1 	35 	1 	I 	PRP
+Hos 	2 	18 	1 	36 	1 	will 	MD
+Hos 	2 	18 	1 	37 	1 	break 	NN
+Hos 	2 	18 	1 	38 	1 	the 	DT
+Hos 	2 	18 	1 	39 	1 	bow 	NN
+Hos 	2 	18 	1 	40 	1 	and 	CC
+Hos 	2 	18 	1 	41 	1 	the 	DT
+Hos 	2 	18 	1 	42 	1 	sword 	NN
+Hos 	2 	18 	1 	43 	1 	and 	CC
+Hos 	2 	18 	1 	44 	1 	the 	DT
+Hos 	2 	18 	1 	45 	1 	battle 	NN
+Hos 	2 	18 	1 	46 	1 	out 	IN
+Hos 	2 	18 	1 	47 	1 	of 	IN
+Hos 	2 	18 	1 	48 	1 	the 	DT
+Hos 	2 	18 	1 	49 	1 	earth 	NN
+Hos 	2 	18 	1 	50 	0 	,
+Hos 	2 	18 	1 	51 	1 	and 	CC
+Hos 	2 	18 	1 	52 	1 	will 	MD
+Hos 	2 	18 	1 	53 	1 	make 	VB
+Hos 	2 	18 	1 	54 	1 	them 	PRP
+Hos 	2 	18 	1 	55 	1 	to 	TO
+Hos 	2 	18 	1 	56 	1 	lie 	NN
+Hos 	2 	18 	1 	57 	1 	down 	RB
+Hos 	2 	18 	1 	58 	1 	safely 	RB
+Hos 	2 	18 	1 	59 	0 	.
+Hos 	2 	19 	1 	1 	1 	And 	CC
+Hos 	2 	19 	1 	2 	1 	I 	PRP
+Hos 	2 	19 	1 	3 	1 	will 	MD
+Hos 	2 	19 	1 	4 	1 	betroth 	NN
+Hos 	2 	19 	1 	5 	1 	thee 	NN
+Hos 	2 	19 	1 	6 	1 	unto 	NN
+Hos 	2 	19 	1 	7 	1 	me 	PRP
+Hos 	2 	19 	1 	8 	1 	for 	IN
+Hos 	2 	19 	1 	9 	1 	ever 	RB
+Hos 	2 	19 	1 	10 	0 	;
+Hos 	2 	19 	1 	11 	1 	yea 	NN
+Hos 	2 	19 	1 	12 	0 	,
+Hos 	2 	19 	1 	13 	1 	I 	PRP
+Hos 	2 	19 	1 	14 	1 	will 	MD
+Hos 	2 	19 	1 	15 	1 	betroth 	NN
+Hos 	2 	19 	1 	16 	1 	thee 	NN
+Hos 	2 	19 	1 	17 	1 	unto 	NN
+Hos 	2 	19 	1 	18 	1 	me 	PRP
+Hos 	2 	19 	1 	19 	1 	in 	IN
+Hos 	2 	19 	1 	20 	1 	righteousness 	NN
+Hos 	2 	19 	1 	21 	0 	,
+Hos 	2 	19 	1 	22 	1 	and 	CC
+Hos 	2 	19 	1 	23 	1 	in 	IN
+Hos 	2 	19 	1 	24 	1 	judgment 	NN
+Hos 	2 	19 	1 	25 	0 	,
+Hos 	2 	19 	1 	26 	1 	and 	CC
+Hos 	2 	19 	1 	27 	1 	in 	IN
+Hos 	2 	19 	1 	28 	1 	lovingkindness 	NN
+Hos 	2 	19 	1 	29 	0 	,
+Hos 	2 	19 	1 	30 	1 	and 	CC
+Hos 	2 	19 	1 	31 	1 	in 	IN
+Hos 	2 	19 	1 	32 	1 	mercies 	NNS
+Hos 	2 	19 	1 	33 	0 	.
+Hos 	2 	20 	1 	1 	1 	I 	PRP
+Hos 	2 	20 	1 	2 	1 	will 	MD
+Hos 	2 	20 	1 	3 	1 	even 	RB
+Hos 	2 	20 	1 	4 	1 	betroth 	NN
+Hos 	2 	20 	1 	5 	1 	thee 	NN
+Hos 	2 	20 	1 	6 	1 	unto 	NN
+Hos 	2 	20 	1 	7 	1 	me 	PRP
+Hos 	2 	20 	1 	8 	1 	in 	IN
+Hos 	2 	20 	1 	9 	1 	faithfulness 	NN
+Hos 	2 	20 	1 	10 	0 	:
+Hos 	2 	20 	1 	11 	1 	and 	CC
+Hos 	2 	20 	1 	12 	1 	thou 	NN
+Hos 	2 	20 	1 	13 	1 	shalt 	NN
+Hos 	2 	20 	1 	14 	1 	know 	VB
+Hos 	2 	20 	1 	15 	1 	the 	DT
+Hos 	2 	20 	1 	16 	1 	LORD 	NN
+Hos 	2 	20 	1 	17 	0 	.
+Hos 	2 	21 	1 	1 	1 	And 	CC
+Hos 	2 	21 	1 	2 	1 	it 	PRP
+Hos 	2 	21 	1 	3 	1 	shall 	MD
+Hos 	2 	21 	1 	4 	1 	come 	VB
+Hos 	2 	21 	1 	5 	1 	to 	TO
+Hos 	2 	21 	1 	6 	1 	pass 	NN
+Hos 	2 	21 	1 	7 	1 	in 	IN
+Hos 	2 	21 	1 	8 	1 	that 	IN
+Hos 	2 	21 	1 	9 	1 	day 	NN
+Hos 	2 	21 	1 	10 	0 	,
+Hos 	2 	21 	1 	11 	1 	I 	PRP
+Hos 	2 	21 	1 	12 	1 	will 	MD
+Hos 	2 	21 	1 	13 	1 	hear 	NN
+Hos 	2 	21 	1 	14 	0 	,
+Hos 	2 	21 	1 	15 	1 	saith 	NN
+Hos 	2 	21 	1 	16 	1 	the 	DT
+Hos 	2 	21 	1 	17 	1 	LORD 	NN
+Hos 	2 	21 	1 	18 	0 	,
+Hos 	2 	21 	1 	19 	1 	I 	PRP
+Hos 	2 	21 	1 	20 	1 	will 	MD
+Hos 	2 	21 	1 	21 	1 	hear 	NN
+Hos 	2 	21 	1 	22 	1 	the 	DT
+Hos 	2 	21 	1 	23 	1 	heavens 	NNS
+Hos 	2 	21 	1 	24 	0 	,
+Hos 	2 	21 	1 	25 	1 	and 	CC
+Hos 	2 	21 	1 	26 	1 	they 	PRP
+Hos 	2 	21 	1 	27 	1 	shall 	MD
+Hos 	2 	21 	1 	28 	1 	hear 	NN
+Hos 	2 	21 	1 	29 	1 	the 	DT
+Hos 	2 	21 	1 	30 	1 	earth 	NN
+Hos 	2 	21 	1 	31 	0 	;
+Hos 	2 	22 	1 	1 	1 	And 	CC
+Hos 	2 	22 	1 	2 	1 	the 	DT
+Hos 	2 	22 	1 	3 	1 	earth 	NN
+Hos 	2 	22 	1 	4 	1 	shall 	MD
+Hos 	2 	22 	1 	5 	1 	hear 	NN
+Hos 	2 	22 	1 	6 	1 	the 	DT
+Hos 	2 	22 	1 	7 	1 	corn 	NN
+Hos 	2 	22 	1 	8 	0 	,
+Hos 	2 	22 	1 	9 	1 	and 	CC
+Hos 	2 	22 	1 	10 	1 	the 	DT
+Hos 	2 	22 	1 	11 	1 	wine 	NN
+Hos 	2 	22 	1 	12 	0 	,
+Hos 	2 	22 	1 	13 	1 	and 	CC
+Hos 	2 	22 	1 	14 	1 	the 	DT
+Hos 	2 	22 	1 	15 	1 	oil 	NN
+Hos 	2 	22 	1 	16 	0 	;
+Hos 	2 	22 	1 	17 	1 	and 	CC
+Hos 	2 	22 	1 	18 	1 	they 	PRP
+Hos 	2 	22 	1 	19 	1 	shall 	MD
+Hos 	2 	22 	1 	20 	1 	hear 	NN
+Hos 	2 	22 	1 	21 	1 	Jezreel 	NN
+Hos 	2 	22 	1 	22 	0 	.
+Hos 	2 	23 	1 	1 	1 	And 	CC
+Hos 	2 	23 	1 	2 	1 	I 	PRP
+Hos 	2 	23 	1 	3 	1 	will 	MD
+Hos 	2 	23 	1 	4 	1 	sow 	NN
+Hos 	2 	23 	1 	5 	1 	her 	PRP$
+Hos 	2 	23 	1 	6 	1 	unto 	NN
+Hos 	2 	23 	1 	7 	1 	me 	PRP
+Hos 	2 	23 	1 	8 	1 	in 	IN
+Hos 	2 	23 	1 	9 	1 	the 	DT
+Hos 	2 	23 	1 	10 	1 	earth 	NN
+Hos 	2 	23 	1 	11 	0 	;
+Hos 	2 	23 	1 	12 	1 	and 	CC
+Hos 	2 	23 	1 	13 	1 	I 	PRP
+Hos 	2 	23 	1 	14 	1 	will 	MD
+Hos 	2 	23 	1 	15 	1 	have 	VB
+Hos 	2 	23 	1 	16 	1 	mercy 	NN
+Hos 	2 	23 	1 	17 	1 	upon 	IN
+Hos 	2 	23 	1 	18 	1 	her 	PRP$
+Hos 	2 	23 	1 	19 	1 	that 	IN
+Hos 	2 	23 	1 	20 	1 	had 	VBD
+Hos 	2 	23 	1 	21 	1 	not 	RB
+Hos 	2 	23 	1 	22 	1 	obtained 	VBN
+Hos 	2 	23 	1 	23 	1 	mercy 	NN
+Hos 	2 	23 	1 	24 	0 	;
+Hos 	2 	23 	1 	25 	1 	and 	CC
+Hos 	2 	23 	1 	26 	1 	I 	PRP
+Hos 	2 	23 	1 	27 	1 	will 	MD
+Hos 	2 	23 	1 	28 	1 	say 	VB
+Hos 	2 	23 	1 	29 	1 	to 	TO
+Hos 	2 	23 	1 	30 	1 	them 	PRP
+Hos 	2 	23 	1 	31 	1 	which 	WDT
+Hos 	2 	23 	1 	32 	1 	were 	VBD
+Hos 	2 	23 	1 	33 	1 	not 	RB
+Hos 	2 	23 	1 	34 	1 	my 	PRP$
+Hos 	2 	23 	1 	35 	1 	people 	NNS
+Hos 	2 	23 	1 	36 	0 	,
+Hos 	2 	23 	1 	37 	1 	Thou 	NN
+Hos 	2 	23 	1 	38 	1 	art 	NN
+Hos 	2 	23 	1 	39 	1 	my 	PRP$
+Hos 	2 	23 	1 	40 	1 	people 	NNS
+Hos 	2 	23 	1 	41 	0 	;
+Hos 	2 	23 	1 	42 	1 	and 	CC
+Hos 	2 	23 	1 	43 	1 	they 	PRP
+Hos 	2 	23 	1 	44 	1 	shall 	MD
+Hos 	2 	23 	1 	45 	1 	say 	VB
+Hos 	2 	23 	1 	46 	0 	,
+Hos 	2 	23 	1 	47 	1 	Thou 	NN
+Hos 	2 	23 	1 	48 	1 	art 	NN
+Hos 	2 	23 	1 	49 	1 	my 	PRP$
+Hos 	2 	23 	1 	50 	1 	God 	NNP
+Hos 	2 	23 	1 	51 	0 	.
+Hos 	3 	1 	1 	1 	1 	Then 	RB
+Hos 	3 	1 	1 	2 	1 	said 	VBD
+Hos 	3 	1 	1 	3 	1 	the 	DT
+Hos 	3 	1 	1 	4 	1 	LORD 	NN
+Hos 	3 	1 	1 	5 	1 	unto 	NN
+Hos 	3 	1 	1 	6 	1 	me 	PRP
+Hos 	3 	1 	1 	7 	0 	,
+Hos 	3 	1 	1 	8 	1 	Go 	VB
+Hos 	3 	1 	1 	9 	1 	yet 	RB
+Hos 	3 	1 	1 	10 	0 	,
+Hos 	3 	1 	1 	11 	1 	love 	NN
+Hos 	3 	1 	1 	12 	1 	a 	DT
+Hos 	3 	1 	1 	13 	1 	woman 	NN
+Hos 	3 	1 	1 	14 	1 	beloved 	VBN
+Hos 	3 	1 	1 	15 	1 	of 	IN
+Hos 	3 	1 	1 	16 	1 	her 	PRP$
+Hos 	3 	1 	1 	17 	1 	friend 	NN
+Hos 	3 	1 	1 	18 	0 	,
+Hos 	3 	1 	1 	19 	1 	yet 	RB
+Hos 	3 	1 	1 	20 	1 	an 	DT
+Hos 	3 	1 	1 	21 	1 	adulteress 	NN
+Hos 	3 	1 	1 	22 	0 	,
+Hos 	3 	1 	1 	23 	1 	according 	VBG
+Hos 	3 	1 	1 	24 	1 	to 	TO
+Hos 	3 	1 	1 	25 	1 	the 	DT
+Hos 	3 	1 	1 	26 	1 	love 	NN
+Hos 	3 	1 	1 	27 	1 	of 	IN
+Hos 	3 	1 	1 	28 	1 	the 	DT
+Hos 	3 	1 	1 	29 	1 	LORD 	NN
+Hos 	3 	1 	1 	30 	1 	toward 	IN
+Hos 	3 	1 	1 	31 	1 	the 	DT
+Hos 	3 	1 	1 	32 	1 	children 	NNS
+Hos 	3 	1 	1 	33 	1 	of 	IN
+Hos 	3 	1 	1 	34 	1 	Israel 	NNP
+Hos 	3 	1 	1 	35 	0 	,
+Hos 	3 	1 	1 	36 	1 	who 	WP
+Hos 	3 	1 	1 	37 	1 	look 	NN
+Hos 	3 	1 	1 	38 	1 	to 	TO
+Hos 	3 	1 	1 	39 	1 	other 	JJ
+Hos 	3 	1 	1 	40 	1 	gods 	NNS
+Hos 	3 	1 	1 	41 	0 	,
+Hos 	3 	1 	1 	42 	1 	and 	CC
+Hos 	3 	1 	1 	43 	1 	love 	NN
+Hos 	3 	1 	1 	44 	1 	flagons 	NNS
+Hos 	3 	1 	1 	45 	1 	of 	IN
+Hos 	3 	1 	1 	46 	1 	wine 	NN
+Hos 	3 	1 	1 	47 	0 	.
+Hos 	3 	2 	1 	1 	1 	So 	RB
+Hos 	3 	2 	1 	2 	1 	I 	PRP
+Hos 	3 	2 	1 	3 	1 	bought 	NN
+Hos 	3 	2 	1 	4 	1 	her 	PRP$
+Hos 	3 	2 	1 	5 	1 	to 	TO
+Hos 	3 	2 	1 	6 	1 	me 	PRP
+Hos 	3 	2 	1 	7 	1 	for 	IN
+Hos 	3 	2 	1 	8 	1 	fifteen 	NN
+Hos 	3 	2 	1 	9 	1 	pieces 	NNS
+Hos 	3 	2 	1 	10 	1 	of 	IN
+Hos 	3 	2 	1 	11 	1 	silver 	NN
+Hos 	3 	2 	1 	12 	0 	,
+Hos 	3 	2 	1 	13 	1 	and 	CC
+Hos 	3 	2 	1 	14 	1 	for 	IN
+Hos 	3 	2 	1 	15 	1 	an 	DT
+Hos 	3 	2 	1 	16 	1 	homer 	NN
+Hos 	3 	2 	1 	17 	1 	of 	IN
+Hos 	3 	2 	1 	18 	1 	barley 	NN
+Hos 	3 	2 	1 	19 	0 	,
+Hos 	3 	2 	1 	20 	1 	and 	CC
+Hos 	3 	2 	1 	21 	1 	an 	DT
+Hos 	3 	2 	1 	22 	1 	half 	NN
+Hos 	3 	2 	1 	23 	1 	homer 	NN
+Hos 	3 	2 	1 	24 	1 	of 	IN
+Hos 	3 	2 	1 	25 	1 	barley 	NN
+Hos 	3 	2 	1 	26 	0 	:
+Hos 	3 	3 	1 	1 	1 	And 	CC
+Hos 	3 	3 	1 	2 	1 	I 	PRP
+Hos 	3 	3 	1 	3 	1 	said 	VBD
+Hos 	3 	3 	1 	4 	1 	unto 	NN
+Hos 	3 	3 	1 	5 	1 	her 	PRP$
+Hos 	3 	3 	1 	6 	0 	,
+Hos 	3 	3 	1 	7 	1 	Thou 	NN
+Hos 	3 	3 	1 	8 	1 	shalt 	NN
+Hos 	3 	3 	1 	9 	1 	abide 	NN
+Hos 	3 	3 	1 	10 	1 	for 	IN
+Hos 	3 	3 	1 	11 	1 	me 	PRP
+Hos 	3 	3 	1 	12 	1 	many 	JJ
+Hos 	3 	3 	1 	13 	1 	days 	NNS
+Hos 	3 	3 	1 	14 	0 	;
+Hos 	3 	3 	1 	15 	1 	thou 	NN
+Hos 	3 	3 	1 	16 	1 	shalt 	NN
+Hos 	3 	3 	1 	17 	1 	not 	RB
+Hos 	3 	3 	1 	18 	1 	play 	NN
+Hos 	3 	3 	1 	19 	1 	the 	DT
+Hos 	3 	3 	1 	20 	1 	harlot 	NN
+Hos 	3 	3 	1 	21 	0 	,
+Hos 	3 	3 	1 	22 	1 	and 	CC
+Hos 	3 	3 	1 	23 	1 	thou 	NN
+Hos 	3 	3 	1 	24 	1 	shalt 	NN
+Hos 	3 	3 	1 	25 	1 	not 	RB
+Hos 	3 	3 	1 	26 	1 	be 	VB
+Hos 	3 	3 	1 	27 	1 	for 	IN
+Hos 	3 	3 	1 	28 	1 	another 	DT
+Hos 	3 	3 	1 	29 	1 	man 	NN
+Hos 	3 	3 	1 	30 	0 	:
+Hos 	3 	3 	1 	31 	1 	so 	RB
+Hos 	3 	3 	1 	32 	1 	will 	MD
+Hos 	3 	3 	1 	33 	1 	I 	PRP
+Hos 	3 	3 	1 	34 	1 	also 	RB
+Hos 	3 	3 	1 	35 	1 	be 	VB
+Hos 	3 	3 	1 	36 	1 	for 	IN
+Hos 	3 	3 	1 	37 	1 	thee 	NN
+Hos 	3 	3 	1 	38 	0 	.
+Hos 	3 	4 	1 	1 	1 	For 	IN
+Hos 	3 	4 	1 	2 	1 	the 	DT
+Hos 	3 	4 	1 	3 	1 	children 	NNS
+Hos 	3 	4 	1 	4 	1 	of 	IN
+Hos 	3 	4 	1 	5 	1 	Israel 	NNP
+Hos 	3 	4 	1 	6 	1 	shall 	MD
+Hos 	3 	4 	1 	7 	1 	abide 	NN
+Hos 	3 	4 	1 	8 	1 	many 	JJ
+Hos 	3 	4 	1 	9 	1 	days 	NNS
+Hos 	3 	4 	1 	10 	1 	without 	IN
+Hos 	3 	4 	1 	11 	1 	a 	DT
+Hos 	3 	4 	1 	12 	1 	king 	NN
+Hos 	3 	4 	1 	13 	0 	,
+Hos 	3 	4 	1 	14 	1 	and 	CC
+Hos 	3 	4 	1 	15 	1 	without 	IN
+Hos 	3 	4 	1 	16 	1 	a 	DT
+Hos 	3 	4 	1 	17 	1 	prince 	NN
+Hos 	3 	4 	1 	18 	0 	,
+Hos 	3 	4 	1 	19 	1 	and 	CC
+Hos 	3 	4 	1 	20 	1 	without 	IN
+Hos 	3 	4 	1 	21 	1 	a 	DT
+Hos 	3 	4 	1 	22 	1 	sacrifice 	NN
+Hos 	3 	4 	1 	23 	0 	,
+Hos 	3 	4 	1 	24 	1 	and 	CC
+Hos 	3 	4 	1 	25 	1 	without 	IN
+Hos 	3 	4 	1 	26 	1 	an 	DT
+Hos 	3 	4 	1 	27 	1 	image 	NN
+Hos 	3 	4 	1 	28 	0 	,
+Hos 	3 	4 	1 	29 	1 	and 	CC
+Hos 	3 	4 	1 	30 	1 	without 	IN
+Hos 	3 	4 	1 	31 	1 	an 	DT
+Hos 	3 	4 	1 	32 	1 	ephod 	NN
+Hos 	3 	4 	1 	33 	0 	,
+Hos 	3 	4 	1 	34 	1 	and 	CC
+Hos 	3 	4 	1 	35 	1 	without 	IN
+Hos 	3 	4 	1 	36 	1 	teraphim 	NN
+Hos 	3 	4 	1 	37 	0 	:
+Hos 	3 	5 	1 	1 	1 	Afterward 	RB
+Hos 	3 	5 	1 	2 	1 	shall 	MD
+Hos 	3 	5 	1 	3 	1 	the 	DT
+Hos 	3 	5 	1 	4 	1 	children 	NNS
+Hos 	3 	5 	1 	5 	1 	of 	IN
+Hos 	3 	5 	1 	6 	1 	Israel 	NNP
+Hos 	3 	5 	1 	7 	1 	return 	NN
+Hos 	3 	5 	1 	8 	0 	,
+Hos 	3 	5 	1 	9 	1 	and 	CC
+Hos 	3 	5 	1 	10 	1 	seek 	NN
+Hos 	3 	5 	1 	11 	1 	the 	DT
+Hos 	3 	5 	1 	12 	1 	LORD 	NN
+Hos 	3 	5 	1 	13 	1 	their 	PRP$
+Hos 	3 	5 	1 	14 	1 	God 	NNP
+Hos 	3 	5 	1 	15 	0 	,
+Hos 	3 	5 	1 	16 	1 	and 	CC
+Hos 	3 	5 	1 	17 	1 	David 	NNP
+Hos 	3 	5 	1 	18 	1 	their 	PRP$
+Hos 	3 	5 	1 	19 	1 	king 	NN
+Hos 	3 	5 	1 	20 	0 	;
+Hos 	3 	5 	1 	21 	1 	and 	CC
+Hos 	3 	5 	1 	22 	1 	shall 	MD
+Hos 	3 	5 	1 	23 	1 	fear 	NN
+Hos 	3 	5 	1 	24 	1 	the 	DT
+Hos 	3 	5 	1 	25 	1 	LORD 	NN
+Hos 	3 	5 	1 	26 	1 	and 	CC
+Hos 	3 	5 	1 	27 	1 	his 	PRP$
+Hos 	3 	5 	1 	28 	1 	goodness 	NN
+Hos 	3 	5 	1 	29 	1 	in 	IN
+Hos 	3 	5 	1 	30 	1 	the 	DT
+Hos 	3 	5 	1 	31 	1 	latter 	NN
+Hos 	3 	5 	1 	32 	1 	days 	NNS
+Hos 	3 	5 	1 	33 	0 	.
+Hos 	4 	1 	1 	1 	1 	ear 	NN
+Hos 	4 	1 	1 	2 	1 	the 	DT
+Hos 	4 	1 	1 	3 	1 	word 	NN
+Hos 	4 	1 	1 	4 	1 	of 	IN
+Hos 	4 	1 	1 	5 	1 	the 	DT
+Hos 	4 	1 	1 	6 	1 	LORD 	NN
+Hos 	4 	1 	1 	7 	0 	,
+Hos 	4 	1 	1 	8 	1 	ye 	NN
+Hos 	4 	1 	1 	9 	1 	children 	NNS
+Hos 	4 	1 	1 	10 	1 	of 	IN
+Hos 	4 	1 	1 	11 	1 	Israel 	NNP
+Hos 	4 	1 	1 	12 	0 	:
+Hos 	4 	1 	1 	13 	1 	for 	IN
+Hos 	4 	1 	1 	14 	1 	the 	DT
+Hos 	4 	1 	1 	15 	1 	LORD 	NN
+Hos 	4 	1 	1 	16 	1 	hath 	NN
+Hos 	4 	1 	1 	17 	1 	a 	DT
+Hos 	4 	1 	1 	18 	1 	controversy 	NN
+Hos 	4 	1 	1 	19 	1 	with 	IN
+Hos 	4 	1 	1 	20 	1 	the 	DT
+Hos 	4 	1 	1 	21 	1 	inhabitants 	NNS
+Hos 	4 	1 	1 	22 	1 	of 	IN
+Hos 	4 	1 	1 	23 	1 	the 	DT
+Hos 	4 	1 	1 	24 	1 	land 	NN
+Hos 	4 	1 	1 	25 	0 	,
+Hos 	4 	1 	1 	26 	1 	because 	IN
+Hos 	4 	1 	1 	27 	1 	there 	RB
+Hos 	4 	1 	1 	28 	1 	is 	VBZ
+Hos 	4 	1 	1 	29 	1 	no 	DT
+Hos 	4 	1 	1 	30 	1 	truth 	NN
+Hos 	4 	1 	1 	31 	0 	,
+Hos 	4 	1 	1 	32 	1 	nor 	CC
+Hos 	4 	1 	1 	33 	1 	mercy 	NN
+Hos 	4 	1 	1 	34 	0 	,
+Hos 	4 	1 	1 	35 	1 	nor 	CC
+Hos 	4 	1 	1 	36 	1 	knowledge 	NN
+Hos 	4 	1 	1 	37 	1 	of 	IN
+Hos 	4 	1 	1 	38 	1 	God 	NNP
+Hos 	4 	1 	1 	39 	1 	in 	IN
+Hos 	4 	1 	1 	40 	1 	the 	DT
+Hos 	4 	1 	1 	41 	1 	land 	NN
+Hos 	4 	1 	1 	42 	0 	.
+Hos 	4 	2 	1 	1 	1 	By 	IN
+Hos 	4 	2 	1 	2 	1 	swearing 	VBG
+Hos 	4 	2 	1 	3 	0 	,
+Hos 	4 	2 	1 	4 	1 	and 	CC
+Hos 	4 	2 	1 	5 	1 	lying 	VBG
+Hos 	4 	2 	1 	6 	0 	,
+Hos 	4 	2 	1 	7 	1 	and 	CC
+Hos 	4 	2 	1 	8 	1 	killing 	VBG
+Hos 	4 	2 	1 	9 	0 	,
+Hos 	4 	2 	1 	10 	1 	and 	CC
+Hos 	4 	2 	1 	11 	1 	stealing 	VBG
+Hos 	4 	2 	1 	12 	0 	,
+Hos 	4 	2 	1 	13 	1 	and 	CC
+Hos 	4 	2 	1 	14 	1 	committing 	VBG
+Hos 	4 	2 	1 	15 	1 	adultery 	NN
+Hos 	4 	2 	1 	16 	0 	,
+Hos 	4 	2 	1 	17 	1 	they 	PRP
+Hos 	4 	2 	1 	18 	1 	break 	NN
+Hos 	4 	2 	1 	19 	1 	out 	IN
+Hos 	4 	2 	1 	20 	0 	,
+Hos 	4 	2 	1 	21 	1 	and 	CC
+Hos 	4 	2 	1 	22 	1 	blood 	NN
+Hos 	4 	2 	1 	23 	1 	toucheth 	NNS
+Hos 	4 	2 	1 	24 	1 	blood 	NN
+Hos 	4 	2 	1 	25 	0 	.
+Hos 	4 	3 	1 	1 	1 	Therefore 	RB
+Hos 	4 	3 	1 	2 	1 	shall 	MD
+Hos 	4 	3 	1 	3 	1 	the 	DT
+Hos 	4 	3 	1 	4 	1 	land 	NN
+Hos 	4 	3 	1 	5 	1 	mourn 	NN
+Hos 	4 	3 	1 	6 	0 	,
+Hos 	4 	3 	1 	7 	1 	and 	CC
+Hos 	4 	3 	1 	8 	1 	every 	DT
+Hos 	4 	3 	1 	9 	1 	one 	CD
+Hos 	4 	3 	1 	10 	1 	that 	IN
+Hos 	4 	3 	1 	11 	1 	dwelleth 	NN
+Hos 	4 	3 	1 	12 	1 	therein 	NN
+Hos 	4 	3 	1 	13 	1 	shall 	MD
+Hos 	4 	3 	1 	14 	1 	languish 	JJ
+Hos 	4 	3 	1 	15 	0 	,
+Hos 	4 	3 	1 	16 	1 	with 	IN
+Hos 	4 	3 	1 	17 	1 	the 	DT
+Hos 	4 	3 	1 	18 	1 	beasts 	NNS
+Hos 	4 	3 	1 	19 	1 	of 	IN
+Hos 	4 	3 	1 	20 	1 	the 	DT
+Hos 	4 	3 	1 	21 	1 	field 	NN
+Hos 	4 	3 	1 	22 	0 	,
+Hos 	4 	3 	1 	23 	1 	and 	CC
+Hos 	4 	3 	1 	24 	1 	with 	IN
+Hos 	4 	3 	1 	25 	1 	the 	DT
+Hos 	4 	3 	1 	26 	1 	fowls 	NN
+Hos 	4 	3 	1 	27 	1 	of 	IN
+Hos 	4 	3 	1 	28 	1 	heaven 	NN
+Hos 	4 	3 	1 	29 	0 	;
+Hos 	4 	3 	1 	30 	1 	yea 	NN
+Hos 	4 	3 	1 	31 	0 	,
+Hos 	4 	3 	1 	32 	1 	the 	DT
+Hos 	4 	3 	1 	33 	1 	fishes 	NNS
+Hos 	4 	3 	1 	34 	1 	of 	IN
+Hos 	4 	3 	1 	35 	1 	the 	DT
+Hos 	4 	3 	1 	36 	1 	sea 	NN
+Hos 	4 	3 	1 	37 	1 	also 	RB
+Hos 	4 	3 	1 	38 	1 	shall 	MD
+Hos 	4 	3 	1 	39 	1 	be 	VB
+Hos 	4 	3 	1 	40 	1 	taken 	VBN
+Hos 	4 	3 	1 	41 	1 	away 	RB
+Hos 	4 	3 	1 	42 	0 	.
+Hos 	4 	4 	1 	1 	1 	Yet 	RB
+Hos 	4 	4 	1 	2 	1 	let 	VB
+Hos 	4 	4 	1 	3 	1 	no 	DT
+Hos 	4 	4 	1 	4 	1 	man 	NN
+Hos 	4 	4 	1 	5 	1 	strive 	NN
+Hos 	4 	4 	1 	6 	0 	,
+Hos 	4 	4 	1 	7 	1 	nor 	CC
+Hos 	4 	4 	1 	8 	1 	reprove 	VB
+Hos 	4 	4 	1 	9 	1 	another 	DT
+Hos 	4 	4 	1 	10 	0 	:
+Hos 	4 	4 	1 	11 	1 	for 	IN
+Hos 	4 	4 	1 	12 	1 	thy 	NN
+Hos 	4 	4 	1 	13 	1 	people 	NNS
+Hos 	4 	4 	1 	14 	1 	are 	VBP
+Hos 	4 	4 	1 	15 	1 	as 	IN
+Hos 	4 	4 	1 	16 	1 	they 	PRP
+Hos 	4 	4 	1 	17 	1 	that 	IN
+Hos 	4 	4 	1 	18 	1 	strive 	NN
+Hos 	4 	4 	1 	19 	1 	with 	IN
+Hos 	4 	4 	1 	20 	1 	the 	DT
+Hos 	4 	4 	1 	21 	1 	priest 	NN
+Hos 	4 	4 	1 	22 	0 	.
+Hos 	4 	5 	1 	1 	1 	Therefore 	RB
+Hos 	4 	5 	1 	2 	1 	shalt 	NN
+Hos 	4 	5 	1 	3 	1 	thou 	NN
+Hos 	4 	5 	1 	4 	1 	fall 	NN
+Hos 	4 	5 	1 	5 	1 	in 	IN
+Hos 	4 	5 	1 	6 	1 	the 	DT
+Hos 	4 	5 	1 	7 	1 	day 	NN
+Hos 	4 	5 	1 	8 	0 	,
+Hos 	4 	5 	1 	9 	1 	and 	CC
+Hos 	4 	5 	1 	10 	1 	the 	DT
+Hos 	4 	5 	1 	11 	1 	prophet 	NN
+Hos 	4 	5 	1 	12 	1 	also 	RB
+Hos 	4 	5 	1 	13 	1 	shall 	MD
+Hos 	4 	5 	1 	14 	1 	fall 	NN
+Hos 	4 	5 	1 	15 	1 	with 	IN
+Hos 	4 	5 	1 	16 	1 	thee 	NN
+Hos 	4 	5 	1 	17 	1 	in 	IN
+Hos 	4 	5 	1 	18 	1 	the 	DT
+Hos 	4 	5 	1 	19 	1 	night 	NN
+Hos 	4 	5 	1 	20 	0 	,
+Hos 	4 	5 	1 	21 	1 	and 	CC
+Hos 	4 	5 	1 	22 	1 	I 	PRP
+Hos 	4 	5 	1 	23 	1 	will 	MD
+Hos 	4 	5 	1 	24 	1 	destroy 	NN
+Hos 	4 	5 	1 	25 	1 	thy 	NN
+Hos 	4 	5 	1 	26 	1 	mother 	NN
+Hos 	4 	5 	1 	27 	0 	.
+Hos 	4 	6 	1 	1 	1 	My 	PRP$
+Hos 	4 	6 	1 	2 	1 	people 	NNS
+Hos 	4 	6 	1 	3 	1 	are 	VBP
+Hos 	4 	6 	1 	4 	1 	destroyed 	NN
+Hos 	4 	6 	1 	5 	1 	for 	IN
+Hos 	4 	6 	1 	6 	1 	lack 	NN
+Hos 	4 	6 	1 	7 	1 	of 	IN
+Hos 	4 	6 	1 	8 	1 	knowledge 	NN
+Hos 	4 	6 	1 	9 	0 	:
+Hos 	4 	6 	1 	10 	1 	because 	IN
+Hos 	4 	6 	1 	11 	1 	thou 	NN
+Hos 	4 	6 	1 	12 	1 	hast 	NN
+Hos 	4 	6 	1 	13 	1 	rejected 	VBN
+Hos 	4 	6 	1 	14 	1 	knowledge 	NN
+Hos 	4 	6 	1 	15 	0 	,
+Hos 	4 	6 	1 	16 	1 	I 	PRP
+Hos 	4 	6 	1 	17 	1 	will 	MD
+Hos 	4 	6 	1 	18 	1 	also 	RB
+Hos 	4 	6 	1 	19 	1 	reject 	NN
+Hos 	4 	6 	1 	20 	1 	thee 	NN
+Hos 	4 	6 	1 	21 	0 	,
+Hos 	4 	6 	1 	22 	1 	that 	IN
+Hos 	4 	6 	1 	23 	1 	thou 	NN
+Hos 	4 	6 	1 	24 	1 	shalt 	NN
+Hos 	4 	6 	1 	25 	1 	be 	VB
+Hos 	4 	6 	1 	26 	1 	no 	DT
+Hos 	4 	6 	1 	27 	1 	priest 	NN
+Hos 	4 	6 	1 	28 	1 	to 	TO
+Hos 	4 	6 	1 	29 	1 	me 	PRP
+Hos 	4 	6 	1 	30 	0 	:
+Hos 	4 	6 	1 	31 	1 	seeing 	VBG
+Hos 	4 	6 	1 	32 	1 	thou 	NN
+Hos 	4 	6 	1 	33 	1 	hast 	NN
+Hos 	4 	6 	1 	34 	1 	forgotten 	NNS
+Hos 	4 	6 	1 	35 	1 	the 	DT
+Hos 	4 	6 	1 	36 	1 	law 	NN
+Hos 	4 	6 	1 	37 	1 	of 	IN
+Hos 	4 	6 	1 	38 	1 	thy 	NN
+Hos 	4 	6 	1 	39 	1 	God 	NNP
+Hos 	4 	6 	1 	40 	0 	,
+Hos 	4 	6 	1 	41 	1 	I 	PRP
+Hos 	4 	6 	1 	42 	1 	will 	MD
+Hos 	4 	6 	1 	43 	1 	also 	RB
+Hos 	4 	6 	1 	44 	1 	forget 	NN
+Hos 	4 	6 	1 	45 	1 	thy 	NN
+Hos 	4 	6 	1 	46 	1 	children 	NNS
+Hos 	4 	6 	1 	47 	0 	.
+Hos 	4 	7 	1 	1 	1 	As 	IN
+Hos 	4 	7 	1 	2 	1 	they 	PRP
+Hos 	4 	7 	1 	3 	1 	were 	VBD
+Hos 	4 	7 	1 	4 	1 	increased 	VBN
+Hos 	4 	7 	1 	5 	0 	,
+Hos 	4 	7 	1 	6 	1 	so 	RB
+Hos 	4 	7 	1 	7 	1 	they 	PRP
+Hos 	4 	7 	1 	8 	1 	sinned 	VBN
+Hos 	4 	7 	1 	9 	1 	against 	IN
+Hos 	4 	7 	1 	10 	1 	me 	PRP
+Hos 	4 	7 	1 	11 	0 	:
+Hos 	4 	7 	1 	12 	1 	therefore 	RB
+Hos 	4 	7 	1 	13 	1 	will 	MD
+Hos 	4 	7 	1 	14 	1 	I 	PRP
+Hos 	4 	7 	1 	15 	1 	change 	NN
+Hos 	4 	7 	1 	16 	1 	their 	PRP$
+Hos 	4 	7 	1 	17 	1 	glory 	NN
+Hos 	4 	7 	1 	18 	1 	into 	IN
+Hos 	4 	7 	1 	19 	1 	shame 	NN
+Hos 	4 	7 	1 	20 	0 	.
+Hos 	4 	8 	1 	1 	1 	They 	PRP
+Hos 	4 	8 	1 	2 	1 	eat 	NN
+Hos 	4 	8 	1 	3 	1 	up 	RB
+Hos 	4 	8 	1 	4 	1 	the 	DT
+Hos 	4 	8 	1 	5 	1 	sin 	NN
+Hos 	4 	8 	1 	6 	1 	of 	IN
+Hos 	4 	8 	1 	7 	1 	my 	PRP$
+Hos 	4 	8 	1 	8 	1 	people 	NNS
+Hos 	4 	8 	1 	9 	0 	,
+Hos 	4 	8 	1 	10 	1 	and 	CC
+Hos 	4 	8 	1 	11 	1 	they 	PRP
+Hos 	4 	8 	1 	12 	1 	set 	NN
+Hos 	4 	8 	1 	13 	1 	their 	PRP$
+Hos 	4 	8 	1 	14 	1 	heart 	NN
+Hos 	4 	8 	1 	15 	1 	on 	IN
+Hos 	4 	8 	1 	16 	1 	their 	PRP$
+Hos 	4 	8 	1 	17 	1 	iniquity 	NN
+Hos 	4 	8 	1 	18 	0 	.
+Hos 	4 	9 	1 	1 	1 	And 	CC
+Hos 	4 	9 	1 	2 	1 	there 	RB
+Hos 	4 	9 	1 	3 	1 	shall 	MD
+Hos 	4 	9 	1 	4 	1 	be 	VB
+Hos 	4 	9 	1 	5 	0 	,
+Hos 	4 	9 	1 	6 	1 	like 	IN
+Hos 	4 	9 	1 	7 	1 	people 	NNS
+Hos 	4 	9 	1 	8 	0 	,
+Hos 	4 	9 	1 	9 	1 	like 	IN
+Hos 	4 	9 	1 	10 	1 	priest 	NN
+Hos 	4 	9 	1 	11 	0 	:
+Hos 	4 	9 	1 	12 	1 	and 	CC
+Hos 	4 	9 	1 	13 	1 	I 	PRP
+Hos 	4 	9 	1 	14 	1 	will 	MD
+Hos 	4 	9 	1 	15 	1 	punish 	NN
+Hos 	4 	9 	1 	16 	1 	them 	PRP
+Hos 	4 	9 	1 	17 	1 	for 	IN
+Hos 	4 	9 	1 	18 	1 	their 	PRP$
+Hos 	4 	9 	1 	19 	1 	ways 	NNS
+Hos 	4 	9 	1 	20 	0 	,
+Hos 	4 	9 	1 	21 	1 	and 	CC
+Hos 	4 	9 	1 	22 	1 	reward 	NN
+Hos 	4 	9 	1 	23 	1 	them 	PRP
+Hos 	4 	9 	1 	24 	1 	their 	PRP$
+Hos 	4 	9 	1 	25 	1 	doings 	NNS
+Hos 	4 	9 	1 	26 	0 	.
+Hos 	4 	10 	1 	1 	1 	For 	IN
+Hos 	4 	10 	1 	2 	1 	they 	PRP
+Hos 	4 	10 	1 	3 	1 	shall 	MD
+Hos 	4 	10 	1 	4 	1 	eat 	NN
+Hos 	4 	10 	1 	5 	0 	,
+Hos 	4 	10 	1 	6 	1 	and 	CC
+Hos 	4 	10 	1 	7 	1 	not 	RB
+Hos 	4 	10 	1 	8 	1 	have 	VB
+Hos 	4 	10 	1 	9 	1 	enough 	RB
+Hos 	4 	10 	1 	10 	0 	:
+Hos 	4 	10 	1 	11 	1 	they 	PRP
+Hos 	4 	10 	1 	12 	1 	shall 	MD
+Hos 	4 	10 	1 	13 	1 	commit 	NN
+Hos 	4 	10 	1 	14 	1 	whoredom 	NN
+Hos 	4 	10 	1 	15 	0 	,
+Hos 	4 	10 	1 	16 	1 	and 	CC
+Hos 	4 	10 	1 	17 	1 	shall 	MD
+Hos 	4 	10 	1 	18 	1 	not 	RB
+Hos 	4 	10 	1 	19 	1 	increase 	NN
+Hos 	4 	10 	1 	20 	0 	:
+Hos 	4 	10 	1 	21 	1 	because 	IN
+Hos 	4 	10 	1 	22 	1 	they 	PRP
+Hos 	4 	10 	1 	23 	1 	have 	VB
+Hos 	4 	10 	1 	24 	1 	left 	NN
+Hos 	4 	10 	1 	25 	1 	off 	IN
+Hos 	4 	10 	1 	26 	1 	to 	TO
+Hos 	4 	10 	1 	27 	1 	take 	VB
+Hos 	4 	10 	1 	28 	1 	heed 	NN
+Hos 	4 	10 	1 	29 	1 	to 	TO
+Hos 	4 	10 	1 	30 	1 	the 	DT
+Hos 	4 	10 	1 	31 	1 	LORD 	NN
+Hos 	4 	10 	1 	32 	0 	.
+Hos 	4 	11 	1 	1 	1 	Whoredom 	NN
+Hos 	4 	11 	1 	2 	1 	and 	CC
+Hos 	4 	11 	1 	3 	1 	wine 	NN
+Hos 	4 	11 	1 	4 	1 	and 	CC
+Hos 	4 	11 	1 	5 	1 	new 	JJ
+Hos 	4 	11 	1 	6 	1 	wine 	NN
+Hos 	4 	11 	1 	7 	1 	take 	VB
+Hos 	4 	11 	1 	8 	1 	away 	RB
+Hos 	4 	11 	1 	9 	1 	the 	DT
+Hos 	4 	11 	1 	10 	1 	heart 	NN
+Hos 	4 	11 	1 	11 	0 	.
+Hos 	4 	12 	1 	1 	1 	My 	PRP$
+Hos 	4 	12 	1 	2 	1 	people 	NNS
+Hos 	4 	12 	1 	3 	1 	ask 	NN
+Hos 	4 	12 	1 	4 	1 	counsel 	NN
+Hos 	4 	12 	1 	5 	1 	at 	IN
+Hos 	4 	12 	1 	6 	1 	their 	PRP$
+Hos 	4 	12 	1 	7 	1 	stocks 	NNS
+Hos 	4 	12 	1 	8 	0 	,
+Hos 	4 	12 	1 	9 	1 	and 	CC
+Hos 	4 	12 	1 	10 	1 	their 	PRP$
+Hos 	4 	12 	1 	11 	1 	staff 	NN
+Hos 	4 	12 	1 	12 	1 	declareth 	NN
+Hos 	4 	12 	1 	13 	1 	unto 	NN
+Hos 	4 	12 	1 	14 	1 	them 	PRP
+Hos 	4 	12 	1 	15 	0 	:
+Hos 	4 	12 	1 	16 	1 	for 	IN
+Hos 	4 	12 	1 	17 	1 	the 	DT
+Hos 	4 	12 	1 	18 	1 	spirit 	NN
+Hos 	4 	12 	1 	19 	1 	of 	IN
+Hos 	4 	12 	1 	20 	1 	whoredoms 	NNS
+Hos 	4 	12 	1 	21 	1 	hath 	NN
+Hos 	4 	12 	1 	22 	1 	caused 	VBN
+Hos 	4 	12 	1 	23 	1 	them 	PRP
+Hos 	4 	12 	1 	24 	1 	to 	TO
+Hos 	4 	12 	1 	25 	1 	err 	NN
+Hos 	4 	12 	1 	26 	0 	,
+Hos 	4 	12 	1 	27 	1 	and 	CC
+Hos 	4 	12 	1 	28 	1 	they 	PRP
+Hos 	4 	12 	1 	29 	1 	have 	VB
+Hos 	4 	12 	1 	30 	1 	gone 	VBN
+Hos 	4 	12 	1 	31 	1 	a 	DT
+Hos 	4 	12 	1 	32 	1 	whoring 	VBG
+Hos 	4 	12 	1 	33 	1 	from 	IN
+Hos 	4 	12 	1 	34 	1 	under 	IN
+Hos 	4 	12 	1 	35 	1 	their 	PRP$
+Hos 	4 	12 	1 	36 	1 	God 	NNP
+Hos 	4 	12 	1 	37 	0 	.
+Hos 	4 	13 	1 	1 	1 	They 	PRP
+Hos 	4 	13 	1 	2 	1 	sacrifice 	NN
+Hos 	4 	13 	1 	3 	1 	upon 	IN
+Hos 	4 	13 	1 	4 	1 	the 	DT
+Hos 	4 	13 	1 	5 	1 	tops 	NNS
+Hos 	4 	13 	1 	6 	1 	of 	IN
+Hos 	4 	13 	1 	7 	1 	the 	DT
+Hos 	4 	13 	1 	8 	1 	mountains 	NNS
+Hos 	4 	13 	1 	9 	0 	,
+Hos 	4 	13 	1 	10 	1 	and 	CC
+Hos 	4 	13 	1 	11 	1 	burn 	NN
+Hos 	4 	13 	1 	12 	1 	incense 	NN
+Hos 	4 	13 	1 	13 	1 	upon 	IN
+Hos 	4 	13 	1 	14 	1 	the 	DT
+Hos 	4 	13 	1 	15 	1 	hills 	NNS
+Hos 	4 	13 	1 	16 	0 	,
+Hos 	4 	13 	1 	17 	1 	under 	IN
+Hos 	4 	13 	1 	18 	1 	oaks 	NNS
+Hos 	4 	13 	1 	19 	1 	and 	CC
+Hos 	4 	13 	1 	20 	1 	poplars 	NNS
+Hos 	4 	13 	1 	21 	1 	and 	CC
+Hos 	4 	13 	1 	22 	1 	elms 	NNS
+Hos 	4 	13 	1 	23 	0 	,
+Hos 	4 	13 	1 	24 	1 	because 	IN
+Hos 	4 	13 	1 	25 	1 	the 	DT
+Hos 	4 	13 	1 	26 	1 	shadow 	NN
+Hos 	4 	13 	1 	27 	1 	thereof 	NN
+Hos 	4 	13 	1 	28 	1 	is 	VBZ
+Hos 	4 	13 	1 	29 	1 	good 	JJ
+Hos 	4 	13 	1 	30 	0 	:
+Hos 	4 	13 	1 	31 	1 	therefore 	RB
+Hos 	4 	13 	1 	32 	1 	your 	PRP$
+Hos 	4 	13 	1 	33 	1 	daughters 	NNS
+Hos 	4 	13 	1 	34 	1 	shall 	MD
+Hos 	4 	13 	1 	35 	1 	commit 	NN
+Hos 	4 	13 	1 	36 	1 	whoredom 	NN
+Hos 	4 	13 	1 	37 	0 	,
+Hos 	4 	13 	1 	38 	1 	and 	CC
+Hos 	4 	13 	1 	39 	1 	your 	PRP$
+Hos 	4 	13 	1 	40 	1 	spouses 	NNS
+Hos 	4 	13 	1 	41 	1 	shall 	MD
+Hos 	4 	13 	1 	42 	1 	commit 	NN
+Hos 	4 	13 	1 	43 	1 	adultery 	NN
+Hos 	4 	13 	1 	44 	0 	.
+Hos 	4 	14 	1 	1 	1 	I 	PRP
+Hos 	4 	14 	1 	2 	1 	will 	MD
+Hos 	4 	14 	1 	3 	1 	not 	RB
+Hos 	4 	14 	1 	4 	1 	punish 	NN
+Hos 	4 	14 	1 	5 	1 	your 	PRP$
+Hos 	4 	14 	1 	6 	1 	daughters 	NNS
+Hos 	4 	14 	1 	7 	1 	when 	WRB
+Hos 	4 	14 	1 	8 	1 	they 	PRP
+Hos 	4 	14 	1 	9 	1 	commit 	NN
+Hos 	4 	14 	1 	10 	1 	whoredom 	NN
+Hos 	4 	14 	1 	11 	0 	,
+Hos 	4 	14 	1 	12 	1 	nor 	CC
+Hos 	4 	14 	1 	13 	1 	your 	PRP$
+Hos 	4 	14 	1 	14 	1 	spouses 	NNS
+Hos 	4 	14 	1 	15 	1 	when 	WRB
+Hos 	4 	14 	1 	16 	1 	they 	PRP
+Hos 	4 	14 	1 	17 	1 	commit 	NN
+Hos 	4 	14 	1 	18 	1 	adultery 	NN
+Hos 	4 	14 	1 	19 	0 	:
+Hos 	4 	14 	1 	20 	1 	for 	IN
+Hos 	4 	14 	1 	21 	1 	themselves 	PRP
+Hos 	4 	14 	1 	22 	1 	are 	VBP
+Hos 	4 	14 	1 	23 	1 	separated 	VBN
+Hos 	4 	14 	1 	24 	1 	with 	IN
+Hos 	4 	14 	1 	25 	1 	whores 	NNS
+Hos 	4 	14 	1 	26 	0 	,
+Hos 	4 	14 	1 	27 	1 	and 	CC
+Hos 	4 	14 	1 	28 	1 	they 	PRP
+Hos 	4 	14 	1 	29 	1 	sacrifice 	NN
+Hos 	4 	14 	1 	30 	1 	with 	IN
+Hos 	4 	14 	1 	31 	1 	harlots 	NNS
+Hos 	4 	14 	1 	32 	0 	:
+Hos 	4 	14 	1 	33 	1 	therefore 	RB
+Hos 	4 	14 	1 	34 	1 	the 	DT
+Hos 	4 	14 	1 	35 	1 	people 	NNS
+Hos 	4 	14 	1 	36 	1 	that 	IN
+Hos 	4 	14 	1 	37 	1 	doth 	NN
+Hos 	4 	14 	1 	38 	1 	not 	RB
+Hos 	4 	14 	1 	39 	1 	understand 	NN
+Hos 	4 	14 	1 	40 	1 	shall 	MD
+Hos 	4 	14 	1 	41 	1 	fall 	NN
+Hos 	4 	14 	1 	42 	0 	.
+Hos 	4 	15 	1 	1 	1 	Though 	IN
+Hos 	4 	15 	1 	2 	1 	thou 	NN
+Hos 	4 	15 	1 	3 	0 	,
+Hos 	4 	15 	1 	4 	1 	Israel 	NNP
+Hos 	4 	15 	1 	5 	0 	,
+Hos 	4 	15 	1 	6 	1 	play 	NN
+Hos 	4 	15 	1 	7 	1 	the 	DT
+Hos 	4 	15 	1 	8 	1 	harlot 	NN
+Hos 	4 	15 	1 	9 	0 	,
+Hos 	4 	15 	1 	10 	1 	yet 	RB
+Hos 	4 	15 	1 	11 	1 	let 	VB
+Hos 	4 	15 	1 	12 	1 	not 	RB
+Hos 	4 	15 	1 	13 	1 	Judah 	NN
+Hos 	4 	15 	1 	14 	1 	offend 	NN
+Hos 	4 	15 	1 	15 	0 	;
+Hos 	4 	15 	1 	16 	1 	and 	CC
+Hos 	4 	15 	1 	17 	1 	come 	VB
+Hos 	4 	15 	1 	18 	1 	not 	RB
+Hos 	4 	15 	1 	19 	1 	ye 	NN
+Hos 	4 	15 	1 	20 	1 	unto 	NN
+Hos 	4 	15 	1 	21 	1 	Gilgal 	NNP
+Hos 	4 	15 	1 	22 	0 	,
+Hos 	4 	15 	1 	23 	1 	neither 	DT
+Hos 	4 	15 	1 	24 	1 	go 	VB
+Hos 	4 	15 	1 	25 	1 	ye 	NN
+Hos 	4 	15 	1 	26 	1 	up 	RB
+Hos 	4 	15 	1 	27 	1 	to 	TO
+Hos 	4 	15 	1 	28 	1 	Bethaven 	NNP
+Hos 	4 	15 	1 	29 	0 	,
+Hos 	4 	15 	1 	30 	1 	nor 	CC
+Hos 	4 	15 	1 	31 	1 	swear 	NN
+Hos 	4 	15 	1 	32 	0 	,
+Hos 	4 	15 	1 	33 	1 	The 	DT
+Hos 	4 	15 	1 	34 	1 	LORD 	NN
+Hos 	4 	15 	1 	35 	1 	liveth 	NN
+Hos 	4 	15 	1 	36 	0 	.
+Hos 	4 	16 	1 	1 	1 	For 	IN
+Hos 	4 	16 	1 	2 	1 	Israel 	NNP
+Hos 	4 	16 	1 	3 	1 	slideth 	NN
+Hos 	4 	16 	1 	4 	1 	back 	RB
+Hos 	4 	16 	1 	5 	1 	as 	IN
+Hos 	4 	16 	1 	6 	1 	a 	DT
+Hos 	4 	16 	1 	7 	1 	backsliding 	NN
+Hos 	4 	16 	1 	8 	1 	heifer 	NN
+Hos 	4 	16 	1 	9 	0 	:
+Hos 	4 	16 	1 	10 	1 	now 	RB
+Hos 	4 	16 	1 	11 	1 	the 	DT
+Hos 	4 	16 	1 	12 	1 	LORD 	NN
+Hos 	4 	16 	1 	13 	1 	will 	MD
+Hos 	4 	16 	1 	14 	1 	feed 	NN
+Hos 	4 	16 	1 	15 	1 	them 	PRP
+Hos 	4 	16 	1 	16 	1 	as 	IN
+Hos 	4 	16 	1 	17 	1 	a 	DT
+Hos 	4 	16 	1 	18 	1 	lamb 	NN
+Hos 	4 	16 	1 	19 	1 	in 	IN
+Hos 	4 	16 	1 	20 	1 	a 	DT
+Hos 	4 	16 	1 	21 	1 	large 	JJ
+Hos 	4 	16 	1 	22 	1 	place 	NN
+Hos 	4 	16 	1 	23 	0 	.
+Hos 	4 	17 	1 	1 	1 	Ephraim 	NN
+Hos 	4 	17 	1 	2 	1 	is 	VBZ
+Hos 	4 	17 	1 	3 	1 	joined 	VBD
+Hos 	4 	17 	1 	4 	1 	to 	TO
+Hos 	4 	17 	1 	5 	1 	idols 	NNS
+Hos 	4 	17 	1 	6 	0 	:
+Hos 	4 	17 	1 	7 	1 	let 	VB
+Hos 	4 	17 	1 	8 	1 	him 	PRP
+Hos 	4 	17 	1 	9 	1 	alone 	RB
+Hos 	4 	17 	1 	10 	0 	.
+Hos 	4 	18 	1 	1 	1 	Their 	PRP$
+Hos 	4 	18 	1 	2 	1 	drink 	NN
+Hos 	4 	18 	1 	3 	1 	is 	VBZ
+Hos 	4 	18 	1 	4 	1 	sour 	NN
+Hos 	4 	18 	1 	5 	0 	:
+Hos 	4 	18 	1 	6 	1 	they 	PRP
+Hos 	4 	18 	1 	7 	1 	have 	VB
+Hos 	4 	18 	1 	8 	1 	committed 	VBN
+Hos 	4 	18 	1 	9 	1 	whoredom 	NN
+Hos 	4 	18 	1 	10 	1 	continually 	RB
+Hos 	4 	18 	1 	11 	0 	:
+Hos 	4 	18 	1 	12 	1 	her 	PRP$
+Hos 	4 	18 	1 	13 	1 	rulers 	NNS
+Hos 	4 	18 	1 	14 	1 	with 	IN
+Hos 	4 	18 	1 	15 	1 	shame 	NN
+Hos 	4 	18 	1 	16 	1 	do 	VB
+Hos 	4 	18 	1 	17 	1 	love 	NN
+Hos 	4 	18 	1 	18 	0 	,
+Hos 	4 	18 	1 	19 	1 	Give 	VB
+Hos 	4 	18 	1 	20 	1 	ye 	NN
+Hos 	4 	18 	1 	21 	0 	.
+Hos 	4 	19 	1 	1 	1 	The 	DT
+Hos 	4 	19 	1 	2 	1 	wind 	NN
+Hos 	4 	19 	1 	3 	1 	hath 	NN
+Hos 	4 	19 	1 	4 	1 	bound 	NN
+Hos 	4 	19 	1 	5 	1 	her 	PRP$
+Hos 	4 	19 	1 	6 	1 	up 	RB
+Hos 	4 	19 	1 	7 	1 	in 	IN
+Hos 	4 	19 	1 	8 	1 	her 	PRP$
+Hos 	4 	19 	1 	9 	1 	wings 	NNS
+Hos 	4 	19 	1 	10 	0 	,
+Hos 	4 	19 	1 	11 	1 	and 	CC
+Hos 	4 	19 	1 	12 	1 	they 	PRP
+Hos 	4 	19 	1 	13 	1 	shall 	MD
+Hos 	4 	19 	1 	14 	1 	be 	VB
+Hos 	4 	19 	1 	15 	1 	ashamed 	VBN
+Hos 	4 	19 	1 	16 	1 	because 	IN
+Hos 	4 	19 	1 	17 	1 	of 	IN
+Hos 	4 	19 	1 	18 	1 	their 	PRP$
+Hos 	4 	19 	1 	19 	1 	sacrifices 	NNS
+Hos 	4 	19 	1 	20 	0 	.
+Hos 	5 	1 	1 	1 	1 	ear 	NN
+Hos 	5 	1 	1 	2 	1 	ye 	NN
+Hos 	5 	1 	1 	3 	1 	this 	DT
+Hos 	5 	1 	1 	4 	0 	,
+Hos 	5 	1 	1 	5 	1 	O 	NN
+Hos 	5 	1 	1 	6 	1 	priests 	NNS
+Hos 	5 	1 	1 	7 	0 	;
+Hos 	5 	1 	1 	8 	1 	and 	CC
+Hos 	5 	1 	1 	9 	1 	hearken 	NN
+Hos 	5 	1 	1 	10 	0 	,
+Hos 	5 	1 	1 	11 	1 	ye 	NN
+Hos 	5 	1 	1 	12 	1 	house 	NN
+Hos 	5 	1 	1 	13 	1 	of 	IN
+Hos 	5 	1 	1 	14 	1 	Israel 	NNP
+Hos 	5 	1 	1 	15 	0 	;
+Hos 	5 	1 	1 	16 	1 	and 	CC
+Hos 	5 	1 	1 	17 	1 	give 	VB
+Hos 	5 	1 	1 	18 	1 	ye 	NN
+Hos 	5 	1 	1 	19 	1 	ear 	NN
+Hos 	5 	1 	1 	20 	0 	,
+Hos 	5 	1 	1 	21 	1 	O 	NN
+Hos 	5 	1 	1 	22 	1 	house 	NN
+Hos 	5 	1 	1 	23 	1 	of 	IN
+Hos 	5 	1 	1 	24 	1 	the 	DT
+Hos 	5 	1 	1 	25 	1 	king 	NN
+Hos 	5 	1 	1 	26 	0 	;
+Hos 	5 	1 	1 	27 	1 	for 	IN
+Hos 	5 	1 	1 	28 	1 	judgment 	NN
+Hos 	5 	1 	1 	29 	1 	is 	VBZ
+Hos 	5 	1 	1 	30 	1 	toward 	IN
+Hos 	5 	1 	1 	31 	1 	you 	PRP
+Hos 	5 	1 	1 	32 	0 	,
+Hos 	5 	1 	1 	33 	1 	because 	IN
+Hos 	5 	1 	1 	34 	1 	ye 	NN
+Hos 	5 	1 	1 	35 	1 	have 	VB
+Hos 	5 	1 	1 	36 	1 	been 	VBN
+Hos 	5 	1 	1 	37 	1 	a 	DT
+Hos 	5 	1 	1 	38 	1 	snare 	NN
+Hos 	5 	1 	1 	39 	1 	on 	IN
+Hos 	5 	1 	1 	40 	1 	Mizpah 	NN
+Hos 	5 	1 	1 	41 	0 	,
+Hos 	5 	1 	1 	42 	1 	and 	CC
+Hos 	5 	1 	1 	43 	1 	a 	DT
+Hos 	5 	1 	1 	44 	1 	net 	NN
+Hos 	5 	1 	1 	45 	1 	spread 	NN
+Hos 	5 	1 	1 	46 	1 	upon 	IN
+Hos 	5 	1 	1 	47 	1 	Tabor 	NN
+Hos 	5 	1 	1 	48 	0 	.
+Hos 	5 	2 	1 	1 	1 	And 	CC
+Hos 	5 	2 	1 	2 	1 	the 	DT
+Hos 	5 	2 	1 	3 	1 	revolters 	NNS
+Hos 	5 	2 	1 	4 	1 	are 	VBP
+Hos 	5 	2 	1 	5 	1 	profound 	NN
+Hos 	5 	2 	1 	6 	1 	to 	TO
+Hos 	5 	2 	1 	7 	1 	make 	VB
+Hos 	5 	2 	1 	8 	1 	slaughter 	NN
+Hos 	5 	2 	1 	9 	0 	,
+Hos 	5 	2 	1 	10 	1 	though 	IN
+Hos 	5 	2 	1 	11 	1 	I 	PRP
+Hos 	5 	2 	1 	12 	1 	have 	VB
+Hos 	5 	2 	1 	13 	1 	been 	VBN
+Hos 	5 	2 	1 	14 	1 	a 	DT
+Hos 	5 	2 	1 	15 	1 	rebuker 	NN
+Hos 	5 	2 	1 	16 	1 	of 	IN
+Hos 	5 	2 	1 	17 	1 	them 	PRP
+Hos 	5 	2 	1 	18 	1 	all 	DT
+Hos 	5 	2 	1 	19 	0 	.
+Hos 	5 	3 	1 	1 	1 	I 	PRP
+Hos 	5 	3 	1 	2 	1 	know 	VB
+Hos 	5 	3 	1 	3 	1 	Ephraim 	NN
+Hos 	5 	3 	1 	4 	0 	,
+Hos 	5 	3 	1 	5 	1 	and 	CC
+Hos 	5 	3 	1 	6 	1 	Israel 	NNP
+Hos 	5 	3 	1 	7 	1 	is 	VBZ
+Hos 	5 	3 	1 	8 	1 	not 	RB
+Hos 	5 	3 	1 	9 	1 	hid 	NN
+Hos 	5 	3 	1 	10 	1 	from 	IN
+Hos 	5 	3 	1 	11 	1 	me 	PRP
+Hos 	5 	3 	1 	12 	0 	:
+Hos 	5 	3 	1 	13 	1 	for 	IN
+Hos 	5 	3 	1 	14 	1 	now 	RB
+Hos 	5 	3 	1 	15 	0 	,
+Hos 	5 	3 	1 	16 	1 	O 	NN
+Hos 	5 	3 	1 	17 	1 	Ephraim 	NN
+Hos 	5 	3 	1 	18 	0 	,
+Hos 	5 	3 	1 	19 	1 	thou 	NN
+Hos 	5 	3 	1 	20 	1 	committest 	NN
+Hos 	5 	3 	1 	21 	1 	whoredom 	NN
+Hos 	5 	3 	1 	22 	0 	,
+Hos 	5 	3 	1 	23 	1 	and 	CC
+Hos 	5 	3 	1 	24 	1 	Israel 	NNP
+Hos 	5 	3 	1 	25 	1 	is 	VBZ
+Hos 	5 	3 	1 	26 	1 	defiled 	VBN
+Hos 	5 	3 	1 	27 	0 	.
+Hos 	5 	4 	1 	1 	1 	They 	PRP
+Hos 	5 	4 	1 	2 	1 	will 	MD
+Hos 	5 	4 	1 	3 	1 	not 	RB
+Hos 	5 	4 	1 	4 	1 	frame 	NN
+Hos 	5 	4 	1 	5 	1 	their 	PRP$
+Hos 	5 	4 	1 	6 	1 	doings 	NNS
+Hos 	5 	4 	1 	7 	1 	to 	TO
+Hos 	5 	4 	1 	8 	1 	turn 	NN
+Hos 	5 	4 	1 	9 	1 	unto 	NN
+Hos 	5 	4 	1 	10 	1 	their 	PRP$
+Hos 	5 	4 	1 	11 	1 	God 	NNP
+Hos 	5 	4 	1 	12 	0 	:
+Hos 	5 	4 	1 	13 	1 	for 	IN
+Hos 	5 	4 	1 	14 	1 	the 	DT
+Hos 	5 	4 	1 	15 	1 	spirit 	NN
+Hos 	5 	4 	1 	16 	1 	of 	IN
+Hos 	5 	4 	1 	17 	1 	whoredoms 	NNS
+Hos 	5 	4 	1 	18 	1 	is 	VBZ
+Hos 	5 	4 	1 	19 	1 	in 	IN
+Hos 	5 	4 	1 	20 	1 	the 	DT
+Hos 	5 	4 	1 	21 	1 	midst 	NN
+Hos 	5 	4 	1 	22 	1 	of 	IN
+Hos 	5 	4 	1 	23 	1 	them 	PRP
+Hos 	5 	4 	1 	24 	0 	,
+Hos 	5 	4 	1 	25 	1 	and 	CC
+Hos 	5 	4 	1 	26 	1 	they 	PRP
+Hos 	5 	4 	1 	27 	1 	have 	VB
+Hos 	5 	4 	1 	28 	1 	not 	RB
+Hos 	5 	4 	1 	29 	1 	known 	VBN
+Hos 	5 	4 	1 	30 	1 	the 	DT
+Hos 	5 	4 	1 	31 	1 	LORD 	NN
+Hos 	5 	4 	1 	32 	0 	.
+Hos 	5 	5 	1 	1 	1 	And 	CC
+Hos 	5 	5 	1 	2 	1 	the 	DT
+Hos 	5 	5 	1 	3 	1 	pride 	NN
+Hos 	5 	5 	1 	4 	1 	of 	IN
+Hos 	5 	5 	1 	5 	1 	Israel 	NNP
+Hos 	5 	5 	1 	6 	1 	doth 	NN
+Hos 	5 	5 	1 	7 	1 	testify 	NN
+Hos 	5 	5 	1 	8 	1 	to 	TO
+Hos 	5 	5 	1 	9 	1 	his 	PRP$
+Hos 	5 	5 	1 	10 	1 	face 	NN
+Hos 	5 	5 	1 	11 	0 	:
+Hos 	5 	5 	1 	12 	1 	therefore 	RB
+Hos 	5 	5 	1 	13 	1 	shall 	MD
+Hos 	5 	5 	1 	14 	1 	Israel 	NNP
+Hos 	5 	5 	1 	15 	1 	and 	CC
+Hos 	5 	5 	1 	16 	1 	Ephraim 	NN
+Hos 	5 	5 	1 	17 	1 	fall 	NN
+Hos 	5 	5 	1 	18 	1 	in 	IN
+Hos 	5 	5 	1 	19 	1 	their 	PRP$
+Hos 	5 	5 	1 	20 	1 	iniquity 	NN
+Hos 	5 	5 	1 	21 	0 	:
+Hos 	5 	5 	1 	22 	1 	Judah 	NN
+Hos 	5 	5 	1 	23 	1 	also 	RB
+Hos 	5 	5 	1 	24 	1 	shall 	MD
+Hos 	5 	5 	1 	25 	1 	fall 	NN
+Hos 	5 	5 	1 	26 	1 	with 	IN
+Hos 	5 	5 	1 	27 	1 	them 	PRP
+Hos 	5 	5 	1 	28 	0 	.
+Hos 	5 	6 	1 	1 	1 	They 	PRP
+Hos 	5 	6 	1 	2 	1 	shall 	MD
+Hos 	5 	6 	1 	3 	1 	go 	VB
+Hos 	5 	6 	1 	4 	1 	with 	IN
+Hos 	5 	6 	1 	5 	1 	their 	PRP$
+Hos 	5 	6 	1 	6 	1 	flocks 	NNS
+Hos 	5 	6 	1 	7 	1 	and 	CC
+Hos 	5 	6 	1 	8 	1 	with 	IN
+Hos 	5 	6 	1 	9 	1 	their 	PRP$
+Hos 	5 	6 	1 	10 	1 	herds 	NNS
+Hos 	5 	6 	1 	11 	1 	to 	TO
+Hos 	5 	6 	1 	12 	1 	seek 	NN
+Hos 	5 	6 	1 	13 	1 	the 	DT
+Hos 	5 	6 	1 	14 	1 	LORD 	NN
+Hos 	5 	6 	1 	15 	0 	;
+Hos 	5 	6 	1 	16 	1 	but 	CC
+Hos 	5 	6 	1 	17 	1 	they 	PRP
+Hos 	5 	6 	1 	18 	1 	shall 	MD
+Hos 	5 	6 	1 	19 	1 	not 	RB
+Hos 	5 	6 	1 	20 	1 	find 	VB
+Hos 	5 	6 	1 	21 	1 	him 	PRP
+Hos 	5 	6 	1 	22 	0 	;
+Hos 	5 	6 	1 	23 	1 	he 	PRP
+Hos 	5 	6 	1 	24 	1 	hath 	NN
+Hos 	5 	6 	1 	25 	1 	withdrawn 	NN
+Hos 	5 	6 	1 	26 	1 	himself 	PRP
+Hos 	5 	6 	1 	27 	1 	from 	IN
+Hos 	5 	6 	1 	28 	1 	them 	PRP
+Hos 	5 	6 	1 	29 	0 	.
+Hos 	5 	7 	1 	1 	1 	They 	PRP
+Hos 	5 	7 	1 	2 	1 	have 	VB
+Hos 	5 	7 	1 	3 	1 	dealt 	NN
+Hos 	5 	7 	1 	4 	1 	treacherously 	RB
+Hos 	5 	7 	1 	5 	1 	against 	IN
+Hos 	5 	7 	1 	6 	1 	the 	DT
+Hos 	5 	7 	1 	7 	1 	LORD 	NN
+Hos 	5 	7 	1 	8 	0 	:
+Hos 	5 	7 	1 	9 	1 	for 	IN
+Hos 	5 	7 	1 	10 	1 	they 	PRP
+Hos 	5 	7 	1 	11 	1 	have 	VB
+Hos 	5 	7 	1 	12 	1 	begotten 	NN
+Hos 	5 	7 	1 	13 	1 	strange 	NN
+Hos 	5 	7 	1 	14 	1 	children 	NNS
+Hos 	5 	7 	1 	15 	0 	:
+Hos 	5 	7 	1 	16 	1 	now 	RB
+Hos 	5 	7 	1 	17 	1 	shall 	MD
+Hos 	5 	7 	1 	18 	1 	a 	DT
+Hos 	5 	7 	1 	19 	1 	month 	NN
+Hos 	5 	7 	1 	20 	1 	devour 	NN
+Hos 	5 	7 	1 	21 	1 	them 	PRP
+Hos 	5 	7 	1 	22 	1 	with 	IN
+Hos 	5 	7 	1 	23 	1 	their 	PRP$
+Hos 	5 	7 	1 	24 	1 	portions 	NNS
+Hos 	5 	7 	1 	25 	0 	.
+Hos 	5 	8 	1 	1 	1 	Blow 	NN
+Hos 	5 	8 	1 	2 	1 	ye 	NN
+Hos 	5 	8 	1 	3 	1 	the 	DT
+Hos 	5 	8 	1 	4 	1 	cornet 	NN
+Hos 	5 	8 	1 	5 	1 	in 	IN
+Hos 	5 	8 	1 	6 	1 	Gibeah 	NN
+Hos 	5 	8 	1 	7 	0 	,
+Hos 	5 	8 	1 	8 	1 	and 	CC
+Hos 	5 	8 	1 	9 	1 	the 	DT
+Hos 	5 	8 	1 	10 	1 	trumpet 	NN
+Hos 	5 	8 	1 	11 	1 	in 	IN
+Hos 	5 	8 	1 	12 	1 	Ramah 	NN
+Hos 	5 	8 	1 	13 	0 	:
+Hos 	5 	8 	1 	14 	1 	cry 	NN
+Hos 	5 	8 	1 	15 	1 	aloud 	NN
+Hos 	5 	8 	1 	16 	1 	at 	IN
+Hos 	5 	8 	1 	17 	1 	Bethaven 	NNP
+Hos 	5 	8 	1 	18 	0 	,
+Hos 	5 	8 	1 	19 	1 	after 	IN
+Hos 	5 	8 	1 	20 	1 	thee 	NN
+Hos 	5 	8 	1 	21 	0 	,
+Hos 	5 	8 	1 	22 	1 	O 	NN
+Hos 	5 	8 	1 	23 	1 	Benjamin 	NNP
+Hos 	5 	8 	1 	24 	0 	.
+Hos 	5 	9 	1 	1 	1 	Ephraim 	NN
+Hos 	5 	9 	1 	2 	1 	shall 	MD
+Hos 	5 	9 	1 	3 	1 	be 	VB
+Hos 	5 	9 	1 	4 	1 	desolate 	NN
+Hos 	5 	9 	1 	5 	1 	in 	IN
+Hos 	5 	9 	1 	6 	1 	the 	DT
+Hos 	5 	9 	1 	7 	1 	day 	NN
+Hos 	5 	9 	1 	8 	1 	of 	IN
+Hos 	5 	9 	1 	9 	1 	rebuke 	NN
+Hos 	5 	9 	1 	10 	0 	:
+Hos 	5 	9 	1 	11 	1 	among 	IN
+Hos 	5 	9 	1 	12 	1 	the 	DT
+Hos 	5 	9 	1 	13 	1 	tribes 	NNS
+Hos 	5 	9 	1 	14 	1 	of 	IN
+Hos 	5 	9 	1 	15 	1 	Israel 	NNP
+Hos 	5 	9 	1 	16 	1 	have 	VB
+Hos 	5 	9 	1 	17 	1 	I 	PRP
+Hos 	5 	9 	1 	18 	1 	made 	VBN
+Hos 	5 	9 	1 	19 	1 	known 	VBN
+Hos 	5 	9 	1 	20 	1 	that 	IN
+Hos 	5 	9 	1 	21 	1 	which 	WDT
+Hos 	5 	9 	1 	22 	1 	shall 	MD
+Hos 	5 	9 	1 	23 	1 	surely 	RB
+Hos 	5 	9 	1 	24 	1 	be 	VB
+Hos 	5 	9 	1 	25 	0 	.
+Hos 	5 	10 	1 	1 	1 	The 	DT
+Hos 	5 	10 	1 	2 	1 	princes 	NNS
+Hos 	5 	10 	1 	3 	1 	of 	IN
+Hos 	5 	10 	1 	4 	1 	Judah 	NN
+Hos 	5 	10 	1 	5 	1 	were 	VBD
+Hos 	5 	10 	1 	6 	1 	like 	IN
+Hos 	5 	10 	1 	7 	1 	them 	PRP
+Hos 	5 	10 	1 	8 	1 	that 	IN
+Hos 	5 	10 	1 	9 	1 	remove 	VB
+Hos 	5 	10 	1 	10 	1 	the 	DT
+Hos 	5 	10 	1 	11 	1 	bound 	NN
+Hos 	5 	10 	1 	12 	0 	:
+Hos 	5 	10 	1 	13 	1 	therefore 	RB
+Hos 	5 	10 	1 	14 	1 	I 	PRP
+Hos 	5 	10 	1 	15 	1 	will 	MD
+Hos 	5 	10 	1 	16 	1 	pour 	NN
+Hos 	5 	10 	1 	17 	1 	out 	IN
+Hos 	5 	10 	1 	18 	1 	my 	PRP$
+Hos 	5 	10 	1 	19 	1 	wrath 	NN
+Hos 	5 	10 	1 	20 	1 	upon 	IN
+Hos 	5 	10 	1 	21 	1 	them 	PRP
+Hos 	5 	10 	1 	22 	1 	like 	IN
+Hos 	5 	10 	1 	23 	1 	water 	NN
+Hos 	5 	10 	1 	24 	0 	.
+Hos 	5 	11 	1 	1 	1 	Ephraim 	NN
+Hos 	5 	11 	1 	2 	1 	is 	VBZ
+Hos 	5 	11 	1 	3 	1 	oppressed 	VBN
+Hos 	5 	11 	1 	4 	1 	and 	CC
+Hos 	5 	11 	1 	5 	1 	broken 	NN
+Hos 	5 	11 	1 	6 	1 	in 	IN
+Hos 	5 	11 	1 	7 	1 	judgment 	NN
+Hos 	5 	11 	1 	8 	0 	,
+Hos 	5 	11 	1 	9 	1 	because 	IN
+Hos 	5 	11 	1 	10 	1 	he 	PRP
+Hos 	5 	11 	1 	11 	1 	willingly 	RB
+Hos 	5 	11 	1 	12 	1 	walked 	VBD
+Hos 	5 	11 	1 	13 	1 	after 	IN
+Hos 	5 	11 	1 	14 	1 	the 	DT
+Hos 	5 	11 	1 	15 	1 	commandment 	NN
+Hos 	5 	11 	1 	16 	0 	.
+Hos 	5 	12 	1 	1 	1 	Therefore 	RB
+Hos 	5 	12 	1 	2 	1 	will 	MD
+Hos 	5 	12 	1 	3 	1 	I 	PRP
+Hos 	5 	12 	1 	4 	1 	be 	VB
+Hos 	5 	12 	1 	5 	1 	unto 	NN
+Hos 	5 	12 	1 	6 	1 	Ephraim 	NN
+Hos 	5 	12 	1 	7 	1 	as 	IN
+Hos 	5 	12 	1 	8 	1 	a 	DT
+Hos 	5 	12 	1 	9 	1 	moth 	NN
+Hos 	5 	12 	1 	10 	0 	,
+Hos 	5 	12 	1 	11 	1 	and 	CC
+Hos 	5 	12 	1 	12 	1 	to 	TO
+Hos 	5 	12 	1 	13 	1 	the 	DT
+Hos 	5 	12 	1 	14 	1 	house 	NN
+Hos 	5 	12 	1 	15 	1 	of 	IN
+Hos 	5 	12 	1 	16 	1 	Judah 	NN
+Hos 	5 	12 	1 	17 	1 	as 	IN
+Hos 	5 	12 	1 	18 	1 	rottenness 	NN
+Hos 	5 	12 	1 	19 	0 	.
+Hos 	5 	13 	1 	1 	1 	When 	WRB
+Hos 	5 	13 	1 	2 	1 	Ephraim 	NN
+Hos 	5 	13 	1 	3 	1 	saw 	NN
+Hos 	5 	13 	1 	4 	1 	his 	PRP$
+Hos 	5 	13 	1 	5 	1 	sickness 	NN
+Hos 	5 	13 	1 	6 	0 	,
+Hos 	5 	13 	1 	7 	1 	and 	CC
+Hos 	5 	13 	1 	8 	1 	Judah 	NN
+Hos 	5 	13 	1 	9 	1 	saw 	NN
+Hos 	5 	13 	1 	10 	1 	his 	PRP$
+Hos 	5 	13 	1 	11 	1 	wound 	NN
+Hos 	5 	13 	1 	12 	0 	,
+Hos 	5 	13 	1 	13 	1 	then 	RB
+Hos 	5 	13 	1 	14 	1 	went 	VBD
+Hos 	5 	13 	1 	15 	1 	Ephraim 	NN
+Hos 	5 	13 	1 	16 	1 	to 	TO
+Hos 	5 	13 	1 	17 	1 	the 	DT
+Hos 	5 	13 	1 	18 	1 	Assyrian 	JJ
+Hos 	5 	13 	1 	19 	0 	,
+Hos 	5 	13 	1 	20 	1 	and 	CC
+Hos 	5 	13 	1 	21 	1 	sent 	NN
+Hos 	5 	13 	1 	22 	1 	to 	TO
+Hos 	5 	13 	1 	23 	1 	king 	NN
+Hos 	5 	13 	1 	24 	1 	Jareb 	NN
+Hos 	5 	13 	1 	25 	0 	:
+Hos 	5 	13 	1 	26 	1 	yet 	RB
+Hos 	5 	13 	1 	27 	1 	could 	MD
+Hos 	5 	13 	1 	28 	1 	he 	PRP
+Hos 	5 	13 	1 	29 	1 	not 	RB
+Hos 	5 	13 	1 	30 	1 	heal 	NN
+Hos 	5 	13 	1 	31 	1 	you 	PRP
+Hos 	5 	13 	1 	32 	0 	,
+Hos 	5 	13 	1 	33 	1 	nor 	CC
+Hos 	5 	13 	1 	34 	1 	cure 	NN
+Hos 	5 	13 	1 	35 	1 	you 	PRP
+Hos 	5 	13 	1 	36 	1 	of 	IN
+Hos 	5 	13 	1 	37 	1 	your 	PRP$
+Hos 	5 	13 	1 	38 	1 	wound 	NN
+Hos 	5 	13 	1 	39 	0 	.
+Hos 	5 	14 	1 	1 	1 	For 	IN
+Hos 	5 	14 	1 	2 	1 	I 	PRP
+Hos 	5 	14 	1 	3 	1 	will 	MD
+Hos 	5 	14 	1 	4 	1 	be 	VB
+Hos 	5 	14 	1 	5 	1 	unto 	NN
+Hos 	5 	14 	1 	6 	1 	Ephraim 	NN
+Hos 	5 	14 	1 	7 	1 	as 	IN
+Hos 	5 	14 	1 	8 	1 	a 	DT
+Hos 	5 	14 	1 	9 	1 	lion 	NN
+Hos 	5 	14 	1 	10 	0 	,
+Hos 	5 	14 	1 	11 	1 	and 	CC
+Hos 	5 	14 	1 	12 	1 	as 	IN
+Hos 	5 	14 	1 	13 	1 	a 	DT
+Hos 	5 	14 	1 	14 	1 	young 	JJ
+Hos 	5 	14 	1 	15 	1 	lion 	NN
+Hos 	5 	14 	1 	16 	1 	to 	TO
+Hos 	5 	14 	1 	17 	1 	the 	DT
+Hos 	5 	14 	1 	18 	1 	house 	NN
+Hos 	5 	14 	1 	19 	1 	of 	IN
+Hos 	5 	14 	1 	20 	1 	Judah 	NN
+Hos 	5 	14 	1 	21 	0 	:
+Hos 	5 	14 	1 	22 	1 	I 	PRP
+Hos 	5 	14 	1 	23 	0 	,
+Hos 	5 	14 	1 	24 	1 	even 	RB
+Hos 	5 	14 	1 	25 	1 	I 	PRP
+Hos 	5 	14 	1 	26 	0 	,
+Hos 	5 	14 	1 	27 	1 	will 	MD
+Hos 	5 	14 	1 	28 	1 	tear 	NN
+Hos 	5 	14 	1 	29 	1 	and 	CC
+Hos 	5 	14 	1 	30 	1 	go 	VB
+Hos 	5 	14 	1 	31 	1 	away 	RB
+Hos 	5 	14 	1 	32 	0 	;
+Hos 	5 	14 	1 	33 	1 	I 	PRP
+Hos 	5 	14 	1 	34 	1 	will 	MD
+Hos 	5 	14 	1 	35 	1 	take 	VB
+Hos 	5 	14 	1 	36 	1 	away 	RB
+Hos 	5 	14 	1 	37 	0 	,
+Hos 	5 	14 	1 	38 	1 	and 	CC
+Hos 	5 	14 	1 	39 	1 	none 	NN
+Hos 	5 	14 	1 	40 	1 	shall 	MD
+Hos 	5 	14 	1 	41 	1 	rescue 	NN
+Hos 	5 	14 	1 	42 	1 	him 	PRP
+Hos 	5 	14 	1 	43 	0 	.
+Hos 	5 	15 	1 	1 	1 	I 	PRP
+Hos 	5 	15 	1 	2 	1 	will 	MD
+Hos 	5 	15 	1 	3 	1 	go 	VB
+Hos 	5 	15 	1 	4 	1 	and 	CC
+Hos 	5 	15 	1 	5 	1 	return 	NN
+Hos 	5 	15 	1 	6 	1 	to 	TO
+Hos 	5 	15 	1 	7 	1 	my 	PRP$
+Hos 	5 	15 	1 	8 	1 	place 	NN
+Hos 	5 	15 	1 	9 	0 	,
+Hos 	5 	15 	1 	10 	1 	till 	NN
+Hos 	5 	15 	1 	11 	1 	they 	PRP
+Hos 	5 	15 	1 	12 	1 	acknowledge 	NN
+Hos 	5 	15 	1 	13 	1 	their 	PRP$
+Hos 	5 	15 	1 	14 	1 	offence 	NN
+Hos 	5 	15 	1 	15 	0 	,
+Hos 	5 	15 	1 	16 	1 	and 	CC
+Hos 	5 	15 	1 	17 	1 	seek 	NN
+Hos 	5 	15 	1 	18 	1 	my 	PRP$
+Hos 	5 	15 	1 	19 	1 	face 	NN
+Hos 	5 	15 	1 	20 	0 	:
+Hos 	5 	15 	1 	21 	1 	in 	IN
+Hos 	5 	15 	1 	22 	1 	their 	PRP$
+Hos 	5 	15 	1 	23 	1 	affliction 	NN
+Hos 	5 	15 	1 	24 	1 	they 	PRP
+Hos 	5 	15 	1 	25 	1 	will 	MD
+Hos 	5 	15 	1 	26 	1 	seek 	NN
+Hos 	5 	15 	1 	27 	1 	me 	PRP
+Hos 	5 	15 	1 	28 	1 	early 	RB
+Hos 	5 	15 	1 	29 	0 	.
+Hos 	6 	1 	1 	1 	1 	Come 	VB
+Hos 	6 	1 	1 	2 	0 	,
+Hos 	6 	1 	1 	3 	1 	and 	CC
+Hos 	6 	1 	1 	4 	1 	let 	VB
+Hos 	6 	1 	1 	5 	1 	us 	PRP
+Hos 	6 	1 	1 	6 	1 	return 	NN
+Hos 	6 	1 	1 	7 	1 	unto 	NN
+Hos 	6 	1 	1 	8 	1 	the 	DT
+Hos 	6 	1 	1 	9 	1 	LORD 	NN
+Hos 	6 	1 	1 	10 	0 	:
+Hos 	6 	1 	1 	11 	1 	for 	IN
+Hos 	6 	1 	1 	12 	1 	he 	PRP
+Hos 	6 	1 	1 	13 	1 	hath 	NN
+Hos 	6 	1 	1 	14 	1 	torn 	NN
+Hos 	6 	1 	1 	15 	0 	,
+Hos 	6 	1 	1 	16 	1 	and 	CC
+Hos 	6 	1 	1 	17 	1 	he 	PRP
+Hos 	6 	1 	1 	18 	1 	will 	MD
+Hos 	6 	1 	1 	19 	1 	heal 	NN
+Hos 	6 	1 	1 	20 	1 	us 	PRP
+Hos 	6 	1 	1 	21 	0 	;
+Hos 	6 	1 	1 	22 	1 	he 	PRP
+Hos 	6 	1 	1 	23 	1 	hath 	NN
+Hos 	6 	1 	1 	24 	1 	smitten 	NN
+Hos 	6 	1 	1 	25 	0 	,
+Hos 	6 	1 	1 	26 	1 	and 	CC
+Hos 	6 	1 	1 	27 	1 	he 	PRP
+Hos 	6 	1 	1 	28 	1 	will 	MD
+Hos 	6 	1 	1 	29 	1 	bind 	NN
+Hos 	6 	1 	1 	30 	1 	us 	PRP
+Hos 	6 	1 	1 	31 	1 	up 	RB
+Hos 	6 	1 	1 	32 	0 	.
+Hos 	6 	2 	1 	1 	1 	After 	IN
+Hos 	6 	2 	1 	2 	1 	two 	CD
+Hos 	6 	2 	1 	3 	1 	days 	NNS
+Hos 	6 	2 	1 	4 	1 	will 	MD
+Hos 	6 	2 	1 	5 	1 	he 	PRP
+Hos 	6 	2 	1 	6 	1 	revive 	NN
+Hos 	6 	2 	1 	7 	1 	us 	PRP
+Hos 	6 	2 	1 	8 	0 	:
+Hos 	6 	2 	1 	9 	1 	in 	IN
+Hos 	6 	2 	1 	10 	1 	the 	DT
+Hos 	6 	2 	1 	11 	1 	third 	JJ
+Hos 	6 	2 	1 	12 	1 	day 	NN
+Hos 	6 	2 	1 	13 	1 	he 	PRP
+Hos 	6 	2 	1 	14 	1 	will 	MD
+Hos 	6 	2 	1 	15 	1 	raise 	NN
+Hos 	6 	2 	1 	16 	1 	us 	PRP
+Hos 	6 	2 	1 	17 	1 	up 	RB
+Hos 	6 	2 	1 	18 	0 	,
+Hos 	6 	2 	1 	19 	1 	and 	CC
+Hos 	6 	2 	1 	20 	1 	we 	PRP
+Hos 	6 	2 	1 	21 	1 	shall 	MD
+Hos 	6 	2 	1 	22 	1 	live 	JJ
+Hos 	6 	2 	1 	23 	1 	in 	IN
+Hos 	6 	2 	1 	24 	1 	his 	PRP$
+Hos 	6 	2 	1 	25 	1 	sight 	NN
+Hos 	6 	2 	1 	26 	0 	.
+Hos 	6 	3 	1 	1 	1 	Then 	RB
+Hos 	6 	3 	1 	2 	1 	shall 	MD
+Hos 	6 	3 	1 	3 	1 	we 	PRP
+Hos 	6 	3 	1 	4 	1 	know 	VB
+Hos 	6 	3 	1 	5 	0 	,
+Hos 	6 	3 	1 	6 	1 	if 	IN
+Hos 	6 	3 	1 	7 	1 	we 	PRP
+Hos 	6 	3 	1 	8 	1 	follow 	VB
+Hos 	6 	3 	1 	9 	1 	on 	IN
+Hos 	6 	3 	1 	10 	1 	to 	TO
+Hos 	6 	3 	1 	11 	1 	know 	VB
+Hos 	6 	3 	1 	12 	1 	the 	DT
+Hos 	6 	3 	1 	13 	1 	LORD 	NN
+Hos 	6 	3 	1 	14 	0 	:
+Hos 	6 	3 	1 	15 	1 	his 	PRP$
+Hos 	6 	3 	1 	16 	1 	going 	VBG
+Hos 	6 	3 	1 	17 	1 	forth 	NN
+Hos 	6 	3 	1 	18 	1 	is 	VBZ
+Hos 	6 	3 	1 	19 	1 	prepared 	JJ
+Hos 	6 	3 	1 	20 	1 	as 	IN
+Hos 	6 	3 	1 	21 	1 	the 	DT
+Hos 	6 	3 	1 	22 	1 	morning 	NN
+Hos 	6 	3 	1 	23 	0 	;
+Hos 	6 	3 	1 	24 	1 	and 	CC
+Hos 	6 	3 	1 	25 	1 	he 	PRP
+Hos 	6 	3 	1 	26 	1 	shall 	MD
+Hos 	6 	3 	1 	27 	1 	come 	VB
+Hos 	6 	3 	1 	28 	1 	unto 	NN
+Hos 	6 	3 	1 	29 	1 	us 	PRP
+Hos 	6 	3 	1 	30 	1 	as 	IN
+Hos 	6 	3 	1 	31 	1 	the 	DT
+Hos 	6 	3 	1 	32 	1 	rain 	NN
+Hos 	6 	3 	1 	33 	0 	,
+Hos 	6 	3 	1 	34 	1 	as 	IN
+Hos 	6 	3 	1 	35 	1 	the 	DT
+Hos 	6 	3 	1 	36 	1 	latter 	NN
+Hos 	6 	3 	1 	37 	1 	and 	CC
+Hos 	6 	3 	1 	38 	1 	former 	JJ
+Hos 	6 	3 	1 	39 	1 	rain 	NN
+Hos 	6 	3 	1 	40 	1 	unto 	NN
+Hos 	6 	3 	1 	41 	1 	the 	DT
+Hos 	6 	3 	1 	42 	1 	earth 	NN
+Hos 	6 	3 	1 	43 	0 	.
+Hos 	6 	4 	1 	1 	1 	O 	NN
+Hos 	6 	4 	1 	2 	1 	Ephraim 	NN
+Hos 	6 	4 	1 	3 	0 	,
+Hos 	6 	4 	1 	4 	1 	what 	WP
+Hos 	6 	4 	1 	5 	1 	shall 	MD
+Hos 	6 	4 	1 	6 	1 	I 	PRP
+Hos 	6 	4 	1 	7 	1 	do 	VB
+Hos 	6 	4 	1 	8 	1 	unto 	NN
+Hos 	6 	4 	1 	9 	1 	thee 	NN
+Hos 	6 	4 	1 	10 	0 	?
+Hos 	6 	4 	2 	1 	1 	O 	NN
+Hos 	6 	4 	2 	2 	1 	Judah 	NN
+Hos 	6 	4 	2 	3 	0 	,
+Hos 	6 	4 	2 	4 	1 	what 	WP
+Hos 	6 	4 	2 	5 	1 	shall 	MD
+Hos 	6 	4 	2 	6 	1 	I 	PRP
+Hos 	6 	4 	2 	7 	1 	do 	VB
+Hos 	6 	4 	2 	8 	1 	unto 	NN
+Hos 	6 	4 	2 	9 	1 	thee 	NN
+Hos 	6 	4 	2 	10 	0 	?
+Hos 	6 	4 	3 	1 	1 	for 	IN
+Hos 	6 	4 	3 	2 	1 	your 	PRP$
+Hos 	6 	4 	3 	3 	1 	goodness 	NN
+Hos 	6 	4 	3 	4 	1 	is 	VBZ
+Hos 	6 	4 	3 	5 	1 	as 	IN
+Hos 	6 	4 	3 	6 	1 	a 	DT
+Hos 	6 	4 	3 	7 	1 	morning 	NN
+Hos 	6 	4 	3 	8 	1 	cloud 	NN
+Hos 	6 	4 	3 	9 	0 	,
+Hos 	6 	4 	3 	10 	1 	and 	CC
+Hos 	6 	4 	3 	11 	1 	as 	IN
+Hos 	6 	4 	3 	12 	1 	the 	DT
+Hos 	6 	4 	3 	13 	1 	early 	RB
+Hos 	6 	4 	3 	14 	1 	dew 	NN
+Hos 	6 	4 	3 	15 	1 	it 	PRP
+Hos 	6 	4 	3 	16 	1 	goeth 	NNS
+Hos 	6 	4 	3 	17 	1 	away 	RB
+Hos 	6 	4 	3 	18 	0 	.
+Hos 	6 	5 	1 	1 	1 	Therefore 	RB
+Hos 	6 	5 	1 	2 	1 	have 	VB
+Hos 	6 	5 	1 	3 	1 	I 	PRP
+Hos 	6 	5 	1 	4 	1 	hewed 	VBN
+Hos 	6 	5 	1 	5 	1 	them 	PRP
+Hos 	6 	5 	1 	6 	1 	by 	IN
+Hos 	6 	5 	1 	7 	1 	the 	DT
+Hos 	6 	5 	1 	8 	1 	prophets 	NNS
+Hos 	6 	5 	1 	9 	0 	;
+Hos 	6 	5 	1 	10 	1 	I 	PRP
+Hos 	6 	5 	1 	11 	1 	have 	VB
+Hos 	6 	5 	1 	12 	1 	slain 	NN
+Hos 	6 	5 	1 	13 	1 	them 	PRP
+Hos 	6 	5 	1 	14 	1 	by 	IN
+Hos 	6 	5 	1 	15 	1 	the 	DT
+Hos 	6 	5 	1 	16 	1 	words 	NNS
+Hos 	6 	5 	1 	17 	1 	of 	IN
+Hos 	6 	5 	1 	18 	1 	my 	PRP$
+Hos 	6 	5 	1 	19 	1 	mouth 	NN
+Hos 	6 	5 	1 	20 	0 	:
+Hos 	6 	5 	1 	21 	1 	and 	CC
+Hos 	6 	5 	1 	22 	1 	thy 	NN
+Hos 	6 	5 	1 	23 	1 	judgments 	NNS
+Hos 	6 	5 	1 	24 	1 	are 	VBP
+Hos 	6 	5 	1 	25 	1 	as 	IN
+Hos 	6 	5 	1 	26 	1 	the 	DT
+Hos 	6 	5 	1 	27 	1 	light 	NN
+Hos 	6 	5 	1 	28 	1 	that 	IN
+Hos 	6 	5 	1 	29 	1 	goeth 	NNS
+Hos 	6 	5 	1 	30 	1 	forth 	NN
+Hos 	6 	5 	1 	31 	0 	.
+Hos 	6 	6 	1 	1 	1 	For 	IN
+Hos 	6 	6 	1 	2 	1 	I 	PRP
+Hos 	6 	6 	1 	3 	1 	desired 	VBN
+Hos 	6 	6 	1 	4 	1 	mercy 	NN
+Hos 	6 	6 	1 	5 	0 	,
+Hos 	6 	6 	1 	6 	1 	and 	CC
+Hos 	6 	6 	1 	7 	1 	not 	RB
+Hos 	6 	6 	1 	8 	1 	sacrifice 	NN
+Hos 	6 	6 	1 	9 	0 	;
+Hos 	6 	6 	1 	10 	1 	and 	CC
+Hos 	6 	6 	1 	11 	1 	the 	DT
+Hos 	6 	6 	1 	12 	1 	knowledge 	NN
+Hos 	6 	6 	1 	13 	1 	of 	IN
+Hos 	6 	6 	1 	14 	1 	God 	NNP
+Hos 	6 	6 	1 	15 	1 	more 	RBR
+Hos 	6 	6 	1 	16 	1 	than 	IN
+Hos 	6 	6 	1 	17 	1 	burnt 	NN
+Hos 	6 	6 	1 	18 	1 	offerings 	NNS
+Hos 	6 	6 	1 	19 	0 	.
+Hos 	6 	7 	1 	1 	1 	But 	CC
+Hos 	6 	7 	1 	2 	1 	they 	PRP
+Hos 	6 	7 	1 	3 	1 	like 	IN
+Hos 	6 	7 	1 	4 	1 	men 	NNS
+Hos 	6 	7 	1 	5 	1 	have 	VB
+Hos 	6 	7 	1 	6 	1 	transgressed 	VBN
+Hos 	6 	7 	1 	7 	1 	the 	DT
+Hos 	6 	7 	1 	8 	1 	covenant 	NN
+Hos 	6 	7 	1 	9 	0 	:
+Hos 	6 	7 	1 	10 	1 	there 	RB
+Hos 	6 	7 	1 	11 	1 	have 	VB
+Hos 	6 	7 	1 	12 	1 	they 	PRP
+Hos 	6 	7 	1 	13 	1 	dealt 	NN
+Hos 	6 	7 	1 	14 	1 	treacherously 	RB
+Hos 	6 	7 	1 	15 	1 	against 	IN
+Hos 	6 	7 	1 	16 	1 	me 	PRP
+Hos 	6 	7 	1 	17 	0 	.
+Hos 	6 	8 	1 	1 	1 	Gilead 	NN
+Hos 	6 	8 	1 	2 	1 	is 	VBZ
+Hos 	6 	8 	1 	3 	1 	a 	DT
+Hos 	6 	8 	1 	4 	1 	city 	NN
+Hos 	6 	8 	1 	5 	1 	of 	IN
+Hos 	6 	8 	1 	6 	1 	them 	PRP
+Hos 	6 	8 	1 	7 	1 	that 	IN
+Hos 	6 	8 	1 	8 	1 	work 	NN
+Hos 	6 	8 	1 	9 	1 	iniquity 	NN
+Hos 	6 	8 	1 	10 	0 	,
+Hos 	6 	8 	1 	11 	1 	and 	CC
+Hos 	6 	8 	1 	12 	1 	is 	VBZ
+Hos 	6 	8 	1 	13 	1 	polluted 	VBN
+Hos 	6 	8 	1 	14 	1 	with 	IN
+Hos 	6 	8 	1 	15 	1 	blood 	NN
+Hos 	6 	8 	1 	16 	0 	.
+Hos 	6 	9 	1 	1 	1 	And 	CC
+Hos 	6 	9 	1 	2 	1 	as 	IN
+Hos 	6 	9 	1 	3 	1 	troops 	NNS
+Hos 	6 	9 	1 	4 	1 	of 	IN
+Hos 	6 	9 	1 	5 	1 	robbers 	NNS
+Hos 	6 	9 	1 	6 	1 	wait 	NN
+Hos 	6 	9 	1 	7 	1 	for 	IN
+Hos 	6 	9 	1 	8 	1 	a 	DT
+Hos 	6 	9 	1 	9 	1 	man 	NN
+Hos 	6 	9 	1 	10 	0 	,
+Hos 	6 	9 	1 	11 	1 	so 	RB
+Hos 	6 	9 	1 	12 	1 	the 	DT
+Hos 	6 	9 	1 	13 	1 	company 	NN
+Hos 	6 	9 	1 	14 	1 	of 	IN
+Hos 	6 	9 	1 	15 	1 	priests 	NNS
+Hos 	6 	9 	1 	16 	1 	murder 	NN
+Hos 	6 	9 	1 	17 	1 	in 	IN
+Hos 	6 	9 	1 	18 	1 	the 	DT
+Hos 	6 	9 	1 	19 	1 	way 	NN
+Hos 	6 	9 	1 	20 	1 	by 	IN
+Hos 	6 	9 	1 	21 	1 	consent 	NN
+Hos 	6 	9 	1 	22 	0 	:
+Hos 	6 	9 	1 	23 	1 	for 	IN
+Hos 	6 	9 	1 	24 	1 	they 	PRP
+Hos 	6 	9 	1 	25 	1 	commit 	NN
+Hos 	6 	9 	1 	26 	1 	lewdness 	NN
+Hos 	6 	9 	1 	27 	0 	.
+Hos 	6 	10 	1 	1 	1 	I 	PRP
+Hos 	6 	10 	1 	2 	1 	have 	VB
+Hos 	6 	10 	1 	3 	1 	seen 	VBN
+Hos 	6 	10 	1 	4 	1 	an 	DT
+Hos 	6 	10 	1 	5 	1 	horrible 	JJ
+Hos 	6 	10 	1 	6 	1 	thing 	NN
+Hos 	6 	10 	1 	7 	1 	in 	IN
+Hos 	6 	10 	1 	8 	1 	the 	DT
+Hos 	6 	10 	1 	9 	1 	house 	NN
+Hos 	6 	10 	1 	10 	1 	of 	IN
+Hos 	6 	10 	1 	11 	1 	Israel 	NNP
+Hos 	6 	10 	1 	12 	0 	:
+Hos 	6 	10 	1 	13 	1 	there 	RB
+Hos 	6 	10 	1 	14 	1 	is 	VBZ
+Hos 	6 	10 	1 	15 	1 	the 	DT
+Hos 	6 	10 	1 	16 	1 	whoredom 	NN
+Hos 	6 	10 	1 	17 	1 	of 	IN
+Hos 	6 	10 	1 	18 	1 	Ephraim 	NN
+Hos 	6 	10 	1 	19 	0 	,
+Hos 	6 	10 	1 	20 	1 	Israel 	NNP
+Hos 	6 	10 	1 	21 	1 	is 	VBZ
+Hos 	6 	10 	1 	22 	1 	defiled 	VBN
+Hos 	6 	10 	1 	23 	0 	.
+Hos 	6 	11 	1 	1 	1 	Also 	RB
+Hos 	6 	11 	1 	2 	0 	,
+Hos 	6 	11 	1 	3 	1 	O 	NN
+Hos 	6 	11 	1 	4 	1 	Judah 	NN
+Hos 	6 	11 	1 	5 	0 	,
+Hos 	6 	11 	1 	6 	1 	he 	PRP
+Hos 	6 	11 	1 	7 	1 	hath 	NN
+Hos 	6 	11 	1 	8 	1 	set 	NN
+Hos 	6 	11 	1 	9 	1 	an 	DT
+Hos 	6 	11 	1 	10 	1 	harvest 	NN
+Hos 	6 	11 	1 	11 	1 	for 	IN
+Hos 	6 	11 	1 	12 	1 	thee 	NN
+Hos 	6 	11 	1 	13 	0 	,
+Hos 	6 	11 	1 	14 	1 	when 	WRB
+Hos 	6 	11 	1 	15 	1 	I 	PRP
+Hos 	6 	11 	1 	16 	1 	returned 	VBN
+Hos 	6 	11 	1 	17 	1 	the 	DT
+Hos 	6 	11 	1 	18 	1 	captivity 	NN
+Hos 	6 	11 	1 	19 	1 	of 	IN
+Hos 	6 	11 	1 	20 	1 	my 	PRP$
+Hos 	6 	11 	1 	21 	1 	people 	NNS
+Hos 	6 	11 	1 	22 	0 	.
+Hos 	7 	1 	1 	1 	1 	When 	WRB
+Hos 	7 	1 	1 	2 	1 	I 	PRP
+Hos 	7 	1 	1 	3 	1 	would 	MD
+Hos 	7 	1 	1 	4 	1 	have 	VB
+Hos 	7 	1 	1 	5 	1 	healed 	VBN
+Hos 	7 	1 	1 	6 	1 	Israel 	NNP
+Hos 	7 	1 	1 	7 	0 	,
+Hos 	7 	1 	1 	8 	1 	then 	RB
+Hos 	7 	1 	1 	9 	1 	the 	DT
+Hos 	7 	1 	1 	10 	1 	iniquity 	NN
+Hos 	7 	1 	1 	11 	1 	of 	IN
+Hos 	7 	1 	1 	12 	1 	Ephraim 	NN
+Hos 	7 	1 	1 	13 	1 	was 	VBD
+Hos 	7 	1 	1 	14 	1 	discovered 	VBN
+Hos 	7 	1 	1 	15 	0 	,
+Hos 	7 	1 	1 	16 	1 	and 	CC
+Hos 	7 	1 	1 	17 	1 	the 	DT
+Hos 	7 	1 	1 	18 	1 	wickedness 	NN
+Hos 	7 	1 	1 	19 	1 	of 	IN
+Hos 	7 	1 	1 	20 	1 	Samaria 	NNS
+Hos 	7 	1 	1 	21 	0 	:
+Hos 	7 	1 	1 	22 	1 	for 	IN
+Hos 	7 	1 	1 	23 	1 	they 	PRP
+Hos 	7 	1 	1 	24 	1 	commit 	NN
+Hos 	7 	1 	1 	25 	1 	falsehood 	NN
+Hos 	7 	1 	1 	26 	0 	;
+Hos 	7 	1 	1 	27 	1 	and 	CC
+Hos 	7 	1 	1 	28 	1 	the 	DT
+Hos 	7 	1 	1 	29 	1 	thief 	NN
+Hos 	7 	1 	1 	30 	1 	cometh 	NNS
+Hos 	7 	1 	1 	31 	1 	in 	IN
+Hos 	7 	1 	1 	32 	0 	,
+Hos 	7 	1 	1 	33 	1 	and 	CC
+Hos 	7 	1 	1 	34 	1 	the 	DT
+Hos 	7 	1 	1 	35 	1 	troop 	NN
+Hos 	7 	1 	1 	36 	1 	of 	IN
+Hos 	7 	1 	1 	37 	1 	robbers 	NNS
+Hos 	7 	1 	1 	38 	1 	spoileth 	NN
+Hos 	7 	1 	1 	39 	1 	without 	IN
+Hos 	7 	1 	1 	40 	0 	.
+Hos 	7 	2 	1 	1 	1 	And 	CC
+Hos 	7 	2 	1 	2 	1 	they 	PRP
+Hos 	7 	2 	1 	3 	1 	consider 	VB
+Hos 	7 	2 	1 	4 	1 	not 	RB
+Hos 	7 	2 	1 	5 	1 	in 	IN
+Hos 	7 	2 	1 	6 	1 	their 	PRP$
+Hos 	7 	2 	1 	7 	1 	hearts 	NNS
+Hos 	7 	2 	1 	8 	1 	that 	IN
+Hos 	7 	2 	1 	9 	1 	I 	PRP
+Hos 	7 	2 	1 	10 	1 	remember 	VB
+Hos 	7 	2 	1 	11 	1 	all 	DT
+Hos 	7 	2 	1 	12 	1 	their 	PRP$
+Hos 	7 	2 	1 	13 	1 	wickedness 	NN
+Hos 	7 	2 	1 	14 	0 	:
+Hos 	7 	2 	1 	15 	1 	now 	RB
+Hos 	7 	2 	1 	16 	1 	their 	PRP$
+Hos 	7 	2 	1 	17 	1 	own 	JJ
+Hos 	7 	2 	1 	18 	1 	doings 	NNS
+Hos 	7 	2 	1 	19 	1 	have 	VB
+Hos 	7 	2 	1 	20 	1 	beset 	NN
+Hos 	7 	2 	1 	21 	1 	them 	PRP
+Hos 	7 	2 	1 	22 	1 	about 	IN
+Hos 	7 	2 	1 	23 	0 	;
+Hos 	7 	2 	1 	24 	1 	they 	PRP
+Hos 	7 	2 	1 	25 	1 	are 	VBP
+Hos 	7 	2 	1 	26 	1 	before 	IN
+Hos 	7 	2 	1 	27 	1 	my 	PRP$
+Hos 	7 	2 	1 	28 	1 	face 	NN
+Hos 	7 	2 	1 	29 	0 	.
+Hos 	7 	3 	1 	1 	1 	They 	PRP
+Hos 	7 	3 	1 	2 	1 	make 	VB
+Hos 	7 	3 	1 	3 	1 	the 	DT
+Hos 	7 	3 	1 	4 	1 	king 	NN
+Hos 	7 	3 	1 	5 	1 	glad 	NN
+Hos 	7 	3 	1 	6 	1 	with 	IN
+Hos 	7 	3 	1 	7 	1 	their 	PRP$
+Hos 	7 	3 	1 	8 	1 	wickedness 	NN
+Hos 	7 	3 	1 	9 	0 	,
+Hos 	7 	3 	1 	10 	1 	and 	CC
+Hos 	7 	3 	1 	11 	1 	the 	DT
+Hos 	7 	3 	1 	12 	1 	princes 	NNS
+Hos 	7 	3 	1 	13 	1 	with 	IN
+Hos 	7 	3 	1 	14 	1 	their 	PRP$
+Hos 	7 	3 	1 	15 	1 	lies 	NNS
+Hos 	7 	3 	1 	16 	0 	.
+Hos 	7 	4 	1 	1 	1 	They 	PRP
+Hos 	7 	4 	1 	2 	1 	are 	VBP
+Hos 	7 	4 	1 	3 	1 	all 	DT
+Hos 	7 	4 	1 	4 	1 	adulterers 	NNS
+Hos 	7 	4 	1 	5 	0 	,
+Hos 	7 	4 	1 	6 	1 	as 	IN
+Hos 	7 	4 	1 	7 	1 	an 	DT
+Hos 	7 	4 	1 	8 	1 	oven 	RB
+Hos 	7 	4 	1 	9 	1 	heated 	VBN
+Hos 	7 	4 	1 	10 	1 	by 	IN
+Hos 	7 	4 	1 	11 	1 	the 	DT
+Hos 	7 	4 	1 	12 	1 	baker 	NN
+Hos 	7 	4 	1 	13 	0 	,
+Hos 	7 	4 	1 	14 	1 	who 	WP
+Hos 	7 	4 	1 	15 	1 	ceaseth 	NNS
+Hos 	7 	4 	1 	16 	1 	from 	IN
+Hos 	7 	4 	1 	17 	1 	raising 	VBG
+Hos 	7 	4 	1 	18 	1 	after 	IN
+Hos 	7 	4 	1 	19 	1 	he 	PRP
+Hos 	7 	4 	1 	20 	1 	hath 	NN
+Hos 	7 	4 	1 	21 	1 	kneaded 	VBN
+Hos 	7 	4 	1 	22 	1 	the 	DT
+Hos 	7 	4 	1 	23 	1 	dough 	NN
+Hos 	7 	4 	1 	24 	0 	,
+Hos 	7 	4 	1 	25 	1 	until 	IN
+Hos 	7 	4 	1 	26 	1 	it 	PRP
+Hos 	7 	4 	1 	27 	1 	be 	VB
+Hos 	7 	4 	1 	28 	1 	leavened 	VBN
+Hos 	7 	4 	1 	29 	0 	.
+Hos 	7 	5 	1 	1 	1 	In 	IN
+Hos 	7 	5 	1 	2 	1 	the 	DT
+Hos 	7 	5 	1 	3 	1 	day 	NN
+Hos 	7 	5 	1 	4 	1 	of 	IN
+Hos 	7 	5 	1 	5 	1 	our 	PRP$
+Hos 	7 	5 	1 	6 	1 	king 	NN
+Hos 	7 	5 	1 	7 	1 	the 	DT
+Hos 	7 	5 	1 	8 	1 	princes 	NNS
+Hos 	7 	5 	1 	9 	1 	have 	VB
+Hos 	7 	5 	1 	10 	1 	made 	VBN
+Hos 	7 	5 	1 	11 	1 	him 	PRP
+Hos 	7 	5 	1 	12 	1 	sick 	NN
+Hos 	7 	5 	1 	13 	1 	with 	IN
+Hos 	7 	5 	1 	14 	1 	bottles 	NNS
+Hos 	7 	5 	1 	15 	1 	of 	IN
+Hos 	7 	5 	1 	16 	1 	wine 	NN
+Hos 	7 	5 	1 	17 	0 	;
+Hos 	7 	5 	1 	18 	1 	he 	PRP
+Hos 	7 	5 	1 	19 	1 	stretched 	VBN
+Hos 	7 	5 	1 	20 	1 	out 	IN
+Hos 	7 	5 	1 	21 	1 	his 	PRP$
+Hos 	7 	5 	1 	22 	1 	hand 	NN
+Hos 	7 	5 	1 	23 	1 	with 	IN
+Hos 	7 	5 	1 	24 	1 	scorners 	NNS
+Hos 	7 	5 	1 	25 	0 	.
+Hos 	7 	6 	1 	1 	1 	For 	IN
+Hos 	7 	6 	1 	2 	1 	they 	PRP
+Hos 	7 	6 	1 	3 	1 	have 	VB
+Hos 	7 	6 	1 	4 	1 	made 	VBN
+Hos 	7 	6 	1 	5 	1 	ready 	JJ
+Hos 	7 	6 	1 	6 	1 	their 	PRP$
+Hos 	7 	6 	1 	7 	1 	heart 	NN
+Hos 	7 	6 	1 	8 	1 	like 	IN
+Hos 	7 	6 	1 	9 	1 	an 	DT
+Hos 	7 	6 	1 	10 	1 	oven 	RB
+Hos 	7 	6 	1 	11 	0 	,
+Hos 	7 	6 	1 	12 	1 	whiles 	NNS
+Hos 	7 	6 	1 	13 	1 	they 	PRP
+Hos 	7 	6 	1 	14 	1 	lie 	NN
+Hos 	7 	6 	1 	15 	1 	in 	IN
+Hos 	7 	6 	1 	16 	1 	wait 	NN
+Hos 	7 	6 	1 	17 	0 	:
+Hos 	7 	6 	1 	18 	1 	their 	PRP$
+Hos 	7 	6 	1 	19 	1 	baker 	NN
+Hos 	7 	6 	1 	20 	1 	sleepeth 	NN
+Hos 	7 	6 	1 	21 	1 	all 	DT
+Hos 	7 	6 	1 	22 	1 	the 	DT
+Hos 	7 	6 	1 	23 	1 	night 	NN
+Hos 	7 	6 	1 	24 	0 	;
+Hos 	7 	6 	1 	25 	1 	in 	IN
+Hos 	7 	6 	1 	26 	1 	the 	DT
+Hos 	7 	6 	1 	27 	1 	morning 	NN
+Hos 	7 	6 	1 	28 	1 	it 	PRP
+Hos 	7 	6 	1 	29 	1 	burneth 	NN
+Hos 	7 	6 	1 	30 	1 	as 	IN
+Hos 	7 	6 	1 	31 	1 	a 	DT
+Hos 	7 	6 	1 	32 	1 	flaming 	VBG
+Hos 	7 	6 	1 	33 	1 	fire 	NN
+Hos 	7 	6 	1 	34 	0 	.
+Hos 	7 	7 	1 	1 	1 	They 	PRP
+Hos 	7 	7 	1 	2 	1 	are 	VBP
+Hos 	7 	7 	1 	3 	1 	all 	DT
+Hos 	7 	7 	1 	4 	1 	hot 	JJ
+Hos 	7 	7 	1 	5 	1 	as 	IN
+Hos 	7 	7 	1 	6 	1 	an 	DT
+Hos 	7 	7 	1 	7 	1 	oven 	RB
+Hos 	7 	7 	1 	8 	0 	,
+Hos 	7 	7 	1 	9 	1 	and 	CC
+Hos 	7 	7 	1 	10 	1 	have 	VB
+Hos 	7 	7 	1 	11 	1 	devoured 	VBN
+Hos 	7 	7 	1 	12 	1 	their 	PRP$
+Hos 	7 	7 	1 	13 	1 	judges 	NNS
+Hos 	7 	7 	1 	14 	0 	;
+Hos 	7 	7 	1 	15 	1 	all 	DT
+Hos 	7 	7 	1 	16 	1 	their 	PRP$
+Hos 	7 	7 	1 	17 	1 	kings 	NNS
+Hos 	7 	7 	1 	18 	1 	are 	VBP
+Hos 	7 	7 	1 	19 	1 	fallen 	VBN
+Hos 	7 	7 	1 	20 	0 	:
+Hos 	7 	7 	1 	21 	1 	there 	RB
+Hos 	7 	7 	1 	22 	1 	is 	VBZ
+Hos 	7 	7 	1 	23 	1 	none 	NN
+Hos 	7 	7 	1 	24 	1 	among 	IN
+Hos 	7 	7 	1 	25 	1 	them 	PRP
+Hos 	7 	7 	1 	26 	1 	that 	IN
+Hos 	7 	7 	1 	27 	1 	calleth 	NNS
+Hos 	7 	7 	1 	28 	1 	unto 	NN
+Hos 	7 	7 	1 	29 	1 	me 	PRP
+Hos 	7 	7 	1 	30 	0 	.
+Hos 	7 	8 	1 	1 	1 	Ephraim 	NN
+Hos 	7 	8 	1 	2 	0 	,
+Hos 	7 	8 	1 	3 	1 	he 	PRP
+Hos 	7 	8 	1 	4 	1 	hath 	NN
+Hos 	7 	8 	1 	5 	1 	mixed 	JJ
+Hos 	7 	8 	1 	6 	1 	himself 	PRP
+Hos 	7 	8 	1 	7 	1 	among 	IN
+Hos 	7 	8 	1 	8 	1 	the 	DT
+Hos 	7 	8 	1 	9 	1 	people 	NNS
+Hos 	7 	8 	1 	10 	0 	;
+Hos 	7 	8 	1 	11 	1 	Ephraim 	NN
+Hos 	7 	8 	1 	12 	1 	is 	VBZ
+Hos 	7 	8 	1 	13 	1 	a 	DT
+Hos 	7 	8 	1 	14 	1 	cake 	NN
+Hos 	7 	8 	1 	15 	1 	not 	RB
+Hos 	7 	8 	1 	16 	1 	turned 	VBD
+Hos 	7 	8 	1 	17 	0 	.
+Hos 	7 	9 	1 	1 	1 	Strangers 	NNS
+Hos 	7 	9 	1 	2 	1 	have 	VB
+Hos 	7 	9 	1 	3 	1 	devoured 	VBN
+Hos 	7 	9 	1 	4 	1 	his 	PRP$
+Hos 	7 	9 	1 	5 	1 	strength 	NN
+Hos 	7 	9 	1 	6 	0 	,
+Hos 	7 	9 	1 	7 	1 	and 	CC
+Hos 	7 	9 	1 	8 	1 	he 	PRP
+Hos 	7 	9 	1 	9 	1 	knoweth 	NNS
+Hos 	7 	9 	1 	10 	1 	it 	PRP
+Hos 	7 	9 	1 	11 	1 	not 	RB
+Hos 	7 	9 	1 	12 	0 	:
+Hos 	7 	9 	1 	13 	1 	yea 	NN
+Hos 	7 	9 	1 	14 	0 	,
+Hos 	7 	9 	1 	15 	1 	gray 	NN
+Hos 	7 	9 	1 	16 	1 	hairs 	NNS
+Hos 	7 	9 	1 	17 	1 	are 	VBP
+Hos 	7 	9 	1 	18 	1 	here 	RB
+Hos 	7 	9 	1 	19 	1 	and 	CC
+Hos 	7 	9 	1 	20 	1 	there 	RB
+Hos 	7 	9 	1 	21 	1 	upon 	IN
+Hos 	7 	9 	1 	22 	1 	him 	PRP
+Hos 	7 	9 	1 	23 	0 	,
+Hos 	7 	9 	1 	24 	1 	yet 	RB
+Hos 	7 	9 	1 	25 	1 	he 	PRP
+Hos 	7 	9 	1 	26 	1 	knoweth 	NNS
+Hos 	7 	9 	1 	27 	1 	not 	RB
+Hos 	7 	9 	1 	28 	0 	.
+Hos 	7 	10 	1 	1 	1 	And 	CC
+Hos 	7 	10 	1 	2 	1 	the 	DT
+Hos 	7 	10 	1 	3 	1 	pride 	NN
+Hos 	7 	10 	1 	4 	1 	of 	IN
+Hos 	7 	10 	1 	5 	1 	Israel 	NNP
+Hos 	7 	10 	1 	6 	1 	testifieth 	NNS
+Hos 	7 	10 	1 	7 	1 	to 	TO
+Hos 	7 	10 	1 	8 	1 	his 	PRP$
+Hos 	7 	10 	1 	9 	1 	face 	NN
+Hos 	7 	10 	1 	10 	0 	:
+Hos 	7 	10 	1 	11 	1 	and 	CC
+Hos 	7 	10 	1 	12 	1 	they 	PRP
+Hos 	7 	10 	1 	13 	1 	do 	VB
+Hos 	7 	10 	1 	14 	1 	not 	RB
+Hos 	7 	10 	1 	15 	1 	return 	NN
+Hos 	7 	10 	1 	16 	1 	to 	TO
+Hos 	7 	10 	1 	17 	1 	the 	DT
+Hos 	7 	10 	1 	18 	1 	LORD 	NN
+Hos 	7 	10 	1 	19 	1 	their 	PRP$
+Hos 	7 	10 	1 	20 	1 	God 	NNP
+Hos 	7 	10 	1 	21 	0 	,
+Hos 	7 	10 	1 	22 	1 	nor 	CC
+Hos 	7 	10 	1 	23 	1 	seek 	NN
+Hos 	7 	10 	1 	24 	1 	him 	PRP
+Hos 	7 	10 	1 	25 	1 	for 	IN
+Hos 	7 	10 	1 	26 	1 	all 	DT
+Hos 	7 	10 	1 	27 	1 	this 	DT
+Hos 	7 	10 	1 	28 	0 	.
+Hos 	7 	11 	1 	1 	1 	Ephraim 	NN
+Hos 	7 	11 	1 	2 	1 	also 	RB
+Hos 	7 	11 	1 	3 	1 	is 	VBZ
+Hos 	7 	11 	1 	4 	1 	like 	IN
+Hos 	7 	11 	1 	5 	1 	a 	DT
+Hos 	7 	11 	1 	6 	1 	silly 	RB
+Hos 	7 	11 	1 	7 	1 	dove 	NN
+Hos 	7 	11 	1 	8 	1 	without 	IN
+Hos 	7 	11 	1 	9 	1 	heart 	NN
+Hos 	7 	11 	1 	10 	0 	:
+Hos 	7 	11 	1 	11 	1 	they 	PRP
+Hos 	7 	11 	1 	12 	1 	call 	NN
+Hos 	7 	11 	1 	13 	1 	to 	TO
+Hos 	7 	11 	1 	14 	1 	Egypt 	NN
+Hos 	7 	11 	1 	15 	0 	,
+Hos 	7 	11 	1 	16 	1 	they 	PRP
+Hos 	7 	11 	1 	17 	1 	go 	VB
+Hos 	7 	11 	1 	18 	1 	to 	TO
+Hos 	7 	11 	1 	19 	1 	Assyria 	NNS
+Hos 	7 	11 	1 	20 	0 	.
+Hos 	7 	12 	1 	1 	1 	When 	WRB
+Hos 	7 	12 	1 	2 	1 	they 	PRP
+Hos 	7 	12 	1 	3 	1 	shall 	MD
+Hos 	7 	12 	1 	4 	1 	go 	VB
+Hos 	7 	12 	1 	5 	0 	,
+Hos 	7 	12 	1 	6 	1 	I 	PRP
+Hos 	7 	12 	1 	7 	1 	will 	MD
+Hos 	7 	12 	1 	8 	1 	spread 	NN
+Hos 	7 	12 	1 	9 	1 	my 	PRP$
+Hos 	7 	12 	1 	10 	1 	net 	NN
+Hos 	7 	12 	1 	11 	1 	upon 	IN
+Hos 	7 	12 	1 	12 	1 	them 	PRP
+Hos 	7 	12 	1 	13 	0 	;
+Hos 	7 	12 	1 	14 	1 	I 	PRP
+Hos 	7 	12 	1 	15 	1 	will 	MD
+Hos 	7 	12 	1 	16 	1 	bring 	NN
+Hos 	7 	12 	1 	17 	1 	them 	PRP
+Hos 	7 	12 	1 	18 	1 	down 	RB
+Hos 	7 	12 	1 	19 	1 	as 	IN
+Hos 	7 	12 	1 	20 	1 	the 	DT
+Hos 	7 	12 	1 	21 	1 	fowls 	NN
+Hos 	7 	12 	1 	22 	1 	of 	IN
+Hos 	7 	12 	1 	23 	1 	the 	DT
+Hos 	7 	12 	1 	24 	1 	heaven 	NN
+Hos 	7 	12 	1 	25 	0 	;
+Hos 	7 	12 	1 	26 	1 	I 	PRP
+Hos 	7 	12 	1 	27 	1 	will 	MD
+Hos 	7 	12 	1 	28 	1 	chastise 	NN
+Hos 	7 	12 	1 	29 	1 	them 	PRP
+Hos 	7 	12 	1 	30 	0 	,
+Hos 	7 	12 	1 	31 	1 	as 	IN
+Hos 	7 	12 	1 	32 	1 	their 	PRP$
+Hos 	7 	12 	1 	33 	1 	congregation 	NN
+Hos 	7 	12 	1 	34 	1 	hath 	NN
+Hos 	7 	12 	1 	35 	1 	heard 	NN
+Hos 	7 	12 	1 	36 	0 	.
+Hos 	7 	13 	1 	1 	1 	Woe 	NN
+Hos 	7 	13 	1 	2 	1 	unto 	NN
+Hos 	7 	13 	1 	3 	1 	them 	PRP
+Hos 	7 	13 	1 	4 	0 	!
+Hos 	7 	13 	2 	1 	1 	for 	IN
+Hos 	7 	13 	2 	2 	1 	they 	PRP
+Hos 	7 	13 	2 	3 	1 	have 	VB
+Hos 	7 	13 	2 	4 	1 	fled 	VBN
+Hos 	7 	13 	2 	5 	1 	from 	IN
+Hos 	7 	13 	2 	6 	1 	me 	PRP
+Hos 	7 	13 	2 	7 	0 	:
+Hos 	7 	13 	2 	8 	1 	destruction 	NN
+Hos 	7 	13 	2 	9 	1 	unto 	NN
+Hos 	7 	13 	2 	10 	1 	them 	PRP
+Hos 	7 	13 	2 	11 	0 	!
+Hos 	7 	13 	3 	1 	1 	because 	IN
+Hos 	7 	13 	3 	2 	1 	they 	PRP
+Hos 	7 	13 	3 	3 	1 	have 	VB
+Hos 	7 	13 	3 	4 	1 	transgressed 	VBN
+Hos 	7 	13 	3 	5 	1 	against 	IN
+Hos 	7 	13 	3 	6 	1 	me 	PRP
+Hos 	7 	13 	3 	7 	0 	:
+Hos 	7 	13 	3 	8 	1 	though 	IN
+Hos 	7 	13 	3 	9 	1 	I 	PRP
+Hos 	7 	13 	3 	10 	1 	have 	VB
+Hos 	7 	13 	3 	11 	1 	redeemed 	VBN
+Hos 	7 	13 	3 	12 	1 	them 	PRP
+Hos 	7 	13 	3 	13 	0 	,
+Hos 	7 	13 	3 	14 	1 	yet 	RB
+Hos 	7 	13 	3 	15 	1 	they 	PRP
+Hos 	7 	13 	3 	16 	1 	have 	VB
+Hos 	7 	13 	3 	17 	1 	spoken 	NN
+Hos 	7 	13 	3 	18 	1 	lies 	NNS
+Hos 	7 	13 	3 	19 	1 	against 	IN
+Hos 	7 	13 	3 	20 	1 	me 	PRP
+Hos 	7 	13 	3 	21 	0 	.
+Hos 	7 	14 	1 	1 	1 	And 	CC
+Hos 	7 	14 	1 	2 	1 	they 	PRP
+Hos 	7 	14 	1 	3 	1 	have 	VB
+Hos 	7 	14 	1 	4 	1 	not 	RB
+Hos 	7 	14 	1 	5 	1 	cried 	VBN
+Hos 	7 	14 	1 	6 	1 	unto 	NN
+Hos 	7 	14 	1 	7 	1 	me 	PRP
+Hos 	7 	14 	1 	8 	1 	with 	IN
+Hos 	7 	14 	1 	9 	1 	their 	PRP$
+Hos 	7 	14 	1 	10 	1 	heart 	NN
+Hos 	7 	14 	1 	11 	0 	,
+Hos 	7 	14 	1 	12 	1 	when 	WRB
+Hos 	7 	14 	1 	13 	1 	they 	PRP
+Hos 	7 	14 	1 	14 	1 	howled 	VBN
+Hos 	7 	14 	1 	15 	1 	upon 	IN
+Hos 	7 	14 	1 	16 	1 	their 	PRP$
+Hos 	7 	14 	1 	17 	1 	beds 	NNS
+Hos 	7 	14 	1 	18 	0 	:
+Hos 	7 	14 	1 	19 	1 	they 	PRP
+Hos 	7 	14 	1 	20 	1 	assemble 	JJ
+Hos 	7 	14 	1 	21 	1 	themselves 	PRP
+Hos 	7 	14 	1 	22 	1 	for 	IN
+Hos 	7 	14 	1 	23 	1 	corn 	NN
+Hos 	7 	14 	1 	24 	1 	and 	CC
+Hos 	7 	14 	1 	25 	1 	wine 	NN
+Hos 	7 	14 	1 	26 	0 	,
+Hos 	7 	14 	1 	27 	1 	and 	CC
+Hos 	7 	14 	1 	28 	1 	they 	PRP
+Hos 	7 	14 	1 	29 	1 	rebel 	NN
+Hos 	7 	14 	1 	30 	1 	against 	IN
+Hos 	7 	14 	1 	31 	1 	me 	PRP
+Hos 	7 	14 	1 	32 	0 	.
+Hos 	7 	15 	1 	1 	1 	Though 	IN
+Hos 	7 	15 	1 	2 	1 	I 	PRP
+Hos 	7 	15 	1 	3 	1 	have 	VB
+Hos 	7 	15 	1 	4 	1 	bound 	NN
+Hos 	7 	15 	1 	5 	1 	and 	CC
+Hos 	7 	15 	1 	6 	1 	strengthened 	VBN
+Hos 	7 	15 	1 	7 	1 	their 	PRP$
+Hos 	7 	15 	1 	8 	1 	arms 	NNS
+Hos 	7 	15 	1 	9 	0 	,
+Hos 	7 	15 	1 	10 	1 	yet 	RB
+Hos 	7 	15 	1 	11 	1 	do 	VB
+Hos 	7 	15 	1 	12 	1 	they 	PRP
+Hos 	7 	15 	1 	13 	1 	imagine 	NN
+Hos 	7 	15 	1 	14 	1 	mischief 	NN
+Hos 	7 	15 	1 	15 	1 	against 	IN
+Hos 	7 	15 	1 	16 	1 	me 	PRP
+Hos 	7 	15 	1 	17 	0 	.
+Hos 	7 	16 	1 	1 	1 	They 	PRP
+Hos 	7 	16 	1 	2 	1 	return 	NN
+Hos 	7 	16 	1 	3 	0 	,
+Hos 	7 	16 	1 	4 	1 	but 	CC
+Hos 	7 	16 	1 	5 	1 	not 	RB
+Hos 	7 	16 	1 	6 	1 	to 	TO
+Hos 	7 	16 	1 	7 	1 	the 	DT
+Hos 	7 	16 	1 	8 	1 	most 	JJS
+Hos 	7 	16 	1 	9 	1 	High 	JJ
+Hos 	7 	16 	1 	10 	0 	:
+Hos 	7 	16 	1 	11 	1 	they 	PRP
+Hos 	7 	16 	1 	12 	1 	are 	VBP
+Hos 	7 	16 	1 	13 	1 	like 	IN
+Hos 	7 	16 	1 	14 	1 	a 	DT
+Hos 	7 	16 	1 	15 	1 	deceitful 	NN
+Hos 	7 	16 	1 	16 	1 	bow 	NN
+Hos 	7 	16 	1 	17 	0 	:
+Hos 	7 	16 	1 	18 	1 	their 	PRP$
+Hos 	7 	16 	1 	19 	1 	princes 	NNS
+Hos 	7 	16 	1 	20 	1 	shall 	MD
+Hos 	7 	16 	1 	21 	1 	fall 	NN
+Hos 	7 	16 	1 	22 	1 	by 	IN
+Hos 	7 	16 	1 	23 	1 	the 	DT
+Hos 	7 	16 	1 	24 	1 	sword 	NN
+Hos 	7 	16 	1 	25 	1 	for 	IN
+Hos 	7 	16 	1 	26 	1 	the 	DT
+Hos 	7 	16 	1 	27 	1 	rage 	NN
+Hos 	7 	16 	1 	28 	1 	of 	IN
+Hos 	7 	16 	1 	29 	1 	their 	PRP$
+Hos 	7 	16 	1 	30 	1 	tongue 	NN
+Hos 	7 	16 	1 	31 	0 	:
+Hos 	7 	16 	1 	32 	1 	this 	DT
+Hos 	7 	16 	1 	33 	1 	shall 	MD
+Hos 	7 	16 	1 	34 	1 	be 	VB
+Hos 	7 	16 	1 	35 	1 	their 	PRP$
+Hos 	7 	16 	1 	36 	1 	derision 	NN
+Hos 	7 	16 	1 	37 	1 	in 	IN
+Hos 	7 	16 	1 	38 	1 	the 	DT
+Hos 	7 	16 	1 	39 	1 	land 	NN
+Hos 	7 	16 	1 	40 	1 	of 	IN
+Hos 	7 	16 	1 	41 	1 	Egypt 	NN
+Hos 	7 	16 	1 	42 	0 	.
+Hos 	8 	1 	1 	1 	1 	Set 	NN
+Hos 	8 	1 	1 	2 	1 	the 	DT
+Hos 	8 	1 	1 	3 	1 	trumpet 	NN
+Hos 	8 	1 	1 	4 	1 	to 	TO
+Hos 	8 	1 	1 	5 	1 	thy 	NN
+Hos 	8 	1 	1 	6 	1 	mouth 	NN
+Hos 	8 	1 	1 	7 	0 	.
+Hos 	8 	1 	2 	1 	1 	He 	PRP
+Hos 	8 	1 	2 	2 	1 	shall 	MD
+Hos 	8 	1 	2 	3 	1 	come 	VB
+Hos 	8 	1 	2 	4 	1 	as 	IN
+Hos 	8 	1 	2 	5 	1 	an 	DT
+Hos 	8 	1 	2 	6 	1 	eagle 	NN
+Hos 	8 	1 	2 	7 	1 	against 	IN
+Hos 	8 	1 	2 	8 	1 	the 	DT
+Hos 	8 	1 	2 	9 	1 	house 	NN
+Hos 	8 	1 	2 	10 	1 	of 	IN
+Hos 	8 	1 	2 	11 	1 	the 	DT
+Hos 	8 	1 	2 	12 	1 	LORD 	NN
+Hos 	8 	1 	2 	13 	0 	,
+Hos 	8 	1 	2 	14 	1 	because 	IN
+Hos 	8 	1 	2 	15 	1 	they 	PRP
+Hos 	8 	1 	2 	16 	1 	have 	VB
+Hos 	8 	1 	2 	17 	1 	transgressed 	VBN
+Hos 	8 	1 	2 	18 	1 	my 	PRP$
+Hos 	8 	1 	2 	19 	1 	covenant 	NN
+Hos 	8 	1 	2 	20 	0 	,
+Hos 	8 	1 	2 	21 	1 	and 	CC
+Hos 	8 	1 	2 	22 	1 	trespassed 	VBN
+Hos 	8 	1 	2 	23 	1 	against 	IN
+Hos 	8 	1 	2 	24 	1 	my 	PRP$
+Hos 	8 	1 	2 	25 	1 	law 	NN
+Hos 	8 	1 	2 	26 	0 	.
+Hos 	8 	2 	1 	1 	1 	Israel 	NNP
+Hos 	8 	2 	1 	2 	1 	shall 	MD
+Hos 	8 	2 	1 	3 	1 	cry 	NN
+Hos 	8 	2 	1 	4 	1 	unto 	NN
+Hos 	8 	2 	1 	5 	1 	me 	PRP
+Hos 	8 	2 	1 	6 	0 	,
+Hos 	8 	2 	1 	7 	1 	My 	PRP$
+Hos 	8 	2 	1 	8 	1 	God 	NNP
+Hos 	8 	2 	1 	9 	0 	,
+Hos 	8 	2 	1 	10 	1 	we 	PRP
+Hos 	8 	2 	1 	11 	1 	know 	VB
+Hos 	8 	2 	1 	12 	1 	thee 	NN
+Hos 	8 	2 	1 	13 	0 	.
+Hos 	8 	3 	1 	1 	1 	Israel 	NNP
+Hos 	8 	3 	1 	2 	1 	hath 	NN
+Hos 	8 	3 	1 	3 	1 	cast 	NN
+Hos 	8 	3 	1 	4 	1 	off 	IN
+Hos 	8 	3 	1 	5 	1 	the 	DT
+Hos 	8 	3 	1 	6 	1 	thing 	NN
+Hos 	8 	3 	1 	7 	1 	that 	IN
+Hos 	8 	3 	1 	8 	1 	is 	VBZ
+Hos 	8 	3 	1 	9 	1 	good 	JJ
+Hos 	8 	3 	1 	10 	0 	:
+Hos 	8 	3 	1 	11 	1 	the 	DT
+Hos 	8 	3 	1 	12 	1 	enemy 	NN
+Hos 	8 	3 	1 	13 	1 	shall 	MD
+Hos 	8 	3 	1 	14 	1 	pursue 	NN
+Hos 	8 	3 	1 	15 	1 	him 	PRP
+Hos 	8 	3 	1 	16 	0 	.
+Hos 	8 	4 	1 	1 	1 	They 	PRP
+Hos 	8 	4 	1 	2 	1 	have 	VB
+Hos 	8 	4 	1 	3 	1 	set 	NN
+Hos 	8 	4 	1 	4 	1 	up 	RB
+Hos 	8 	4 	1 	5 	1 	kings 	NNS
+Hos 	8 	4 	1 	6 	0 	,
+Hos 	8 	4 	1 	7 	1 	but 	CC
+Hos 	8 	4 	1 	8 	1 	not 	RB
+Hos 	8 	4 	1 	9 	1 	by 	IN
+Hos 	8 	4 	1 	10 	1 	me 	PRP
+Hos 	8 	4 	1 	11 	0 	:
+Hos 	8 	4 	1 	12 	1 	they 	PRP
+Hos 	8 	4 	1 	13 	1 	have 	VB
+Hos 	8 	4 	1 	14 	1 	made 	VBN
+Hos 	8 	4 	1 	15 	1 	princes 	NNS
+Hos 	8 	4 	1 	16 	0 	,
+Hos 	8 	4 	1 	17 	1 	and 	CC
+Hos 	8 	4 	1 	18 	1 	I 	PRP
+Hos 	8 	4 	1 	19 	1 	knew 	NNS
+Hos 	8 	4 	1 	20 	1 	it 	PRP
+Hos 	8 	4 	1 	21 	1 	not 	RB
+Hos 	8 	4 	1 	22 	0 	:
+Hos 	8 	4 	1 	23 	1 	of 	IN
+Hos 	8 	4 	1 	24 	1 	their 	PRP$
+Hos 	8 	4 	1 	25 	1 	silver 	NN
+Hos 	8 	4 	1 	26 	1 	and 	CC
+Hos 	8 	4 	1 	27 	1 	their 	PRP$
+Hos 	8 	4 	1 	28 	1 	gold 	NN
+Hos 	8 	4 	1 	29 	1 	have 	VB
+Hos 	8 	4 	1 	30 	1 	they 	PRP
+Hos 	8 	4 	1 	31 	1 	made 	VBN
+Hos 	8 	4 	1 	32 	1 	them 	PRP
+Hos 	8 	4 	1 	33 	1 	idols 	NNS
+Hos 	8 	4 	1 	34 	0 	,
+Hos 	8 	4 	1 	35 	1 	that 	IN
+Hos 	8 	4 	1 	36 	1 	they 	PRP
+Hos 	8 	4 	1 	37 	1 	may 	MD
+Hos 	8 	4 	1 	38 	1 	be 	VB
+Hos 	8 	4 	1 	39 	1 	cut 	NN
+Hos 	8 	4 	1 	40 	1 	off 	IN
+Hos 	8 	4 	1 	41 	0 	.
+Hos 	8 	5 	1 	1 	1 	Thy 	NN
+Hos 	8 	5 	1 	2 	1 	calf 	NN
+Hos 	8 	5 	1 	3 	0 	,
+Hos 	8 	5 	1 	4 	1 	O 	NN
+Hos 	8 	5 	1 	5 	1 	Samaria 	NNS
+Hos 	8 	5 	1 	6 	0 	,
+Hos 	8 	5 	1 	7 	1 	hath 	NN
+Hos 	8 	5 	1 	8 	1 	cast 	NN
+Hos 	8 	5 	1 	9 	1 	thee 	NN
+Hos 	8 	5 	1 	10 	1 	off 	IN
+Hos 	8 	5 	1 	11 	0 	;
+Hos 	8 	5 	1 	12 	1 	mine 	NN
+Hos 	8 	5 	1 	13 	1 	anger 	NN
+Hos 	8 	5 	1 	14 	1 	is 	VBZ
+Hos 	8 	5 	1 	15 	1 	kindled 	VBN
+Hos 	8 	5 	1 	16 	1 	against 	IN
+Hos 	8 	5 	1 	17 	1 	them 	PRP
+Hos 	8 	5 	1 	18 	0 	:
+Hos 	8 	5 	1 	19 	1 	how 	WRB
+Hos 	8 	5 	1 	20 	1 	long 	RB
+Hos 	8 	5 	1 	21 	1 	will 	MD
+Hos 	8 	5 	1 	22 	1 	it 	PRP
+Hos 	8 	5 	1 	23 	1 	be 	VB
+Hos 	8 	5 	1 	24 	1 	ere 	RB
+Hos 	8 	5 	1 	25 	1 	they 	PRP
+Hos 	8 	5 	1 	26 	1 	attain 	NN
+Hos 	8 	5 	1 	27 	1 	to 	TO
+Hos 	8 	5 	1 	28 	1 	innocency 	NN
+Hos 	8 	5 	1 	29 	0 	?
+Hos 	8 	6 	1 	1 	1 	For 	IN
+Hos 	8 	6 	1 	2 	1 	from 	IN
+Hos 	8 	6 	1 	3 	1 	Israel 	NNP
+Hos 	8 	6 	1 	4 	1 	was 	VBD
+Hos 	8 	6 	1 	5 	1 	it 	PRP
+Hos 	8 	6 	1 	6 	1 	also 	RB
+Hos 	8 	6 	1 	7 	0 	:
+Hos 	8 	6 	1 	8 	1 	the 	DT
+Hos 	8 	6 	1 	9 	1 	workman 	NN
+Hos 	8 	6 	1 	10 	1 	made 	VBN
+Hos 	8 	6 	1 	11 	1 	it 	PRP
+Hos 	8 	6 	1 	12 	0 	;
+Hos 	8 	6 	1 	13 	1 	therefore 	RB
+Hos 	8 	6 	1 	14 	1 	it 	PRP
+Hos 	8 	6 	1 	15 	1 	is 	VBZ
+Hos 	8 	6 	1 	16 	1 	not 	RB
+Hos 	8 	6 	1 	17 	1 	God 	NNP
+Hos 	8 	6 	1 	18 	0 	:
+Hos 	8 	6 	1 	19 	1 	but 	CC
+Hos 	8 	6 	1 	20 	1 	the 	DT
+Hos 	8 	6 	1 	21 	1 	calf 	NN
+Hos 	8 	6 	1 	22 	1 	of 	IN
+Hos 	8 	6 	1 	23 	1 	Samaria 	NNS
+Hos 	8 	6 	1 	24 	1 	shall 	MD
+Hos 	8 	6 	1 	25 	1 	be 	VB
+Hos 	8 	6 	1 	26 	1 	broken 	NN
+Hos 	8 	6 	1 	27 	1 	in 	IN
+Hos 	8 	6 	1 	28 	1 	pieces 	NNS
+Hos 	8 	6 	1 	29 	0 	.
+Hos 	8 	7 	1 	1 	1 	For 	IN
+Hos 	8 	7 	1 	2 	1 	they 	PRP
+Hos 	8 	7 	1 	3 	1 	have 	VB
+Hos 	8 	7 	1 	4 	1 	sown 	NN
+Hos 	8 	7 	1 	5 	1 	the 	DT
+Hos 	8 	7 	1 	6 	1 	wind 	NN
+Hos 	8 	7 	1 	7 	0 	,
+Hos 	8 	7 	1 	8 	1 	and 	CC
+Hos 	8 	7 	1 	9 	1 	they 	PRP
+Hos 	8 	7 	1 	10 	1 	shall 	MD
+Hos 	8 	7 	1 	11 	1 	reap 	NN
+Hos 	8 	7 	1 	12 	1 	the 	DT
+Hos 	8 	7 	1 	13 	1 	whirlwind 	NN
+Hos 	8 	7 	1 	14 	0 	:
+Hos 	8 	7 	1 	15 	1 	it 	PRP
+Hos 	8 	7 	1 	16 	1 	hath 	NN
+Hos 	8 	7 	1 	17 	1 	no 	DT
+Hos 	8 	7 	1 	18 	1 	stalk 	NN
+Hos 	8 	7 	1 	19 	0 	;
+Hos 	8 	7 	1 	20 	1 	the 	DT
+Hos 	8 	7 	1 	21 	1 	bud 	NN
+Hos 	8 	7 	1 	22 	1 	shall 	MD
+Hos 	8 	7 	1 	23 	1 	yield 	NN
+Hos 	8 	7 	1 	24 	1 	no 	DT
+Hos 	8 	7 	1 	25 	1 	meal 	NN
+Hos 	8 	7 	1 	26 	0 	:
+Hos 	8 	7 	1 	27 	1 	if 	IN
+Hos 	8 	7 	1 	28 	1 	so 	RB
+Hos 	8 	7 	1 	29 	1 	be 	VB
+Hos 	8 	7 	1 	30 	1 	it 	PRP
+Hos 	8 	7 	1 	31 	1 	yield 	NN
+Hos 	8 	7 	1 	32 	0 	,
+Hos 	8 	7 	1 	33 	1 	the 	DT
+Hos 	8 	7 	1 	34 	1 	strangers 	NNS
+Hos 	8 	7 	1 	35 	1 	shall 	MD
+Hos 	8 	7 	1 	36 	1 	swallow 	NN
+Hos 	8 	7 	1 	37 	1 	it 	PRP
+Hos 	8 	7 	1 	38 	1 	up 	RB
+Hos 	8 	7 	1 	39 	0 	.
+Hos 	8 	8 	1 	1 	1 	Israel 	NNP
+Hos 	8 	8 	1 	2 	1 	is 	VBZ
+Hos 	8 	8 	1 	3 	1 	swallowed 	VBN
+Hos 	8 	8 	1 	4 	1 	up 	RB
+Hos 	8 	8 	1 	5 	0 	:
+Hos 	8 	8 	1 	6 	1 	now 	RB
+Hos 	8 	8 	1 	7 	1 	shall 	MD
+Hos 	8 	8 	1 	8 	1 	they 	PRP
+Hos 	8 	8 	1 	9 	1 	be 	VB
+Hos 	8 	8 	1 	10 	1 	among 	IN
+Hos 	8 	8 	1 	11 	1 	the 	DT
+Hos 	8 	8 	1 	12 	1 	Gentiles 	NNS
+Hos 	8 	8 	1 	13 	1 	as 	IN
+Hos 	8 	8 	1 	14 	1 	a 	DT
+Hos 	8 	8 	1 	15 	1 	vessel 	NN
+Hos 	8 	8 	1 	16 	1 	wherein 	NN
+Hos 	8 	8 	1 	17 	1 	is 	VBZ
+Hos 	8 	8 	1 	18 	1 	no 	DT
+Hos 	8 	8 	1 	19 	1 	pleasure 	NN
+Hos 	8 	8 	1 	20 	0 	.
+Hos 	8 	9 	1 	1 	1 	For 	IN
+Hos 	8 	9 	1 	2 	1 	they 	PRP
+Hos 	8 	9 	1 	3 	1 	are 	VBP
+Hos 	8 	9 	1 	4 	1 	gone 	VBN
+Hos 	8 	9 	1 	5 	1 	up 	RB
+Hos 	8 	9 	1 	6 	1 	to 	TO
+Hos 	8 	9 	1 	7 	1 	Assyria 	NNS
+Hos 	8 	9 	1 	8 	0 	,
+Hos 	8 	9 	1 	9 	1 	a 	DT
+Hos 	8 	9 	1 	10 	1 	wild 	NN
+Hos 	8 	9 	1 	11 	1 	ass 	NN
+Hos 	8 	9 	1 	12 	1 	alone 	RB
+Hos 	8 	9 	1 	13 	1 	by 	IN
+Hos 	8 	9 	1 	14 	1 	himself 	PRP
+Hos 	8 	9 	1 	15 	0 	:
+Hos 	8 	9 	1 	16 	1 	Ephraim 	NN
+Hos 	8 	9 	1 	17 	1 	hath 	NN
+Hos 	8 	9 	1 	18 	1 	hired 	VBN
+Hos 	8 	9 	1 	19 	1 	lovers 	NNS
+Hos 	8 	9 	1 	20 	0 	.
+Hos 	8 	10 	1 	1 	1 	Yea 	NN
+Hos 	8 	10 	1 	2 	0 	,
+Hos 	8 	10 	1 	3 	1 	though 	IN
+Hos 	8 	10 	1 	4 	1 	they 	PRP
+Hos 	8 	10 	1 	5 	1 	have 	VB
+Hos 	8 	10 	1 	6 	1 	hired 	VBN
+Hos 	8 	10 	1 	7 	1 	among 	IN
+Hos 	8 	10 	1 	8 	1 	the 	DT
+Hos 	8 	10 	1 	9 	1 	nations 	NNS
+Hos 	8 	10 	1 	10 	0 	,
+Hos 	8 	10 	1 	11 	1 	now 	RB
+Hos 	8 	10 	1 	12 	1 	will 	MD
+Hos 	8 	10 	1 	13 	1 	I 	PRP
+Hos 	8 	10 	1 	14 	1 	gather 	NN
+Hos 	8 	10 	1 	15 	1 	them 	PRP
+Hos 	8 	10 	1 	16 	0 	,
+Hos 	8 	10 	1 	17 	1 	and 	CC
+Hos 	8 	10 	1 	18 	1 	they 	PRP
+Hos 	8 	10 	1 	19 	1 	shall 	MD
+Hos 	8 	10 	1 	20 	1 	sorrow 	NN
+Hos 	8 	10 	1 	21 	1 	a 	DT
+Hos 	8 	10 	1 	22 	1 	little 	JJ
+Hos 	8 	10 	1 	23 	1 	for 	IN
+Hos 	8 	10 	1 	24 	1 	the 	DT
+Hos 	8 	10 	1 	25 	1 	burden 	NN
+Hos 	8 	10 	1 	26 	1 	of 	IN
+Hos 	8 	10 	1 	27 	1 	the 	DT
+Hos 	8 	10 	1 	28 	1 	king 	NN
+Hos 	8 	10 	1 	29 	1 	of 	IN
+Hos 	8 	10 	1 	30 	1 	princes 	NNS
+Hos 	8 	10 	1 	31 	0 	.
+Hos 	8 	11 	1 	1 	1 	Because 	IN
+Hos 	8 	11 	1 	2 	1 	Ephraim 	NN
+Hos 	8 	11 	1 	3 	1 	hath 	NN
+Hos 	8 	11 	1 	4 	1 	made 	VBN
+Hos 	8 	11 	1 	5 	1 	many 	JJ
+Hos 	8 	11 	1 	6 	1 	altars 	NNS
+Hos 	8 	11 	1 	7 	1 	to 	TO
+Hos 	8 	11 	1 	8 	1 	sin 	NN
+Hos 	8 	11 	1 	9 	0 	,
+Hos 	8 	11 	1 	10 	1 	altars 	NNS
+Hos 	8 	11 	1 	11 	1 	shall 	MD
+Hos 	8 	11 	1 	12 	1 	be 	VB
+Hos 	8 	11 	1 	13 	1 	unto 	NN
+Hos 	8 	11 	1 	14 	1 	him 	PRP
+Hos 	8 	11 	1 	15 	1 	to 	TO
+Hos 	8 	11 	1 	16 	1 	sin 	NN
+Hos 	8 	11 	1 	17 	0 	.
+Hos 	8 	12 	1 	1 	1 	I 	PRP
+Hos 	8 	12 	1 	2 	1 	have 	VB
+Hos 	8 	12 	1 	3 	1 	written 	VBN
+Hos 	8 	12 	1 	4 	1 	to 	TO
+Hos 	8 	12 	1 	5 	1 	him 	PRP
+Hos 	8 	12 	1 	6 	1 	the 	DT
+Hos 	8 	12 	1 	7 	1 	great 	JJ
+Hos 	8 	12 	1 	8 	1 	things 	NNS
+Hos 	8 	12 	1 	9 	1 	of 	IN
+Hos 	8 	12 	1 	10 	1 	my 	PRP$
+Hos 	8 	12 	1 	11 	1 	law 	NN
+Hos 	8 	12 	1 	12 	0 	,
+Hos 	8 	12 	1 	13 	1 	but 	CC
+Hos 	8 	12 	1 	14 	1 	they 	PRP
+Hos 	8 	12 	1 	15 	1 	were 	VBD
+Hos 	8 	12 	1 	16 	1 	counted 	VBN
+Hos 	8 	12 	1 	17 	1 	as 	IN
+Hos 	8 	12 	1 	18 	1 	a 	DT
+Hos 	8 	12 	1 	19 	1 	strange 	NN
+Hos 	8 	12 	1 	20 	1 	thing 	NN
+Hos 	8 	12 	1 	21 	0 	.
+Hos 	8 	13 	1 	1 	1 	They 	PRP
+Hos 	8 	13 	1 	2 	1 	sacrifice 	NN
+Hos 	8 	13 	1 	3 	1 	flesh 	NN
+Hos 	8 	13 	1 	4 	1 	for 	IN
+Hos 	8 	13 	1 	5 	1 	the 	DT
+Hos 	8 	13 	1 	6 	1 	sacrifices 	NNS
+Hos 	8 	13 	1 	7 	1 	of 	IN
+Hos 	8 	13 	1 	8 	1 	mine 	NN
+Hos 	8 	13 	1 	9 	1 	offerings 	NNS
+Hos 	8 	13 	1 	10 	0 	,
+Hos 	8 	13 	1 	11 	1 	and 	CC
+Hos 	8 	13 	1 	12 	1 	eat 	NN
+Hos 	8 	13 	1 	13 	1 	it 	PRP
+Hos 	8 	13 	1 	14 	0 	;
+Hos 	8 	13 	1 	15 	1 	but 	CC
+Hos 	8 	13 	1 	16 	1 	the 	DT
+Hos 	8 	13 	1 	17 	1 	LORD 	NN
+Hos 	8 	13 	1 	18 	1 	accepteth 	NNS
+Hos 	8 	13 	1 	19 	1 	them 	PRP
+Hos 	8 	13 	1 	20 	1 	not 	RB
+Hos 	8 	13 	1 	21 	0 	;
+Hos 	8 	13 	1 	22 	1 	now 	RB
+Hos 	8 	13 	1 	23 	1 	will 	MD
+Hos 	8 	13 	1 	24 	1 	he 	PRP
+Hos 	8 	13 	1 	25 	1 	remember 	VB
+Hos 	8 	13 	1 	26 	1 	their 	PRP$
+Hos 	8 	13 	1 	27 	1 	iniquity 	NN
+Hos 	8 	13 	1 	28 	0 	,
+Hos 	8 	13 	1 	29 	1 	and 	CC
+Hos 	8 	13 	1 	30 	1 	visit 	NN
+Hos 	8 	13 	1 	31 	1 	their 	PRP$
+Hos 	8 	13 	1 	32 	1 	sins 	NNS
+Hos 	8 	13 	1 	33 	0 	:
+Hos 	8 	13 	1 	34 	1 	they 	PRP
+Hos 	8 	13 	1 	35 	1 	shall 	MD
+Hos 	8 	13 	1 	36 	1 	return 	NN
+Hos 	8 	13 	1 	37 	1 	to 	TO
+Hos 	8 	13 	1 	38 	1 	Egypt 	NN
+Hos 	8 	13 	1 	39 	0 	.
+Hos 	8 	14 	1 	1 	1 	For 	IN
+Hos 	8 	14 	1 	2 	1 	Israel 	NNP
+Hos 	8 	14 	1 	3 	1 	hath 	NN
+Hos 	8 	14 	1 	4 	1 	forgotten 	NNS
+Hos 	8 	14 	1 	5 	1 	his 	PRP$
+Hos 	8 	14 	1 	6 	1 	Maker 	NN
+Hos 	8 	14 	1 	7 	0 	,
+Hos 	8 	14 	1 	8 	1 	and 	CC
+Hos 	8 	14 	1 	9 	1 	buildeth 	NN
+Hos 	8 	14 	1 	10 	1 	temples 	NNS
+Hos 	8 	14 	1 	11 	0 	;
+Hos 	8 	14 	1 	12 	1 	and 	CC
+Hos 	8 	14 	1 	13 	1 	Judah 	NN
+Hos 	8 	14 	1 	14 	1 	hath 	NN
+Hos 	8 	14 	1 	15 	1 	multiplied 	VBN
+Hos 	8 	14 	1 	16 	1 	fenced 	VBN
+Hos 	8 	14 	1 	17 	1 	cities 	NNS
+Hos 	8 	14 	1 	18 	0 	:
+Hos 	8 	14 	1 	19 	1 	but 	CC
+Hos 	8 	14 	1 	20 	1 	I 	PRP
+Hos 	8 	14 	1 	21 	1 	will 	MD
+Hos 	8 	14 	1 	22 	1 	send 	NN
+Hos 	8 	14 	1 	23 	1 	a 	DT
+Hos 	8 	14 	1 	24 	1 	fire 	NN
+Hos 	8 	14 	1 	25 	1 	upon 	IN
+Hos 	8 	14 	1 	26 	1 	his 	PRP$
+Hos 	8 	14 	1 	27 	1 	cities 	NNS
+Hos 	8 	14 	1 	28 	0 	,
+Hos 	8 	14 	1 	29 	1 	and 	CC
+Hos 	8 	14 	1 	30 	1 	it 	PRP
+Hos 	8 	14 	1 	31 	1 	shall 	MD
+Hos 	8 	14 	1 	32 	1 	devour 	NN
+Hos 	8 	14 	1 	33 	1 	the 	DT
+Hos 	8 	14 	1 	34 	1 	palaces 	NNS
+Hos 	8 	14 	1 	35 	1 	thereof 	NN
+Hos 	8 	14 	1 	36 	0 	.
+Hos 	9 	1 	1 	1 	1 	Rejoice 	NN
+Hos 	9 	1 	1 	2 	1 	not 	RB
+Hos 	9 	1 	1 	3 	0 	,
+Hos 	9 	1 	1 	4 	1 	O 	NN
+Hos 	9 	1 	1 	5 	1 	Israel 	NNP
+Hos 	9 	1 	1 	6 	0 	,
+Hos 	9 	1 	1 	7 	1 	for 	IN
+Hos 	9 	1 	1 	8 	1 	joy 	NN
+Hos 	9 	1 	1 	9 	0 	,
+Hos 	9 	1 	1 	10 	1 	as 	IN
+Hos 	9 	1 	1 	11 	1 	other 	JJ
+Hos 	9 	1 	1 	12 	1 	people 	NNS
+Hos 	9 	1 	1 	13 	0 	:
+Hos 	9 	1 	1 	14 	1 	for 	IN
+Hos 	9 	1 	1 	15 	1 	thou 	NN
+Hos 	9 	1 	1 	16 	1 	hast 	NN
+Hos 	9 	1 	1 	17 	1 	gone 	VBN
+Hos 	9 	1 	1 	18 	1 	a 	DT
+Hos 	9 	1 	1 	19 	1 	whoring 	VBG
+Hos 	9 	1 	1 	20 	1 	from 	IN
+Hos 	9 	1 	1 	21 	1 	thy 	NN
+Hos 	9 	1 	1 	22 	1 	God 	NNP
+Hos 	9 	1 	1 	23 	0 	,
+Hos 	9 	1 	1 	24 	1 	thou 	NN
+Hos 	9 	1 	1 	25 	1 	hast 	NN
+Hos 	9 	1 	1 	26 	1 	loved 	VBN
+Hos 	9 	1 	1 	27 	1 	a 	DT
+Hos 	9 	1 	1 	28 	1 	reward 	NN
+Hos 	9 	1 	1 	29 	1 	upon 	IN
+Hos 	9 	1 	1 	30 	1 	every 	DT
+Hos 	9 	1 	1 	31 	1 	cornfloor 	NN
+Hos 	9 	1 	1 	32 	0 	.
+Hos 	9 	2 	1 	1 	1 	The 	DT
+Hos 	9 	2 	1 	2 	1 	floor 	NN
+Hos 	9 	2 	1 	3 	1 	and 	CC
+Hos 	9 	2 	1 	4 	1 	the 	DT
+Hos 	9 	2 	1 	5 	1 	winepress 	NN
+Hos 	9 	2 	1 	6 	1 	shall 	MD
+Hos 	9 	2 	1 	7 	1 	not 	RB
+Hos 	9 	2 	1 	8 	1 	feed 	NN
+Hos 	9 	2 	1 	9 	1 	them 	PRP
+Hos 	9 	2 	1 	10 	0 	,
+Hos 	9 	2 	1 	11 	1 	and 	CC
+Hos 	9 	2 	1 	12 	1 	the 	DT
+Hos 	9 	2 	1 	13 	1 	new 	JJ
+Hos 	9 	2 	1 	14 	1 	wine 	NN
+Hos 	9 	2 	1 	15 	1 	shall 	MD
+Hos 	9 	2 	1 	16 	1 	fail 	NN
+Hos 	9 	2 	1 	17 	1 	in 	IN
+Hos 	9 	2 	1 	18 	1 	her 	PRP$
+Hos 	9 	2 	1 	19 	0 	.
+Hos 	9 	3 	1 	1 	1 	They 	PRP
+Hos 	9 	3 	1 	2 	1 	shall 	MD
+Hos 	9 	3 	1 	3 	1 	not 	RB
+Hos 	9 	3 	1 	4 	1 	dwell 	NN
+Hos 	9 	3 	1 	5 	1 	in 	IN
+Hos 	9 	3 	1 	6 	1 	the 	DT
+Hos 	9 	3 	1 	7 	1 	LORD 	NN
+Hos 	9 	3 	1 	8 	0 	's
+Hos 	9 	3 	1 	9 	1 	land 	NN
+Hos 	9 	3 	1 	10 	0 	;
+Hos 	9 	3 	1 	11 	1 	but 	CC
+Hos 	9 	3 	1 	12 	1 	Ephraim 	NN
+Hos 	9 	3 	1 	13 	1 	shall 	MD
+Hos 	9 	3 	1 	14 	1 	return 	NN
+Hos 	9 	3 	1 	15 	1 	to 	TO
+Hos 	9 	3 	1 	16 	1 	Egypt 	NN
+Hos 	9 	3 	1 	17 	0 	,
+Hos 	9 	3 	1 	18 	1 	and 	CC
+Hos 	9 	3 	1 	19 	1 	they 	PRP
+Hos 	9 	3 	1 	20 	1 	shall 	MD
+Hos 	9 	3 	1 	21 	1 	eat 	NN
+Hos 	9 	3 	1 	22 	1 	unclean 	JJ
+Hos 	9 	3 	1 	23 	1 	things 	NNS
+Hos 	9 	3 	1 	24 	1 	in 	IN
+Hos 	9 	3 	1 	25 	1 	Assyria 	NNS
+Hos 	9 	3 	1 	26 	0 	.
+Hos 	9 	4 	1 	1 	1 	They 	PRP
+Hos 	9 	4 	1 	2 	1 	shall 	MD
+Hos 	9 	4 	1 	3 	1 	not 	RB
+Hos 	9 	4 	1 	4 	1 	offer 	NN
+Hos 	9 	4 	1 	5 	1 	wine 	NN
+Hos 	9 	4 	1 	6 	1 	offerings 	NNS
+Hos 	9 	4 	1 	7 	1 	to 	TO
+Hos 	9 	4 	1 	8 	1 	the 	DT
+Hos 	9 	4 	1 	9 	1 	LORD 	NN
+Hos 	9 	4 	1 	10 	0 	,
+Hos 	9 	4 	1 	11 	1 	neither 	DT
+Hos 	9 	4 	1 	12 	1 	shall 	MD
+Hos 	9 	4 	1 	13 	1 	they 	PRP
+Hos 	9 	4 	1 	14 	1 	be 	VB
+Hos 	9 	4 	1 	15 	1 	pleasing 	VBG
+Hos 	9 	4 	1 	16 	1 	unto 	NN
+Hos 	9 	4 	1 	17 	1 	him 	PRP
+Hos 	9 	4 	1 	18 	0 	:
+Hos 	9 	4 	1 	19 	1 	their 	PRP$
+Hos 	9 	4 	1 	20 	1 	sacrifices 	NNS
+Hos 	9 	4 	1 	21 	1 	shall 	MD
+Hos 	9 	4 	1 	22 	1 	be 	VB
+Hos 	9 	4 	1 	23 	1 	unto 	NN
+Hos 	9 	4 	1 	24 	1 	them 	PRP
+Hos 	9 	4 	1 	25 	1 	as 	IN
+Hos 	9 	4 	1 	26 	1 	the 	DT
+Hos 	9 	4 	1 	27 	1 	bread 	NN
+Hos 	9 	4 	1 	28 	1 	of 	IN
+Hos 	9 	4 	1 	29 	1 	mourners 	NNS
+Hos 	9 	4 	1 	30 	0 	;
+Hos 	9 	4 	1 	31 	1 	all 	DT
+Hos 	9 	4 	1 	32 	1 	that 	IN
+Hos 	9 	4 	1 	33 	1 	eat 	NN
+Hos 	9 	4 	1 	34 	1 	thereof 	NN
+Hos 	9 	4 	1 	35 	1 	shall 	MD
+Hos 	9 	4 	1 	36 	1 	be 	VB
+Hos 	9 	4 	1 	37 	1 	polluted 	VBN
+Hos 	9 	4 	1 	38 	0 	:
+Hos 	9 	4 	1 	39 	1 	for 	IN
+Hos 	9 	4 	1 	40 	1 	their 	PRP$
+Hos 	9 	4 	1 	41 	1 	bread 	NN
+Hos 	9 	4 	1 	42 	1 	for 	IN
+Hos 	9 	4 	1 	43 	1 	their 	PRP$
+Hos 	9 	4 	1 	44 	1 	soul 	NN
+Hos 	9 	4 	1 	45 	1 	shall 	MD
+Hos 	9 	4 	1 	46 	1 	not 	RB
+Hos 	9 	4 	1 	47 	1 	come 	VB
+Hos 	9 	4 	1 	48 	1 	into 	IN
+Hos 	9 	4 	1 	49 	1 	the 	DT
+Hos 	9 	4 	1 	50 	1 	house 	NN
+Hos 	9 	4 	1 	51 	1 	of 	IN
+Hos 	9 	4 	1 	52 	1 	the 	DT
+Hos 	9 	4 	1 	53 	1 	LORD 	NN
+Hos 	9 	4 	1 	54 	0 	.
+Hos 	9 	5 	1 	1 	1 	What 	WP
+Hos 	9 	5 	1 	2 	1 	will 	MD
+Hos 	9 	5 	1 	3 	1 	ye 	NN
+Hos 	9 	5 	1 	4 	1 	do 	VB
+Hos 	9 	5 	1 	5 	1 	in 	IN
+Hos 	9 	5 	1 	6 	1 	the 	DT
+Hos 	9 	5 	1 	7 	1 	solemn 	NN
+Hos 	9 	5 	1 	8 	1 	day 	NN
+Hos 	9 	5 	1 	9 	0 	,
+Hos 	9 	5 	1 	10 	1 	and 	CC
+Hos 	9 	5 	1 	11 	1 	in 	IN
+Hos 	9 	5 	1 	12 	1 	the 	DT
+Hos 	9 	5 	1 	13 	1 	day 	NN
+Hos 	9 	5 	1 	14 	1 	of 	IN
+Hos 	9 	5 	1 	15 	1 	the 	DT
+Hos 	9 	5 	1 	16 	1 	feast 	NN
+Hos 	9 	5 	1 	17 	1 	of 	IN
+Hos 	9 	5 	1 	18 	1 	the 	DT
+Hos 	9 	5 	1 	19 	1 	LORD 	NN
+Hos 	9 	5 	1 	20 	0 	?
+Hos 	9 	6 	1 	1 	1 	For 	IN
+Hos 	9 	6 	1 	2 	0 	,
+Hos 	9 	6 	1 	3 	1 	lo 	NN
+Hos 	9 	6 	1 	4 	0 	,
+Hos 	9 	6 	1 	5 	1 	they 	PRP
+Hos 	9 	6 	1 	6 	1 	are 	VBP
+Hos 	9 	6 	1 	7 	1 	gone 	VBN
+Hos 	9 	6 	1 	8 	1 	because 	IN
+Hos 	9 	6 	1 	9 	1 	of 	IN
+Hos 	9 	6 	1 	10 	1 	destruction 	NN
+Hos 	9 	6 	1 	11 	0 	:
+Hos 	9 	6 	1 	12 	1 	Egypt 	NN
+Hos 	9 	6 	1 	13 	1 	shall 	MD
+Hos 	9 	6 	1 	14 	1 	gather 	NN
+Hos 	9 	6 	1 	15 	1 	them 	PRP
+Hos 	9 	6 	1 	16 	1 	up 	RB
+Hos 	9 	6 	1 	17 	0 	,
+Hos 	9 	6 	1 	18 	1 	Memphis 	NN
+Hos 	9 	6 	1 	19 	1 	shall 	MD
+Hos 	9 	6 	1 	20 	1 	bury 	NN
+Hos 	9 	6 	1 	21 	1 	them 	PRP
+Hos 	9 	6 	1 	22 	0 	:
+Hos 	9 	6 	1 	23 	1 	the 	DT
+Hos 	9 	6 	1 	24 	1 	pleasant 	NN
+Hos 	9 	6 	1 	25 	1 	places 	NNS
+Hos 	9 	6 	1 	26 	1 	for 	IN
+Hos 	9 	6 	1 	27 	1 	their 	PRP$
+Hos 	9 	6 	1 	28 	1 	silver 	NN
+Hos 	9 	6 	1 	29 	0 	,
+Hos 	9 	6 	1 	30 	1 	nettles 	NNS
+Hos 	9 	6 	1 	31 	1 	shall 	MD
+Hos 	9 	6 	1 	32 	1 	possess 	NN
+Hos 	9 	6 	1 	33 	1 	them 	PRP
+Hos 	9 	6 	1 	34 	0 	:
+Hos 	9 	6 	1 	35 	1 	thorns 	NNS
+Hos 	9 	6 	1 	36 	1 	shall 	MD
+Hos 	9 	6 	1 	37 	1 	be 	VB
+Hos 	9 	6 	1 	38 	1 	in 	IN
+Hos 	9 	6 	1 	39 	1 	their 	PRP$
+Hos 	9 	6 	1 	40 	1 	tabernacles 	NNS
+Hos 	9 	6 	1 	41 	0 	.
+Hos 	9 	7 	1 	1 	1 	The 	DT
+Hos 	9 	7 	1 	2 	1 	days 	NNS
+Hos 	9 	7 	1 	3 	1 	of 	IN
+Hos 	9 	7 	1 	4 	1 	visitation 	NN
+Hos 	9 	7 	1 	5 	1 	are 	VBP
+Hos 	9 	7 	1 	6 	1 	come 	VB
+Hos 	9 	7 	1 	7 	0 	,
+Hos 	9 	7 	1 	8 	1 	the 	DT
+Hos 	9 	7 	1 	9 	1 	days 	NNS
+Hos 	9 	7 	1 	10 	1 	of 	IN
+Hos 	9 	7 	1 	11 	1 	recompence 	NN
+Hos 	9 	7 	1 	12 	1 	are 	VBP
+Hos 	9 	7 	1 	13 	1 	come 	VB
+Hos 	9 	7 	1 	14 	0 	;
+Hos 	9 	7 	1 	15 	1 	Israel 	NNP
+Hos 	9 	7 	1 	16 	1 	shall 	MD
+Hos 	9 	7 	1 	17 	1 	know 	VB
+Hos 	9 	7 	1 	18 	1 	it 	PRP
+Hos 	9 	7 	1 	19 	0 	:
+Hos 	9 	7 	1 	20 	1 	the 	DT
+Hos 	9 	7 	1 	21 	1 	prophet 	NN
+Hos 	9 	7 	1 	22 	1 	is 	VBZ
+Hos 	9 	7 	1 	23 	1 	a 	DT
+Hos 	9 	7 	1 	24 	1 	fool 	NN
+Hos 	9 	7 	1 	25 	0 	,
+Hos 	9 	7 	1 	26 	1 	the 	DT
+Hos 	9 	7 	1 	27 	1 	spiritual 	JJ
+Hos 	9 	7 	1 	28 	1 	man 	NN
+Hos 	9 	7 	1 	29 	1 	is 	VBZ
+Hos 	9 	7 	1 	30 	1 	mad 	NN
+Hos 	9 	7 	1 	31 	0 	,
+Hos 	9 	7 	1 	32 	1 	for 	IN
+Hos 	9 	7 	1 	33 	1 	the 	DT
+Hos 	9 	7 	1 	34 	1 	multitude 	NN
+Hos 	9 	7 	1 	35 	1 	of 	IN
+Hos 	9 	7 	1 	36 	1 	thine 	NN
+Hos 	9 	7 	1 	37 	1 	iniquity 	NN
+Hos 	9 	7 	1 	38 	0 	,
+Hos 	9 	7 	1 	39 	1 	and 	CC
+Hos 	9 	7 	1 	40 	1 	the 	DT
+Hos 	9 	7 	1 	41 	1 	great 	JJ
+Hos 	9 	7 	1 	42 	1 	hatred 	VBN
+Hos 	9 	7 	1 	43 	0 	.
+Hos 	9 	8 	1 	1 	1 	The 	DT
+Hos 	9 	8 	1 	2 	1 	watchman 	NN
+Hos 	9 	8 	1 	3 	1 	of 	IN
+Hos 	9 	8 	1 	4 	1 	Ephraim 	NN
+Hos 	9 	8 	1 	5 	1 	was 	VBD
+Hos 	9 	8 	1 	6 	1 	with 	IN
+Hos 	9 	8 	1 	7 	1 	my 	PRP$
+Hos 	9 	8 	1 	8 	1 	God 	NNP
+Hos 	9 	8 	1 	9 	0 	:
+Hos 	9 	8 	1 	10 	1 	but 	CC
+Hos 	9 	8 	1 	11 	1 	the 	DT
+Hos 	9 	8 	1 	12 	1 	prophet 	NN
+Hos 	9 	8 	1 	13 	1 	is 	VBZ
+Hos 	9 	8 	1 	14 	1 	a 	DT
+Hos 	9 	8 	1 	15 	1 	snare 	NN
+Hos 	9 	8 	1 	16 	1 	of 	IN
+Hos 	9 	8 	1 	17 	1 	a 	DT
+Hos 	9 	8 	1 	18 	1 	fowler 	NN
+Hos 	9 	8 	1 	19 	1 	in 	IN
+Hos 	9 	8 	1 	20 	1 	all 	DT
+Hos 	9 	8 	1 	21 	1 	his 	PRP$
+Hos 	9 	8 	1 	22 	1 	ways 	NNS
+Hos 	9 	8 	1 	23 	0 	,
+Hos 	9 	8 	1 	24 	1 	and 	CC
+Hos 	9 	8 	1 	25 	1 	hatred 	VBN
+Hos 	9 	8 	1 	26 	1 	in 	IN
+Hos 	9 	8 	1 	27 	1 	the 	DT
+Hos 	9 	8 	1 	28 	1 	house 	NN
+Hos 	9 	8 	1 	29 	1 	of 	IN
+Hos 	9 	8 	1 	30 	1 	his 	PRP$
+Hos 	9 	8 	1 	31 	1 	God 	NNP
+Hos 	9 	8 	1 	32 	0 	.
+Hos 	9 	9 	1 	1 	1 	They 	PRP
+Hos 	9 	9 	1 	2 	1 	have 	VB
+Hos 	9 	9 	1 	3 	1 	deeply 	NN
+Hos 	9 	9 	1 	4 	1 	corrupted 	VBN
+Hos 	9 	9 	1 	5 	1 	themselves 	PRP
+Hos 	9 	9 	1 	6 	0 	,
+Hos 	9 	9 	1 	7 	1 	as 	IN
+Hos 	9 	9 	1 	8 	1 	in 	IN
+Hos 	9 	9 	1 	9 	1 	the 	DT
+Hos 	9 	9 	1 	10 	1 	days 	NNS
+Hos 	9 	9 	1 	11 	1 	of 	IN
+Hos 	9 	9 	1 	12 	1 	Gibeah 	NN
+Hos 	9 	9 	1 	13 	0 	:
+Hos 	9 	9 	1 	14 	1 	therefore 	RB
+Hos 	9 	9 	1 	15 	1 	he 	PRP
+Hos 	9 	9 	1 	16 	1 	will 	MD
+Hos 	9 	9 	1 	17 	1 	remember 	VB
+Hos 	9 	9 	1 	18 	1 	their 	PRP$
+Hos 	9 	9 	1 	19 	1 	iniquity 	NN
+Hos 	9 	9 	1 	20 	0 	,
+Hos 	9 	9 	1 	21 	1 	he 	PRP
+Hos 	9 	9 	1 	22 	1 	will 	MD
+Hos 	9 	9 	1 	23 	1 	visit 	NN
+Hos 	9 	9 	1 	24 	1 	their 	PRP$
+Hos 	9 	9 	1 	25 	1 	sins 	NNS
+Hos 	9 	9 	1 	26 	0 	.
+Hos 	9 	10 	1 	1 	1 	I 	PRP
+Hos 	9 	10 	1 	2 	1 	found 	NN
+Hos 	9 	10 	1 	3 	1 	Israel 	NNP
+Hos 	9 	10 	1 	4 	1 	like 	IN
+Hos 	9 	10 	1 	5 	1 	grapes 	NNS
+Hos 	9 	10 	1 	6 	1 	in 	IN
+Hos 	9 	10 	1 	7 	1 	the 	DT
+Hos 	9 	10 	1 	8 	1 	wilderness 	NN
+Hos 	9 	10 	1 	9 	0 	;
+Hos 	9 	10 	1 	10 	1 	I 	PRP
+Hos 	9 	10 	1 	11 	1 	saw 	NN
+Hos 	9 	10 	1 	12 	1 	your 	PRP$
+Hos 	9 	10 	1 	13 	1 	fathers 	NNS
+Hos 	9 	10 	1 	14 	1 	as 	IN
+Hos 	9 	10 	1 	15 	1 	the 	DT
+Hos 	9 	10 	1 	16 	1 	firstripe 	NN
+Hos 	9 	10 	1 	17 	1 	in 	IN
+Hos 	9 	10 	1 	18 	1 	the 	DT
+Hos 	9 	10 	1 	19 	1 	fig 	NN
+Hos 	9 	10 	1 	20 	1 	tree 	NN
+Hos 	9 	10 	1 	21 	1 	at 	IN
+Hos 	9 	10 	1 	22 	1 	her 	PRP$
+Hos 	9 	10 	1 	23 	1 	first 	RB
+Hos 	9 	10 	1 	24 	1 	time 	NN
+Hos 	9 	10 	1 	25 	0 	:
+Hos 	9 	10 	1 	26 	1 	but 	CC
+Hos 	9 	10 	1 	27 	1 	they 	PRP
+Hos 	9 	10 	1 	28 	1 	went 	VBD
+Hos 	9 	10 	1 	29 	1 	to 	TO
+Hos 	9 	10 	1 	30 	1 	Baalpeor 	NN
+Hos 	9 	10 	1 	31 	0 	,
+Hos 	9 	10 	1 	32 	1 	and 	CC
+Hos 	9 	10 	1 	33 	1 	separated 	VBN
+Hos 	9 	10 	1 	34 	1 	themselves 	PRP
+Hos 	9 	10 	1 	35 	1 	unto 	NN
+Hos 	9 	10 	1 	36 	1 	that 	IN
+Hos 	9 	10 	1 	37 	1 	shame 	NN
+Hos 	9 	10 	1 	38 	0 	;
+Hos 	9 	10 	1 	39 	1 	and 	CC
+Hos 	9 	10 	1 	40 	1 	their 	PRP$
+Hos 	9 	10 	1 	41 	1 	abominations 	NNS
+Hos 	9 	10 	1 	42 	1 	were 	VBD
+Hos 	9 	10 	1 	43 	1 	according 	VBG
+Hos 	9 	10 	1 	44 	1 	as 	IN
+Hos 	9 	10 	1 	45 	1 	they 	PRP
+Hos 	9 	10 	1 	46 	1 	loved 	VBN
+Hos 	9 	10 	1 	47 	0 	.
+Hos 	9 	11 	1 	1 	1 	As 	IN
+Hos 	9 	11 	1 	2 	1 	for 	IN
+Hos 	9 	11 	1 	3 	1 	Ephraim 	NN
+Hos 	9 	11 	1 	4 	0 	,
+Hos 	9 	11 	1 	5 	1 	their 	PRP$
+Hos 	9 	11 	1 	6 	1 	glory 	NN
+Hos 	9 	11 	1 	7 	1 	shall 	MD
+Hos 	9 	11 	1 	8 	1 	fly 	NN
+Hos 	9 	11 	1 	9 	1 	away 	RB
+Hos 	9 	11 	1 	10 	1 	like 	IN
+Hos 	9 	11 	1 	11 	1 	a 	DT
+Hos 	9 	11 	1 	12 	1 	bird 	NN
+Hos 	9 	11 	1 	13 	0 	,
+Hos 	9 	11 	1 	14 	1 	from 	IN
+Hos 	9 	11 	1 	15 	1 	the 	DT
+Hos 	9 	11 	1 	16 	1 	birth 	NN
+Hos 	9 	11 	1 	17 	0 	,
+Hos 	9 	11 	1 	18 	1 	and 	CC
+Hos 	9 	11 	1 	19 	1 	from 	IN
+Hos 	9 	11 	1 	20 	1 	the 	DT
+Hos 	9 	11 	1 	21 	1 	womb 	NN
+Hos 	9 	11 	1 	22 	0 	,
+Hos 	9 	11 	1 	23 	1 	and 	CC
+Hos 	9 	11 	1 	24 	1 	from 	IN
+Hos 	9 	11 	1 	25 	1 	the 	DT
+Hos 	9 	11 	1 	26 	1 	conception 	NN
+Hos 	9 	11 	1 	27 	0 	.
+Hos 	9 	12 	1 	1 	1 	Though 	IN
+Hos 	9 	12 	1 	2 	1 	they 	PRP
+Hos 	9 	12 	1 	3 	1 	bring 	NN
+Hos 	9 	12 	1 	4 	1 	up 	RB
+Hos 	9 	12 	1 	5 	1 	their 	PRP$
+Hos 	9 	12 	1 	6 	1 	children 	NNS
+Hos 	9 	12 	1 	7 	0 	,
+Hos 	9 	12 	1 	8 	1 	yet 	RB
+Hos 	9 	12 	1 	9 	1 	will 	MD
+Hos 	9 	12 	1 	10 	1 	I 	PRP
+Hos 	9 	12 	1 	11 	1 	bereave 	NN
+Hos 	9 	12 	1 	12 	1 	them 	PRP
+Hos 	9 	12 	1 	13 	0 	,
+Hos 	9 	12 	1 	14 	1 	that 	IN
+Hos 	9 	12 	1 	15 	1 	there 	RB
+Hos 	9 	12 	1 	16 	1 	shall 	MD
+Hos 	9 	12 	1 	17 	1 	not 	RB
+Hos 	9 	12 	1 	18 	1 	be 	VB
+Hos 	9 	12 	1 	19 	1 	a 	DT
+Hos 	9 	12 	1 	20 	1 	man 	NN
+Hos 	9 	12 	1 	21 	1 	left 	NN
+Hos 	9 	12 	1 	22 	0 	:
+Hos 	9 	12 	1 	23 	1 	yea 	NN
+Hos 	9 	12 	1 	24 	0 	,
+Hos 	9 	12 	1 	25 	1 	woe 	NN
+Hos 	9 	12 	1 	26 	1 	also 	RB
+Hos 	9 	12 	1 	27 	1 	to 	TO
+Hos 	9 	12 	1 	28 	1 	them 	PRP
+Hos 	9 	12 	1 	29 	1 	when 	WRB
+Hos 	9 	12 	1 	30 	1 	I 	PRP
+Hos 	9 	12 	1 	31 	1 	depart 	NN
+Hos 	9 	12 	1 	32 	1 	from 	IN
+Hos 	9 	12 	1 	33 	1 	them 	PRP
+Hos 	9 	12 	1 	34 	0 	!
+Hos 	9 	13 	1 	1 	1 	Ephraim 	NN
+Hos 	9 	13 	1 	2 	0 	,
+Hos 	9 	13 	1 	3 	1 	as 	IN
+Hos 	9 	13 	1 	4 	1 	I 	PRP
+Hos 	9 	13 	1 	5 	1 	saw 	NN
+Hos 	9 	13 	1 	6 	1 	Tyrus 	NN
+Hos 	9 	13 	1 	7 	0 	,
+Hos 	9 	13 	1 	8 	1 	is 	VBZ
+Hos 	9 	13 	1 	9 	1 	planted 	VBN
+Hos 	9 	13 	1 	10 	1 	in 	IN
+Hos 	9 	13 	1 	11 	1 	a 	DT
+Hos 	9 	13 	1 	12 	1 	pleasant 	NN
+Hos 	9 	13 	1 	13 	1 	place 	NN
+Hos 	9 	13 	1 	14 	0 	:
+Hos 	9 	13 	1 	15 	1 	but 	CC
+Hos 	9 	13 	1 	16 	1 	Ephraim 	NN
+Hos 	9 	13 	1 	17 	1 	shall 	MD
+Hos 	9 	13 	1 	18 	1 	bring 	NN
+Hos 	9 	13 	1 	19 	1 	forth 	NN
+Hos 	9 	13 	1 	20 	1 	his 	PRP$
+Hos 	9 	13 	1 	21 	1 	children 	NNS
+Hos 	9 	13 	1 	22 	1 	to 	TO
+Hos 	9 	13 	1 	23 	1 	the 	DT
+Hos 	9 	13 	1 	24 	1 	murderer 	NN
+Hos 	9 	13 	1 	25 	0 	.
+Hos 	9 	14 	1 	1 	1 	Give 	VB
+Hos 	9 	14 	1 	2 	1 	them 	PRP
+Hos 	9 	14 	1 	3 	0 	,
+Hos 	9 	14 	1 	4 	1 	O 	NN
+Hos 	9 	14 	1 	5 	1 	LORD 	NN
+Hos 	9 	14 	1 	6 	0 	:
+Hos 	9 	14 	1 	7 	1 	what 	WP
+Hos 	9 	14 	1 	8 	1 	wilt 	NN
+Hos 	9 	14 	1 	9 	1 	thou 	NN
+Hos 	9 	14 	1 	10 	1 	give 	VB
+Hos 	9 	14 	1 	11 	0 	?
+Hos 	9 	14 	2 	1 	1 	give 	VB
+Hos 	9 	14 	2 	2 	1 	them 	PRP
+Hos 	9 	14 	2 	3 	1 	a 	DT
+Hos 	9 	14 	2 	4 	1 	miscarrying 	VBG
+Hos 	9 	14 	2 	5 	1 	womb 	NN
+Hos 	9 	14 	2 	6 	1 	and 	CC
+Hos 	9 	14 	2 	7 	1 	dry 	NN
+Hos 	9 	14 	2 	8 	1 	breasts 	NNS
+Hos 	9 	14 	2 	9 	0 	.
+Hos 	9 	15 	1 	1 	1 	All 	DT
+Hos 	9 	15 	1 	2 	1 	their 	PRP$
+Hos 	9 	15 	1 	3 	1 	wickedness 	NN
+Hos 	9 	15 	1 	4 	1 	is 	VBZ
+Hos 	9 	15 	1 	5 	1 	in 	IN
+Hos 	9 	15 	1 	6 	1 	Gilgal 	NNP
+Hos 	9 	15 	1 	7 	0 	:
+Hos 	9 	15 	1 	8 	1 	for 	IN
+Hos 	9 	15 	1 	9 	1 	there 	RB
+Hos 	9 	15 	1 	10 	1 	I 	PRP
+Hos 	9 	15 	1 	11 	1 	hated 	VBN
+Hos 	9 	15 	1 	12 	1 	them 	PRP
+Hos 	9 	15 	1 	13 	0 	:
+Hos 	9 	15 	1 	14 	1 	for 	IN
+Hos 	9 	15 	1 	15 	1 	the 	DT
+Hos 	9 	15 	1 	16 	1 	wickedness 	NN
+Hos 	9 	15 	1 	17 	1 	of 	IN
+Hos 	9 	15 	1 	18 	1 	their 	PRP$
+Hos 	9 	15 	1 	19 	1 	doings 	NNS
+Hos 	9 	15 	1 	20 	1 	I 	PRP
+Hos 	9 	15 	1 	21 	1 	will 	MD
+Hos 	9 	15 	1 	22 	1 	drive 	NN
+Hos 	9 	15 	1 	23 	1 	them 	PRP
+Hos 	9 	15 	1 	24 	1 	out 	IN
+Hos 	9 	15 	1 	25 	1 	of 	IN
+Hos 	9 	15 	1 	26 	1 	mine 	NN
+Hos 	9 	15 	1 	27 	1 	house 	NN
+Hos 	9 	15 	1 	28 	0 	,
+Hos 	9 	15 	1 	29 	1 	I 	PRP
+Hos 	9 	15 	1 	30 	1 	will 	MD
+Hos 	9 	15 	1 	31 	1 	love 	NN
+Hos 	9 	15 	1 	32 	1 	them 	PRP
+Hos 	9 	15 	1 	33 	1 	no 	DT
+Hos 	9 	15 	1 	34 	1 	more 	RBR
+Hos 	9 	15 	1 	35 	0 	:
+Hos 	9 	15 	1 	36 	1 	all 	DT
+Hos 	9 	15 	1 	37 	1 	their 	PRP$
+Hos 	9 	15 	1 	38 	1 	princes 	NNS
+Hos 	9 	15 	1 	39 	1 	are 	VBP
+Hos 	9 	15 	1 	40 	1 	revolters 	NNS
+Hos 	9 	15 	1 	41 	0 	.
+Hos 	9 	16 	1 	1 	1 	Ephraim 	NN
+Hos 	9 	16 	1 	2 	1 	is 	VBZ
+Hos 	9 	16 	1 	3 	1 	smitten 	NN
+Hos 	9 	16 	1 	4 	0 	,
+Hos 	9 	16 	1 	5 	1 	their 	PRP$
+Hos 	9 	16 	1 	6 	1 	root 	NN
+Hos 	9 	16 	1 	7 	1 	is 	VBZ
+Hos 	9 	16 	1 	8 	1 	dried 	VBN
+Hos 	9 	16 	1 	9 	1 	up 	RB
+Hos 	9 	16 	1 	10 	0 	,
+Hos 	9 	16 	1 	11 	1 	they 	PRP
+Hos 	9 	16 	1 	12 	1 	shall 	MD
+Hos 	9 	16 	1 	13 	1 	bear 	NN
+Hos 	9 	16 	1 	14 	1 	no 	DT
+Hos 	9 	16 	1 	15 	1 	fruit 	NN
+Hos 	9 	16 	1 	16 	0 	:
+Hos 	9 	16 	1 	17 	1 	yea 	NN
+Hos 	9 	16 	1 	18 	0 	,
+Hos 	9 	16 	1 	19 	1 	though 	IN
+Hos 	9 	16 	1 	20 	1 	they 	PRP
+Hos 	9 	16 	1 	21 	1 	bring 	NN
+Hos 	9 	16 	1 	22 	1 	forth 	NN
+Hos 	9 	16 	1 	23 	0 	,
+Hos 	9 	16 	1 	24 	1 	yet 	RB
+Hos 	9 	16 	1 	25 	1 	will 	MD
+Hos 	9 	16 	1 	26 	1 	I 	PRP
+Hos 	9 	16 	1 	27 	1 	slay 	NN
+Hos 	9 	16 	1 	28 	1 	even 	RB
+Hos 	9 	16 	1 	29 	1 	the 	DT
+Hos 	9 	16 	1 	30 	1 	beloved 	VBN
+Hos 	9 	16 	1 	31 	1 	fruit 	NN
+Hos 	9 	16 	1 	32 	1 	of 	IN
+Hos 	9 	16 	1 	33 	1 	their 	PRP$
+Hos 	9 	16 	1 	34 	1 	womb 	NN
+Hos 	9 	16 	1 	35 	0 	.
+Hos 	9 	17 	1 	1 	1 	My 	PRP$
+Hos 	9 	17 	1 	2 	1 	God 	NNP
+Hos 	9 	17 	1 	3 	1 	will 	MD
+Hos 	9 	17 	1 	4 	1 	cast 	NN
+Hos 	9 	17 	1 	5 	1 	them 	PRP
+Hos 	9 	17 	1 	6 	1 	away 	RB
+Hos 	9 	17 	1 	7 	0 	,
+Hos 	9 	17 	1 	8 	1 	because 	IN
+Hos 	9 	17 	1 	9 	1 	they 	PRP
+Hos 	9 	17 	1 	10 	1 	did 	VBD
+Hos 	9 	17 	1 	11 	1 	not 	RB
+Hos 	9 	17 	1 	12 	1 	hearken 	NN
+Hos 	9 	17 	1 	13 	1 	unto 	NN
+Hos 	9 	17 	1 	14 	1 	him 	PRP
+Hos 	9 	17 	1 	15 	0 	:
+Hos 	9 	17 	1 	16 	1 	and 	CC
+Hos 	9 	17 	1 	17 	1 	they 	PRP
+Hos 	9 	17 	1 	18 	1 	shall 	MD
+Hos 	9 	17 	1 	19 	1 	be 	VB
+Hos 	9 	17 	1 	20 	1 	wanderers 	NNS
+Hos 	9 	17 	1 	21 	1 	among 	IN
+Hos 	9 	17 	1 	22 	1 	the 	DT
+Hos 	9 	17 	1 	23 	1 	nations 	NNS
+Hos 	9 	17 	1 	24 	0 	.
+Hos 	10 	1 	1 	1 	1 	Israel 	NNP
+Hos 	10 	1 	1 	2 	1 	is 	VBZ
+Hos 	10 	1 	1 	3 	1 	an 	DT
+Hos 	10 	1 	1 	4 	1 	empty 	JJ
+Hos 	10 	1 	1 	5 	1 	vine 	NN
+Hos 	10 	1 	1 	6 	0 	,
+Hos 	10 	1 	1 	7 	1 	he 	PRP
+Hos 	10 	1 	1 	8 	1 	bringeth 	NN
+Hos 	10 	1 	1 	9 	1 	forth 	NN
+Hos 	10 	1 	1 	10 	1 	fruit 	NN
+Hos 	10 	1 	1 	11 	1 	unto 	NN
+Hos 	10 	1 	1 	12 	1 	himself 	PRP
+Hos 	10 	1 	1 	13 	0 	:
+Hos 	10 	1 	1 	14 	1 	according 	VBG
+Hos 	10 	1 	1 	15 	1 	to 	TO
+Hos 	10 	1 	1 	16 	1 	the 	DT
+Hos 	10 	1 	1 	17 	1 	multitude 	NN
+Hos 	10 	1 	1 	18 	1 	of 	IN
+Hos 	10 	1 	1 	19 	1 	his 	PRP$
+Hos 	10 	1 	1 	20 	1 	fruit 	NN
+Hos 	10 	1 	1 	21 	1 	he 	PRP
+Hos 	10 	1 	1 	22 	1 	hath 	NN
+Hos 	10 	1 	1 	23 	1 	increased 	VBN
+Hos 	10 	1 	1 	24 	1 	the 	DT
+Hos 	10 	1 	1 	25 	1 	altars 	NNS
+Hos 	10 	1 	1 	26 	0 	;
+Hos 	10 	1 	1 	27 	1 	according 	VBG
+Hos 	10 	1 	1 	28 	1 	to 	TO
+Hos 	10 	1 	1 	29 	1 	the 	DT
+Hos 	10 	1 	1 	30 	1 	goodness 	NN
+Hos 	10 	1 	1 	31 	1 	of 	IN
+Hos 	10 	1 	1 	32 	1 	his 	PRP$
+Hos 	10 	1 	1 	33 	1 	land 	NN
+Hos 	10 	1 	1 	34 	1 	they 	PRP
+Hos 	10 	1 	1 	35 	1 	have 	VB
+Hos 	10 	1 	1 	36 	1 	made 	VBN
+Hos 	10 	1 	1 	37 	1 	goodly 	RB
+Hos 	10 	1 	1 	38 	1 	images 	NNS
+Hos 	10 	1 	1 	39 	0 	.
+Hos 	10 	2 	1 	1 	1 	Their 	PRP$
+Hos 	10 	2 	1 	2 	1 	heart 	NN
+Hos 	10 	2 	1 	3 	1 	is 	VBZ
+Hos 	10 	2 	1 	4 	1 	divided 	VBN
+Hos 	10 	2 	1 	5 	0 	;
+Hos 	10 	2 	1 	6 	1 	now 	RB
+Hos 	10 	2 	1 	7 	1 	shall 	MD
+Hos 	10 	2 	1 	8 	1 	they 	PRP
+Hos 	10 	2 	1 	9 	1 	be 	VB
+Hos 	10 	2 	1 	10 	1 	found 	NN
+Hos 	10 	2 	1 	11 	1 	faulty 	NN
+Hos 	10 	2 	1 	12 	0 	:
+Hos 	10 	2 	1 	13 	1 	he 	PRP
+Hos 	10 	2 	1 	14 	1 	shall 	MD
+Hos 	10 	2 	1 	15 	1 	break 	NN
+Hos 	10 	2 	1 	16 	1 	down 	RB
+Hos 	10 	2 	1 	17 	1 	their 	PRP$
+Hos 	10 	2 	1 	18 	1 	altars 	NNS
+Hos 	10 	2 	1 	19 	0 	,
+Hos 	10 	2 	1 	20 	1 	he 	PRP
+Hos 	10 	2 	1 	21 	1 	shall 	MD
+Hos 	10 	2 	1 	22 	1 	spoil 	NN
+Hos 	10 	2 	1 	23 	1 	their 	PRP$
+Hos 	10 	2 	1 	24 	1 	images 	NNS
+Hos 	10 	2 	1 	25 	0 	.
+Hos 	10 	3 	1 	1 	1 	For 	IN
+Hos 	10 	3 	1 	2 	1 	now 	RB
+Hos 	10 	3 	1 	3 	1 	they 	PRP
+Hos 	10 	3 	1 	4 	1 	shall 	MD
+Hos 	10 	3 	1 	5 	1 	say 	VB
+Hos 	10 	3 	1 	6 	0 	,
+Hos 	10 	3 	1 	7 	1 	We 	PRP
+Hos 	10 	3 	1 	8 	1 	have 	VB
+Hos 	10 	3 	1 	9 	1 	no 	DT
+Hos 	10 	3 	1 	10 	1 	king 	NN
+Hos 	10 	3 	1 	11 	0 	,
+Hos 	10 	3 	1 	12 	1 	because 	IN
+Hos 	10 	3 	1 	13 	1 	we 	PRP
+Hos 	10 	3 	1 	14 	1 	feared 	VBN
+Hos 	10 	3 	1 	15 	1 	not 	RB
+Hos 	10 	3 	1 	16 	1 	the 	DT
+Hos 	10 	3 	1 	17 	1 	LORD 	NN
+Hos 	10 	3 	1 	18 	0 	;
+Hos 	10 	3 	1 	19 	1 	what 	WP
+Hos 	10 	3 	1 	20 	1 	then 	RB
+Hos 	10 	3 	1 	21 	1 	should 	MD
+Hos 	10 	3 	1 	22 	1 	a 	DT
+Hos 	10 	3 	1 	23 	1 	king 	NN
+Hos 	10 	3 	1 	24 	1 	do 	VB
+Hos 	10 	3 	1 	25 	1 	to 	TO
+Hos 	10 	3 	1 	26 	1 	us 	PRP
+Hos 	10 	3 	1 	27 	0 	?
+Hos 	10 	4 	1 	1 	1 	They 	PRP
+Hos 	10 	4 	1 	2 	1 	have 	VB
+Hos 	10 	4 	1 	3 	1 	spoken 	NN
+Hos 	10 	4 	1 	4 	1 	words 	NNS
+Hos 	10 	4 	1 	5 	0 	,
+Hos 	10 	4 	1 	6 	1 	swearing 	VBG
+Hos 	10 	4 	1 	7 	1 	falsely 	RB
+Hos 	10 	4 	1 	8 	1 	in 	IN
+Hos 	10 	4 	1 	9 	1 	making 	VBG
+Hos 	10 	4 	1 	10 	1 	a 	DT
+Hos 	10 	4 	1 	11 	1 	covenant 	NN
+Hos 	10 	4 	1 	12 	0 	:
+Hos 	10 	4 	1 	13 	1 	thus 	RB
+Hos 	10 	4 	1 	14 	1 	judgment 	NN
+Hos 	10 	4 	1 	15 	1 	springeth 	NN
+Hos 	10 	4 	1 	16 	1 	up 	RB
+Hos 	10 	4 	1 	17 	1 	as 	IN
+Hos 	10 	4 	1 	18 	1 	hemlock 	NN
+Hos 	10 	4 	1 	19 	1 	in 	IN
+Hos 	10 	4 	1 	20 	1 	the 	DT
+Hos 	10 	4 	1 	21 	1 	furrows 	NNS
+Hos 	10 	4 	1 	22 	1 	of 	IN
+Hos 	10 	4 	1 	23 	1 	the 	DT
+Hos 	10 	4 	1 	24 	1 	field 	NN
+Hos 	10 	4 	1 	25 	0 	.
+Hos 	10 	5 	1 	1 	1 	The 	DT
+Hos 	10 	5 	1 	2 	1 	inhabitants 	NNS
+Hos 	10 	5 	1 	3 	1 	of 	IN
+Hos 	10 	5 	1 	4 	1 	Samaria 	NNS
+Hos 	10 	5 	1 	5 	1 	shall 	MD
+Hos 	10 	5 	1 	6 	1 	fear 	NN
+Hos 	10 	5 	1 	7 	1 	because 	IN
+Hos 	10 	5 	1 	8 	1 	of 	IN
+Hos 	10 	5 	1 	9 	1 	the 	DT
+Hos 	10 	5 	1 	10 	1 	calves 	NNS
+Hos 	10 	5 	1 	11 	1 	of 	IN
+Hos 	10 	5 	1 	12 	1 	Bethaven 	NNP
+Hos 	10 	5 	1 	13 	0 	:
+Hos 	10 	5 	1 	14 	1 	for 	IN
+Hos 	10 	5 	1 	15 	1 	the 	DT
+Hos 	10 	5 	1 	16 	1 	people 	NNS
+Hos 	10 	5 	1 	17 	1 	thereof 	NN
+Hos 	10 	5 	1 	18 	1 	shall 	MD
+Hos 	10 	5 	1 	19 	1 	mourn 	NN
+Hos 	10 	5 	1 	20 	1 	over 	IN
+Hos 	10 	5 	1 	21 	1 	it 	PRP
+Hos 	10 	5 	1 	22 	0 	,
+Hos 	10 	5 	1 	23 	1 	and 	CC
+Hos 	10 	5 	1 	24 	1 	the 	DT
+Hos 	10 	5 	1 	25 	1 	priests 	NNS
+Hos 	10 	5 	1 	26 	1 	thereof 	NN
+Hos 	10 	5 	1 	27 	1 	that 	IN
+Hos 	10 	5 	1 	28 	1 	rejoiced 	VBN
+Hos 	10 	5 	1 	29 	1 	on 	IN
+Hos 	10 	5 	1 	30 	1 	it 	PRP
+Hos 	10 	5 	1 	31 	0 	,
+Hos 	10 	5 	1 	32 	1 	for 	IN
+Hos 	10 	5 	1 	33 	1 	the 	DT
+Hos 	10 	5 	1 	34 	1 	glory 	NN
+Hos 	10 	5 	1 	35 	1 	thereof 	NN
+Hos 	10 	5 	1 	36 	0 	,
+Hos 	10 	5 	1 	37 	1 	because 	IN
+Hos 	10 	5 	1 	38 	1 	it 	PRP
+Hos 	10 	5 	1 	39 	1 	is 	VBZ
+Hos 	10 	5 	1 	40 	1 	departed 	VBN
+Hos 	10 	5 	1 	41 	1 	from 	IN
+Hos 	10 	5 	1 	42 	1 	it 	PRP
+Hos 	10 	5 	1 	43 	0 	.
+Hos 	10 	6 	1 	1 	1 	It 	PRP
+Hos 	10 	6 	1 	2 	1 	shall 	MD
+Hos 	10 	6 	1 	3 	1 	be 	VB
+Hos 	10 	6 	1 	4 	1 	also 	RB
+Hos 	10 	6 	1 	5 	1 	carried 	VBN
+Hos 	10 	6 	1 	6 	1 	unto 	NN
+Hos 	10 	6 	1 	7 	1 	Assyria 	NNS
+Hos 	10 	6 	1 	8 	1 	for 	IN
+Hos 	10 	6 	1 	9 	1 	a 	DT
+Hos 	10 	6 	1 	10 	1 	present 	NN
+Hos 	10 	6 	1 	11 	1 	to 	TO
+Hos 	10 	6 	1 	12 	1 	king 	NN
+Hos 	10 	6 	1 	13 	1 	Jareb 	NN
+Hos 	10 	6 	1 	14 	0 	:
+Hos 	10 	6 	1 	15 	1 	Ephraim 	NN
+Hos 	10 	6 	1 	16 	1 	shall 	MD
+Hos 	10 	6 	1 	17 	1 	receive 	NN
+Hos 	10 	6 	1 	18 	1 	shame 	NN
+Hos 	10 	6 	1 	19 	0 	,
+Hos 	10 	6 	1 	20 	1 	and 	CC
+Hos 	10 	6 	1 	21 	1 	Israel 	NNP
+Hos 	10 	6 	1 	22 	1 	shall 	MD
+Hos 	10 	6 	1 	23 	1 	be 	VB
+Hos 	10 	6 	1 	24 	1 	ashamed 	VBN
+Hos 	10 	6 	1 	25 	1 	of 	IN
+Hos 	10 	6 	1 	26 	1 	his 	PRP$
+Hos 	10 	6 	1 	27 	1 	own 	JJ
+Hos 	10 	6 	1 	28 	1 	counsel 	NN
+Hos 	10 	6 	1 	29 	0 	.
+Hos 	10 	7 	1 	1 	1 	As 	IN
+Hos 	10 	7 	1 	2 	1 	for 	IN
+Hos 	10 	7 	1 	3 	1 	Samaria 	NNS
+Hos 	10 	7 	1 	4 	0 	,
+Hos 	10 	7 	1 	5 	1 	her 	PRP$
+Hos 	10 	7 	1 	6 	1 	king 	NN
+Hos 	10 	7 	1 	7 	1 	is 	VBZ
+Hos 	10 	7 	1 	8 	1 	cut 	NN
+Hos 	10 	7 	1 	9 	1 	off 	IN
+Hos 	10 	7 	1 	10 	1 	as 	IN
+Hos 	10 	7 	1 	11 	1 	the 	DT
+Hos 	10 	7 	1 	12 	1 	foam 	NN
+Hos 	10 	7 	1 	13 	1 	upon 	IN
+Hos 	10 	7 	1 	14 	1 	the 	DT
+Hos 	10 	7 	1 	15 	1 	water 	NN
+Hos 	10 	7 	1 	16 	0 	.
+Hos 	10 	8 	1 	1 	1 	The 	DT
+Hos 	10 	8 	1 	2 	1 	high 	JJ
+Hos 	10 	8 	1 	3 	1 	places 	NNS
+Hos 	10 	8 	1 	4 	1 	also 	RB
+Hos 	10 	8 	1 	5 	1 	of 	IN
+Hos 	10 	8 	1 	6 	1 	Aven 	RB
+Hos 	10 	8 	1 	7 	0 	,
+Hos 	10 	8 	1 	8 	1 	the 	DT
+Hos 	10 	8 	1 	9 	1 	sin 	NN
+Hos 	10 	8 	1 	10 	1 	of 	IN
+Hos 	10 	8 	1 	11 	1 	Israel 	NNP
+Hos 	10 	8 	1 	12 	0 	,
+Hos 	10 	8 	1 	13 	1 	shall 	MD
+Hos 	10 	8 	1 	14 	1 	be 	VB
+Hos 	10 	8 	1 	15 	1 	destroyed 	NN
+Hos 	10 	8 	1 	16 	0 	:
+Hos 	10 	8 	1 	17 	1 	the 	DT
+Hos 	10 	8 	1 	18 	1 	thorn 	NN
+Hos 	10 	8 	1 	19 	1 	and 	CC
+Hos 	10 	8 	1 	20 	1 	the 	DT
+Hos 	10 	8 	1 	21 	1 	thistle 	NN
+Hos 	10 	8 	1 	22 	1 	shall 	MD
+Hos 	10 	8 	1 	23 	1 	come 	VB
+Hos 	10 	8 	1 	24 	1 	up 	RB
+Hos 	10 	8 	1 	25 	1 	on 	IN
+Hos 	10 	8 	1 	26 	1 	their 	PRP$
+Hos 	10 	8 	1 	27 	1 	altars 	NNS
+Hos 	10 	8 	1 	28 	0 	;
+Hos 	10 	8 	1 	29 	1 	and 	CC
+Hos 	10 	8 	1 	30 	1 	they 	PRP
+Hos 	10 	8 	1 	31 	1 	shall 	MD
+Hos 	10 	8 	1 	32 	1 	say 	VB
+Hos 	10 	8 	1 	33 	1 	to 	TO
+Hos 	10 	8 	1 	34 	1 	the 	DT
+Hos 	10 	8 	1 	35 	1 	mountains 	NNS
+Hos 	10 	8 	1 	36 	0 	,
+Hos 	10 	8 	1 	37 	1 	Cover 	NN
+Hos 	10 	8 	1 	38 	1 	us 	PRP
+Hos 	10 	8 	1 	39 	0 	;
+Hos 	10 	8 	1 	40 	1 	and 	CC
+Hos 	10 	8 	1 	41 	1 	to 	TO
+Hos 	10 	8 	1 	42 	1 	the 	DT
+Hos 	10 	8 	1 	43 	1 	hills 	NNS
+Hos 	10 	8 	1 	44 	0 	,
+Hos 	10 	8 	1 	45 	1 	Fall 	NN
+Hos 	10 	8 	1 	46 	1 	on 	IN
+Hos 	10 	8 	1 	47 	1 	us 	PRP
+Hos 	10 	8 	1 	48 	0 	.
+Hos 	10 	9 	1 	1 	1 	O 	NN
+Hos 	10 	9 	1 	2 	1 	Israel 	NNP
+Hos 	10 	9 	1 	3 	0 	,
+Hos 	10 	9 	1 	4 	1 	thou 	NN
+Hos 	10 	9 	1 	5 	1 	hast 	NN
+Hos 	10 	9 	1 	6 	1 	sinned 	VBN
+Hos 	10 	9 	1 	7 	1 	from 	IN
+Hos 	10 	9 	1 	8 	1 	the 	DT
+Hos 	10 	9 	1 	9 	1 	days 	NNS
+Hos 	10 	9 	1 	10 	1 	of 	IN
+Hos 	10 	9 	1 	11 	1 	Gibeah 	NN
+Hos 	10 	9 	1 	12 	0 	:
+Hos 	10 	9 	1 	13 	1 	there 	RB
+Hos 	10 	9 	1 	14 	1 	they 	PRP
+Hos 	10 	9 	1 	15 	1 	stood 	NN
+Hos 	10 	9 	1 	16 	0 	:
+Hos 	10 	9 	1 	17 	1 	the 	DT
+Hos 	10 	9 	1 	18 	1 	battle 	NN
+Hos 	10 	9 	1 	19 	1 	in 	IN
+Hos 	10 	9 	1 	20 	1 	Gibeah 	NN
+Hos 	10 	9 	1 	21 	1 	against 	IN
+Hos 	10 	9 	1 	22 	1 	the 	DT
+Hos 	10 	9 	1 	23 	1 	children 	NNS
+Hos 	10 	9 	1 	24 	1 	of 	IN
+Hos 	10 	9 	1 	25 	1 	iniquity 	NN
+Hos 	10 	9 	1 	26 	1 	did 	VBD
+Hos 	10 	9 	1 	27 	1 	not 	RB
+Hos 	10 	9 	1 	28 	1 	overtake 	NN
+Hos 	10 	9 	1 	29 	1 	them 	PRP
+Hos 	10 	9 	1 	30 	0 	.
+Hos 	10 	10 	1 	1 	1 	It 	PRP
+Hos 	10 	10 	1 	2 	1 	is 	VBZ
+Hos 	10 	10 	1 	3 	1 	in 	IN
+Hos 	10 	10 	1 	4 	1 	my 	PRP$
+Hos 	10 	10 	1 	5 	1 	desire 	NN
+Hos 	10 	10 	1 	6 	1 	that 	IN
+Hos 	10 	10 	1 	7 	1 	I 	PRP
+Hos 	10 	10 	1 	8 	1 	should 	MD
+Hos 	10 	10 	1 	9 	1 	chastise 	NN
+Hos 	10 	10 	1 	10 	1 	them 	PRP
+Hos 	10 	10 	1 	11 	0 	;
+Hos 	10 	10 	1 	12 	1 	and 	CC
+Hos 	10 	10 	1 	13 	1 	the 	DT
+Hos 	10 	10 	1 	14 	1 	people 	NNS
+Hos 	10 	10 	1 	15 	1 	shall 	MD
+Hos 	10 	10 	1 	16 	1 	be 	VB
+Hos 	10 	10 	1 	17 	1 	gathered 	VBN
+Hos 	10 	10 	1 	18 	1 	against 	IN
+Hos 	10 	10 	1 	19 	1 	them 	PRP
+Hos 	10 	10 	1 	20 	0 	,
+Hos 	10 	10 	1 	21 	1 	when 	WRB
+Hos 	10 	10 	1 	22 	1 	they 	PRP
+Hos 	10 	10 	1 	23 	1 	shall 	MD
+Hos 	10 	10 	1 	24 	1 	bind 	NN
+Hos 	10 	10 	1 	25 	1 	themselves 	PRP
+Hos 	10 	10 	1 	26 	1 	in 	IN
+Hos 	10 	10 	1 	27 	1 	their 	PRP$
+Hos 	10 	10 	1 	28 	1 	two 	CD
+Hos 	10 	10 	1 	29 	1 	furrows 	NNS
+Hos 	10 	10 	1 	30 	0 	.
+Hos 	10 	11 	1 	1 	1 	And 	CC
+Hos 	10 	11 	1 	2 	1 	Ephraim 	NN
+Hos 	10 	11 	1 	3 	1 	is 	VBZ
+Hos 	10 	11 	1 	4 	1 	as 	IN
+Hos 	10 	11 	1 	5 	1 	an 	DT
+Hos 	10 	11 	1 	6 	1 	heifer 	NN
+Hos 	10 	11 	1 	7 	1 	that 	IN
+Hos 	10 	11 	1 	8 	1 	is 	VBZ
+Hos 	10 	11 	1 	9 	1 	taught 	NN
+Hos 	10 	11 	1 	10 	0 	,
+Hos 	10 	11 	1 	11 	1 	and 	CC
+Hos 	10 	11 	1 	12 	1 	loveth 	NN
+Hos 	10 	11 	1 	13 	1 	to 	TO
+Hos 	10 	11 	1 	14 	1 	tread 	NN
+Hos 	10 	11 	1 	15 	1 	out 	IN
+Hos 	10 	11 	1 	16 	1 	the 	DT
+Hos 	10 	11 	1 	17 	1 	corn 	NN
+Hos 	10 	11 	1 	18 	0 	;
+Hos 	10 	11 	1 	19 	1 	but 	CC
+Hos 	10 	11 	1 	20 	1 	I 	PRP
+Hos 	10 	11 	1 	21 	1 	passed 	VBN
+Hos 	10 	11 	1 	22 	1 	over 	IN
+Hos 	10 	11 	1 	23 	1 	upon 	IN
+Hos 	10 	11 	1 	24 	1 	her 	PRP$
+Hos 	10 	11 	1 	25 	1 	fair 	NN
+Hos 	10 	11 	1 	26 	1 	neck 	NN
+Hos 	10 	11 	1 	27 	0 	:
+Hos 	10 	11 	1 	28 	1 	I 	PRP
+Hos 	10 	11 	1 	29 	1 	will 	MD
+Hos 	10 	11 	1 	30 	1 	make 	VB
+Hos 	10 	11 	1 	31 	1 	Ephraim 	NN
+Hos 	10 	11 	1 	32 	1 	to 	TO
+Hos 	10 	11 	1 	33 	1 	ride 	NN
+Hos 	10 	11 	1 	34 	0 	;
+Hos 	10 	11 	1 	35 	1 	Judah 	NN
+Hos 	10 	11 	1 	36 	1 	shall 	MD
+Hos 	10 	11 	1 	37 	1 	plow 	NN
+Hos 	10 	11 	1 	38 	0 	,
+Hos 	10 	11 	1 	39 	1 	and 	CC
+Hos 	10 	11 	1 	40 	1 	Jacob 	NN
+Hos 	10 	11 	1 	41 	1 	shall 	MD
+Hos 	10 	11 	1 	42 	1 	break 	NN
+Hos 	10 	11 	1 	43 	1 	his 	PRP$
+Hos 	10 	11 	1 	44 	1 	clods 	NNS
+Hos 	10 	11 	1 	45 	0 	.
+Hos 	10 	12 	1 	1 	1 	Sow 	NN
+Hos 	10 	12 	1 	2 	1 	to 	TO
+Hos 	10 	12 	1 	3 	1 	yourselves 	NNS
+Hos 	10 	12 	1 	4 	1 	in 	IN
+Hos 	10 	12 	1 	5 	1 	righteousness 	NN
+Hos 	10 	12 	1 	6 	0 	,
+Hos 	10 	12 	1 	7 	1 	reap 	NN
+Hos 	10 	12 	1 	8 	1 	in 	IN
+Hos 	10 	12 	1 	9 	1 	mercy 	NN
+Hos 	10 	12 	1 	10 	0 	;
+Hos 	10 	12 	1 	11 	1 	break 	NN
+Hos 	10 	12 	1 	12 	1 	up 	RB
+Hos 	10 	12 	1 	13 	1 	your 	PRP$
+Hos 	10 	12 	1 	14 	1 	fallow 	NN
+Hos 	10 	12 	1 	15 	1 	ground 	NN
+Hos 	10 	12 	1 	16 	0 	:
+Hos 	10 	12 	1 	17 	1 	for 	IN
+Hos 	10 	12 	1 	18 	1 	it 	PRP
+Hos 	10 	12 	1 	19 	1 	is 	VBZ
+Hos 	10 	12 	1 	20 	1 	time 	NN
+Hos 	10 	12 	1 	21 	1 	to 	TO
+Hos 	10 	12 	1 	22 	1 	seek 	NN
+Hos 	10 	12 	1 	23 	1 	the 	DT
+Hos 	10 	12 	1 	24 	1 	LORD 	NN
+Hos 	10 	12 	1 	25 	0 	,
+Hos 	10 	12 	1 	26 	1 	till 	NN
+Hos 	10 	12 	1 	27 	1 	he 	PRP
+Hos 	10 	12 	1 	28 	1 	come 	VB
+Hos 	10 	12 	1 	29 	1 	and 	CC
+Hos 	10 	12 	1 	30 	1 	rain 	NN
+Hos 	10 	12 	1 	31 	1 	righteousness 	NN
+Hos 	10 	12 	1 	32 	1 	upon 	IN
+Hos 	10 	12 	1 	33 	1 	you 	PRP
+Hos 	10 	12 	1 	34 	0 	.
+Hos 	10 	13 	1 	1 	1 	Ye 	NN
+Hos 	10 	13 	1 	2 	1 	have 	VB
+Hos 	10 	13 	1 	3 	1 	plowed 	VBN
+Hos 	10 	13 	1 	4 	1 	wickedness 	NN
+Hos 	10 	13 	1 	5 	0 	,
+Hos 	10 	13 	1 	6 	1 	ye 	NN
+Hos 	10 	13 	1 	7 	1 	have 	VB
+Hos 	10 	13 	1 	8 	1 	reaped 	NN
+Hos 	10 	13 	1 	9 	1 	iniquity 	NN
+Hos 	10 	13 	1 	10 	0 	;
+Hos 	10 	13 	1 	11 	1 	ye 	NN
+Hos 	10 	13 	1 	12 	1 	have 	VB
+Hos 	10 	13 	1 	13 	1 	eaten 	VB
+Hos 	10 	13 	1 	14 	1 	the 	DT
+Hos 	10 	13 	1 	15 	1 	fruit 	NN
+Hos 	10 	13 	1 	16 	1 	of 	IN
+Hos 	10 	13 	1 	17 	1 	lies 	NNS
+Hos 	10 	13 	1 	18 	0 	:
+Hos 	10 	13 	1 	19 	1 	because 	IN
+Hos 	10 	13 	1 	20 	1 	thou 	NN
+Hos 	10 	13 	1 	21 	1 	didst 	NN
+Hos 	10 	13 	1 	22 	1 	trust 	NN
+Hos 	10 	13 	1 	23 	1 	in 	IN
+Hos 	10 	13 	1 	24 	1 	thy 	NN
+Hos 	10 	13 	1 	25 	1 	way 	NN
+Hos 	10 	13 	1 	26 	0 	,
+Hos 	10 	13 	1 	27 	1 	in 	IN
+Hos 	10 	13 	1 	28 	1 	the 	DT
+Hos 	10 	13 	1 	29 	1 	multitude 	NN
+Hos 	10 	13 	1 	30 	1 	of 	IN
+Hos 	10 	13 	1 	31 	1 	thy 	NN
+Hos 	10 	13 	1 	32 	1 	mighty 	NN
+Hos 	10 	13 	1 	33 	1 	men 	NNS
+Hos 	10 	13 	1 	34 	0 	.
+Hos 	10 	14 	1 	1 	1 	Therefore 	RB
+Hos 	10 	14 	1 	2 	1 	shall 	MD
+Hos 	10 	14 	1 	3 	1 	a 	DT
+Hos 	10 	14 	1 	4 	1 	tumult 	NN
+Hos 	10 	14 	1 	5 	1 	arise 	NN
+Hos 	10 	14 	1 	6 	1 	among 	IN
+Hos 	10 	14 	1 	7 	1 	thy 	NN
+Hos 	10 	14 	1 	8 	1 	people 	NNS
+Hos 	10 	14 	1 	9 	0 	,
+Hos 	10 	14 	1 	10 	1 	and 	CC
+Hos 	10 	14 	1 	11 	1 	all 	DT
+Hos 	10 	14 	1 	12 	1 	thy 	NN
+Hos 	10 	14 	1 	13 	1 	fortresses 	NNS
+Hos 	10 	14 	1 	14 	1 	shall 	MD
+Hos 	10 	14 	1 	15 	1 	be 	VB
+Hos 	10 	14 	1 	16 	1 	spoiled 	VBN
+Hos 	10 	14 	1 	17 	0 	,
+Hos 	10 	14 	1 	18 	1 	as 	IN
+Hos 	10 	14 	1 	19 	1 	Shalman 	NN
+Hos 	10 	14 	1 	20 	1 	spoiled 	VBN
+Hos 	10 	14 	1 	21 	1 	Betharbel 	NN
+Hos 	10 	14 	1 	22 	1 	in 	IN
+Hos 	10 	14 	1 	23 	1 	the 	DT
+Hos 	10 	14 	1 	24 	1 	day 	NN
+Hos 	10 	14 	1 	25 	1 	of 	IN
+Hos 	10 	14 	1 	26 	1 	battle 	NN
+Hos 	10 	14 	1 	27 	0 	:
+Hos 	10 	14 	1 	28 	1 	the 	DT
+Hos 	10 	14 	1 	29 	1 	mother 	NN
+Hos 	10 	14 	1 	30 	1 	was 	VBD
+Hos 	10 	14 	1 	31 	1 	dashed 	VBN
+Hos 	10 	14 	1 	32 	1 	in 	IN
+Hos 	10 	14 	1 	33 	1 	pieces 	NNS
+Hos 	10 	14 	1 	34 	1 	upon 	IN
+Hos 	10 	14 	1 	35 	1 	her 	PRP$
+Hos 	10 	14 	1 	36 	1 	children 	NNS
+Hos 	10 	14 	1 	37 	0 	.
+Hos 	10 	15 	1 	1 	1 	So 	RB
+Hos 	10 	15 	1 	2 	1 	shall 	MD
+Hos 	10 	15 	1 	3 	1 	Bethel 	NN
+Hos 	10 	15 	1 	4 	1 	do 	VB
+Hos 	10 	15 	1 	5 	1 	unto 	NN
+Hos 	10 	15 	1 	6 	1 	you 	PRP
+Hos 	10 	15 	1 	7 	1 	because 	IN
+Hos 	10 	15 	1 	8 	1 	of 	IN
+Hos 	10 	15 	1 	9 	1 	your 	PRP$
+Hos 	10 	15 	1 	10 	1 	great 	JJ
+Hos 	10 	15 	1 	11 	1 	wickedness 	NN
+Hos 	10 	15 	1 	12 	0 	:
+Hos 	10 	15 	1 	13 	1 	in 	IN
+Hos 	10 	15 	1 	14 	1 	a 	DT
+Hos 	10 	15 	1 	15 	1 	morning 	NN
+Hos 	10 	15 	1 	16 	1 	shall 	MD
+Hos 	10 	15 	1 	17 	1 	the 	DT
+Hos 	10 	15 	1 	18 	1 	king 	NN
+Hos 	10 	15 	1 	19 	1 	of 	IN
+Hos 	10 	15 	1 	20 	1 	Israel 	NNP
+Hos 	10 	15 	1 	21 	1 	utterly 	RB
+Hos 	10 	15 	1 	22 	1 	be 	VB
+Hos 	10 	15 	1 	23 	1 	cut 	NN
+Hos 	10 	15 	1 	24 	1 	off 	IN
+Hos 	10 	15 	1 	25 	0 	.
+Hos 	11 	1 	1 	1 	1 	When 	WRB
+Hos 	11 	1 	1 	2 	1 	Israel 	NNP
+Hos 	11 	1 	1 	3 	1 	was 	VBD
+Hos 	11 	1 	1 	4 	1 	a 	DT
+Hos 	11 	1 	1 	5 	1 	child 	NN
+Hos 	11 	1 	1 	6 	0 	,
+Hos 	11 	1 	1 	7 	1 	then 	RB
+Hos 	11 	1 	1 	8 	1 	I 	PRP
+Hos 	11 	1 	1 	9 	1 	loved 	VBN
+Hos 	11 	1 	1 	10 	1 	him 	PRP
+Hos 	11 	1 	1 	11 	0 	,
+Hos 	11 	1 	1 	12 	1 	and 	CC
+Hos 	11 	1 	1 	13 	1 	called 	VBN
+Hos 	11 	1 	1 	14 	1 	my 	PRP$
+Hos 	11 	1 	1 	15 	1 	son 	NN
+Hos 	11 	1 	1 	16 	1 	out 	IN
+Hos 	11 	1 	1 	17 	1 	of 	IN
+Hos 	11 	1 	1 	18 	1 	Egypt 	NN
+Hos 	11 	1 	1 	19 	0 	.
+Hos 	11 	2 	1 	1 	1 	As 	IN
+Hos 	11 	2 	1 	2 	1 	they 	PRP
+Hos 	11 	2 	1 	3 	1 	called 	VBN
+Hos 	11 	2 	1 	4 	1 	them 	PRP
+Hos 	11 	2 	1 	5 	0 	,
+Hos 	11 	2 	1 	6 	1 	so 	RB
+Hos 	11 	2 	1 	7 	1 	they 	PRP
+Hos 	11 	2 	1 	8 	1 	went 	VBD
+Hos 	11 	2 	1 	9 	1 	from 	IN
+Hos 	11 	2 	1 	10 	1 	them 	PRP
+Hos 	11 	2 	1 	11 	0 	:
+Hos 	11 	2 	1 	12 	1 	they 	PRP
+Hos 	11 	2 	1 	13 	1 	sacrificed 	VBN
+Hos 	11 	2 	1 	14 	1 	unto 	NN
+Hos 	11 	2 	1 	15 	1 	Baalim 	NN
+Hos 	11 	2 	1 	16 	0 	,
+Hos 	11 	2 	1 	17 	1 	and 	CC
+Hos 	11 	2 	1 	18 	1 	burned 	VBN
+Hos 	11 	2 	1 	19 	1 	incense 	NN
+Hos 	11 	2 	1 	20 	1 	to 	TO
+Hos 	11 	2 	1 	21 	1 	graven 	NN
+Hos 	11 	2 	1 	22 	1 	images 	NNS
+Hos 	11 	2 	1 	23 	0 	.
+Hos 	11 	3 	1 	1 	1 	I 	PRP
+Hos 	11 	3 	1 	2 	1 	taught 	NN
+Hos 	11 	3 	1 	3 	1 	Ephraim 	NN
+Hos 	11 	3 	1 	4 	1 	also 	RB
+Hos 	11 	3 	1 	5 	1 	to 	TO
+Hos 	11 	3 	1 	6 	1 	go 	VB
+Hos 	11 	3 	1 	7 	0 	,
+Hos 	11 	3 	1 	8 	1 	taking 	VBG
+Hos 	11 	3 	1 	9 	1 	them 	PRP
+Hos 	11 	3 	1 	10 	1 	by 	IN
+Hos 	11 	3 	1 	11 	1 	their 	PRP$
+Hos 	11 	3 	1 	12 	1 	arms 	NNS
+Hos 	11 	3 	1 	13 	0 	;
+Hos 	11 	3 	1 	14 	1 	but 	CC
+Hos 	11 	3 	1 	15 	1 	they 	PRP
+Hos 	11 	3 	1 	16 	1 	knew 	NNS
+Hos 	11 	3 	1 	17 	1 	not 	RB
+Hos 	11 	3 	1 	18 	1 	that 	IN
+Hos 	11 	3 	1 	19 	1 	I 	PRP
+Hos 	11 	3 	1 	20 	1 	healed 	VBN
+Hos 	11 	3 	1 	21 	1 	them 	PRP
+Hos 	11 	3 	1 	22 	0 	.
+Hos 	11 	4 	1 	1 	1 	I 	PRP
+Hos 	11 	4 	1 	2 	1 	drew 	NN
+Hos 	11 	4 	1 	3 	1 	them 	PRP
+Hos 	11 	4 	1 	4 	1 	with 	IN
+Hos 	11 	4 	1 	5 	1 	cords 	NNS
+Hos 	11 	4 	1 	6 	1 	of 	IN
+Hos 	11 	4 	1 	7 	1 	a 	DT
+Hos 	11 	4 	1 	8 	1 	man 	NN
+Hos 	11 	4 	1 	9 	0 	,
+Hos 	11 	4 	1 	10 	1 	with 	IN
+Hos 	11 	4 	1 	11 	1 	bands 	NNS
+Hos 	11 	4 	1 	12 	1 	of 	IN
+Hos 	11 	4 	1 	13 	1 	love 	NN
+Hos 	11 	4 	1 	14 	0 	:
+Hos 	11 	4 	1 	15 	1 	and 	CC
+Hos 	11 	4 	1 	16 	1 	I 	PRP
+Hos 	11 	4 	1 	17 	1 	was 	VBD
+Hos 	11 	4 	1 	18 	1 	to 	TO
+Hos 	11 	4 	1 	19 	1 	them 	PRP
+Hos 	11 	4 	1 	20 	1 	as 	IN
+Hos 	11 	4 	1 	21 	1 	they 	PRP
+Hos 	11 	4 	1 	22 	1 	that 	IN
+Hos 	11 	4 	1 	23 	1 	take 	VB
+Hos 	11 	4 	1 	24 	1 	off 	IN
+Hos 	11 	4 	1 	25 	1 	the 	DT
+Hos 	11 	4 	1 	26 	1 	yoke 	NN
+Hos 	11 	4 	1 	27 	1 	on 	IN
+Hos 	11 	4 	1 	28 	1 	their 	PRP$
+Hos 	11 	4 	1 	29 	1 	jaws 	NN
+Hos 	11 	4 	1 	30 	0 	,
+Hos 	11 	4 	1 	31 	1 	and 	CC
+Hos 	11 	4 	1 	32 	1 	I 	PRP
+Hos 	11 	4 	1 	33 	1 	laid 	NN
+Hos 	11 	4 	1 	34 	1 	meat 	NN
+Hos 	11 	4 	1 	35 	1 	unto 	NN
+Hos 	11 	4 	1 	36 	1 	them 	PRP
+Hos 	11 	4 	1 	37 	0 	.
+Hos 	11 	5 	1 	1 	1 	e 	NN
+Hos 	11 	5 	1 	2 	1 	shall 	MD
+Hos 	11 	5 	1 	3 	1 	not 	RB
+Hos 	11 	5 	1 	4 	1 	return 	NN
+Hos 	11 	5 	1 	5 	1 	into 	IN
+Hos 	11 	5 	1 	6 	1 	the 	DT
+Hos 	11 	5 	1 	7 	1 	land 	NN
+Hos 	11 	5 	1 	8 	1 	of 	IN
+Hos 	11 	5 	1 	9 	1 	Egypt 	NN
+Hos 	11 	5 	1 	10 	0 	,
+Hos 	11 	5 	1 	11 	1 	and 	CC
+Hos 	11 	5 	1 	12 	1 	the 	DT
+Hos 	11 	5 	1 	13 	1 	Assyrian 	JJ
+Hos 	11 	5 	1 	14 	1 	shall 	MD
+Hos 	11 	5 	1 	15 	1 	be 	VB
+Hos 	11 	5 	1 	16 	1 	his 	PRP$
+Hos 	11 	5 	1 	17 	1 	king 	NN
+Hos 	11 	5 	1 	18 	0 	,
+Hos 	11 	5 	1 	19 	1 	because 	IN
+Hos 	11 	5 	1 	20 	1 	they 	PRP
+Hos 	11 	5 	1 	21 	1 	refused 	VBD
+Hos 	11 	5 	1 	22 	1 	to 	TO
+Hos 	11 	5 	1 	23 	1 	return 	NN
+Hos 	11 	5 	1 	24 	0 	.
+Hos 	11 	6 	1 	1 	1 	And 	CC
+Hos 	11 	6 	1 	2 	1 	the 	DT
+Hos 	11 	6 	1 	3 	1 	sword 	NN
+Hos 	11 	6 	1 	4 	1 	shall 	MD
+Hos 	11 	6 	1 	5 	1 	abide 	NN
+Hos 	11 	6 	1 	6 	1 	on 	IN
+Hos 	11 	6 	1 	7 	1 	his 	PRP$
+Hos 	11 	6 	1 	8 	1 	cities 	NNS
+Hos 	11 	6 	1 	9 	0 	,
+Hos 	11 	6 	1 	10 	1 	and 	CC
+Hos 	11 	6 	1 	11 	1 	shall 	MD
+Hos 	11 	6 	1 	12 	1 	consume 	NN
+Hos 	11 	6 	1 	13 	1 	his 	PRP$
+Hos 	11 	6 	1 	14 	1 	branches 	NNS
+Hos 	11 	6 	1 	15 	0 	,
+Hos 	11 	6 	1 	16 	1 	and 	CC
+Hos 	11 	6 	1 	17 	1 	devour 	NN
+Hos 	11 	6 	1 	18 	1 	them 	PRP
+Hos 	11 	6 	1 	19 	0 	,
+Hos 	11 	6 	1 	20 	1 	because 	IN
+Hos 	11 	6 	1 	21 	1 	of 	IN
+Hos 	11 	6 	1 	22 	1 	their 	PRP$
+Hos 	11 	6 	1 	23 	1 	own 	JJ
+Hos 	11 	6 	1 	24 	1 	counsels 	NNS
+Hos 	11 	6 	1 	25 	0 	.
+Hos 	11 	7 	1 	1 	1 	And 	CC
+Hos 	11 	7 	1 	2 	1 	my 	PRP$
+Hos 	11 	7 	1 	3 	1 	people 	NNS
+Hos 	11 	7 	1 	4 	1 	are 	VBP
+Hos 	11 	7 	1 	5 	1 	bent 	NN
+Hos 	11 	7 	1 	6 	1 	to 	TO
+Hos 	11 	7 	1 	7 	1 	backsliding 	NN
+Hos 	11 	7 	1 	8 	1 	from 	IN
+Hos 	11 	7 	1 	9 	1 	me 	PRP
+Hos 	11 	7 	1 	10 	0 	:
+Hos 	11 	7 	1 	11 	1 	though 	IN
+Hos 	11 	7 	1 	12 	1 	they 	PRP
+Hos 	11 	7 	1 	13 	1 	called 	VBN
+Hos 	11 	7 	1 	14 	1 	them 	PRP
+Hos 	11 	7 	1 	15 	1 	to 	TO
+Hos 	11 	7 	1 	16 	1 	the 	DT
+Hos 	11 	7 	1 	17 	1 	most 	JJS
+Hos 	11 	7 	1 	18 	1 	High 	JJ
+Hos 	11 	7 	1 	19 	0 	,
+Hos 	11 	7 	1 	20 	1 	none 	NN
+Hos 	11 	7 	1 	21 	1 	at 	IN
+Hos 	11 	7 	1 	22 	1 	all 	DT
+Hos 	11 	7 	1 	23 	1 	would 	MD
+Hos 	11 	7 	1 	24 	1 	exalt 	NN
+Hos 	11 	7 	1 	25 	1 	him 	PRP
+Hos 	11 	7 	1 	26 	0 	.
+Hos 	11 	8 	1 	1 	1 	w 	NN
+Hos 	11 	8 	1 	2 	1 	shall 	MD
+Hos 	11 	8 	1 	3 	1 	I 	PRP
+Hos 	11 	8 	1 	4 	1 	give 	VB
+Hos 	11 	8 	1 	5 	1 	thee 	NN
+Hos 	11 	8 	1 	6 	1 	up 	RB
+Hos 	11 	8 	1 	7 	0 	,
+Hos 	11 	8 	1 	8 	1 	Ephraim 	NN
+Hos 	11 	8 	1 	9 	0 	?
+Hos 	11 	8 	2 	1 	1 	how 	WRB
+Hos 	11 	8 	2 	2 	1 	shall 	MD
+Hos 	11 	8 	2 	3 	1 	I 	PRP
+Hos 	11 	8 	2 	4 	1 	deliver 	NN
+Hos 	11 	8 	2 	5 	1 	thee 	NN
+Hos 	11 	8 	2 	6 	0 	,
+Hos 	11 	8 	2 	7 	1 	Israel 	NNP
+Hos 	11 	8 	2 	8 	0 	?
+Hos 	11 	8 	3 	1 	1 	how 	WRB
+Hos 	11 	8 	3 	2 	1 	shall 	MD
+Hos 	11 	8 	3 	3 	1 	I 	PRP
+Hos 	11 	8 	3 	4 	1 	make 	VB
+Hos 	11 	8 	3 	5 	1 	thee 	NN
+Hos 	11 	8 	3 	6 	1 	as 	IN
+Hos 	11 	8 	3 	7 	1 	Admah 	NN
+Hos 	11 	8 	3 	8 	0 	?
+Hos 	11 	8 	4 	1 	1 	how 	WRB
+Hos 	11 	8 	4 	2 	1 	shall 	MD
+Hos 	11 	8 	4 	3 	1 	I 	PRP
+Hos 	11 	8 	4 	4 	1 	set 	NN
+Hos 	11 	8 	4 	5 	1 	thee 	NN
+Hos 	11 	8 	4 	6 	1 	as 	IN
+Hos 	11 	8 	4 	7 	1 	Zeboim 	NN
+Hos 	11 	8 	4 	8 	0 	?
+Hos 	11 	8 	5 	1 	1 	mine 	NN
+Hos 	11 	8 	5 	2 	1 	heart 	NN
+Hos 	11 	8 	5 	3 	1 	is 	VBZ
+Hos 	11 	8 	5 	4 	1 	turned 	VBD
+Hos 	11 	8 	5 	5 	1 	within 	IN
+Hos 	11 	8 	5 	6 	1 	me 	PRP
+Hos 	11 	8 	5 	7 	0 	,
+Hos 	11 	8 	5 	8 	1 	my 	PRP$
+Hos 	11 	8 	5 	9 	1 	repentings 	NNS
+Hos 	11 	8 	5 	10 	1 	are 	VBP
+Hos 	11 	8 	5 	11 	1 	kindled 	VBN
+Hos 	11 	8 	5 	12 	1 	together 	RB
+Hos 	11 	8 	5 	13 	0 	.
+Hos 	11 	9 	1 	1 	1 	I 	PRP
+Hos 	11 	9 	1 	2 	1 	will 	MD
+Hos 	11 	9 	1 	3 	1 	not 	RB
+Hos 	11 	9 	1 	4 	1 	execute 	NN
+Hos 	11 	9 	1 	5 	1 	the 	DT
+Hos 	11 	9 	1 	6 	1 	fierceness 	NN
+Hos 	11 	9 	1 	7 	1 	of 	IN
+Hos 	11 	9 	1 	8 	1 	mine 	NN
+Hos 	11 	9 	1 	9 	1 	anger 	NN
+Hos 	11 	9 	1 	10 	0 	,
+Hos 	11 	9 	1 	11 	1 	I 	PRP
+Hos 	11 	9 	1 	12 	1 	will 	MD
+Hos 	11 	9 	1 	13 	1 	not 	RB
+Hos 	11 	9 	1 	14 	1 	return 	NN
+Hos 	11 	9 	1 	15 	1 	to 	TO
+Hos 	11 	9 	1 	16 	1 	destroy 	NN
+Hos 	11 	9 	1 	17 	1 	Ephraim 	NN
+Hos 	11 	9 	1 	18 	0 	:
+Hos 	11 	9 	1 	19 	1 	for 	IN
+Hos 	11 	9 	1 	20 	1 	I 	PRP
+Hos 	11 	9 	1 	21 	1 	am 	VBP
+Hos 	11 	9 	1 	22 	1 	God 	NNP
+Hos 	11 	9 	1 	23 	0 	,
+Hos 	11 	9 	1 	24 	1 	and 	CC
+Hos 	11 	9 	1 	25 	1 	not 	RB
+Hos 	11 	9 	1 	26 	1 	man 	NN
+Hos 	11 	9 	1 	27 	0 	;
+Hos 	11 	9 	1 	28 	1 	the 	DT
+Hos 	11 	9 	1 	29 	1 	Holy 	NNP
+Hos 	11 	9 	1 	30 	1 	One 	CD
+Hos 	11 	9 	1 	31 	1 	in 	IN
+Hos 	11 	9 	1 	32 	1 	the 	DT
+Hos 	11 	9 	1 	33 	1 	midst 	NN
+Hos 	11 	9 	1 	34 	1 	of 	IN
+Hos 	11 	9 	1 	35 	1 	thee 	NN
+Hos 	11 	9 	1 	36 	0 	:
+Hos 	11 	9 	1 	37 	1 	and 	CC
+Hos 	11 	9 	1 	38 	1 	I 	PRP
+Hos 	11 	9 	1 	39 	1 	will 	MD
+Hos 	11 	9 	1 	40 	1 	not 	RB
+Hos 	11 	9 	1 	41 	1 	enter 	NN
+Hos 	11 	9 	1 	42 	1 	into 	IN
+Hos 	11 	9 	1 	43 	1 	the 	DT
+Hos 	11 	9 	1 	44 	1 	city 	NN
+Hos 	11 	9 	1 	45 	0 	.
+Hos 	11 	10 	1 	1 	1 	They 	PRP
+Hos 	11 	10 	1 	2 	1 	shall 	MD
+Hos 	11 	10 	1 	3 	1 	walk 	NN
+Hos 	11 	10 	1 	4 	1 	after 	IN
+Hos 	11 	10 	1 	5 	1 	the 	DT
+Hos 	11 	10 	1 	6 	1 	LORD 	NN
+Hos 	11 	10 	1 	7 	0 	:
+Hos 	11 	10 	1 	8 	1 	he 	PRP
+Hos 	11 	10 	1 	9 	1 	shall 	MD
+Hos 	11 	10 	1 	10 	1 	roar 	NN
+Hos 	11 	10 	1 	11 	1 	like 	IN
+Hos 	11 	10 	1 	12 	1 	a 	DT
+Hos 	11 	10 	1 	13 	1 	lion 	NN
+Hos 	11 	10 	1 	14 	0 	:
+Hos 	11 	10 	1 	15 	1 	when 	WRB
+Hos 	11 	10 	1 	16 	1 	he 	PRP
+Hos 	11 	10 	1 	17 	1 	shall 	MD
+Hos 	11 	10 	1 	18 	1 	roar 	NN
+Hos 	11 	10 	1 	19 	0 	,
+Hos 	11 	10 	1 	20 	1 	then 	RB
+Hos 	11 	10 	1 	21 	1 	the 	DT
+Hos 	11 	10 	1 	22 	1 	children 	NNS
+Hos 	11 	10 	1 	23 	1 	shall 	MD
+Hos 	11 	10 	1 	24 	1 	tremble 	JJ
+Hos 	11 	10 	1 	25 	1 	from 	IN
+Hos 	11 	10 	1 	26 	1 	the 	DT
+Hos 	11 	10 	1 	27 	1 	west 	NN
+Hos 	11 	10 	1 	28 	0 	.
+Hos 	11 	11 	1 	1 	1 	They 	PRP
+Hos 	11 	11 	1 	2 	1 	shall 	MD
+Hos 	11 	11 	1 	3 	1 	tremble 	JJ
+Hos 	11 	11 	1 	4 	1 	as 	IN
+Hos 	11 	11 	1 	5 	1 	a 	DT
+Hos 	11 	11 	1 	6 	1 	bird 	NN
+Hos 	11 	11 	1 	7 	1 	out 	IN
+Hos 	11 	11 	1 	8 	1 	of 	IN
+Hos 	11 	11 	1 	9 	1 	Egypt 	NN
+Hos 	11 	11 	1 	10 	0 	,
+Hos 	11 	11 	1 	11 	1 	and 	CC
+Hos 	11 	11 	1 	12 	1 	as 	IN
+Hos 	11 	11 	1 	13 	1 	a 	DT
+Hos 	11 	11 	1 	14 	1 	dove 	NN
+Hos 	11 	11 	1 	15 	1 	out 	IN
+Hos 	11 	11 	1 	16 	1 	of 	IN
+Hos 	11 	11 	1 	17 	1 	the 	DT
+Hos 	11 	11 	1 	18 	1 	land 	NN
+Hos 	11 	11 	1 	19 	1 	of 	IN
+Hos 	11 	11 	1 	20 	1 	Assyria 	NNS
+Hos 	11 	11 	1 	21 	0 	:
+Hos 	11 	11 	1 	22 	1 	and 	CC
+Hos 	11 	11 	1 	23 	1 	I 	PRP
+Hos 	11 	11 	1 	24 	1 	will 	MD
+Hos 	11 	11 	1 	25 	1 	place 	NN
+Hos 	11 	11 	1 	26 	1 	them 	PRP
+Hos 	11 	11 	1 	27 	1 	in 	IN
+Hos 	11 	11 	1 	28 	1 	their 	PRP$
+Hos 	11 	11 	1 	29 	1 	houses 	NNS
+Hos 	11 	11 	1 	30 	0 	,
+Hos 	11 	11 	1 	31 	1 	saith 	NN
+Hos 	11 	11 	1 	32 	1 	the 	DT
+Hos 	11 	11 	1 	33 	1 	LORD 	NN
+Hos 	11 	11 	1 	34 	0 	.
+Hos 	11 	12 	1 	1 	1 	Ephraim 	NN
+Hos 	11 	12 	1 	2 	1 	compasseth 	NNS
+Hos 	11 	12 	1 	3 	1 	me 	PRP
+Hos 	11 	12 	1 	4 	1 	about 	IN
+Hos 	11 	12 	1 	5 	1 	with 	IN
+Hos 	11 	12 	1 	6 	1 	lies 	NNS
+Hos 	11 	12 	1 	7 	0 	,
+Hos 	11 	12 	1 	8 	1 	and 	CC
+Hos 	11 	12 	1 	9 	1 	the 	DT
+Hos 	11 	12 	1 	10 	1 	house 	NN
+Hos 	11 	12 	1 	11 	1 	of 	IN
+Hos 	11 	12 	1 	12 	1 	Israel 	NNP
+Hos 	11 	12 	1 	13 	1 	with 	IN
+Hos 	11 	12 	1 	14 	1 	deceit 	NN
+Hos 	11 	12 	1 	15 	0 	:
+Hos 	11 	12 	1 	16 	1 	but 	CC
+Hos 	11 	12 	1 	17 	1 	Judah 	NN
+Hos 	11 	12 	1 	18 	1 	yet 	RB
+Hos 	11 	12 	1 	19 	1 	ruleth 	NN
+Hos 	11 	12 	1 	20 	1 	with 	IN
+Hos 	11 	12 	1 	21 	1 	God 	NNP
+Hos 	11 	12 	1 	22 	0 	,
+Hos 	11 	12 	1 	23 	1 	and 	CC
+Hos 	11 	12 	1 	24 	1 	is 	VBZ
+Hos 	11 	12 	1 	25 	1 	faithful 	NN
+Hos 	11 	12 	1 	26 	1 	with 	IN
+Hos 	11 	12 	1 	27 	1 	the 	DT
+Hos 	11 	12 	1 	28 	1 	saints 	NNS
+Hos 	11 	12 	1 	29 	0 	.
+Hos 	12 	1 	1 	1 	1 	Ephraim 	NN
+Hos 	12 	1 	1 	2 	1 	feedeth 	NNS
+Hos 	12 	1 	1 	3 	1 	on 	IN
+Hos 	12 	1 	1 	4 	1 	wind 	NN
+Hos 	12 	1 	1 	5 	0 	,
+Hos 	12 	1 	1 	6 	1 	and 	CC
+Hos 	12 	1 	1 	7 	1 	followeth 	NNS
+Hos 	12 	1 	1 	8 	1 	after 	IN
+Hos 	12 	1 	1 	9 	1 	the 	DT
+Hos 	12 	1 	1 	10 	1 	east 	NN
+Hos 	12 	1 	1 	11 	1 	wind 	NN
+Hos 	12 	1 	1 	12 	0 	:
+Hos 	12 	1 	1 	13 	1 	he 	PRP
+Hos 	12 	1 	1 	14 	1 	daily 	JJ
+Hos 	12 	1 	1 	15 	1 	increaseth 	NN
+Hos 	12 	1 	1 	16 	1 	lies 	NNS
+Hos 	12 	1 	1 	17 	1 	and 	CC
+Hos 	12 	1 	1 	18 	1 	desolation 	NN
+Hos 	12 	1 	1 	19 	0 	;
+Hos 	12 	1 	1 	20 	1 	and 	CC
+Hos 	12 	1 	1 	21 	1 	they 	PRP
+Hos 	12 	1 	1 	22 	1 	do 	VB
+Hos 	12 	1 	1 	23 	1 	make 	VB
+Hos 	12 	1 	1 	24 	1 	a 	DT
+Hos 	12 	1 	1 	25 	1 	covenant 	NN
+Hos 	12 	1 	1 	26 	1 	with 	IN
+Hos 	12 	1 	1 	27 	1 	the 	DT
+Hos 	12 	1 	1 	28 	1 	Assyrians 	NNS
+Hos 	12 	1 	1 	29 	0 	,
+Hos 	12 	1 	1 	30 	1 	and 	CC
+Hos 	12 	1 	1 	31 	1 	oil 	NN
+Hos 	12 	1 	1 	32 	1 	is 	VBZ
+Hos 	12 	1 	1 	33 	1 	carried 	VBN
+Hos 	12 	1 	1 	34 	1 	into 	IN
+Hos 	12 	1 	1 	35 	1 	Egypt 	NN
+Hos 	12 	1 	1 	36 	0 	.
+Hos 	12 	2 	1 	1 	1 	The 	DT
+Hos 	12 	2 	1 	2 	1 	LORD 	NN
+Hos 	12 	2 	1 	3 	1 	hath 	NN
+Hos 	12 	2 	1 	4 	1 	also 	RB
+Hos 	12 	2 	1 	5 	1 	a 	DT
+Hos 	12 	2 	1 	6 	1 	controversy 	NN
+Hos 	12 	2 	1 	7 	1 	with 	IN
+Hos 	12 	2 	1 	8 	1 	Judah 	NN
+Hos 	12 	2 	1 	9 	0 	,
+Hos 	12 	2 	1 	10 	1 	and 	CC
+Hos 	12 	2 	1 	11 	1 	will 	MD
+Hos 	12 	2 	1 	12 	1 	punish 	NN
+Hos 	12 	2 	1 	13 	1 	Jacob 	NN
+Hos 	12 	2 	1 	14 	1 	according 	VBG
+Hos 	12 	2 	1 	15 	1 	to 	TO
+Hos 	12 	2 	1 	16 	1 	his 	PRP$
+Hos 	12 	2 	1 	17 	1 	ways 	NNS
+Hos 	12 	2 	1 	18 	0 	;
+Hos 	12 	2 	1 	19 	1 	according 	VBG
+Hos 	12 	2 	1 	20 	1 	to 	TO
+Hos 	12 	2 	1 	21 	1 	his 	PRP$
+Hos 	12 	2 	1 	22 	1 	doings 	NNS
+Hos 	12 	2 	1 	23 	1 	will 	MD
+Hos 	12 	2 	1 	24 	1 	he 	PRP
+Hos 	12 	2 	1 	25 	1 	recompense 	NN
+Hos 	12 	2 	1 	26 	1 	him 	PRP
+Hos 	12 	2 	1 	27 	0 	.
+Hos 	12 	3 	1 	1 	1 	e 	NN
+Hos 	12 	3 	1 	2 	1 	took 	VBD
+Hos 	12 	3 	1 	3 	1 	his 	PRP$
+Hos 	12 	3 	1 	4 	1 	brother 	NN
+Hos 	12 	3 	1 	5 	1 	by 	IN
+Hos 	12 	3 	1 	6 	1 	the 	DT
+Hos 	12 	3 	1 	7 	1 	heel 	NN
+Hos 	12 	3 	1 	8 	1 	in 	IN
+Hos 	12 	3 	1 	9 	1 	the 	DT
+Hos 	12 	3 	1 	10 	1 	womb 	NN
+Hos 	12 	3 	1 	11 	0 	,
+Hos 	12 	3 	1 	12 	1 	and 	CC
+Hos 	12 	3 	1 	13 	1 	by 	IN
+Hos 	12 	3 	1 	14 	1 	his 	PRP$
+Hos 	12 	3 	1 	15 	1 	strength 	NN
+Hos 	12 	3 	1 	16 	1 	he 	PRP
+Hos 	12 	3 	1 	17 	1 	had 	VBD
+Hos 	12 	3 	1 	18 	1 	power 	NN
+Hos 	12 	3 	1 	19 	1 	with 	IN
+Hos 	12 	3 	1 	20 	1 	God 	NNP
+Hos 	12 	3 	1 	21 	0 	:
+Hos 	12 	4 	1 	1 	1 	Yea 	NN
+Hos 	12 	4 	1 	2 	0 	,
+Hos 	12 	4 	1 	3 	1 	he 	PRP
+Hos 	12 	4 	1 	4 	1 	had 	VBD
+Hos 	12 	4 	1 	5 	1 	power 	NN
+Hos 	12 	4 	1 	6 	1 	over 	IN
+Hos 	12 	4 	1 	7 	1 	the 	DT
+Hos 	12 	4 	1 	8 	1 	angel 	NN
+Hos 	12 	4 	1 	9 	0 	,
+Hos 	12 	4 	1 	10 	1 	and 	CC
+Hos 	12 	4 	1 	11 	1 	prevailed 	VBN
+Hos 	12 	4 	1 	12 	0 	:
+Hos 	12 	4 	1 	13 	1 	he 	PRP
+Hos 	12 	4 	1 	14 	1 	wept 	NN
+Hos 	12 	4 	1 	15 	0 	,
+Hos 	12 	4 	1 	16 	1 	and 	CC
+Hos 	12 	4 	1 	17 	1 	made 	VBN
+Hos 	12 	4 	1 	18 	1 	supplication 	NN
+Hos 	12 	4 	1 	19 	1 	unto 	NN
+Hos 	12 	4 	1 	20 	1 	him 	PRP
+Hos 	12 	4 	1 	21 	0 	:
+Hos 	12 	4 	1 	22 	1 	he 	PRP
+Hos 	12 	4 	1 	23 	1 	found 	NN
+Hos 	12 	4 	1 	24 	1 	him 	PRP
+Hos 	12 	4 	1 	25 	1 	in 	IN
+Hos 	12 	4 	1 	26 	1 	Bethel 	NN
+Hos 	12 	4 	1 	27 	0 	,
+Hos 	12 	4 	1 	28 	1 	and 	CC
+Hos 	12 	4 	1 	29 	1 	there 	RB
+Hos 	12 	4 	1 	30 	1 	he 	PRP
+Hos 	12 	4 	1 	31 	1 	spake 	NN
+Hos 	12 	4 	1 	32 	1 	with 	IN
+Hos 	12 	4 	1 	33 	1 	us 	PRP
+Hos 	12 	4 	1 	34 	0 	;
+Hos 	12 	5 	1 	1 	1 	Even 	RB
+Hos 	12 	5 	1 	2 	1 	the 	DT
+Hos 	12 	5 	1 	3 	1 	LORD 	NN
+Hos 	12 	5 	1 	4 	1 	God 	NNP
+Hos 	12 	5 	1 	5 	1 	of 	IN
+Hos 	12 	5 	1 	6 	1 	hosts 	NNS
+Hos 	12 	5 	1 	7 	0 	;
+Hos 	12 	5 	1 	8 	1 	the 	DT
+Hos 	12 	5 	1 	9 	1 	LORD 	NN
+Hos 	12 	5 	1 	10 	1 	is 	VBZ
+Hos 	12 	5 	1 	11 	1 	his 	PRP$
+Hos 	12 	5 	1 	12 	1 	memorial 	NN
+Hos 	12 	5 	1 	13 	0 	.
+Hos 	12 	6 	1 	1 	1 	Therefore 	RB
+Hos 	12 	6 	1 	2 	1 	turn 	NN
+Hos 	12 	6 	1 	3 	1 	thou 	NN
+Hos 	12 	6 	1 	4 	1 	to 	TO
+Hos 	12 	6 	1 	5 	1 	thy 	NN
+Hos 	12 	6 	1 	6 	1 	God 	NNP
+Hos 	12 	6 	1 	7 	0 	:
+Hos 	12 	6 	1 	8 	1 	keep 	VB
+Hos 	12 	6 	1 	9 	1 	mercy 	NN
+Hos 	12 	6 	1 	10 	1 	and 	CC
+Hos 	12 	6 	1 	11 	1 	judgment 	NN
+Hos 	12 	6 	1 	12 	1 	and 	CC
+Hos 	12 	6 	1 	13 	1 	wait 	NN
+Hos 	12 	6 	1 	14 	1 	on 	IN
+Hos 	12 	6 	1 	15 	1 	thy 	NN
+Hos 	12 	6 	1 	16 	1 	God 	NNP
+Hos 	12 	6 	1 	17 	1 	continually 	RB
+Hos 	12 	6 	1 	18 	0 	.
+Hos 	12 	7 	1 	1 	1 	e 	NN
+Hos 	12 	7 	1 	2 	1 	is 	VBZ
+Hos 	12 	7 	1 	3 	1 	a 	DT
+Hos 	12 	7 	1 	4 	1 	merchant 	NN
+Hos 	12 	7 	1 	5 	0 	,
+Hos 	12 	7 	1 	6 	1 	the 	DT
+Hos 	12 	7 	1 	7 	1 	balances 	NNS
+Hos 	12 	7 	1 	8 	1 	of 	IN
+Hos 	12 	7 	1 	9 	1 	deceit 	NN
+Hos 	12 	7 	1 	10 	1 	are 	VBP
+Hos 	12 	7 	1 	11 	1 	in 	IN
+Hos 	12 	7 	1 	12 	1 	his 	PRP$
+Hos 	12 	7 	1 	13 	1 	hand 	NN
+Hos 	12 	7 	1 	14 	0 	:
+Hos 	12 	7 	1 	15 	1 	he 	PRP
+Hos 	12 	7 	1 	16 	1 	loveth 	NN
+Hos 	12 	7 	1 	17 	1 	to 	TO
+Hos 	12 	7 	1 	18 	1 	oppress 	NN
+Hos 	12 	7 	1 	19 	0 	.
+Hos 	12 	8 	1 	1 	1 	And 	CC
+Hos 	12 	8 	1 	2 	1 	Ephraim 	NN
+Hos 	12 	8 	1 	3 	1 	said 	VBD
+Hos 	12 	8 	1 	4 	0 	,
+Hos 	12 	8 	1 	5 	1 	Yet 	RB
+Hos 	12 	8 	1 	6 	1 	I 	PRP
+Hos 	12 	8 	1 	7 	1 	am 	VBP
+Hos 	12 	8 	1 	8 	1 	become 	NN
+Hos 	12 	8 	1 	9 	1 	rich 	JJ
+Hos 	12 	8 	1 	10 	0 	,
+Hos 	12 	8 	1 	11 	1 	I 	PRP
+Hos 	12 	8 	1 	12 	1 	have 	VB
+Hos 	12 	8 	1 	13 	1 	found 	NN
+Hos 	12 	8 	1 	14 	1 	me 	PRP
+Hos 	12 	8 	1 	15 	1 	out 	IN
+Hos 	12 	8 	1 	16 	1 	substance 	NN
+Hos 	12 	8 	1 	17 	0 	:
+Hos 	12 	8 	1 	18 	1 	in 	IN
+Hos 	12 	8 	1 	19 	1 	all 	DT
+Hos 	12 	8 	1 	20 	1 	my 	PRP$
+Hos 	12 	8 	1 	21 	1 	labours 	NNS
+Hos 	12 	8 	1 	22 	1 	they 	PRP
+Hos 	12 	8 	1 	23 	1 	shall 	MD
+Hos 	12 	8 	1 	24 	1 	find 	VB
+Hos 	12 	8 	1 	25 	1 	none 	NN
+Hos 	12 	8 	1 	26 	1 	iniquity 	NN
+Hos 	12 	8 	1 	27 	1 	in 	IN
+Hos 	12 	8 	1 	28 	1 	me 	PRP
+Hos 	12 	8 	1 	29 	1 	that 	IN
+Hos 	12 	8 	1 	30 	1 	were 	VBD
+Hos 	12 	8 	1 	31 	1 	sin 	NN
+Hos 	12 	8 	1 	32 	0 	.
+Hos 	12 	9 	1 	1 	1 	And 	CC
+Hos 	12 	9 	1 	2 	1 	I 	PRP
+Hos 	12 	9 	1 	3 	1 	that 	IN
+Hos 	12 	9 	1 	4 	1 	am 	VBP
+Hos 	12 	9 	1 	5 	1 	the 	DT
+Hos 	12 	9 	1 	6 	1 	LORD 	NN
+Hos 	12 	9 	1 	7 	1 	thy 	NN
+Hos 	12 	9 	1 	8 	1 	God 	NNP
+Hos 	12 	9 	1 	9 	1 	from 	IN
+Hos 	12 	9 	1 	10 	1 	the 	DT
+Hos 	12 	9 	1 	11 	1 	land 	NN
+Hos 	12 	9 	1 	12 	1 	of 	IN
+Hos 	12 	9 	1 	13 	1 	Egypt 	NN
+Hos 	12 	9 	1 	14 	1 	will 	MD
+Hos 	12 	9 	1 	15 	1 	yet 	RB
+Hos 	12 	9 	1 	16 	1 	make 	VB
+Hos 	12 	9 	1 	17 	1 	thee 	NN
+Hos 	12 	9 	1 	18 	1 	to 	TO
+Hos 	12 	9 	1 	19 	1 	dwell 	NN
+Hos 	12 	9 	1 	20 	1 	in 	IN
+Hos 	12 	9 	1 	21 	1 	tabernacles 	NNS
+Hos 	12 	9 	1 	22 	0 	,
+Hos 	12 	9 	1 	23 	1 	as 	IN
+Hos 	12 	9 	1 	24 	1 	in 	IN
+Hos 	12 	9 	1 	25 	1 	the 	DT
+Hos 	12 	9 	1 	26 	1 	days 	NNS
+Hos 	12 	9 	1 	27 	1 	of 	IN
+Hos 	12 	9 	1 	28 	1 	the 	DT
+Hos 	12 	9 	1 	29 	1 	solemn 	NN
+Hos 	12 	9 	1 	30 	1 	feast 	NN
+Hos 	12 	9 	1 	31 	0 	.
+Hos 	12 	10 	1 	1 	1 	I 	PRP
+Hos 	12 	10 	1 	2 	1 	have 	VB
+Hos 	12 	10 	1 	3 	1 	also 	RB
+Hos 	12 	10 	1 	4 	1 	spoken 	NN
+Hos 	12 	10 	1 	5 	1 	by 	IN
+Hos 	12 	10 	1 	6 	1 	the 	DT
+Hos 	12 	10 	1 	7 	1 	prophets 	NNS
+Hos 	12 	10 	1 	8 	0 	,
+Hos 	12 	10 	1 	9 	1 	and 	CC
+Hos 	12 	10 	1 	10 	1 	I 	PRP
+Hos 	12 	10 	1 	11 	1 	have 	VB
+Hos 	12 	10 	1 	12 	1 	multiplied 	VBN
+Hos 	12 	10 	1 	13 	1 	visions 	NNS
+Hos 	12 	10 	1 	14 	0 	,
+Hos 	12 	10 	1 	15 	1 	and 	CC
+Hos 	12 	10 	1 	16 	1 	used 	VBN
+Hos 	12 	10 	1 	17 	1 	similitudes 	NNS
+Hos 	12 	10 	1 	18 	0 	,
+Hos 	12 	10 	1 	19 	1 	by 	IN
+Hos 	12 	10 	1 	20 	1 	the 	DT
+Hos 	12 	10 	1 	21 	1 	ministry 	NN
+Hos 	12 	10 	1 	22 	1 	of 	IN
+Hos 	12 	10 	1 	23 	1 	the 	DT
+Hos 	12 	10 	1 	24 	1 	prophets 	NNS
+Hos 	12 	10 	1 	25 	0 	.
+Hos 	12 	11 	1 	1 	1 	Is 	NN
+Hos 	12 	11 	1 	2 	1 	there 	RB
+Hos 	12 	11 	1 	3 	1 	iniquity 	NN
+Hos 	12 	11 	1 	4 	1 	in 	IN
+Hos 	12 	11 	1 	5 	1 	Gilead 	NN
+Hos 	12 	11 	1 	6 	0 	?
+Hos 	12 	11 	2 	1 	1 	surely 	RB
+Hos 	12 	11 	2 	2 	1 	they 	PRP
+Hos 	12 	11 	2 	3 	1 	are 	VBP
+Hos 	12 	11 	2 	4 	1 	vanity 	NN
+Hos 	12 	11 	2 	5 	0 	:
+Hos 	12 	11 	2 	6 	1 	they 	PRP
+Hos 	12 	11 	2 	7 	1 	sacrifice 	NN
+Hos 	12 	11 	2 	8 	1 	bullocks 	NNS
+Hos 	12 	11 	2 	9 	1 	in 	IN
+Hos 	12 	11 	2 	10 	1 	Gilgal 	NNP
+Hos 	12 	11 	2 	11 	0 	;
+Hos 	12 	11 	2 	12 	1 	yea 	NN
+Hos 	12 	11 	2 	13 	0 	,
+Hos 	12 	11 	2 	14 	1 	their 	PRP$
+Hos 	12 	11 	2 	15 	1 	altars 	NNS
+Hos 	12 	11 	2 	16 	1 	are 	VBP
+Hos 	12 	11 	2 	17 	1 	as 	IN
+Hos 	12 	11 	2 	18 	1 	heaps 	NNS
+Hos 	12 	11 	2 	19 	1 	in 	IN
+Hos 	12 	11 	2 	20 	1 	the 	DT
+Hos 	12 	11 	2 	21 	1 	furrows 	NNS
+Hos 	12 	11 	2 	22 	1 	of 	IN
+Hos 	12 	11 	2 	23 	1 	the 	DT
+Hos 	12 	11 	2 	24 	1 	fields 	NNS
+Hos 	12 	11 	2 	25 	0 	.
+Hos 	12 	12 	1 	1 	1 	And 	CC
+Hos 	12 	12 	1 	2 	1 	Jacob 	NN
+Hos 	12 	12 	1 	3 	1 	fled 	VBN
+Hos 	12 	12 	1 	4 	1 	into 	IN
+Hos 	12 	12 	1 	5 	1 	the 	DT
+Hos 	12 	12 	1 	6 	1 	country 	NN
+Hos 	12 	12 	1 	7 	1 	of 	IN
+Hos 	12 	12 	1 	8 	1 	Syria 	NNS
+Hos 	12 	12 	1 	9 	0 	,
+Hos 	12 	12 	1 	10 	1 	and 	CC
+Hos 	12 	12 	1 	11 	1 	Israel 	NNP
+Hos 	12 	12 	1 	12 	1 	served 	VBD
+Hos 	12 	12 	1 	13 	1 	for 	IN
+Hos 	12 	12 	1 	14 	1 	a 	DT
+Hos 	12 	12 	1 	15 	1 	wife 	NN
+Hos 	12 	12 	1 	16 	0 	,
+Hos 	12 	12 	1 	17 	1 	and 	CC
+Hos 	12 	12 	1 	18 	1 	for 	IN
+Hos 	12 	12 	1 	19 	1 	a 	DT
+Hos 	12 	12 	1 	20 	1 	wife 	NN
+Hos 	12 	12 	1 	21 	1 	he 	PRP
+Hos 	12 	12 	1 	22 	1 	kept 	NN
+Hos 	12 	12 	1 	23 	1 	sheep 	NN
+Hos 	12 	12 	1 	24 	0 	.
+Hos 	12 	13 	1 	1 	1 	And 	CC
+Hos 	12 	13 	1 	2 	1 	by 	IN
+Hos 	12 	13 	1 	3 	1 	a 	DT
+Hos 	12 	13 	1 	4 	1 	prophet 	NN
+Hos 	12 	13 	1 	5 	1 	the 	DT
+Hos 	12 	13 	1 	6 	1 	LORD 	NN
+Hos 	12 	13 	1 	7 	1 	brought 	NN
+Hos 	12 	13 	1 	8 	1 	Israel 	NNP
+Hos 	12 	13 	1 	9 	1 	out 	IN
+Hos 	12 	13 	1 	10 	1 	of 	IN
+Hos 	12 	13 	1 	11 	1 	Egypt 	NN
+Hos 	12 	13 	1 	12 	0 	,
+Hos 	12 	13 	1 	13 	1 	and 	CC
+Hos 	12 	13 	1 	14 	1 	by 	IN
+Hos 	12 	13 	1 	15 	1 	a 	DT
+Hos 	12 	13 	1 	16 	1 	prophet 	NN
+Hos 	12 	13 	1 	17 	1 	was 	VBD
+Hos 	12 	13 	1 	18 	1 	he 	PRP
+Hos 	12 	13 	1 	19 	1 	preserved 	VBN
+Hos 	12 	13 	1 	20 	0 	.
+Hos 	12 	14 	1 	1 	1 	Ephraim 	NN
+Hos 	12 	14 	1 	2 	1 	provoked 	VBN
+Hos 	12 	14 	1 	3 	1 	him 	PRP
+Hos 	12 	14 	1 	4 	1 	to 	TO
+Hos 	12 	14 	1 	5 	1 	anger 	NN
+Hos 	12 	14 	1 	6 	1 	most 	JJS
+Hos 	12 	14 	1 	7 	1 	bitterly 	RB
+Hos 	12 	14 	1 	8 	0 	:
+Hos 	12 	14 	1 	9 	1 	therefore 	RB
+Hos 	12 	14 	1 	10 	1 	shall 	MD
+Hos 	12 	14 	1 	11 	1 	he 	PRP
+Hos 	12 	14 	1 	12 	1 	leave 	VB
+Hos 	12 	14 	1 	13 	1 	his 	PRP$
+Hos 	12 	14 	1 	14 	1 	blood 	NN
+Hos 	12 	14 	1 	15 	1 	upon 	IN
+Hos 	12 	14 	1 	16 	1 	him 	PRP
+Hos 	12 	14 	1 	17 	0 	,
+Hos 	12 	14 	1 	18 	1 	and 	CC
+Hos 	12 	14 	1 	19 	1 	his 	PRP$
+Hos 	12 	14 	1 	20 	1 	reproach 	NN
+Hos 	12 	14 	1 	21 	1 	shall 	MD
+Hos 	12 	14 	1 	22 	1 	his 	PRP$
+Hos 	12 	14 	1 	23 	1 	LORD 	NN
+Hos 	12 	14 	1 	24 	1 	return 	NN
+Hos 	12 	14 	1 	25 	1 	unto 	NN
+Hos 	12 	14 	1 	26 	1 	him 	PRP
+Hos 	12 	14 	1 	27 	0 	.
+Hos 	13 	1 	1 	1 	1 	When 	WRB
+Hos 	13 	1 	1 	2 	1 	Ephraim 	NN
+Hos 	13 	1 	1 	3 	1 	spake 	NN
+Hos 	13 	1 	1 	4 	1 	trembling 	VBG
+Hos 	13 	1 	1 	5 	0 	,
+Hos 	13 	1 	1 	6 	1 	he 	PRP
+Hos 	13 	1 	1 	7 	1 	exalted 	VBN
+Hos 	13 	1 	1 	8 	1 	himself 	PRP
+Hos 	13 	1 	1 	9 	1 	in 	IN
+Hos 	13 	1 	1 	10 	1 	Israel 	NNP
+Hos 	13 	1 	1 	11 	0 	;
+Hos 	13 	1 	1 	12 	1 	but 	CC
+Hos 	13 	1 	1 	13 	1 	when 	WRB
+Hos 	13 	1 	1 	14 	1 	he 	PRP
+Hos 	13 	1 	1 	15 	1 	offended 	VBN
+Hos 	13 	1 	1 	16 	1 	in 	IN
+Hos 	13 	1 	1 	17 	1 	Baal 	NN
+Hos 	13 	1 	1 	18 	0 	,
+Hos 	13 	1 	1 	19 	1 	he 	PRP
+Hos 	13 	1 	1 	20 	1 	died 	VBD
+Hos 	13 	1 	1 	21 	0 	.
+Hos 	13 	2 	1 	1 	1 	And 	CC
+Hos 	13 	2 	1 	2 	1 	now 	RB
+Hos 	13 	2 	1 	3 	1 	they 	PRP
+Hos 	13 	2 	1 	4 	1 	sin 	NN
+Hos 	13 	2 	1 	5 	1 	more 	RBR
+Hos 	13 	2 	1 	6 	1 	and 	CC
+Hos 	13 	2 	1 	7 	1 	more 	RBR
+Hos 	13 	2 	1 	8 	0 	,
+Hos 	13 	2 	1 	9 	1 	and 	CC
+Hos 	13 	2 	1 	10 	1 	have 	VB
+Hos 	13 	2 	1 	11 	1 	made 	VBN
+Hos 	13 	2 	1 	12 	1 	them 	PRP
+Hos 	13 	2 	1 	13 	1 	molten 	NNS
+Hos 	13 	2 	1 	14 	1 	images 	NNS
+Hos 	13 	2 	1 	15 	1 	of 	IN
+Hos 	13 	2 	1 	16 	1 	their 	PRP$
+Hos 	13 	2 	1 	17 	1 	silver 	NN
+Hos 	13 	2 	1 	18 	0 	,
+Hos 	13 	2 	1 	19 	1 	and 	CC
+Hos 	13 	2 	1 	20 	1 	idols 	NNS
+Hos 	13 	2 	1 	21 	1 	according 	VBG
+Hos 	13 	2 	1 	22 	1 	to 	TO
+Hos 	13 	2 	1 	23 	1 	their 	PRP$
+Hos 	13 	2 	1 	24 	1 	own 	JJ
+Hos 	13 	2 	1 	25 	1 	understanding 	VBG
+Hos 	13 	2 	1 	26 	0 	,
+Hos 	13 	2 	1 	27 	1 	all 	DT
+Hos 	13 	2 	1 	28 	1 	of 	IN
+Hos 	13 	2 	1 	29 	1 	it 	PRP
+Hos 	13 	2 	1 	30 	1 	the 	DT
+Hos 	13 	2 	1 	31 	1 	work 	NN
+Hos 	13 	2 	1 	32 	1 	of 	IN
+Hos 	13 	2 	1 	33 	1 	the 	DT
+Hos 	13 	2 	1 	34 	1 	craftsmen 	NNS
+Hos 	13 	2 	1 	35 	0 	:
+Hos 	13 	2 	1 	36 	1 	they 	PRP
+Hos 	13 	2 	1 	37 	1 	say 	VB
+Hos 	13 	2 	1 	38 	1 	of 	IN
+Hos 	13 	2 	1 	39 	1 	them 	PRP
+Hos 	13 	2 	1 	40 	0 	,
+Hos 	13 	2 	1 	41 	1 	Let 	VB
+Hos 	13 	2 	1 	42 	1 	the 	DT
+Hos 	13 	2 	1 	43 	1 	men 	NNS
+Hos 	13 	2 	1 	44 	1 	that 	IN
+Hos 	13 	2 	1 	45 	1 	sacrifice 	NN
+Hos 	13 	2 	1 	46 	1 	kiss 	NN
+Hos 	13 	2 	1 	47 	1 	the 	DT
+Hos 	13 	2 	1 	48 	1 	calves 	NNS
+Hos 	13 	2 	1 	49 	0 	.
+Hos 	13 	3 	1 	1 	1 	Therefore 	RB
+Hos 	13 	3 	1 	2 	1 	they 	PRP
+Hos 	13 	3 	1 	3 	1 	shall 	MD
+Hos 	13 	3 	1 	4 	1 	be 	VB
+Hos 	13 	3 	1 	5 	1 	as 	IN
+Hos 	13 	3 	1 	6 	1 	the 	DT
+Hos 	13 	3 	1 	7 	1 	morning 	NN
+Hos 	13 	3 	1 	8 	1 	cloud 	NN
+Hos 	13 	3 	1 	9 	1 	and 	CC
+Hos 	13 	3 	1 	10 	1 	as 	IN
+Hos 	13 	3 	1 	11 	1 	the 	DT
+Hos 	13 	3 	1 	12 	1 	early 	RB
+Hos 	13 	3 	1 	13 	1 	dew 	NN
+Hos 	13 	3 	1 	14 	1 	that 	IN
+Hos 	13 	3 	1 	15 	1 	passeth 	NN
+Hos 	13 	3 	1 	16 	1 	away 	RB
+Hos 	13 	3 	1 	17 	0 	,
+Hos 	13 	3 	1 	18 	1 	as 	IN
+Hos 	13 	3 	1 	19 	1 	the 	DT
+Hos 	13 	3 	1 	20 	1 	chaff 	NN
+Hos 	13 	3 	1 	21 	1 	that 	IN
+Hos 	13 	3 	1 	22 	1 	is 	VBZ
+Hos 	13 	3 	1 	23 	1 	driven 	NN
+Hos 	13 	3 	1 	24 	1 	with 	IN
+Hos 	13 	3 	1 	25 	1 	the 	DT
+Hos 	13 	3 	1 	26 	1 	whirlwind 	NN
+Hos 	13 	3 	1 	27 	1 	out 	IN
+Hos 	13 	3 	1 	28 	1 	of 	IN
+Hos 	13 	3 	1 	29 	1 	the 	DT
+Hos 	13 	3 	1 	30 	1 	floor 	NN
+Hos 	13 	3 	1 	31 	0 	,
+Hos 	13 	3 	1 	32 	1 	and 	CC
+Hos 	13 	3 	1 	33 	1 	as 	IN
+Hos 	13 	3 	1 	34 	1 	the 	DT
+Hos 	13 	3 	1 	35 	1 	smoke 	NN
+Hos 	13 	3 	1 	36 	1 	out 	IN
+Hos 	13 	3 	1 	37 	1 	of 	IN
+Hos 	13 	3 	1 	38 	1 	the 	DT
+Hos 	13 	3 	1 	39 	1 	chimney 	NN
+Hos 	13 	3 	1 	40 	0 	.
+Hos 	13 	4 	1 	1 	1 	Yet 	RB
+Hos 	13 	4 	1 	2 	1 	I 	PRP
+Hos 	13 	4 	1 	3 	1 	am 	VBP
+Hos 	13 	4 	1 	4 	1 	the 	DT
+Hos 	13 	4 	1 	5 	1 	LORD 	NN
+Hos 	13 	4 	1 	6 	1 	thy 	NN
+Hos 	13 	4 	1 	7 	1 	God 	NNP
+Hos 	13 	4 	1 	8 	1 	from 	IN
+Hos 	13 	4 	1 	9 	1 	the 	DT
+Hos 	13 	4 	1 	10 	1 	land 	NN
+Hos 	13 	4 	1 	11 	1 	of 	IN
+Hos 	13 	4 	1 	12 	1 	Egypt 	NN
+Hos 	13 	4 	1 	13 	0 	,
+Hos 	13 	4 	1 	14 	1 	and 	CC
+Hos 	13 	4 	1 	15 	1 	thou 	NN
+Hos 	13 	4 	1 	16 	1 	shalt 	NN
+Hos 	13 	4 	1 	17 	1 	know 	VB
+Hos 	13 	4 	1 	18 	1 	no 	DT
+Hos 	13 	4 	1 	19 	1 	god 	NN
+Hos 	13 	4 	1 	20 	1 	but 	CC
+Hos 	13 	4 	1 	21 	1 	me 	PRP
+Hos 	13 	4 	1 	22 	0 	:
+Hos 	13 	4 	1 	23 	1 	for 	IN
+Hos 	13 	4 	1 	24 	1 	there 	RB
+Hos 	13 	4 	1 	25 	1 	is 	VBZ
+Hos 	13 	4 	1 	26 	1 	no 	DT
+Hos 	13 	4 	1 	27 	1 	saviour 	NN
+Hos 	13 	4 	1 	28 	1 	beside 	NN
+Hos 	13 	4 	1 	29 	1 	me 	PRP
+Hos 	13 	4 	1 	30 	0 	.
+Hos 	13 	5 	1 	1 	1 	I 	PRP
+Hos 	13 	5 	1 	2 	1 	did 	VBD
+Hos 	13 	5 	1 	3 	1 	know 	VB
+Hos 	13 	5 	1 	4 	1 	thee 	NN
+Hos 	13 	5 	1 	5 	1 	in 	IN
+Hos 	13 	5 	1 	6 	1 	the 	DT
+Hos 	13 	5 	1 	7 	1 	wilderness 	NN
+Hos 	13 	5 	1 	8 	0 	,
+Hos 	13 	5 	1 	9 	1 	in 	IN
+Hos 	13 	5 	1 	10 	1 	the 	DT
+Hos 	13 	5 	1 	11 	1 	land 	NN
+Hos 	13 	5 	1 	12 	1 	of 	IN
+Hos 	13 	5 	1 	13 	1 	great 	JJ
+Hos 	13 	5 	1 	14 	1 	drought 	NN
+Hos 	13 	5 	1 	15 	0 	.
+Hos 	13 	6 	1 	1 	1 	According 	VBG
+Hos 	13 	6 	1 	2 	1 	to 	TO
+Hos 	13 	6 	1 	3 	1 	their 	PRP$
+Hos 	13 	6 	1 	4 	1 	pasture 	NN
+Hos 	13 	6 	1 	5 	0 	,
+Hos 	13 	6 	1 	6 	1 	so 	RB
+Hos 	13 	6 	1 	7 	1 	were 	VBD
+Hos 	13 	6 	1 	8 	1 	they 	PRP
+Hos 	13 	6 	1 	9 	1 	filled 	VBN
+Hos 	13 	6 	1 	10 	0 	;
+Hos 	13 	6 	1 	11 	1 	they 	PRP
+Hos 	13 	6 	1 	12 	1 	were 	VBD
+Hos 	13 	6 	1 	13 	1 	filled 	VBN
+Hos 	13 	6 	1 	14 	0 	,
+Hos 	13 	6 	1 	15 	1 	and 	CC
+Hos 	13 	6 	1 	16 	1 	their 	PRP$
+Hos 	13 	6 	1 	17 	1 	heart 	NN
+Hos 	13 	6 	1 	18 	1 	was 	VBD
+Hos 	13 	6 	1 	19 	1 	exalted 	VBN
+Hos 	13 	6 	1 	20 	0 	;
+Hos 	13 	6 	1 	21 	1 	therefore 	RB
+Hos 	13 	6 	1 	22 	1 	have 	VB
+Hos 	13 	6 	1 	23 	1 	they 	PRP
+Hos 	13 	6 	1 	24 	1 	forgotten 	NNS
+Hos 	13 	6 	1 	25 	1 	me 	PRP
+Hos 	13 	6 	1 	26 	0 	.
+Hos 	13 	7 	1 	1 	1 	Therefore 	RB
+Hos 	13 	7 	1 	2 	1 	I 	PRP
+Hos 	13 	7 	1 	3 	1 	will 	MD
+Hos 	13 	7 	1 	4 	1 	be 	VB
+Hos 	13 	7 	1 	5 	1 	unto 	NN
+Hos 	13 	7 	1 	6 	1 	them 	PRP
+Hos 	13 	7 	1 	7 	1 	as 	IN
+Hos 	13 	7 	1 	8 	1 	a 	DT
+Hos 	13 	7 	1 	9 	1 	lion 	NN
+Hos 	13 	7 	1 	10 	0 	:
+Hos 	13 	7 	1 	11 	1 	as 	IN
+Hos 	13 	7 	1 	12 	1 	a 	DT
+Hos 	13 	7 	1 	13 	1 	leopard 	NN
+Hos 	13 	7 	1 	14 	1 	by 	IN
+Hos 	13 	7 	1 	15 	1 	the 	DT
+Hos 	13 	7 	1 	16 	1 	way 	NN
+Hos 	13 	7 	1 	17 	1 	will 	MD
+Hos 	13 	7 	1 	18 	1 	I 	PRP
+Hos 	13 	7 	1 	19 	1 	observe 	NN
+Hos 	13 	7 	1 	20 	1 	them 	PRP
+Hos 	13 	7 	1 	21 	0 	:
+Hos 	13 	8 	1 	1 	1 	I 	PRP
+Hos 	13 	8 	1 	2 	1 	will 	MD
+Hos 	13 	8 	1 	3 	1 	meet 	NN
+Hos 	13 	8 	1 	4 	1 	them 	PRP
+Hos 	13 	8 	1 	5 	1 	as 	IN
+Hos 	13 	8 	1 	6 	1 	a 	DT
+Hos 	13 	8 	1 	7 	1 	bear 	NN
+Hos 	13 	8 	1 	8 	1 	that 	IN
+Hos 	13 	8 	1 	9 	1 	is 	VBZ
+Hos 	13 	8 	1 	10 	1 	bereaved 	VBN
+Hos 	13 	8 	1 	11 	1 	of 	IN
+Hos 	13 	8 	1 	12 	1 	her 	PRP$
+Hos 	13 	8 	1 	13 	1 	whelps 	NN
+Hos 	13 	8 	1 	14 	0 	,
+Hos 	13 	8 	1 	15 	1 	and 	CC
+Hos 	13 	8 	1 	16 	1 	will 	MD
+Hos 	13 	8 	1 	17 	1 	rend 	NN
+Hos 	13 	8 	1 	18 	1 	the 	DT
+Hos 	13 	8 	1 	19 	1 	caul 	NN
+Hos 	13 	8 	1 	20 	1 	of 	IN
+Hos 	13 	8 	1 	21 	1 	their 	PRP$
+Hos 	13 	8 	1 	22 	1 	heart 	NN
+Hos 	13 	8 	1 	23 	0 	,
+Hos 	13 	8 	1 	24 	1 	and 	CC
+Hos 	13 	8 	1 	25 	1 	there 	RB
+Hos 	13 	8 	1 	26 	1 	will 	MD
+Hos 	13 	8 	1 	27 	1 	I 	PRP
+Hos 	13 	8 	1 	28 	1 	devour 	NN
+Hos 	13 	8 	1 	29 	1 	them 	PRP
+Hos 	13 	8 	1 	30 	1 	like 	IN
+Hos 	13 	8 	1 	31 	1 	a 	DT
+Hos 	13 	8 	1 	32 	1 	lion 	NN
+Hos 	13 	8 	1 	33 	0 	:
+Hos 	13 	8 	1 	34 	1 	the 	DT
+Hos 	13 	8 	1 	35 	1 	wild 	NN
+Hos 	13 	8 	1 	36 	1 	beast 	NN
+Hos 	13 	8 	1 	37 	1 	shall 	MD
+Hos 	13 	8 	1 	38 	1 	tear 	NN
+Hos 	13 	8 	1 	39 	1 	them 	PRP
+Hos 	13 	8 	1 	40 	0 	.
+Hos 	13 	9 	1 	1 	1 	O 	NN
+Hos 	13 	9 	1 	2 	1 	Israel 	NNP
+Hos 	13 	9 	1 	3 	0 	,
+Hos 	13 	9 	1 	4 	1 	thou 	NN
+Hos 	13 	9 	1 	5 	1 	hast 	NN
+Hos 	13 	9 	1 	6 	1 	destroyed 	NN
+Hos 	13 	9 	1 	7 	1 	thyself 	NN
+Hos 	13 	9 	1 	8 	0 	;
+Hos 	13 	9 	1 	9 	1 	but 	CC
+Hos 	13 	9 	1 	10 	1 	in 	IN
+Hos 	13 	9 	1 	11 	1 	me 	PRP
+Hos 	13 	9 	1 	12 	1 	is 	VBZ
+Hos 	13 	9 	1 	13 	1 	thine 	NN
+Hos 	13 	9 	1 	14 	1 	help 	NN
+Hos 	13 	9 	1 	15 	0 	.
+Hos 	13 	10 	1 	1 	1 	I 	PRP
+Hos 	13 	10 	1 	2 	1 	will 	MD
+Hos 	13 	10 	1 	3 	1 	be 	VB
+Hos 	13 	10 	1 	4 	1 	thy 	NN
+Hos 	13 	10 	1 	5 	1 	king 	NN
+Hos 	13 	10 	1 	6 	0 	:
+Hos 	13 	10 	1 	7 	1 	where 	WRB
+Hos 	13 	10 	1 	8 	1 	is 	VBZ
+Hos 	13 	10 	1 	9 	1 	any 	DT
+Hos 	13 	10 	1 	10 	1 	other 	JJ
+Hos 	13 	10 	1 	11 	1 	that 	IN
+Hos 	13 	10 	1 	12 	1 	may 	MD
+Hos 	13 	10 	1 	13 	1 	save 	VB
+Hos 	13 	10 	1 	14 	1 	thee 	NN
+Hos 	13 	10 	1 	15 	1 	in 	IN
+Hos 	13 	10 	1 	16 	1 	all 	DT
+Hos 	13 	10 	1 	17 	1 	thy 	NN
+Hos 	13 	10 	1 	18 	1 	cities 	NNS
+Hos 	13 	10 	1 	19 	0 	?
+Hos 	13 	10 	2 	1 	1 	and 	CC
+Hos 	13 	10 	2 	2 	1 	thy 	NN
+Hos 	13 	10 	2 	3 	1 	judges 	NNS
+Hos 	13 	10 	2 	4 	1 	of 	IN
+Hos 	13 	10 	2 	5 	1 	whom 	WP
+Hos 	13 	10 	2 	6 	1 	thou 	NN
+Hos 	13 	10 	2 	7 	1 	saidst 	NN
+Hos 	13 	10 	2 	8 	0 	,
+Hos 	13 	10 	2 	9 	1 	Give 	VB
+Hos 	13 	10 	2 	10 	1 	me 	PRP
+Hos 	13 	10 	2 	11 	1 	a 	DT
+Hos 	13 	10 	2 	12 	1 	king 	NN
+Hos 	13 	10 	2 	13 	1 	and 	CC
+Hos 	13 	10 	2 	14 	1 	princes 	NNS
+Hos 	13 	10 	2 	15 	0 	?
+Hos 	13 	11 	1 	1 	1 	I 	PRP
+Hos 	13 	11 	1 	2 	1 	gave 	VBD
+Hos 	13 	11 	1 	3 	1 	thee 	NN
+Hos 	13 	11 	1 	4 	1 	a 	DT
+Hos 	13 	11 	1 	5 	1 	king 	NN
+Hos 	13 	11 	1 	6 	1 	in 	IN
+Hos 	13 	11 	1 	7 	1 	mine 	NN
+Hos 	13 	11 	1 	8 	1 	anger 	NN
+Hos 	13 	11 	1 	9 	0 	,
+Hos 	13 	11 	1 	10 	1 	and 	CC
+Hos 	13 	11 	1 	11 	1 	took 	VBD
+Hos 	13 	11 	1 	12 	1 	him 	PRP
+Hos 	13 	11 	1 	13 	1 	away 	RB
+Hos 	13 	11 	1 	14 	1 	in 	IN
+Hos 	13 	11 	1 	15 	1 	my 	PRP$
+Hos 	13 	11 	1 	16 	1 	wrath 	NN
+Hos 	13 	11 	1 	17 	0 	.
+Hos 	13 	12 	1 	1 	1 	The 	DT
+Hos 	13 	12 	1 	2 	1 	iniquity 	NN
+Hos 	13 	12 	1 	3 	1 	of 	IN
+Hos 	13 	12 	1 	4 	1 	Ephraim 	NN
+Hos 	13 	12 	1 	5 	1 	is 	VBZ
+Hos 	13 	12 	1 	6 	1 	bound 	NN
+Hos 	13 	12 	1 	7 	1 	up 	RB
+Hos 	13 	12 	1 	8 	0 	;
+Hos 	13 	12 	1 	9 	1 	his 	PRP$
+Hos 	13 	12 	1 	10 	1 	sin 	NN
+Hos 	13 	12 	1 	11 	1 	is 	VBZ
+Hos 	13 	12 	1 	12 	1 	hid 	NN
+Hos 	13 	12 	1 	13 	0 	.
+Hos 	13 	13 	1 	1 	1 	The 	DT
+Hos 	13 	13 	1 	2 	1 	sorrows 	NNS
+Hos 	13 	13 	1 	3 	1 	of 	IN
+Hos 	13 	13 	1 	4 	1 	a 	DT
+Hos 	13 	13 	1 	5 	1 	travailing 	VBG
+Hos 	13 	13 	1 	6 	1 	woman 	NN
+Hos 	13 	13 	1 	7 	1 	shall 	MD
+Hos 	13 	13 	1 	8 	1 	come 	VB
+Hos 	13 	13 	1 	9 	1 	upon 	IN
+Hos 	13 	13 	1 	10 	1 	him 	PRP
+Hos 	13 	13 	1 	11 	0 	:
+Hos 	13 	13 	1 	12 	1 	he 	PRP
+Hos 	13 	13 	1 	13 	1 	is 	VBZ
+Hos 	13 	13 	1 	14 	1 	an 	DT
+Hos 	13 	13 	1 	15 	1 	unwise 	NN
+Hos 	13 	13 	1 	16 	1 	son 	NN
+Hos 	13 	13 	1 	17 	0 	;
+Hos 	13 	13 	1 	18 	1 	for 	IN
+Hos 	13 	13 	1 	19 	1 	he 	PRP
+Hos 	13 	13 	1 	20 	1 	should 	MD
+Hos 	13 	13 	1 	21 	1 	not 	RB
+Hos 	13 	13 	1 	22 	1 	stay 	NN
+Hos 	13 	13 	1 	23 	1 	long 	RB
+Hos 	13 	13 	1 	24 	1 	in 	IN
+Hos 	13 	13 	1 	25 	1 	the 	DT
+Hos 	13 	13 	1 	26 	1 	place 	NN
+Hos 	13 	13 	1 	27 	1 	of 	IN
+Hos 	13 	13 	1 	28 	1 	the 	DT
+Hos 	13 	13 	1 	29 	1 	breaking 	VBG
+Hos 	13 	13 	1 	30 	1 	forth 	NN
+Hos 	13 	13 	1 	31 	1 	of 	IN
+Hos 	13 	13 	1 	32 	1 	children 	NNS
+Hos 	13 	13 	1 	33 	0 	.
+Hos 	13 	14 	1 	1 	1 	I 	PRP
+Hos 	13 	14 	1 	2 	1 	will 	MD
+Hos 	13 	14 	1 	3 	1 	ransom 	NN
+Hos 	13 	14 	1 	4 	1 	them 	PRP
+Hos 	13 	14 	1 	5 	1 	from 	IN
+Hos 	13 	14 	1 	6 	1 	the 	DT
+Hos 	13 	14 	1 	7 	1 	power 	NN
+Hos 	13 	14 	1 	8 	1 	of 	IN
+Hos 	13 	14 	1 	9 	1 	the 	DT
+Hos 	13 	14 	1 	10 	1 	grave 	NN
+Hos 	13 	14 	1 	11 	0 	;
+Hos 	13 	14 	1 	12 	1 	I 	PRP
+Hos 	13 	14 	1 	13 	1 	will 	MD
+Hos 	13 	14 	1 	14 	1 	redeem 	NN
+Hos 	13 	14 	1 	15 	1 	them 	PRP
+Hos 	13 	14 	1 	16 	1 	from 	IN
+Hos 	13 	14 	1 	17 	1 	death 	NN
+Hos 	13 	14 	1 	18 	0 	:
+Hos 	13 	14 	1 	19 	1 	O 	NN
+Hos 	13 	14 	1 	20 	1 	death 	NN
+Hos 	13 	14 	1 	21 	0 	,
+Hos 	13 	14 	1 	22 	1 	I 	PRP
+Hos 	13 	14 	1 	23 	1 	will 	MD
+Hos 	13 	14 	1 	24 	1 	be 	VB
+Hos 	13 	14 	1 	25 	1 	thy 	NN
+Hos 	13 	14 	1 	26 	1 	plagues 	NNS
+Hos 	13 	14 	1 	27 	0 	;
+Hos 	13 	14 	1 	28 	1 	O 	NN
+Hos 	13 	14 	1 	29 	1 	grave 	NN
+Hos 	13 	14 	1 	30 	0 	,
+Hos 	13 	14 	1 	31 	1 	I 	PRP
+Hos 	13 	14 	1 	32 	1 	will 	MD
+Hos 	13 	14 	1 	33 	1 	be 	VB
+Hos 	13 	14 	1 	34 	1 	thy 	NN
+Hos 	13 	14 	1 	35 	1 	destruction 	NN
+Hos 	13 	14 	1 	36 	0 	:
+Hos 	13 	14 	1 	37 	1 	repentance 	NN
+Hos 	13 	14 	1 	38 	1 	shall 	MD
+Hos 	13 	14 	1 	39 	1 	be 	VB
+Hos 	13 	14 	1 	40 	1 	hid 	NN
+Hos 	13 	14 	1 	41 	1 	from 	IN
+Hos 	13 	14 	1 	42 	1 	mine 	NN
+Hos 	13 	14 	1 	43 	1 	eyes 	NNS
+Hos 	13 	14 	1 	44 	0 	.
+Hos 	13 	15 	1 	1 	1 	Though 	IN
+Hos 	13 	15 	1 	2 	1 	he 	PRP
+Hos 	13 	15 	1 	3 	1 	be 	VB
+Hos 	13 	15 	1 	4 	1 	fruitful 	NN
+Hos 	13 	15 	1 	5 	1 	among 	IN
+Hos 	13 	15 	1 	6 	1 	his 	PRP$
+Hos 	13 	15 	1 	7 	1 	brethren 	NNS
+Hos 	13 	15 	1 	8 	0 	,
+Hos 	13 	15 	1 	9 	1 	an 	DT
+Hos 	13 	15 	1 	10 	1 	east 	NN
+Hos 	13 	15 	1 	11 	1 	wind 	NN
+Hos 	13 	15 	1 	12 	1 	shall 	MD
+Hos 	13 	15 	1 	13 	1 	come 	VB
+Hos 	13 	15 	1 	14 	0 	,
+Hos 	13 	15 	1 	15 	1 	the 	DT
+Hos 	13 	15 	1 	16 	1 	wind 	NN
+Hos 	13 	15 	1 	17 	1 	of 	IN
+Hos 	13 	15 	1 	18 	1 	the 	DT
+Hos 	13 	15 	1 	19 	1 	LORD 	NN
+Hos 	13 	15 	1 	20 	1 	shall 	MD
+Hos 	13 	15 	1 	21 	1 	come 	VB
+Hos 	13 	15 	1 	22 	1 	up 	RB
+Hos 	13 	15 	1 	23 	1 	from 	IN
+Hos 	13 	15 	1 	24 	1 	the 	DT
+Hos 	13 	15 	1 	25 	1 	wilderness 	NN
+Hos 	13 	15 	1 	26 	0 	,
+Hos 	13 	15 	1 	27 	1 	and 	CC
+Hos 	13 	15 	1 	28 	1 	his 	PRP$
+Hos 	13 	15 	1 	29 	1 	spring 	NN
+Hos 	13 	15 	1 	30 	1 	shall 	MD
+Hos 	13 	15 	1 	31 	1 	become 	NN
+Hos 	13 	15 	1 	32 	1 	dry 	NN
+Hos 	13 	15 	1 	33 	0 	,
+Hos 	13 	15 	1 	34 	1 	and 	CC
+Hos 	13 	15 	1 	35 	1 	his 	PRP$
+Hos 	13 	15 	1 	36 	1 	fountain 	NN
+Hos 	13 	15 	1 	37 	1 	shall 	MD
+Hos 	13 	15 	1 	38 	1 	be 	VB
+Hos 	13 	15 	1 	39 	1 	dried 	VBN
+Hos 	13 	15 	1 	40 	1 	up 	RB
+Hos 	13 	15 	1 	41 	0 	:
+Hos 	13 	15 	1 	42 	1 	he 	PRP
+Hos 	13 	15 	1 	43 	1 	shall 	MD
+Hos 	13 	15 	1 	44 	1 	spoil 	NN
+Hos 	13 	15 	1 	45 	1 	the 	DT
+Hos 	13 	15 	1 	46 	1 	treasure 	NN
+Hos 	13 	15 	1 	47 	1 	of 	IN
+Hos 	13 	15 	1 	48 	1 	all 	DT
+Hos 	13 	15 	1 	49 	1 	pleasant 	NN
+Hos 	13 	15 	1 	50 	1 	vessels 	NNS
+Hos 	13 	15 	1 	51 	0 	.
+Hos 	13 	16 	1 	1 	1 	Samaria 	NNS
+Hos 	13 	16 	1 	2 	1 	shall 	MD
+Hos 	13 	16 	1 	3 	1 	become 	NN
+Hos 	13 	16 	1 	4 	1 	desolate 	NN
+Hos 	13 	16 	1 	5 	0 	;
+Hos 	13 	16 	1 	6 	1 	for 	IN
+Hos 	13 	16 	1 	7 	1 	she 	PRP
+Hos 	13 	16 	1 	8 	1 	hath 	NN
+Hos 	13 	16 	1 	9 	1 	rebelled 	VBN
+Hos 	13 	16 	1 	10 	1 	against 	IN
+Hos 	13 	16 	1 	11 	1 	her 	PRP$
+Hos 	13 	16 	1 	12 	1 	God 	NNP
+Hos 	13 	16 	1 	13 	0 	:
+Hos 	13 	16 	1 	14 	1 	they 	PRP
+Hos 	13 	16 	1 	15 	1 	shall 	MD
+Hos 	13 	16 	1 	16 	1 	fall 	NN
+Hos 	13 	16 	1 	17 	1 	by 	IN
+Hos 	13 	16 	1 	18 	1 	the 	DT
+Hos 	13 	16 	1 	19 	1 	sword 	NN
+Hos 	13 	16 	1 	20 	0 	:
+Hos 	13 	16 	1 	21 	1 	their 	PRP$
+Hos 	13 	16 	1 	22 	1 	infants 	NNS
+Hos 	13 	16 	1 	23 	1 	shall 	MD
+Hos 	13 	16 	1 	24 	1 	be 	VB
+Hos 	13 	16 	1 	25 	1 	dashed 	VBN
+Hos 	13 	16 	1 	26 	1 	in 	IN
+Hos 	13 	16 	1 	27 	1 	pieces 	NNS
+Hos 	13 	16 	1 	28 	0 	,
+Hos 	13 	16 	1 	29 	1 	and 	CC
+Hos 	13 	16 	1 	30 	1 	their 	PRP$
+Hos 	13 	16 	1 	31 	1 	women 	NNS
+Hos 	13 	16 	1 	32 	1 	with 	IN
+Hos 	13 	16 	1 	33 	1 	child 	NN
+Hos 	13 	16 	1 	34 	1 	shall 	MD
+Hos 	13 	16 	1 	35 	1 	be 	VB
+Hos 	13 	16 	1 	36 	1 	ripped 	NN
+Hos 	13 	16 	1 	37 	1 	up 	RB
+Hos 	13 	16 	1 	38 	0 	.
+Hos 	14 	1 	1 	1 	1 	O 	NN
+Hos 	14 	1 	1 	2 	1 	israel 	NN
+Hos 	14 	1 	1 	3 	0 	,
+Hos 	14 	1 	1 	4 	1 	return 	NN
+Hos 	14 	1 	1 	5 	1 	unto 	NN
+Hos 	14 	1 	1 	6 	1 	the 	DT
+Hos 	14 	1 	1 	7 	1 	LORD 	NN
+Hos 	14 	1 	1 	8 	1 	thy 	NN
+Hos 	14 	1 	1 	9 	1 	God 	NNP
+Hos 	14 	1 	1 	10 	0 	;
+Hos 	14 	1 	1 	11 	1 	for 	IN
+Hos 	14 	1 	1 	12 	1 	thou 	NN
+Hos 	14 	1 	1 	13 	1 	hast 	NN
+Hos 	14 	1 	1 	14 	1 	fallen 	VBN
+Hos 	14 	1 	1 	15 	1 	by 	IN
+Hos 	14 	1 	1 	16 	1 	thine 	NN
+Hos 	14 	1 	1 	17 	1 	iniquity 	NN
+Hos 	14 	1 	1 	18 	0 	.
+Hos 	14 	2 	1 	1 	1 	Take 	VB
+Hos 	14 	2 	1 	2 	1 	with 	IN
+Hos 	14 	2 	1 	3 	1 	you 	PRP
+Hos 	14 	2 	1 	4 	1 	words 	NNS
+Hos 	14 	2 	1 	5 	0 	,
+Hos 	14 	2 	1 	6 	1 	and 	CC
+Hos 	14 	2 	1 	7 	1 	turn 	NN
+Hos 	14 	2 	1 	8 	1 	to 	TO
+Hos 	14 	2 	1 	9 	1 	the 	DT
+Hos 	14 	2 	1 	10 	1 	LORD 	NN
+Hos 	14 	2 	1 	11 	0 	:
+Hos 	14 	2 	1 	12 	1 	say 	VB
+Hos 	14 	2 	1 	13 	1 	unto 	NN
+Hos 	14 	2 	1 	14 	1 	him 	PRP
+Hos 	14 	2 	1 	15 	0 	,
+Hos 	14 	2 	1 	16 	1 	Take 	VB
+Hos 	14 	2 	1 	17 	1 	away 	RB
+Hos 	14 	2 	1 	18 	1 	all 	DT
+Hos 	14 	2 	1 	19 	1 	iniquity 	NN
+Hos 	14 	2 	1 	20 	0 	,
+Hos 	14 	2 	1 	21 	1 	and 	CC
+Hos 	14 	2 	1 	22 	1 	receive 	NN
+Hos 	14 	2 	1 	23 	1 	us 	PRP
+Hos 	14 	2 	1 	24 	1 	graciously 	RB
+Hos 	14 	2 	1 	25 	0 	:
+Hos 	14 	2 	1 	26 	1 	so 	RB
+Hos 	14 	2 	1 	27 	1 	will 	MD
+Hos 	14 	2 	1 	28 	1 	we 	PRP
+Hos 	14 	2 	1 	29 	1 	render 	NN
+Hos 	14 	2 	1 	30 	1 	the 	DT
+Hos 	14 	2 	1 	31 	1 	calves 	NNS
+Hos 	14 	2 	1 	32 	1 	of 	IN
+Hos 	14 	2 	1 	33 	1 	our 	PRP$
+Hos 	14 	2 	1 	34 	1 	lips 	NNS
+Hos 	14 	2 	1 	35 	0 	.
+Hos 	14 	3 	1 	1 	1 	Asshur 	NNP
+Hos 	14 	3 	1 	2 	1 	shall 	MD
+Hos 	14 	3 	1 	3 	1 	not 	RB
+Hos 	14 	3 	1 	4 	1 	save 	VB
+Hos 	14 	3 	1 	5 	1 	us 	PRP
+Hos 	14 	3 	1 	6 	0 	;
+Hos 	14 	3 	1 	7 	1 	we 	PRP
+Hos 	14 	3 	1 	8 	1 	will 	MD
+Hos 	14 	3 	1 	9 	1 	not 	RB
+Hos 	14 	3 	1 	10 	1 	ride 	NN
+Hos 	14 	3 	1 	11 	1 	upon 	IN
+Hos 	14 	3 	1 	12 	1 	horses 	NNS
+Hos 	14 	3 	1 	13 	0 	:
+Hos 	14 	3 	1 	14 	1 	neither 	DT
+Hos 	14 	3 	1 	15 	1 	will 	MD
+Hos 	14 	3 	1 	16 	1 	we 	PRP
+Hos 	14 	3 	1 	17 	1 	say 	VB
+Hos 	14 	3 	1 	18 	1 	any 	DT
+Hos 	14 	3 	1 	19 	1 	more 	RBR
+Hos 	14 	3 	1 	20 	1 	to 	TO
+Hos 	14 	3 	1 	21 	1 	the 	DT
+Hos 	14 	3 	1 	22 	1 	work 	NN
+Hos 	14 	3 	1 	23 	1 	of 	IN
+Hos 	14 	3 	1 	24 	1 	our 	PRP$
+Hos 	14 	3 	1 	25 	1 	hands 	NNS
+Hos 	14 	3 	1 	26 	0 	,
+Hos 	14 	3 	1 	27 	1 	Ye 	NN
+Hos 	14 	3 	1 	28 	1 	are 	VBP
+Hos 	14 	3 	1 	29 	1 	our 	PRP$
+Hos 	14 	3 	1 	30 	1 	gods 	NNS
+Hos 	14 	3 	1 	31 	0 	:
+Hos 	14 	3 	1 	32 	1 	for 	IN
+Hos 	14 	3 	1 	33 	1 	in 	IN
+Hos 	14 	3 	1 	34 	1 	thee 	NN
+Hos 	14 	3 	1 	35 	1 	the 	DT
+Hos 	14 	3 	1 	36 	1 	fatherless 	NN
+Hos 	14 	3 	1 	37 	1 	findeth 	NNS
+Hos 	14 	3 	1 	38 	1 	mercy 	NN
+Hos 	14 	3 	1 	39 	0 	.
+Hos 	14 	4 	1 	1 	1 	I 	PRP
+Hos 	14 	4 	1 	2 	1 	will 	MD
+Hos 	14 	4 	1 	3 	1 	heal 	NN
+Hos 	14 	4 	1 	4 	1 	their 	PRP$
+Hos 	14 	4 	1 	5 	1 	backsliding 	NN
+Hos 	14 	4 	1 	6 	0 	,
+Hos 	14 	4 	1 	7 	1 	I 	PRP
+Hos 	14 	4 	1 	8 	1 	will 	MD
+Hos 	14 	4 	1 	9 	1 	love 	NN
+Hos 	14 	4 	1 	10 	1 	them 	PRP
+Hos 	14 	4 	1 	11 	1 	freely 	RB
+Hos 	14 	4 	1 	12 	0 	:
+Hos 	14 	4 	1 	13 	1 	for 	IN
+Hos 	14 	4 	1 	14 	1 	mine 	NN
+Hos 	14 	4 	1 	15 	1 	anger 	NN
+Hos 	14 	4 	1 	16 	1 	is 	VBZ
+Hos 	14 	4 	1 	17 	1 	turned 	VBD
+Hos 	14 	4 	1 	18 	1 	away 	RB
+Hos 	14 	4 	1 	19 	1 	from 	IN
+Hos 	14 	4 	1 	20 	1 	him 	PRP
+Hos 	14 	4 	1 	21 	0 	.
+Hos 	14 	5 	1 	1 	1 	I 	PRP
+Hos 	14 	5 	1 	2 	1 	will 	MD
+Hos 	14 	5 	1 	3 	1 	be 	VB
+Hos 	14 	5 	1 	4 	1 	as 	IN
+Hos 	14 	5 	1 	5 	1 	the 	DT
+Hos 	14 	5 	1 	6 	1 	dew 	NN
+Hos 	14 	5 	1 	7 	1 	unto 	NN
+Hos 	14 	5 	1 	8 	1 	Israel 	NNP
+Hos 	14 	5 	1 	9 	0 	:
+Hos 	14 	5 	1 	10 	1 	he 	PRP
+Hos 	14 	5 	1 	11 	1 	shall 	MD
+Hos 	14 	5 	1 	12 	1 	grow 	NN
+Hos 	14 	5 	1 	13 	1 	as 	IN
+Hos 	14 	5 	1 	14 	1 	the 	DT
+Hos 	14 	5 	1 	15 	1 	lily 	RB
+Hos 	14 	5 	1 	16 	0 	,
+Hos 	14 	5 	1 	17 	1 	and 	CC
+Hos 	14 	5 	1 	18 	1 	cast 	NN
+Hos 	14 	5 	1 	19 	1 	forth 	NN
+Hos 	14 	5 	1 	20 	1 	his 	PRP$
+Hos 	14 	5 	1 	21 	1 	roots 	NNS
+Hos 	14 	5 	1 	22 	1 	as 	IN
+Hos 	14 	5 	1 	23 	1 	Lebanon 	NNP
+Hos 	14 	5 	1 	24 	0 	.
+Hos 	14 	6 	1 	1 	1 	is 	VBZ
+Hos 	14 	6 	1 	2 	1 	branches 	NNS
+Hos 	14 	6 	1 	3 	1 	shall 	MD
+Hos 	14 	6 	1 	4 	1 	spread 	NN
+Hos 	14 	6 	1 	5 	0 	,
+Hos 	14 	6 	1 	6 	1 	and 	CC
+Hos 	14 	6 	1 	7 	1 	his 	PRP$
+Hos 	14 	6 	1 	8 	1 	beauty 	NN
+Hos 	14 	6 	1 	9 	1 	shall 	MD
+Hos 	14 	6 	1 	10 	1 	be 	VB
+Hos 	14 	6 	1 	11 	1 	as 	IN
+Hos 	14 	6 	1 	12 	1 	the 	DT
+Hos 	14 	6 	1 	13 	1 	olive 	JJ
+Hos 	14 	6 	1 	14 	1 	tree 	NN
+Hos 	14 	6 	1 	15 	0 	,
+Hos 	14 	6 	1 	16 	1 	and 	CC
+Hos 	14 	6 	1 	17 	1 	his 	PRP$
+Hos 	14 	6 	1 	18 	1 	smell 	NN
+Hos 	14 	6 	1 	19 	1 	as 	IN
+Hos 	14 	6 	1 	20 	1 	Lebanon 	NNP
+Hos 	14 	6 	1 	21 	0 	.
+Hos 	14 	7 	1 	1 	1 	They 	PRP
+Hos 	14 	7 	1 	2 	1 	that 	IN
+Hos 	14 	7 	1 	3 	1 	dwell 	NN
+Hos 	14 	7 	1 	4 	1 	under 	IN
+Hos 	14 	7 	1 	5 	1 	his 	PRP$
+Hos 	14 	7 	1 	6 	1 	shadow 	NN
+Hos 	14 	7 	1 	7 	1 	shall 	MD
+Hos 	14 	7 	1 	8 	1 	return 	NN
+Hos 	14 	7 	1 	9 	0 	;
+Hos 	14 	7 	1 	10 	1 	they 	PRP
+Hos 	14 	7 	1 	11 	1 	shall 	MD
+Hos 	14 	7 	1 	12 	1 	revive 	NN
+Hos 	14 	7 	1 	13 	1 	as 	IN
+Hos 	14 	7 	1 	14 	1 	the 	DT
+Hos 	14 	7 	1 	15 	1 	corn 	NN
+Hos 	14 	7 	1 	16 	0 	,
+Hos 	14 	7 	1 	17 	1 	and 	CC
+Hos 	14 	7 	1 	18 	1 	grow 	NN
+Hos 	14 	7 	1 	19 	1 	as 	IN
+Hos 	14 	7 	1 	20 	1 	the 	DT
+Hos 	14 	7 	1 	21 	1 	vine 	NN
+Hos 	14 	7 	1 	22 	0 	:
+Hos 	14 	7 	1 	23 	1 	the 	DT
+Hos 	14 	7 	1 	24 	1 	scent 	NN
+Hos 	14 	7 	1 	25 	1 	thereof 	NN
+Hos 	14 	7 	1 	26 	1 	shall 	MD
+Hos 	14 	7 	1 	27 	1 	be 	VB
+Hos 	14 	7 	1 	28 	1 	as 	IN
+Hos 	14 	7 	1 	29 	1 	the 	DT
+Hos 	14 	7 	1 	30 	1 	wine 	NN
+Hos 	14 	7 	1 	31 	1 	of 	IN
+Hos 	14 	7 	1 	32 	1 	Lebanon 	NNP
+Hos 	14 	7 	1 	33 	0 	.
+Hos 	14 	8 	1 	1 	1 	Ephraim 	NN
+Hos 	14 	8 	1 	2 	1 	shall 	MD
+Hos 	14 	8 	1 	3 	1 	say 	VB
+Hos 	14 	8 	1 	4 	0 	,
+Hos 	14 	8 	1 	5 	1 	What 	WP
+Hos 	14 	8 	1 	6 	1 	have 	VB
+Hos 	14 	8 	1 	7 	1 	I 	PRP
+Hos 	14 	8 	1 	8 	1 	to 	TO
+Hos 	14 	8 	1 	9 	1 	do 	VB
+Hos 	14 	8 	1 	10 	1 	any 	DT
+Hos 	14 	8 	1 	11 	1 	more 	RBR
+Hos 	14 	8 	1 	12 	1 	with 	IN
+Hos 	14 	8 	1 	13 	1 	idols 	NNS
+Hos 	14 	8 	1 	14 	0 	?
+Hos 	14 	8 	2 	1 	1 	I 	PRP
+Hos 	14 	8 	2 	2 	1 	have 	VB
+Hos 	14 	8 	2 	3 	1 	heard 	NN
+Hos 	14 	8 	2 	4 	1 	him 	PRP
+Hos 	14 	8 	2 	5 	0 	,
+Hos 	14 	8 	2 	6 	1 	and 	CC
+Hos 	14 	8 	2 	7 	1 	observed 	VBN
+Hos 	14 	8 	2 	8 	1 	him 	PRP
+Hos 	14 	8 	2 	9 	0 	:
+Hos 	14 	8 	2 	10 	1 	I 	PRP
+Hos 	14 	8 	2 	11 	1 	am 	VBP
+Hos 	14 	8 	2 	12 	1 	like 	IN
+Hos 	14 	8 	2 	13 	1 	a 	DT
+Hos 	14 	8 	2 	14 	1 	green 	JJ
+Hos 	14 	8 	2 	15 	1 	fir 	NN
+Hos 	14 	8 	2 	16 	1 	tree 	NN
+Hos 	14 	8 	2 	17 	0 	.
+Hos 	14 	8 	3 	1 	1 	From 	IN
+Hos 	14 	8 	3 	2 	1 	me 	PRP
+Hos 	14 	8 	3 	3 	1 	is 	VBZ
+Hos 	14 	8 	3 	4 	1 	thy 	NN
+Hos 	14 	8 	3 	5 	1 	fruit 	NN
+Hos 	14 	8 	3 	6 	1 	found 	NN
+Hos 	14 	8 	3 	7 	0 	.
+Hos 	14 	9 	1 	1 	1 	Who 	WP
+Hos 	14 	9 	1 	2 	1 	is 	VBZ
+Hos 	14 	9 	1 	3 	1 	wise 	NN
+Hos 	14 	9 	1 	4 	0 	,
+Hos 	14 	9 	1 	5 	1 	and 	CC
+Hos 	14 	9 	1 	6 	1 	he 	PRP
+Hos 	14 	9 	1 	7 	1 	shall 	MD
+Hos 	14 	9 	1 	8 	1 	understand 	NN
+Hos 	14 	9 	1 	9 	1 	these 	DT
+Hos 	14 	9 	1 	10 	1 	things 	NNS
+Hos 	14 	9 	1 	11 	0 	?
+Hos 	14 	9 	2 	1 	1 	prudent 	NN
+Hos 	14 	9 	2 	2 	0 	,
+Hos 	14 	9 	2 	3 	1 	and 	CC
+Hos 	14 	9 	2 	4 	1 	he 	PRP
+Hos 	14 	9 	2 	5 	1 	shall 	MD
+Hos 	14 	9 	2 	6 	1 	know 	VB
+Hos 	14 	9 	2 	7 	1 	them 	PRP
+Hos 	14 	9 	2 	8 	0 	?
+Hos 	14 	9 	3 	1 	1 	for 	IN
+Hos 	14 	9 	3 	2 	1 	the 	DT
+Hos 	14 	9 	3 	3 	1 	ways 	NNS
+Hos 	14 	9 	3 	4 	1 	of 	IN
+Hos 	14 	9 	3 	5 	1 	the 	DT
+Hos 	14 	9 	3 	6 	1 	LORD 	NN
+Hos 	14 	9 	3 	7 	1 	are 	VBP
+Hos 	14 	9 	3 	8 	1 	right 	NN
+Hos 	14 	9 	3 	9 	0 	,
+Hos 	14 	9 	3 	10 	1 	and 	CC
+Hos 	14 	9 	3 	11 	1 	the 	DT
+Hos 	14 	9 	3 	12 	1 	just 	RB
+Hos 	14 	9 	3 	13 	1 	shall 	MD
+Hos 	14 	9 	3 	14 	1 	walk 	NN
+Hos 	14 	9 	3 	15 	1 	in 	IN
+Hos 	14 	9 	3 	16 	1 	them 	PRP
+Hos 	14 	9 	3 	17 	0 	:
+Hos 	14 	9 	3 	18 	1 	but 	CC
+Hos 	14 	9 	3 	19 	1 	the 	DT
+Hos 	14 	9 	3 	20 	1 	transgressors 	NNS
+Hos 	14 	9 	3 	21 	1 	shall 	MD
+Hos 	14 	9 	3 	22 	1 	fall 	NN
+Hos 	14 	9 	3 	23 	1 	therein 	NN
+Hos 	14 	9 	3 	24 	0 	.

@@ -1,0 +1,2708 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Jam 	1 	1 	1 	1 	1 	es 	NN
+Jam 	1 	1 	1 	2 	0 	,
+Jam 	1 	1 	1 	3 	1 	a 	DT
+Jam 	1 	1 	1 	4 	1 	servant 	NN
+Jam 	1 	1 	1 	5 	1 	of 	IN
+Jam 	1 	1 	1 	6 	1 	God 	NNP
+Jam 	1 	1 	1 	7 	1 	and 	CC
+Jam 	1 	1 	1 	8 	1 	of 	IN
+Jam 	1 	1 	1 	9 	1 	the 	DT
+Jam 	1 	1 	1 	10 	1 	Lord 	NN
+Jam 	1 	1 	1 	11 	1 	Jesus 	NN
+Jam 	1 	1 	1 	12 	1 	Christ 	NN
+Jam 	1 	1 	1 	13 	0 	,
+Jam 	1 	1 	1 	14 	1 	to 	TO
+Jam 	1 	1 	1 	15 	1 	the 	DT
+Jam 	1 	1 	1 	16 	1 	twelve 	NN
+Jam 	1 	1 	1 	17 	1 	tribes 	NNS
+Jam 	1 	1 	1 	18 	1 	which 	WDT
+Jam 	1 	1 	1 	19 	1 	are 	VBP
+Jam 	1 	1 	1 	20 	1 	scattered 	VBN
+Jam 	1 	1 	1 	21 	1 	abroad 	RB
+Jam 	1 	1 	1 	22 	0 	,
+Jam 	1 	1 	1 	23 	1 	greeting 	VBG
+Jam 	1 	1 	1 	24 	0 	.
+Jam 	1 	2 	1 	1 	1 	My 	PRP$
+Jam 	1 	2 	1 	2 	1 	brethren 	NNS
+Jam 	1 	2 	1 	3 	0 	,
+Jam 	1 	2 	1 	4 	1 	count 	NN
+Jam 	1 	2 	1 	5 	1 	it 	PRP
+Jam 	1 	2 	1 	6 	1 	all 	DT
+Jam 	1 	2 	1 	7 	1 	joy 	NN
+Jam 	1 	2 	1 	8 	1 	when 	WRB
+Jam 	1 	2 	1 	9 	1 	ye 	NN
+Jam 	1 	2 	1 	10 	1 	fall 	NN
+Jam 	1 	2 	1 	11 	1 	into 	IN
+Jam 	1 	2 	1 	12 	1 	divers 	NNS
+Jam 	1 	2 	1 	13 	1 	temptations 	NNS
+Jam 	1 	2 	1 	14 	0 	;
+Jam 	1 	3 	1 	1 	1 	Knowing 	VBG
+Jam 	1 	3 	1 	2 	1 	this 	DT
+Jam 	1 	3 	1 	3 	0 	,
+Jam 	1 	3 	1 	4 	1 	that 	IN
+Jam 	1 	3 	1 	5 	1 	the 	DT
+Jam 	1 	3 	1 	6 	1 	trying 	VBG
+Jam 	1 	3 	1 	7 	1 	of 	IN
+Jam 	1 	3 	1 	8 	1 	your 	PRP$
+Jam 	1 	3 	1 	9 	1 	faith 	NN
+Jam 	1 	3 	1 	10 	1 	worketh 	NNS
+Jam 	1 	3 	1 	11 	1 	patience 	NN
+Jam 	1 	3 	1 	12 	0 	.
+Jam 	1 	4 	1 	1 	1 	But 	CC
+Jam 	1 	4 	1 	2 	1 	let 	VB
+Jam 	1 	4 	1 	3 	1 	patience 	NN
+Jam 	1 	4 	1 	4 	1 	have 	VB
+Jam 	1 	4 	1 	5 	1 	her 	PRP$
+Jam 	1 	4 	1 	6 	1 	perfect 	NN
+Jam 	1 	4 	1 	7 	1 	work 	NN
+Jam 	1 	4 	1 	8 	0 	,
+Jam 	1 	4 	1 	9 	1 	that 	IN
+Jam 	1 	4 	1 	10 	1 	ye 	NN
+Jam 	1 	4 	1 	11 	1 	may 	MD
+Jam 	1 	4 	1 	12 	1 	be 	VB
+Jam 	1 	4 	1 	13 	1 	perfect 	NN
+Jam 	1 	4 	1 	14 	1 	and 	CC
+Jam 	1 	4 	1 	15 	1 	entire 	JJ
+Jam 	1 	4 	1 	16 	0 	,
+Jam 	1 	4 	1 	17 	1 	wanting 	VBG
+Jam 	1 	4 	1 	18 	1 	nothing 	NN
+Jam 	1 	4 	1 	19 	0 	.
+Jam 	1 	5 	1 	1 	1 	If 	IN
+Jam 	1 	5 	1 	2 	1 	any 	DT
+Jam 	1 	5 	1 	3 	1 	of 	IN
+Jam 	1 	5 	1 	4 	1 	you 	PRP
+Jam 	1 	5 	1 	5 	1 	lack 	NN
+Jam 	1 	5 	1 	6 	1 	wisdom 	NN
+Jam 	1 	5 	1 	7 	0 	,
+Jam 	1 	5 	1 	8 	1 	let 	VB
+Jam 	1 	5 	1 	9 	1 	him 	PRP
+Jam 	1 	5 	1 	10 	1 	ask 	NN
+Jam 	1 	5 	1 	11 	1 	of 	IN
+Jam 	1 	5 	1 	12 	1 	God 	NNP
+Jam 	1 	5 	1 	13 	0 	,
+Jam 	1 	5 	1 	14 	1 	that 	IN
+Jam 	1 	5 	1 	15 	1 	giveth 	NNS
+Jam 	1 	5 	1 	16 	1 	to 	TO
+Jam 	1 	5 	1 	17 	1 	all 	DT
+Jam 	1 	5 	1 	18 	1 	men 	NNS
+Jam 	1 	5 	1 	19 	1 	liberally 	RB
+Jam 	1 	5 	1 	20 	0 	,
+Jam 	1 	5 	1 	21 	1 	and 	CC
+Jam 	1 	5 	1 	22 	1 	upbraideth 	NNS
+Jam 	1 	5 	1 	23 	1 	not 	RB
+Jam 	1 	5 	1 	24 	0 	;
+Jam 	1 	5 	1 	25 	1 	and 	CC
+Jam 	1 	5 	1 	26 	1 	it 	PRP
+Jam 	1 	5 	1 	27 	1 	shall 	MD
+Jam 	1 	5 	1 	28 	1 	be 	VB
+Jam 	1 	5 	1 	29 	1 	given 	VBN
+Jam 	1 	5 	1 	30 	1 	him 	PRP
+Jam 	1 	5 	1 	31 	0 	.
+Jam 	1 	6 	1 	1 	1 	But 	CC
+Jam 	1 	6 	1 	2 	1 	let 	VB
+Jam 	1 	6 	1 	3 	1 	him 	PRP
+Jam 	1 	6 	1 	4 	1 	ask 	NN
+Jam 	1 	6 	1 	5 	1 	in 	IN
+Jam 	1 	6 	1 	6 	1 	faith 	NN
+Jam 	1 	6 	1 	7 	0 	,
+Jam 	1 	6 	1 	8 	1 	nothing 	NN
+Jam 	1 	6 	1 	9 	1 	wavering 	VBG
+Jam 	1 	6 	1 	10 	0 	.
+Jam 	1 	6 	2 	1 	1 	For 	IN
+Jam 	1 	6 	2 	2 	1 	he 	PRP
+Jam 	1 	6 	2 	3 	1 	that 	IN
+Jam 	1 	6 	2 	4 	1 	wavereth 	NNS
+Jam 	1 	6 	2 	5 	1 	is 	VBZ
+Jam 	1 	6 	2 	6 	1 	like 	IN
+Jam 	1 	6 	2 	7 	1 	a 	DT
+Jam 	1 	6 	2 	8 	1 	wave 	NN
+Jam 	1 	6 	2 	9 	1 	of 	IN
+Jam 	1 	6 	2 	10 	1 	the 	DT
+Jam 	1 	6 	2 	11 	1 	sea 	NN
+Jam 	1 	6 	2 	12 	1 	driven 	NN
+Jam 	1 	6 	2 	13 	1 	with 	IN
+Jam 	1 	6 	2 	14 	1 	the 	DT
+Jam 	1 	6 	2 	15 	1 	wind 	NN
+Jam 	1 	6 	2 	16 	1 	and 	CC
+Jam 	1 	6 	2 	17 	1 	tossed 	VBN
+Jam 	1 	6 	2 	18 	0 	.
+Jam 	1 	7 	1 	1 	1 	For 	IN
+Jam 	1 	7 	1 	2 	1 	let 	VB
+Jam 	1 	7 	1 	3 	1 	not 	RB
+Jam 	1 	7 	1 	4 	1 	that 	IN
+Jam 	1 	7 	1 	5 	1 	man 	NN
+Jam 	1 	7 	1 	6 	1 	think 	NN
+Jam 	1 	7 	1 	7 	1 	that 	IN
+Jam 	1 	7 	1 	8 	1 	he 	PRP
+Jam 	1 	7 	1 	9 	1 	shall 	MD
+Jam 	1 	7 	1 	10 	1 	receive 	NN
+Jam 	1 	7 	1 	11 	1 	any 	DT
+Jam 	1 	7 	1 	12 	1 	thing 	NN
+Jam 	1 	7 	1 	13 	1 	of 	IN
+Jam 	1 	7 	1 	14 	1 	the 	DT
+Jam 	1 	7 	1 	15 	1 	Lord 	NN
+Jam 	1 	7 	1 	16 	0 	.
+Jam 	1 	8 	1 	1 	1 	A 	DT
+Jam 	1 	8 	1 	2 	1 	double 	RB
+Jam 	1 	8 	1 	3 	1 	minded 	VBN
+Jam 	1 	8 	1 	4 	1 	man 	NN
+Jam 	1 	8 	1 	5 	1 	is 	VBZ
+Jam 	1 	8 	1 	6 	1 	unstable 	JJ
+Jam 	1 	8 	1 	7 	1 	in 	IN
+Jam 	1 	8 	1 	8 	1 	all 	DT
+Jam 	1 	8 	1 	9 	1 	his 	PRP$
+Jam 	1 	8 	1 	10 	1 	ways 	NNS
+Jam 	1 	8 	1 	11 	0 	.
+Jam 	1 	9 	1 	1 	1 	Let 	VB
+Jam 	1 	9 	1 	2 	1 	the 	DT
+Jam 	1 	9 	1 	3 	1 	brother 	NN
+Jam 	1 	9 	1 	4 	1 	of 	IN
+Jam 	1 	9 	1 	5 	1 	low 	JJ
+Jam 	1 	9 	1 	6 	1 	degree 	NN
+Jam 	1 	9 	1 	7 	1 	rejoice 	NN
+Jam 	1 	9 	1 	8 	1 	in 	IN
+Jam 	1 	9 	1 	9 	1 	that 	IN
+Jam 	1 	9 	1 	10 	1 	he 	PRP
+Jam 	1 	9 	1 	11 	1 	is 	VBZ
+Jam 	1 	9 	1 	12 	1 	exalted 	VBN
+Jam 	1 	9 	1 	13 	0 	:
+Jam 	1 	10 	1 	1 	1 	But 	CC
+Jam 	1 	10 	1 	2 	1 	the 	DT
+Jam 	1 	10 	1 	3 	1 	rich 	JJ
+Jam 	1 	10 	1 	4 	0 	,
+Jam 	1 	10 	1 	5 	1 	in 	IN
+Jam 	1 	10 	1 	6 	1 	that 	IN
+Jam 	1 	10 	1 	7 	1 	he 	PRP
+Jam 	1 	10 	1 	8 	1 	is 	VBZ
+Jam 	1 	10 	1 	9 	1 	made 	VBN
+Jam 	1 	10 	1 	10 	1 	low 	JJ
+Jam 	1 	10 	1 	11 	0 	:
+Jam 	1 	10 	1 	12 	1 	because 	IN
+Jam 	1 	10 	1 	13 	1 	as 	IN
+Jam 	1 	10 	1 	14 	1 	the 	DT
+Jam 	1 	10 	1 	15 	1 	flower 	NN
+Jam 	1 	10 	1 	16 	1 	of 	IN
+Jam 	1 	10 	1 	17 	1 	the 	DT
+Jam 	1 	10 	1 	18 	1 	grass 	NN
+Jam 	1 	10 	1 	19 	1 	he 	PRP
+Jam 	1 	10 	1 	20 	1 	shall 	MD
+Jam 	1 	10 	1 	21 	1 	pass 	NN
+Jam 	1 	10 	1 	22 	1 	away 	RB
+Jam 	1 	10 	1 	23 	0 	.
+Jam 	1 	11 	1 	1 	1 	For 	IN
+Jam 	1 	11 	1 	2 	1 	the 	DT
+Jam 	1 	11 	1 	3 	1 	sun 	NN
+Jam 	1 	11 	1 	4 	1 	is 	VBZ
+Jam 	1 	11 	1 	5 	1 	no 	DT
+Jam 	1 	11 	1 	6 	1 	sooner 	NN
+Jam 	1 	11 	1 	7 	1 	risen 	NN
+Jam 	1 	11 	1 	8 	1 	with 	IN
+Jam 	1 	11 	1 	9 	1 	a 	DT
+Jam 	1 	11 	1 	10 	1 	burning 	NN
+Jam 	1 	11 	1 	11 	1 	heat 	NN
+Jam 	1 	11 	1 	12 	0 	,
+Jam 	1 	11 	1 	13 	1 	but 	CC
+Jam 	1 	11 	1 	14 	1 	it 	PRP
+Jam 	1 	11 	1 	15 	1 	withereth 	NNS
+Jam 	1 	11 	1 	16 	1 	the 	DT
+Jam 	1 	11 	1 	17 	1 	grass 	NN
+Jam 	1 	11 	1 	18 	0 	,
+Jam 	1 	11 	1 	19 	1 	and 	CC
+Jam 	1 	11 	1 	20 	1 	the 	DT
+Jam 	1 	11 	1 	21 	1 	flower 	NN
+Jam 	1 	11 	1 	22 	1 	thereof 	NN
+Jam 	1 	11 	1 	23 	1 	falleth 	NNS
+Jam 	1 	11 	1 	24 	0 	,
+Jam 	1 	11 	1 	25 	1 	and 	CC
+Jam 	1 	11 	1 	26 	1 	the 	DT
+Jam 	1 	11 	1 	27 	1 	grace 	NN
+Jam 	1 	11 	1 	28 	1 	of 	IN
+Jam 	1 	11 	1 	29 	1 	the 	DT
+Jam 	1 	11 	1 	30 	1 	fashion 	NN
+Jam 	1 	11 	1 	31 	1 	of 	IN
+Jam 	1 	11 	1 	32 	1 	it 	PRP
+Jam 	1 	11 	1 	33 	1 	perisheth 	NN
+Jam 	1 	11 	1 	34 	0 	:
+Jam 	1 	11 	1 	35 	1 	so 	RB
+Jam 	1 	11 	1 	36 	1 	also 	RB
+Jam 	1 	11 	1 	37 	1 	shall 	MD
+Jam 	1 	11 	1 	38 	1 	the 	DT
+Jam 	1 	11 	1 	39 	1 	rich 	JJ
+Jam 	1 	11 	1 	40 	1 	man 	NN
+Jam 	1 	11 	1 	41 	1 	fade 	NN
+Jam 	1 	11 	1 	42 	1 	away 	RB
+Jam 	1 	11 	1 	43 	1 	in 	IN
+Jam 	1 	11 	1 	44 	1 	his 	PRP$
+Jam 	1 	11 	1 	45 	1 	ways 	NNS
+Jam 	1 	11 	1 	46 	0 	.
+Jam 	1 	12 	1 	1 	1 	Blessed 	VBN
+Jam 	1 	12 	1 	2 	1 	is 	VBZ
+Jam 	1 	12 	1 	3 	1 	the 	DT
+Jam 	1 	12 	1 	4 	1 	man 	NN
+Jam 	1 	12 	1 	5 	1 	that 	IN
+Jam 	1 	12 	1 	6 	1 	endureth 	NNS
+Jam 	1 	12 	1 	7 	1 	temptation 	NN
+Jam 	1 	12 	1 	8 	0 	:
+Jam 	1 	12 	1 	9 	1 	for 	IN
+Jam 	1 	12 	1 	10 	1 	when 	WRB
+Jam 	1 	12 	1 	11 	1 	he 	PRP
+Jam 	1 	12 	1 	12 	1 	is 	VBZ
+Jam 	1 	12 	1 	13 	1 	tried 	VBN
+Jam 	1 	12 	1 	14 	0 	,
+Jam 	1 	12 	1 	15 	1 	he 	PRP
+Jam 	1 	12 	1 	16 	1 	shall 	MD
+Jam 	1 	12 	1 	17 	1 	receive 	NN
+Jam 	1 	12 	1 	18 	1 	the 	DT
+Jam 	1 	12 	1 	19 	1 	crown 	NN
+Jam 	1 	12 	1 	20 	1 	of 	IN
+Jam 	1 	12 	1 	21 	1 	life 	NN
+Jam 	1 	12 	1 	22 	0 	,
+Jam 	1 	12 	1 	23 	1 	which 	WDT
+Jam 	1 	12 	1 	24 	1 	the 	DT
+Jam 	1 	12 	1 	25 	1 	Lord 	NN
+Jam 	1 	12 	1 	26 	1 	hath 	NN
+Jam 	1 	12 	1 	27 	1 	promised 	VBN
+Jam 	1 	12 	1 	28 	1 	to 	TO
+Jam 	1 	12 	1 	29 	1 	them 	PRP
+Jam 	1 	12 	1 	30 	1 	that 	IN
+Jam 	1 	12 	1 	31 	1 	love 	NN
+Jam 	1 	12 	1 	32 	1 	him 	PRP
+Jam 	1 	12 	1 	33 	0 	.
+Jam 	1 	13 	1 	1 	1 	Let 	VB
+Jam 	1 	13 	1 	2 	1 	no 	DT
+Jam 	1 	13 	1 	3 	1 	man 	NN
+Jam 	1 	13 	1 	4 	1 	say 	VB
+Jam 	1 	13 	1 	5 	1 	when 	WRB
+Jam 	1 	13 	1 	6 	1 	he 	PRP
+Jam 	1 	13 	1 	7 	1 	is 	VBZ
+Jam 	1 	13 	1 	8 	1 	tempted 	VBN
+Jam 	1 	13 	1 	9 	0 	,
+Jam 	1 	13 	1 	10 	1 	I 	PRP
+Jam 	1 	13 	1 	11 	1 	am 	VBP
+Jam 	1 	13 	1 	12 	1 	tempted 	VBN
+Jam 	1 	13 	1 	13 	1 	of 	IN
+Jam 	1 	13 	1 	14 	1 	God 	NNP
+Jam 	1 	13 	1 	15 	0 	:
+Jam 	1 	13 	1 	16 	1 	for 	IN
+Jam 	1 	13 	1 	17 	1 	God 	NNP
+Jam 	1 	13 	1 	18 	1 	can 	MD
+Jam 	1 	13 	1 	19 	1 	not 	RB
+Jam 	1 	13 	1 	20 	1 	be 	VB
+Jam 	1 	13 	1 	21 	1 	tempted 	VBN
+Jam 	1 	13 	1 	22 	1 	with 	IN
+Jam 	1 	13 	1 	23 	1 	evil 	NN
+Jam 	1 	13 	1 	24 	0 	,
+Jam 	1 	13 	1 	25 	1 	neither 	DT
+Jam 	1 	13 	1 	26 	1 	tempteth 	NNS
+Jam 	1 	13 	1 	27 	1 	he 	PRP
+Jam 	1 	13 	1 	28 	1 	any 	DT
+Jam 	1 	13 	1 	29 	1 	man 	NN
+Jam 	1 	13 	1 	30 	0 	:
+Jam 	1 	14 	1 	1 	1 	But 	CC
+Jam 	1 	14 	1 	2 	1 	every 	DT
+Jam 	1 	14 	1 	3 	1 	man 	NN
+Jam 	1 	14 	1 	4 	1 	is 	VBZ
+Jam 	1 	14 	1 	5 	1 	tempted 	VBN
+Jam 	1 	14 	1 	6 	0 	,
+Jam 	1 	14 	1 	7 	1 	when 	WRB
+Jam 	1 	14 	1 	8 	1 	he 	PRP
+Jam 	1 	14 	1 	9 	1 	is 	VBZ
+Jam 	1 	14 	1 	10 	1 	drawn 	NN
+Jam 	1 	14 	1 	11 	1 	away 	RB
+Jam 	1 	14 	1 	12 	1 	of 	IN
+Jam 	1 	14 	1 	13 	1 	his 	PRP$
+Jam 	1 	14 	1 	14 	1 	own 	JJ
+Jam 	1 	14 	1 	15 	1 	lust 	NN
+Jam 	1 	14 	1 	16 	0 	,
+Jam 	1 	14 	1 	17 	1 	and 	CC
+Jam 	1 	14 	1 	18 	1 	enticed 	VBN
+Jam 	1 	14 	1 	19 	0 	.
+Jam 	1 	15 	1 	1 	1 	Then 	RB
+Jam 	1 	15 	1 	2 	1 	when 	WRB
+Jam 	1 	15 	1 	3 	1 	lust 	NN
+Jam 	1 	15 	1 	4 	1 	hath 	NN
+Jam 	1 	15 	1 	5 	1 	conceived 	VBN
+Jam 	1 	15 	1 	6 	0 	,
+Jam 	1 	15 	1 	7 	1 	it 	PRP
+Jam 	1 	15 	1 	8 	1 	bringeth 	NN
+Jam 	1 	15 	1 	9 	1 	forth 	NN
+Jam 	1 	15 	1 	10 	1 	sin 	NN
+Jam 	1 	15 	1 	11 	0 	:
+Jam 	1 	15 	1 	12 	1 	and 	CC
+Jam 	1 	15 	1 	13 	1 	sin 	NN
+Jam 	1 	15 	1 	14 	0 	,
+Jam 	1 	15 	1 	15 	1 	when 	WRB
+Jam 	1 	15 	1 	16 	1 	it 	PRP
+Jam 	1 	15 	1 	17 	1 	is 	VBZ
+Jam 	1 	15 	1 	18 	1 	finished 	VBN
+Jam 	1 	15 	1 	19 	0 	,
+Jam 	1 	15 	1 	20 	1 	bringeth 	NN
+Jam 	1 	15 	1 	21 	1 	forth 	NN
+Jam 	1 	15 	1 	22 	1 	death 	NN
+Jam 	1 	15 	1 	23 	0 	.
+Jam 	1 	16 	1 	1 	1 	Do 	VB
+Jam 	1 	16 	1 	2 	1 	not 	RB
+Jam 	1 	16 	1 	3 	1 	err 	NN
+Jam 	1 	16 	1 	4 	0 	,
+Jam 	1 	16 	1 	5 	1 	my 	PRP$
+Jam 	1 	16 	1 	6 	1 	beloved 	VBN
+Jam 	1 	16 	1 	7 	1 	brethren 	NNS
+Jam 	1 	16 	1 	8 	0 	.
+Jam 	1 	17 	1 	1 	1 	Every 	DT
+Jam 	1 	17 	1 	2 	1 	good 	JJ
+Jam 	1 	17 	1 	3 	1 	gift 	NN
+Jam 	1 	17 	1 	4 	1 	and 	CC
+Jam 	1 	17 	1 	5 	1 	every 	DT
+Jam 	1 	17 	1 	6 	1 	perfect 	NN
+Jam 	1 	17 	1 	7 	1 	gift 	NN
+Jam 	1 	17 	1 	8 	1 	is 	VBZ
+Jam 	1 	17 	1 	9 	1 	from 	IN
+Jam 	1 	17 	1 	10 	1 	above 	IN
+Jam 	1 	17 	1 	11 	0 	,
+Jam 	1 	17 	1 	12 	1 	and 	CC
+Jam 	1 	17 	1 	13 	1 	cometh 	NNS
+Jam 	1 	17 	1 	14 	1 	down 	RB
+Jam 	1 	17 	1 	15 	1 	from 	IN
+Jam 	1 	17 	1 	16 	1 	the 	DT
+Jam 	1 	17 	1 	17 	1 	Father 	NN
+Jam 	1 	17 	1 	18 	1 	of 	IN
+Jam 	1 	17 	1 	19 	1 	lights 	NNS
+Jam 	1 	17 	1 	20 	0 	,
+Jam 	1 	17 	1 	21 	1 	with 	IN
+Jam 	1 	17 	1 	22 	1 	whom 	WP
+Jam 	1 	17 	1 	23 	1 	is 	VBZ
+Jam 	1 	17 	1 	24 	1 	no 	DT
+Jam 	1 	17 	1 	25 	1 	variableness 	NN
+Jam 	1 	17 	1 	26 	0 	,
+Jam 	1 	17 	1 	27 	1 	neither 	DT
+Jam 	1 	17 	1 	28 	1 	shadow 	NN
+Jam 	1 	17 	1 	29 	1 	of 	IN
+Jam 	1 	17 	1 	30 	1 	turning 	VBG
+Jam 	1 	17 	1 	31 	0 	.
+Jam 	1 	18 	1 	1 	1 	Of 	IN
+Jam 	1 	18 	1 	2 	1 	his 	PRP$
+Jam 	1 	18 	1 	3 	1 	own 	JJ
+Jam 	1 	18 	1 	4 	1 	will 	MD
+Jam 	1 	18 	1 	5 	1 	begat 	NN
+Jam 	1 	18 	1 	6 	1 	he 	PRP
+Jam 	1 	18 	1 	7 	1 	us 	PRP
+Jam 	1 	18 	1 	8 	1 	with 	IN
+Jam 	1 	18 	1 	9 	1 	the 	DT
+Jam 	1 	18 	1 	10 	1 	word 	NN
+Jam 	1 	18 	1 	11 	1 	of 	IN
+Jam 	1 	18 	1 	12 	1 	truth 	NN
+Jam 	1 	18 	1 	13 	0 	,
+Jam 	1 	18 	1 	14 	1 	that 	IN
+Jam 	1 	18 	1 	15 	1 	we 	PRP
+Jam 	1 	18 	1 	16 	1 	should 	MD
+Jam 	1 	18 	1 	17 	1 	be 	VB
+Jam 	1 	18 	1 	18 	1 	a 	DT
+Jam 	1 	18 	1 	19 	1 	kind 	NN
+Jam 	1 	18 	1 	20 	1 	of 	IN
+Jam 	1 	18 	1 	21 	1 	firstfruits 	NNS
+Jam 	1 	18 	1 	22 	1 	of 	IN
+Jam 	1 	18 	1 	23 	1 	his 	PRP$
+Jam 	1 	18 	1 	24 	1 	creatures 	NNS
+Jam 	1 	18 	1 	25 	0 	.
+Jam 	1 	19 	1 	1 	1 	Wherefore 	IN
+Jam 	1 	19 	1 	2 	0 	,
+Jam 	1 	19 	1 	3 	1 	my 	PRP$
+Jam 	1 	19 	1 	4 	1 	beloved 	VBN
+Jam 	1 	19 	1 	5 	1 	brethren 	NNS
+Jam 	1 	19 	1 	6 	0 	,
+Jam 	1 	19 	1 	7 	1 	let 	VB
+Jam 	1 	19 	1 	8 	1 	every 	DT
+Jam 	1 	19 	1 	9 	1 	man 	NN
+Jam 	1 	19 	1 	10 	1 	be 	VB
+Jam 	1 	19 	1 	11 	1 	swift 	NN
+Jam 	1 	19 	1 	12 	1 	to 	TO
+Jam 	1 	19 	1 	13 	1 	hear 	NN
+Jam 	1 	19 	1 	14 	0 	,
+Jam 	1 	19 	1 	15 	1 	slow 	VB
+Jam 	1 	19 	1 	16 	1 	to 	TO
+Jam 	1 	19 	1 	17 	1 	speak 	NN
+Jam 	1 	19 	1 	18 	0 	,
+Jam 	1 	19 	1 	19 	1 	slow 	VB
+Jam 	1 	19 	1 	20 	1 	to 	TO
+Jam 	1 	19 	1 	21 	1 	wrath 	NN
+Jam 	1 	19 	1 	22 	0 	:
+Jam 	1 	20 	1 	1 	1 	For 	IN
+Jam 	1 	20 	1 	2 	1 	the 	DT
+Jam 	1 	20 	1 	3 	1 	wrath 	NN
+Jam 	1 	20 	1 	4 	1 	of 	IN
+Jam 	1 	20 	1 	5 	1 	man 	NN
+Jam 	1 	20 	1 	6 	1 	worketh 	NNS
+Jam 	1 	20 	1 	7 	1 	not 	RB
+Jam 	1 	20 	1 	8 	1 	the 	DT
+Jam 	1 	20 	1 	9 	1 	righteousness 	NN
+Jam 	1 	20 	1 	10 	1 	of 	IN
+Jam 	1 	20 	1 	11 	1 	God 	NNP
+Jam 	1 	20 	1 	12 	0 	.
+Jam 	1 	21 	1 	1 	1 	Wherefore 	IN
+Jam 	1 	21 	1 	2 	1 	lay 	NN
+Jam 	1 	21 	1 	3 	1 	apart 	RB
+Jam 	1 	21 	1 	4 	1 	all 	DT
+Jam 	1 	21 	1 	5 	1 	filthiness 	NN
+Jam 	1 	21 	1 	6 	1 	and 	CC
+Jam 	1 	21 	1 	7 	1 	superfluity 	NN
+Jam 	1 	21 	1 	8 	1 	of 	IN
+Jam 	1 	21 	1 	9 	1 	naughtiness 	NN
+Jam 	1 	21 	1 	10 	0 	,
+Jam 	1 	21 	1 	11 	1 	and 	CC
+Jam 	1 	21 	1 	12 	1 	receive 	NN
+Jam 	1 	21 	1 	13 	1 	with 	IN
+Jam 	1 	21 	1 	14 	1 	meekness 	NN
+Jam 	1 	21 	1 	15 	1 	the 	DT
+Jam 	1 	21 	1 	16 	1 	engrafted 	VBN
+Jam 	1 	21 	1 	17 	1 	word 	NN
+Jam 	1 	21 	1 	18 	0 	,
+Jam 	1 	21 	1 	19 	1 	which 	WDT
+Jam 	1 	21 	1 	20 	1 	is 	VBZ
+Jam 	1 	21 	1 	21 	1 	able 	JJ
+Jam 	1 	21 	1 	22 	1 	to 	TO
+Jam 	1 	21 	1 	23 	1 	save 	VB
+Jam 	1 	21 	1 	24 	1 	your 	PRP$
+Jam 	1 	21 	1 	25 	1 	souls 	NNS
+Jam 	1 	21 	1 	26 	0 	.
+Jam 	1 	22 	1 	1 	1 	But 	CC
+Jam 	1 	22 	1 	2 	1 	be 	VB
+Jam 	1 	22 	1 	3 	1 	ye 	NN
+Jam 	1 	22 	1 	4 	1 	doers 	NNS
+Jam 	1 	22 	1 	5 	1 	of 	IN
+Jam 	1 	22 	1 	6 	1 	the 	DT
+Jam 	1 	22 	1 	7 	1 	word 	NN
+Jam 	1 	22 	1 	8 	0 	,
+Jam 	1 	22 	1 	9 	1 	and 	CC
+Jam 	1 	22 	1 	10 	1 	not 	RB
+Jam 	1 	22 	1 	11 	1 	hearers 	NNS
+Jam 	1 	22 	1 	12 	1 	only 	RB
+Jam 	1 	22 	1 	13 	0 	,
+Jam 	1 	22 	1 	14 	1 	deceiving 	VBG
+Jam 	1 	22 	1 	15 	1 	your 	PRP$
+Jam 	1 	22 	1 	16 	1 	own 	JJ
+Jam 	1 	22 	1 	17 	1 	selves 	NNS
+Jam 	1 	22 	1 	18 	0 	.
+Jam 	1 	23 	1 	1 	1 	For 	IN
+Jam 	1 	23 	1 	2 	1 	if 	IN
+Jam 	1 	23 	1 	3 	1 	any 	DT
+Jam 	1 	23 	1 	4 	1 	be 	VB
+Jam 	1 	23 	1 	5 	1 	a 	DT
+Jam 	1 	23 	1 	6 	1 	hearer 	NN
+Jam 	1 	23 	1 	7 	1 	of 	IN
+Jam 	1 	23 	1 	8 	1 	the 	DT
+Jam 	1 	23 	1 	9 	1 	word 	NN
+Jam 	1 	23 	1 	10 	0 	,
+Jam 	1 	23 	1 	11 	1 	and 	CC
+Jam 	1 	23 	1 	12 	1 	not 	RB
+Jam 	1 	23 	1 	13 	1 	a 	DT
+Jam 	1 	23 	1 	14 	1 	doer 	NN
+Jam 	1 	23 	1 	15 	0 	,
+Jam 	1 	23 	1 	16 	1 	he 	PRP
+Jam 	1 	23 	1 	17 	1 	is 	VBZ
+Jam 	1 	23 	1 	18 	1 	like 	IN
+Jam 	1 	23 	1 	19 	1 	unto 	NN
+Jam 	1 	23 	1 	20 	1 	a 	DT
+Jam 	1 	23 	1 	21 	1 	man 	NN
+Jam 	1 	23 	1 	22 	1 	beholding 	NN
+Jam 	1 	23 	1 	23 	1 	his 	PRP$
+Jam 	1 	23 	1 	24 	1 	natural 	JJ
+Jam 	1 	23 	1 	25 	1 	face 	NN
+Jam 	1 	23 	1 	26 	1 	in 	IN
+Jam 	1 	23 	1 	27 	1 	a 	DT
+Jam 	1 	23 	1 	28 	1 	glass 	NN
+Jam 	1 	23 	1 	29 	0 	:
+Jam 	1 	24 	1 	1 	1 	For 	IN
+Jam 	1 	24 	1 	2 	1 	he 	PRP
+Jam 	1 	24 	1 	3 	1 	beholdeth 	NN
+Jam 	1 	24 	1 	4 	1 	himself 	PRP
+Jam 	1 	24 	1 	5 	0 	,
+Jam 	1 	24 	1 	6 	1 	and 	CC
+Jam 	1 	24 	1 	7 	1 	goeth 	NNS
+Jam 	1 	24 	1 	8 	1 	his 	PRP$
+Jam 	1 	24 	1 	9 	1 	way 	NN
+Jam 	1 	24 	1 	10 	0 	,
+Jam 	1 	24 	1 	11 	1 	and 	CC
+Jam 	1 	24 	1 	12 	1 	straightway 	NN
+Jam 	1 	24 	1 	13 	1 	forgetteth 	NNS
+Jam 	1 	24 	1 	14 	1 	what 	WP
+Jam 	1 	24 	1 	15 	1 	manner 	NN
+Jam 	1 	24 	1 	16 	1 	of 	IN
+Jam 	1 	24 	1 	17 	1 	man 	NN
+Jam 	1 	24 	1 	18 	1 	he 	PRP
+Jam 	1 	24 	1 	19 	1 	was 	VBD
+Jam 	1 	24 	1 	20 	0 	.
+Jam 	1 	25 	1 	1 	1 	But 	CC
+Jam 	1 	25 	1 	2 	1 	whoso 	NN
+Jam 	1 	25 	1 	3 	1 	looketh 	NN
+Jam 	1 	25 	1 	4 	1 	into 	IN
+Jam 	1 	25 	1 	5 	1 	the 	DT
+Jam 	1 	25 	1 	6 	1 	perfect 	NN
+Jam 	1 	25 	1 	7 	1 	law 	NN
+Jam 	1 	25 	1 	8 	1 	of 	IN
+Jam 	1 	25 	1 	9 	1 	liberty 	NN
+Jam 	1 	25 	1 	10 	0 	,
+Jam 	1 	25 	1 	11 	1 	and 	CC
+Jam 	1 	25 	1 	12 	1 	continueth 	NNS
+Jam 	1 	25 	1 	13 	1 	therein 	NN
+Jam 	1 	25 	1 	14 	0 	,
+Jam 	1 	25 	1 	15 	1 	he 	PRP
+Jam 	1 	25 	1 	16 	1 	being 	VBG
+Jam 	1 	25 	1 	17 	1 	not 	RB
+Jam 	1 	25 	1 	18 	1 	a 	DT
+Jam 	1 	25 	1 	19 	1 	forgetful 	NN
+Jam 	1 	25 	1 	20 	1 	hearer 	NN
+Jam 	1 	25 	1 	21 	0 	,
+Jam 	1 	25 	1 	22 	1 	but 	CC
+Jam 	1 	25 	1 	23 	1 	a 	DT
+Jam 	1 	25 	1 	24 	1 	doer 	NN
+Jam 	1 	25 	1 	25 	1 	of 	IN
+Jam 	1 	25 	1 	26 	1 	the 	DT
+Jam 	1 	25 	1 	27 	1 	work 	NN
+Jam 	1 	25 	1 	28 	0 	,
+Jam 	1 	25 	1 	29 	1 	this 	DT
+Jam 	1 	25 	1 	30 	1 	man 	NN
+Jam 	1 	25 	1 	31 	1 	shall 	MD
+Jam 	1 	25 	1 	32 	1 	be 	VB
+Jam 	1 	25 	1 	33 	1 	blessed 	VBN
+Jam 	1 	25 	1 	34 	1 	in 	IN
+Jam 	1 	25 	1 	35 	1 	his 	PRP$
+Jam 	1 	25 	1 	36 	1 	deed 	NN
+Jam 	1 	25 	1 	37 	0 	.
+Jam 	1 	26 	1 	1 	1 	If 	IN
+Jam 	1 	26 	1 	2 	1 	any 	DT
+Jam 	1 	26 	1 	3 	1 	man 	NN
+Jam 	1 	26 	1 	4 	1 	among 	IN
+Jam 	1 	26 	1 	5 	1 	you 	PRP
+Jam 	1 	26 	1 	6 	1 	seem 	NN
+Jam 	1 	26 	1 	7 	1 	to 	TO
+Jam 	1 	26 	1 	8 	1 	be 	VB
+Jam 	1 	26 	1 	9 	1 	religious 	JJ
+Jam 	1 	26 	1 	10 	0 	,
+Jam 	1 	26 	1 	11 	1 	and 	CC
+Jam 	1 	26 	1 	12 	1 	bridleth 	NN
+Jam 	1 	26 	1 	13 	1 	not 	RB
+Jam 	1 	26 	1 	14 	1 	his 	PRP$
+Jam 	1 	26 	1 	15 	1 	tongue 	NN
+Jam 	1 	26 	1 	16 	0 	,
+Jam 	1 	26 	1 	17 	1 	but 	CC
+Jam 	1 	26 	1 	18 	1 	deceiveth 	NN
+Jam 	1 	26 	1 	19 	1 	his 	PRP$
+Jam 	1 	26 	1 	20 	1 	own 	JJ
+Jam 	1 	26 	1 	21 	1 	heart 	NN
+Jam 	1 	26 	1 	22 	0 	,
+Jam 	1 	26 	1 	23 	1 	this 	DT
+Jam 	1 	26 	1 	24 	1 	man 	NN
+Jam 	1 	26 	1 	25 	0 	's
+Jam 	1 	26 	1 	26 	1 	religion 	NN
+Jam 	1 	26 	1 	27 	1 	is 	VBZ
+Jam 	1 	26 	1 	28 	1 	vain 	NN
+Jam 	1 	26 	1 	29 	0 	.
+Jam 	1 	27 	1 	1 	1 	Pure 	NN
+Jam 	1 	27 	1 	2 	1 	religion 	NN
+Jam 	1 	27 	1 	3 	1 	and 	CC
+Jam 	1 	27 	1 	4 	1 	undefiled 	JJ
+Jam 	1 	27 	1 	5 	1 	before 	IN
+Jam 	1 	27 	1 	6 	1 	God 	NNP
+Jam 	1 	27 	1 	7 	1 	and 	CC
+Jam 	1 	27 	1 	8 	1 	the 	DT
+Jam 	1 	27 	1 	9 	1 	Father 	NN
+Jam 	1 	27 	1 	10 	1 	is 	VBZ
+Jam 	1 	27 	1 	11 	1 	this 	DT
+Jam 	1 	27 	1 	12 	0 	,
+Jam 	1 	27 	1 	13 	1 	To 	TO
+Jam 	1 	27 	1 	14 	1 	visit 	NN
+Jam 	1 	27 	1 	15 	1 	the 	DT
+Jam 	1 	27 	1 	16 	1 	fatherless 	NN
+Jam 	1 	27 	1 	17 	1 	and 	CC
+Jam 	1 	27 	1 	18 	1 	widows 	NNS
+Jam 	1 	27 	1 	19 	1 	in 	IN
+Jam 	1 	27 	1 	20 	1 	their 	PRP$
+Jam 	1 	27 	1 	21 	1 	affliction 	NN
+Jam 	1 	27 	1 	22 	0 	,
+Jam 	1 	27 	1 	23 	1 	and 	CC
+Jam 	1 	27 	1 	24 	1 	to 	TO
+Jam 	1 	27 	1 	25 	1 	keep 	VB
+Jam 	1 	27 	1 	26 	1 	himself 	PRP
+Jam 	1 	27 	1 	27 	1 	unspotted 	JJ
+Jam 	1 	27 	1 	28 	1 	from 	IN
+Jam 	1 	27 	1 	29 	1 	the 	DT
+Jam 	1 	27 	1 	30 	1 	world 	NN
+Jam 	1 	27 	1 	31 	0 	.
+Jam 	2 	1 	1 	1 	1 	My 	PRP$
+Jam 	2 	1 	1 	2 	1 	brethren 	NNS
+Jam 	2 	1 	1 	3 	0 	,
+Jam 	2 	1 	1 	4 	1 	have 	VB
+Jam 	2 	1 	1 	5 	1 	not 	RB
+Jam 	2 	1 	1 	6 	1 	the 	DT
+Jam 	2 	1 	1 	7 	1 	faith 	NN
+Jam 	2 	1 	1 	8 	1 	of 	IN
+Jam 	2 	1 	1 	9 	1 	our 	PRP$
+Jam 	2 	1 	1 	10 	1 	Lord 	NN
+Jam 	2 	1 	1 	11 	1 	Jesus 	NN
+Jam 	2 	1 	1 	12 	1 	Christ 	NN
+Jam 	2 	1 	1 	13 	0 	,
+Jam 	2 	1 	1 	14 	1 	the 	DT
+Jam 	2 	1 	1 	15 	1 	Lord 	NN
+Jam 	2 	1 	1 	16 	1 	of 	IN
+Jam 	2 	1 	1 	17 	1 	glory 	NN
+Jam 	2 	1 	1 	18 	0 	,
+Jam 	2 	1 	1 	19 	1 	with 	IN
+Jam 	2 	1 	1 	20 	1 	respect 	NN
+Jam 	2 	1 	1 	21 	1 	of 	IN
+Jam 	2 	1 	1 	22 	1 	persons 	NNS
+Jam 	2 	1 	1 	23 	0 	.
+Jam 	2 	2 	1 	1 	1 	For 	IN
+Jam 	2 	2 	1 	2 	1 	if 	IN
+Jam 	2 	2 	1 	3 	1 	there 	RB
+Jam 	2 	2 	1 	4 	1 	come 	VB
+Jam 	2 	2 	1 	5 	1 	unto 	NN
+Jam 	2 	2 	1 	6 	1 	your 	PRP$
+Jam 	2 	2 	1 	7 	1 	assembly 	RB
+Jam 	2 	2 	1 	8 	1 	a 	DT
+Jam 	2 	2 	1 	9 	1 	man 	NN
+Jam 	2 	2 	1 	10 	1 	with 	IN
+Jam 	2 	2 	1 	11 	1 	a 	DT
+Jam 	2 	2 	1 	12 	1 	gold 	NN
+Jam 	2 	2 	1 	13 	1 	ring 	NN
+Jam 	2 	2 	1 	14 	0 	,
+Jam 	2 	2 	1 	15 	1 	in 	IN
+Jam 	2 	2 	1 	16 	1 	goodly 	RB
+Jam 	2 	2 	1 	17 	1 	apparel 	NN
+Jam 	2 	2 	1 	18 	0 	,
+Jam 	2 	2 	1 	19 	1 	and 	CC
+Jam 	2 	2 	1 	20 	1 	there 	RB
+Jam 	2 	2 	1 	21 	1 	come 	VB
+Jam 	2 	2 	1 	22 	1 	in 	IN
+Jam 	2 	2 	1 	23 	1 	also 	RB
+Jam 	2 	2 	1 	24 	1 	a 	DT
+Jam 	2 	2 	1 	25 	1 	poor 	JJ
+Jam 	2 	2 	1 	26 	1 	man 	NN
+Jam 	2 	2 	1 	27 	1 	in 	IN
+Jam 	2 	2 	1 	28 	1 	vile 	NN
+Jam 	2 	2 	1 	29 	1 	raiment 	NN
+Jam 	2 	2 	1 	30 	0 	;
+Jam 	2 	3 	1 	1 	1 	And 	CC
+Jam 	2 	3 	1 	2 	1 	ye 	NN
+Jam 	2 	3 	1 	3 	1 	have 	VB
+Jam 	2 	3 	1 	4 	1 	respect 	NN
+Jam 	2 	3 	1 	5 	1 	to 	TO
+Jam 	2 	3 	1 	6 	1 	him 	PRP
+Jam 	2 	3 	1 	7 	1 	that 	IN
+Jam 	2 	3 	1 	8 	1 	weareth 	NNS
+Jam 	2 	3 	1 	9 	1 	the 	DT
+Jam 	2 	3 	1 	10 	1 	gay 	NN
+Jam 	2 	3 	1 	11 	1 	clothing 	NN
+Jam 	2 	3 	1 	12 	0 	,
+Jam 	2 	3 	1 	13 	1 	and 	CC
+Jam 	2 	3 	1 	14 	1 	say 	VB
+Jam 	2 	3 	1 	15 	1 	unto 	NN
+Jam 	2 	3 	1 	16 	1 	him 	PRP
+Jam 	2 	3 	1 	17 	0 	,
+Jam 	2 	3 	1 	18 	1 	Sit 	NN
+Jam 	2 	3 	1 	19 	1 	thou 	NN
+Jam 	2 	3 	1 	20 	1 	here 	RB
+Jam 	2 	3 	1 	21 	1 	in 	IN
+Jam 	2 	3 	1 	22 	1 	a 	DT
+Jam 	2 	3 	1 	23 	1 	good 	JJ
+Jam 	2 	3 	1 	24 	1 	place 	NN
+Jam 	2 	3 	1 	25 	0 	;
+Jam 	2 	3 	1 	26 	1 	and 	CC
+Jam 	2 	3 	1 	27 	1 	say 	VB
+Jam 	2 	3 	1 	28 	1 	to 	TO
+Jam 	2 	3 	1 	29 	1 	the 	DT
+Jam 	2 	3 	1 	30 	1 	poor 	JJ
+Jam 	2 	3 	1 	31 	0 	,
+Jam 	2 	3 	1 	32 	1 	Stand 	NN
+Jam 	2 	3 	1 	33 	1 	thou 	NN
+Jam 	2 	3 	1 	34 	1 	there 	RB
+Jam 	2 	3 	1 	35 	0 	,
+Jam 	2 	3 	1 	36 	1 	or 	CC
+Jam 	2 	3 	1 	37 	1 	sit 	NN
+Jam 	2 	3 	1 	38 	1 	here 	RB
+Jam 	2 	3 	1 	39 	1 	under 	IN
+Jam 	2 	3 	1 	40 	1 	my 	PRP$
+Jam 	2 	3 	1 	41 	1 	footstool 	NN
+Jam 	2 	3 	1 	42 	0 	:
+Jam 	2 	4 	1 	1 	1 	Are 	NN
+Jam 	2 	4 	1 	2 	1 	ye 	NN
+Jam 	2 	4 	1 	3 	1 	not 	RB
+Jam 	2 	4 	1 	4 	1 	then 	RB
+Jam 	2 	4 	1 	5 	1 	partial 	JJ
+Jam 	2 	4 	1 	6 	1 	in 	IN
+Jam 	2 	4 	1 	7 	1 	yourselves 	NNS
+Jam 	2 	4 	1 	8 	0 	,
+Jam 	2 	4 	1 	9 	1 	and 	CC
+Jam 	2 	4 	1 	10 	1 	are 	VBP
+Jam 	2 	4 	1 	11 	1 	become 	NN
+Jam 	2 	4 	1 	12 	1 	judges 	NNS
+Jam 	2 	4 	1 	13 	1 	of 	IN
+Jam 	2 	4 	1 	14 	1 	evil 	NN
+Jam 	2 	4 	1 	15 	1 	thoughts 	NNS
+Jam 	2 	4 	1 	16 	0 	?
+Jam 	2 	5 	1 	1 	1 	Hearken 	NNP
+Jam 	2 	5 	1 	2 	0 	,
+Jam 	2 	5 	1 	3 	1 	my 	PRP$
+Jam 	2 	5 	1 	4 	1 	beloved 	VBN
+Jam 	2 	5 	1 	5 	1 	brethren 	NNS
+Jam 	2 	5 	1 	6 	0 	,
+Jam 	2 	5 	1 	7 	1 	Hath 	NN
+Jam 	2 	5 	1 	8 	1 	not 	RB
+Jam 	2 	5 	1 	9 	1 	God 	NNP
+Jam 	2 	5 	1 	10 	1 	chosen 	NN
+Jam 	2 	5 	1 	11 	1 	the 	DT
+Jam 	2 	5 	1 	12 	1 	poor 	JJ
+Jam 	2 	5 	1 	13 	1 	of 	IN
+Jam 	2 	5 	1 	14 	1 	this 	DT
+Jam 	2 	5 	1 	15 	1 	world 	NN
+Jam 	2 	5 	1 	16 	1 	rich 	JJ
+Jam 	2 	5 	1 	17 	1 	in 	IN
+Jam 	2 	5 	1 	18 	1 	faith 	NN
+Jam 	2 	5 	1 	19 	0 	,
+Jam 	2 	5 	1 	20 	1 	and 	CC
+Jam 	2 	5 	1 	21 	1 	heirs 	NNS
+Jam 	2 	5 	1 	22 	1 	of 	IN
+Jam 	2 	5 	1 	23 	1 	the 	DT
+Jam 	2 	5 	1 	24 	1 	kingdom 	NN
+Jam 	2 	5 	1 	25 	1 	which 	WDT
+Jam 	2 	5 	1 	26 	1 	he 	PRP
+Jam 	2 	5 	1 	27 	1 	hath 	NN
+Jam 	2 	5 	1 	28 	1 	promised 	VBN
+Jam 	2 	5 	1 	29 	1 	to 	TO
+Jam 	2 	5 	1 	30 	1 	them 	PRP
+Jam 	2 	5 	1 	31 	1 	that 	IN
+Jam 	2 	5 	1 	32 	1 	love 	NN
+Jam 	2 	5 	1 	33 	1 	him 	PRP
+Jam 	2 	5 	1 	34 	0 	?
+Jam 	2 	6 	1 	1 	1 	But 	CC
+Jam 	2 	6 	1 	2 	1 	ye 	NN
+Jam 	2 	6 	1 	3 	1 	have 	VB
+Jam 	2 	6 	1 	4 	1 	despised 	VBN
+Jam 	2 	6 	1 	5 	1 	the 	DT
+Jam 	2 	6 	1 	6 	1 	poor 	JJ
+Jam 	2 	6 	1 	7 	0 	.
+Jam 	2 	6 	2 	1 	1 	Do 	VB
+Jam 	2 	6 	2 	2 	1 	not 	RB
+Jam 	2 	6 	2 	3 	1 	rich 	JJ
+Jam 	2 	6 	2 	4 	1 	men 	NNS
+Jam 	2 	6 	2 	5 	1 	oppress 	NN
+Jam 	2 	6 	2 	6 	1 	you 	PRP
+Jam 	2 	6 	2 	7 	0 	,
+Jam 	2 	6 	2 	8 	1 	and 	CC
+Jam 	2 	6 	2 	9 	1 	draw 	NN
+Jam 	2 	6 	2 	10 	1 	you 	PRP
+Jam 	2 	6 	2 	11 	1 	before 	IN
+Jam 	2 	6 	2 	12 	1 	the 	DT
+Jam 	2 	6 	2 	13 	1 	judgment 	NN
+Jam 	2 	6 	2 	14 	1 	seats 	NNS
+Jam 	2 	6 	2 	15 	0 	?
+Jam 	2 	7 	1 	1 	1 	Do 	VB
+Jam 	2 	7 	1 	2 	1 	not 	RB
+Jam 	2 	7 	1 	3 	1 	they 	PRP
+Jam 	2 	7 	1 	4 	1 	blaspheme 	NN
+Jam 	2 	7 	1 	5 	1 	that 	IN
+Jam 	2 	7 	1 	6 	1 	worthy 	NN
+Jam 	2 	7 	1 	7 	1 	name 	NN
+Jam 	2 	7 	1 	8 	1 	by 	IN
+Jam 	2 	7 	1 	9 	1 	the 	DT
+Jam 	2 	7 	1 	10 	1 	which 	WDT
+Jam 	2 	7 	1 	11 	1 	ye 	NN
+Jam 	2 	7 	1 	12 	1 	are 	VBP
+Jam 	2 	7 	1 	13 	1 	called 	VBN
+Jam 	2 	7 	1 	14 	0 	?
+Jam 	2 	8 	1 	1 	1 	If 	IN
+Jam 	2 	8 	1 	2 	1 	ye 	NN
+Jam 	2 	8 	1 	3 	1 	fulfil 	NN
+Jam 	2 	8 	1 	4 	1 	the 	DT
+Jam 	2 	8 	1 	5 	1 	royal 	NN
+Jam 	2 	8 	1 	6 	1 	law 	NN
+Jam 	2 	8 	1 	7 	1 	according 	VBG
+Jam 	2 	8 	1 	8 	1 	to 	TO
+Jam 	2 	8 	1 	9 	1 	the 	DT
+Jam 	2 	8 	1 	10 	1 	scripture 	NN
+Jam 	2 	8 	1 	11 	0 	,
+Jam 	2 	8 	1 	12 	1 	Thou 	NN
+Jam 	2 	8 	1 	13 	1 	shalt 	NN
+Jam 	2 	8 	1 	14 	1 	love 	NN
+Jam 	2 	8 	1 	15 	1 	thy 	NN
+Jam 	2 	8 	1 	16 	1 	neighbour 	NN
+Jam 	2 	8 	1 	17 	1 	as 	IN
+Jam 	2 	8 	1 	18 	1 	thyself 	NN
+Jam 	2 	8 	1 	19 	0 	,
+Jam 	2 	8 	1 	20 	1 	ye 	NN
+Jam 	2 	8 	1 	21 	1 	do 	VB
+Jam 	2 	8 	1 	22 	1 	well 	RB
+Jam 	2 	8 	1 	23 	0 	:
+Jam 	2 	9 	1 	1 	1 	But 	CC
+Jam 	2 	9 	1 	2 	1 	if 	IN
+Jam 	2 	9 	1 	3 	1 	ye 	NN
+Jam 	2 	9 	1 	4 	1 	have 	VB
+Jam 	2 	9 	1 	5 	1 	respect 	NN
+Jam 	2 	9 	1 	6 	1 	to 	TO
+Jam 	2 	9 	1 	7 	1 	persons 	NNS
+Jam 	2 	9 	1 	8 	0 	,
+Jam 	2 	9 	1 	9 	1 	ye 	NN
+Jam 	2 	9 	1 	10 	1 	commit 	NN
+Jam 	2 	9 	1 	11 	1 	sin 	NN
+Jam 	2 	9 	1 	12 	0 	,
+Jam 	2 	9 	1 	13 	1 	and 	CC
+Jam 	2 	9 	1 	14 	1 	are 	VBP
+Jam 	2 	9 	1 	15 	1 	convinced 	VBN
+Jam 	2 	9 	1 	16 	1 	of 	IN
+Jam 	2 	9 	1 	17 	1 	the 	DT
+Jam 	2 	9 	1 	18 	1 	law 	NN
+Jam 	2 	9 	1 	19 	1 	as 	IN
+Jam 	2 	9 	1 	20 	1 	transgressors 	NNS
+Jam 	2 	9 	1 	21 	0 	.
+Jam 	2 	10 	1 	1 	1 	For 	IN
+Jam 	2 	10 	1 	2 	1 	whosoever 	NN
+Jam 	2 	10 	1 	3 	1 	shall 	MD
+Jam 	2 	10 	1 	4 	1 	keep 	VB
+Jam 	2 	10 	1 	5 	1 	the 	DT
+Jam 	2 	10 	1 	6 	1 	whole 	JJ
+Jam 	2 	10 	1 	7 	1 	law 	NN
+Jam 	2 	10 	1 	8 	0 	,
+Jam 	2 	10 	1 	9 	1 	and 	CC
+Jam 	2 	10 	1 	10 	1 	yet 	RB
+Jam 	2 	10 	1 	11 	1 	offend 	NN
+Jam 	2 	10 	1 	12 	1 	in 	IN
+Jam 	2 	10 	1 	13 	1 	one 	CD
+Jam 	2 	10 	1 	14 	1 	point 	NN
+Jam 	2 	10 	1 	15 	0 	,
+Jam 	2 	10 	1 	16 	1 	he 	PRP
+Jam 	2 	10 	1 	17 	1 	is 	VBZ
+Jam 	2 	10 	1 	18 	1 	guilty 	JJ
+Jam 	2 	10 	1 	19 	1 	of 	IN
+Jam 	2 	10 	1 	20 	1 	all 	DT
+Jam 	2 	10 	1 	21 	0 	.
+Jam 	2 	11 	1 	1 	1 	For 	IN
+Jam 	2 	11 	1 	2 	1 	he 	PRP
+Jam 	2 	11 	1 	3 	1 	that 	IN
+Jam 	2 	11 	1 	4 	1 	said 	VBD
+Jam 	2 	11 	1 	5 	0 	,
+Jam 	2 	11 	1 	6 	1 	Do 	VB
+Jam 	2 	11 	1 	7 	1 	not 	RB
+Jam 	2 	11 	1 	8 	1 	commit 	NN
+Jam 	2 	11 	1 	9 	1 	adultery 	NN
+Jam 	2 	11 	1 	10 	0 	,
+Jam 	2 	11 	1 	11 	1 	said 	VBD
+Jam 	2 	11 	1 	12 	1 	also 	RB
+Jam 	2 	11 	1 	13 	0 	,
+Jam 	2 	11 	1 	14 	1 	Do 	VB
+Jam 	2 	11 	1 	15 	1 	not 	RB
+Jam 	2 	11 	1 	16 	1 	kill 	NN
+Jam 	2 	11 	1 	17 	0 	.
+Jam 	2 	11 	2 	1 	1 	Now 	RB
+Jam 	2 	11 	2 	2 	1 	if 	IN
+Jam 	2 	11 	2 	3 	1 	thou 	NN
+Jam 	2 	11 	2 	4 	1 	commit 	NN
+Jam 	2 	11 	2 	5 	1 	no 	DT
+Jam 	2 	11 	2 	6 	1 	adultery 	NN
+Jam 	2 	11 	2 	7 	0 	,
+Jam 	2 	11 	2 	8 	1 	yet 	RB
+Jam 	2 	11 	2 	9 	1 	if 	IN
+Jam 	2 	11 	2 	10 	1 	thou 	NN
+Jam 	2 	11 	2 	11 	1 	kill 	NN
+Jam 	2 	11 	2 	12 	0 	,
+Jam 	2 	11 	2 	13 	1 	thou 	NN
+Jam 	2 	11 	2 	14 	1 	art 	NN
+Jam 	2 	11 	2 	15 	1 	become 	NN
+Jam 	2 	11 	2 	16 	1 	a 	DT
+Jam 	2 	11 	2 	17 	1 	transgressor 	NN
+Jam 	2 	11 	2 	18 	1 	of 	IN
+Jam 	2 	11 	2 	19 	1 	the 	DT
+Jam 	2 	11 	2 	20 	1 	law 	NN
+Jam 	2 	11 	2 	21 	0 	.
+Jam 	2 	12 	1 	1 	1 	So 	RB
+Jam 	2 	12 	1 	2 	1 	speak 	NN
+Jam 	2 	12 	1 	3 	1 	ye 	NN
+Jam 	2 	12 	1 	4 	0 	,
+Jam 	2 	12 	1 	5 	1 	and 	CC
+Jam 	2 	12 	1 	6 	1 	so 	RB
+Jam 	2 	12 	1 	7 	1 	do 	VB
+Jam 	2 	12 	1 	8 	0 	,
+Jam 	2 	12 	1 	9 	1 	as 	IN
+Jam 	2 	12 	1 	10 	1 	they 	PRP
+Jam 	2 	12 	1 	11 	1 	that 	IN
+Jam 	2 	12 	1 	12 	1 	shall 	MD
+Jam 	2 	12 	1 	13 	1 	be 	VB
+Jam 	2 	12 	1 	14 	1 	judged 	NN
+Jam 	2 	12 	1 	15 	1 	by 	IN
+Jam 	2 	12 	1 	16 	1 	the 	DT
+Jam 	2 	12 	1 	17 	1 	law 	NN
+Jam 	2 	12 	1 	18 	1 	of 	IN
+Jam 	2 	12 	1 	19 	1 	liberty 	NN
+Jam 	2 	12 	1 	20 	0 	.
+Jam 	2 	13 	1 	1 	1 	For 	IN
+Jam 	2 	13 	1 	2 	1 	he 	PRP
+Jam 	2 	13 	1 	3 	1 	shall 	MD
+Jam 	2 	13 	1 	4 	1 	have 	VB
+Jam 	2 	13 	1 	5 	1 	judgment 	NN
+Jam 	2 	13 	1 	6 	1 	without 	IN
+Jam 	2 	13 	1 	7 	1 	mercy 	NN
+Jam 	2 	13 	1 	8 	0 	,
+Jam 	2 	13 	1 	9 	1 	that 	IN
+Jam 	2 	13 	1 	10 	1 	hath 	NN
+Jam 	2 	13 	1 	11 	1 	shewed 	VBN
+Jam 	2 	13 	1 	12 	1 	no 	DT
+Jam 	2 	13 	1 	13 	1 	mercy 	NN
+Jam 	2 	13 	1 	14 	0 	;
+Jam 	2 	13 	1 	15 	1 	and 	CC
+Jam 	2 	13 	1 	16 	1 	mercy 	NN
+Jam 	2 	13 	1 	17 	1 	rejoiceth 	NN
+Jam 	2 	13 	1 	18 	1 	against 	IN
+Jam 	2 	13 	1 	19 	1 	judgment 	NN
+Jam 	2 	13 	1 	20 	0 	.
+Jam 	2 	14 	1 	1 	1 	What 	WP
+Jam 	2 	14 	1 	2 	1 	doth 	NN
+Jam 	2 	14 	1 	3 	1 	it 	PRP
+Jam 	2 	14 	1 	4 	1 	profit 	NN
+Jam 	2 	14 	1 	5 	0 	,
+Jam 	2 	14 	1 	6 	1 	my 	PRP$
+Jam 	2 	14 	1 	7 	1 	brethren 	NNS
+Jam 	2 	14 	1 	8 	0 	,
+Jam 	2 	14 	1 	9 	1 	though 	IN
+Jam 	2 	14 	1 	10 	1 	a 	DT
+Jam 	2 	14 	1 	11 	1 	man 	NN
+Jam 	2 	14 	1 	12 	1 	say 	VB
+Jam 	2 	14 	1 	13 	1 	he 	PRP
+Jam 	2 	14 	1 	14 	1 	hath 	NN
+Jam 	2 	14 	1 	15 	1 	faith 	NN
+Jam 	2 	14 	1 	16 	0 	,
+Jam 	2 	14 	1 	17 	1 	and 	CC
+Jam 	2 	14 	1 	18 	1 	have 	VB
+Jam 	2 	14 	1 	19 	1 	not 	RB
+Jam 	2 	14 	1 	20 	1 	works 	NNS
+Jam 	2 	14 	1 	21 	0 	?
+Jam 	2 	14 	2 	1 	1 	can 	MD
+Jam 	2 	14 	2 	2 	1 	faith 	NN
+Jam 	2 	14 	2 	3 	1 	save 	VB
+Jam 	2 	14 	2 	4 	1 	him 	PRP
+Jam 	2 	14 	2 	5 	0 	?
+Jam 	2 	15 	1 	1 	1 	If 	IN
+Jam 	2 	15 	1 	2 	1 	a 	DT
+Jam 	2 	15 	1 	3 	1 	brother 	NN
+Jam 	2 	15 	1 	4 	1 	or 	CC
+Jam 	2 	15 	1 	5 	1 	sister 	NN
+Jam 	2 	15 	1 	6 	1 	be 	VB
+Jam 	2 	15 	1 	7 	1 	naked 	JJ
+Jam 	2 	15 	1 	8 	0 	,
+Jam 	2 	15 	1 	9 	1 	and 	CC
+Jam 	2 	15 	1 	10 	1 	destitute 	NN
+Jam 	2 	15 	1 	11 	1 	of 	IN
+Jam 	2 	15 	1 	12 	1 	daily 	JJ
+Jam 	2 	15 	1 	13 	1 	food 	NN
+Jam 	2 	15 	1 	14 	0 	,
+Jam 	2 	16 	1 	1 	1 	And 	CC
+Jam 	2 	16 	1 	2 	1 	one 	CD
+Jam 	2 	16 	1 	3 	1 	of 	IN
+Jam 	2 	16 	1 	4 	1 	you 	PRP
+Jam 	2 	16 	1 	5 	1 	say 	VB
+Jam 	2 	16 	1 	6 	1 	unto 	NN
+Jam 	2 	16 	1 	7 	1 	them 	PRP
+Jam 	2 	16 	1 	8 	0 	,
+Jam 	2 	16 	1 	9 	1 	Depart 	NN
+Jam 	2 	16 	1 	10 	1 	in 	IN
+Jam 	2 	16 	1 	11 	1 	peace 	NN
+Jam 	2 	16 	1 	12 	0 	,
+Jam 	2 	16 	1 	13 	1 	be 	VB
+Jam 	2 	16 	1 	14 	1 	ye 	NN
+Jam 	2 	16 	1 	15 	1 	warmed 	VBN
+Jam 	2 	16 	1 	16 	1 	and 	CC
+Jam 	2 	16 	1 	17 	1 	filled 	VBN
+Jam 	2 	16 	1 	18 	0 	;
+Jam 	2 	16 	1 	19 	1 	notwithstanding 	VBG
+Jam 	2 	16 	1 	20 	1 	ye 	NN
+Jam 	2 	16 	1 	21 	1 	give 	VB
+Jam 	2 	16 	1 	22 	1 	them 	PRP
+Jam 	2 	16 	1 	23 	1 	not 	RB
+Jam 	2 	16 	1 	24 	1 	those 	DT
+Jam 	2 	16 	1 	25 	1 	things 	NNS
+Jam 	2 	16 	1 	26 	1 	which 	WDT
+Jam 	2 	16 	1 	27 	1 	are 	VBP
+Jam 	2 	16 	1 	28 	1 	needful 	JJ
+Jam 	2 	16 	1 	29 	1 	to 	TO
+Jam 	2 	16 	1 	30 	1 	the 	DT
+Jam 	2 	16 	1 	31 	1 	body 	NN
+Jam 	2 	16 	1 	32 	0 	;
+Jam 	2 	16 	1 	33 	1 	what 	WP
+Jam 	2 	16 	1 	34 	1 	doth 	NN
+Jam 	2 	16 	1 	35 	1 	it 	PRP
+Jam 	2 	16 	1 	36 	1 	profit 	NN
+Jam 	2 	16 	1 	37 	0 	?
+Jam 	2 	17 	1 	1 	1 	Even 	RB
+Jam 	2 	17 	1 	2 	1 	so 	RB
+Jam 	2 	17 	1 	3 	1 	faith 	NN
+Jam 	2 	17 	1 	4 	0 	,
+Jam 	2 	17 	1 	5 	1 	if 	IN
+Jam 	2 	17 	1 	6 	1 	it 	PRP
+Jam 	2 	17 	1 	7 	1 	hath 	NN
+Jam 	2 	17 	1 	8 	1 	not 	RB
+Jam 	2 	17 	1 	9 	1 	works 	NNS
+Jam 	2 	17 	1 	10 	0 	,
+Jam 	2 	17 	1 	11 	1 	is 	VBZ
+Jam 	2 	17 	1 	12 	1 	dead 	JJ
+Jam 	2 	17 	1 	13 	0 	,
+Jam 	2 	17 	1 	14 	1 	being 	VBG
+Jam 	2 	17 	1 	15 	1 	alone 	RB
+Jam 	2 	17 	1 	16 	0 	.
+Jam 	2 	18 	1 	1 	1 	Yea 	NN
+Jam 	2 	18 	1 	2 	0 	,
+Jam 	2 	18 	1 	3 	1 	a 	DT
+Jam 	2 	18 	1 	4 	1 	man 	NN
+Jam 	2 	18 	1 	5 	1 	may 	MD
+Jam 	2 	18 	1 	6 	1 	say 	VB
+Jam 	2 	18 	1 	7 	0 	,
+Jam 	2 	18 	1 	8 	1 	Thou 	NN
+Jam 	2 	18 	1 	9 	1 	hast 	NN
+Jam 	2 	18 	1 	10 	1 	faith 	NN
+Jam 	2 	18 	1 	11 	0 	,
+Jam 	2 	18 	1 	12 	1 	and 	CC
+Jam 	2 	18 	1 	13 	1 	I 	PRP
+Jam 	2 	18 	1 	14 	1 	have 	VB
+Jam 	2 	18 	1 	15 	1 	works 	NNS
+Jam 	2 	18 	1 	16 	0 	:
+Jam 	2 	18 	1 	17 	1 	shew 	NN
+Jam 	2 	18 	1 	18 	1 	me 	PRP
+Jam 	2 	18 	1 	19 	1 	thy 	NN
+Jam 	2 	18 	1 	20 	1 	faith 	NN
+Jam 	2 	18 	1 	21 	1 	without 	IN
+Jam 	2 	18 	1 	22 	1 	thy 	NN
+Jam 	2 	18 	1 	23 	1 	works 	NNS
+Jam 	2 	18 	1 	24 	0 	,
+Jam 	2 	18 	1 	25 	1 	and 	CC
+Jam 	2 	18 	1 	26 	1 	I 	PRP
+Jam 	2 	18 	1 	27 	1 	will 	MD
+Jam 	2 	18 	1 	28 	1 	shew 	NN
+Jam 	2 	18 	1 	29 	1 	thee 	NN
+Jam 	2 	18 	1 	30 	1 	my 	PRP$
+Jam 	2 	18 	1 	31 	1 	faith 	NN
+Jam 	2 	18 	1 	32 	1 	by 	IN
+Jam 	2 	18 	1 	33 	1 	my 	PRP$
+Jam 	2 	18 	1 	34 	1 	works 	NNS
+Jam 	2 	18 	1 	35 	0 	.
+Jam 	2 	19 	1 	1 	1 	Thou 	NN
+Jam 	2 	19 	1 	2 	1 	believest 	NN
+Jam 	2 	19 	1 	3 	1 	that 	IN
+Jam 	2 	19 	1 	4 	1 	there 	RB
+Jam 	2 	19 	1 	5 	1 	is 	VBZ
+Jam 	2 	19 	1 	6 	1 	one 	CD
+Jam 	2 	19 	1 	7 	1 	God 	NNP
+Jam 	2 	19 	1 	8 	0 	;
+Jam 	2 	19 	1 	9 	1 	thou 	NN
+Jam 	2 	19 	1 	10 	1 	doest 	NN
+Jam 	2 	19 	1 	11 	1 	well 	RB
+Jam 	2 	19 	1 	12 	0 	:
+Jam 	2 	19 	1 	13 	1 	the 	DT
+Jam 	2 	19 	1 	14 	1 	devils 	NNS
+Jam 	2 	19 	1 	15 	1 	also 	RB
+Jam 	2 	19 	1 	16 	1 	believe 	VB
+Jam 	2 	19 	1 	17 	0 	,
+Jam 	2 	19 	1 	18 	1 	and 	CC
+Jam 	2 	19 	1 	19 	1 	tremble 	JJ
+Jam 	2 	19 	1 	20 	0 	.
+Jam 	2 	20 	1 	1 	1 	But 	CC
+Jam 	2 	20 	1 	2 	1 	wilt 	NN
+Jam 	2 	20 	1 	3 	1 	thou 	NN
+Jam 	2 	20 	1 	4 	1 	know 	VB
+Jam 	2 	20 	1 	5 	0 	,
+Jam 	2 	20 	1 	6 	1 	O 	NN
+Jam 	2 	20 	1 	7 	1 	vain 	NN
+Jam 	2 	20 	1 	8 	1 	man 	NN
+Jam 	2 	20 	1 	9 	0 	,
+Jam 	2 	20 	1 	10 	1 	that 	IN
+Jam 	2 	20 	1 	11 	1 	faith 	NN
+Jam 	2 	20 	1 	12 	1 	without 	IN
+Jam 	2 	20 	1 	13 	1 	works 	NNS
+Jam 	2 	20 	1 	14 	1 	is 	VBZ
+Jam 	2 	20 	1 	15 	1 	dead 	JJ
+Jam 	2 	20 	1 	16 	0 	?
+Jam 	2 	21 	1 	1 	1 	Was 	NN
+Jam 	2 	21 	1 	2 	1 	not 	RB
+Jam 	2 	21 	1 	3 	1 	Abraham 	NNP
+Jam 	2 	21 	1 	4 	1 	our 	PRP$
+Jam 	2 	21 	1 	5 	1 	father 	NN
+Jam 	2 	21 	1 	6 	1 	justified 	JJ
+Jam 	2 	21 	1 	7 	1 	by 	IN
+Jam 	2 	21 	1 	8 	1 	works 	NNS
+Jam 	2 	21 	1 	9 	0 	,
+Jam 	2 	21 	1 	10 	1 	when 	WRB
+Jam 	2 	21 	1 	11 	1 	he 	PRP
+Jam 	2 	21 	1 	12 	1 	had 	VBD
+Jam 	2 	21 	1 	13 	1 	offered 	VBN
+Jam 	2 	21 	1 	14 	1 	Isaac 	NN
+Jam 	2 	21 	1 	15 	1 	his 	PRP$
+Jam 	2 	21 	1 	16 	1 	son 	NN
+Jam 	2 	21 	1 	17 	1 	upon 	IN
+Jam 	2 	21 	1 	18 	1 	the 	DT
+Jam 	2 	21 	1 	19 	1 	altar 	NN
+Jam 	2 	21 	1 	20 	0 	?
+Jam 	2 	22 	1 	1 	1 	Seest 	JJS
+Jam 	2 	22 	1 	2 	1 	thou 	NN
+Jam 	2 	22 	1 	3 	1 	how 	WRB
+Jam 	2 	22 	1 	4 	1 	faith 	NN
+Jam 	2 	22 	1 	5 	1 	wrought 	NN
+Jam 	2 	22 	1 	6 	1 	with 	IN
+Jam 	2 	22 	1 	7 	1 	his 	PRP$
+Jam 	2 	22 	1 	8 	1 	works 	NNS
+Jam 	2 	22 	1 	9 	0 	,
+Jam 	2 	22 	1 	10 	1 	and 	CC
+Jam 	2 	22 	1 	11 	1 	by 	IN
+Jam 	2 	22 	1 	12 	1 	works 	NNS
+Jam 	2 	22 	1 	13 	1 	was 	VBD
+Jam 	2 	22 	1 	14 	1 	faith 	NN
+Jam 	2 	22 	1 	15 	1 	made 	VBN
+Jam 	2 	22 	1 	16 	1 	perfect 	NN
+Jam 	2 	22 	1 	17 	0 	?
+Jam 	2 	23 	1 	1 	1 	And 	CC
+Jam 	2 	23 	1 	2 	1 	the 	DT
+Jam 	2 	23 	1 	3 	1 	scripture 	NN
+Jam 	2 	23 	1 	4 	1 	was 	VBD
+Jam 	2 	23 	1 	5 	1 	fulfilled 	VBN
+Jam 	2 	23 	1 	6 	1 	which 	WDT
+Jam 	2 	23 	1 	7 	1 	saith 	NN
+Jam 	2 	23 	1 	8 	0 	,
+Jam 	2 	23 	1 	9 	1 	Abraham 	NNP
+Jam 	2 	23 	1 	10 	1 	believed 	VBN
+Jam 	2 	23 	1 	11 	1 	God 	NNP
+Jam 	2 	23 	1 	12 	0 	,
+Jam 	2 	23 	1 	13 	1 	and 	CC
+Jam 	2 	23 	1 	14 	1 	it 	PRP
+Jam 	2 	23 	1 	15 	1 	was 	VBD
+Jam 	2 	23 	1 	16 	1 	imputed 	VBN
+Jam 	2 	23 	1 	17 	1 	unto 	NN
+Jam 	2 	23 	1 	18 	1 	him 	PRP
+Jam 	2 	23 	1 	19 	1 	for 	IN
+Jam 	2 	23 	1 	20 	1 	righteousness 	NN
+Jam 	2 	23 	1 	21 	0 	:
+Jam 	2 	23 	1 	22 	1 	and 	CC
+Jam 	2 	23 	1 	23 	1 	he 	PRP
+Jam 	2 	23 	1 	24 	1 	was 	VBD
+Jam 	2 	23 	1 	25 	1 	called 	VBN
+Jam 	2 	23 	1 	26 	1 	the 	DT
+Jam 	2 	23 	1 	27 	1 	Friend 	NN
+Jam 	2 	23 	1 	28 	1 	of 	IN
+Jam 	2 	23 	1 	29 	1 	God 	NNP
+Jam 	2 	23 	1 	30 	0 	.
+Jam 	2 	24 	1 	1 	1 	Ye 	NN
+Jam 	2 	24 	1 	2 	1 	see 	VB
+Jam 	2 	24 	1 	3 	1 	then 	RB
+Jam 	2 	24 	1 	4 	1 	how 	WRB
+Jam 	2 	24 	1 	5 	1 	that 	IN
+Jam 	2 	24 	1 	6 	1 	by 	IN
+Jam 	2 	24 	1 	7 	1 	works 	NNS
+Jam 	2 	24 	1 	8 	1 	a 	DT
+Jam 	2 	24 	1 	9 	1 	man 	NN
+Jam 	2 	24 	1 	10 	1 	is 	VBZ
+Jam 	2 	24 	1 	11 	1 	justified 	JJ
+Jam 	2 	24 	1 	12 	0 	,
+Jam 	2 	24 	1 	13 	1 	and 	CC
+Jam 	2 	24 	1 	14 	1 	not 	RB
+Jam 	2 	24 	1 	15 	1 	by 	IN
+Jam 	2 	24 	1 	16 	1 	faith 	NN
+Jam 	2 	24 	1 	17 	1 	only 	RB
+Jam 	2 	24 	1 	18 	0 	.
+Jam 	2 	25 	1 	1 	1 	Likewise 	RB
+Jam 	2 	25 	1 	2 	1 	also 	RB
+Jam 	2 	25 	1 	3 	1 	was 	VBD
+Jam 	2 	25 	1 	4 	1 	not 	RB
+Jam 	2 	25 	1 	5 	1 	Rahab 	NN
+Jam 	2 	25 	1 	6 	1 	the 	DT
+Jam 	2 	25 	1 	7 	1 	harlot 	NN
+Jam 	2 	25 	1 	8 	1 	justified 	JJ
+Jam 	2 	25 	1 	9 	1 	by 	IN
+Jam 	2 	25 	1 	10 	1 	works 	NNS
+Jam 	2 	25 	1 	11 	0 	,
+Jam 	2 	25 	1 	12 	1 	when 	WRB
+Jam 	2 	25 	1 	13 	1 	she 	PRP
+Jam 	2 	25 	1 	14 	1 	had 	VBD
+Jam 	2 	25 	1 	15 	1 	received 	VBN
+Jam 	2 	25 	1 	16 	1 	the 	DT
+Jam 	2 	25 	1 	17 	1 	messengers 	NNS
+Jam 	2 	25 	1 	18 	0 	,
+Jam 	2 	25 	1 	19 	1 	and 	CC
+Jam 	2 	25 	1 	20 	1 	had 	VBD
+Jam 	2 	25 	1 	21 	1 	sent 	NN
+Jam 	2 	25 	1 	22 	1 	them 	PRP
+Jam 	2 	25 	1 	23 	1 	out 	IN
+Jam 	2 	25 	1 	24 	1 	another 	DT
+Jam 	2 	25 	1 	25 	1 	way 	NN
+Jam 	2 	25 	1 	26 	0 	?
+Jam 	2 	26 	1 	1 	1 	For 	IN
+Jam 	2 	26 	1 	2 	1 	as 	IN
+Jam 	2 	26 	1 	3 	1 	the 	DT
+Jam 	2 	26 	1 	4 	1 	body 	NN
+Jam 	2 	26 	1 	5 	1 	without 	IN
+Jam 	2 	26 	1 	6 	1 	the 	DT
+Jam 	2 	26 	1 	7 	1 	spirit 	NN
+Jam 	2 	26 	1 	8 	1 	is 	VBZ
+Jam 	2 	26 	1 	9 	1 	dead 	JJ
+Jam 	2 	26 	1 	10 	0 	,
+Jam 	2 	26 	1 	11 	1 	so 	RB
+Jam 	2 	26 	1 	12 	1 	faith 	NN
+Jam 	2 	26 	1 	13 	1 	without 	IN
+Jam 	2 	26 	1 	14 	1 	works 	NNS
+Jam 	2 	26 	1 	15 	1 	is 	VBZ
+Jam 	2 	26 	1 	16 	1 	dead 	JJ
+Jam 	2 	26 	1 	17 	1 	also 	RB
+Jam 	2 	26 	1 	18 	0 	.
+Jam 	3 	1 	1 	1 	1 	My 	PRP$
+Jam 	3 	1 	1 	2 	1 	brethren 	NNS
+Jam 	3 	1 	1 	3 	0 	,
+Jam 	3 	1 	1 	4 	1 	be 	VB
+Jam 	3 	1 	1 	5 	1 	not 	RB
+Jam 	3 	1 	1 	6 	1 	many 	JJ
+Jam 	3 	1 	1 	7 	1 	masters 	NNS
+Jam 	3 	1 	1 	8 	0 	,
+Jam 	3 	1 	1 	9 	1 	knowing 	VBG
+Jam 	3 	1 	1 	10 	1 	that 	IN
+Jam 	3 	1 	1 	11 	1 	we 	PRP
+Jam 	3 	1 	1 	12 	1 	shall 	MD
+Jam 	3 	1 	1 	13 	1 	receive 	NN
+Jam 	3 	1 	1 	14 	1 	the 	DT
+Jam 	3 	1 	1 	15 	1 	greater 	JJR
+Jam 	3 	1 	1 	16 	1 	condemnation 	NN
+Jam 	3 	1 	1 	17 	0 	.
+Jam 	3 	2 	1 	1 	1 	For 	IN
+Jam 	3 	2 	1 	2 	1 	in 	IN
+Jam 	3 	2 	1 	3 	1 	many 	JJ
+Jam 	3 	2 	1 	4 	1 	things 	NNS
+Jam 	3 	2 	1 	5 	1 	we 	PRP
+Jam 	3 	2 	1 	6 	1 	offend 	NN
+Jam 	3 	2 	1 	7 	1 	all 	DT
+Jam 	3 	2 	1 	8 	0 	.
+Jam 	3 	2 	2 	1 	1 	If 	IN
+Jam 	3 	2 	2 	2 	1 	any 	DT
+Jam 	3 	2 	2 	3 	1 	man 	NN
+Jam 	3 	2 	2 	4 	1 	offend 	NN
+Jam 	3 	2 	2 	5 	1 	not 	RB
+Jam 	3 	2 	2 	6 	1 	in 	IN
+Jam 	3 	2 	2 	7 	1 	word 	NN
+Jam 	3 	2 	2 	8 	0 	,
+Jam 	3 	2 	2 	9 	1 	the 	DT
+Jam 	3 	2 	2 	10 	1 	same 	JJ
+Jam 	3 	2 	2 	11 	1 	is 	VBZ
+Jam 	3 	2 	2 	12 	1 	a 	DT
+Jam 	3 	2 	2 	13 	1 	perfect 	NN
+Jam 	3 	2 	2 	14 	1 	man 	NN
+Jam 	3 	2 	2 	15 	0 	,
+Jam 	3 	2 	2 	16 	1 	and 	CC
+Jam 	3 	2 	2 	17 	1 	able 	JJ
+Jam 	3 	2 	2 	18 	1 	also 	RB
+Jam 	3 	2 	2 	19 	1 	to 	TO
+Jam 	3 	2 	2 	20 	1 	bridle 	NN
+Jam 	3 	2 	2 	21 	1 	the 	DT
+Jam 	3 	2 	2 	22 	1 	whole 	JJ
+Jam 	3 	2 	2 	23 	1 	body 	NN
+Jam 	3 	2 	2 	24 	0 	.
+Jam 	3 	3 	1 	1 	1 	Behold 	NN
+Jam 	3 	3 	1 	2 	0 	,
+Jam 	3 	3 	1 	3 	1 	we 	PRP
+Jam 	3 	3 	1 	4 	1 	put 	NN
+Jam 	3 	3 	1 	5 	1 	bits 	NNS
+Jam 	3 	3 	1 	6 	1 	in 	IN
+Jam 	3 	3 	1 	7 	1 	the 	DT
+Jam 	3 	3 	1 	8 	1 	horses 	NNS
+Jam 	3 	3 	1 	9 	0 	'
+Jam 	3 	3 	1 	10 	1 	mouths 	NNS
+Jam 	3 	3 	1 	11 	0 	,
+Jam 	3 	3 	1 	12 	1 	that 	IN
+Jam 	3 	3 	1 	13 	1 	they 	PRP
+Jam 	3 	3 	1 	14 	1 	may 	MD
+Jam 	3 	3 	1 	15 	1 	obey 	NN
+Jam 	3 	3 	1 	16 	1 	us 	PRP
+Jam 	3 	3 	1 	17 	0 	;
+Jam 	3 	3 	1 	18 	1 	and 	CC
+Jam 	3 	3 	1 	19 	1 	we 	PRP
+Jam 	3 	3 	1 	20 	1 	turn 	NN
+Jam 	3 	3 	1 	21 	1 	about 	IN
+Jam 	3 	3 	1 	22 	1 	their 	PRP$
+Jam 	3 	3 	1 	23 	1 	whole 	JJ
+Jam 	3 	3 	1 	24 	1 	body 	NN
+Jam 	3 	3 	1 	25 	0 	.
+Jam 	3 	4 	1 	1 	1 	Behold 	NN
+Jam 	3 	4 	1 	2 	1 	also 	RB
+Jam 	3 	4 	1 	3 	1 	the 	DT
+Jam 	3 	4 	1 	4 	1 	ships 	NNS
+Jam 	3 	4 	1 	5 	0 	,
+Jam 	3 	4 	1 	6 	1 	which 	WDT
+Jam 	3 	4 	1 	7 	1 	though 	IN
+Jam 	3 	4 	1 	8 	1 	they 	PRP
+Jam 	3 	4 	1 	9 	1 	be 	VB
+Jam 	3 	4 	1 	10 	1 	so 	RB
+Jam 	3 	4 	1 	11 	1 	great 	JJ
+Jam 	3 	4 	1 	12 	0 	,
+Jam 	3 	4 	1 	13 	1 	and 	CC
+Jam 	3 	4 	1 	14 	1 	are 	VBP
+Jam 	3 	4 	1 	15 	1 	driven 	NN
+Jam 	3 	4 	1 	16 	1 	of 	IN
+Jam 	3 	4 	1 	17 	1 	fierce 	NN
+Jam 	3 	4 	1 	18 	1 	winds 	NNS
+Jam 	3 	4 	1 	19 	0 	,
+Jam 	3 	4 	1 	20 	1 	yet 	RB
+Jam 	3 	4 	1 	21 	1 	are 	VBP
+Jam 	3 	4 	1 	22 	1 	they 	PRP
+Jam 	3 	4 	1 	23 	1 	turned 	VBD
+Jam 	3 	4 	1 	24 	1 	about 	IN
+Jam 	3 	4 	1 	25 	1 	with 	IN
+Jam 	3 	4 	1 	26 	1 	a 	DT
+Jam 	3 	4 	1 	27 	1 	very 	RB
+Jam 	3 	4 	1 	28 	1 	small 	JJ
+Jam 	3 	4 	1 	29 	1 	helm 	NN
+Jam 	3 	4 	1 	30 	0 	,
+Jam 	3 	4 	1 	31 	1 	whithersoever 	NN
+Jam 	3 	4 	1 	32 	1 	the 	DT
+Jam 	3 	4 	1 	33 	1 	governor 	NN
+Jam 	3 	4 	1 	34 	1 	listeth 	NN
+Jam 	3 	4 	1 	35 	0 	.
+Jam 	3 	5 	1 	1 	1 	Even 	RB
+Jam 	3 	5 	1 	2 	1 	so 	RB
+Jam 	3 	5 	1 	3 	1 	the 	DT
+Jam 	3 	5 	1 	4 	1 	tongue 	NN
+Jam 	3 	5 	1 	5 	1 	is 	VBZ
+Jam 	3 	5 	1 	6 	1 	a 	DT
+Jam 	3 	5 	1 	7 	1 	little 	JJ
+Jam 	3 	5 	1 	8 	1 	member 	NN
+Jam 	3 	5 	1 	9 	0 	,
+Jam 	3 	5 	1 	10 	1 	and 	CC
+Jam 	3 	5 	1 	11 	1 	boasteth 	NN
+Jam 	3 	5 	1 	12 	1 	great 	JJ
+Jam 	3 	5 	1 	13 	1 	things 	NNS
+Jam 	3 	5 	1 	14 	0 	.
+Jam 	3 	5 	2 	1 	1 	Behold 	NN
+Jam 	3 	5 	2 	2 	0 	,
+Jam 	3 	5 	2 	3 	1 	how 	WRB
+Jam 	3 	5 	2 	4 	1 	great 	JJ
+Jam 	3 	5 	2 	5 	1 	a 	DT
+Jam 	3 	5 	2 	6 	1 	matter 	NN
+Jam 	3 	5 	2 	7 	1 	a 	DT
+Jam 	3 	5 	2 	8 	1 	little 	JJ
+Jam 	3 	5 	2 	9 	1 	fire 	NN
+Jam 	3 	5 	2 	10 	1 	kindleth 	NNS
+Jam 	3 	5 	2 	11 	0 	!
+Jam 	3 	6 	1 	1 	1 	And 	CC
+Jam 	3 	6 	1 	2 	1 	the 	DT
+Jam 	3 	6 	1 	3 	1 	tongue 	NN
+Jam 	3 	6 	1 	4 	1 	is 	VBZ
+Jam 	3 	6 	1 	5 	1 	a 	DT
+Jam 	3 	6 	1 	6 	1 	fire 	NN
+Jam 	3 	6 	1 	7 	0 	,
+Jam 	3 	6 	1 	8 	1 	a 	DT
+Jam 	3 	6 	1 	9 	1 	world 	NN
+Jam 	3 	6 	1 	10 	1 	of 	IN
+Jam 	3 	6 	1 	11 	1 	iniquity 	NN
+Jam 	3 	6 	1 	12 	0 	:
+Jam 	3 	6 	1 	13 	1 	so 	RB
+Jam 	3 	6 	1 	14 	1 	is 	VBZ
+Jam 	3 	6 	1 	15 	1 	the 	DT
+Jam 	3 	6 	1 	16 	1 	tongue 	NN
+Jam 	3 	6 	1 	17 	1 	among 	IN
+Jam 	3 	6 	1 	18 	1 	our 	PRP$
+Jam 	3 	6 	1 	19 	1 	members 	NNS
+Jam 	3 	6 	1 	20 	0 	,
+Jam 	3 	6 	1 	21 	1 	that 	IN
+Jam 	3 	6 	1 	22 	1 	it 	PRP
+Jam 	3 	6 	1 	23 	1 	defileth 	NN
+Jam 	3 	6 	1 	24 	1 	the 	DT
+Jam 	3 	6 	1 	25 	1 	whole 	JJ
+Jam 	3 	6 	1 	26 	1 	body 	NN
+Jam 	3 	6 	1 	27 	0 	,
+Jam 	3 	6 	1 	28 	1 	and 	CC
+Jam 	3 	6 	1 	29 	1 	setteth 	NN
+Jam 	3 	6 	1 	30 	1 	on 	IN
+Jam 	3 	6 	1 	31 	1 	fire 	NN
+Jam 	3 	6 	1 	32 	1 	the 	DT
+Jam 	3 	6 	1 	33 	1 	course 	NN
+Jam 	3 	6 	1 	34 	1 	of 	IN
+Jam 	3 	6 	1 	35 	1 	nature 	NN
+Jam 	3 	6 	1 	36 	0 	;
+Jam 	3 	6 	1 	37 	1 	and 	CC
+Jam 	3 	6 	1 	38 	1 	it 	PRP
+Jam 	3 	6 	1 	39 	1 	is 	VBZ
+Jam 	3 	6 	1 	40 	1 	set 	NN
+Jam 	3 	6 	1 	41 	1 	on 	IN
+Jam 	3 	6 	1 	42 	1 	fire 	NN
+Jam 	3 	6 	1 	43 	1 	of 	IN
+Jam 	3 	6 	1 	44 	1 	hell 	NN
+Jam 	3 	6 	1 	45 	0 	.
+Jam 	3 	7 	1 	1 	1 	For 	IN
+Jam 	3 	7 	1 	2 	1 	every 	DT
+Jam 	3 	7 	1 	3 	1 	kind 	NN
+Jam 	3 	7 	1 	4 	1 	of 	IN
+Jam 	3 	7 	1 	5 	1 	beasts 	NNS
+Jam 	3 	7 	1 	6 	0 	,
+Jam 	3 	7 	1 	7 	1 	and 	CC
+Jam 	3 	7 	1 	8 	1 	of 	IN
+Jam 	3 	7 	1 	9 	1 	birds 	NNS
+Jam 	3 	7 	1 	10 	0 	,
+Jam 	3 	7 	1 	11 	1 	and 	CC
+Jam 	3 	7 	1 	12 	1 	of 	IN
+Jam 	3 	7 	1 	13 	1 	serpents 	NNS
+Jam 	3 	7 	1 	14 	0 	,
+Jam 	3 	7 	1 	15 	1 	and 	CC
+Jam 	3 	7 	1 	16 	1 	of 	IN
+Jam 	3 	7 	1 	17 	1 	things 	NNS
+Jam 	3 	7 	1 	18 	1 	in 	IN
+Jam 	3 	7 	1 	19 	1 	the 	DT
+Jam 	3 	7 	1 	20 	1 	sea 	NN
+Jam 	3 	7 	1 	21 	0 	,
+Jam 	3 	7 	1 	22 	1 	is 	VBZ
+Jam 	3 	7 	1 	23 	1 	tamed 	VBN
+Jam 	3 	7 	1 	24 	0 	,
+Jam 	3 	7 	1 	25 	1 	and 	CC
+Jam 	3 	7 	1 	26 	1 	hath 	NN
+Jam 	3 	7 	1 	27 	1 	been 	VBN
+Jam 	3 	7 	1 	28 	1 	tamed 	VBN
+Jam 	3 	7 	1 	29 	1 	of 	IN
+Jam 	3 	7 	1 	30 	1 	mankind 	NN
+Jam 	3 	7 	1 	31 	0 	:
+Jam 	3 	8 	1 	1 	1 	But 	CC
+Jam 	3 	8 	1 	2 	1 	the 	DT
+Jam 	3 	8 	1 	3 	1 	tongue 	NN
+Jam 	3 	8 	1 	4 	1 	can 	MD
+Jam 	3 	8 	1 	5 	1 	no 	DT
+Jam 	3 	8 	1 	6 	1 	man 	NN
+Jam 	3 	8 	1 	7 	1 	tame 	NN
+Jam 	3 	8 	1 	8 	0 	;
+Jam 	3 	8 	1 	9 	1 	it 	PRP
+Jam 	3 	8 	1 	10 	1 	is 	VBZ
+Jam 	3 	8 	1 	11 	1 	an 	DT
+Jam 	3 	8 	1 	12 	1 	unruly 	RB
+Jam 	3 	8 	1 	13 	1 	evil 	NN
+Jam 	3 	8 	1 	14 	0 	,
+Jam 	3 	8 	1 	15 	1 	full 	JJ
+Jam 	3 	8 	1 	16 	1 	of 	IN
+Jam 	3 	8 	1 	17 	1 	deadly 	RB
+Jam 	3 	8 	1 	18 	1 	poison 	NN
+Jam 	3 	8 	1 	19 	0 	.
+Jam 	3 	9 	1 	1 	1 	Therewith 	NN
+Jam 	3 	9 	1 	2 	1 	bless 	NN
+Jam 	3 	9 	1 	3 	1 	we 	PRP
+Jam 	3 	9 	1 	4 	1 	God 	NNP
+Jam 	3 	9 	1 	5 	0 	,
+Jam 	3 	9 	1 	6 	1 	even 	RB
+Jam 	3 	9 	1 	7 	1 	the 	DT
+Jam 	3 	9 	1 	8 	1 	Father 	NN
+Jam 	3 	9 	1 	9 	0 	;
+Jam 	3 	9 	1 	10 	1 	and 	CC
+Jam 	3 	9 	1 	11 	1 	therewith 	NN
+Jam 	3 	9 	1 	12 	1 	curse 	NN
+Jam 	3 	9 	1 	13 	1 	we 	PRP
+Jam 	3 	9 	1 	14 	1 	men 	NNS
+Jam 	3 	9 	1 	15 	0 	,
+Jam 	3 	9 	1 	16 	1 	which 	WDT
+Jam 	3 	9 	1 	17 	1 	are 	VBP
+Jam 	3 	9 	1 	18 	1 	made 	VBN
+Jam 	3 	9 	1 	19 	1 	after 	IN
+Jam 	3 	9 	1 	20 	1 	the 	DT
+Jam 	3 	9 	1 	21 	1 	similitude 	NN
+Jam 	3 	9 	1 	22 	1 	of 	IN
+Jam 	3 	9 	1 	23 	1 	God 	NNP
+Jam 	3 	9 	1 	24 	0 	.
+Jam 	3 	10 	1 	1 	1 	Out 	IN
+Jam 	3 	10 	1 	2 	1 	of 	IN
+Jam 	3 	10 	1 	3 	1 	the 	DT
+Jam 	3 	10 	1 	4 	1 	same 	JJ
+Jam 	3 	10 	1 	5 	1 	mouth 	NN
+Jam 	3 	10 	1 	6 	1 	proceedeth 	NN
+Jam 	3 	10 	1 	7 	1 	blessing 	NN
+Jam 	3 	10 	1 	8 	1 	and 	CC
+Jam 	3 	10 	1 	9 	1 	cursing 	VBG
+Jam 	3 	10 	1 	10 	0 	.
+Jam 	3 	10 	2 	1 	1 	My 	PRP$
+Jam 	3 	10 	2 	2 	1 	brethren 	NNS
+Jam 	3 	10 	2 	3 	0 	,
+Jam 	3 	10 	2 	4 	1 	these 	DT
+Jam 	3 	10 	2 	5 	1 	things 	NNS
+Jam 	3 	10 	2 	6 	1 	ought 	MD
+Jam 	3 	10 	2 	7 	1 	not 	RB
+Jam 	3 	10 	2 	8 	1 	so 	RB
+Jam 	3 	10 	2 	9 	1 	to 	TO
+Jam 	3 	10 	2 	10 	1 	be 	VB
+Jam 	3 	10 	2 	11 	0 	.
+Jam 	3 	11 	1 	1 	1 	Doth 	NNP
+Jam 	3 	11 	1 	2 	1 	a 	DT
+Jam 	3 	11 	1 	3 	1 	fountain 	NN
+Jam 	3 	11 	1 	4 	1 	send 	NN
+Jam 	3 	11 	1 	5 	1 	forth 	NN
+Jam 	3 	11 	1 	6 	1 	at 	IN
+Jam 	3 	11 	1 	7 	1 	the 	DT
+Jam 	3 	11 	1 	8 	1 	same 	JJ
+Jam 	3 	11 	1 	9 	1 	place 	NN
+Jam 	3 	11 	1 	10 	1 	sweet 	NN
+Jam 	3 	11 	1 	11 	1 	water 	NN
+Jam 	3 	11 	1 	12 	1 	and 	CC
+Jam 	3 	11 	1 	13 	1 	bitter 	NN
+Jam 	3 	11 	1 	14 	0 	?
+Jam 	3 	12 	1 	1 	1 	Can 	MD
+Jam 	3 	12 	1 	2 	1 	the 	DT
+Jam 	3 	12 	1 	3 	1 	fig 	NN
+Jam 	3 	12 	1 	4 	1 	tree 	NN
+Jam 	3 	12 	1 	5 	0 	,
+Jam 	3 	12 	1 	6 	1 	my 	PRP$
+Jam 	3 	12 	1 	7 	1 	brethren 	NNS
+Jam 	3 	12 	1 	8 	0 	,
+Jam 	3 	12 	1 	9 	1 	bear 	NN
+Jam 	3 	12 	1 	10 	1 	olive 	JJ
+Jam 	3 	12 	1 	11 	1 	berries 	NNS
+Jam 	3 	12 	1 	12 	0 	?
+Jam 	3 	12 	2 	1 	1 	either 	DT
+Jam 	3 	12 	2 	2 	1 	a 	DT
+Jam 	3 	12 	2 	3 	1 	vine 	NN
+Jam 	3 	12 	2 	4 	0 	,
+Jam 	3 	12 	2 	5 	1 	figs 	NNS
+Jam 	3 	12 	2 	6 	0 	?
+Jam 	3 	12 	3 	1 	1 	so 	RB
+Jam 	3 	12 	3 	2 	1 	can 	MD
+Jam 	3 	12 	3 	3 	1 	no 	DT
+Jam 	3 	12 	3 	4 	1 	fountain 	NN
+Jam 	3 	12 	3 	5 	1 	both 	DT
+Jam 	3 	12 	3 	6 	1 	yield 	NN
+Jam 	3 	12 	3 	7 	1 	salt 	NN
+Jam 	3 	12 	3 	8 	1 	water 	NN
+Jam 	3 	12 	3 	9 	1 	and 	CC
+Jam 	3 	12 	3 	10 	1 	fresh 	JJ
+Jam 	3 	12 	3 	11 	0 	.
+Jam 	3 	13 	1 	1 	1 	Who 	WP
+Jam 	3 	13 	1 	2 	1 	is 	VBZ
+Jam 	3 	13 	1 	3 	1 	a 	DT
+Jam 	3 	13 	1 	4 	1 	wise 	NN
+Jam 	3 	13 	1 	5 	1 	man 	NN
+Jam 	3 	13 	1 	6 	1 	and 	CC
+Jam 	3 	13 	1 	7 	1 	endued 	VBN
+Jam 	3 	13 	1 	8 	1 	with 	IN
+Jam 	3 	13 	1 	9 	1 	knowledge 	NN
+Jam 	3 	13 	1 	10 	1 	among 	IN
+Jam 	3 	13 	1 	11 	1 	you 	PRP
+Jam 	3 	13 	1 	12 	0 	?
+Jam 	3 	13 	2 	1 	1 	let 	VB
+Jam 	3 	13 	2 	2 	1 	him 	PRP
+Jam 	3 	13 	2 	3 	1 	shew 	NN
+Jam 	3 	13 	2 	4 	1 	out 	IN
+Jam 	3 	13 	2 	5 	1 	of 	IN
+Jam 	3 	13 	2 	6 	1 	a 	DT
+Jam 	3 	13 	2 	7 	1 	good 	JJ
+Jam 	3 	13 	2 	8 	1 	conversation 	NN
+Jam 	3 	13 	2 	9 	1 	his 	PRP$
+Jam 	3 	13 	2 	10 	1 	works 	NNS
+Jam 	3 	13 	2 	11 	1 	with 	IN
+Jam 	3 	13 	2 	12 	1 	meekness 	NN
+Jam 	3 	13 	2 	13 	1 	of 	IN
+Jam 	3 	13 	2 	14 	1 	wisdom 	NN
+Jam 	3 	13 	2 	15 	0 	.
+Jam 	3 	14 	1 	1 	1 	But 	CC
+Jam 	3 	14 	1 	2 	1 	if 	IN
+Jam 	3 	14 	1 	3 	1 	ye 	NN
+Jam 	3 	14 	1 	4 	1 	have 	VB
+Jam 	3 	14 	1 	5 	1 	bitter 	NN
+Jam 	3 	14 	1 	6 	1 	envying 	VBG
+Jam 	3 	14 	1 	7 	1 	and 	CC
+Jam 	3 	14 	1 	8 	1 	strife 	NN
+Jam 	3 	14 	1 	9 	1 	in 	IN
+Jam 	3 	14 	1 	10 	1 	your 	PRP$
+Jam 	3 	14 	1 	11 	1 	hearts 	NNS
+Jam 	3 	14 	1 	12 	0 	,
+Jam 	3 	14 	1 	13 	1 	glory 	NN
+Jam 	3 	14 	1 	14 	1 	not 	RB
+Jam 	3 	14 	1 	15 	0 	,
+Jam 	3 	14 	1 	16 	1 	and 	CC
+Jam 	3 	14 	1 	17 	1 	lie 	NN
+Jam 	3 	14 	1 	18 	1 	not 	RB
+Jam 	3 	14 	1 	19 	1 	against 	IN
+Jam 	3 	14 	1 	20 	1 	the 	DT
+Jam 	3 	14 	1 	21 	1 	truth 	NN
+Jam 	3 	14 	1 	22 	0 	.
+Jam 	3 	15 	1 	1 	1 	This 	DT
+Jam 	3 	15 	1 	2 	1 	wisdom 	NN
+Jam 	3 	15 	1 	3 	1 	descendeth 	NN
+Jam 	3 	15 	1 	4 	1 	not 	RB
+Jam 	3 	15 	1 	5 	1 	from 	IN
+Jam 	3 	15 	1 	6 	1 	above 	IN
+Jam 	3 	15 	1 	7 	0 	,
+Jam 	3 	15 	1 	8 	1 	but 	CC
+Jam 	3 	15 	1 	9 	1 	is 	VBZ
+Jam 	3 	15 	1 	10 	1 	earthly 	RB
+Jam 	3 	15 	1 	11 	0 	,
+Jam 	3 	15 	1 	12 	1 	sensual 	JJ
+Jam 	3 	15 	1 	13 	0 	,
+Jam 	3 	15 	1 	14 	1 	devilish 	NN
+Jam 	3 	15 	1 	15 	0 	.
+Jam 	3 	16 	1 	1 	1 	For 	IN
+Jam 	3 	16 	1 	2 	1 	where 	WRB
+Jam 	3 	16 	1 	3 	1 	envying 	VBG
+Jam 	3 	16 	1 	4 	1 	and 	CC
+Jam 	3 	16 	1 	5 	1 	strife 	NN
+Jam 	3 	16 	1 	6 	1 	is 	VBZ
+Jam 	3 	16 	1 	7 	0 	,
+Jam 	3 	16 	1 	8 	1 	there 	RB
+Jam 	3 	16 	1 	9 	1 	is 	VBZ
+Jam 	3 	16 	1 	10 	1 	confusion 	NN
+Jam 	3 	16 	1 	11 	1 	and 	CC
+Jam 	3 	16 	1 	12 	1 	every 	DT
+Jam 	3 	16 	1 	13 	1 	evil 	NN
+Jam 	3 	16 	1 	14 	1 	work 	NN
+Jam 	3 	16 	1 	15 	0 	.
+Jam 	3 	17 	1 	1 	1 	But 	CC
+Jam 	3 	17 	1 	2 	1 	the 	DT
+Jam 	3 	17 	1 	3 	1 	wisdom 	NN
+Jam 	3 	17 	1 	4 	1 	that 	IN
+Jam 	3 	17 	1 	5 	1 	is 	VBZ
+Jam 	3 	17 	1 	6 	1 	from 	IN
+Jam 	3 	17 	1 	7 	1 	above 	IN
+Jam 	3 	17 	1 	8 	1 	is 	VBZ
+Jam 	3 	17 	1 	9 	1 	first 	RB
+Jam 	3 	17 	1 	10 	1 	pure 	NN
+Jam 	3 	17 	1 	11 	0 	,
+Jam 	3 	17 	1 	12 	1 	then 	RB
+Jam 	3 	17 	1 	13 	1 	peaceable 	JJ
+Jam 	3 	17 	1 	14 	0 	,
+Jam 	3 	17 	1 	15 	1 	gentle 	NN
+Jam 	3 	17 	1 	16 	0 	,
+Jam 	3 	17 	1 	17 	1 	and 	CC
+Jam 	3 	17 	1 	18 	1 	easy 	JJ
+Jam 	3 	17 	1 	19 	1 	to 	TO
+Jam 	3 	17 	1 	20 	1 	be 	VB
+Jam 	3 	17 	1 	21 	1 	intreated 	VBN
+Jam 	3 	17 	1 	22 	0 	,
+Jam 	3 	17 	1 	23 	1 	full 	JJ
+Jam 	3 	17 	1 	24 	1 	of 	IN
+Jam 	3 	17 	1 	25 	1 	mercy 	NN
+Jam 	3 	17 	1 	26 	1 	and 	CC
+Jam 	3 	17 	1 	27 	1 	good 	JJ
+Jam 	3 	17 	1 	28 	1 	fruits 	NNS
+Jam 	3 	17 	1 	29 	0 	,
+Jam 	3 	17 	1 	30 	1 	without 	IN
+Jam 	3 	17 	1 	31 	1 	partiality 	NN
+Jam 	3 	17 	1 	32 	0 	,
+Jam 	3 	17 	1 	33 	1 	and 	CC
+Jam 	3 	17 	1 	34 	1 	without 	IN
+Jam 	3 	17 	1 	35 	1 	hypocrisy 	NN
+Jam 	3 	17 	1 	36 	0 	.
+Jam 	3 	18 	1 	1 	1 	And 	CC
+Jam 	3 	18 	1 	2 	1 	the 	DT
+Jam 	3 	18 	1 	3 	1 	fruit 	NN
+Jam 	3 	18 	1 	4 	1 	of 	IN
+Jam 	3 	18 	1 	5 	1 	righteousness 	NN
+Jam 	3 	18 	1 	6 	1 	is 	VBZ
+Jam 	3 	18 	1 	7 	1 	sown 	NN
+Jam 	3 	18 	1 	8 	1 	in 	IN
+Jam 	3 	18 	1 	9 	1 	peace 	NN
+Jam 	3 	18 	1 	10 	1 	of 	IN
+Jam 	3 	18 	1 	11 	1 	them 	PRP
+Jam 	3 	18 	1 	12 	1 	that 	IN
+Jam 	3 	18 	1 	13 	1 	make 	VB
+Jam 	3 	18 	1 	14 	1 	peace 	NN
+Jam 	3 	18 	1 	15 	0 	.
+Jam 	4 	1 	1 	1 	1 	From 	IN
+Jam 	4 	1 	1 	2 	1 	whence 	NN
+Jam 	4 	1 	1 	3 	1 	come 	VB
+Jam 	4 	1 	1 	4 	1 	wars 	NNS
+Jam 	4 	1 	1 	5 	1 	and 	CC
+Jam 	4 	1 	1 	6 	1 	fightings 	NNS
+Jam 	4 	1 	1 	7 	1 	among 	IN
+Jam 	4 	1 	1 	8 	1 	you 	PRP
+Jam 	4 	1 	1 	9 	0 	?
+Jam 	4 	1 	2 	1 	1 	come 	VB
+Jam 	4 	1 	2 	2 	1 	they 	PRP
+Jam 	4 	1 	2 	3 	1 	not 	RB
+Jam 	4 	1 	2 	4 	1 	hence 	NN
+Jam 	4 	1 	2 	5 	0 	,
+Jam 	4 	1 	2 	6 	1 	even 	RB
+Jam 	4 	1 	2 	7 	1 	of 	IN
+Jam 	4 	1 	2 	8 	1 	your 	PRP$
+Jam 	4 	1 	2 	9 	1 	lusts 	NNS
+Jam 	4 	1 	2 	10 	1 	that 	IN
+Jam 	4 	1 	2 	11 	1 	war 	NN
+Jam 	4 	1 	2 	12 	1 	in 	IN
+Jam 	4 	1 	2 	13 	1 	your 	PRP$
+Jam 	4 	1 	2 	14 	1 	members 	NNS
+Jam 	4 	1 	2 	15 	0 	?
+Jam 	4 	2 	1 	1 	1 	Ye 	NN
+Jam 	4 	2 	1 	2 	1 	lust 	NN
+Jam 	4 	2 	1 	3 	0 	,
+Jam 	4 	2 	1 	4 	1 	and 	CC
+Jam 	4 	2 	1 	5 	1 	have 	VB
+Jam 	4 	2 	1 	6 	1 	not 	RB
+Jam 	4 	2 	1 	7 	0 	:
+Jam 	4 	2 	1 	8 	1 	ye 	NN
+Jam 	4 	2 	1 	9 	1 	kill 	NN
+Jam 	4 	2 	1 	10 	0 	,
+Jam 	4 	2 	1 	11 	1 	and 	CC
+Jam 	4 	2 	1 	12 	1 	desire 	NN
+Jam 	4 	2 	1 	13 	1 	to 	TO
+Jam 	4 	2 	1 	14 	1 	have 	VB
+Jam 	4 	2 	1 	15 	0 	,
+Jam 	4 	2 	1 	16 	1 	and 	CC
+Jam 	4 	2 	1 	17 	1 	can 	MD
+Jam 	4 	2 	1 	18 	1 	not 	RB
+Jam 	4 	2 	1 	19 	1 	obtain 	VB
+Jam 	4 	2 	1 	20 	0 	:
+Jam 	4 	2 	1 	21 	1 	ye 	NN
+Jam 	4 	2 	1 	22 	1 	fight 	NN
+Jam 	4 	2 	1 	23 	1 	and 	CC
+Jam 	4 	2 	1 	24 	1 	war 	NN
+Jam 	4 	2 	1 	25 	0 	,
+Jam 	4 	2 	1 	26 	1 	yet 	RB
+Jam 	4 	2 	1 	27 	1 	ye 	NN
+Jam 	4 	2 	1 	28 	1 	have 	VB
+Jam 	4 	2 	1 	29 	1 	not 	RB
+Jam 	4 	2 	1 	30 	0 	,
+Jam 	4 	2 	1 	31 	1 	because 	IN
+Jam 	4 	2 	1 	32 	1 	ye 	NN
+Jam 	4 	2 	1 	33 	1 	ask 	NN
+Jam 	4 	2 	1 	34 	1 	not 	RB
+Jam 	4 	2 	1 	35 	0 	.
+Jam 	4 	3 	1 	1 	1 	Ye 	NN
+Jam 	4 	3 	1 	2 	1 	ask 	NN
+Jam 	4 	3 	1 	3 	0 	,
+Jam 	4 	3 	1 	4 	1 	and 	CC
+Jam 	4 	3 	1 	5 	1 	receive 	NN
+Jam 	4 	3 	1 	6 	1 	not 	RB
+Jam 	4 	3 	1 	7 	0 	,
+Jam 	4 	3 	1 	8 	1 	because 	IN
+Jam 	4 	3 	1 	9 	1 	ye 	NN
+Jam 	4 	3 	1 	10 	1 	ask 	NN
+Jam 	4 	3 	1 	11 	1 	amiss 	NN
+Jam 	4 	3 	1 	12 	0 	,
+Jam 	4 	3 	1 	13 	1 	that 	IN
+Jam 	4 	3 	1 	14 	1 	ye 	NN
+Jam 	4 	3 	1 	15 	1 	may 	MD
+Jam 	4 	3 	1 	16 	1 	consume 	NN
+Jam 	4 	3 	1 	17 	1 	it 	PRP
+Jam 	4 	3 	1 	18 	1 	upon 	IN
+Jam 	4 	3 	1 	19 	1 	your 	PRP$
+Jam 	4 	3 	1 	20 	1 	lusts 	NNS
+Jam 	4 	3 	1 	21 	0 	.
+Jam 	4 	4 	1 	1 	1 	Ye 	NN
+Jam 	4 	4 	1 	2 	1 	adulterers 	NNS
+Jam 	4 	4 	1 	3 	1 	and 	CC
+Jam 	4 	4 	1 	4 	1 	adulteresses 	NNS
+Jam 	4 	4 	1 	5 	0 	,
+Jam 	4 	4 	1 	6 	1 	know 	VB
+Jam 	4 	4 	1 	7 	1 	ye 	NN
+Jam 	4 	4 	1 	8 	1 	not 	RB
+Jam 	4 	4 	1 	9 	1 	that 	IN
+Jam 	4 	4 	1 	10 	1 	the 	DT
+Jam 	4 	4 	1 	11 	1 	friendship 	NN
+Jam 	4 	4 	1 	12 	1 	of 	IN
+Jam 	4 	4 	1 	13 	1 	the 	DT
+Jam 	4 	4 	1 	14 	1 	world 	NN
+Jam 	4 	4 	1 	15 	1 	is 	VBZ
+Jam 	4 	4 	1 	16 	1 	enmity 	NN
+Jam 	4 	4 	1 	17 	1 	with 	IN
+Jam 	4 	4 	1 	18 	1 	God 	NNP
+Jam 	4 	4 	1 	19 	0 	?
+Jam 	4 	4 	2 	1 	1 	whosoever 	NN
+Jam 	4 	4 	2 	2 	1 	therefore 	RB
+Jam 	4 	4 	2 	3 	1 	will 	MD
+Jam 	4 	4 	2 	4 	1 	be 	VB
+Jam 	4 	4 	2 	5 	1 	a 	DT
+Jam 	4 	4 	2 	6 	1 	friend 	NN
+Jam 	4 	4 	2 	7 	1 	of 	IN
+Jam 	4 	4 	2 	8 	1 	the 	DT
+Jam 	4 	4 	2 	9 	1 	world 	NN
+Jam 	4 	4 	2 	10 	1 	is 	VBZ
+Jam 	4 	4 	2 	11 	1 	the 	DT
+Jam 	4 	4 	2 	12 	1 	enemy 	NN
+Jam 	4 	4 	2 	13 	1 	of 	IN
+Jam 	4 	4 	2 	14 	1 	God 	NNP
+Jam 	4 	4 	2 	15 	0 	.
+Jam 	4 	5 	1 	1 	1 	Do 	VB
+Jam 	4 	5 	1 	2 	1 	ye 	NN
+Jam 	4 	5 	1 	3 	1 	think 	NN
+Jam 	4 	5 	1 	4 	1 	that 	IN
+Jam 	4 	5 	1 	5 	1 	the 	DT
+Jam 	4 	5 	1 	6 	1 	scripture 	NN
+Jam 	4 	5 	1 	7 	1 	saith 	NN
+Jam 	4 	5 	1 	8 	1 	in 	IN
+Jam 	4 	5 	1 	9 	1 	vain 	NN
+Jam 	4 	5 	1 	10 	0 	,
+Jam 	4 	5 	1 	11 	1 	The 	DT
+Jam 	4 	5 	1 	12 	1 	spirit 	NN
+Jam 	4 	5 	1 	13 	1 	that 	IN
+Jam 	4 	5 	1 	14 	1 	dwelleth 	NN
+Jam 	4 	5 	1 	15 	1 	in 	IN
+Jam 	4 	5 	1 	16 	1 	us 	PRP
+Jam 	4 	5 	1 	17 	1 	lusteth 	NN
+Jam 	4 	5 	1 	18 	1 	to 	TO
+Jam 	4 	5 	1 	19 	1 	envy 	NN
+Jam 	4 	5 	1 	20 	0 	?
+Jam 	4 	6 	1 	1 	1 	But 	CC
+Jam 	4 	6 	1 	2 	1 	he 	PRP
+Jam 	4 	6 	1 	3 	1 	giveth 	NNS
+Jam 	4 	6 	1 	4 	1 	more 	RBR
+Jam 	4 	6 	1 	5 	1 	grace 	NN
+Jam 	4 	6 	1 	6 	0 	.
+Jam 	4 	6 	2 	1 	1 	Wherefore 	IN
+Jam 	4 	6 	2 	2 	1 	he 	PRP
+Jam 	4 	6 	2 	3 	1 	saith 	NN
+Jam 	4 	6 	2 	4 	0 	,
+Jam 	4 	6 	2 	5 	1 	God 	NNP
+Jam 	4 	6 	2 	6 	1 	resisteth 	NN
+Jam 	4 	6 	2 	7 	1 	the 	DT
+Jam 	4 	6 	2 	8 	1 	proud 	NN
+Jam 	4 	6 	2 	9 	0 	,
+Jam 	4 	6 	2 	10 	1 	but 	CC
+Jam 	4 	6 	2 	11 	1 	giveth 	NNS
+Jam 	4 	6 	2 	12 	1 	grace 	NN
+Jam 	4 	6 	2 	13 	1 	unto 	NN
+Jam 	4 	6 	2 	14 	1 	the 	DT
+Jam 	4 	6 	2 	15 	1 	humble 	JJ
+Jam 	4 	6 	2 	16 	0 	.
+Jam 	4 	7 	1 	1 	1 	Submit 	NN
+Jam 	4 	7 	1 	2 	1 	yourselves 	NNS
+Jam 	4 	7 	1 	3 	1 	therefore 	RB
+Jam 	4 	7 	1 	4 	1 	to 	TO
+Jam 	4 	7 	1 	5 	1 	God 	NNP
+Jam 	4 	7 	1 	6 	0 	.
+Jam 	4 	7 	2 	1 	1 	Resist 	NN
+Jam 	4 	7 	2 	2 	1 	the 	DT
+Jam 	4 	7 	2 	3 	1 	devil 	NN
+Jam 	4 	7 	2 	4 	0 	,
+Jam 	4 	7 	2 	5 	1 	and 	CC
+Jam 	4 	7 	2 	6 	1 	he 	PRP
+Jam 	4 	7 	2 	7 	1 	will 	MD
+Jam 	4 	7 	2 	8 	1 	flee 	NN
+Jam 	4 	7 	2 	9 	1 	from 	IN
+Jam 	4 	7 	2 	10 	1 	you 	PRP
+Jam 	4 	7 	2 	11 	0 	.
+Jam 	4 	8 	1 	1 	1 	Draw 	NN
+Jam 	4 	8 	1 	2 	1 	nigh 	JJ
+Jam 	4 	8 	1 	3 	1 	to 	TO
+Jam 	4 	8 	1 	4 	1 	God 	NNP
+Jam 	4 	8 	1 	5 	0 	,
+Jam 	4 	8 	1 	6 	1 	and 	CC
+Jam 	4 	8 	1 	7 	1 	he 	PRP
+Jam 	4 	8 	1 	8 	1 	will 	MD
+Jam 	4 	8 	1 	9 	1 	draw 	NN
+Jam 	4 	8 	1 	10 	1 	nigh 	JJ
+Jam 	4 	8 	1 	11 	1 	to 	TO
+Jam 	4 	8 	1 	12 	1 	you 	PRP
+Jam 	4 	8 	1 	13 	0 	.
+Jam 	4 	8 	2 	1 	1 	Cleanse 	NN
+Jam 	4 	8 	2 	2 	1 	your 	PRP$
+Jam 	4 	8 	2 	3 	1 	hands 	NNS
+Jam 	4 	8 	2 	4 	0 	,
+Jam 	4 	8 	2 	5 	1 	ye 	NN
+Jam 	4 	8 	2 	6 	1 	sinners 	NNS
+Jam 	4 	8 	2 	7 	0 	;
+Jam 	4 	8 	2 	8 	1 	and 	CC
+Jam 	4 	8 	2 	9 	1 	purify 	NN
+Jam 	4 	8 	2 	10 	1 	your 	PRP$
+Jam 	4 	8 	2 	11 	1 	hearts 	NNS
+Jam 	4 	8 	2 	12 	0 	,
+Jam 	4 	8 	2 	13 	1 	ye 	NN
+Jam 	4 	8 	2 	14 	1 	double 	RB
+Jam 	4 	8 	2 	15 	1 	minded 	VBN
+Jam 	4 	8 	2 	16 	0 	.
+Jam 	4 	9 	1 	1 	1 	Be 	VB
+Jam 	4 	9 	1 	2 	1 	afflicted 	VBN
+Jam 	4 	9 	1 	3 	0 	,
+Jam 	4 	9 	1 	4 	1 	and 	CC
+Jam 	4 	9 	1 	5 	1 	mourn 	NN
+Jam 	4 	9 	1 	6 	0 	,
+Jam 	4 	9 	1 	7 	1 	and 	CC
+Jam 	4 	9 	1 	8 	1 	weep 	NN
+Jam 	4 	9 	1 	9 	0 	:
+Jam 	4 	9 	1 	10 	1 	let 	VB
+Jam 	4 	9 	1 	11 	1 	your 	PRP$
+Jam 	4 	9 	1 	12 	1 	laughter 	NN
+Jam 	4 	9 	1 	13 	1 	be 	VB
+Jam 	4 	9 	1 	14 	1 	turned 	VBD
+Jam 	4 	9 	1 	15 	1 	to 	TO
+Jam 	4 	9 	1 	16 	1 	mourning 	VBG
+Jam 	4 	9 	1 	17 	0 	,
+Jam 	4 	9 	1 	18 	1 	and 	CC
+Jam 	4 	9 	1 	19 	1 	your 	PRP$
+Jam 	4 	9 	1 	20 	1 	joy 	NN
+Jam 	4 	9 	1 	21 	1 	to 	TO
+Jam 	4 	9 	1 	22 	1 	heaviness 	NN
+Jam 	4 	9 	1 	23 	0 	.
+Jam 	4 	10 	1 	1 	1 	Humble 	JJ
+Jam 	4 	10 	1 	2 	1 	yourselves 	NNS
+Jam 	4 	10 	1 	3 	1 	in 	IN
+Jam 	4 	10 	1 	4 	1 	the 	DT
+Jam 	4 	10 	1 	5 	1 	sight 	NN
+Jam 	4 	10 	1 	6 	1 	of 	IN
+Jam 	4 	10 	1 	7 	1 	the 	DT
+Jam 	4 	10 	1 	8 	1 	Lord 	NN
+Jam 	4 	10 	1 	9 	0 	,
+Jam 	4 	10 	1 	10 	1 	and 	CC
+Jam 	4 	10 	1 	11 	1 	he 	PRP
+Jam 	4 	10 	1 	12 	1 	shall 	MD
+Jam 	4 	10 	1 	13 	1 	lift 	NN
+Jam 	4 	10 	1 	14 	1 	you 	PRP
+Jam 	4 	10 	1 	15 	1 	up 	RB
+Jam 	4 	10 	1 	16 	0 	.
+Jam 	4 	11 	1 	1 	1 	Speak 	NN
+Jam 	4 	11 	1 	2 	1 	not 	RB
+Jam 	4 	11 	1 	3 	1 	evil 	NN
+Jam 	4 	11 	1 	4 	1 	one 	CD
+Jam 	4 	11 	1 	5 	1 	of 	IN
+Jam 	4 	11 	1 	6 	1 	another 	DT
+Jam 	4 	11 	1 	7 	0 	,
+Jam 	4 	11 	1 	8 	1 	brethren 	NNS
+Jam 	4 	11 	1 	9 	0 	.
+Jam 	4 	11 	2 	1 	1 	He 	PRP
+Jam 	4 	11 	2 	2 	1 	that 	IN
+Jam 	4 	11 	2 	3 	1 	speaketh 	NN
+Jam 	4 	11 	2 	4 	1 	evil 	NN
+Jam 	4 	11 	2 	5 	1 	of 	IN
+Jam 	4 	11 	2 	6 	1 	his 	PRP$
+Jam 	4 	11 	2 	7 	1 	brother 	NN
+Jam 	4 	11 	2 	8 	0 	,
+Jam 	4 	11 	2 	9 	1 	and 	CC
+Jam 	4 	11 	2 	10 	1 	judgeth 	NN
+Jam 	4 	11 	2 	11 	1 	his 	PRP$
+Jam 	4 	11 	2 	12 	1 	brother 	NN
+Jam 	4 	11 	2 	13 	0 	,
+Jam 	4 	11 	2 	14 	1 	speaketh 	NN
+Jam 	4 	11 	2 	15 	1 	evil 	NN
+Jam 	4 	11 	2 	16 	1 	of 	IN
+Jam 	4 	11 	2 	17 	1 	the 	DT
+Jam 	4 	11 	2 	18 	1 	law 	NN
+Jam 	4 	11 	2 	19 	0 	,
+Jam 	4 	11 	2 	20 	1 	and 	CC
+Jam 	4 	11 	2 	21 	1 	judgeth 	NN
+Jam 	4 	11 	2 	22 	1 	the 	DT
+Jam 	4 	11 	2 	23 	1 	law 	NN
+Jam 	4 	11 	2 	24 	0 	:
+Jam 	4 	11 	2 	25 	1 	but 	CC
+Jam 	4 	11 	2 	26 	1 	if 	IN
+Jam 	4 	11 	2 	27 	1 	thou 	NN
+Jam 	4 	11 	2 	28 	1 	judge 	NN
+Jam 	4 	11 	2 	29 	1 	the 	DT
+Jam 	4 	11 	2 	30 	1 	law 	NN
+Jam 	4 	11 	2 	31 	0 	,
+Jam 	4 	11 	2 	32 	1 	thou 	NN
+Jam 	4 	11 	2 	33 	1 	art 	NN
+Jam 	4 	11 	2 	34 	1 	not 	RB
+Jam 	4 	11 	2 	35 	1 	a 	DT
+Jam 	4 	11 	2 	36 	1 	doer 	NN
+Jam 	4 	11 	2 	37 	1 	of 	IN
+Jam 	4 	11 	2 	38 	1 	the 	DT
+Jam 	4 	11 	2 	39 	1 	law 	NN
+Jam 	4 	11 	2 	40 	0 	,
+Jam 	4 	11 	2 	41 	1 	but 	CC
+Jam 	4 	11 	2 	42 	1 	a 	DT
+Jam 	4 	11 	2 	43 	1 	judge 	NN
+Jam 	4 	11 	2 	44 	0 	.
+Jam 	4 	12 	1 	1 	1 	There 	EX
+Jam 	4 	12 	1 	2 	1 	is 	VBZ
+Jam 	4 	12 	1 	3 	1 	one 	CD
+Jam 	4 	12 	1 	4 	1 	lawgiver 	NN
+Jam 	4 	12 	1 	5 	0 	,
+Jam 	4 	12 	1 	6 	1 	who 	WP
+Jam 	4 	12 	1 	7 	1 	is 	VBZ
+Jam 	4 	12 	1 	8 	1 	able 	JJ
+Jam 	4 	12 	1 	9 	1 	to 	TO
+Jam 	4 	12 	1 	10 	1 	save 	VB
+Jam 	4 	12 	1 	11 	1 	and 	CC
+Jam 	4 	12 	1 	12 	1 	to 	TO
+Jam 	4 	12 	1 	13 	1 	destroy 	NN
+Jam 	4 	12 	1 	14 	0 	:
+Jam 	4 	12 	1 	15 	1 	who 	WP
+Jam 	4 	12 	1 	16 	1 	art 	NN
+Jam 	4 	12 	1 	17 	1 	thou 	NN
+Jam 	4 	12 	1 	18 	1 	that 	IN
+Jam 	4 	12 	1 	19 	1 	judgest 	NN
+Jam 	4 	12 	1 	20 	1 	another 	DT
+Jam 	4 	12 	1 	21 	0 	?
+Jam 	4 	13 	1 	1 	1 	Go 	VB
+Jam 	4 	13 	1 	2 	1 	to 	TO
+Jam 	4 	13 	1 	3 	1 	now 	RB
+Jam 	4 	13 	1 	4 	0 	,
+Jam 	4 	13 	1 	5 	1 	ye 	NN
+Jam 	4 	13 	1 	6 	1 	that 	IN
+Jam 	4 	13 	1 	7 	1 	say 	VB
+Jam 	4 	13 	1 	8 	0 	,
+Jam 	4 	13 	1 	9 	1 	To 	TO
+Jam 	4 	13 	1 	10 	1 	day 	NN
+Jam 	4 	13 	1 	11 	1 	or 	CC
+Jam 	4 	13 	1 	12 	1 	to 	TO
+Jam 	4 	13 	1 	13 	1 	morrow 	NN
+Jam 	4 	13 	1 	14 	1 	we 	PRP
+Jam 	4 	13 	1 	15 	1 	will 	MD
+Jam 	4 	13 	1 	16 	1 	go 	VB
+Jam 	4 	13 	1 	17 	1 	into 	IN
+Jam 	4 	13 	1 	18 	1 	such 	JJ
+Jam 	4 	13 	1 	19 	1 	a 	DT
+Jam 	4 	13 	1 	20 	1 	city 	NN
+Jam 	4 	13 	1 	21 	0 	,
+Jam 	4 	13 	1 	22 	1 	and 	CC
+Jam 	4 	13 	1 	23 	1 	continue 	NN
+Jam 	4 	13 	1 	24 	1 	there 	RB
+Jam 	4 	13 	1 	25 	1 	a 	DT
+Jam 	4 	13 	1 	26 	1 	year 	NN
+Jam 	4 	13 	1 	27 	0 	,
+Jam 	4 	13 	1 	28 	1 	and 	CC
+Jam 	4 	13 	1 	29 	1 	buy 	VB
+Jam 	4 	13 	1 	30 	1 	and 	CC
+Jam 	4 	13 	1 	31 	1 	sell 	NN
+Jam 	4 	13 	1 	32 	0 	,
+Jam 	4 	13 	1 	33 	1 	and 	CC
+Jam 	4 	13 	1 	34 	1 	get 	VB
+Jam 	4 	13 	1 	35 	1 	gain 	NN
+Jam 	4 	13 	1 	36 	0 	:
+Jam 	4 	14 	1 	1 	1 	Whereas 	NNS
+Jam 	4 	14 	1 	2 	1 	ye 	NN
+Jam 	4 	14 	1 	3 	1 	know 	VB
+Jam 	4 	14 	1 	4 	1 	not 	RB
+Jam 	4 	14 	1 	5 	1 	what 	WP
+Jam 	4 	14 	1 	6 	1 	shall 	MD
+Jam 	4 	14 	1 	7 	1 	be 	VB
+Jam 	4 	14 	1 	8 	1 	on 	IN
+Jam 	4 	14 	1 	9 	1 	the 	DT
+Jam 	4 	14 	1 	10 	1 	morrow 	NN
+Jam 	4 	14 	1 	11 	0 	.
+Jam 	4 	14 	2 	1 	1 	For 	IN
+Jam 	4 	14 	2 	2 	1 	what 	WP
+Jam 	4 	14 	2 	3 	1 	is 	VBZ
+Jam 	4 	14 	2 	4 	1 	your 	PRP$
+Jam 	4 	14 	2 	5 	1 	life 	NN
+Jam 	4 	14 	2 	6 	0 	?
+Jam 	4 	14 	3 	1 	1 	It 	PRP
+Jam 	4 	14 	3 	2 	1 	is 	VBZ
+Jam 	4 	14 	3 	3 	1 	even 	RB
+Jam 	4 	14 	3 	4 	1 	a 	DT
+Jam 	4 	14 	3 	5 	1 	vapour 	NN
+Jam 	4 	14 	3 	6 	0 	,
+Jam 	4 	14 	3 	7 	1 	that 	IN
+Jam 	4 	14 	3 	8 	1 	appeareth 	NNS
+Jam 	4 	14 	3 	9 	1 	for 	IN
+Jam 	4 	14 	3 	10 	1 	a 	DT
+Jam 	4 	14 	3 	11 	1 	little 	JJ
+Jam 	4 	14 	3 	12 	1 	time 	NN
+Jam 	4 	14 	3 	13 	0 	,
+Jam 	4 	14 	3 	14 	1 	and 	CC
+Jam 	4 	14 	3 	15 	1 	then 	RB
+Jam 	4 	14 	3 	16 	1 	vanisheth 	NNS
+Jam 	4 	14 	3 	17 	1 	away 	RB
+Jam 	4 	14 	3 	18 	0 	.
+Jam 	4 	15 	1 	1 	1 	For 	IN
+Jam 	4 	15 	1 	2 	1 	that 	IN
+Jam 	4 	15 	1 	3 	1 	ye 	NN
+Jam 	4 	15 	1 	4 	1 	ought 	MD
+Jam 	4 	15 	1 	5 	1 	to 	TO
+Jam 	4 	15 	1 	6 	1 	say 	VB
+Jam 	4 	15 	1 	7 	0 	,
+Jam 	4 	15 	1 	8 	1 	If 	IN
+Jam 	4 	15 	1 	9 	1 	the 	DT
+Jam 	4 	15 	1 	10 	1 	Lord 	NN
+Jam 	4 	15 	1 	11 	1 	will 	MD
+Jam 	4 	15 	1 	12 	0 	,
+Jam 	4 	15 	1 	13 	1 	we 	PRP
+Jam 	4 	15 	1 	14 	1 	shall 	MD
+Jam 	4 	15 	1 	15 	1 	live 	JJ
+Jam 	4 	15 	1 	16 	0 	,
+Jam 	4 	15 	1 	17 	1 	and 	CC
+Jam 	4 	15 	1 	18 	1 	do 	VB
+Jam 	4 	15 	1 	19 	1 	this 	DT
+Jam 	4 	15 	1 	20 	0 	,
+Jam 	4 	15 	1 	21 	1 	or 	CC
+Jam 	4 	15 	1 	22 	1 	that 	IN
+Jam 	4 	15 	1 	23 	0 	.
+Jam 	4 	16 	1 	1 	1 	But 	CC
+Jam 	4 	16 	1 	2 	1 	now 	RB
+Jam 	4 	16 	1 	3 	1 	ye 	NN
+Jam 	4 	16 	1 	4 	1 	rejoice 	NN
+Jam 	4 	16 	1 	5 	1 	in 	IN
+Jam 	4 	16 	1 	6 	1 	your 	PRP$
+Jam 	4 	16 	1 	7 	1 	boastings 	NNS
+Jam 	4 	16 	1 	8 	0 	:
+Jam 	4 	16 	1 	9 	1 	all 	DT
+Jam 	4 	16 	1 	10 	1 	such 	JJ
+Jam 	4 	16 	1 	11 	1 	rejoicing 	VBG
+Jam 	4 	16 	1 	12 	1 	is 	VBZ
+Jam 	4 	16 	1 	13 	1 	evil 	NN
+Jam 	4 	16 	1 	14 	0 	.
+Jam 	4 	17 	1 	1 	1 	Therefore 	RB
+Jam 	4 	17 	1 	2 	1 	to 	TO
+Jam 	4 	17 	1 	3 	1 	him 	PRP
+Jam 	4 	17 	1 	4 	1 	that 	IN
+Jam 	4 	17 	1 	5 	1 	knoweth 	NNS
+Jam 	4 	17 	1 	6 	1 	to 	TO
+Jam 	4 	17 	1 	7 	1 	do 	VB
+Jam 	4 	17 	1 	8 	1 	good 	JJ
+Jam 	4 	17 	1 	9 	0 	,
+Jam 	4 	17 	1 	10 	1 	and 	CC
+Jam 	4 	17 	1 	11 	1 	doeth 	NN
+Jam 	4 	17 	1 	12 	1 	it 	PRP
+Jam 	4 	17 	1 	13 	1 	not 	RB
+Jam 	4 	17 	1 	14 	0 	,
+Jam 	4 	17 	1 	15 	1 	to 	TO
+Jam 	4 	17 	1 	16 	1 	him 	PRP
+Jam 	4 	17 	1 	17 	1 	it 	PRP
+Jam 	4 	17 	1 	18 	1 	is 	VBZ
+Jam 	4 	17 	1 	19 	1 	sin 	NN
+Jam 	4 	17 	1 	20 	0 	.
+Jam 	5 	1 	1 	1 	1 	Go 	VB
+Jam 	5 	1 	1 	2 	1 	to 	TO
+Jam 	5 	1 	1 	3 	1 	now 	RB
+Jam 	5 	1 	1 	4 	0 	,
+Jam 	5 	1 	1 	5 	1 	ye 	NN
+Jam 	5 	1 	1 	6 	1 	rich 	JJ
+Jam 	5 	1 	1 	7 	1 	men 	NNS
+Jam 	5 	1 	1 	8 	0 	,
+Jam 	5 	1 	1 	9 	1 	weep 	NN
+Jam 	5 	1 	1 	10 	1 	and 	CC
+Jam 	5 	1 	1 	11 	1 	howl 	NN
+Jam 	5 	1 	1 	12 	1 	for 	IN
+Jam 	5 	1 	1 	13 	1 	your 	PRP$
+Jam 	5 	1 	1 	14 	1 	miseries 	NNS
+Jam 	5 	1 	1 	15 	1 	that 	IN
+Jam 	5 	1 	1 	16 	1 	shall 	MD
+Jam 	5 	1 	1 	17 	1 	come 	VB
+Jam 	5 	1 	1 	18 	1 	upon 	IN
+Jam 	5 	1 	1 	19 	1 	you 	PRP
+Jam 	5 	1 	1 	20 	0 	.
+Jam 	5 	2 	1 	1 	1 	Your 	PRP$
+Jam 	5 	2 	1 	2 	1 	riches 	NNS
+Jam 	5 	2 	1 	3 	1 	are 	VBP
+Jam 	5 	2 	1 	4 	1 	corrupted 	VBN
+Jam 	5 	2 	1 	5 	0 	,
+Jam 	5 	2 	1 	6 	1 	and 	CC
+Jam 	5 	2 	1 	7 	1 	your 	PRP$
+Jam 	5 	2 	1 	8 	1 	garments 	NNS
+Jam 	5 	2 	1 	9 	1 	are 	VBP
+Jam 	5 	2 	1 	10 	1 	motheaten 	NNS
+Jam 	5 	2 	1 	11 	0 	.
+Jam 	5 	3 	1 	1 	1 	Your 	PRP$
+Jam 	5 	3 	1 	2 	1 	gold 	NN
+Jam 	5 	3 	1 	3 	1 	and 	CC
+Jam 	5 	3 	1 	4 	1 	silver 	NN
+Jam 	5 	3 	1 	5 	1 	is 	VBZ
+Jam 	5 	3 	1 	6 	1 	cankered 	VBN
+Jam 	5 	3 	1 	7 	0 	;
+Jam 	5 	3 	1 	8 	1 	and 	CC
+Jam 	5 	3 	1 	9 	1 	the 	DT
+Jam 	5 	3 	1 	10 	1 	rust 	NN
+Jam 	5 	3 	1 	11 	1 	of 	IN
+Jam 	5 	3 	1 	12 	1 	them 	PRP
+Jam 	5 	3 	1 	13 	1 	shall 	MD
+Jam 	5 	3 	1 	14 	1 	be 	VB
+Jam 	5 	3 	1 	15 	1 	a 	DT
+Jam 	5 	3 	1 	16 	1 	witness 	NN
+Jam 	5 	3 	1 	17 	1 	against 	IN
+Jam 	5 	3 	1 	18 	1 	you 	PRP
+Jam 	5 	3 	1 	19 	0 	,
+Jam 	5 	3 	1 	20 	1 	and 	CC
+Jam 	5 	3 	1 	21 	1 	shall 	MD
+Jam 	5 	3 	1 	22 	1 	eat 	NN
+Jam 	5 	3 	1 	23 	1 	your 	PRP$
+Jam 	5 	3 	1 	24 	1 	flesh 	NN
+Jam 	5 	3 	1 	25 	1 	as 	IN
+Jam 	5 	3 	1 	26 	1 	it 	PRP
+Jam 	5 	3 	1 	27 	1 	were 	VBD
+Jam 	5 	3 	1 	28 	1 	fire 	NN
+Jam 	5 	3 	1 	29 	0 	.
+Jam 	5 	3 	2 	1 	1 	Ye 	NN
+Jam 	5 	3 	2 	2 	1 	have 	VB
+Jam 	5 	3 	2 	3 	1 	heaped 	NN
+Jam 	5 	3 	2 	4 	1 	treasure 	NN
+Jam 	5 	3 	2 	5 	1 	together 	RB
+Jam 	5 	3 	2 	6 	1 	for 	IN
+Jam 	5 	3 	2 	7 	1 	the 	DT
+Jam 	5 	3 	2 	8 	1 	last 	JJ
+Jam 	5 	3 	2 	9 	1 	days 	NNS
+Jam 	5 	3 	2 	10 	0 	.
+Jam 	5 	4 	1 	1 	1 	Behold 	NN
+Jam 	5 	4 	1 	2 	0 	,
+Jam 	5 	4 	1 	3 	1 	the 	DT
+Jam 	5 	4 	1 	4 	1 	hire 	NN
+Jam 	5 	4 	1 	5 	1 	of 	IN
+Jam 	5 	4 	1 	6 	1 	the 	DT
+Jam 	5 	4 	1 	7 	1 	labourers 	NNS
+Jam 	5 	4 	1 	8 	1 	who 	WP
+Jam 	5 	4 	1 	9 	1 	have 	VB
+Jam 	5 	4 	1 	10 	1 	reaped 	NN
+Jam 	5 	4 	1 	11 	1 	down 	RB
+Jam 	5 	4 	1 	12 	1 	your 	PRP$
+Jam 	5 	4 	1 	13 	1 	fields 	NNS
+Jam 	5 	4 	1 	14 	0 	,
+Jam 	5 	4 	1 	15 	1 	which 	WDT
+Jam 	5 	4 	1 	16 	1 	is 	VBZ
+Jam 	5 	4 	1 	17 	1 	of 	IN
+Jam 	5 	4 	1 	18 	1 	you 	PRP
+Jam 	5 	4 	1 	19 	1 	kept 	NN
+Jam 	5 	4 	1 	20 	1 	back 	RB
+Jam 	5 	4 	1 	21 	1 	by 	IN
+Jam 	5 	4 	1 	22 	1 	fraud 	NN
+Jam 	5 	4 	1 	23 	0 	,
+Jam 	5 	4 	1 	24 	1 	crieth 	NNS
+Jam 	5 	4 	1 	25 	0 	:
+Jam 	5 	4 	1 	26 	1 	and 	CC
+Jam 	5 	4 	1 	27 	1 	the 	DT
+Jam 	5 	4 	1 	28 	1 	cries 	NNS
+Jam 	5 	4 	1 	29 	1 	of 	IN
+Jam 	5 	4 	1 	30 	1 	them 	PRP
+Jam 	5 	4 	1 	31 	1 	which 	WDT
+Jam 	5 	4 	1 	32 	1 	have 	VB
+Jam 	5 	4 	1 	33 	1 	reaped 	NN
+Jam 	5 	4 	1 	34 	1 	are 	VBP
+Jam 	5 	4 	1 	35 	1 	entered 	VBN
+Jam 	5 	4 	1 	36 	1 	into 	IN
+Jam 	5 	4 	1 	37 	1 	the 	DT
+Jam 	5 	4 	1 	38 	1 	ears 	NNS
+Jam 	5 	4 	1 	39 	1 	of 	IN
+Jam 	5 	4 	1 	40 	1 	the 	DT
+Jam 	5 	4 	1 	41 	1 	Lord 	NN
+Jam 	5 	4 	1 	42 	1 	of 	IN
+Jam 	5 	4 	1 	43 	1 	sabaoth 	NN
+Jam 	5 	4 	1 	44 	0 	.
+Jam 	5 	5 	1 	1 	1 	Ye 	NN
+Jam 	5 	5 	1 	2 	1 	have 	VB
+Jam 	5 	5 	1 	3 	1 	lived 	VBD
+Jam 	5 	5 	1 	4 	1 	in 	IN
+Jam 	5 	5 	1 	5 	1 	pleasure 	NN
+Jam 	5 	5 	1 	6 	1 	on 	IN
+Jam 	5 	5 	1 	7 	1 	the 	DT
+Jam 	5 	5 	1 	8 	1 	earth 	NN
+Jam 	5 	5 	1 	9 	0 	,
+Jam 	5 	5 	1 	10 	1 	and 	CC
+Jam 	5 	5 	1 	11 	1 	been 	VBN
+Jam 	5 	5 	1 	12 	1 	wanton 	NN
+Jam 	5 	5 	1 	13 	0 	;
+Jam 	5 	5 	1 	14 	1 	ye 	NN
+Jam 	5 	5 	1 	15 	1 	have 	VB
+Jam 	5 	5 	1 	16 	1 	nourished 	VBN
+Jam 	5 	5 	1 	17 	1 	your 	PRP$
+Jam 	5 	5 	1 	18 	1 	hearts 	NNS
+Jam 	5 	5 	1 	19 	0 	,
+Jam 	5 	5 	1 	20 	1 	as 	IN
+Jam 	5 	5 	1 	21 	1 	in 	IN
+Jam 	5 	5 	1 	22 	1 	a 	DT
+Jam 	5 	5 	1 	23 	1 	day 	NN
+Jam 	5 	5 	1 	24 	1 	of 	IN
+Jam 	5 	5 	1 	25 	1 	slaughter 	NN
+Jam 	5 	5 	1 	26 	0 	.
+Jam 	5 	6 	1 	1 	1 	Ye 	NN
+Jam 	5 	6 	1 	2 	1 	have 	VB
+Jam 	5 	6 	1 	3 	1 	condemned 	VBN
+Jam 	5 	6 	1 	4 	1 	and 	CC
+Jam 	5 	6 	1 	5 	1 	killed 	VBN
+Jam 	5 	6 	1 	6 	1 	the 	DT
+Jam 	5 	6 	1 	7 	1 	just 	RB
+Jam 	5 	6 	1 	8 	0 	;
+Jam 	5 	6 	1 	9 	1 	and 	CC
+Jam 	5 	6 	1 	10 	1 	he 	PRP
+Jam 	5 	6 	1 	11 	1 	doth 	NN
+Jam 	5 	6 	1 	12 	1 	not 	RB
+Jam 	5 	6 	1 	13 	1 	resist 	NN
+Jam 	5 	6 	1 	14 	1 	you 	PRP
+Jam 	5 	6 	1 	15 	0 	.
+Jam 	5 	7 	1 	1 	1 	Be 	VB
+Jam 	5 	7 	1 	2 	1 	patient 	NN
+Jam 	5 	7 	1 	3 	1 	therefore 	RB
+Jam 	5 	7 	1 	4 	0 	,
+Jam 	5 	7 	1 	5 	1 	brethren 	NNS
+Jam 	5 	7 	1 	6 	0 	,
+Jam 	5 	7 	1 	7 	1 	unto 	NN
+Jam 	5 	7 	1 	8 	1 	the 	DT
+Jam 	5 	7 	1 	9 	1 	coming 	VBG
+Jam 	5 	7 	1 	10 	1 	of 	IN
+Jam 	5 	7 	1 	11 	1 	the 	DT
+Jam 	5 	7 	1 	12 	1 	Lord 	NN
+Jam 	5 	7 	1 	13 	0 	.
+Jam 	5 	7 	2 	1 	1 	Behold 	NN
+Jam 	5 	7 	2 	2 	0 	,
+Jam 	5 	7 	2 	3 	1 	the 	DT
+Jam 	5 	7 	2 	4 	1 	husbandman 	NN
+Jam 	5 	7 	2 	5 	1 	waiteth 	NNS
+Jam 	5 	7 	2 	6 	1 	for 	IN
+Jam 	5 	7 	2 	7 	1 	the 	DT
+Jam 	5 	7 	2 	8 	1 	precious 	JJ
+Jam 	5 	7 	2 	9 	1 	fruit 	NN
+Jam 	5 	7 	2 	10 	1 	of 	IN
+Jam 	5 	7 	2 	11 	1 	the 	DT
+Jam 	5 	7 	2 	12 	1 	earth 	NN
+Jam 	5 	7 	2 	13 	0 	,
+Jam 	5 	7 	2 	14 	1 	and 	CC
+Jam 	5 	7 	2 	15 	1 	hath 	NN
+Jam 	5 	7 	2 	16 	1 	long 	RB
+Jam 	5 	7 	2 	17 	1 	patience 	NN
+Jam 	5 	7 	2 	18 	1 	for 	IN
+Jam 	5 	7 	2 	19 	1 	it 	PRP
+Jam 	5 	7 	2 	20 	0 	,
+Jam 	5 	7 	2 	21 	1 	until 	IN
+Jam 	5 	7 	2 	22 	1 	he 	PRP
+Jam 	5 	7 	2 	23 	1 	receive 	NN
+Jam 	5 	7 	2 	24 	1 	the 	DT
+Jam 	5 	7 	2 	25 	1 	early 	RB
+Jam 	5 	7 	2 	26 	1 	and 	CC
+Jam 	5 	7 	2 	27 	1 	latter 	NN
+Jam 	5 	7 	2 	28 	1 	rain 	NN
+Jam 	5 	7 	2 	29 	0 	.
+Jam 	5 	8 	1 	1 	1 	Be 	VB
+Jam 	5 	8 	1 	2 	1 	ye 	NN
+Jam 	5 	8 	1 	3 	1 	also 	RB
+Jam 	5 	8 	1 	4 	1 	patient 	NN
+Jam 	5 	8 	1 	5 	0 	;
+Jam 	5 	8 	1 	6 	1 	stablish 	NN
+Jam 	5 	8 	1 	7 	1 	your 	PRP$
+Jam 	5 	8 	1 	8 	1 	hearts 	NNS
+Jam 	5 	8 	1 	9 	0 	:
+Jam 	5 	8 	1 	10 	1 	for 	IN
+Jam 	5 	8 	1 	11 	1 	the 	DT
+Jam 	5 	8 	1 	12 	1 	coming 	VBG
+Jam 	5 	8 	1 	13 	1 	of 	IN
+Jam 	5 	8 	1 	14 	1 	the 	DT
+Jam 	5 	8 	1 	15 	1 	Lord 	NN
+Jam 	5 	8 	1 	16 	1 	draweth 	NN
+Jam 	5 	8 	1 	17 	1 	nigh 	JJ
+Jam 	5 	8 	1 	18 	0 	.
+Jam 	5 	9 	1 	1 	1 	Grudge 	NN
+Jam 	5 	9 	1 	2 	1 	not 	RB
+Jam 	5 	9 	1 	3 	1 	one 	CD
+Jam 	5 	9 	1 	4 	1 	against 	IN
+Jam 	5 	9 	1 	5 	1 	another 	DT
+Jam 	5 	9 	1 	6 	0 	,
+Jam 	5 	9 	1 	7 	1 	brethren 	NNS
+Jam 	5 	9 	1 	8 	0 	,
+Jam 	5 	9 	1 	9 	1 	lest 	JJS
+Jam 	5 	9 	1 	10 	1 	ye 	NN
+Jam 	5 	9 	1 	11 	1 	be 	VB
+Jam 	5 	9 	1 	12 	1 	condemned 	VBN
+Jam 	5 	9 	1 	13 	0 	:
+Jam 	5 	9 	1 	14 	1 	behold 	NN
+Jam 	5 	9 	1 	15 	0 	,
+Jam 	5 	9 	1 	16 	1 	the 	DT
+Jam 	5 	9 	1 	17 	1 	judge 	NN
+Jam 	5 	9 	1 	18 	1 	standeth 	NN
+Jam 	5 	9 	1 	19 	1 	before 	IN
+Jam 	5 	9 	1 	20 	1 	the 	DT
+Jam 	5 	9 	1 	21 	1 	door 	NN
+Jam 	5 	9 	1 	22 	0 	.
+Jam 	5 	10 	1 	1 	1 	Take 	VB
+Jam 	5 	10 	1 	2 	0 	,
+Jam 	5 	10 	1 	3 	1 	my 	PRP$
+Jam 	5 	10 	1 	4 	1 	brethren 	NNS
+Jam 	5 	10 	1 	5 	0 	,
+Jam 	5 	10 	1 	6 	1 	the 	DT
+Jam 	5 	10 	1 	7 	1 	prophets 	NNS
+Jam 	5 	10 	1 	8 	0 	,
+Jam 	5 	10 	1 	9 	1 	who 	WP
+Jam 	5 	10 	1 	10 	1 	have 	VB
+Jam 	5 	10 	1 	11 	1 	spoken 	NN
+Jam 	5 	10 	1 	12 	1 	in 	IN
+Jam 	5 	10 	1 	13 	1 	the 	DT
+Jam 	5 	10 	1 	14 	1 	name 	NN
+Jam 	5 	10 	1 	15 	1 	of 	IN
+Jam 	5 	10 	1 	16 	1 	the 	DT
+Jam 	5 	10 	1 	17 	1 	Lord 	NN
+Jam 	5 	10 	1 	18 	0 	,
+Jam 	5 	10 	1 	19 	1 	for 	IN
+Jam 	5 	10 	1 	20 	1 	an 	DT
+Jam 	5 	10 	1 	21 	1 	example 	NN
+Jam 	5 	10 	1 	22 	1 	of 	IN
+Jam 	5 	10 	1 	23 	1 	suffering 	VBG
+Jam 	5 	10 	1 	24 	1 	affliction 	NN
+Jam 	5 	10 	1 	25 	0 	,
+Jam 	5 	10 	1 	26 	1 	and 	CC
+Jam 	5 	10 	1 	27 	1 	of 	IN
+Jam 	5 	10 	1 	28 	1 	patience 	NN
+Jam 	5 	10 	1 	29 	0 	.
+Jam 	5 	11 	1 	1 	1 	Behold 	NN
+Jam 	5 	11 	1 	2 	0 	,
+Jam 	5 	11 	1 	3 	1 	we 	PRP
+Jam 	5 	11 	1 	4 	1 	count 	NN
+Jam 	5 	11 	1 	5 	1 	them 	PRP
+Jam 	5 	11 	1 	6 	1 	happy 	JJ
+Jam 	5 	11 	1 	7 	1 	which 	WDT
+Jam 	5 	11 	1 	8 	1 	endure 	NN
+Jam 	5 	11 	1 	9 	0 	.
+Jam 	5 	11 	2 	1 	1 	Ye 	NN
+Jam 	5 	11 	2 	2 	1 	have 	VB
+Jam 	5 	11 	2 	3 	1 	heard 	NN
+Jam 	5 	11 	2 	4 	1 	of 	IN
+Jam 	5 	11 	2 	5 	1 	the 	DT
+Jam 	5 	11 	2 	6 	1 	patience 	NN
+Jam 	5 	11 	2 	7 	1 	of 	IN
+Jam 	5 	11 	2 	8 	1 	Job 	NN
+Jam 	5 	11 	2 	9 	0 	,
+Jam 	5 	11 	2 	10 	1 	and 	CC
+Jam 	5 	11 	2 	11 	1 	have 	VB
+Jam 	5 	11 	2 	12 	1 	seen 	VBN
+Jam 	5 	11 	2 	13 	1 	the 	DT
+Jam 	5 	11 	2 	14 	1 	end 	NN
+Jam 	5 	11 	2 	15 	1 	of 	IN
+Jam 	5 	11 	2 	16 	1 	the 	DT
+Jam 	5 	11 	2 	17 	1 	Lord 	NN
+Jam 	5 	11 	2 	18 	0 	;
+Jam 	5 	11 	2 	19 	1 	that 	IN
+Jam 	5 	11 	2 	20 	1 	the 	DT
+Jam 	5 	11 	2 	21 	1 	Lord 	NN
+Jam 	5 	11 	2 	22 	1 	is 	VBZ
+Jam 	5 	11 	2 	23 	1 	very 	RB
+Jam 	5 	11 	2 	24 	1 	pitiful 	NN
+Jam 	5 	11 	2 	25 	0 	,
+Jam 	5 	11 	2 	26 	1 	and 	CC
+Jam 	5 	11 	2 	27 	1 	of 	IN
+Jam 	5 	11 	2 	28 	1 	tender 	NN
+Jam 	5 	11 	2 	29 	1 	mercy 	NN
+Jam 	5 	11 	2 	30 	0 	.
+Jam 	5 	12 	1 	1 	1 	But 	CC
+Jam 	5 	12 	1 	2 	1 	above 	IN
+Jam 	5 	12 	1 	3 	1 	all 	DT
+Jam 	5 	12 	1 	4 	1 	things 	NNS
+Jam 	5 	12 	1 	5 	0 	,
+Jam 	5 	12 	1 	6 	1 	my 	PRP$
+Jam 	5 	12 	1 	7 	1 	brethren 	NNS
+Jam 	5 	12 	1 	8 	0 	,
+Jam 	5 	12 	1 	9 	1 	swear 	NN
+Jam 	5 	12 	1 	10 	1 	not 	RB
+Jam 	5 	12 	1 	11 	0 	,
+Jam 	5 	12 	1 	12 	1 	neither 	DT
+Jam 	5 	12 	1 	13 	1 	by 	IN
+Jam 	5 	12 	1 	14 	1 	heaven 	NN
+Jam 	5 	12 	1 	15 	0 	,
+Jam 	5 	12 	1 	16 	1 	neither 	DT
+Jam 	5 	12 	1 	17 	1 	by 	IN
+Jam 	5 	12 	1 	18 	1 	the 	DT
+Jam 	5 	12 	1 	19 	1 	earth 	NN
+Jam 	5 	12 	1 	20 	0 	,
+Jam 	5 	12 	1 	21 	1 	neither 	DT
+Jam 	5 	12 	1 	22 	1 	by 	IN
+Jam 	5 	12 	1 	23 	1 	any 	DT
+Jam 	5 	12 	1 	24 	1 	other 	JJ
+Jam 	5 	12 	1 	25 	1 	oath 	NN
+Jam 	5 	12 	1 	26 	0 	:
+Jam 	5 	12 	1 	27 	1 	but 	CC
+Jam 	5 	12 	1 	28 	1 	let 	VB
+Jam 	5 	12 	1 	29 	1 	your 	PRP$
+Jam 	5 	12 	1 	30 	1 	yea 	NN
+Jam 	5 	12 	1 	31 	1 	be 	VB
+Jam 	5 	12 	1 	32 	1 	yea 	NN
+Jam 	5 	12 	1 	33 	0 	;
+Jam 	5 	12 	1 	34 	1 	and 	CC
+Jam 	5 	12 	1 	35 	1 	your 	PRP$
+Jam 	5 	12 	1 	36 	1 	nay 	NN
+Jam 	5 	12 	1 	37 	0 	,
+Jam 	5 	12 	1 	38 	1 	nay 	NN
+Jam 	5 	12 	1 	39 	0 	;
+Jam 	5 	12 	1 	40 	1 	lest 	JJS
+Jam 	5 	12 	1 	41 	1 	ye 	NN
+Jam 	5 	12 	1 	42 	1 	fall 	NN
+Jam 	5 	12 	1 	43 	1 	into 	IN
+Jam 	5 	12 	1 	44 	1 	condemnation 	NN
+Jam 	5 	12 	1 	45 	0 	.
+Jam 	5 	13 	1 	1 	1 	Is 	NN
+Jam 	5 	13 	1 	2 	1 	any 	DT
+Jam 	5 	13 	1 	3 	1 	among 	IN
+Jam 	5 	13 	1 	4 	1 	you 	PRP
+Jam 	5 	13 	1 	5 	1 	afflicted 	VBN
+Jam 	5 	13 	1 	6 	0 	?
+Jam 	5 	13 	2 	1 	1 	let 	VB
+Jam 	5 	13 	2 	2 	1 	him 	PRP
+Jam 	5 	13 	2 	3 	1 	pray 	NN
+Jam 	5 	13 	2 	4 	0 	.
+Jam 	5 	13 	3 	1 	1 	Is 	NN
+Jam 	5 	13 	3 	2 	1 	any 	DT
+Jam 	5 	13 	3 	3 	1 	merry 	NN
+Jam 	5 	13 	3 	4 	0 	?
+Jam 	5 	13 	4 	1 	1 	let 	VB
+Jam 	5 	13 	4 	2 	1 	him 	PRP
+Jam 	5 	13 	4 	3 	1 	sing 	VBG
+Jam 	5 	13 	4 	4 	1 	psalms 	NNS
+Jam 	5 	13 	4 	5 	0 	.
+Jam 	5 	14 	1 	1 	1 	Is 	NN
+Jam 	5 	14 	1 	2 	1 	any 	DT
+Jam 	5 	14 	1 	3 	1 	sick 	NN
+Jam 	5 	14 	1 	4 	1 	among 	IN
+Jam 	5 	14 	1 	5 	1 	you 	PRP
+Jam 	5 	14 	1 	6 	0 	?
+Jam 	5 	14 	2 	1 	1 	let 	VB
+Jam 	5 	14 	2 	2 	1 	him 	PRP
+Jam 	5 	14 	2 	3 	1 	call 	NN
+Jam 	5 	14 	2 	4 	1 	for 	IN
+Jam 	5 	14 	2 	5 	1 	the 	DT
+Jam 	5 	14 	2 	6 	1 	elders 	NNS
+Jam 	5 	14 	2 	7 	1 	of 	IN
+Jam 	5 	14 	2 	8 	1 	the 	DT
+Jam 	5 	14 	2 	9 	1 	church 	NN
+Jam 	5 	14 	2 	10 	0 	;
+Jam 	5 	14 	2 	11 	1 	and 	CC
+Jam 	5 	14 	2 	12 	1 	let 	VB
+Jam 	5 	14 	2 	13 	1 	them 	PRP
+Jam 	5 	14 	2 	14 	1 	pray 	NN
+Jam 	5 	14 	2 	15 	1 	over 	IN
+Jam 	5 	14 	2 	16 	1 	him 	PRP
+Jam 	5 	14 	2 	17 	0 	,
+Jam 	5 	14 	2 	18 	1 	anointing 	VBG
+Jam 	5 	14 	2 	19 	1 	him 	PRP
+Jam 	5 	14 	2 	20 	1 	with 	IN
+Jam 	5 	14 	2 	21 	1 	oil 	NN
+Jam 	5 	14 	2 	22 	1 	in 	IN
+Jam 	5 	14 	2 	23 	1 	the 	DT
+Jam 	5 	14 	2 	24 	1 	name 	NN
+Jam 	5 	14 	2 	25 	1 	of 	IN
+Jam 	5 	14 	2 	26 	1 	the 	DT
+Jam 	5 	14 	2 	27 	1 	Lord 	NN
+Jam 	5 	14 	2 	28 	0 	:
+Jam 	5 	15 	1 	1 	1 	And 	CC
+Jam 	5 	15 	1 	2 	1 	the 	DT
+Jam 	5 	15 	1 	3 	1 	prayer 	NN
+Jam 	5 	15 	1 	4 	1 	of 	IN
+Jam 	5 	15 	1 	5 	1 	faith 	NN
+Jam 	5 	15 	1 	6 	1 	shall 	MD
+Jam 	5 	15 	1 	7 	1 	save 	VB
+Jam 	5 	15 	1 	8 	1 	the 	DT
+Jam 	5 	15 	1 	9 	1 	sick 	NN
+Jam 	5 	15 	1 	10 	0 	,
+Jam 	5 	15 	1 	11 	1 	and 	CC
+Jam 	5 	15 	1 	12 	1 	the 	DT
+Jam 	5 	15 	1 	13 	1 	Lord 	NN
+Jam 	5 	15 	1 	14 	1 	shall 	MD
+Jam 	5 	15 	1 	15 	1 	raise 	NN
+Jam 	5 	15 	1 	16 	1 	him 	PRP
+Jam 	5 	15 	1 	17 	1 	up 	RB
+Jam 	5 	15 	1 	18 	0 	;
+Jam 	5 	15 	1 	19 	1 	and 	CC
+Jam 	5 	15 	1 	20 	1 	if 	IN
+Jam 	5 	15 	1 	21 	1 	he 	PRP
+Jam 	5 	15 	1 	22 	1 	have 	VB
+Jam 	5 	15 	1 	23 	1 	committed 	VBN
+Jam 	5 	15 	1 	24 	1 	sins 	NNS
+Jam 	5 	15 	1 	25 	0 	,
+Jam 	5 	15 	1 	26 	1 	they 	PRP
+Jam 	5 	15 	1 	27 	1 	shall 	MD
+Jam 	5 	15 	1 	28 	1 	be 	VB
+Jam 	5 	15 	1 	29 	1 	forgiven 	RB
+Jam 	5 	15 	1 	30 	1 	him 	PRP
+Jam 	5 	15 	1 	31 	0 	.
+Jam 	5 	16 	1 	1 	1 	Confess 	NN
+Jam 	5 	16 	1 	2 	1 	your 	PRP$
+Jam 	5 	16 	1 	3 	1 	faults 	NNS
+Jam 	5 	16 	1 	4 	1 	one 	CD
+Jam 	5 	16 	1 	5 	1 	to 	TO
+Jam 	5 	16 	1 	6 	1 	another 	DT
+Jam 	5 	16 	1 	7 	0 	,
+Jam 	5 	16 	1 	8 	1 	and 	CC
+Jam 	5 	16 	1 	9 	1 	pray 	NN
+Jam 	5 	16 	1 	10 	1 	one 	CD
+Jam 	5 	16 	1 	11 	1 	for 	IN
+Jam 	5 	16 	1 	12 	1 	another 	DT
+Jam 	5 	16 	1 	13 	0 	,
+Jam 	5 	16 	1 	14 	1 	that 	IN
+Jam 	5 	16 	1 	15 	1 	ye 	NN
+Jam 	5 	16 	1 	16 	1 	may 	MD
+Jam 	5 	16 	1 	17 	1 	be 	VB
+Jam 	5 	16 	1 	18 	1 	healed 	VBN
+Jam 	5 	16 	1 	19 	0 	.
+Jam 	5 	16 	2 	1 	1 	The 	DT
+Jam 	5 	16 	2 	2 	1 	effectual 	JJ
+Jam 	5 	16 	2 	3 	1 	fervent 	NN
+Jam 	5 	16 	2 	4 	1 	prayer 	NN
+Jam 	5 	16 	2 	5 	1 	of 	IN
+Jam 	5 	16 	2 	6 	1 	a 	DT
+Jam 	5 	16 	2 	7 	1 	righteous 	JJ
+Jam 	5 	16 	2 	8 	1 	man 	NN
+Jam 	5 	16 	2 	9 	1 	availeth 	NNS
+Jam 	5 	16 	2 	10 	1 	much 	JJ
+Jam 	5 	16 	2 	11 	0 	.
+Jam 	5 	17 	1 	1 	1 	Elias 	NNS
+Jam 	5 	17 	1 	2 	1 	was 	VBD
+Jam 	5 	17 	1 	3 	1 	a 	DT
+Jam 	5 	17 	1 	4 	1 	man 	NN
+Jam 	5 	17 	1 	5 	1 	subject 	NN
+Jam 	5 	17 	1 	6 	1 	to 	TO
+Jam 	5 	17 	1 	7 	1 	like 	IN
+Jam 	5 	17 	1 	8 	1 	passions 	NNS
+Jam 	5 	17 	1 	9 	1 	as 	IN
+Jam 	5 	17 	1 	10 	1 	we 	PRP
+Jam 	5 	17 	1 	11 	1 	are 	VBP
+Jam 	5 	17 	1 	12 	0 	,
+Jam 	5 	17 	1 	13 	1 	and 	CC
+Jam 	5 	17 	1 	14 	1 	he 	PRP
+Jam 	5 	17 	1 	15 	1 	prayed 	NN
+Jam 	5 	17 	1 	16 	1 	earnestly 	RB
+Jam 	5 	17 	1 	17 	1 	that 	IN
+Jam 	5 	17 	1 	18 	1 	it 	PRP
+Jam 	5 	17 	1 	19 	1 	might 	MD
+Jam 	5 	17 	1 	20 	1 	not 	RB
+Jam 	5 	17 	1 	21 	1 	rain 	NN
+Jam 	5 	17 	1 	22 	0 	:
+Jam 	5 	17 	1 	23 	1 	and 	CC
+Jam 	5 	17 	1 	24 	1 	it 	PRP
+Jam 	5 	17 	1 	25 	1 	rained 	VBN
+Jam 	5 	17 	1 	26 	1 	not 	RB
+Jam 	5 	17 	1 	27 	1 	on 	IN
+Jam 	5 	17 	1 	28 	1 	the 	DT
+Jam 	5 	17 	1 	29 	1 	earth 	NN
+Jam 	5 	17 	1 	30 	1 	by 	IN
+Jam 	5 	17 	1 	31 	1 	the 	DT
+Jam 	5 	17 	1 	32 	1 	space 	NN
+Jam 	5 	17 	1 	33 	1 	of 	IN
+Jam 	5 	17 	1 	34 	1 	three 	CD
+Jam 	5 	17 	1 	35 	1 	years 	NNS
+Jam 	5 	17 	1 	36 	1 	and 	CC
+Jam 	5 	17 	1 	37 	1 	six 	CD
+Jam 	5 	17 	1 	38 	1 	months 	NNS
+Jam 	5 	17 	1 	39 	0 	.
+Jam 	5 	18 	1 	1 	1 	And 	CC
+Jam 	5 	18 	1 	2 	1 	he 	PRP
+Jam 	5 	18 	1 	3 	1 	prayed 	NN
+Jam 	5 	18 	1 	4 	1 	again 	RB
+Jam 	5 	18 	1 	5 	0 	,
+Jam 	5 	18 	1 	6 	1 	and 	CC
+Jam 	5 	18 	1 	7 	1 	the 	DT
+Jam 	5 	18 	1 	8 	1 	heaven 	NN
+Jam 	5 	18 	1 	9 	1 	gave 	VBD
+Jam 	5 	18 	1 	10 	1 	rain 	NN
+Jam 	5 	18 	1 	11 	0 	,
+Jam 	5 	18 	1 	12 	1 	and 	CC
+Jam 	5 	18 	1 	13 	1 	the 	DT
+Jam 	5 	18 	1 	14 	1 	earth 	NN
+Jam 	5 	18 	1 	15 	1 	brought 	NN
+Jam 	5 	18 	1 	16 	1 	forth 	NN
+Jam 	5 	18 	1 	17 	1 	her 	PRP$
+Jam 	5 	18 	1 	18 	1 	fruit 	NN
+Jam 	5 	18 	1 	19 	0 	.
+Jam 	5 	19 	1 	1 	1 	Brethren 	NNS
+Jam 	5 	19 	1 	2 	0 	,
+Jam 	5 	19 	1 	3 	1 	if 	IN
+Jam 	5 	19 	1 	4 	1 	any 	DT
+Jam 	5 	19 	1 	5 	1 	of 	IN
+Jam 	5 	19 	1 	6 	1 	you 	PRP
+Jam 	5 	19 	1 	7 	1 	do 	VB
+Jam 	5 	19 	1 	8 	1 	err 	NN
+Jam 	5 	19 	1 	9 	1 	from 	IN
+Jam 	5 	19 	1 	10 	1 	the 	DT
+Jam 	5 	19 	1 	11 	1 	truth 	NN
+Jam 	5 	19 	1 	12 	0 	,
+Jam 	5 	19 	1 	13 	1 	and 	CC
+Jam 	5 	19 	1 	14 	1 	one 	CD
+Jam 	5 	19 	1 	15 	1 	convert 	NN
+Jam 	5 	19 	1 	16 	1 	him 	PRP
+Jam 	5 	19 	1 	17 	0 	;
+Jam 	5 	20 	1 	1 	1 	Let 	VB
+Jam 	5 	20 	1 	2 	1 	him 	PRP
+Jam 	5 	20 	1 	3 	1 	know 	VB
+Jam 	5 	20 	1 	4 	0 	,
+Jam 	5 	20 	1 	5 	1 	that 	IN
+Jam 	5 	20 	1 	6 	1 	he 	PRP
+Jam 	5 	20 	1 	7 	1 	which 	WDT
+Jam 	5 	20 	1 	8 	1 	converteth 	NNS
+Jam 	5 	20 	1 	9 	1 	the 	DT
+Jam 	5 	20 	1 	10 	1 	sinner 	NN
+Jam 	5 	20 	1 	11 	1 	from 	IN
+Jam 	5 	20 	1 	12 	1 	the 	DT
+Jam 	5 	20 	1 	13 	1 	error 	NN
+Jam 	5 	20 	1 	14 	1 	of 	IN
+Jam 	5 	20 	1 	15 	1 	his 	PRP$
+Jam 	5 	20 	1 	16 	1 	way 	NN
+Jam 	5 	20 	1 	17 	1 	shall 	MD
+Jam 	5 	20 	1 	18 	1 	save 	VB
+Jam 	5 	20 	1 	19 	1 	a 	DT
+Jam 	5 	20 	1 	20 	1 	soul 	NN
+Jam 	5 	20 	1 	21 	1 	from 	IN
+Jam 	5 	20 	1 	22 	1 	death 	NN
+Jam 	5 	20 	1 	23 	0 	,
+Jam 	5 	20 	1 	24 	1 	and 	CC
+Jam 	5 	20 	1 	25 	1 	shall 	MD
+Jam 	5 	20 	1 	26 	1 	hide 	NN
+Jam 	5 	20 	1 	27 	1 	a 	DT
+Jam 	5 	20 	1 	28 	1 	multitude 	NN
+Jam 	5 	20 	1 	29 	1 	of 	IN
+Jam 	5 	20 	1 	30 	1 	sins 	NNS
+Jam 	5 	20 	1 	31 	0 	.

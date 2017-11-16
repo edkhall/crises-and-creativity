@@ -1,0 +1,3922 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Lam 	1 	1 	1 	1 	1 	How 	WRB
+Lam 	1 	1 	1 	2 	1 	doth 	NN
+Lam 	1 	1 	1 	3 	1 	the 	DT
+Lam 	1 	1 	1 	4 	1 	city 	NN
+Lam 	1 	1 	1 	5 	1 	sit 	NN
+Lam 	1 	1 	1 	6 	1 	solitary 	JJ
+Lam 	1 	1 	1 	7 	0 	,
+Lam 	1 	1 	1 	8 	1 	that 	IN
+Lam 	1 	1 	1 	9 	1 	was 	VBD
+Lam 	1 	1 	1 	10 	1 	full 	JJ
+Lam 	1 	1 	1 	11 	1 	of 	IN
+Lam 	1 	1 	1 	12 	1 	people 	NNS
+Lam 	1 	1 	1 	13 	0 	!
+Lam 	1 	1 	2 	1 	1 	how 	WRB
+Lam 	1 	1 	2 	2 	1 	is 	VBZ
+Lam 	1 	1 	2 	3 	1 	she 	PRP
+Lam 	1 	1 	2 	4 	1 	become 	NN
+Lam 	1 	1 	2 	5 	1 	as 	IN
+Lam 	1 	1 	2 	6 	1 	a 	DT
+Lam 	1 	1 	2 	7 	1 	widow 	NN
+Lam 	1 	1 	2 	8 	0 	!
+Lam 	1 	1 	3 	1 	1 	she 	PRP
+Lam 	1 	1 	3 	2 	1 	that 	IN
+Lam 	1 	1 	3 	3 	1 	was 	VBD
+Lam 	1 	1 	3 	4 	1 	great 	JJ
+Lam 	1 	1 	3 	5 	1 	among 	IN
+Lam 	1 	1 	3 	6 	1 	the 	DT
+Lam 	1 	1 	3 	7 	1 	nations 	NNS
+Lam 	1 	1 	3 	8 	0 	,
+Lam 	1 	1 	3 	9 	1 	and 	CC
+Lam 	1 	1 	3 	10 	1 	princess 	NN
+Lam 	1 	1 	3 	11 	1 	among 	IN
+Lam 	1 	1 	3 	12 	1 	the 	DT
+Lam 	1 	1 	3 	13 	1 	provinces 	NNS
+Lam 	1 	1 	3 	14 	0 	,
+Lam 	1 	1 	3 	15 	1 	how 	WRB
+Lam 	1 	1 	3 	16 	1 	is 	VBZ
+Lam 	1 	1 	3 	17 	1 	she 	PRP
+Lam 	1 	1 	3 	18 	1 	become 	NN
+Lam 	1 	1 	3 	19 	1 	tributary 	JJ
+Lam 	1 	1 	3 	20 	0 	!
+Lam 	1 	2 	1 	1 	1 	She 	PRP
+Lam 	1 	2 	1 	2 	1 	weepeth 	NNS
+Lam 	1 	2 	1 	3 	1 	sore 	NN
+Lam 	1 	2 	1 	4 	1 	in 	IN
+Lam 	1 	2 	1 	5 	1 	the 	DT
+Lam 	1 	2 	1 	6 	1 	night 	NN
+Lam 	1 	2 	1 	7 	0 	,
+Lam 	1 	2 	1 	8 	1 	and 	CC
+Lam 	1 	2 	1 	9 	1 	her 	PRP$
+Lam 	1 	2 	1 	10 	1 	tears 	NNS
+Lam 	1 	2 	1 	11 	1 	are 	VBP
+Lam 	1 	2 	1 	12 	1 	on 	IN
+Lam 	1 	2 	1 	13 	1 	her 	PRP$
+Lam 	1 	2 	1 	14 	1 	cheeks 	NN
+Lam 	1 	2 	1 	15 	0 	:
+Lam 	1 	2 	1 	16 	1 	among 	IN
+Lam 	1 	2 	1 	17 	1 	all 	DT
+Lam 	1 	2 	1 	18 	1 	her 	PRP$
+Lam 	1 	2 	1 	19 	1 	lovers 	NNS
+Lam 	1 	2 	1 	20 	1 	she 	PRP
+Lam 	1 	2 	1 	21 	1 	hath 	NN
+Lam 	1 	2 	1 	22 	1 	none 	NN
+Lam 	1 	2 	1 	23 	1 	to 	TO
+Lam 	1 	2 	1 	24 	1 	comfort 	NN
+Lam 	1 	2 	1 	25 	1 	her 	PRP$
+Lam 	1 	2 	1 	26 	0 	:
+Lam 	1 	2 	1 	27 	1 	all 	DT
+Lam 	1 	2 	1 	28 	1 	her 	PRP$
+Lam 	1 	2 	1 	29 	1 	friends 	NNS
+Lam 	1 	2 	1 	30 	1 	have 	VB
+Lam 	1 	2 	1 	31 	1 	dealt 	NN
+Lam 	1 	2 	1 	32 	1 	treacherously 	RB
+Lam 	1 	2 	1 	33 	1 	with 	IN
+Lam 	1 	2 	1 	34 	1 	her 	PRP$
+Lam 	1 	2 	1 	35 	0 	,
+Lam 	1 	2 	1 	36 	1 	they 	PRP
+Lam 	1 	2 	1 	37 	1 	are 	VBP
+Lam 	1 	2 	1 	38 	1 	become 	NN
+Lam 	1 	2 	1 	39 	1 	her 	PRP$
+Lam 	1 	2 	1 	40 	1 	enemies 	NNS
+Lam 	1 	2 	1 	41 	0 	.
+Lam 	1 	3 	1 	1 	1 	Judah 	NN
+Lam 	1 	3 	1 	2 	1 	is 	VBZ
+Lam 	1 	3 	1 	3 	1 	gone 	VBN
+Lam 	1 	3 	1 	4 	1 	into 	IN
+Lam 	1 	3 	1 	5 	1 	captivity 	NN
+Lam 	1 	3 	1 	6 	1 	because 	IN
+Lam 	1 	3 	1 	7 	1 	of 	IN
+Lam 	1 	3 	1 	8 	1 	affliction 	NN
+Lam 	1 	3 	1 	9 	0 	,
+Lam 	1 	3 	1 	10 	1 	and 	CC
+Lam 	1 	3 	1 	11 	1 	because 	IN
+Lam 	1 	3 	1 	12 	1 	of 	IN
+Lam 	1 	3 	1 	13 	1 	great 	JJ
+Lam 	1 	3 	1 	14 	1 	servitude 	NN
+Lam 	1 	3 	1 	15 	0 	:
+Lam 	1 	3 	1 	16 	1 	she 	PRP
+Lam 	1 	3 	1 	17 	1 	dwelleth 	NN
+Lam 	1 	3 	1 	18 	1 	among 	IN
+Lam 	1 	3 	1 	19 	1 	the 	DT
+Lam 	1 	3 	1 	20 	1 	heathen 	NN
+Lam 	1 	3 	1 	21 	0 	,
+Lam 	1 	3 	1 	22 	1 	she 	PRP
+Lam 	1 	3 	1 	23 	1 	findeth 	NNS
+Lam 	1 	3 	1 	24 	1 	no 	DT
+Lam 	1 	3 	1 	25 	1 	rest 	NN
+Lam 	1 	3 	1 	26 	0 	:
+Lam 	1 	3 	1 	27 	1 	all 	DT
+Lam 	1 	3 	1 	28 	1 	her 	PRP$
+Lam 	1 	3 	1 	29 	1 	persecutors 	NNS
+Lam 	1 	3 	1 	30 	1 	overtook 	NN
+Lam 	1 	3 	1 	31 	1 	her 	PRP$
+Lam 	1 	3 	1 	32 	1 	between 	IN
+Lam 	1 	3 	1 	33 	1 	the 	DT
+Lam 	1 	3 	1 	34 	1 	straits 	NNS
+Lam 	1 	3 	1 	35 	0 	.
+Lam 	1 	4 	1 	1 	1 	The 	DT
+Lam 	1 	4 	1 	2 	1 	ways 	NNS
+Lam 	1 	4 	1 	3 	1 	of 	IN
+Lam 	1 	4 	1 	4 	1 	Zion 	NN
+Lam 	1 	4 	1 	5 	1 	do 	VB
+Lam 	1 	4 	1 	6 	1 	mourn 	NN
+Lam 	1 	4 	1 	7 	0 	,
+Lam 	1 	4 	1 	8 	1 	because 	IN
+Lam 	1 	4 	1 	9 	1 	none 	NN
+Lam 	1 	4 	1 	10 	1 	come 	VB
+Lam 	1 	4 	1 	11 	1 	to 	TO
+Lam 	1 	4 	1 	12 	1 	the 	DT
+Lam 	1 	4 	1 	13 	1 	solemn 	NN
+Lam 	1 	4 	1 	14 	1 	feasts 	NNS
+Lam 	1 	4 	1 	15 	0 	:
+Lam 	1 	4 	1 	16 	1 	all 	DT
+Lam 	1 	4 	1 	17 	1 	her 	PRP$
+Lam 	1 	4 	1 	18 	1 	gates 	NNS
+Lam 	1 	4 	1 	19 	1 	are 	VBP
+Lam 	1 	4 	1 	20 	1 	desolate 	NN
+Lam 	1 	4 	1 	21 	0 	:
+Lam 	1 	4 	1 	22 	1 	her 	PRP$
+Lam 	1 	4 	1 	23 	1 	priests 	NNS
+Lam 	1 	4 	1 	24 	1 	sigh 	NN
+Lam 	1 	4 	1 	25 	0 	,
+Lam 	1 	4 	1 	26 	1 	her 	PRP$
+Lam 	1 	4 	1 	27 	1 	virgins 	NNS
+Lam 	1 	4 	1 	28 	1 	are 	VBP
+Lam 	1 	4 	1 	29 	1 	afflicted 	VBN
+Lam 	1 	4 	1 	30 	0 	,
+Lam 	1 	4 	1 	31 	1 	and 	CC
+Lam 	1 	4 	1 	32 	1 	she 	PRP
+Lam 	1 	4 	1 	33 	1 	is 	VBZ
+Lam 	1 	4 	1 	34 	1 	in 	IN
+Lam 	1 	4 	1 	35 	1 	bitterness 	NN
+Lam 	1 	4 	1 	36 	0 	.
+Lam 	1 	5 	1 	1 	1 	Her 	PRP$
+Lam 	1 	5 	1 	2 	1 	adversaries 	NNS
+Lam 	1 	5 	1 	3 	1 	are 	VBP
+Lam 	1 	5 	1 	4 	1 	the 	DT
+Lam 	1 	5 	1 	5 	1 	chief 	NN
+Lam 	1 	5 	1 	6 	0 	,
+Lam 	1 	5 	1 	7 	1 	her 	PRP$
+Lam 	1 	5 	1 	8 	1 	enemies 	NNS
+Lam 	1 	5 	1 	9 	1 	prosper 	NN
+Lam 	1 	5 	1 	10 	0 	;
+Lam 	1 	5 	1 	11 	1 	for 	IN
+Lam 	1 	5 	1 	12 	1 	the 	DT
+Lam 	1 	5 	1 	13 	1 	LORD 	NN
+Lam 	1 	5 	1 	14 	1 	hath 	NN
+Lam 	1 	5 	1 	15 	1 	afflicted 	VBN
+Lam 	1 	5 	1 	16 	1 	her 	PRP$
+Lam 	1 	5 	1 	17 	1 	for 	IN
+Lam 	1 	5 	1 	18 	1 	the 	DT
+Lam 	1 	5 	1 	19 	1 	multitude 	NN
+Lam 	1 	5 	1 	20 	1 	of 	IN
+Lam 	1 	5 	1 	21 	1 	her 	PRP$
+Lam 	1 	5 	1 	22 	1 	transgressions 	NNS
+Lam 	1 	5 	1 	23 	0 	:
+Lam 	1 	5 	1 	24 	1 	her 	PRP$
+Lam 	1 	5 	1 	25 	1 	children 	NNS
+Lam 	1 	5 	1 	26 	1 	are 	VBP
+Lam 	1 	5 	1 	27 	1 	gone 	VBN
+Lam 	1 	5 	1 	28 	1 	into 	IN
+Lam 	1 	5 	1 	29 	1 	captivity 	NN
+Lam 	1 	5 	1 	30 	1 	before 	IN
+Lam 	1 	5 	1 	31 	1 	the 	DT
+Lam 	1 	5 	1 	32 	1 	enemy 	NN
+Lam 	1 	5 	1 	33 	0 	.
+Lam 	1 	6 	1 	1 	1 	And 	CC
+Lam 	1 	6 	1 	2 	1 	from 	IN
+Lam 	1 	6 	1 	3 	1 	the 	DT
+Lam 	1 	6 	1 	4 	1 	daughter 	NN
+Lam 	1 	6 	1 	5 	1 	of 	IN
+Lam 	1 	6 	1 	6 	1 	Zion 	NN
+Lam 	1 	6 	1 	7 	1 	all 	DT
+Lam 	1 	6 	1 	8 	1 	her 	PRP$
+Lam 	1 	6 	1 	9 	1 	beauty 	NN
+Lam 	1 	6 	1 	10 	1 	is 	VBZ
+Lam 	1 	6 	1 	11 	1 	departed 	VBN
+Lam 	1 	6 	1 	12 	0 	:
+Lam 	1 	6 	1 	13 	1 	her 	PRP$
+Lam 	1 	6 	1 	14 	1 	princes 	NNS
+Lam 	1 	6 	1 	15 	1 	are 	VBP
+Lam 	1 	6 	1 	16 	1 	become 	NN
+Lam 	1 	6 	1 	17 	1 	like 	IN
+Lam 	1 	6 	1 	18 	1 	harts 	NNS
+Lam 	1 	6 	1 	19 	1 	that 	IN
+Lam 	1 	6 	1 	20 	1 	find 	VB
+Lam 	1 	6 	1 	21 	1 	no 	DT
+Lam 	1 	6 	1 	22 	1 	pasture 	NN
+Lam 	1 	6 	1 	23 	0 	,
+Lam 	1 	6 	1 	24 	1 	and 	CC
+Lam 	1 	6 	1 	25 	1 	they 	PRP
+Lam 	1 	6 	1 	26 	1 	are 	VBP
+Lam 	1 	6 	1 	27 	1 	gone 	VBN
+Lam 	1 	6 	1 	28 	1 	without 	IN
+Lam 	1 	6 	1 	29 	1 	strength 	NN
+Lam 	1 	6 	1 	30 	1 	before 	IN
+Lam 	1 	6 	1 	31 	1 	the 	DT
+Lam 	1 	6 	1 	32 	1 	pursuer 	NN
+Lam 	1 	6 	1 	33 	0 	.
+Lam 	1 	7 	1 	1 	1 	Jerusalem 	NN
+Lam 	1 	7 	1 	2 	1 	remembered 	VBN
+Lam 	1 	7 	1 	3 	1 	in 	IN
+Lam 	1 	7 	1 	4 	1 	the 	DT
+Lam 	1 	7 	1 	5 	1 	days 	NNS
+Lam 	1 	7 	1 	6 	1 	of 	IN
+Lam 	1 	7 	1 	7 	1 	her 	PRP$
+Lam 	1 	7 	1 	8 	1 	affliction 	NN
+Lam 	1 	7 	1 	9 	1 	and 	CC
+Lam 	1 	7 	1 	10 	1 	of 	IN
+Lam 	1 	7 	1 	11 	1 	her 	PRP$
+Lam 	1 	7 	1 	12 	1 	miseries 	NNS
+Lam 	1 	7 	1 	13 	1 	all 	DT
+Lam 	1 	7 	1 	14 	1 	her 	PRP$
+Lam 	1 	7 	1 	15 	1 	pleasant 	NN
+Lam 	1 	7 	1 	16 	1 	things 	NNS
+Lam 	1 	7 	1 	17 	1 	that 	IN
+Lam 	1 	7 	1 	18 	1 	she 	PRP
+Lam 	1 	7 	1 	19 	1 	had 	VBD
+Lam 	1 	7 	1 	20 	1 	in 	IN
+Lam 	1 	7 	1 	21 	1 	the 	DT
+Lam 	1 	7 	1 	22 	1 	days 	NNS
+Lam 	1 	7 	1 	23 	1 	of 	IN
+Lam 	1 	7 	1 	24 	1 	old 	JJ
+Lam 	1 	7 	1 	25 	0 	,
+Lam 	1 	7 	1 	26 	1 	when 	WRB
+Lam 	1 	7 	1 	27 	1 	her 	PRP$
+Lam 	1 	7 	1 	28 	1 	people 	NNS
+Lam 	1 	7 	1 	29 	1 	fell 	VBD
+Lam 	1 	7 	1 	30 	1 	into 	IN
+Lam 	1 	7 	1 	31 	1 	the 	DT
+Lam 	1 	7 	1 	32 	1 	hand 	NN
+Lam 	1 	7 	1 	33 	1 	of 	IN
+Lam 	1 	7 	1 	34 	1 	the 	DT
+Lam 	1 	7 	1 	35 	1 	enemy 	NN
+Lam 	1 	7 	1 	36 	0 	,
+Lam 	1 	7 	1 	37 	1 	and 	CC
+Lam 	1 	7 	1 	38 	1 	none 	NN
+Lam 	1 	7 	1 	39 	1 	did 	VBD
+Lam 	1 	7 	1 	40 	1 	help 	NN
+Lam 	1 	7 	1 	41 	1 	her 	PRP$
+Lam 	1 	7 	1 	42 	0 	:
+Lam 	1 	7 	1 	43 	1 	the 	DT
+Lam 	1 	7 	1 	44 	1 	adversaries 	NNS
+Lam 	1 	7 	1 	45 	1 	saw 	NN
+Lam 	1 	7 	1 	46 	1 	her 	PRP$
+Lam 	1 	7 	1 	47 	0 	,
+Lam 	1 	7 	1 	48 	1 	and 	CC
+Lam 	1 	7 	1 	49 	1 	did 	VBD
+Lam 	1 	7 	1 	50 	1 	mock 	NN
+Lam 	1 	7 	1 	51 	1 	at 	IN
+Lam 	1 	7 	1 	52 	1 	her 	PRP$
+Lam 	1 	7 	1 	53 	1 	sabbaths 	NNS
+Lam 	1 	7 	1 	54 	0 	.
+Lam 	1 	8 	1 	1 	1 	Jerusalem 	NN
+Lam 	1 	8 	1 	2 	1 	hath 	NN
+Lam 	1 	8 	1 	3 	1 	grievously 	RB
+Lam 	1 	8 	1 	4 	1 	sinned 	VBN
+Lam 	1 	8 	1 	5 	0 	;
+Lam 	1 	8 	1 	6 	1 	therefore 	RB
+Lam 	1 	8 	1 	7 	1 	she 	PRP
+Lam 	1 	8 	1 	8 	1 	is 	VBZ
+Lam 	1 	8 	1 	9 	1 	removed 	VBN
+Lam 	1 	8 	1 	10 	0 	:
+Lam 	1 	8 	1 	11 	1 	all 	DT
+Lam 	1 	8 	1 	12 	1 	that 	IN
+Lam 	1 	8 	1 	13 	1 	honoured 	VBN
+Lam 	1 	8 	1 	14 	1 	her 	PRP$
+Lam 	1 	8 	1 	15 	1 	despise 	NN
+Lam 	1 	8 	1 	16 	1 	her 	PRP$
+Lam 	1 	8 	1 	17 	0 	,
+Lam 	1 	8 	1 	18 	1 	because 	IN
+Lam 	1 	8 	1 	19 	1 	they 	PRP
+Lam 	1 	8 	1 	20 	1 	have 	VB
+Lam 	1 	8 	1 	21 	1 	seen 	VBN
+Lam 	1 	8 	1 	22 	1 	her 	PRP$
+Lam 	1 	8 	1 	23 	1 	nakedness 	NN
+Lam 	1 	8 	1 	24 	0 	:
+Lam 	1 	8 	1 	25 	1 	yea 	NN
+Lam 	1 	8 	1 	26 	0 	,
+Lam 	1 	8 	1 	27 	1 	she 	PRP
+Lam 	1 	8 	1 	28 	1 	sigheth 	NN
+Lam 	1 	8 	1 	29 	0 	,
+Lam 	1 	8 	1 	30 	1 	and 	CC
+Lam 	1 	8 	1 	31 	1 	turneth 	NNS
+Lam 	1 	8 	1 	32 	1 	backward 	NN
+Lam 	1 	8 	1 	33 	0 	.
+Lam 	1 	9 	1 	1 	1 	Her 	PRP$
+Lam 	1 	9 	1 	2 	1 	filthiness 	NN
+Lam 	1 	9 	1 	3 	1 	is 	VBZ
+Lam 	1 	9 	1 	4 	1 	in 	IN
+Lam 	1 	9 	1 	5 	1 	her 	PRP$
+Lam 	1 	9 	1 	6 	1 	skirts 	NNS
+Lam 	1 	9 	1 	7 	0 	;
+Lam 	1 	9 	1 	8 	1 	she 	PRP
+Lam 	1 	9 	1 	9 	1 	remembereth 	NN
+Lam 	1 	9 	1 	10 	1 	not 	RB
+Lam 	1 	9 	1 	11 	1 	her 	PRP$
+Lam 	1 	9 	1 	12 	1 	last 	JJ
+Lam 	1 	9 	1 	13 	1 	end 	NN
+Lam 	1 	9 	1 	14 	0 	;
+Lam 	1 	9 	1 	15 	1 	therefore 	RB
+Lam 	1 	9 	1 	16 	1 	she 	PRP
+Lam 	1 	9 	1 	17 	1 	came 	VBD
+Lam 	1 	9 	1 	18 	1 	down 	RB
+Lam 	1 	9 	1 	19 	1 	wonderfully 	RB
+Lam 	1 	9 	1 	20 	0 	:
+Lam 	1 	9 	1 	21 	1 	she 	PRP
+Lam 	1 	9 	1 	22 	1 	had 	VBD
+Lam 	1 	9 	1 	23 	1 	no 	DT
+Lam 	1 	9 	1 	24 	1 	comforter 	NN
+Lam 	1 	9 	1 	25 	0 	.
+Lam 	1 	9 	2 	1 	1 	O 	NN
+Lam 	1 	9 	2 	2 	1 	LORD 	NN
+Lam 	1 	9 	2 	3 	0 	,
+Lam 	1 	9 	2 	4 	1 	behold 	NN
+Lam 	1 	9 	2 	5 	1 	my 	PRP$
+Lam 	1 	9 	2 	6 	1 	affliction 	NN
+Lam 	1 	9 	2 	7 	0 	:
+Lam 	1 	9 	2 	8 	1 	for 	IN
+Lam 	1 	9 	2 	9 	1 	the 	DT
+Lam 	1 	9 	2 	10 	1 	enemy 	NN
+Lam 	1 	9 	2 	11 	1 	hath 	NN
+Lam 	1 	9 	2 	12 	1 	magnified 	VBN
+Lam 	1 	9 	2 	13 	1 	himself 	PRP
+Lam 	1 	9 	2 	14 	0 	.
+Lam 	1 	10 	1 	1 	1 	The 	DT
+Lam 	1 	10 	1 	2 	1 	adversary 	NN
+Lam 	1 	10 	1 	3 	1 	hath 	NN
+Lam 	1 	10 	1 	4 	1 	spread 	NN
+Lam 	1 	10 	1 	5 	1 	out 	IN
+Lam 	1 	10 	1 	6 	1 	his 	PRP$
+Lam 	1 	10 	1 	7 	1 	hand 	NN
+Lam 	1 	10 	1 	8 	1 	upon 	IN
+Lam 	1 	10 	1 	9 	1 	all 	DT
+Lam 	1 	10 	1 	10 	1 	her 	PRP$
+Lam 	1 	10 	1 	11 	1 	pleasant 	NN
+Lam 	1 	10 	1 	12 	1 	things 	NNS
+Lam 	1 	10 	1 	13 	0 	:
+Lam 	1 	10 	1 	14 	1 	for 	IN
+Lam 	1 	10 	1 	15 	1 	she 	PRP
+Lam 	1 	10 	1 	16 	1 	hath 	NN
+Lam 	1 	10 	1 	17 	1 	seen 	VBN
+Lam 	1 	10 	1 	18 	1 	that 	IN
+Lam 	1 	10 	1 	19 	1 	the 	DT
+Lam 	1 	10 	1 	20 	1 	heathen 	NN
+Lam 	1 	10 	1 	21 	1 	entered 	VBN
+Lam 	1 	10 	1 	22 	1 	into 	IN
+Lam 	1 	10 	1 	23 	1 	her 	PRP$
+Lam 	1 	10 	1 	24 	1 	sanctuary 	NN
+Lam 	1 	10 	1 	25 	0 	,
+Lam 	1 	10 	1 	26 	1 	whom 	WP
+Lam 	1 	10 	1 	27 	1 	thou 	NN
+Lam 	1 	10 	1 	28 	1 	didst 	NN
+Lam 	1 	10 	1 	29 	1 	command 	NN
+Lam 	1 	10 	1 	30 	1 	that 	IN
+Lam 	1 	10 	1 	31 	1 	they 	PRP
+Lam 	1 	10 	1 	32 	1 	should 	MD
+Lam 	1 	10 	1 	33 	1 	not 	RB
+Lam 	1 	10 	1 	34 	1 	enter 	NN
+Lam 	1 	10 	1 	35 	1 	into 	IN
+Lam 	1 	10 	1 	36 	1 	thy 	NN
+Lam 	1 	10 	1 	37 	1 	congregation 	NN
+Lam 	1 	10 	1 	38 	0 	.
+Lam 	1 	11 	1 	1 	1 	All 	DT
+Lam 	1 	11 	1 	2 	1 	her 	PRP$
+Lam 	1 	11 	1 	3 	1 	people 	NNS
+Lam 	1 	11 	1 	4 	1 	sigh 	NN
+Lam 	1 	11 	1 	5 	0 	,
+Lam 	1 	11 	1 	6 	1 	they 	PRP
+Lam 	1 	11 	1 	7 	1 	seek 	NN
+Lam 	1 	11 	1 	8 	1 	bread 	NN
+Lam 	1 	11 	1 	9 	0 	;
+Lam 	1 	11 	1 	10 	1 	they 	PRP
+Lam 	1 	11 	1 	11 	1 	have 	VB
+Lam 	1 	11 	1 	12 	1 	given 	VBN
+Lam 	1 	11 	1 	13 	1 	their 	PRP$
+Lam 	1 	11 	1 	14 	1 	pleasant 	NN
+Lam 	1 	11 	1 	15 	1 	things 	NNS
+Lam 	1 	11 	1 	16 	1 	for 	IN
+Lam 	1 	11 	1 	17 	1 	meat 	NN
+Lam 	1 	11 	1 	18 	1 	to 	TO
+Lam 	1 	11 	1 	19 	1 	relieve 	NN
+Lam 	1 	11 	1 	20 	1 	the 	DT
+Lam 	1 	11 	1 	21 	1 	soul 	NN
+Lam 	1 	11 	1 	22 	0 	:
+Lam 	1 	11 	1 	23 	1 	see 	VB
+Lam 	1 	11 	1 	24 	0 	,
+Lam 	1 	11 	1 	25 	1 	O 	NN
+Lam 	1 	11 	1 	26 	1 	LORD 	NN
+Lam 	1 	11 	1 	27 	0 	,
+Lam 	1 	11 	1 	28 	1 	and 	CC
+Lam 	1 	11 	1 	29 	1 	consider 	VB
+Lam 	1 	11 	1 	30 	0 	;
+Lam 	1 	11 	1 	31 	1 	for 	IN
+Lam 	1 	11 	1 	32 	1 	I 	PRP
+Lam 	1 	11 	1 	33 	1 	am 	VBP
+Lam 	1 	11 	1 	34 	1 	become 	NN
+Lam 	1 	11 	1 	35 	1 	vile 	NN
+Lam 	1 	11 	1 	36 	0 	.
+Lam 	1 	12 	1 	1 	1 	Is 	NN
+Lam 	1 	12 	1 	2 	1 	it 	PRP
+Lam 	1 	12 	1 	3 	1 	nothing 	NN
+Lam 	1 	12 	1 	4 	1 	to 	TO
+Lam 	1 	12 	1 	5 	1 	you 	PRP
+Lam 	1 	12 	1 	6 	0 	,
+Lam 	1 	12 	1 	7 	1 	all 	DT
+Lam 	1 	12 	1 	8 	1 	ye 	NN
+Lam 	1 	12 	1 	9 	1 	that 	IN
+Lam 	1 	12 	1 	10 	1 	pass 	NN
+Lam 	1 	12 	1 	11 	1 	by 	IN
+Lam 	1 	12 	1 	12 	0 	?
+Lam 	1 	12 	2 	1 	1 	behold 	NN
+Lam 	1 	12 	2 	2 	0 	,
+Lam 	1 	12 	2 	3 	1 	and 	CC
+Lam 	1 	12 	2 	4 	1 	see 	VB
+Lam 	1 	12 	2 	5 	1 	if 	IN
+Lam 	1 	12 	2 	6 	1 	there 	RB
+Lam 	1 	12 	2 	7 	1 	be 	VB
+Lam 	1 	12 	2 	8 	1 	any 	DT
+Lam 	1 	12 	2 	9 	1 	sorrow 	NN
+Lam 	1 	12 	2 	10 	1 	like 	IN
+Lam 	1 	12 	2 	11 	1 	unto 	NN
+Lam 	1 	12 	2 	12 	1 	my 	PRP$
+Lam 	1 	12 	2 	13 	1 	sorrow 	NN
+Lam 	1 	12 	2 	14 	0 	,
+Lam 	1 	12 	2 	15 	1 	which 	WDT
+Lam 	1 	12 	2 	16 	1 	is 	VBZ
+Lam 	1 	12 	2 	17 	1 	done 	VBN
+Lam 	1 	12 	2 	18 	1 	unto 	NN
+Lam 	1 	12 	2 	19 	1 	me 	PRP
+Lam 	1 	12 	2 	20 	0 	,
+Lam 	1 	12 	2 	21 	1 	wherewith 	NN
+Lam 	1 	12 	2 	22 	1 	the 	DT
+Lam 	1 	12 	2 	23 	1 	LORD 	NN
+Lam 	1 	12 	2 	24 	1 	hath 	NN
+Lam 	1 	12 	2 	25 	1 	afflicted 	VBN
+Lam 	1 	12 	2 	26 	1 	me 	PRP
+Lam 	1 	12 	2 	27 	1 	in 	IN
+Lam 	1 	12 	2 	28 	1 	the 	DT
+Lam 	1 	12 	2 	29 	1 	day 	NN
+Lam 	1 	12 	2 	30 	1 	of 	IN
+Lam 	1 	12 	2 	31 	1 	his 	PRP$
+Lam 	1 	12 	2 	32 	1 	fierce 	NN
+Lam 	1 	12 	2 	33 	1 	anger 	NN
+Lam 	1 	12 	2 	34 	0 	.
+Lam 	1 	13 	1 	1 	1 	From 	IN
+Lam 	1 	13 	1 	2 	1 	above 	IN
+Lam 	1 	13 	1 	3 	1 	hath 	NN
+Lam 	1 	13 	1 	4 	1 	he 	PRP
+Lam 	1 	13 	1 	5 	1 	sent 	NN
+Lam 	1 	13 	1 	6 	1 	fire 	NN
+Lam 	1 	13 	1 	7 	1 	into 	IN
+Lam 	1 	13 	1 	8 	1 	my 	PRP$
+Lam 	1 	13 	1 	9 	1 	bones 	NNS
+Lam 	1 	13 	1 	10 	0 	,
+Lam 	1 	13 	1 	11 	1 	and 	CC
+Lam 	1 	13 	1 	12 	1 	it 	PRP
+Lam 	1 	13 	1 	13 	1 	prevaileth 	NN
+Lam 	1 	13 	1 	14 	1 	against 	IN
+Lam 	1 	13 	1 	15 	1 	them 	PRP
+Lam 	1 	13 	1 	16 	0 	:
+Lam 	1 	13 	1 	17 	1 	he 	PRP
+Lam 	1 	13 	1 	18 	1 	hath 	NN
+Lam 	1 	13 	1 	19 	1 	spread 	NN
+Lam 	1 	13 	1 	20 	1 	a 	DT
+Lam 	1 	13 	1 	21 	1 	net 	NN
+Lam 	1 	13 	1 	22 	1 	for 	IN
+Lam 	1 	13 	1 	23 	1 	my 	PRP$
+Lam 	1 	13 	1 	24 	1 	feet 	NNS
+Lam 	1 	13 	1 	25 	0 	,
+Lam 	1 	13 	1 	26 	1 	he 	PRP
+Lam 	1 	13 	1 	27 	1 	hath 	NN
+Lam 	1 	13 	1 	28 	1 	turned 	VBD
+Lam 	1 	13 	1 	29 	1 	me 	PRP
+Lam 	1 	13 	1 	30 	1 	back 	RB
+Lam 	1 	13 	1 	31 	0 	:
+Lam 	1 	13 	1 	32 	1 	he 	PRP
+Lam 	1 	13 	1 	33 	1 	hath 	NN
+Lam 	1 	13 	1 	34 	1 	made 	VBN
+Lam 	1 	13 	1 	35 	1 	me 	PRP
+Lam 	1 	13 	1 	36 	1 	desolate 	NN
+Lam 	1 	13 	1 	37 	1 	and 	CC
+Lam 	1 	13 	1 	38 	1 	faint 	NN
+Lam 	1 	13 	1 	39 	1 	all 	DT
+Lam 	1 	13 	1 	40 	1 	the 	DT
+Lam 	1 	13 	1 	41 	1 	day 	NN
+Lam 	1 	13 	1 	42 	0 	.
+Lam 	1 	14 	1 	1 	1 	The 	DT
+Lam 	1 	14 	1 	2 	1 	yoke 	NN
+Lam 	1 	14 	1 	3 	1 	of 	IN
+Lam 	1 	14 	1 	4 	1 	my 	PRP$
+Lam 	1 	14 	1 	5 	1 	transgressions 	NNS
+Lam 	1 	14 	1 	6 	1 	is 	VBZ
+Lam 	1 	14 	1 	7 	1 	bound 	NN
+Lam 	1 	14 	1 	8 	1 	by 	IN
+Lam 	1 	14 	1 	9 	1 	his 	PRP$
+Lam 	1 	14 	1 	10 	1 	hand 	NN
+Lam 	1 	14 	1 	11 	0 	:
+Lam 	1 	14 	1 	12 	1 	they 	PRP
+Lam 	1 	14 	1 	13 	1 	are 	VBP
+Lam 	1 	14 	1 	14 	1 	wreathed 	VBN
+Lam 	1 	14 	1 	15 	0 	,
+Lam 	1 	14 	1 	16 	1 	and 	CC
+Lam 	1 	14 	1 	17 	1 	come 	VB
+Lam 	1 	14 	1 	18 	1 	up 	RB
+Lam 	1 	14 	1 	19 	1 	upon 	IN
+Lam 	1 	14 	1 	20 	1 	my 	PRP$
+Lam 	1 	14 	1 	21 	1 	neck 	NN
+Lam 	1 	14 	1 	22 	0 	:
+Lam 	1 	14 	1 	23 	1 	he 	PRP
+Lam 	1 	14 	1 	24 	1 	hath 	NN
+Lam 	1 	14 	1 	25 	1 	made 	VBN
+Lam 	1 	14 	1 	26 	1 	my 	PRP$
+Lam 	1 	14 	1 	27 	1 	strength 	NN
+Lam 	1 	14 	1 	28 	1 	to 	TO
+Lam 	1 	14 	1 	29 	1 	fall 	NN
+Lam 	1 	14 	1 	30 	0 	,
+Lam 	1 	14 	1 	31 	1 	the 	DT
+Lam 	1 	14 	1 	32 	1 	LORD 	NN
+Lam 	1 	14 	1 	33 	1 	hath 	NN
+Lam 	1 	14 	1 	34 	1 	delivered 	VBN
+Lam 	1 	14 	1 	35 	1 	me 	PRP
+Lam 	1 	14 	1 	36 	1 	into 	IN
+Lam 	1 	14 	1 	37 	1 	their 	PRP$
+Lam 	1 	14 	1 	38 	1 	hands 	NNS
+Lam 	1 	14 	1 	39 	0 	,
+Lam 	1 	14 	1 	40 	1 	from 	IN
+Lam 	1 	14 	1 	41 	1 	whom 	WP
+Lam 	1 	14 	1 	42 	1 	I 	PRP
+Lam 	1 	14 	1 	43 	1 	am 	VBP
+Lam 	1 	14 	1 	44 	1 	not 	RB
+Lam 	1 	14 	1 	45 	1 	able 	JJ
+Lam 	1 	14 	1 	46 	1 	to 	TO
+Lam 	1 	14 	1 	47 	1 	rise 	NN
+Lam 	1 	14 	1 	48 	1 	up 	RB
+Lam 	1 	14 	1 	49 	0 	.
+Lam 	1 	15 	1 	1 	1 	The 	DT
+Lam 	1 	15 	1 	2 	1 	LORD 	NN
+Lam 	1 	15 	1 	3 	1 	hath 	NN
+Lam 	1 	15 	1 	4 	1 	trodden 	NN
+Lam 	1 	15 	1 	5 	1 	under 	IN
+Lam 	1 	15 	1 	6 	1 	foot 	NN
+Lam 	1 	15 	1 	7 	1 	all 	DT
+Lam 	1 	15 	1 	8 	1 	my 	PRP$
+Lam 	1 	15 	1 	9 	1 	mighty 	NN
+Lam 	1 	15 	1 	10 	1 	men 	NNS
+Lam 	1 	15 	1 	11 	1 	in 	IN
+Lam 	1 	15 	1 	12 	1 	the 	DT
+Lam 	1 	15 	1 	13 	1 	midst 	NN
+Lam 	1 	15 	1 	14 	1 	of 	IN
+Lam 	1 	15 	1 	15 	1 	me 	PRP
+Lam 	1 	15 	1 	16 	0 	:
+Lam 	1 	15 	1 	17 	1 	he 	PRP
+Lam 	1 	15 	1 	18 	1 	hath 	NN
+Lam 	1 	15 	1 	19 	1 	called 	VBN
+Lam 	1 	15 	1 	20 	1 	an 	DT
+Lam 	1 	15 	1 	21 	1 	assembly 	RB
+Lam 	1 	15 	1 	22 	1 	against 	IN
+Lam 	1 	15 	1 	23 	1 	me 	PRP
+Lam 	1 	15 	1 	24 	1 	to 	TO
+Lam 	1 	15 	1 	25 	1 	crush 	NN
+Lam 	1 	15 	1 	26 	1 	my 	PRP$
+Lam 	1 	15 	1 	27 	1 	young 	JJ
+Lam 	1 	15 	1 	28 	1 	men 	NNS
+Lam 	1 	15 	1 	29 	0 	:
+Lam 	1 	15 	1 	30 	1 	the 	DT
+Lam 	1 	15 	1 	31 	1 	LORD 	NN
+Lam 	1 	15 	1 	32 	1 	hath 	NN
+Lam 	1 	15 	1 	33 	1 	trodden 	NN
+Lam 	1 	15 	1 	34 	1 	the 	DT
+Lam 	1 	15 	1 	35 	1 	virgin 	NN
+Lam 	1 	15 	1 	36 	0 	,
+Lam 	1 	15 	1 	37 	1 	the 	DT
+Lam 	1 	15 	1 	38 	1 	daughter 	NN
+Lam 	1 	15 	1 	39 	1 	of 	IN
+Lam 	1 	15 	1 	40 	1 	Judah 	NN
+Lam 	1 	15 	1 	41 	0 	,
+Lam 	1 	15 	1 	42 	1 	as 	IN
+Lam 	1 	15 	1 	43 	1 	in 	IN
+Lam 	1 	15 	1 	44 	1 	a 	DT
+Lam 	1 	15 	1 	45 	1 	winepress 	NN
+Lam 	1 	15 	1 	46 	0 	.
+Lam 	1 	16 	1 	1 	1 	For 	IN
+Lam 	1 	16 	1 	2 	1 	these 	DT
+Lam 	1 	16 	1 	3 	1 	things 	NNS
+Lam 	1 	16 	1 	4 	1 	I 	PRP
+Lam 	1 	16 	1 	5 	1 	weep 	NN
+Lam 	1 	16 	1 	6 	0 	;
+Lam 	1 	16 	1 	7 	1 	mine 	NN
+Lam 	1 	16 	1 	8 	1 	eye 	NN
+Lam 	1 	16 	1 	9 	0 	,
+Lam 	1 	16 	1 	10 	1 	mine 	NN
+Lam 	1 	16 	1 	11 	1 	eye 	NN
+Lam 	1 	16 	1 	12 	1 	runneth 	NN
+Lam 	1 	16 	1 	13 	1 	down 	RB
+Lam 	1 	16 	1 	14 	1 	with 	IN
+Lam 	1 	16 	1 	15 	1 	water 	NN
+Lam 	1 	16 	1 	16 	0 	,
+Lam 	1 	16 	1 	17 	1 	because 	IN
+Lam 	1 	16 	1 	18 	1 	the 	DT
+Lam 	1 	16 	1 	19 	1 	comforter 	NN
+Lam 	1 	16 	1 	20 	1 	that 	IN
+Lam 	1 	16 	1 	21 	1 	should 	MD
+Lam 	1 	16 	1 	22 	1 	relieve 	NN
+Lam 	1 	16 	1 	23 	1 	my 	PRP$
+Lam 	1 	16 	1 	24 	1 	soul 	NN
+Lam 	1 	16 	1 	25 	1 	is 	VBZ
+Lam 	1 	16 	1 	26 	1 	far 	RB
+Lam 	1 	16 	1 	27 	1 	from 	IN
+Lam 	1 	16 	1 	28 	1 	me 	PRP
+Lam 	1 	16 	1 	29 	0 	:
+Lam 	1 	16 	1 	30 	1 	my 	PRP$
+Lam 	1 	16 	1 	31 	1 	children 	NNS
+Lam 	1 	16 	1 	32 	1 	are 	VBP
+Lam 	1 	16 	1 	33 	1 	desolate 	NN
+Lam 	1 	16 	1 	34 	0 	,
+Lam 	1 	16 	1 	35 	1 	because 	IN
+Lam 	1 	16 	1 	36 	1 	the 	DT
+Lam 	1 	16 	1 	37 	1 	enemy 	NN
+Lam 	1 	16 	1 	38 	1 	prevailed 	VBN
+Lam 	1 	16 	1 	39 	0 	.
+Lam 	1 	17 	1 	1 	1 	Zion 	NN
+Lam 	1 	17 	1 	2 	1 	spreadeth 	NN
+Lam 	1 	17 	1 	3 	1 	forth 	NN
+Lam 	1 	17 	1 	4 	1 	her 	PRP$
+Lam 	1 	17 	1 	5 	1 	hands 	NNS
+Lam 	1 	17 	1 	6 	0 	,
+Lam 	1 	17 	1 	7 	1 	and 	CC
+Lam 	1 	17 	1 	8 	1 	there 	RB
+Lam 	1 	17 	1 	9 	1 	is 	VBZ
+Lam 	1 	17 	1 	10 	1 	none 	NN
+Lam 	1 	17 	1 	11 	1 	to 	TO
+Lam 	1 	17 	1 	12 	1 	comfort 	NN
+Lam 	1 	17 	1 	13 	1 	her 	PRP$
+Lam 	1 	17 	1 	14 	0 	:
+Lam 	1 	17 	1 	15 	1 	the 	DT
+Lam 	1 	17 	1 	16 	1 	LORD 	NN
+Lam 	1 	17 	1 	17 	1 	hath 	NN
+Lam 	1 	17 	1 	18 	1 	commanded 	VBN
+Lam 	1 	17 	1 	19 	1 	concerning 	VBG
+Lam 	1 	17 	1 	20 	1 	Jacob 	NN
+Lam 	1 	17 	1 	21 	0 	,
+Lam 	1 	17 	1 	22 	1 	that 	IN
+Lam 	1 	17 	1 	23 	1 	his 	PRP$
+Lam 	1 	17 	1 	24 	1 	adversaries 	NNS
+Lam 	1 	17 	1 	25 	1 	should 	MD
+Lam 	1 	17 	1 	26 	1 	be 	VB
+Lam 	1 	17 	1 	27 	1 	round 	NN
+Lam 	1 	17 	1 	28 	1 	about 	IN
+Lam 	1 	17 	1 	29 	1 	him 	PRP
+Lam 	1 	17 	1 	30 	0 	:
+Lam 	1 	17 	1 	31 	1 	Jerusalem 	NN
+Lam 	1 	17 	1 	32 	1 	is 	VBZ
+Lam 	1 	17 	1 	33 	1 	as 	IN
+Lam 	1 	17 	1 	34 	1 	a 	DT
+Lam 	1 	17 	1 	35 	1 	menstruous 	JJ
+Lam 	1 	17 	1 	36 	1 	woman 	NN
+Lam 	1 	17 	1 	37 	1 	among 	IN
+Lam 	1 	17 	1 	38 	1 	them 	PRP
+Lam 	1 	17 	1 	39 	0 	.
+Lam 	1 	18 	1 	1 	1 	The 	DT
+Lam 	1 	18 	1 	2 	1 	LORD 	NN
+Lam 	1 	18 	1 	3 	1 	is 	VBZ
+Lam 	1 	18 	1 	4 	1 	righteous 	JJ
+Lam 	1 	18 	1 	5 	0 	;
+Lam 	1 	18 	1 	6 	1 	for 	IN
+Lam 	1 	18 	1 	7 	1 	I 	PRP
+Lam 	1 	18 	1 	8 	1 	have 	VB
+Lam 	1 	18 	1 	9 	1 	rebelled 	VBN
+Lam 	1 	18 	1 	10 	1 	against 	IN
+Lam 	1 	18 	1 	11 	1 	his 	PRP$
+Lam 	1 	18 	1 	12 	1 	commandment 	NN
+Lam 	1 	18 	1 	13 	0 	:
+Lam 	1 	18 	1 	14 	1 	hear 	NN
+Lam 	1 	18 	1 	15 	0 	,
+Lam 	1 	18 	1 	16 	1 	I 	PRP
+Lam 	1 	18 	1 	17 	1 	pray 	NN
+Lam 	1 	18 	1 	18 	1 	you 	PRP
+Lam 	1 	18 	1 	19 	0 	,
+Lam 	1 	18 	1 	20 	1 	all 	DT
+Lam 	1 	18 	1 	21 	1 	people 	NNS
+Lam 	1 	18 	1 	22 	0 	,
+Lam 	1 	18 	1 	23 	1 	and 	CC
+Lam 	1 	18 	1 	24 	1 	behold 	NN
+Lam 	1 	18 	1 	25 	1 	my 	PRP$
+Lam 	1 	18 	1 	26 	1 	sorrow 	NN
+Lam 	1 	18 	1 	27 	0 	:
+Lam 	1 	18 	1 	28 	1 	my 	PRP$
+Lam 	1 	18 	1 	29 	1 	virgins 	NNS
+Lam 	1 	18 	1 	30 	1 	and 	CC
+Lam 	1 	18 	1 	31 	1 	my 	PRP$
+Lam 	1 	18 	1 	32 	1 	young 	JJ
+Lam 	1 	18 	1 	33 	1 	men 	NNS
+Lam 	1 	18 	1 	34 	1 	are 	VBP
+Lam 	1 	18 	1 	35 	1 	gone 	VBN
+Lam 	1 	18 	1 	36 	1 	into 	IN
+Lam 	1 	18 	1 	37 	1 	captivity 	NN
+Lam 	1 	18 	1 	38 	0 	.
+Lam 	1 	19 	1 	1 	1 	I 	PRP
+Lam 	1 	19 	1 	2 	1 	called 	VBN
+Lam 	1 	19 	1 	3 	1 	for 	IN
+Lam 	1 	19 	1 	4 	1 	my 	PRP$
+Lam 	1 	19 	1 	5 	1 	lovers 	NNS
+Lam 	1 	19 	1 	6 	0 	,
+Lam 	1 	19 	1 	7 	1 	but 	CC
+Lam 	1 	19 	1 	8 	1 	they 	PRP
+Lam 	1 	19 	1 	9 	1 	deceived 	VBN
+Lam 	1 	19 	1 	10 	1 	me 	PRP
+Lam 	1 	19 	1 	11 	0 	:
+Lam 	1 	19 	1 	12 	1 	my 	PRP$
+Lam 	1 	19 	1 	13 	1 	priests 	NNS
+Lam 	1 	19 	1 	14 	1 	and 	CC
+Lam 	1 	19 	1 	15 	1 	mine 	NN
+Lam 	1 	19 	1 	16 	1 	elders 	NNS
+Lam 	1 	19 	1 	17 	1 	gave 	VBD
+Lam 	1 	19 	1 	18 	1 	up 	RB
+Lam 	1 	19 	1 	19 	1 	the 	DT
+Lam 	1 	19 	1 	20 	1 	ghost 	NN
+Lam 	1 	19 	1 	21 	1 	in 	IN
+Lam 	1 	19 	1 	22 	1 	the 	DT
+Lam 	1 	19 	1 	23 	1 	city 	NN
+Lam 	1 	19 	1 	24 	0 	,
+Lam 	1 	19 	1 	25 	1 	while 	IN
+Lam 	1 	19 	1 	26 	1 	they 	PRP
+Lam 	1 	19 	1 	27 	1 	sought 	NN
+Lam 	1 	19 	1 	28 	1 	their 	PRP$
+Lam 	1 	19 	1 	29 	1 	meat 	NN
+Lam 	1 	19 	1 	30 	1 	to 	TO
+Lam 	1 	19 	1 	31 	1 	relieve 	NN
+Lam 	1 	19 	1 	32 	1 	their 	PRP$
+Lam 	1 	19 	1 	33 	1 	souls 	NNS
+Lam 	1 	19 	1 	34 	0 	.
+Lam 	1 	20 	1 	1 	1 	Behold 	NN
+Lam 	1 	20 	1 	2 	0 	,
+Lam 	1 	20 	1 	3 	1 	O 	NN
+Lam 	1 	20 	1 	4 	1 	LORD 	NN
+Lam 	1 	20 	1 	5 	0 	;
+Lam 	1 	20 	1 	6 	1 	for 	IN
+Lam 	1 	20 	1 	7 	1 	I 	PRP
+Lam 	1 	20 	1 	8 	1 	am 	VBP
+Lam 	1 	20 	1 	9 	1 	in 	IN
+Lam 	1 	20 	1 	10 	1 	distress 	NN
+Lam 	1 	20 	1 	11 	0 	:
+Lam 	1 	20 	1 	12 	1 	my 	PRP$
+Lam 	1 	20 	1 	13 	1 	bowels 	NNS
+Lam 	1 	20 	1 	14 	1 	are 	VBP
+Lam 	1 	20 	1 	15 	1 	troubled 	JJ
+Lam 	1 	20 	1 	16 	0 	;
+Lam 	1 	20 	1 	17 	1 	mine 	NN
+Lam 	1 	20 	1 	18 	1 	heart 	NN
+Lam 	1 	20 	1 	19 	1 	is 	VBZ
+Lam 	1 	20 	1 	20 	1 	turned 	VBD
+Lam 	1 	20 	1 	21 	1 	within 	IN
+Lam 	1 	20 	1 	22 	1 	me 	PRP
+Lam 	1 	20 	1 	23 	0 	;
+Lam 	1 	20 	1 	24 	1 	for 	IN
+Lam 	1 	20 	1 	25 	1 	I 	PRP
+Lam 	1 	20 	1 	26 	1 	have 	VB
+Lam 	1 	20 	1 	27 	1 	grievously 	RB
+Lam 	1 	20 	1 	28 	1 	rebelled 	VBN
+Lam 	1 	20 	1 	29 	0 	:
+Lam 	1 	20 	1 	30 	1 	abroad 	RB
+Lam 	1 	20 	1 	31 	1 	the 	DT
+Lam 	1 	20 	1 	32 	1 	sword 	NN
+Lam 	1 	20 	1 	33 	1 	bereaveth 	NN
+Lam 	1 	20 	1 	34 	0 	,
+Lam 	1 	20 	1 	35 	1 	at 	IN
+Lam 	1 	20 	1 	36 	1 	home 	NN
+Lam 	1 	20 	1 	37 	1 	there 	RB
+Lam 	1 	20 	1 	38 	1 	is 	VBZ
+Lam 	1 	20 	1 	39 	1 	as 	IN
+Lam 	1 	20 	1 	40 	1 	death 	NN
+Lam 	1 	20 	1 	41 	0 	.
+Lam 	1 	21 	1 	1 	1 	They 	PRP
+Lam 	1 	21 	1 	2 	1 	have 	VB
+Lam 	1 	21 	1 	3 	1 	heard 	NN
+Lam 	1 	21 	1 	4 	1 	that 	IN
+Lam 	1 	21 	1 	5 	1 	I 	PRP
+Lam 	1 	21 	1 	6 	1 	sigh 	NN
+Lam 	1 	21 	1 	7 	0 	:
+Lam 	1 	21 	1 	8 	1 	there 	RB
+Lam 	1 	21 	1 	9 	1 	is 	VBZ
+Lam 	1 	21 	1 	10 	1 	none 	NN
+Lam 	1 	21 	1 	11 	1 	to 	TO
+Lam 	1 	21 	1 	12 	1 	comfort 	NN
+Lam 	1 	21 	1 	13 	1 	me 	PRP
+Lam 	1 	21 	1 	14 	0 	:
+Lam 	1 	21 	1 	15 	1 	all 	DT
+Lam 	1 	21 	1 	16 	1 	mine 	NN
+Lam 	1 	21 	1 	17 	1 	enemies 	NNS
+Lam 	1 	21 	1 	18 	1 	have 	VB
+Lam 	1 	21 	1 	19 	1 	heard 	NN
+Lam 	1 	21 	1 	20 	1 	of 	IN
+Lam 	1 	21 	1 	21 	1 	my 	PRP$
+Lam 	1 	21 	1 	22 	1 	trouble 	NN
+Lam 	1 	21 	1 	23 	0 	;
+Lam 	1 	21 	1 	24 	1 	they 	PRP
+Lam 	1 	21 	1 	25 	1 	are 	VBP
+Lam 	1 	21 	1 	26 	1 	glad 	NN
+Lam 	1 	21 	1 	27 	1 	that 	IN
+Lam 	1 	21 	1 	28 	1 	thou 	NN
+Lam 	1 	21 	1 	29 	1 	hast 	NN
+Lam 	1 	21 	1 	30 	1 	done 	VBN
+Lam 	1 	21 	1 	31 	1 	it 	PRP
+Lam 	1 	21 	1 	32 	0 	:
+Lam 	1 	21 	1 	33 	1 	thou 	NN
+Lam 	1 	21 	1 	34 	1 	wilt 	NN
+Lam 	1 	21 	1 	35 	1 	bring 	NN
+Lam 	1 	21 	1 	36 	1 	the 	DT
+Lam 	1 	21 	1 	37 	1 	day 	NN
+Lam 	1 	21 	1 	38 	1 	that 	IN
+Lam 	1 	21 	1 	39 	1 	thou 	NN
+Lam 	1 	21 	1 	40 	1 	hast 	NN
+Lam 	1 	21 	1 	41 	1 	called 	VBN
+Lam 	1 	21 	1 	42 	0 	,
+Lam 	1 	21 	1 	43 	1 	and 	CC
+Lam 	1 	21 	1 	44 	1 	they 	PRP
+Lam 	1 	21 	1 	45 	1 	shall 	MD
+Lam 	1 	21 	1 	46 	1 	be 	VB
+Lam 	1 	21 	1 	47 	1 	like 	IN
+Lam 	1 	21 	1 	48 	1 	unto 	NN
+Lam 	1 	21 	1 	49 	1 	me 	PRP
+Lam 	1 	21 	1 	50 	0 	.
+Lam 	1 	22 	1 	1 	1 	et 	NN
+Lam 	1 	22 	1 	2 	1 	all 	DT
+Lam 	1 	22 	1 	3 	1 	their 	PRP$
+Lam 	1 	22 	1 	4 	1 	wickedness 	NN
+Lam 	1 	22 	1 	5 	1 	come 	VB
+Lam 	1 	22 	1 	6 	1 	before 	IN
+Lam 	1 	22 	1 	7 	1 	thee 	NN
+Lam 	1 	22 	1 	8 	0 	;
+Lam 	1 	22 	1 	9 	1 	and 	CC
+Lam 	1 	22 	1 	10 	1 	do 	VB
+Lam 	1 	22 	1 	11 	1 	unto 	NN
+Lam 	1 	22 	1 	12 	1 	them 	PRP
+Lam 	1 	22 	1 	13 	0 	,
+Lam 	1 	22 	1 	14 	1 	as 	IN
+Lam 	1 	22 	1 	15 	1 	thou 	NN
+Lam 	1 	22 	1 	16 	1 	hast 	NN
+Lam 	1 	22 	1 	17 	1 	done 	VBN
+Lam 	1 	22 	1 	18 	1 	unto 	NN
+Lam 	1 	22 	1 	19 	1 	me 	PRP
+Lam 	1 	22 	1 	20 	1 	for 	IN
+Lam 	1 	22 	1 	21 	1 	all 	DT
+Lam 	1 	22 	1 	22 	1 	my 	PRP$
+Lam 	1 	22 	1 	23 	1 	transgressions 	NNS
+Lam 	1 	22 	1 	24 	0 	:
+Lam 	1 	22 	1 	25 	1 	for 	IN
+Lam 	1 	22 	1 	26 	1 	my 	PRP$
+Lam 	1 	22 	1 	27 	1 	sighs 	NNS
+Lam 	1 	22 	1 	28 	1 	are 	VBP
+Lam 	1 	22 	1 	29 	1 	many 	JJ
+Lam 	1 	22 	1 	30 	0 	,
+Lam 	1 	22 	1 	31 	1 	and 	CC
+Lam 	1 	22 	1 	32 	1 	my 	PRP$
+Lam 	1 	22 	1 	33 	1 	heart 	NN
+Lam 	1 	22 	1 	34 	1 	is 	VBZ
+Lam 	1 	22 	1 	35 	1 	faint 	NN
+Lam 	1 	22 	1 	36 	0 	.
+Lam 	2 	1 	1 	1 	1 	How 	WRB
+Lam 	2 	1 	1 	2 	1 	hath 	NN
+Lam 	2 	1 	1 	3 	1 	the 	DT
+Lam 	2 	1 	1 	4 	1 	LORD 	NN
+Lam 	2 	1 	1 	5 	1 	covered 	VBN
+Lam 	2 	1 	1 	6 	1 	the 	DT
+Lam 	2 	1 	1 	7 	1 	daughter 	NN
+Lam 	2 	1 	1 	8 	1 	of 	IN
+Lam 	2 	1 	1 	9 	1 	Zion 	NN
+Lam 	2 	1 	1 	10 	1 	with 	IN
+Lam 	2 	1 	1 	11 	1 	a 	DT
+Lam 	2 	1 	1 	12 	1 	cloud 	NN
+Lam 	2 	1 	1 	13 	1 	in 	IN
+Lam 	2 	1 	1 	14 	1 	his 	PRP$
+Lam 	2 	1 	1 	15 	1 	anger 	NN
+Lam 	2 	1 	1 	16 	0 	,
+Lam 	2 	1 	1 	17 	1 	and 	CC
+Lam 	2 	1 	1 	18 	1 	cast 	NN
+Lam 	2 	1 	1 	19 	1 	down 	RB
+Lam 	2 	1 	1 	20 	1 	from 	IN
+Lam 	2 	1 	1 	21 	1 	heaven 	NN
+Lam 	2 	1 	1 	22 	1 	unto 	NN
+Lam 	2 	1 	1 	23 	1 	the 	DT
+Lam 	2 	1 	1 	24 	1 	earth 	NN
+Lam 	2 	1 	1 	25 	1 	the 	DT
+Lam 	2 	1 	1 	26 	1 	beauty 	NN
+Lam 	2 	1 	1 	27 	1 	of 	IN
+Lam 	2 	1 	1 	28 	1 	Israel 	NNP
+Lam 	2 	1 	1 	29 	0 	,
+Lam 	2 	1 	1 	30 	1 	and 	CC
+Lam 	2 	1 	1 	31 	1 	remembered 	VBN
+Lam 	2 	1 	1 	32 	1 	not 	RB
+Lam 	2 	1 	1 	33 	1 	his 	PRP$
+Lam 	2 	1 	1 	34 	1 	footstool 	NN
+Lam 	2 	1 	1 	35 	1 	in 	IN
+Lam 	2 	1 	1 	36 	1 	the 	DT
+Lam 	2 	1 	1 	37 	1 	day 	NN
+Lam 	2 	1 	1 	38 	1 	of 	IN
+Lam 	2 	1 	1 	39 	1 	his 	PRP$
+Lam 	2 	1 	1 	40 	1 	anger 	NN
+Lam 	2 	1 	1 	41 	0 	!
+Lam 	2 	2 	1 	1 	1 	The 	DT
+Lam 	2 	2 	1 	2 	1 	LORD 	NN
+Lam 	2 	2 	1 	3 	1 	hath 	NN
+Lam 	2 	2 	1 	4 	1 	swallowed 	VBN
+Lam 	2 	2 	1 	5 	1 	up 	RB
+Lam 	2 	2 	1 	6 	1 	all 	DT
+Lam 	2 	2 	1 	7 	1 	the 	DT
+Lam 	2 	2 	1 	8 	1 	habitations 	NNS
+Lam 	2 	2 	1 	9 	1 	of 	IN
+Lam 	2 	2 	1 	10 	1 	Jacob 	NN
+Lam 	2 	2 	1 	11 	0 	,
+Lam 	2 	2 	1 	12 	1 	and 	CC
+Lam 	2 	2 	1 	13 	1 	hath 	NN
+Lam 	2 	2 	1 	14 	1 	not 	RB
+Lam 	2 	2 	1 	15 	1 	pitied 	VBN
+Lam 	2 	2 	1 	16 	0 	:
+Lam 	2 	2 	1 	17 	1 	he 	PRP
+Lam 	2 	2 	1 	18 	1 	hath 	NN
+Lam 	2 	2 	1 	19 	1 	thrown 	NN
+Lam 	2 	2 	1 	20 	1 	down 	RB
+Lam 	2 	2 	1 	21 	1 	in 	IN
+Lam 	2 	2 	1 	22 	1 	his 	PRP$
+Lam 	2 	2 	1 	23 	1 	wrath 	NN
+Lam 	2 	2 	1 	24 	1 	the 	DT
+Lam 	2 	2 	1 	25 	1 	strong 	JJ
+Lam 	2 	2 	1 	26 	1 	holds 	VBZ
+Lam 	2 	2 	1 	27 	1 	of 	IN
+Lam 	2 	2 	1 	28 	1 	the 	DT
+Lam 	2 	2 	1 	29 	1 	daughter 	NN
+Lam 	2 	2 	1 	30 	1 	of 	IN
+Lam 	2 	2 	1 	31 	1 	Judah 	NN
+Lam 	2 	2 	1 	32 	0 	;
+Lam 	2 	2 	1 	33 	1 	he 	PRP
+Lam 	2 	2 	1 	34 	1 	hath 	NN
+Lam 	2 	2 	1 	35 	1 	brought 	NN
+Lam 	2 	2 	1 	36 	1 	them 	PRP
+Lam 	2 	2 	1 	37 	1 	down 	RB
+Lam 	2 	2 	1 	38 	1 	to 	TO
+Lam 	2 	2 	1 	39 	1 	the 	DT
+Lam 	2 	2 	1 	40 	1 	ground 	NN
+Lam 	2 	2 	1 	41 	0 	:
+Lam 	2 	2 	1 	42 	1 	he 	PRP
+Lam 	2 	2 	1 	43 	1 	hath 	NN
+Lam 	2 	2 	1 	44 	1 	polluted 	VBN
+Lam 	2 	2 	1 	45 	1 	the 	DT
+Lam 	2 	2 	1 	46 	1 	kingdom 	NN
+Lam 	2 	2 	1 	47 	1 	and 	CC
+Lam 	2 	2 	1 	48 	1 	the 	DT
+Lam 	2 	2 	1 	49 	1 	princes 	NNS
+Lam 	2 	2 	1 	50 	1 	thereof 	NN
+Lam 	2 	2 	1 	51 	0 	.
+Lam 	2 	3 	1 	1 	1 	He 	PRP
+Lam 	2 	3 	1 	2 	1 	hath 	NN
+Lam 	2 	3 	1 	3 	1 	cut 	NN
+Lam 	2 	3 	1 	4 	1 	off 	IN
+Lam 	2 	3 	1 	5 	1 	in 	IN
+Lam 	2 	3 	1 	6 	1 	his 	PRP$
+Lam 	2 	3 	1 	7 	1 	fierce 	NN
+Lam 	2 	3 	1 	8 	1 	anger 	NN
+Lam 	2 	3 	1 	9 	1 	all 	DT
+Lam 	2 	3 	1 	10 	1 	the 	DT
+Lam 	2 	3 	1 	11 	1 	horn 	NN
+Lam 	2 	3 	1 	12 	1 	of 	IN
+Lam 	2 	3 	1 	13 	1 	Israel 	NNP
+Lam 	2 	3 	1 	14 	0 	:
+Lam 	2 	3 	1 	15 	1 	he 	PRP
+Lam 	2 	3 	1 	16 	1 	hath 	NN
+Lam 	2 	3 	1 	17 	1 	drawn 	NN
+Lam 	2 	3 	1 	18 	1 	back 	RB
+Lam 	2 	3 	1 	19 	1 	his 	PRP$
+Lam 	2 	3 	1 	20 	1 	right 	NN
+Lam 	2 	3 	1 	21 	1 	hand 	NN
+Lam 	2 	3 	1 	22 	1 	from 	IN
+Lam 	2 	3 	1 	23 	1 	before 	IN
+Lam 	2 	3 	1 	24 	1 	the 	DT
+Lam 	2 	3 	1 	25 	1 	enemy 	NN
+Lam 	2 	3 	1 	26 	0 	,
+Lam 	2 	3 	1 	27 	1 	and 	CC
+Lam 	2 	3 	1 	28 	1 	he 	PRP
+Lam 	2 	3 	1 	29 	1 	burned 	VBN
+Lam 	2 	3 	1 	30 	1 	against 	IN
+Lam 	2 	3 	1 	31 	1 	Jacob 	NN
+Lam 	2 	3 	1 	32 	1 	like 	IN
+Lam 	2 	3 	1 	33 	1 	a 	DT
+Lam 	2 	3 	1 	34 	1 	flaming 	VBG
+Lam 	2 	3 	1 	35 	1 	fire 	NN
+Lam 	2 	3 	1 	36 	0 	,
+Lam 	2 	3 	1 	37 	1 	which 	WDT
+Lam 	2 	3 	1 	38 	1 	devoureth 	NN
+Lam 	2 	3 	1 	39 	1 	round 	NN
+Lam 	2 	3 	1 	40 	1 	about 	IN
+Lam 	2 	3 	1 	41 	0 	.
+Lam 	2 	4 	1 	1 	1 	He 	PRP
+Lam 	2 	4 	1 	2 	1 	hath 	NN
+Lam 	2 	4 	1 	3 	1 	bent 	NN
+Lam 	2 	4 	1 	4 	1 	his 	PRP$
+Lam 	2 	4 	1 	5 	1 	bow 	NN
+Lam 	2 	4 	1 	6 	1 	like 	IN
+Lam 	2 	4 	1 	7 	1 	an 	DT
+Lam 	2 	4 	1 	8 	1 	enemy 	NN
+Lam 	2 	4 	1 	9 	0 	:
+Lam 	2 	4 	1 	10 	1 	he 	PRP
+Lam 	2 	4 	1 	11 	1 	stood 	NN
+Lam 	2 	4 	1 	12 	1 	with 	IN
+Lam 	2 	4 	1 	13 	1 	his 	PRP$
+Lam 	2 	4 	1 	14 	1 	right 	NN
+Lam 	2 	4 	1 	15 	1 	hand 	NN
+Lam 	2 	4 	1 	16 	1 	as 	IN
+Lam 	2 	4 	1 	17 	1 	an 	DT
+Lam 	2 	4 	1 	18 	1 	adversary 	NN
+Lam 	2 	4 	1 	19 	0 	,
+Lam 	2 	4 	1 	20 	1 	and 	CC
+Lam 	2 	4 	1 	21 	1 	slew 	NN
+Lam 	2 	4 	1 	22 	1 	all 	DT
+Lam 	2 	4 	1 	23 	1 	that 	IN
+Lam 	2 	4 	1 	24 	1 	were 	VBD
+Lam 	2 	4 	1 	25 	1 	pleasant 	NN
+Lam 	2 	4 	1 	26 	1 	to 	TO
+Lam 	2 	4 	1 	27 	1 	the 	DT
+Lam 	2 	4 	1 	28 	1 	eye 	NN
+Lam 	2 	4 	1 	29 	1 	in 	IN
+Lam 	2 	4 	1 	30 	1 	the 	DT
+Lam 	2 	4 	1 	31 	1 	tabernacle 	NN
+Lam 	2 	4 	1 	32 	1 	of 	IN
+Lam 	2 	4 	1 	33 	1 	the 	DT
+Lam 	2 	4 	1 	34 	1 	daughter 	NN
+Lam 	2 	4 	1 	35 	1 	of 	IN
+Lam 	2 	4 	1 	36 	1 	Zion 	NN
+Lam 	2 	4 	1 	37 	0 	:
+Lam 	2 	4 	1 	38 	1 	he 	PRP
+Lam 	2 	4 	1 	39 	1 	poured 	VBN
+Lam 	2 	4 	1 	40 	1 	out 	IN
+Lam 	2 	4 	1 	41 	1 	his 	PRP$
+Lam 	2 	4 	1 	42 	1 	fury 	NN
+Lam 	2 	4 	1 	43 	1 	like 	IN
+Lam 	2 	4 	1 	44 	1 	fire 	NN
+Lam 	2 	4 	1 	45 	0 	.
+Lam 	2 	5 	1 	1 	1 	The 	DT
+Lam 	2 	5 	1 	2 	1 	LORD 	NN
+Lam 	2 	5 	1 	3 	1 	was 	VBD
+Lam 	2 	5 	1 	4 	1 	as 	IN
+Lam 	2 	5 	1 	5 	1 	an 	DT
+Lam 	2 	5 	1 	6 	1 	enemy 	NN
+Lam 	2 	5 	1 	7 	0 	:
+Lam 	2 	5 	1 	8 	1 	he 	PRP
+Lam 	2 	5 	1 	9 	1 	hath 	NN
+Lam 	2 	5 	1 	10 	1 	swallowed 	VBN
+Lam 	2 	5 	1 	11 	1 	up 	RB
+Lam 	2 	5 	1 	12 	1 	Israel 	NNP
+Lam 	2 	5 	1 	13 	0 	,
+Lam 	2 	5 	1 	14 	1 	he 	PRP
+Lam 	2 	5 	1 	15 	1 	hath 	NN
+Lam 	2 	5 	1 	16 	1 	swallowed 	VBN
+Lam 	2 	5 	1 	17 	1 	up 	RB
+Lam 	2 	5 	1 	18 	1 	all 	DT
+Lam 	2 	5 	1 	19 	1 	her 	PRP$
+Lam 	2 	5 	1 	20 	1 	palaces 	NNS
+Lam 	2 	5 	1 	21 	0 	:
+Lam 	2 	5 	1 	22 	1 	he 	PRP
+Lam 	2 	5 	1 	23 	1 	hath 	NN
+Lam 	2 	5 	1 	24 	1 	destroyed 	NN
+Lam 	2 	5 	1 	25 	1 	his 	PRP$
+Lam 	2 	5 	1 	26 	1 	strong 	JJ
+Lam 	2 	5 	1 	27 	1 	holds 	VBZ
+Lam 	2 	5 	1 	28 	0 	,
+Lam 	2 	5 	1 	29 	1 	and 	CC
+Lam 	2 	5 	1 	30 	1 	hath 	NN
+Lam 	2 	5 	1 	31 	1 	increased 	VBN
+Lam 	2 	5 	1 	32 	1 	in 	IN
+Lam 	2 	5 	1 	33 	1 	the 	DT
+Lam 	2 	5 	1 	34 	1 	daughter 	NN
+Lam 	2 	5 	1 	35 	1 	of 	IN
+Lam 	2 	5 	1 	36 	1 	Judah 	NN
+Lam 	2 	5 	1 	37 	1 	mourning 	VBG
+Lam 	2 	5 	1 	38 	1 	and 	CC
+Lam 	2 	5 	1 	39 	1 	lamentation 	NN
+Lam 	2 	5 	1 	40 	0 	.
+Lam 	2 	6 	1 	1 	1 	And 	CC
+Lam 	2 	6 	1 	2 	1 	he 	PRP
+Lam 	2 	6 	1 	3 	1 	hath 	NN
+Lam 	2 	6 	1 	4 	1 	violently 	RB
+Lam 	2 	6 	1 	5 	1 	taken 	VBN
+Lam 	2 	6 	1 	6 	1 	away 	RB
+Lam 	2 	6 	1 	7 	1 	his 	PRP$
+Lam 	2 	6 	1 	8 	1 	tabernacle 	NN
+Lam 	2 	6 	1 	9 	0 	,
+Lam 	2 	6 	1 	10 	1 	as 	IN
+Lam 	2 	6 	1 	11 	1 	if 	IN
+Lam 	2 	6 	1 	12 	1 	it 	PRP
+Lam 	2 	6 	1 	13 	1 	were 	VBD
+Lam 	2 	6 	1 	14 	1 	of 	IN
+Lam 	2 	6 	1 	15 	1 	a 	DT
+Lam 	2 	6 	1 	16 	1 	garden 	NN
+Lam 	2 	6 	1 	17 	0 	:
+Lam 	2 	6 	1 	18 	1 	he 	PRP
+Lam 	2 	6 	1 	19 	1 	hath 	NN
+Lam 	2 	6 	1 	20 	1 	destroyed 	NN
+Lam 	2 	6 	1 	21 	1 	his 	PRP$
+Lam 	2 	6 	1 	22 	1 	places 	NNS
+Lam 	2 	6 	1 	23 	1 	of 	IN
+Lam 	2 	6 	1 	24 	1 	the 	DT
+Lam 	2 	6 	1 	25 	1 	assembly 	RB
+Lam 	2 	6 	1 	26 	0 	:
+Lam 	2 	6 	1 	27 	1 	the 	DT
+Lam 	2 	6 	1 	28 	1 	LORD 	NN
+Lam 	2 	6 	1 	29 	1 	hath 	NN
+Lam 	2 	6 	1 	30 	1 	caused 	VBN
+Lam 	2 	6 	1 	31 	1 	the 	DT
+Lam 	2 	6 	1 	32 	1 	solemn 	NN
+Lam 	2 	6 	1 	33 	1 	feasts 	NNS
+Lam 	2 	6 	1 	34 	1 	and 	CC
+Lam 	2 	6 	1 	35 	1 	sabbaths 	NNS
+Lam 	2 	6 	1 	36 	1 	to 	TO
+Lam 	2 	6 	1 	37 	1 	be 	VB
+Lam 	2 	6 	1 	38 	1 	forgotten 	NNS
+Lam 	2 	6 	1 	39 	1 	in 	IN
+Lam 	2 	6 	1 	40 	1 	Zion 	NN
+Lam 	2 	6 	1 	41 	0 	,
+Lam 	2 	6 	1 	42 	1 	and 	CC
+Lam 	2 	6 	1 	43 	1 	hath 	NN
+Lam 	2 	6 	1 	44 	1 	despised 	VBN
+Lam 	2 	6 	1 	45 	1 	in 	IN
+Lam 	2 	6 	1 	46 	1 	the 	DT
+Lam 	2 	6 	1 	47 	1 	indignation 	NN
+Lam 	2 	6 	1 	48 	1 	of 	IN
+Lam 	2 	6 	1 	49 	1 	his 	PRP$
+Lam 	2 	6 	1 	50 	1 	anger 	NN
+Lam 	2 	6 	1 	51 	1 	the 	DT
+Lam 	2 	6 	1 	52 	1 	king 	NN
+Lam 	2 	6 	1 	53 	1 	and 	CC
+Lam 	2 	6 	1 	54 	1 	the 	DT
+Lam 	2 	6 	1 	55 	1 	priest 	NN
+Lam 	2 	6 	1 	56 	0 	.
+Lam 	2 	7 	1 	1 	1 	The 	DT
+Lam 	2 	7 	1 	2 	1 	LORD 	NN
+Lam 	2 	7 	1 	3 	1 	hath 	NN
+Lam 	2 	7 	1 	4 	1 	cast 	NN
+Lam 	2 	7 	1 	5 	1 	off 	IN
+Lam 	2 	7 	1 	6 	1 	his 	PRP$
+Lam 	2 	7 	1 	7 	1 	altar 	NN
+Lam 	2 	7 	1 	8 	0 	,
+Lam 	2 	7 	1 	9 	1 	he 	PRP
+Lam 	2 	7 	1 	10 	1 	hath 	NN
+Lam 	2 	7 	1 	11 	1 	abhorred 	VBN
+Lam 	2 	7 	1 	12 	1 	his 	PRP$
+Lam 	2 	7 	1 	13 	1 	sanctuary 	NN
+Lam 	2 	7 	1 	14 	0 	,
+Lam 	2 	7 	1 	15 	1 	he 	PRP
+Lam 	2 	7 	1 	16 	1 	hath 	NN
+Lam 	2 	7 	1 	17 	1 	given 	VBN
+Lam 	2 	7 	1 	18 	1 	up 	RB
+Lam 	2 	7 	1 	19 	1 	into 	IN
+Lam 	2 	7 	1 	20 	1 	the 	DT
+Lam 	2 	7 	1 	21 	1 	hand 	NN
+Lam 	2 	7 	1 	22 	1 	of 	IN
+Lam 	2 	7 	1 	23 	1 	the 	DT
+Lam 	2 	7 	1 	24 	1 	enemy 	NN
+Lam 	2 	7 	1 	25 	1 	the 	DT
+Lam 	2 	7 	1 	26 	1 	walls 	NNS
+Lam 	2 	7 	1 	27 	1 	of 	IN
+Lam 	2 	7 	1 	28 	1 	her 	PRP$
+Lam 	2 	7 	1 	29 	1 	palaces 	NNS
+Lam 	2 	7 	1 	30 	0 	;
+Lam 	2 	7 	1 	31 	1 	they 	PRP
+Lam 	2 	7 	1 	32 	1 	have 	VB
+Lam 	2 	7 	1 	33 	1 	made 	VBN
+Lam 	2 	7 	1 	34 	1 	a 	DT
+Lam 	2 	7 	1 	35 	1 	noise 	NN
+Lam 	2 	7 	1 	36 	1 	in 	IN
+Lam 	2 	7 	1 	37 	1 	the 	DT
+Lam 	2 	7 	1 	38 	1 	house 	NN
+Lam 	2 	7 	1 	39 	1 	of 	IN
+Lam 	2 	7 	1 	40 	1 	the 	DT
+Lam 	2 	7 	1 	41 	1 	LORD 	NN
+Lam 	2 	7 	1 	42 	0 	,
+Lam 	2 	7 	1 	43 	1 	as 	IN
+Lam 	2 	7 	1 	44 	1 	in 	IN
+Lam 	2 	7 	1 	45 	1 	the 	DT
+Lam 	2 	7 	1 	46 	1 	day 	NN
+Lam 	2 	7 	1 	47 	1 	of 	IN
+Lam 	2 	7 	1 	48 	1 	a 	DT
+Lam 	2 	7 	1 	49 	1 	solemn 	NN
+Lam 	2 	7 	1 	50 	1 	feast 	NN
+Lam 	2 	7 	1 	51 	0 	.
+Lam 	2 	8 	1 	1 	1 	The 	DT
+Lam 	2 	8 	1 	2 	1 	LORD 	NN
+Lam 	2 	8 	1 	3 	1 	hath 	NN
+Lam 	2 	8 	1 	4 	1 	purposed 	VBN
+Lam 	2 	8 	1 	5 	1 	to 	TO
+Lam 	2 	8 	1 	6 	1 	destroy 	NN
+Lam 	2 	8 	1 	7 	1 	the 	DT
+Lam 	2 	8 	1 	8 	1 	wall 	NN
+Lam 	2 	8 	1 	9 	1 	of 	IN
+Lam 	2 	8 	1 	10 	1 	the 	DT
+Lam 	2 	8 	1 	11 	1 	daughter 	NN
+Lam 	2 	8 	1 	12 	1 	of 	IN
+Lam 	2 	8 	1 	13 	1 	Zion 	NN
+Lam 	2 	8 	1 	14 	0 	:
+Lam 	2 	8 	1 	15 	1 	he 	PRP
+Lam 	2 	8 	1 	16 	1 	hath 	NN
+Lam 	2 	8 	1 	17 	1 	stretched 	VBN
+Lam 	2 	8 	1 	18 	1 	out 	IN
+Lam 	2 	8 	1 	19 	1 	a 	DT
+Lam 	2 	8 	1 	20 	1 	line 	NN
+Lam 	2 	8 	1 	21 	0 	,
+Lam 	2 	8 	1 	22 	1 	he 	PRP
+Lam 	2 	8 	1 	23 	1 	hath 	NN
+Lam 	2 	8 	1 	24 	1 	not 	RB
+Lam 	2 	8 	1 	25 	1 	withdrawn 	NN
+Lam 	2 	8 	1 	26 	1 	his 	PRP$
+Lam 	2 	8 	1 	27 	1 	hand 	NN
+Lam 	2 	8 	1 	28 	1 	from 	IN
+Lam 	2 	8 	1 	29 	1 	destroying 	VBG
+Lam 	2 	8 	1 	30 	0 	:
+Lam 	2 	8 	1 	31 	1 	therefore 	RB
+Lam 	2 	8 	1 	32 	1 	he 	PRP
+Lam 	2 	8 	1 	33 	1 	made 	VBN
+Lam 	2 	8 	1 	34 	1 	the 	DT
+Lam 	2 	8 	1 	35 	1 	rampart 	NN
+Lam 	2 	8 	1 	36 	1 	and 	CC
+Lam 	2 	8 	1 	37 	1 	the 	DT
+Lam 	2 	8 	1 	38 	1 	wall 	NN
+Lam 	2 	8 	1 	39 	1 	to 	TO
+Lam 	2 	8 	1 	40 	1 	lament 	NN
+Lam 	2 	8 	1 	41 	0 	;
+Lam 	2 	8 	1 	42 	1 	they 	PRP
+Lam 	2 	8 	1 	43 	1 	languished 	VBN
+Lam 	2 	8 	1 	44 	1 	together 	RB
+Lam 	2 	8 	1 	45 	0 	.
+Lam 	2 	9 	1 	1 	1 	Her 	PRP$
+Lam 	2 	9 	1 	2 	1 	gates 	NNS
+Lam 	2 	9 	1 	3 	1 	are 	VBP
+Lam 	2 	9 	1 	4 	1 	sunk 	NN
+Lam 	2 	9 	1 	5 	1 	into 	IN
+Lam 	2 	9 	1 	6 	1 	the 	DT
+Lam 	2 	9 	1 	7 	1 	ground 	NN
+Lam 	2 	9 	1 	8 	0 	;
+Lam 	2 	9 	1 	9 	1 	he 	PRP
+Lam 	2 	9 	1 	10 	1 	hath 	NN
+Lam 	2 	9 	1 	11 	1 	destroyed 	NN
+Lam 	2 	9 	1 	12 	1 	and 	CC
+Lam 	2 	9 	1 	13 	1 	broken 	NN
+Lam 	2 	9 	1 	14 	1 	her 	PRP$
+Lam 	2 	9 	1 	15 	1 	bars 	NNS
+Lam 	2 	9 	1 	16 	0 	:
+Lam 	2 	9 	1 	17 	1 	her 	PRP$
+Lam 	2 	9 	1 	18 	1 	king 	NN
+Lam 	2 	9 	1 	19 	1 	and 	CC
+Lam 	2 	9 	1 	20 	1 	her 	PRP$
+Lam 	2 	9 	1 	21 	1 	princes 	NNS
+Lam 	2 	9 	1 	22 	1 	are 	VBP
+Lam 	2 	9 	1 	23 	1 	among 	IN
+Lam 	2 	9 	1 	24 	1 	the 	DT
+Lam 	2 	9 	1 	25 	1 	Gentiles 	NNS
+Lam 	2 	9 	1 	26 	0 	:
+Lam 	2 	9 	1 	27 	1 	the 	DT
+Lam 	2 	9 	1 	28 	1 	law 	NN
+Lam 	2 	9 	1 	29 	1 	is 	VBZ
+Lam 	2 	9 	1 	30 	1 	no 	DT
+Lam 	2 	9 	1 	31 	1 	more 	RBR
+Lam 	2 	9 	1 	32 	0 	;
+Lam 	2 	9 	1 	33 	1 	her 	PRP$
+Lam 	2 	9 	1 	34 	1 	prophets 	NNS
+Lam 	2 	9 	1 	35 	1 	also 	RB
+Lam 	2 	9 	1 	36 	1 	find 	VB
+Lam 	2 	9 	1 	37 	1 	no 	DT
+Lam 	2 	9 	1 	38 	1 	vision 	NN
+Lam 	2 	9 	1 	39 	1 	from 	IN
+Lam 	2 	9 	1 	40 	1 	the 	DT
+Lam 	2 	9 	1 	41 	1 	LORD 	NN
+Lam 	2 	9 	1 	42 	0 	.
+Lam 	2 	10 	1 	1 	1 	The 	DT
+Lam 	2 	10 	1 	2 	1 	elders 	NNS
+Lam 	2 	10 	1 	3 	1 	of 	IN
+Lam 	2 	10 	1 	4 	1 	the 	DT
+Lam 	2 	10 	1 	5 	1 	daughter 	NN
+Lam 	2 	10 	1 	6 	1 	of 	IN
+Lam 	2 	10 	1 	7 	1 	Zion 	NN
+Lam 	2 	10 	1 	8 	1 	sit 	NN
+Lam 	2 	10 	1 	9 	1 	upon 	IN
+Lam 	2 	10 	1 	10 	1 	the 	DT
+Lam 	2 	10 	1 	11 	1 	ground 	NN
+Lam 	2 	10 	1 	12 	0 	,
+Lam 	2 	10 	1 	13 	1 	and 	CC
+Lam 	2 	10 	1 	14 	1 	keep 	VB
+Lam 	2 	10 	1 	15 	1 	silence 	NN
+Lam 	2 	10 	1 	16 	0 	:
+Lam 	2 	10 	1 	17 	1 	they 	PRP
+Lam 	2 	10 	1 	18 	1 	have 	VB
+Lam 	2 	10 	1 	19 	1 	cast 	NN
+Lam 	2 	10 	1 	20 	1 	up 	RB
+Lam 	2 	10 	1 	21 	1 	dust 	NN
+Lam 	2 	10 	1 	22 	1 	upon 	IN
+Lam 	2 	10 	1 	23 	1 	their 	PRP$
+Lam 	2 	10 	1 	24 	1 	heads 	NNS
+Lam 	2 	10 	1 	25 	0 	;
+Lam 	2 	10 	1 	26 	1 	they 	PRP
+Lam 	2 	10 	1 	27 	1 	have 	VB
+Lam 	2 	10 	1 	28 	1 	girded 	VBN
+Lam 	2 	10 	1 	29 	1 	themselves 	PRP
+Lam 	2 	10 	1 	30 	1 	with 	IN
+Lam 	2 	10 	1 	31 	1 	sackcloth 	NN
+Lam 	2 	10 	1 	32 	0 	:
+Lam 	2 	10 	1 	33 	1 	the 	DT
+Lam 	2 	10 	1 	34 	1 	virgins 	NNS
+Lam 	2 	10 	1 	35 	1 	of 	IN
+Lam 	2 	10 	1 	36 	1 	Jerusalem 	NN
+Lam 	2 	10 	1 	37 	1 	hang 	NN
+Lam 	2 	10 	1 	38 	1 	down 	RB
+Lam 	2 	10 	1 	39 	1 	their 	PRP$
+Lam 	2 	10 	1 	40 	1 	heads 	NNS
+Lam 	2 	10 	1 	41 	1 	to 	TO
+Lam 	2 	10 	1 	42 	1 	the 	DT
+Lam 	2 	10 	1 	43 	1 	ground 	NN
+Lam 	2 	10 	1 	44 	0 	.
+Lam 	2 	11 	1 	1 	1 	Mine 	NN
+Lam 	2 	11 	1 	2 	1 	eyes 	NNS
+Lam 	2 	11 	1 	3 	1 	do 	VB
+Lam 	2 	11 	1 	4 	1 	fail 	NN
+Lam 	2 	11 	1 	5 	1 	with 	IN
+Lam 	2 	11 	1 	6 	1 	tears 	NNS
+Lam 	2 	11 	1 	7 	0 	,
+Lam 	2 	11 	1 	8 	1 	my 	PRP$
+Lam 	2 	11 	1 	9 	1 	bowels 	NNS
+Lam 	2 	11 	1 	10 	1 	are 	VBP
+Lam 	2 	11 	1 	11 	1 	troubled 	JJ
+Lam 	2 	11 	1 	12 	0 	,
+Lam 	2 	11 	1 	13 	1 	my 	PRP$
+Lam 	2 	11 	1 	14 	1 	liver 	NN
+Lam 	2 	11 	1 	15 	1 	is 	VBZ
+Lam 	2 	11 	1 	16 	1 	poured 	VBN
+Lam 	2 	11 	1 	17 	1 	upon 	IN
+Lam 	2 	11 	1 	18 	1 	the 	DT
+Lam 	2 	11 	1 	19 	1 	earth 	NN
+Lam 	2 	11 	1 	20 	0 	,
+Lam 	2 	11 	1 	21 	1 	for 	IN
+Lam 	2 	11 	1 	22 	1 	the 	DT
+Lam 	2 	11 	1 	23 	1 	destruction 	NN
+Lam 	2 	11 	1 	24 	1 	of 	IN
+Lam 	2 	11 	1 	25 	1 	the 	DT
+Lam 	2 	11 	1 	26 	1 	daughter 	NN
+Lam 	2 	11 	1 	27 	1 	of 	IN
+Lam 	2 	11 	1 	28 	1 	my 	PRP$
+Lam 	2 	11 	1 	29 	1 	people 	NNS
+Lam 	2 	11 	1 	30 	0 	;
+Lam 	2 	11 	1 	31 	1 	because 	IN
+Lam 	2 	11 	1 	32 	1 	the 	DT
+Lam 	2 	11 	1 	33 	1 	children 	NNS
+Lam 	2 	11 	1 	34 	1 	and 	CC
+Lam 	2 	11 	1 	35 	1 	the 	DT
+Lam 	2 	11 	1 	36 	1 	sucklings 	NNS
+Lam 	2 	11 	1 	37 	1 	swoon 	NN
+Lam 	2 	11 	1 	38 	1 	in 	IN
+Lam 	2 	11 	1 	39 	1 	the 	DT
+Lam 	2 	11 	1 	40 	1 	streets 	NNS
+Lam 	2 	11 	1 	41 	1 	of 	IN
+Lam 	2 	11 	1 	42 	1 	the 	DT
+Lam 	2 	11 	1 	43 	1 	city 	NN
+Lam 	2 	11 	1 	44 	0 	.
+Lam 	2 	12 	1 	1 	1 	They 	PRP
+Lam 	2 	12 	1 	2 	1 	say 	VB
+Lam 	2 	12 	1 	3 	1 	to 	TO
+Lam 	2 	12 	1 	4 	1 	their 	PRP$
+Lam 	2 	12 	1 	5 	1 	mothers 	NNS
+Lam 	2 	12 	1 	6 	0 	,
+Lam 	2 	12 	1 	7 	1 	Where 	WRB
+Lam 	2 	12 	1 	8 	1 	is 	VBZ
+Lam 	2 	12 	1 	9 	1 	corn 	NN
+Lam 	2 	12 	1 	10 	1 	and 	CC
+Lam 	2 	12 	1 	11 	1 	wine 	NN
+Lam 	2 	12 	1 	12 	0 	?
+Lam 	2 	12 	2 	1 	1 	when 	WRB
+Lam 	2 	12 	2 	2 	1 	they 	PRP
+Lam 	2 	12 	2 	3 	1 	swooned 	VBN
+Lam 	2 	12 	2 	4 	1 	as 	IN
+Lam 	2 	12 	2 	5 	1 	the 	DT
+Lam 	2 	12 	2 	6 	1 	wounded 	VBD
+Lam 	2 	12 	2 	7 	1 	in 	IN
+Lam 	2 	12 	2 	8 	1 	the 	DT
+Lam 	2 	12 	2 	9 	1 	streets 	NNS
+Lam 	2 	12 	2 	10 	1 	of 	IN
+Lam 	2 	12 	2 	11 	1 	the 	DT
+Lam 	2 	12 	2 	12 	1 	city 	NN
+Lam 	2 	12 	2 	13 	0 	,
+Lam 	2 	12 	2 	14 	1 	when 	WRB
+Lam 	2 	12 	2 	15 	1 	their 	PRP$
+Lam 	2 	12 	2 	16 	1 	soul 	NN
+Lam 	2 	12 	2 	17 	1 	was 	VBD
+Lam 	2 	12 	2 	18 	1 	poured 	VBN
+Lam 	2 	12 	2 	19 	1 	out 	IN
+Lam 	2 	12 	2 	20 	1 	into 	IN
+Lam 	2 	12 	2 	21 	1 	their 	PRP$
+Lam 	2 	12 	2 	22 	1 	mothers 	NNS
+Lam 	2 	12 	2 	23 	0 	'
+Lam 	2 	12 	2 	24 	1 	bosom 	NN
+Lam 	2 	12 	2 	25 	0 	.
+Lam 	2 	13 	1 	1 	1 	What 	WP
+Lam 	2 	13 	1 	2 	1 	thing 	NN
+Lam 	2 	13 	1 	3 	1 	shall 	MD
+Lam 	2 	13 	1 	4 	1 	I 	PRP
+Lam 	2 	13 	1 	5 	1 	take 	VB
+Lam 	2 	13 	1 	6 	1 	to 	TO
+Lam 	2 	13 	1 	7 	1 	witness 	NN
+Lam 	2 	13 	1 	8 	1 	for 	IN
+Lam 	2 	13 	1 	9 	1 	thee 	NN
+Lam 	2 	13 	1 	10 	0 	?
+Lam 	2 	13 	2 	1 	1 	what 	WP
+Lam 	2 	13 	2 	2 	1 	thing 	NN
+Lam 	2 	13 	2 	3 	1 	shall 	MD
+Lam 	2 	13 	2 	4 	1 	I 	PRP
+Lam 	2 	13 	2 	5 	1 	liken 	NN
+Lam 	2 	13 	2 	6 	1 	to 	TO
+Lam 	2 	13 	2 	7 	1 	thee 	NN
+Lam 	2 	13 	2 	8 	0 	,
+Lam 	2 	13 	2 	9 	1 	O 	NN
+Lam 	2 	13 	2 	10 	1 	daughter 	NN
+Lam 	2 	13 	2 	11 	1 	of 	IN
+Lam 	2 	13 	2 	12 	1 	Jerusalem 	NN
+Lam 	2 	13 	2 	13 	0 	?
+Lam 	2 	13 	3 	1 	1 	what 	WP
+Lam 	2 	13 	3 	2 	1 	shall 	MD
+Lam 	2 	13 	3 	3 	1 	I 	PRP
+Lam 	2 	13 	3 	4 	1 	equal 	JJ
+Lam 	2 	13 	3 	5 	1 	to 	TO
+Lam 	2 	13 	3 	6 	1 	thee 	NN
+Lam 	2 	13 	3 	7 	0 	,
+Lam 	2 	13 	3 	8 	1 	that 	IN
+Lam 	2 	13 	3 	9 	1 	I 	PRP
+Lam 	2 	13 	3 	10 	1 	may 	MD
+Lam 	2 	13 	3 	11 	1 	comfort 	NN
+Lam 	2 	13 	3 	12 	1 	thee 	NN
+Lam 	2 	13 	3 	13 	0 	,
+Lam 	2 	13 	3 	14 	1 	O 	NN
+Lam 	2 	13 	3 	15 	1 	virgin 	NN
+Lam 	2 	13 	3 	16 	1 	daughter 	NN
+Lam 	2 	13 	3 	17 	1 	of 	IN
+Lam 	2 	13 	3 	18 	1 	Zion 	NN
+Lam 	2 	13 	3 	19 	0 	?
+Lam 	2 	13 	4 	1 	1 	for 	IN
+Lam 	2 	13 	4 	2 	1 	thy 	NN
+Lam 	2 	13 	4 	3 	1 	breach 	NN
+Lam 	2 	13 	4 	4 	1 	is 	VBZ
+Lam 	2 	13 	4 	5 	1 	great 	JJ
+Lam 	2 	13 	4 	6 	1 	like 	IN
+Lam 	2 	13 	4 	7 	1 	the 	DT
+Lam 	2 	13 	4 	8 	1 	sea 	NN
+Lam 	2 	13 	4 	9 	0 	:
+Lam 	2 	13 	4 	10 	1 	who 	WP
+Lam 	2 	13 	4 	11 	1 	can 	MD
+Lam 	2 	13 	4 	12 	1 	heal 	NN
+Lam 	2 	13 	4 	13 	1 	thee 	NN
+Lam 	2 	13 	4 	14 	0 	?
+Lam 	2 	14 	1 	1 	1 	Thy 	NN
+Lam 	2 	14 	1 	2 	1 	prophets 	NNS
+Lam 	2 	14 	1 	3 	1 	have 	VB
+Lam 	2 	14 	1 	4 	1 	seen 	VBN
+Lam 	2 	14 	1 	5 	1 	vain 	NN
+Lam 	2 	14 	1 	6 	1 	and 	CC
+Lam 	2 	14 	1 	7 	1 	foolish 	JJ
+Lam 	2 	14 	1 	8 	1 	things 	NNS
+Lam 	2 	14 	1 	9 	1 	for 	IN
+Lam 	2 	14 	1 	10 	1 	thee 	NN
+Lam 	2 	14 	1 	11 	0 	:
+Lam 	2 	14 	1 	12 	1 	and 	CC
+Lam 	2 	14 	1 	13 	1 	they 	PRP
+Lam 	2 	14 	1 	14 	1 	have 	VB
+Lam 	2 	14 	1 	15 	1 	not 	RB
+Lam 	2 	14 	1 	16 	1 	discovered 	VBN
+Lam 	2 	14 	1 	17 	1 	thine 	NN
+Lam 	2 	14 	1 	18 	1 	iniquity 	NN
+Lam 	2 	14 	1 	19 	0 	,
+Lam 	2 	14 	1 	20 	1 	to 	TO
+Lam 	2 	14 	1 	21 	1 	turn 	NN
+Lam 	2 	14 	1 	22 	1 	away 	RB
+Lam 	2 	14 	1 	23 	1 	thy 	NN
+Lam 	2 	14 	1 	24 	1 	captivity 	NN
+Lam 	2 	14 	1 	25 	0 	;
+Lam 	2 	14 	1 	26 	1 	but 	CC
+Lam 	2 	14 	1 	27 	1 	have 	VB
+Lam 	2 	14 	1 	28 	1 	seen 	VBN
+Lam 	2 	14 	1 	29 	1 	for 	IN
+Lam 	2 	14 	1 	30 	1 	thee 	NN
+Lam 	2 	14 	1 	31 	1 	false 	JJ
+Lam 	2 	14 	1 	32 	1 	burdens 	NNS
+Lam 	2 	14 	1 	33 	1 	and 	CC
+Lam 	2 	14 	1 	34 	1 	causes 	NNS
+Lam 	2 	14 	1 	35 	1 	of 	IN
+Lam 	2 	14 	1 	36 	1 	banishment 	NN
+Lam 	2 	14 	1 	37 	0 	.
+Lam 	2 	15 	1 	1 	1 	All 	DT
+Lam 	2 	15 	1 	2 	1 	that 	IN
+Lam 	2 	15 	1 	3 	1 	pass 	NN
+Lam 	2 	15 	1 	4 	1 	by 	IN
+Lam 	2 	15 	1 	5 	1 	clap 	NN
+Lam 	2 	15 	1 	6 	1 	their 	PRP$
+Lam 	2 	15 	1 	7 	1 	hands 	NNS
+Lam 	2 	15 	1 	8 	1 	at 	IN
+Lam 	2 	15 	1 	9 	1 	thee 	NN
+Lam 	2 	15 	1 	10 	0 	;
+Lam 	2 	15 	1 	11 	1 	they 	PRP
+Lam 	2 	15 	1 	12 	1 	hiss 	NN
+Lam 	2 	15 	1 	13 	1 	and 	CC
+Lam 	2 	15 	1 	14 	1 	wag 	NN
+Lam 	2 	15 	1 	15 	1 	their 	PRP$
+Lam 	2 	15 	1 	16 	1 	head 	NN
+Lam 	2 	15 	1 	17 	1 	at 	IN
+Lam 	2 	15 	1 	18 	1 	the 	DT
+Lam 	2 	15 	1 	19 	1 	daughter 	NN
+Lam 	2 	15 	1 	20 	1 	of 	IN
+Lam 	2 	15 	1 	21 	1 	Jerusalem 	NN
+Lam 	2 	15 	1 	22 	0 	,
+Lam 	2 	15 	1 	23 	1 	saying 	VBG
+Lam 	2 	15 	1 	24 	0 	,
+Lam 	2 	15 	1 	25 	1 	Is 	NN
+Lam 	2 	15 	1 	26 	1 	this 	DT
+Lam 	2 	15 	1 	27 	1 	the 	DT
+Lam 	2 	15 	1 	28 	1 	city 	NN
+Lam 	2 	15 	1 	29 	1 	that 	IN
+Lam 	2 	15 	1 	30 	1 	men 	NNS
+Lam 	2 	15 	1 	31 	1 	call 	NN
+Lam 	2 	15 	1 	32 	1 	The 	DT
+Lam 	2 	15 	1 	33 	1 	perfection 	NN
+Lam 	2 	15 	1 	34 	1 	of 	IN
+Lam 	2 	15 	1 	35 	1 	beauty 	NN
+Lam 	2 	15 	1 	36 	0 	,
+Lam 	2 	15 	1 	37 	1 	The 	DT
+Lam 	2 	15 	1 	38 	1 	joy 	NN
+Lam 	2 	15 	1 	39 	1 	of 	IN
+Lam 	2 	15 	1 	40 	1 	the 	DT
+Lam 	2 	15 	1 	41 	1 	whole 	JJ
+Lam 	2 	15 	1 	42 	1 	earth 	NN
+Lam 	2 	15 	1 	43 	0 	?
+Lam 	2 	16 	1 	1 	1 	All 	DT
+Lam 	2 	16 	1 	2 	1 	thine 	NN
+Lam 	2 	16 	1 	3 	1 	enemies 	NNS
+Lam 	2 	16 	1 	4 	1 	have 	VB
+Lam 	2 	16 	1 	5 	1 	opened 	VBN
+Lam 	2 	16 	1 	6 	1 	their 	PRP$
+Lam 	2 	16 	1 	7 	1 	mouth 	NN
+Lam 	2 	16 	1 	8 	1 	against 	IN
+Lam 	2 	16 	1 	9 	1 	thee 	NN
+Lam 	2 	16 	1 	10 	0 	:
+Lam 	2 	16 	1 	11 	1 	they 	PRP
+Lam 	2 	16 	1 	12 	1 	hiss 	NN
+Lam 	2 	16 	1 	13 	1 	and 	CC
+Lam 	2 	16 	1 	14 	1 	gnash 	NN
+Lam 	2 	16 	1 	15 	1 	the 	DT
+Lam 	2 	16 	1 	16 	1 	teeth 	NNS
+Lam 	2 	16 	1 	17 	0 	:
+Lam 	2 	16 	1 	18 	1 	they 	PRP
+Lam 	2 	16 	1 	19 	1 	say 	VB
+Lam 	2 	16 	1 	20 	0 	,
+Lam 	2 	16 	1 	21 	1 	We 	PRP
+Lam 	2 	16 	1 	22 	1 	have 	VB
+Lam 	2 	16 	1 	23 	1 	swallowed 	VBN
+Lam 	2 	16 	1 	24 	1 	her 	PRP$
+Lam 	2 	16 	1 	25 	1 	up 	RB
+Lam 	2 	16 	1 	26 	0 	:
+Lam 	2 	16 	1 	27 	1 	certainly 	RB
+Lam 	2 	16 	1 	28 	1 	this 	DT
+Lam 	2 	16 	1 	29 	1 	is 	VBZ
+Lam 	2 	16 	1 	30 	1 	the 	DT
+Lam 	2 	16 	1 	31 	1 	day 	NN
+Lam 	2 	16 	1 	32 	1 	that 	IN
+Lam 	2 	16 	1 	33 	1 	we 	PRP
+Lam 	2 	16 	1 	34 	1 	looked 	VBD
+Lam 	2 	16 	1 	35 	1 	for 	IN
+Lam 	2 	16 	1 	36 	0 	;
+Lam 	2 	16 	1 	37 	1 	we 	PRP
+Lam 	2 	16 	1 	38 	1 	have 	VB
+Lam 	2 	16 	1 	39 	1 	found 	NN
+Lam 	2 	16 	1 	40 	0 	,
+Lam 	2 	16 	1 	41 	1 	we 	PRP
+Lam 	2 	16 	1 	42 	1 	have 	VB
+Lam 	2 	16 	1 	43 	1 	seen 	VBN
+Lam 	2 	16 	1 	44 	1 	it 	PRP
+Lam 	2 	16 	1 	45 	0 	.
+Lam 	2 	17 	1 	1 	1 	The 	DT
+Lam 	2 	17 	1 	2 	1 	LORD 	NN
+Lam 	2 	17 	1 	3 	1 	hath 	NN
+Lam 	2 	17 	1 	4 	1 	done 	VBN
+Lam 	2 	17 	1 	5 	1 	that 	IN
+Lam 	2 	17 	1 	6 	1 	which 	WDT
+Lam 	2 	17 	1 	7 	1 	he 	PRP
+Lam 	2 	17 	1 	8 	1 	had 	VBD
+Lam 	2 	17 	1 	9 	1 	devised 	VBN
+Lam 	2 	17 	1 	10 	0 	;
+Lam 	2 	17 	1 	11 	1 	he 	PRP
+Lam 	2 	17 	1 	12 	1 	hath 	NN
+Lam 	2 	17 	1 	13 	1 	fulfilled 	VBN
+Lam 	2 	17 	1 	14 	1 	his 	PRP$
+Lam 	2 	17 	1 	15 	1 	word 	NN
+Lam 	2 	17 	1 	16 	1 	that 	IN
+Lam 	2 	17 	1 	17 	1 	he 	PRP
+Lam 	2 	17 	1 	18 	1 	had 	VBD
+Lam 	2 	17 	1 	19 	1 	commanded 	VBN
+Lam 	2 	17 	1 	20 	1 	in 	IN
+Lam 	2 	17 	1 	21 	1 	the 	DT
+Lam 	2 	17 	1 	22 	1 	days 	NNS
+Lam 	2 	17 	1 	23 	1 	of 	IN
+Lam 	2 	17 	1 	24 	1 	old 	JJ
+Lam 	2 	17 	1 	25 	0 	:
+Lam 	2 	17 	1 	26 	1 	he 	PRP
+Lam 	2 	17 	1 	27 	1 	hath 	NN
+Lam 	2 	17 	1 	28 	1 	thrown 	NN
+Lam 	2 	17 	1 	29 	1 	down 	RB
+Lam 	2 	17 	1 	30 	0 	,
+Lam 	2 	17 	1 	31 	1 	and 	CC
+Lam 	2 	17 	1 	32 	1 	hath 	NN
+Lam 	2 	17 	1 	33 	1 	not 	RB
+Lam 	2 	17 	1 	34 	1 	pitied 	VBN
+Lam 	2 	17 	1 	35 	0 	:
+Lam 	2 	17 	1 	36 	1 	and 	CC
+Lam 	2 	17 	1 	37 	1 	he 	PRP
+Lam 	2 	17 	1 	38 	1 	hath 	NN
+Lam 	2 	17 	1 	39 	1 	caused 	VBN
+Lam 	2 	17 	1 	40 	1 	thine 	NN
+Lam 	2 	17 	1 	41 	1 	enemy 	NN
+Lam 	2 	17 	1 	42 	1 	to 	TO
+Lam 	2 	17 	1 	43 	1 	rejoice 	NN
+Lam 	2 	17 	1 	44 	1 	over 	IN
+Lam 	2 	17 	1 	45 	1 	thee 	NN
+Lam 	2 	17 	1 	46 	0 	,
+Lam 	2 	17 	1 	47 	1 	he 	PRP
+Lam 	2 	17 	1 	48 	1 	hath 	NN
+Lam 	2 	17 	1 	49 	1 	set 	NN
+Lam 	2 	17 	1 	50 	1 	up 	RB
+Lam 	2 	17 	1 	51 	1 	the 	DT
+Lam 	2 	17 	1 	52 	1 	horn 	NN
+Lam 	2 	17 	1 	53 	1 	of 	IN
+Lam 	2 	17 	1 	54 	1 	thine 	NN
+Lam 	2 	17 	1 	55 	1 	adversaries 	NNS
+Lam 	2 	17 	1 	56 	0 	.
+Lam 	2 	18 	1 	1 	1 	Their 	PRP$
+Lam 	2 	18 	1 	2 	1 	heart 	NN
+Lam 	2 	18 	1 	3 	1 	cried 	VBN
+Lam 	2 	18 	1 	4 	1 	unto 	NN
+Lam 	2 	18 	1 	5 	1 	the 	DT
+Lam 	2 	18 	1 	6 	1 	LORD 	NN
+Lam 	2 	18 	1 	7 	0 	,
+Lam 	2 	18 	1 	8 	1 	O 	NN
+Lam 	2 	18 	1 	9 	1 	wall 	NN
+Lam 	2 	18 	1 	10 	1 	of 	IN
+Lam 	2 	18 	1 	11 	1 	the 	DT
+Lam 	2 	18 	1 	12 	1 	daughter 	NN
+Lam 	2 	18 	1 	13 	1 	of 	IN
+Lam 	2 	18 	1 	14 	1 	Zion 	NN
+Lam 	2 	18 	1 	15 	0 	,
+Lam 	2 	18 	1 	16 	1 	let 	VB
+Lam 	2 	18 	1 	17 	1 	tears 	NNS
+Lam 	2 	18 	1 	18 	1 	run 	VB
+Lam 	2 	18 	1 	19 	1 	down 	RB
+Lam 	2 	18 	1 	20 	1 	like 	IN
+Lam 	2 	18 	1 	21 	1 	a 	DT
+Lam 	2 	18 	1 	22 	1 	river 	NN
+Lam 	2 	18 	1 	23 	1 	day 	NN
+Lam 	2 	18 	1 	24 	1 	and 	CC
+Lam 	2 	18 	1 	25 	1 	night 	NN
+Lam 	2 	18 	1 	26 	0 	:
+Lam 	2 	18 	1 	27 	1 	give 	VB
+Lam 	2 	18 	1 	28 	1 	thyself 	NN
+Lam 	2 	18 	1 	29 	1 	no 	DT
+Lam 	2 	18 	1 	30 	1 	rest 	NN
+Lam 	2 	18 	1 	31 	0 	;
+Lam 	2 	18 	1 	32 	1 	let 	VB
+Lam 	2 	18 	1 	33 	1 	not 	RB
+Lam 	2 	18 	1 	34 	1 	the 	DT
+Lam 	2 	18 	1 	35 	1 	apple 	NN
+Lam 	2 	18 	1 	36 	1 	of 	IN
+Lam 	2 	18 	1 	37 	1 	thine 	NN
+Lam 	2 	18 	1 	38 	1 	eye 	NN
+Lam 	2 	18 	1 	39 	1 	cease 	NN
+Lam 	2 	18 	1 	40 	0 	.
+Lam 	2 	19 	1 	1 	1 	Arise 	NN
+Lam 	2 	19 	1 	2 	0 	,
+Lam 	2 	19 	1 	3 	1 	cry 	NN
+Lam 	2 	19 	1 	4 	1 	out 	IN
+Lam 	2 	19 	1 	5 	1 	in 	IN
+Lam 	2 	19 	1 	6 	1 	the 	DT
+Lam 	2 	19 	1 	7 	1 	night 	NN
+Lam 	2 	19 	1 	8 	0 	:
+Lam 	2 	19 	1 	9 	1 	in 	IN
+Lam 	2 	19 	1 	10 	1 	the 	DT
+Lam 	2 	19 	1 	11 	1 	beginning 	VBG
+Lam 	2 	19 	1 	12 	1 	of 	IN
+Lam 	2 	19 	1 	13 	1 	the 	DT
+Lam 	2 	19 	1 	14 	1 	watches 	NNS
+Lam 	2 	19 	1 	15 	1 	pour 	NN
+Lam 	2 	19 	1 	16 	1 	out 	IN
+Lam 	2 	19 	1 	17 	1 	thine 	NN
+Lam 	2 	19 	1 	18 	1 	heart 	NN
+Lam 	2 	19 	1 	19 	1 	like 	IN
+Lam 	2 	19 	1 	20 	1 	water 	NN
+Lam 	2 	19 	1 	21 	1 	before 	IN
+Lam 	2 	19 	1 	22 	1 	the 	DT
+Lam 	2 	19 	1 	23 	1 	face 	NN
+Lam 	2 	19 	1 	24 	1 	of 	IN
+Lam 	2 	19 	1 	25 	1 	the 	DT
+Lam 	2 	19 	1 	26 	1 	LORD 	NN
+Lam 	2 	19 	1 	27 	0 	:
+Lam 	2 	19 	1 	28 	1 	lift 	NN
+Lam 	2 	19 	1 	29 	1 	up 	RB
+Lam 	2 	19 	1 	30 	1 	thy 	NN
+Lam 	2 	19 	1 	31 	1 	hands 	NNS
+Lam 	2 	19 	1 	32 	1 	toward 	IN
+Lam 	2 	19 	1 	33 	1 	him 	PRP
+Lam 	2 	19 	1 	34 	1 	for 	IN
+Lam 	2 	19 	1 	35 	1 	the 	DT
+Lam 	2 	19 	1 	36 	1 	life 	NN
+Lam 	2 	19 	1 	37 	1 	of 	IN
+Lam 	2 	19 	1 	38 	1 	thy 	NN
+Lam 	2 	19 	1 	39 	1 	young 	JJ
+Lam 	2 	19 	1 	40 	1 	children 	NNS
+Lam 	2 	19 	1 	41 	0 	,
+Lam 	2 	19 	1 	42 	1 	that 	IN
+Lam 	2 	19 	1 	43 	1 	faint 	NN
+Lam 	2 	19 	1 	44 	1 	for 	IN
+Lam 	2 	19 	1 	45 	1 	hunger 	NN
+Lam 	2 	19 	1 	46 	1 	in 	IN
+Lam 	2 	19 	1 	47 	1 	the 	DT
+Lam 	2 	19 	1 	48 	1 	top 	NN
+Lam 	2 	19 	1 	49 	1 	of 	IN
+Lam 	2 	19 	1 	50 	1 	every 	DT
+Lam 	2 	19 	1 	51 	1 	street 	NN
+Lam 	2 	19 	1 	52 	0 	.
+Lam 	2 	20 	1 	1 	1 	Behold 	NN
+Lam 	2 	20 	1 	2 	0 	,
+Lam 	2 	20 	1 	3 	1 	O 	NN
+Lam 	2 	20 	1 	4 	1 	LORD 	NN
+Lam 	2 	20 	1 	5 	0 	,
+Lam 	2 	20 	1 	6 	1 	and 	CC
+Lam 	2 	20 	1 	7 	1 	consider 	VB
+Lam 	2 	20 	1 	8 	1 	to 	TO
+Lam 	2 	20 	1 	9 	1 	whom 	WP
+Lam 	2 	20 	1 	10 	1 	thou 	NN
+Lam 	2 	20 	1 	11 	1 	hast 	NN
+Lam 	2 	20 	1 	12 	1 	done 	VBN
+Lam 	2 	20 	1 	13 	1 	this 	DT
+Lam 	2 	20 	1 	14 	0 	.
+Lam 	2 	20 	2 	1 	1 	Shall 	NN
+Lam 	2 	20 	2 	2 	1 	the 	DT
+Lam 	2 	20 	2 	3 	1 	women 	NNS
+Lam 	2 	20 	2 	4 	1 	eat 	NN
+Lam 	2 	20 	2 	5 	1 	their 	PRP$
+Lam 	2 	20 	2 	6 	1 	fruit 	NN
+Lam 	2 	20 	2 	7 	0 	,
+Lam 	2 	20 	2 	8 	1 	and 	CC
+Lam 	2 	20 	2 	9 	1 	children 	NNS
+Lam 	2 	20 	2 	10 	1 	of 	IN
+Lam 	2 	20 	2 	11 	1 	a 	DT
+Lam 	2 	20 	2 	12 	1 	span 	NN
+Lam 	2 	20 	2 	13 	1 	long 	RB
+Lam 	2 	20 	2 	14 	0 	?
+Lam 	2 	20 	3 	1 	1 	shall 	MD
+Lam 	2 	20 	3 	2 	1 	the 	DT
+Lam 	2 	20 	3 	3 	1 	priest 	NN
+Lam 	2 	20 	3 	4 	1 	and 	CC
+Lam 	2 	20 	3 	5 	1 	the 	DT
+Lam 	2 	20 	3 	6 	1 	prophet 	NN
+Lam 	2 	20 	3 	7 	1 	be 	VB
+Lam 	2 	20 	3 	8 	1 	slain 	NN
+Lam 	2 	20 	3 	9 	1 	in 	IN
+Lam 	2 	20 	3 	10 	1 	the 	DT
+Lam 	2 	20 	3 	11 	1 	sanctuary 	NN
+Lam 	2 	20 	3 	12 	1 	of 	IN
+Lam 	2 	20 	3 	13 	1 	the 	DT
+Lam 	2 	20 	3 	14 	1 	Lord 	NN
+Lam 	2 	20 	3 	15 	0 	?
+Lam 	2 	21 	1 	1 	1 	The 	DT
+Lam 	2 	21 	1 	2 	1 	young 	JJ
+Lam 	2 	21 	1 	3 	1 	and 	CC
+Lam 	2 	21 	1 	4 	1 	the 	DT
+Lam 	2 	21 	1 	5 	1 	old 	JJ
+Lam 	2 	21 	1 	6 	1 	lie 	NN
+Lam 	2 	21 	1 	7 	1 	on 	IN
+Lam 	2 	21 	1 	8 	1 	the 	DT
+Lam 	2 	21 	1 	9 	1 	ground 	NN
+Lam 	2 	21 	1 	10 	1 	in 	IN
+Lam 	2 	21 	1 	11 	1 	the 	DT
+Lam 	2 	21 	1 	12 	1 	streets 	NNS
+Lam 	2 	21 	1 	13 	0 	:
+Lam 	2 	21 	1 	14 	1 	my 	PRP$
+Lam 	2 	21 	1 	15 	1 	virgins 	NNS
+Lam 	2 	21 	1 	16 	1 	and 	CC
+Lam 	2 	21 	1 	17 	1 	my 	PRP$
+Lam 	2 	21 	1 	18 	1 	young 	JJ
+Lam 	2 	21 	1 	19 	1 	men 	NNS
+Lam 	2 	21 	1 	20 	1 	are 	VBP
+Lam 	2 	21 	1 	21 	1 	fallen 	VBN
+Lam 	2 	21 	1 	22 	1 	by 	IN
+Lam 	2 	21 	1 	23 	1 	the 	DT
+Lam 	2 	21 	1 	24 	1 	sword 	NN
+Lam 	2 	21 	1 	25 	0 	;
+Lam 	2 	21 	1 	26 	1 	thou 	NN
+Lam 	2 	21 	1 	27 	1 	hast 	NN
+Lam 	2 	21 	1 	28 	1 	slain 	NN
+Lam 	2 	21 	1 	29 	1 	them 	PRP
+Lam 	2 	21 	1 	30 	1 	in 	IN
+Lam 	2 	21 	1 	31 	1 	the 	DT
+Lam 	2 	21 	1 	32 	1 	day 	NN
+Lam 	2 	21 	1 	33 	1 	of 	IN
+Lam 	2 	21 	1 	34 	1 	thine 	NN
+Lam 	2 	21 	1 	35 	1 	anger 	NN
+Lam 	2 	21 	1 	36 	0 	;
+Lam 	2 	21 	1 	37 	1 	thou 	NN
+Lam 	2 	21 	1 	38 	1 	hast 	NN
+Lam 	2 	21 	1 	39 	1 	killed 	VBN
+Lam 	2 	21 	1 	40 	0 	,
+Lam 	2 	21 	1 	41 	1 	and 	CC
+Lam 	2 	21 	1 	42 	1 	not 	RB
+Lam 	2 	21 	1 	43 	1 	pitied 	VBN
+Lam 	2 	21 	1 	44 	0 	.
+Lam 	2 	22 	1 	1 	1 	Thou 	NN
+Lam 	2 	22 	1 	2 	1 	hast 	NN
+Lam 	2 	22 	1 	3 	1 	called 	VBN
+Lam 	2 	22 	1 	4 	1 	as 	IN
+Lam 	2 	22 	1 	5 	1 	in 	IN
+Lam 	2 	22 	1 	6 	1 	a 	DT
+Lam 	2 	22 	1 	7 	1 	solemn 	NN
+Lam 	2 	22 	1 	8 	1 	day 	NN
+Lam 	2 	22 	1 	9 	1 	my 	PRP$
+Lam 	2 	22 	1 	10 	1 	terrors 	NNS
+Lam 	2 	22 	1 	11 	1 	round 	NN
+Lam 	2 	22 	1 	12 	1 	about 	IN
+Lam 	2 	22 	1 	13 	0 	,
+Lam 	2 	22 	1 	14 	1 	so 	RB
+Lam 	2 	22 	1 	15 	1 	that 	IN
+Lam 	2 	22 	1 	16 	1 	in 	IN
+Lam 	2 	22 	1 	17 	1 	the 	DT
+Lam 	2 	22 	1 	18 	1 	day 	NN
+Lam 	2 	22 	1 	19 	1 	of 	IN
+Lam 	2 	22 	1 	20 	1 	the 	DT
+Lam 	2 	22 	1 	21 	1 	LORD 	NN
+Lam 	2 	22 	1 	22 	0 	's
+Lam 	2 	22 	1 	23 	1 	anger 	NN
+Lam 	2 	22 	1 	24 	1 	none 	NN
+Lam 	2 	22 	1 	25 	1 	escaped 	VBD
+Lam 	2 	22 	1 	26 	1 	nor 	CC
+Lam 	2 	22 	1 	27 	1 	remained 	VBD
+Lam 	2 	22 	1 	28 	0 	:
+Lam 	2 	22 	1 	29 	1 	those 	DT
+Lam 	2 	22 	1 	30 	1 	that 	IN
+Lam 	2 	22 	1 	31 	1 	I 	PRP
+Lam 	2 	22 	1 	32 	1 	have 	VB
+Lam 	2 	22 	1 	33 	1 	swaddled 	VBN
+Lam 	2 	22 	1 	34 	1 	and 	CC
+Lam 	2 	22 	1 	35 	1 	brought 	NN
+Lam 	2 	22 	1 	36 	1 	up 	RB
+Lam 	2 	22 	1 	37 	1 	hath 	NN
+Lam 	2 	22 	1 	38 	1 	mine 	NN
+Lam 	2 	22 	1 	39 	1 	enemy 	NN
+Lam 	2 	22 	1 	40 	1 	consumed 	VBN
+Lam 	2 	22 	1 	41 	0 	.
+Lam 	3 	1 	1 	1 	1 	I 	PRP
+Lam 	3 	1 	1 	2 	1 	AM 	NN
+Lam 	3 	1 	1 	3 	1 	the 	DT
+Lam 	3 	1 	1 	4 	1 	man 	NN
+Lam 	3 	1 	1 	5 	1 	that 	IN
+Lam 	3 	1 	1 	6 	1 	hath 	NN
+Lam 	3 	1 	1 	7 	1 	seen 	VBN
+Lam 	3 	1 	1 	8 	1 	affliction 	NN
+Lam 	3 	1 	1 	9 	1 	by 	IN
+Lam 	3 	1 	1 	10 	1 	the 	DT
+Lam 	3 	1 	1 	11 	1 	rod 	NN
+Lam 	3 	1 	1 	12 	1 	of 	IN
+Lam 	3 	1 	1 	13 	1 	his 	PRP$
+Lam 	3 	1 	1 	14 	1 	wrath 	NN
+Lam 	3 	1 	1 	15 	0 	.
+Lam 	3 	2 	1 	1 	1 	He 	PRP
+Lam 	3 	2 	1 	2 	1 	hath 	NN
+Lam 	3 	2 	1 	3 	1 	led 	VBN
+Lam 	3 	2 	1 	4 	1 	me 	PRP
+Lam 	3 	2 	1 	5 	0 	,
+Lam 	3 	2 	1 	6 	1 	and 	CC
+Lam 	3 	2 	1 	7 	1 	brought 	NN
+Lam 	3 	2 	1 	8 	1 	me 	PRP
+Lam 	3 	2 	1 	9 	1 	into 	IN
+Lam 	3 	2 	1 	10 	1 	darkness 	NN
+Lam 	3 	2 	1 	11 	0 	,
+Lam 	3 	2 	1 	12 	1 	but 	CC
+Lam 	3 	2 	1 	13 	1 	not 	RB
+Lam 	3 	2 	1 	14 	1 	into 	IN
+Lam 	3 	2 	1 	15 	1 	light 	NN
+Lam 	3 	2 	1 	16 	0 	.
+Lam 	3 	3 	1 	1 	1 	Surely 	RB
+Lam 	3 	3 	1 	2 	1 	against 	IN
+Lam 	3 	3 	1 	3 	1 	me 	PRP
+Lam 	3 	3 	1 	4 	1 	is 	VBZ
+Lam 	3 	3 	1 	5 	1 	he 	PRP
+Lam 	3 	3 	1 	6 	1 	turned 	VBD
+Lam 	3 	3 	1 	7 	0 	;
+Lam 	3 	3 	1 	8 	1 	he 	PRP
+Lam 	3 	3 	1 	9 	1 	turneth 	NNS
+Lam 	3 	3 	1 	10 	1 	his 	PRP$
+Lam 	3 	3 	1 	11 	1 	hand 	NN
+Lam 	3 	3 	1 	12 	1 	against 	IN
+Lam 	3 	3 	1 	13 	1 	me 	PRP
+Lam 	3 	3 	1 	14 	1 	all 	DT
+Lam 	3 	3 	1 	15 	1 	the 	DT
+Lam 	3 	3 	1 	16 	1 	day 	NN
+Lam 	3 	3 	1 	17 	0 	.
+Lam 	3 	4 	1 	1 	1 	My 	PRP$
+Lam 	3 	4 	1 	2 	1 	flesh 	NN
+Lam 	3 	4 	1 	3 	1 	and 	CC
+Lam 	3 	4 	1 	4 	1 	my 	PRP$
+Lam 	3 	4 	1 	5 	1 	skin 	NN
+Lam 	3 	4 	1 	6 	1 	hath 	NN
+Lam 	3 	4 	1 	7 	1 	he 	PRP
+Lam 	3 	4 	1 	8 	1 	made 	VBN
+Lam 	3 	4 	1 	9 	1 	old 	JJ
+Lam 	3 	4 	1 	10 	0 	;
+Lam 	3 	4 	1 	11 	1 	he 	PRP
+Lam 	3 	4 	1 	12 	1 	hath 	NN
+Lam 	3 	4 	1 	13 	1 	broken 	NN
+Lam 	3 	4 	1 	14 	1 	my 	PRP$
+Lam 	3 	4 	1 	15 	1 	bones 	NNS
+Lam 	3 	4 	1 	16 	0 	.
+Lam 	3 	5 	1 	1 	1 	He 	PRP
+Lam 	3 	5 	1 	2 	1 	hath 	NN
+Lam 	3 	5 	1 	3 	1 	builded 	VBN
+Lam 	3 	5 	1 	4 	1 	against 	IN
+Lam 	3 	5 	1 	5 	1 	me 	PRP
+Lam 	3 	5 	1 	6 	0 	,
+Lam 	3 	5 	1 	7 	1 	and 	CC
+Lam 	3 	5 	1 	8 	1 	compassed 	VBN
+Lam 	3 	5 	1 	9 	1 	me 	PRP
+Lam 	3 	5 	1 	10 	1 	with 	IN
+Lam 	3 	5 	1 	11 	1 	gall 	NN
+Lam 	3 	5 	1 	12 	1 	and 	CC
+Lam 	3 	5 	1 	13 	1 	travail 	NN
+Lam 	3 	5 	1 	14 	0 	.
+Lam 	3 	6 	1 	1 	1 	He 	PRP
+Lam 	3 	6 	1 	2 	1 	hath 	NN
+Lam 	3 	6 	1 	3 	1 	set 	NN
+Lam 	3 	6 	1 	4 	1 	me 	PRP
+Lam 	3 	6 	1 	5 	1 	in 	IN
+Lam 	3 	6 	1 	6 	1 	dark 	NN
+Lam 	3 	6 	1 	7 	1 	places 	NNS
+Lam 	3 	6 	1 	8 	0 	,
+Lam 	3 	6 	1 	9 	1 	as 	IN
+Lam 	3 	6 	1 	10 	1 	they 	PRP
+Lam 	3 	6 	1 	11 	1 	that 	IN
+Lam 	3 	6 	1 	12 	1 	be 	VB
+Lam 	3 	6 	1 	13 	1 	dead 	JJ
+Lam 	3 	6 	1 	14 	1 	of 	IN
+Lam 	3 	6 	1 	15 	1 	old 	JJ
+Lam 	3 	6 	1 	16 	0 	.
+Lam 	3 	7 	1 	1 	1 	He 	PRP
+Lam 	3 	7 	1 	2 	1 	hath 	NN
+Lam 	3 	7 	1 	3 	1 	hedged 	VBN
+Lam 	3 	7 	1 	4 	1 	me 	PRP
+Lam 	3 	7 	1 	5 	1 	about 	IN
+Lam 	3 	7 	1 	6 	0 	,
+Lam 	3 	7 	1 	7 	1 	that 	IN
+Lam 	3 	7 	1 	8 	1 	I 	PRP
+Lam 	3 	7 	1 	9 	1 	can 	MD
+Lam 	3 	7 	1 	10 	1 	not 	RB
+Lam 	3 	7 	1 	11 	1 	get 	VB
+Lam 	3 	7 	1 	12 	1 	out 	IN
+Lam 	3 	7 	1 	13 	0 	:
+Lam 	3 	7 	1 	14 	1 	he 	PRP
+Lam 	3 	7 	1 	15 	1 	hath 	NN
+Lam 	3 	7 	1 	16 	1 	made 	VBN
+Lam 	3 	7 	1 	17 	1 	my 	PRP$
+Lam 	3 	7 	1 	18 	1 	chain 	NN
+Lam 	3 	7 	1 	19 	1 	heavy 	JJ
+Lam 	3 	7 	1 	20 	0 	.
+Lam 	3 	8 	1 	1 	1 	Also 	RB
+Lam 	3 	8 	1 	2 	1 	when 	WRB
+Lam 	3 	8 	1 	3 	1 	I 	PRP
+Lam 	3 	8 	1 	4 	1 	cry 	NN
+Lam 	3 	8 	1 	5 	1 	and 	CC
+Lam 	3 	8 	1 	6 	1 	shout 	NN
+Lam 	3 	8 	1 	7 	0 	,
+Lam 	3 	8 	1 	8 	1 	he 	PRP
+Lam 	3 	8 	1 	9 	1 	shutteth 	NN
+Lam 	3 	8 	1 	10 	1 	out 	IN
+Lam 	3 	8 	1 	11 	1 	my 	PRP$
+Lam 	3 	8 	1 	12 	1 	prayer 	NN
+Lam 	3 	8 	1 	13 	0 	.
+Lam 	3 	9 	1 	1 	1 	He 	PRP
+Lam 	3 	9 	1 	2 	1 	hath 	NN
+Lam 	3 	9 	1 	3 	1 	inclosed 	VBN
+Lam 	3 	9 	1 	4 	1 	my 	PRP$
+Lam 	3 	9 	1 	5 	1 	ways 	NNS
+Lam 	3 	9 	1 	6 	1 	with 	IN
+Lam 	3 	9 	1 	7 	1 	hewn 	NN
+Lam 	3 	9 	1 	8 	1 	stone 	NN
+Lam 	3 	9 	1 	9 	0 	,
+Lam 	3 	9 	1 	10 	1 	he 	PRP
+Lam 	3 	9 	1 	11 	1 	hath 	NN
+Lam 	3 	9 	1 	12 	1 	made 	VBN
+Lam 	3 	9 	1 	13 	1 	my 	PRP$
+Lam 	3 	9 	1 	14 	1 	paths 	NNS
+Lam 	3 	9 	1 	15 	1 	crooked 	NNS
+Lam 	3 	9 	1 	16 	0 	.
+Lam 	3 	10 	1 	1 	1 	He 	PRP
+Lam 	3 	10 	1 	2 	1 	was 	VBD
+Lam 	3 	10 	1 	3 	1 	unto 	NN
+Lam 	3 	10 	1 	4 	1 	me 	PRP
+Lam 	3 	10 	1 	5 	1 	as 	IN
+Lam 	3 	10 	1 	6 	1 	a 	DT
+Lam 	3 	10 	1 	7 	1 	bear 	NN
+Lam 	3 	10 	1 	8 	1 	lying 	VBG
+Lam 	3 	10 	1 	9 	1 	in 	IN
+Lam 	3 	10 	1 	10 	1 	wait 	NN
+Lam 	3 	10 	1 	11 	0 	,
+Lam 	3 	10 	1 	12 	1 	and 	CC
+Lam 	3 	10 	1 	13 	1 	as 	IN
+Lam 	3 	10 	1 	14 	1 	a 	DT
+Lam 	3 	10 	1 	15 	1 	lion 	NN
+Lam 	3 	10 	1 	16 	1 	in 	IN
+Lam 	3 	10 	1 	17 	1 	secret 	NN
+Lam 	3 	10 	1 	18 	1 	places 	NNS
+Lam 	3 	10 	1 	19 	0 	.
+Lam 	3 	11 	1 	1 	1 	He 	PRP
+Lam 	3 	11 	1 	2 	1 	hath 	NN
+Lam 	3 	11 	1 	3 	1 	turned 	VBD
+Lam 	3 	11 	1 	4 	1 	aside 	RB
+Lam 	3 	11 	1 	5 	1 	my 	PRP$
+Lam 	3 	11 	1 	6 	1 	ways 	NNS
+Lam 	3 	11 	1 	7 	0 	,
+Lam 	3 	11 	1 	8 	1 	and 	CC
+Lam 	3 	11 	1 	9 	1 	pulled 	VBD
+Lam 	3 	11 	1 	10 	1 	me 	PRP
+Lam 	3 	11 	1 	11 	1 	in 	IN
+Lam 	3 	11 	1 	12 	1 	pieces 	NNS
+Lam 	3 	11 	1 	13 	0 	:
+Lam 	3 	11 	1 	14 	1 	he 	PRP
+Lam 	3 	11 	1 	15 	1 	hath 	NN
+Lam 	3 	11 	1 	16 	1 	made 	VBN
+Lam 	3 	11 	1 	17 	1 	me 	PRP
+Lam 	3 	11 	1 	18 	1 	desolate 	NN
+Lam 	3 	11 	1 	19 	0 	.
+Lam 	3 	12 	1 	1 	1 	He 	PRP
+Lam 	3 	12 	1 	2 	1 	hath 	NN
+Lam 	3 	12 	1 	3 	1 	bent 	NN
+Lam 	3 	12 	1 	4 	1 	his 	PRP$
+Lam 	3 	12 	1 	5 	1 	bow 	NN
+Lam 	3 	12 	1 	6 	0 	,
+Lam 	3 	12 	1 	7 	1 	and 	CC
+Lam 	3 	12 	1 	8 	1 	set 	NN
+Lam 	3 	12 	1 	9 	1 	me 	PRP
+Lam 	3 	12 	1 	10 	1 	as 	IN
+Lam 	3 	12 	1 	11 	1 	a 	DT
+Lam 	3 	12 	1 	12 	1 	mark 	NN
+Lam 	3 	12 	1 	13 	1 	for 	IN
+Lam 	3 	12 	1 	14 	1 	the 	DT
+Lam 	3 	12 	1 	15 	1 	arrow 	NN
+Lam 	3 	12 	1 	16 	0 	.
+Lam 	3 	13 	1 	1 	1 	He 	PRP
+Lam 	3 	13 	1 	2 	1 	hath 	NN
+Lam 	3 	13 	1 	3 	1 	caused 	VBN
+Lam 	3 	13 	1 	4 	1 	the 	DT
+Lam 	3 	13 	1 	5 	1 	arrows 	NNS
+Lam 	3 	13 	1 	6 	1 	of 	IN
+Lam 	3 	13 	1 	7 	1 	his 	PRP$
+Lam 	3 	13 	1 	8 	1 	quiver 	NN
+Lam 	3 	13 	1 	9 	1 	to 	TO
+Lam 	3 	13 	1 	10 	1 	enter 	NN
+Lam 	3 	13 	1 	11 	1 	into 	IN
+Lam 	3 	13 	1 	12 	1 	my 	PRP$
+Lam 	3 	13 	1 	13 	1 	reins 	NNS
+Lam 	3 	13 	1 	14 	0 	.
+Lam 	3 	14 	1 	1 	1 	I 	PRP
+Lam 	3 	14 	1 	2 	1 	was 	VBD
+Lam 	3 	14 	1 	3 	1 	a 	DT
+Lam 	3 	14 	1 	4 	1 	derision 	NN
+Lam 	3 	14 	1 	5 	1 	to 	TO
+Lam 	3 	14 	1 	6 	1 	all 	DT
+Lam 	3 	14 	1 	7 	1 	my 	PRP$
+Lam 	3 	14 	1 	8 	1 	people 	NNS
+Lam 	3 	14 	1 	9 	0 	;
+Lam 	3 	14 	1 	10 	1 	and 	CC
+Lam 	3 	14 	1 	11 	1 	their 	PRP$
+Lam 	3 	14 	1 	12 	1 	song 	NN
+Lam 	3 	14 	1 	13 	1 	all 	DT
+Lam 	3 	14 	1 	14 	1 	the 	DT
+Lam 	3 	14 	1 	15 	1 	day 	NN
+Lam 	3 	14 	1 	16 	0 	.
+Lam 	3 	15 	1 	1 	1 	He 	PRP
+Lam 	3 	15 	1 	2 	1 	hath 	NN
+Lam 	3 	15 	1 	3 	1 	filled 	VBN
+Lam 	3 	15 	1 	4 	1 	me 	PRP
+Lam 	3 	15 	1 	5 	1 	with 	IN
+Lam 	3 	15 	1 	6 	1 	bitterness 	NN
+Lam 	3 	15 	1 	7 	0 	,
+Lam 	3 	15 	1 	8 	1 	he 	PRP
+Lam 	3 	15 	1 	9 	1 	hath 	NN
+Lam 	3 	15 	1 	10 	1 	made 	VBN
+Lam 	3 	15 	1 	11 	1 	me 	PRP
+Lam 	3 	15 	1 	12 	1 	drunken 	NN
+Lam 	3 	15 	1 	13 	1 	with 	IN
+Lam 	3 	15 	1 	14 	1 	wormwood 	NN
+Lam 	3 	15 	1 	15 	0 	.
+Lam 	3 	16 	1 	1 	1 	He 	PRP
+Lam 	3 	16 	1 	2 	1 	hath 	NN
+Lam 	3 	16 	1 	3 	1 	also 	RB
+Lam 	3 	16 	1 	4 	1 	broken 	NN
+Lam 	3 	16 	1 	5 	1 	my 	PRP$
+Lam 	3 	16 	1 	6 	1 	teeth 	NNS
+Lam 	3 	16 	1 	7 	1 	with 	IN
+Lam 	3 	16 	1 	8 	1 	gravel 	NN
+Lam 	3 	16 	1 	9 	1 	stones 	NNS
+Lam 	3 	16 	1 	10 	0 	,
+Lam 	3 	16 	1 	11 	1 	he 	PRP
+Lam 	3 	16 	1 	12 	1 	hath 	NN
+Lam 	3 	16 	1 	13 	1 	covered 	VBN
+Lam 	3 	16 	1 	14 	1 	me 	PRP
+Lam 	3 	16 	1 	15 	1 	with 	IN
+Lam 	3 	16 	1 	16 	1 	ashes 	NNS
+Lam 	3 	16 	1 	17 	0 	.
+Lam 	3 	17 	1 	1 	1 	And 	CC
+Lam 	3 	17 	1 	2 	1 	thou 	NN
+Lam 	3 	17 	1 	3 	1 	hast 	NN
+Lam 	3 	17 	1 	4 	1 	removed 	VBN
+Lam 	3 	17 	1 	5 	1 	my 	PRP$
+Lam 	3 	17 	1 	6 	1 	soul 	NN
+Lam 	3 	17 	1 	7 	1 	far 	RB
+Lam 	3 	17 	1 	8 	1 	off 	IN
+Lam 	3 	17 	1 	9 	1 	from 	IN
+Lam 	3 	17 	1 	10 	1 	peace 	NN
+Lam 	3 	17 	1 	11 	0 	:
+Lam 	3 	17 	1 	12 	1 	I 	PRP
+Lam 	3 	17 	1 	13 	1 	forgat 	NN
+Lam 	3 	17 	1 	14 	1 	prosperity 	NN
+Lam 	3 	17 	1 	15 	0 	.
+Lam 	3 	18 	1 	1 	1 	And 	CC
+Lam 	3 	18 	1 	2 	1 	I 	PRP
+Lam 	3 	18 	1 	3 	1 	said 	VBD
+Lam 	3 	18 	1 	4 	0 	,
+Lam 	3 	18 	1 	5 	1 	My 	PRP$
+Lam 	3 	18 	1 	6 	1 	strength 	NN
+Lam 	3 	18 	1 	7 	1 	and 	CC
+Lam 	3 	18 	1 	8 	1 	my 	PRP$
+Lam 	3 	18 	1 	9 	1 	hope 	NN
+Lam 	3 	18 	1 	10 	1 	is 	VBZ
+Lam 	3 	18 	1 	11 	1 	perished 	VBN
+Lam 	3 	18 	1 	12 	1 	from 	IN
+Lam 	3 	18 	1 	13 	1 	the 	DT
+Lam 	3 	18 	1 	14 	1 	LORD 	NN
+Lam 	3 	18 	1 	15 	0 	:
+Lam 	3 	19 	1 	1 	1 	Remembering 	VBG
+Lam 	3 	19 	1 	2 	1 	mine 	NN
+Lam 	3 	19 	1 	3 	1 	affliction 	NN
+Lam 	3 	19 	1 	4 	1 	and 	CC
+Lam 	3 	19 	1 	5 	1 	my 	PRP$
+Lam 	3 	19 	1 	6 	1 	misery 	NN
+Lam 	3 	19 	1 	7 	0 	,
+Lam 	3 	19 	1 	8 	1 	the 	DT
+Lam 	3 	19 	1 	9 	1 	wormwood 	NN
+Lam 	3 	19 	1 	10 	1 	and 	CC
+Lam 	3 	19 	1 	11 	1 	the 	DT
+Lam 	3 	19 	1 	12 	1 	gall 	NN
+Lam 	3 	19 	1 	13 	0 	.
+Lam 	3 	20 	1 	1 	1 	My 	PRP$
+Lam 	3 	20 	1 	2 	1 	soul 	NN
+Lam 	3 	20 	1 	3 	1 	hath 	NN
+Lam 	3 	20 	1 	4 	1 	them 	PRP
+Lam 	3 	20 	1 	5 	1 	still 	RB
+Lam 	3 	20 	1 	6 	1 	in 	IN
+Lam 	3 	20 	1 	7 	1 	remembrance 	NN
+Lam 	3 	20 	1 	8 	0 	,
+Lam 	3 	20 	1 	9 	1 	and 	CC
+Lam 	3 	20 	1 	10 	1 	is 	VBZ
+Lam 	3 	20 	1 	11 	1 	humbled 	VBN
+Lam 	3 	20 	1 	12 	1 	in 	IN
+Lam 	3 	20 	1 	13 	1 	me 	PRP
+Lam 	3 	20 	1 	14 	0 	.
+Lam 	3 	21 	1 	1 	1 	This 	DT
+Lam 	3 	21 	1 	2 	1 	I 	PRP
+Lam 	3 	21 	1 	3 	1 	recall 	NN
+Lam 	3 	21 	1 	4 	1 	to 	TO
+Lam 	3 	21 	1 	5 	1 	my 	PRP$
+Lam 	3 	21 	1 	6 	1 	mind 	NN
+Lam 	3 	21 	1 	7 	0 	,
+Lam 	3 	21 	1 	8 	1 	therefore 	RB
+Lam 	3 	21 	1 	9 	1 	have 	VB
+Lam 	3 	21 	1 	10 	1 	I 	PRP
+Lam 	3 	21 	1 	11 	1 	hope 	NN
+Lam 	3 	21 	1 	12 	0 	.
+Lam 	3 	22 	1 	1 	1 	It 	PRP
+Lam 	3 	22 	1 	2 	1 	is 	VBZ
+Lam 	3 	22 	1 	3 	1 	of 	IN
+Lam 	3 	22 	1 	4 	1 	the 	DT
+Lam 	3 	22 	1 	5 	1 	LORD 	NN
+Lam 	3 	22 	1 	6 	0 	's
+Lam 	3 	22 	1 	7 	1 	mercies 	NNS
+Lam 	3 	22 	1 	8 	1 	that 	IN
+Lam 	3 	22 	1 	9 	1 	we 	PRP
+Lam 	3 	22 	1 	10 	1 	are 	VBP
+Lam 	3 	22 	1 	11 	1 	not 	RB
+Lam 	3 	22 	1 	12 	1 	consumed 	VBN
+Lam 	3 	22 	1 	13 	0 	,
+Lam 	3 	22 	1 	14 	1 	because 	IN
+Lam 	3 	22 	1 	15 	1 	his 	PRP$
+Lam 	3 	22 	1 	16 	1 	compassions 	NNS
+Lam 	3 	22 	1 	17 	1 	fail 	NN
+Lam 	3 	22 	1 	18 	1 	not 	RB
+Lam 	3 	22 	1 	19 	0 	.
+Lam 	3 	23 	1 	1 	1 	They 	PRP
+Lam 	3 	23 	1 	2 	1 	are 	VBP
+Lam 	3 	23 	1 	3 	1 	new 	JJ
+Lam 	3 	23 	1 	4 	1 	every 	DT
+Lam 	3 	23 	1 	5 	1 	morning 	NN
+Lam 	3 	23 	1 	6 	0 	:
+Lam 	3 	23 	1 	7 	1 	great 	JJ
+Lam 	3 	23 	1 	8 	1 	is 	VBZ
+Lam 	3 	23 	1 	9 	1 	thy 	NN
+Lam 	3 	23 	1 	10 	1 	faithfulness 	NN
+Lam 	3 	23 	1 	11 	0 	.
+Lam 	3 	24 	1 	1 	1 	The 	DT
+Lam 	3 	24 	1 	2 	1 	LORD 	NN
+Lam 	3 	24 	1 	3 	1 	is 	VBZ
+Lam 	3 	24 	1 	4 	1 	my 	PRP$
+Lam 	3 	24 	1 	5 	1 	portion 	NN
+Lam 	3 	24 	1 	6 	0 	,
+Lam 	3 	24 	1 	7 	1 	saith 	NN
+Lam 	3 	24 	1 	8 	1 	my 	PRP$
+Lam 	3 	24 	1 	9 	1 	soul 	NN
+Lam 	3 	24 	1 	10 	0 	;
+Lam 	3 	24 	1 	11 	1 	therefore 	RB
+Lam 	3 	24 	1 	12 	1 	will 	MD
+Lam 	3 	24 	1 	13 	1 	I 	PRP
+Lam 	3 	24 	1 	14 	1 	hope 	NN
+Lam 	3 	24 	1 	15 	1 	in 	IN
+Lam 	3 	24 	1 	16 	1 	him 	PRP
+Lam 	3 	24 	1 	17 	0 	.
+Lam 	3 	25 	1 	1 	1 	The 	DT
+Lam 	3 	25 	1 	2 	1 	LORD 	NN
+Lam 	3 	25 	1 	3 	1 	is 	VBZ
+Lam 	3 	25 	1 	4 	1 	good 	JJ
+Lam 	3 	25 	1 	5 	1 	unto 	NN
+Lam 	3 	25 	1 	6 	1 	them 	PRP
+Lam 	3 	25 	1 	7 	1 	that 	IN
+Lam 	3 	25 	1 	8 	1 	wait 	NN
+Lam 	3 	25 	1 	9 	1 	for 	IN
+Lam 	3 	25 	1 	10 	1 	him 	PRP
+Lam 	3 	25 	1 	11 	0 	,
+Lam 	3 	25 	1 	12 	1 	to 	TO
+Lam 	3 	25 	1 	13 	1 	the 	DT
+Lam 	3 	25 	1 	14 	1 	soul 	NN
+Lam 	3 	25 	1 	15 	1 	that 	IN
+Lam 	3 	25 	1 	16 	1 	seeketh 	NN
+Lam 	3 	25 	1 	17 	1 	him 	PRP
+Lam 	3 	25 	1 	18 	0 	.
+Lam 	3 	26 	1 	1 	1 	It 	PRP
+Lam 	3 	26 	1 	2 	1 	is 	VBZ
+Lam 	3 	26 	1 	3 	1 	good 	JJ
+Lam 	3 	26 	1 	4 	1 	that 	IN
+Lam 	3 	26 	1 	5 	1 	a 	DT
+Lam 	3 	26 	1 	6 	1 	man 	NN
+Lam 	3 	26 	1 	7 	1 	should 	MD
+Lam 	3 	26 	1 	8 	1 	both 	DT
+Lam 	3 	26 	1 	9 	1 	hope 	NN
+Lam 	3 	26 	1 	10 	1 	and 	CC
+Lam 	3 	26 	1 	11 	1 	quietly 	RB
+Lam 	3 	26 	1 	12 	1 	wait 	NN
+Lam 	3 	26 	1 	13 	1 	for 	IN
+Lam 	3 	26 	1 	14 	1 	the 	DT
+Lam 	3 	26 	1 	15 	1 	salvation 	NN
+Lam 	3 	26 	1 	16 	1 	of 	IN
+Lam 	3 	26 	1 	17 	1 	the 	DT
+Lam 	3 	26 	1 	18 	1 	LORD 	NN
+Lam 	3 	26 	1 	19 	0 	.
+Lam 	3 	27 	1 	1 	1 	It 	PRP
+Lam 	3 	27 	1 	2 	1 	is 	VBZ
+Lam 	3 	27 	1 	3 	1 	good 	JJ
+Lam 	3 	27 	1 	4 	1 	for 	IN
+Lam 	3 	27 	1 	5 	1 	a 	DT
+Lam 	3 	27 	1 	6 	1 	man 	NN
+Lam 	3 	27 	1 	7 	1 	that 	IN
+Lam 	3 	27 	1 	8 	1 	he 	PRP
+Lam 	3 	27 	1 	9 	1 	bear 	NN
+Lam 	3 	27 	1 	10 	1 	the 	DT
+Lam 	3 	27 	1 	11 	1 	yoke 	NN
+Lam 	3 	27 	1 	12 	1 	of 	IN
+Lam 	3 	27 	1 	13 	1 	his 	PRP$
+Lam 	3 	27 	1 	14 	1 	youth 	NN
+Lam 	3 	27 	1 	15 	0 	.
+Lam 	3 	28 	1 	1 	1 	He 	PRP
+Lam 	3 	28 	1 	2 	1 	sitteth 	NN
+Lam 	3 	28 	1 	3 	1 	alone 	RB
+Lam 	3 	28 	1 	4 	1 	and 	CC
+Lam 	3 	28 	1 	5 	1 	keepeth 	NNS
+Lam 	3 	28 	1 	6 	1 	silence 	NN
+Lam 	3 	28 	1 	7 	0 	,
+Lam 	3 	28 	1 	8 	1 	because 	IN
+Lam 	3 	28 	1 	9 	1 	he 	PRP
+Lam 	3 	28 	1 	10 	1 	hath 	NN
+Lam 	3 	28 	1 	11 	1 	borne 	NN
+Lam 	3 	28 	1 	12 	1 	it 	PRP
+Lam 	3 	28 	1 	13 	1 	upon 	IN
+Lam 	3 	28 	1 	14 	1 	him 	PRP
+Lam 	3 	28 	1 	15 	0 	.
+Lam 	3 	29 	1 	1 	1 	He 	PRP
+Lam 	3 	29 	1 	2 	1 	putteth 	NN
+Lam 	3 	29 	1 	3 	1 	his 	PRP$
+Lam 	3 	29 	1 	4 	1 	mouth 	NN
+Lam 	3 	29 	1 	5 	1 	in 	IN
+Lam 	3 	29 	1 	6 	1 	the 	DT
+Lam 	3 	29 	1 	7 	1 	dust 	NN
+Lam 	3 	29 	1 	8 	0 	;
+Lam 	3 	29 	1 	9 	1 	if 	IN
+Lam 	3 	29 	1 	10 	1 	so 	RB
+Lam 	3 	29 	1 	11 	1 	be 	VB
+Lam 	3 	29 	1 	12 	1 	there 	RB
+Lam 	3 	29 	1 	13 	1 	may 	MD
+Lam 	3 	29 	1 	14 	1 	be 	VB
+Lam 	3 	29 	1 	15 	1 	hope 	NN
+Lam 	3 	29 	1 	16 	0 	.
+Lam 	3 	30 	1 	1 	1 	He 	PRP
+Lam 	3 	30 	1 	2 	1 	giveth 	NNS
+Lam 	3 	30 	1 	3 	1 	his 	PRP$
+Lam 	3 	30 	1 	4 	1 	cheek 	NN
+Lam 	3 	30 	1 	5 	1 	to 	TO
+Lam 	3 	30 	1 	6 	1 	him 	PRP
+Lam 	3 	30 	1 	7 	1 	that 	IN
+Lam 	3 	30 	1 	8 	1 	smiteth 	NN
+Lam 	3 	30 	1 	9 	1 	him 	PRP
+Lam 	3 	30 	1 	10 	0 	:
+Lam 	3 	30 	1 	11 	1 	he 	PRP
+Lam 	3 	30 	1 	12 	1 	is 	VBZ
+Lam 	3 	30 	1 	13 	1 	filled 	VBN
+Lam 	3 	30 	1 	14 	1 	full 	JJ
+Lam 	3 	30 	1 	15 	1 	with 	IN
+Lam 	3 	30 	1 	16 	1 	reproach 	NN
+Lam 	3 	30 	1 	17 	0 	.
+Lam 	3 	31 	1 	1 	1 	For 	IN
+Lam 	3 	31 	1 	2 	1 	the 	DT
+Lam 	3 	31 	1 	3 	1 	LORD 	NN
+Lam 	3 	31 	1 	4 	1 	will 	MD
+Lam 	3 	31 	1 	5 	1 	not 	RB
+Lam 	3 	31 	1 	6 	1 	cast 	NN
+Lam 	3 	31 	1 	7 	1 	off 	IN
+Lam 	3 	31 	1 	8 	1 	for 	IN
+Lam 	3 	31 	1 	9 	1 	ever 	RB
+Lam 	3 	31 	1 	10 	0 	:
+Lam 	3 	32 	1 	1 	1 	But 	CC
+Lam 	3 	32 	1 	2 	1 	though 	IN
+Lam 	3 	32 	1 	3 	1 	he 	PRP
+Lam 	3 	32 	1 	4 	1 	cause 	NN
+Lam 	3 	32 	1 	5 	1 	grief 	NN
+Lam 	3 	32 	1 	6 	0 	,
+Lam 	3 	32 	1 	7 	1 	yet 	RB
+Lam 	3 	32 	1 	8 	1 	will 	MD
+Lam 	3 	32 	1 	9 	1 	he 	PRP
+Lam 	3 	32 	1 	10 	1 	have 	VB
+Lam 	3 	32 	1 	11 	1 	compassion 	NN
+Lam 	3 	32 	1 	12 	1 	according 	VBG
+Lam 	3 	32 	1 	13 	1 	to 	TO
+Lam 	3 	32 	1 	14 	1 	the 	DT
+Lam 	3 	32 	1 	15 	1 	multitude 	NN
+Lam 	3 	32 	1 	16 	1 	of 	IN
+Lam 	3 	32 	1 	17 	1 	his 	PRP$
+Lam 	3 	32 	1 	18 	1 	mercies 	NNS
+Lam 	3 	32 	1 	19 	0 	.
+Lam 	3 	33 	1 	1 	1 	For 	IN
+Lam 	3 	33 	1 	2 	1 	he 	PRP
+Lam 	3 	33 	1 	3 	1 	doth 	NN
+Lam 	3 	33 	1 	4 	1 	not 	RB
+Lam 	3 	33 	1 	5 	1 	afflict 	NN
+Lam 	3 	33 	1 	6 	1 	willingly 	RB
+Lam 	3 	33 	1 	7 	1 	nor 	CC
+Lam 	3 	33 	1 	8 	1 	grieve 	NN
+Lam 	3 	33 	1 	9 	1 	the 	DT
+Lam 	3 	33 	1 	10 	1 	children 	NNS
+Lam 	3 	33 	1 	11 	1 	of 	IN
+Lam 	3 	33 	1 	12 	1 	men 	NNS
+Lam 	3 	33 	1 	13 	0 	.
+Lam 	3 	34 	1 	1 	1 	To 	TO
+Lam 	3 	34 	1 	2 	1 	crush 	NN
+Lam 	3 	34 	1 	3 	1 	under 	IN
+Lam 	3 	34 	1 	4 	1 	his 	PRP$
+Lam 	3 	34 	1 	5 	1 	feet 	NNS
+Lam 	3 	34 	1 	6 	1 	all 	DT
+Lam 	3 	34 	1 	7 	1 	the 	DT
+Lam 	3 	34 	1 	8 	1 	prisoners 	NNS
+Lam 	3 	34 	1 	9 	1 	of 	IN
+Lam 	3 	34 	1 	10 	1 	the 	DT
+Lam 	3 	34 	1 	11 	1 	earth 	NN
+Lam 	3 	34 	1 	12 	0 	.
+Lam 	3 	35 	1 	1 	1 	To 	TO
+Lam 	3 	35 	1 	2 	1 	turn 	NN
+Lam 	3 	35 	1 	3 	1 	aside 	RB
+Lam 	3 	35 	1 	4 	1 	the 	DT
+Lam 	3 	35 	1 	5 	1 	right 	NN
+Lam 	3 	35 	1 	6 	1 	of 	IN
+Lam 	3 	35 	1 	7 	1 	a 	DT
+Lam 	3 	35 	1 	8 	1 	man 	NN
+Lam 	3 	35 	1 	9 	1 	before 	IN
+Lam 	3 	35 	1 	10 	1 	the 	DT
+Lam 	3 	35 	1 	11 	1 	face 	NN
+Lam 	3 	35 	1 	12 	1 	of 	IN
+Lam 	3 	35 	1 	13 	1 	the 	DT
+Lam 	3 	35 	1 	14 	1 	most 	JJS
+Lam 	3 	35 	1 	15 	1 	High 	JJ
+Lam 	3 	35 	1 	16 	0 	,
+Lam 	3 	36 	1 	1 	1 	To 	TO
+Lam 	3 	36 	1 	2 	1 	subvert 	NN
+Lam 	3 	36 	1 	3 	1 	a 	DT
+Lam 	3 	36 	1 	4 	1 	man 	NN
+Lam 	3 	36 	1 	5 	1 	in 	IN
+Lam 	3 	36 	1 	6 	1 	his 	PRP$
+Lam 	3 	36 	1 	7 	1 	cause 	NN
+Lam 	3 	36 	1 	8 	0 	,
+Lam 	3 	36 	1 	9 	1 	the 	DT
+Lam 	3 	36 	1 	10 	1 	LORD 	NN
+Lam 	3 	36 	1 	11 	1 	approveth 	NNS
+Lam 	3 	36 	1 	12 	1 	not 	RB
+Lam 	3 	36 	1 	13 	0 	.
+Lam 	3 	37 	1 	1 	1 	Who 	WP
+Lam 	3 	37 	1 	2 	1 	is 	VBZ
+Lam 	3 	37 	1 	3 	1 	he 	PRP
+Lam 	3 	37 	1 	4 	1 	that 	IN
+Lam 	3 	37 	1 	5 	1 	saith 	NN
+Lam 	3 	37 	1 	6 	0 	,
+Lam 	3 	37 	1 	7 	1 	and 	CC
+Lam 	3 	37 	1 	8 	1 	it 	PRP
+Lam 	3 	37 	1 	9 	1 	cometh 	NNS
+Lam 	3 	37 	1 	10 	1 	to 	TO
+Lam 	3 	37 	1 	11 	1 	pass 	NN
+Lam 	3 	37 	1 	12 	0 	,
+Lam 	3 	37 	1 	13 	1 	when 	WRB
+Lam 	3 	37 	1 	14 	1 	the 	DT
+Lam 	3 	37 	1 	15 	1 	Lord 	NN
+Lam 	3 	37 	1 	16 	1 	commandeth 	NNS
+Lam 	3 	37 	1 	17 	1 	it 	PRP
+Lam 	3 	37 	1 	18 	1 	not 	RB
+Lam 	3 	37 	1 	19 	0 	?
+Lam 	3 	38 	1 	1 	1 	Out 	IN
+Lam 	3 	38 	1 	2 	1 	of 	IN
+Lam 	3 	38 	1 	3 	1 	the 	DT
+Lam 	3 	38 	1 	4 	1 	mouth 	NN
+Lam 	3 	38 	1 	5 	1 	of 	IN
+Lam 	3 	38 	1 	6 	1 	the 	DT
+Lam 	3 	38 	1 	7 	1 	most 	JJS
+Lam 	3 	38 	1 	8 	1 	High 	JJ
+Lam 	3 	38 	1 	9 	1 	proceedeth 	NN
+Lam 	3 	38 	1 	10 	1 	not 	RB
+Lam 	3 	38 	1 	11 	1 	evil 	NN
+Lam 	3 	38 	1 	12 	1 	and 	CC
+Lam 	3 	38 	1 	13 	1 	good 	JJ
+Lam 	3 	38 	1 	14 	0 	?
+Lam 	3 	39 	1 	1 	1 	Wherefore 	IN
+Lam 	3 	39 	1 	2 	1 	doth 	NN
+Lam 	3 	39 	1 	3 	1 	a 	DT
+Lam 	3 	39 	1 	4 	1 	living 	NN
+Lam 	3 	39 	1 	5 	1 	man 	NN
+Lam 	3 	39 	1 	6 	1 	complain 	NN
+Lam 	3 	39 	1 	7 	0 	,
+Lam 	3 	39 	1 	8 	1 	a 	DT
+Lam 	3 	39 	1 	9 	1 	man 	NN
+Lam 	3 	39 	1 	10 	1 	for 	IN
+Lam 	3 	39 	1 	11 	1 	the 	DT
+Lam 	3 	39 	1 	12 	1 	punishment 	NN
+Lam 	3 	39 	1 	13 	1 	of 	IN
+Lam 	3 	39 	1 	14 	1 	his 	PRP$
+Lam 	3 	39 	1 	15 	1 	sins 	NNS
+Lam 	3 	39 	1 	16 	0 	?
+Lam 	3 	40 	1 	1 	1 	et 	NN
+Lam 	3 	40 	1 	2 	1 	us 	PRP
+Lam 	3 	40 	1 	3 	1 	search 	NN
+Lam 	3 	40 	1 	4 	1 	and 	CC
+Lam 	3 	40 	1 	5 	1 	try 	NN
+Lam 	3 	40 	1 	6 	1 	our 	PRP$
+Lam 	3 	40 	1 	7 	1 	ways 	NNS
+Lam 	3 	40 	1 	8 	0 	,
+Lam 	3 	40 	1 	9 	1 	and 	CC
+Lam 	3 	40 	1 	10 	1 	turn 	NN
+Lam 	3 	40 	1 	11 	1 	again 	RB
+Lam 	3 	40 	1 	12 	1 	to 	TO
+Lam 	3 	40 	1 	13 	1 	the 	DT
+Lam 	3 	40 	1 	14 	1 	LORD 	NN
+Lam 	3 	40 	1 	15 	0 	.
+Lam 	3 	41 	1 	1 	1 	et 	NN
+Lam 	3 	41 	1 	2 	1 	us 	PRP
+Lam 	3 	41 	1 	3 	1 	lift 	NN
+Lam 	3 	41 	1 	4 	1 	up 	RB
+Lam 	3 	41 	1 	5 	1 	our 	PRP$
+Lam 	3 	41 	1 	6 	1 	heart 	NN
+Lam 	3 	41 	1 	7 	1 	with 	IN
+Lam 	3 	41 	1 	8 	1 	our 	PRP$
+Lam 	3 	41 	1 	9 	1 	hands 	NNS
+Lam 	3 	41 	1 	10 	1 	unto 	NN
+Lam 	3 	41 	1 	11 	1 	God 	NNP
+Lam 	3 	41 	1 	12 	1 	in 	IN
+Lam 	3 	41 	1 	13 	1 	the 	DT
+Lam 	3 	41 	1 	14 	1 	heavens 	NNS
+Lam 	3 	41 	1 	15 	0 	.
+Lam 	3 	42 	1 	1 	1 	We 	PRP
+Lam 	3 	42 	1 	2 	1 	have 	VB
+Lam 	3 	42 	1 	3 	1 	transgressed 	VBN
+Lam 	3 	42 	1 	4 	1 	and 	CC
+Lam 	3 	42 	1 	5 	1 	have 	VB
+Lam 	3 	42 	1 	6 	1 	rebelled 	VBN
+Lam 	3 	42 	1 	7 	0 	:
+Lam 	3 	42 	1 	8 	1 	thou 	NN
+Lam 	3 	42 	1 	9 	1 	hast 	NN
+Lam 	3 	42 	1 	10 	1 	not 	RB
+Lam 	3 	42 	1 	11 	1 	pardoned 	VBN
+Lam 	3 	42 	1 	12 	0 	.
+Lam 	3 	43 	1 	1 	1 	Thou 	NN
+Lam 	3 	43 	1 	2 	1 	hast 	NN
+Lam 	3 	43 	1 	3 	1 	covered 	VBN
+Lam 	3 	43 	1 	4 	1 	with 	IN
+Lam 	3 	43 	1 	5 	1 	anger 	NN
+Lam 	3 	43 	1 	6 	0 	,
+Lam 	3 	43 	1 	7 	1 	and 	CC
+Lam 	3 	43 	1 	8 	1 	persecuted 	VBN
+Lam 	3 	43 	1 	9 	1 	us 	PRP
+Lam 	3 	43 	1 	10 	0 	:
+Lam 	3 	43 	1 	11 	1 	thou 	NN
+Lam 	3 	43 	1 	12 	1 	hast 	NN
+Lam 	3 	43 	1 	13 	1 	slain 	NN
+Lam 	3 	43 	1 	14 	0 	,
+Lam 	3 	43 	1 	15 	1 	thou 	NN
+Lam 	3 	43 	1 	16 	1 	hast 	NN
+Lam 	3 	43 	1 	17 	1 	not 	RB
+Lam 	3 	43 	1 	18 	1 	pitied 	VBN
+Lam 	3 	43 	1 	19 	0 	.
+Lam 	3 	44 	1 	1 	1 	Thou 	NN
+Lam 	3 	44 	1 	2 	1 	hast 	NN
+Lam 	3 	44 	1 	3 	1 	covered 	VBN
+Lam 	3 	44 	1 	4 	1 	thyself 	NN
+Lam 	3 	44 	1 	5 	1 	with 	IN
+Lam 	3 	44 	1 	6 	1 	a 	DT
+Lam 	3 	44 	1 	7 	1 	cloud 	NN
+Lam 	3 	44 	1 	8 	0 	,
+Lam 	3 	44 	1 	9 	1 	that 	IN
+Lam 	3 	44 	1 	10 	1 	our 	PRP$
+Lam 	3 	44 	1 	11 	1 	prayer 	NN
+Lam 	3 	44 	1 	12 	1 	should 	MD
+Lam 	3 	44 	1 	13 	1 	not 	RB
+Lam 	3 	44 	1 	14 	1 	pass 	NN
+Lam 	3 	44 	1 	15 	1 	through 	IN
+Lam 	3 	44 	1 	16 	0 	.
+Lam 	3 	45 	1 	1 	1 	Thou 	NN
+Lam 	3 	45 	1 	2 	1 	hast 	NN
+Lam 	3 	45 	1 	3 	1 	made 	VBN
+Lam 	3 	45 	1 	4 	1 	us 	PRP
+Lam 	3 	45 	1 	5 	1 	as 	IN
+Lam 	3 	45 	1 	6 	1 	the 	DT
+Lam 	3 	45 	1 	7 	1 	offscouring 	VBG
+Lam 	3 	45 	1 	8 	1 	and 	CC
+Lam 	3 	45 	1 	9 	1 	refuse 	NN
+Lam 	3 	45 	1 	10 	1 	in 	IN
+Lam 	3 	45 	1 	11 	1 	the 	DT
+Lam 	3 	45 	1 	12 	1 	midst 	NN
+Lam 	3 	45 	1 	13 	1 	of 	IN
+Lam 	3 	45 	1 	14 	1 	the 	DT
+Lam 	3 	45 	1 	15 	1 	people 	NNS
+Lam 	3 	45 	1 	16 	0 	.
+Lam 	3 	46 	1 	1 	1 	All 	DT
+Lam 	3 	46 	1 	2 	1 	our 	PRP$
+Lam 	3 	46 	1 	3 	1 	enemies 	NNS
+Lam 	3 	46 	1 	4 	1 	have 	VB
+Lam 	3 	46 	1 	5 	1 	opened 	VBN
+Lam 	3 	46 	1 	6 	1 	their 	PRP$
+Lam 	3 	46 	1 	7 	1 	mouths 	NNS
+Lam 	3 	46 	1 	8 	1 	against 	IN
+Lam 	3 	46 	1 	9 	1 	us 	PRP
+Lam 	3 	46 	1 	10 	0 	.
+Lam 	3 	47 	1 	1 	1 	Fear 	NN
+Lam 	3 	47 	1 	2 	1 	and 	CC
+Lam 	3 	47 	1 	3 	1 	a 	DT
+Lam 	3 	47 	1 	4 	1 	snare 	NN
+Lam 	3 	47 	1 	5 	1 	is 	VBZ
+Lam 	3 	47 	1 	6 	1 	come 	VB
+Lam 	3 	47 	1 	7 	1 	upon 	IN
+Lam 	3 	47 	1 	8 	1 	us 	PRP
+Lam 	3 	47 	1 	9 	0 	,
+Lam 	3 	47 	1 	10 	1 	desolation 	NN
+Lam 	3 	47 	1 	11 	1 	and 	CC
+Lam 	3 	47 	1 	12 	1 	destruction 	NN
+Lam 	3 	47 	1 	13 	0 	.
+Lam 	3 	48 	1 	1 	1 	Mine 	NN
+Lam 	3 	48 	1 	2 	1 	eye 	NN
+Lam 	3 	48 	1 	3 	1 	runneth 	NN
+Lam 	3 	48 	1 	4 	1 	down 	RB
+Lam 	3 	48 	1 	5 	1 	with 	IN
+Lam 	3 	48 	1 	6 	1 	rivers 	NNS
+Lam 	3 	48 	1 	7 	1 	of 	IN
+Lam 	3 	48 	1 	8 	1 	water 	NN
+Lam 	3 	48 	1 	9 	1 	for 	IN
+Lam 	3 	48 	1 	10 	1 	the 	DT
+Lam 	3 	48 	1 	11 	1 	destruction 	NN
+Lam 	3 	48 	1 	12 	1 	of 	IN
+Lam 	3 	48 	1 	13 	1 	the 	DT
+Lam 	3 	48 	1 	14 	1 	daughter 	NN
+Lam 	3 	48 	1 	15 	1 	of 	IN
+Lam 	3 	48 	1 	16 	1 	my 	PRP$
+Lam 	3 	48 	1 	17 	1 	people 	NNS
+Lam 	3 	48 	1 	18 	0 	.
+Lam 	3 	49 	1 	1 	1 	Mine 	NN
+Lam 	3 	49 	1 	2 	1 	eye 	NN
+Lam 	3 	49 	1 	3 	1 	trickleth 	NNS
+Lam 	3 	49 	1 	4 	1 	down 	RB
+Lam 	3 	49 	1 	5 	0 	,
+Lam 	3 	49 	1 	6 	1 	and 	CC
+Lam 	3 	49 	1 	7 	1 	ceaseth 	NNS
+Lam 	3 	49 	1 	8 	1 	not 	RB
+Lam 	3 	49 	1 	9 	0 	,
+Lam 	3 	49 	1 	10 	1 	without 	IN
+Lam 	3 	49 	1 	11 	1 	any 	DT
+Lam 	3 	49 	1 	12 	1 	intermission 	NN
+Lam 	3 	49 	1 	13 	0 	.
+Lam 	3 	50 	1 	1 	1 	Till 	NN
+Lam 	3 	50 	1 	2 	1 	the 	DT
+Lam 	3 	50 	1 	3 	1 	LORD 	NN
+Lam 	3 	50 	1 	4 	1 	look 	NN
+Lam 	3 	50 	1 	5 	1 	down 	RB
+Lam 	3 	50 	1 	6 	0 	,
+Lam 	3 	50 	1 	7 	1 	and 	CC
+Lam 	3 	50 	1 	8 	1 	behold 	NN
+Lam 	3 	50 	1 	9 	1 	from 	IN
+Lam 	3 	50 	1 	10 	1 	heaven 	NN
+Lam 	3 	50 	1 	11 	0 	.
+Lam 	3 	51 	1 	1 	1 	Mine 	NN
+Lam 	3 	51 	1 	2 	1 	eye 	NN
+Lam 	3 	51 	1 	3 	1 	affecteth 	NNS
+Lam 	3 	51 	1 	4 	1 	mine 	NN
+Lam 	3 	51 	1 	5 	1 	heart 	NN
+Lam 	3 	51 	1 	6 	1 	because 	IN
+Lam 	3 	51 	1 	7 	1 	of 	IN
+Lam 	3 	51 	1 	8 	1 	all 	DT
+Lam 	3 	51 	1 	9 	1 	the 	DT
+Lam 	3 	51 	1 	10 	1 	daughters 	NNS
+Lam 	3 	51 	1 	11 	1 	of 	IN
+Lam 	3 	51 	1 	12 	1 	my 	PRP$
+Lam 	3 	51 	1 	13 	1 	city 	NN
+Lam 	3 	51 	1 	14 	0 	.
+Lam 	3 	52 	1 	1 	1 	Mine 	NN
+Lam 	3 	52 	1 	2 	1 	enemies 	NNS
+Lam 	3 	52 	1 	3 	1 	chased 	VBN
+Lam 	3 	52 	1 	4 	1 	me 	PRP
+Lam 	3 	52 	1 	5 	1 	sore 	NN
+Lam 	3 	52 	1 	6 	0 	,
+Lam 	3 	52 	1 	7 	1 	like 	IN
+Lam 	3 	52 	1 	8 	1 	a 	DT
+Lam 	3 	52 	1 	9 	1 	bird 	NN
+Lam 	3 	52 	1 	10 	0 	,
+Lam 	3 	52 	1 	11 	1 	without 	IN
+Lam 	3 	52 	1 	12 	1 	cause 	NN
+Lam 	3 	52 	1 	13 	0 	.
+Lam 	3 	53 	1 	1 	1 	They 	PRP
+Lam 	3 	53 	1 	2 	1 	have 	VB
+Lam 	3 	53 	1 	3 	1 	cut 	NN
+Lam 	3 	53 	1 	4 	1 	off 	IN
+Lam 	3 	53 	1 	5 	1 	my 	PRP$
+Lam 	3 	53 	1 	6 	1 	life 	NN
+Lam 	3 	53 	1 	7 	1 	in 	IN
+Lam 	3 	53 	1 	8 	1 	the 	DT
+Lam 	3 	53 	1 	9 	1 	dungeon 	NN
+Lam 	3 	53 	1 	10 	0 	,
+Lam 	3 	53 	1 	11 	1 	and 	CC
+Lam 	3 	53 	1 	12 	1 	cast 	NN
+Lam 	3 	53 	1 	13 	1 	a 	DT
+Lam 	3 	53 	1 	14 	1 	stone 	NN
+Lam 	3 	53 	1 	15 	1 	upon 	IN
+Lam 	3 	53 	1 	16 	1 	me 	PRP
+Lam 	3 	53 	1 	17 	0 	.
+Lam 	3 	54 	1 	1 	1 	Waters 	NNS
+Lam 	3 	54 	1 	2 	1 	flowed 	VBN
+Lam 	3 	54 	1 	3 	1 	over 	IN
+Lam 	3 	54 	1 	4 	1 	mine 	NN
+Lam 	3 	54 	1 	5 	1 	head 	NN
+Lam 	3 	54 	1 	6 	0 	;
+Lam 	3 	54 	1 	7 	1 	then 	RB
+Lam 	3 	54 	1 	8 	1 	I 	PRP
+Lam 	3 	54 	1 	9 	1 	said 	VBD
+Lam 	3 	54 	1 	10 	0 	,
+Lam 	3 	54 	1 	11 	1 	I 	PRP
+Lam 	3 	54 	1 	12 	1 	am 	VBP
+Lam 	3 	54 	1 	13 	1 	cut 	NN
+Lam 	3 	54 	1 	14 	1 	off 	IN
+Lam 	3 	54 	1 	15 	0 	.
+Lam 	3 	55 	1 	1 	1 	I 	PRP
+Lam 	3 	55 	1 	2 	1 	called 	VBN
+Lam 	3 	55 	1 	3 	1 	upon 	IN
+Lam 	3 	55 	1 	4 	1 	thy 	NN
+Lam 	3 	55 	1 	5 	1 	name 	NN
+Lam 	3 	55 	1 	6 	0 	,
+Lam 	3 	55 	1 	7 	1 	O 	NN
+Lam 	3 	55 	1 	8 	1 	LORD 	NN
+Lam 	3 	55 	1 	9 	0 	,
+Lam 	3 	55 	1 	10 	1 	out 	IN
+Lam 	3 	55 	1 	11 	1 	of 	IN
+Lam 	3 	55 	1 	12 	1 	the 	DT
+Lam 	3 	55 	1 	13 	1 	low 	JJ
+Lam 	3 	55 	1 	14 	1 	dungeon 	NN
+Lam 	3 	55 	1 	15 	0 	.
+Lam 	3 	56 	1 	1 	1 	Thou 	NN
+Lam 	3 	56 	1 	2 	1 	hast 	NN
+Lam 	3 	56 	1 	3 	1 	heard 	NN
+Lam 	3 	56 	1 	4 	1 	my 	PRP$
+Lam 	3 	56 	1 	5 	1 	voice 	NN
+Lam 	3 	56 	1 	6 	0 	:
+Lam 	3 	56 	1 	7 	1 	hide 	NN
+Lam 	3 	56 	1 	8 	1 	not 	RB
+Lam 	3 	56 	1 	9 	1 	thine 	NN
+Lam 	3 	56 	1 	10 	1 	ear 	NN
+Lam 	3 	56 	1 	11 	1 	at 	IN
+Lam 	3 	56 	1 	12 	1 	my 	PRP$
+Lam 	3 	56 	1 	13 	1 	breathing 	NN
+Lam 	3 	56 	1 	14 	0 	,
+Lam 	3 	56 	1 	15 	1 	at 	IN
+Lam 	3 	56 	1 	16 	1 	my 	PRP$
+Lam 	3 	56 	1 	17 	1 	cry 	NN
+Lam 	3 	56 	1 	18 	0 	.
+Lam 	3 	57 	1 	1 	1 	Thou 	NN
+Lam 	3 	57 	1 	2 	1 	drewest 	NN
+Lam 	3 	57 	1 	3 	1 	near 	IN
+Lam 	3 	57 	1 	4 	1 	in 	IN
+Lam 	3 	57 	1 	5 	1 	the 	DT
+Lam 	3 	57 	1 	6 	1 	day 	NN
+Lam 	3 	57 	1 	7 	1 	that 	IN
+Lam 	3 	57 	1 	8 	1 	I 	PRP
+Lam 	3 	57 	1 	9 	1 	called 	VBN
+Lam 	3 	57 	1 	10 	1 	upon 	IN
+Lam 	3 	57 	1 	11 	1 	thee 	NN
+Lam 	3 	57 	1 	12 	0 	:
+Lam 	3 	57 	1 	13 	1 	thou 	NN
+Lam 	3 	57 	1 	14 	1 	saidst 	NN
+Lam 	3 	57 	1 	15 	0 	,
+Lam 	3 	57 	1 	16 	1 	Fear 	NN
+Lam 	3 	57 	1 	17 	1 	not 	RB
+Lam 	3 	57 	1 	18 	0 	.
+Lam 	3 	58 	1 	1 	1 	O 	NN
+Lam 	3 	58 	1 	2 	1 	LORD 	NN
+Lam 	3 	58 	1 	3 	0 	,
+Lam 	3 	58 	1 	4 	1 	thou 	NN
+Lam 	3 	58 	1 	5 	1 	hast 	NN
+Lam 	3 	58 	1 	6 	1 	pleaded 	VBD
+Lam 	3 	58 	1 	7 	1 	the 	DT
+Lam 	3 	58 	1 	8 	1 	causes 	NNS
+Lam 	3 	58 	1 	9 	1 	of 	IN
+Lam 	3 	58 	1 	10 	1 	my 	PRP$
+Lam 	3 	58 	1 	11 	1 	soul 	NN
+Lam 	3 	58 	1 	12 	0 	;
+Lam 	3 	58 	1 	13 	1 	thou 	NN
+Lam 	3 	58 	1 	14 	1 	hast 	NN
+Lam 	3 	58 	1 	15 	1 	redeemed 	VBN
+Lam 	3 	58 	1 	16 	1 	my 	PRP$
+Lam 	3 	58 	1 	17 	1 	life 	NN
+Lam 	3 	58 	1 	18 	0 	.
+Lam 	3 	59 	1 	1 	1 	O 	NN
+Lam 	3 	59 	1 	2 	1 	LORD 	NN
+Lam 	3 	59 	1 	3 	0 	,
+Lam 	3 	59 	1 	4 	1 	thou 	NN
+Lam 	3 	59 	1 	5 	1 	hast 	NN
+Lam 	3 	59 	1 	6 	1 	seen 	VBN
+Lam 	3 	59 	1 	7 	1 	my 	PRP$
+Lam 	3 	59 	1 	8 	1 	wrong 	JJ
+Lam 	3 	59 	1 	9 	0 	:
+Lam 	3 	59 	1 	10 	1 	judge 	NN
+Lam 	3 	59 	1 	11 	1 	thou 	NN
+Lam 	3 	59 	1 	12 	1 	my 	PRP$
+Lam 	3 	59 	1 	13 	1 	cause 	NN
+Lam 	3 	59 	1 	14 	0 	.
+Lam 	3 	60 	1 	1 	1 	Thou 	NN
+Lam 	3 	60 	1 	2 	1 	hast 	NN
+Lam 	3 	60 	1 	3 	1 	seen 	VBN
+Lam 	3 	60 	1 	4 	1 	all 	DT
+Lam 	3 	60 	1 	5 	1 	their 	PRP$
+Lam 	3 	60 	1 	6 	1 	vengeance 	NN
+Lam 	3 	60 	1 	7 	1 	and 	CC
+Lam 	3 	60 	1 	8 	1 	all 	DT
+Lam 	3 	60 	1 	9 	1 	their 	PRP$
+Lam 	3 	60 	1 	10 	1 	imaginations 	NNS
+Lam 	3 	60 	1 	11 	1 	against 	IN
+Lam 	3 	60 	1 	12 	1 	me 	PRP
+Lam 	3 	60 	1 	13 	0 	.
+Lam 	3 	61 	1 	1 	1 	Thou 	NN
+Lam 	3 	61 	1 	2 	1 	hast 	NN
+Lam 	3 	61 	1 	3 	1 	heard 	NN
+Lam 	3 	61 	1 	4 	1 	their 	PRP$
+Lam 	3 	61 	1 	5 	1 	reproach 	NN
+Lam 	3 	61 	1 	6 	0 	,
+Lam 	3 	61 	1 	7 	1 	O 	NN
+Lam 	3 	61 	1 	8 	1 	LORD 	NN
+Lam 	3 	61 	1 	9 	0 	,
+Lam 	3 	61 	1 	10 	1 	and 	CC
+Lam 	3 	61 	1 	11 	1 	all 	DT
+Lam 	3 	61 	1 	12 	1 	their 	PRP$
+Lam 	3 	61 	1 	13 	1 	imaginations 	NNS
+Lam 	3 	61 	1 	14 	1 	against 	IN
+Lam 	3 	61 	1 	15 	1 	me 	PRP
+Lam 	3 	61 	1 	16 	0 	;
+Lam 	3 	62 	1 	1 	1 	The 	DT
+Lam 	3 	62 	1 	2 	1 	lips 	NNS
+Lam 	3 	62 	1 	3 	1 	of 	IN
+Lam 	3 	62 	1 	4 	1 	those 	DT
+Lam 	3 	62 	1 	5 	1 	that 	IN
+Lam 	3 	62 	1 	6 	1 	rose 	VBD
+Lam 	3 	62 	1 	7 	1 	up 	RB
+Lam 	3 	62 	1 	8 	1 	against 	IN
+Lam 	3 	62 	1 	9 	1 	me 	PRP
+Lam 	3 	62 	1 	10 	0 	,
+Lam 	3 	62 	1 	11 	1 	and 	CC
+Lam 	3 	62 	1 	12 	1 	their 	PRP$
+Lam 	3 	62 	1 	13 	1 	device 	NN
+Lam 	3 	62 	1 	14 	1 	against 	IN
+Lam 	3 	62 	1 	15 	1 	me 	PRP
+Lam 	3 	62 	1 	16 	1 	all 	DT
+Lam 	3 	62 	1 	17 	1 	the 	DT
+Lam 	3 	62 	1 	18 	1 	day 	NN
+Lam 	3 	62 	1 	19 	0 	.
+Lam 	3 	63 	1 	1 	1 	Behold 	NN
+Lam 	3 	63 	1 	2 	1 	their 	PRP$
+Lam 	3 	63 	1 	3 	1 	sitting 	VBG
+Lam 	3 	63 	1 	4 	1 	down 	RB
+Lam 	3 	63 	1 	5 	0 	,
+Lam 	3 	63 	1 	6 	1 	and 	CC
+Lam 	3 	63 	1 	7 	1 	their 	PRP$
+Lam 	3 	63 	1 	8 	1 	rising 	VBG
+Lam 	3 	63 	1 	9 	1 	up 	RB
+Lam 	3 	63 	1 	10 	0 	;
+Lam 	3 	63 	1 	11 	1 	I 	PRP
+Lam 	3 	63 	1 	12 	1 	am 	VBP
+Lam 	3 	63 	1 	13 	1 	their 	PRP$
+Lam 	3 	63 	1 	14 	1 	musick 	NN
+Lam 	3 	63 	1 	15 	0 	.
+Lam 	3 	64 	1 	1 	1 	Render 	NN
+Lam 	3 	64 	1 	2 	1 	unto 	NN
+Lam 	3 	64 	1 	3 	1 	them 	PRP
+Lam 	3 	64 	1 	4 	1 	a 	DT
+Lam 	3 	64 	1 	5 	1 	recompence 	NN
+Lam 	3 	64 	1 	6 	0 	,
+Lam 	3 	64 	1 	7 	1 	O 	NN
+Lam 	3 	64 	1 	8 	1 	LORD 	NN
+Lam 	3 	64 	1 	9 	0 	,
+Lam 	3 	64 	1 	10 	1 	according 	VBG
+Lam 	3 	64 	1 	11 	1 	to 	TO
+Lam 	3 	64 	1 	12 	1 	the 	DT
+Lam 	3 	64 	1 	13 	1 	work 	NN
+Lam 	3 	64 	1 	14 	1 	of 	IN
+Lam 	3 	64 	1 	15 	1 	their 	PRP$
+Lam 	3 	64 	1 	16 	1 	hands 	NNS
+Lam 	3 	64 	1 	17 	0 	.
+Lam 	3 	65 	1 	1 	1 	Give 	VB
+Lam 	3 	65 	1 	2 	1 	them 	PRP
+Lam 	3 	65 	1 	3 	1 	sorrow 	NN
+Lam 	3 	65 	1 	4 	1 	of 	IN
+Lam 	3 	65 	1 	5 	1 	heart 	NN
+Lam 	3 	65 	1 	6 	0 	,
+Lam 	3 	65 	1 	7 	1 	thy 	NN
+Lam 	3 	65 	1 	8 	1 	curse 	NN
+Lam 	3 	65 	1 	9 	1 	unto 	NN
+Lam 	3 	65 	1 	10 	1 	them 	PRP
+Lam 	3 	65 	1 	11 	0 	.
+Lam 	3 	66 	1 	1 	1 	Persecute 	NN
+Lam 	3 	66 	1 	2 	1 	and 	CC
+Lam 	3 	66 	1 	3 	1 	destroy 	NN
+Lam 	3 	66 	1 	4 	1 	them 	PRP
+Lam 	3 	66 	1 	5 	1 	in 	IN
+Lam 	3 	66 	1 	6 	1 	anger 	NN
+Lam 	3 	66 	1 	7 	1 	from 	IN
+Lam 	3 	66 	1 	8 	1 	under 	IN
+Lam 	3 	66 	1 	9 	1 	the 	DT
+Lam 	3 	66 	1 	10 	1 	heavens 	NNS
+Lam 	3 	66 	1 	11 	1 	of 	IN
+Lam 	3 	66 	1 	12 	1 	the 	DT
+Lam 	3 	66 	1 	13 	1 	LORD 	NN
+Lam 	3 	66 	1 	14 	0 	.
+Lam 	4 	1 	1 	1 	1 	How 	WRB
+Lam 	4 	1 	1 	2 	1 	is 	VBZ
+Lam 	4 	1 	1 	3 	1 	the 	DT
+Lam 	4 	1 	1 	4 	1 	gold 	NN
+Lam 	4 	1 	1 	5 	1 	become 	NN
+Lam 	4 	1 	1 	6 	1 	dim 	NN
+Lam 	4 	1 	1 	7 	0 	!
+Lam 	4 	1 	2 	1 	1 	how 	WRB
+Lam 	4 	1 	2 	2 	1 	is 	VBZ
+Lam 	4 	1 	2 	3 	1 	the 	DT
+Lam 	4 	1 	2 	4 	1 	most 	JJS
+Lam 	4 	1 	2 	5 	1 	fine 	NN
+Lam 	4 	1 	2 	6 	1 	gold 	NN
+Lam 	4 	1 	2 	7 	1 	changed 	VBN
+Lam 	4 	1 	2 	8 	0 	!
+Lam 	4 	1 	3 	1 	1 	the 	DT
+Lam 	4 	1 	3 	2 	1 	stones 	NNS
+Lam 	4 	1 	3 	3 	1 	of 	IN
+Lam 	4 	1 	3 	4 	1 	the 	DT
+Lam 	4 	1 	3 	5 	1 	sanctuary 	NN
+Lam 	4 	1 	3 	6 	1 	are 	VBP
+Lam 	4 	1 	3 	7 	1 	poured 	VBN
+Lam 	4 	1 	3 	8 	1 	out 	IN
+Lam 	4 	1 	3 	9 	1 	in 	IN
+Lam 	4 	1 	3 	10 	1 	the 	DT
+Lam 	4 	1 	3 	11 	1 	top 	NN
+Lam 	4 	1 	3 	12 	1 	of 	IN
+Lam 	4 	1 	3 	13 	1 	every 	DT
+Lam 	4 	1 	3 	14 	1 	street 	NN
+Lam 	4 	1 	3 	15 	0 	.
+Lam 	4 	2 	1 	1 	1 	The 	DT
+Lam 	4 	2 	1 	2 	1 	precious 	JJ
+Lam 	4 	2 	1 	3 	1 	sons 	NNS
+Lam 	4 	2 	1 	4 	1 	of 	IN
+Lam 	4 	2 	1 	5 	1 	Zion 	NN
+Lam 	4 	2 	1 	6 	0 	,
+Lam 	4 	2 	1 	7 	1 	comparable 	JJ
+Lam 	4 	2 	1 	8 	1 	to 	TO
+Lam 	4 	2 	1 	9 	1 	fine 	NN
+Lam 	4 	2 	1 	10 	1 	gold 	NN
+Lam 	4 	2 	1 	11 	0 	,
+Lam 	4 	2 	1 	12 	1 	how 	WRB
+Lam 	4 	2 	1 	13 	1 	are 	VBP
+Lam 	4 	2 	1 	14 	1 	they 	PRP
+Lam 	4 	2 	1 	15 	1 	esteemed 	VBN
+Lam 	4 	2 	1 	16 	1 	as 	IN
+Lam 	4 	2 	1 	17 	1 	earthen 	NN
+Lam 	4 	2 	1 	18 	1 	pitchers 	NNS
+Lam 	4 	2 	1 	19 	0 	,
+Lam 	4 	2 	1 	20 	1 	the 	DT
+Lam 	4 	2 	1 	21 	1 	work 	NN
+Lam 	4 	2 	1 	22 	1 	of 	IN
+Lam 	4 	2 	1 	23 	1 	the 	DT
+Lam 	4 	2 	1 	24 	1 	hands 	NNS
+Lam 	4 	2 	1 	25 	1 	of 	IN
+Lam 	4 	2 	1 	26 	1 	the 	DT
+Lam 	4 	2 	1 	27 	1 	potter 	NN
+Lam 	4 	2 	1 	28 	0 	!
+Lam 	4 	3 	1 	1 	1 	Even 	RB
+Lam 	4 	3 	1 	2 	1 	the 	DT
+Lam 	4 	3 	1 	3 	1 	sea 	NN
+Lam 	4 	3 	1 	4 	1 	monsters 	NNS
+Lam 	4 	3 	1 	5 	1 	draw 	NN
+Lam 	4 	3 	1 	6 	1 	out 	IN
+Lam 	4 	3 	1 	7 	1 	the 	DT
+Lam 	4 	3 	1 	8 	1 	breast 	NN
+Lam 	4 	3 	1 	9 	0 	,
+Lam 	4 	3 	1 	10 	1 	they 	PRP
+Lam 	4 	3 	1 	11 	1 	give 	VB
+Lam 	4 	3 	1 	12 	1 	suck 	NN
+Lam 	4 	3 	1 	13 	1 	to 	TO
+Lam 	4 	3 	1 	14 	1 	their 	PRP$
+Lam 	4 	3 	1 	15 	1 	young 	JJ
+Lam 	4 	3 	1 	16 	1 	ones 	NNS
+Lam 	4 	3 	1 	17 	0 	:
+Lam 	4 	3 	1 	18 	1 	the 	DT
+Lam 	4 	3 	1 	19 	1 	daughter 	NN
+Lam 	4 	3 	1 	20 	1 	of 	IN
+Lam 	4 	3 	1 	21 	1 	my 	PRP$
+Lam 	4 	3 	1 	22 	1 	people 	NNS
+Lam 	4 	3 	1 	23 	1 	is 	VBZ
+Lam 	4 	3 	1 	24 	1 	become 	NN
+Lam 	4 	3 	1 	25 	1 	cruel 	NN
+Lam 	4 	3 	1 	26 	0 	,
+Lam 	4 	3 	1 	27 	1 	like 	IN
+Lam 	4 	3 	1 	28 	1 	the 	DT
+Lam 	4 	3 	1 	29 	1 	ostriches 	NNS
+Lam 	4 	3 	1 	30 	1 	in 	IN
+Lam 	4 	3 	1 	31 	1 	the 	DT
+Lam 	4 	3 	1 	32 	1 	wilderness 	NN
+Lam 	4 	3 	1 	33 	0 	.
+Lam 	4 	4 	1 	1 	1 	The 	DT
+Lam 	4 	4 	1 	2 	1 	tongue 	NN
+Lam 	4 	4 	1 	3 	1 	of 	IN
+Lam 	4 	4 	1 	4 	1 	the 	DT
+Lam 	4 	4 	1 	5 	1 	sucking 	VBG
+Lam 	4 	4 	1 	6 	1 	child 	NN
+Lam 	4 	4 	1 	7 	1 	cleaveth 	NNS
+Lam 	4 	4 	1 	8 	1 	to 	TO
+Lam 	4 	4 	1 	9 	1 	the 	DT
+Lam 	4 	4 	1 	10 	1 	roof 	NN
+Lam 	4 	4 	1 	11 	1 	of 	IN
+Lam 	4 	4 	1 	12 	1 	his 	PRP$
+Lam 	4 	4 	1 	13 	1 	mouth 	NN
+Lam 	4 	4 	1 	14 	1 	for 	IN
+Lam 	4 	4 	1 	15 	1 	thirst 	NN
+Lam 	4 	4 	1 	16 	0 	:
+Lam 	4 	4 	1 	17 	1 	the 	DT
+Lam 	4 	4 	1 	18 	1 	young 	JJ
+Lam 	4 	4 	1 	19 	1 	children 	NNS
+Lam 	4 	4 	1 	20 	1 	ask 	NN
+Lam 	4 	4 	1 	21 	1 	bread 	NN
+Lam 	4 	4 	1 	22 	0 	,
+Lam 	4 	4 	1 	23 	1 	and 	CC
+Lam 	4 	4 	1 	24 	1 	no 	DT
+Lam 	4 	4 	1 	25 	1 	man 	NN
+Lam 	4 	4 	1 	26 	1 	breaketh 	NN
+Lam 	4 	4 	1 	27 	1 	it 	PRP
+Lam 	4 	4 	1 	28 	1 	unto 	NN
+Lam 	4 	4 	1 	29 	1 	them 	PRP
+Lam 	4 	4 	1 	30 	0 	.
+Lam 	4 	5 	1 	1 	1 	They 	PRP
+Lam 	4 	5 	1 	2 	1 	that 	IN
+Lam 	4 	5 	1 	3 	1 	did 	VBD
+Lam 	4 	5 	1 	4 	1 	feed 	NN
+Lam 	4 	5 	1 	5 	1 	delicately 	RB
+Lam 	4 	5 	1 	6 	1 	are 	VBP
+Lam 	4 	5 	1 	7 	1 	desolate 	NN
+Lam 	4 	5 	1 	8 	1 	in 	IN
+Lam 	4 	5 	1 	9 	1 	the 	DT
+Lam 	4 	5 	1 	10 	1 	streets 	NNS
+Lam 	4 	5 	1 	11 	0 	:
+Lam 	4 	5 	1 	12 	1 	they 	PRP
+Lam 	4 	5 	1 	13 	1 	that 	IN
+Lam 	4 	5 	1 	14 	1 	were 	VBD
+Lam 	4 	5 	1 	15 	1 	brought 	NN
+Lam 	4 	5 	1 	16 	1 	up 	RB
+Lam 	4 	5 	1 	17 	1 	in 	IN
+Lam 	4 	5 	1 	18 	1 	scarlet 	NN
+Lam 	4 	5 	1 	19 	1 	embrace 	NN
+Lam 	4 	5 	1 	20 	1 	dunghills 	NNS
+Lam 	4 	5 	1 	21 	0 	.
+Lam 	4 	6 	1 	1 	1 	For 	IN
+Lam 	4 	6 	1 	2 	1 	the 	DT
+Lam 	4 	6 	1 	3 	1 	punishment 	NN
+Lam 	4 	6 	1 	4 	1 	of 	IN
+Lam 	4 	6 	1 	5 	1 	the 	DT
+Lam 	4 	6 	1 	6 	1 	iniquity 	NN
+Lam 	4 	6 	1 	7 	1 	of 	IN
+Lam 	4 	6 	1 	8 	1 	the 	DT
+Lam 	4 	6 	1 	9 	1 	daughter 	NN
+Lam 	4 	6 	1 	10 	1 	of 	IN
+Lam 	4 	6 	1 	11 	1 	my 	PRP$
+Lam 	4 	6 	1 	12 	1 	people 	NNS
+Lam 	4 	6 	1 	13 	1 	is 	VBZ
+Lam 	4 	6 	1 	14 	1 	greater 	JJR
+Lam 	4 	6 	1 	15 	1 	than 	IN
+Lam 	4 	6 	1 	16 	1 	the 	DT
+Lam 	4 	6 	1 	17 	1 	punishment 	NN
+Lam 	4 	6 	1 	18 	1 	of 	IN
+Lam 	4 	6 	1 	19 	1 	the 	DT
+Lam 	4 	6 	1 	20 	1 	sin 	NN
+Lam 	4 	6 	1 	21 	1 	of 	IN
+Lam 	4 	6 	1 	22 	1 	Sodom 	NN
+Lam 	4 	6 	1 	23 	0 	,
+Lam 	4 	6 	1 	24 	1 	that 	IN
+Lam 	4 	6 	1 	25 	1 	was 	VBD
+Lam 	4 	6 	1 	26 	1 	overthrown 	IN
+Lam 	4 	6 	1 	27 	1 	as 	IN
+Lam 	4 	6 	1 	28 	1 	in 	IN
+Lam 	4 	6 	1 	29 	1 	a 	DT
+Lam 	4 	6 	1 	30 	1 	moment 	NN
+Lam 	4 	6 	1 	31 	0 	,
+Lam 	4 	6 	1 	32 	1 	and 	CC
+Lam 	4 	6 	1 	33 	1 	no 	DT
+Lam 	4 	6 	1 	34 	1 	hands 	NNS
+Lam 	4 	6 	1 	35 	1 	stayed 	NN
+Lam 	4 	6 	1 	36 	1 	on 	IN
+Lam 	4 	6 	1 	37 	1 	her 	PRP$
+Lam 	4 	6 	1 	38 	0 	.
+Lam 	4 	7 	1 	1 	1 	Her 	PRP$
+Lam 	4 	7 	1 	2 	1 	Nazarites 	NNS
+Lam 	4 	7 	1 	3 	1 	were 	VBD
+Lam 	4 	7 	1 	4 	1 	purer 	NN
+Lam 	4 	7 	1 	5 	1 	than 	IN
+Lam 	4 	7 	1 	6 	1 	snow 	NN
+Lam 	4 	7 	1 	7 	0 	,
+Lam 	4 	7 	1 	8 	1 	they 	PRP
+Lam 	4 	7 	1 	9 	1 	were 	VBD
+Lam 	4 	7 	1 	10 	1 	whiter 	NN
+Lam 	4 	7 	1 	11 	1 	than 	IN
+Lam 	4 	7 	1 	12 	1 	milk 	NN
+Lam 	4 	7 	1 	13 	0 	,
+Lam 	4 	7 	1 	14 	1 	they 	PRP
+Lam 	4 	7 	1 	15 	1 	were 	VBD
+Lam 	4 	7 	1 	16 	1 	more 	RBR
+Lam 	4 	7 	1 	17 	1 	ruddy 	NN
+Lam 	4 	7 	1 	18 	1 	in 	IN
+Lam 	4 	7 	1 	19 	1 	body 	NN
+Lam 	4 	7 	1 	20 	1 	than 	IN
+Lam 	4 	7 	1 	21 	1 	rubies 	NNS
+Lam 	4 	7 	1 	22 	0 	,
+Lam 	4 	7 	1 	23 	1 	their 	PRP$
+Lam 	4 	7 	1 	24 	1 	polishing 	VBG
+Lam 	4 	7 	1 	25 	1 	was 	VBD
+Lam 	4 	7 	1 	26 	1 	of 	IN
+Lam 	4 	7 	1 	27 	1 	sapphire 	NN
+Lam 	4 	7 	1 	28 	0 	:
+Lam 	4 	8 	1 	1 	1 	Their 	PRP$
+Lam 	4 	8 	1 	2 	1 	visage 	NN
+Lam 	4 	8 	1 	3 	1 	is 	VBZ
+Lam 	4 	8 	1 	4 	1 	blacker 	NN
+Lam 	4 	8 	1 	5 	1 	than 	IN
+Lam 	4 	8 	1 	6 	1 	a 	DT
+Lam 	4 	8 	1 	7 	1 	coal 	NN
+Lam 	4 	8 	1 	8 	0 	;
+Lam 	4 	8 	1 	9 	1 	they 	PRP
+Lam 	4 	8 	1 	10 	1 	are 	VBP
+Lam 	4 	8 	1 	11 	1 	not 	RB
+Lam 	4 	8 	1 	12 	1 	known 	VBN
+Lam 	4 	8 	1 	13 	1 	in 	IN
+Lam 	4 	8 	1 	14 	1 	the 	DT
+Lam 	4 	8 	1 	15 	1 	streets 	NNS
+Lam 	4 	8 	1 	16 	0 	:
+Lam 	4 	8 	1 	17 	1 	their 	PRP$
+Lam 	4 	8 	1 	18 	1 	skin 	NN
+Lam 	4 	8 	1 	19 	1 	cleaveth 	NNS
+Lam 	4 	8 	1 	20 	1 	to 	TO
+Lam 	4 	8 	1 	21 	1 	their 	PRP$
+Lam 	4 	8 	1 	22 	1 	bones 	NNS
+Lam 	4 	8 	1 	23 	0 	;
+Lam 	4 	8 	1 	24 	1 	it 	PRP
+Lam 	4 	8 	1 	25 	1 	is 	VBZ
+Lam 	4 	8 	1 	26 	1 	withered 	VBD
+Lam 	4 	8 	1 	27 	0 	,
+Lam 	4 	8 	1 	28 	1 	it 	PRP
+Lam 	4 	8 	1 	29 	1 	is 	VBZ
+Lam 	4 	8 	1 	30 	1 	become 	NN
+Lam 	4 	8 	1 	31 	1 	like 	IN
+Lam 	4 	8 	1 	32 	1 	a 	DT
+Lam 	4 	8 	1 	33 	1 	stick 	NN
+Lam 	4 	8 	1 	34 	0 	.
+Lam 	4 	9 	1 	1 	1 	They 	PRP
+Lam 	4 	9 	1 	2 	1 	that 	IN
+Lam 	4 	9 	1 	3 	1 	be 	VB
+Lam 	4 	9 	1 	4 	1 	slain 	NN
+Lam 	4 	9 	1 	5 	1 	with 	IN
+Lam 	4 	9 	1 	6 	1 	the 	DT
+Lam 	4 	9 	1 	7 	1 	sword 	NN
+Lam 	4 	9 	1 	8 	1 	are 	VBP
+Lam 	4 	9 	1 	9 	1 	better 	RBR
+Lam 	4 	9 	1 	10 	1 	than 	IN
+Lam 	4 	9 	1 	11 	1 	they 	PRP
+Lam 	4 	9 	1 	12 	1 	that 	IN
+Lam 	4 	9 	1 	13 	1 	be 	VB
+Lam 	4 	9 	1 	14 	1 	slain 	NN
+Lam 	4 	9 	1 	15 	1 	with 	IN
+Lam 	4 	9 	1 	16 	1 	hunger 	NN
+Lam 	4 	9 	1 	17 	0 	:
+Lam 	4 	9 	1 	18 	1 	for 	IN
+Lam 	4 	9 	1 	19 	1 	these 	DT
+Lam 	4 	9 	1 	20 	1 	pine 	NN
+Lam 	4 	9 	1 	21 	1 	away 	RB
+Lam 	4 	9 	1 	22 	0 	,
+Lam 	4 	9 	1 	23 	1 	stricken 	NN
+Lam 	4 	9 	1 	24 	1 	through 	IN
+Lam 	4 	9 	1 	25 	1 	for 	IN
+Lam 	4 	9 	1 	26 	1 	want 	NN
+Lam 	4 	9 	1 	27 	1 	of 	IN
+Lam 	4 	9 	1 	28 	1 	the 	DT
+Lam 	4 	9 	1 	29 	1 	fruits 	NNS
+Lam 	4 	9 	1 	30 	1 	of 	IN
+Lam 	4 	9 	1 	31 	1 	the 	DT
+Lam 	4 	9 	1 	32 	1 	field 	NN
+Lam 	4 	9 	1 	33 	0 	.
+Lam 	4 	10 	1 	1 	1 	The 	DT
+Lam 	4 	10 	1 	2 	1 	hands 	NNS
+Lam 	4 	10 	1 	3 	1 	of 	IN
+Lam 	4 	10 	1 	4 	1 	the 	DT
+Lam 	4 	10 	1 	5 	1 	pitiful 	NN
+Lam 	4 	10 	1 	6 	1 	women 	NNS
+Lam 	4 	10 	1 	7 	1 	have 	VB
+Lam 	4 	10 	1 	8 	1 	sodden 	NN
+Lam 	4 	10 	1 	9 	1 	their 	PRP$
+Lam 	4 	10 	1 	10 	1 	own 	JJ
+Lam 	4 	10 	1 	11 	1 	children 	NNS
+Lam 	4 	10 	1 	12 	0 	:
+Lam 	4 	10 	1 	13 	1 	they 	PRP
+Lam 	4 	10 	1 	14 	1 	were 	VBD
+Lam 	4 	10 	1 	15 	1 	their 	PRP$
+Lam 	4 	10 	1 	16 	1 	meat 	NN
+Lam 	4 	10 	1 	17 	1 	in 	IN
+Lam 	4 	10 	1 	18 	1 	the 	DT
+Lam 	4 	10 	1 	19 	1 	destruction 	NN
+Lam 	4 	10 	1 	20 	1 	of 	IN
+Lam 	4 	10 	1 	21 	1 	the 	DT
+Lam 	4 	10 	1 	22 	1 	daughter 	NN
+Lam 	4 	10 	1 	23 	1 	of 	IN
+Lam 	4 	10 	1 	24 	1 	my 	PRP$
+Lam 	4 	10 	1 	25 	1 	people 	NNS
+Lam 	4 	10 	1 	26 	0 	.
+Lam 	4 	11 	1 	1 	1 	The 	DT
+Lam 	4 	11 	1 	2 	1 	LORD 	NN
+Lam 	4 	11 	1 	3 	1 	hath 	NN
+Lam 	4 	11 	1 	4 	1 	accomplished 	VBN
+Lam 	4 	11 	1 	5 	1 	his 	PRP$
+Lam 	4 	11 	1 	6 	1 	fury 	NN
+Lam 	4 	11 	1 	7 	0 	;
+Lam 	4 	11 	1 	8 	1 	he 	PRP
+Lam 	4 	11 	1 	9 	1 	hath 	NN
+Lam 	4 	11 	1 	10 	1 	poured 	VBN
+Lam 	4 	11 	1 	11 	1 	out 	IN
+Lam 	4 	11 	1 	12 	1 	his 	PRP$
+Lam 	4 	11 	1 	13 	1 	fierce 	NN
+Lam 	4 	11 	1 	14 	1 	anger 	NN
+Lam 	4 	11 	1 	15 	0 	,
+Lam 	4 	11 	1 	16 	1 	and 	CC
+Lam 	4 	11 	1 	17 	1 	hath 	NN
+Lam 	4 	11 	1 	18 	1 	kindled 	VBN
+Lam 	4 	11 	1 	19 	1 	a 	DT
+Lam 	4 	11 	1 	20 	1 	fire 	NN
+Lam 	4 	11 	1 	21 	1 	in 	IN
+Lam 	4 	11 	1 	22 	1 	Zion 	NN
+Lam 	4 	11 	1 	23 	0 	,
+Lam 	4 	11 	1 	24 	1 	and 	CC
+Lam 	4 	11 	1 	25 	1 	it 	PRP
+Lam 	4 	11 	1 	26 	1 	hath 	NN
+Lam 	4 	11 	1 	27 	1 	devoured 	VBN
+Lam 	4 	11 	1 	28 	1 	the 	DT
+Lam 	4 	11 	1 	29 	1 	foundations 	NNS
+Lam 	4 	11 	1 	30 	1 	thereof 	NN
+Lam 	4 	11 	1 	31 	0 	.
+Lam 	4 	12 	1 	1 	1 	The 	DT
+Lam 	4 	12 	1 	2 	1 	kings 	NNS
+Lam 	4 	12 	1 	3 	1 	of 	IN
+Lam 	4 	12 	1 	4 	1 	the 	DT
+Lam 	4 	12 	1 	5 	1 	earth 	NN
+Lam 	4 	12 	1 	6 	0 	,
+Lam 	4 	12 	1 	7 	1 	and 	CC
+Lam 	4 	12 	1 	8 	1 	all 	DT
+Lam 	4 	12 	1 	9 	1 	the 	DT
+Lam 	4 	12 	1 	10 	1 	inhabitants 	NNS
+Lam 	4 	12 	1 	11 	1 	of 	IN
+Lam 	4 	12 	1 	12 	1 	the 	DT
+Lam 	4 	12 	1 	13 	1 	world 	NN
+Lam 	4 	12 	1 	14 	0 	,
+Lam 	4 	12 	1 	15 	1 	would 	MD
+Lam 	4 	12 	1 	16 	1 	not 	RB
+Lam 	4 	12 	1 	17 	1 	have 	VB
+Lam 	4 	12 	1 	18 	1 	believed 	VBN
+Lam 	4 	12 	1 	19 	1 	that 	IN
+Lam 	4 	12 	1 	20 	1 	the 	DT
+Lam 	4 	12 	1 	21 	1 	adversary 	NN
+Lam 	4 	12 	1 	22 	1 	and 	CC
+Lam 	4 	12 	1 	23 	1 	the 	DT
+Lam 	4 	12 	1 	24 	1 	enemy 	NN
+Lam 	4 	12 	1 	25 	1 	should 	MD
+Lam 	4 	12 	1 	26 	1 	have 	VB
+Lam 	4 	12 	1 	27 	1 	entered 	VBN
+Lam 	4 	12 	1 	28 	1 	into 	IN
+Lam 	4 	12 	1 	29 	1 	the 	DT
+Lam 	4 	12 	1 	30 	1 	gates 	NNS
+Lam 	4 	12 	1 	31 	1 	of 	IN
+Lam 	4 	12 	1 	32 	1 	Jerusalem 	NN
+Lam 	4 	12 	1 	33 	0 	.
+Lam 	4 	13 	1 	1 	1 	For 	IN
+Lam 	4 	13 	1 	2 	1 	the 	DT
+Lam 	4 	13 	1 	3 	1 	sins 	NNS
+Lam 	4 	13 	1 	4 	1 	of 	IN
+Lam 	4 	13 	1 	5 	1 	her 	PRP$
+Lam 	4 	13 	1 	6 	1 	prophets 	NNS
+Lam 	4 	13 	1 	7 	0 	,
+Lam 	4 	13 	1 	8 	1 	and 	CC
+Lam 	4 	13 	1 	9 	1 	the 	DT
+Lam 	4 	13 	1 	10 	1 	iniquities 	NNS
+Lam 	4 	13 	1 	11 	1 	of 	IN
+Lam 	4 	13 	1 	12 	1 	her 	PRP$
+Lam 	4 	13 	1 	13 	1 	priests 	NNS
+Lam 	4 	13 	1 	14 	0 	,
+Lam 	4 	13 	1 	15 	1 	that 	IN
+Lam 	4 	13 	1 	16 	1 	have 	VB
+Lam 	4 	13 	1 	17 	1 	shed 	VBN
+Lam 	4 	13 	1 	18 	1 	the 	DT
+Lam 	4 	13 	1 	19 	1 	blood 	NN
+Lam 	4 	13 	1 	20 	1 	of 	IN
+Lam 	4 	13 	1 	21 	1 	the 	DT
+Lam 	4 	13 	1 	22 	1 	just 	RB
+Lam 	4 	13 	1 	23 	1 	in 	IN
+Lam 	4 	13 	1 	24 	1 	the 	DT
+Lam 	4 	13 	1 	25 	1 	midst 	NN
+Lam 	4 	13 	1 	26 	1 	of 	IN
+Lam 	4 	13 	1 	27 	1 	her 	PRP$
+Lam 	4 	13 	1 	28 	0 	,
+Lam 	4 	14 	1 	1 	1 	They 	PRP
+Lam 	4 	14 	1 	2 	1 	have 	VB
+Lam 	4 	14 	1 	3 	1 	wandered 	VBD
+Lam 	4 	14 	1 	4 	1 	as 	IN
+Lam 	4 	14 	1 	5 	1 	blind 	NN
+Lam 	4 	14 	1 	6 	1 	men 	NNS
+Lam 	4 	14 	1 	7 	1 	in 	IN
+Lam 	4 	14 	1 	8 	1 	the 	DT
+Lam 	4 	14 	1 	9 	1 	streets 	NNS
+Lam 	4 	14 	1 	10 	0 	,
+Lam 	4 	14 	1 	11 	1 	they 	PRP
+Lam 	4 	14 	1 	12 	1 	have 	VB
+Lam 	4 	14 	1 	13 	1 	polluted 	VBN
+Lam 	4 	14 	1 	14 	1 	themselves 	PRP
+Lam 	4 	14 	1 	15 	1 	with 	IN
+Lam 	4 	14 	1 	16 	1 	blood 	NN
+Lam 	4 	14 	1 	17 	0 	,
+Lam 	4 	14 	1 	18 	1 	so 	RB
+Lam 	4 	14 	1 	19 	1 	that 	IN
+Lam 	4 	14 	1 	20 	1 	men 	NNS
+Lam 	4 	14 	1 	21 	1 	could 	MD
+Lam 	4 	14 	1 	22 	1 	not 	RB
+Lam 	4 	14 	1 	23 	1 	touch 	NN
+Lam 	4 	14 	1 	24 	1 	their 	PRP$
+Lam 	4 	14 	1 	25 	1 	garments 	NNS
+Lam 	4 	14 	1 	26 	0 	.
+Lam 	4 	15 	1 	1 	1 	They 	PRP
+Lam 	4 	15 	1 	2 	1 	cried 	VBN
+Lam 	4 	15 	1 	3 	1 	unto 	NN
+Lam 	4 	15 	1 	4 	1 	them 	PRP
+Lam 	4 	15 	1 	5 	0 	,
+Lam 	4 	15 	1 	6 	1 	Depart 	NN
+Lam 	4 	15 	1 	7 	1 	ye 	NN
+Lam 	4 	15 	1 	8 	0 	;
+Lam 	4 	15 	1 	9 	1 	it 	PRP
+Lam 	4 	15 	1 	10 	1 	is 	VBZ
+Lam 	4 	15 	1 	11 	1 	unclean 	JJ
+Lam 	4 	15 	1 	12 	0 	;
+Lam 	4 	15 	1 	13 	1 	depart 	NN
+Lam 	4 	15 	1 	14 	0 	,
+Lam 	4 	15 	1 	15 	1 	depart 	NN
+Lam 	4 	15 	1 	16 	0 	,
+Lam 	4 	15 	1 	17 	1 	touch 	NN
+Lam 	4 	15 	1 	18 	1 	not 	RB
+Lam 	4 	15 	1 	19 	0 	:
+Lam 	4 	15 	1 	20 	1 	when 	WRB
+Lam 	4 	15 	1 	21 	1 	they 	PRP
+Lam 	4 	15 	1 	22 	1 	fled 	VBN
+Lam 	4 	15 	1 	23 	1 	away 	RB
+Lam 	4 	15 	1 	24 	1 	and 	CC
+Lam 	4 	15 	1 	25 	1 	wandered 	VBD
+Lam 	4 	15 	1 	26 	0 	,
+Lam 	4 	15 	1 	27 	1 	they 	PRP
+Lam 	4 	15 	1 	28 	1 	said 	VBD
+Lam 	4 	15 	1 	29 	1 	among 	IN
+Lam 	4 	15 	1 	30 	1 	the 	DT
+Lam 	4 	15 	1 	31 	1 	heathen 	NN
+Lam 	4 	15 	1 	32 	0 	,
+Lam 	4 	15 	1 	33 	1 	They 	PRP
+Lam 	4 	15 	1 	34 	1 	shall 	MD
+Lam 	4 	15 	1 	35 	1 	no 	DT
+Lam 	4 	15 	1 	36 	1 	more 	RBR
+Lam 	4 	15 	1 	37 	1 	sojourn 	NN
+Lam 	4 	15 	1 	38 	1 	there 	RB
+Lam 	4 	15 	1 	39 	0 	.
+Lam 	4 	16 	1 	1 	1 	The 	DT
+Lam 	4 	16 	1 	2 	1 	anger 	NN
+Lam 	4 	16 	1 	3 	1 	of 	IN
+Lam 	4 	16 	1 	4 	1 	the 	DT
+Lam 	4 	16 	1 	5 	1 	LORD 	NN
+Lam 	4 	16 	1 	6 	1 	hath 	NN
+Lam 	4 	16 	1 	7 	1 	divided 	VBN
+Lam 	4 	16 	1 	8 	1 	them 	PRP
+Lam 	4 	16 	1 	9 	0 	;
+Lam 	4 	16 	1 	10 	1 	he 	PRP
+Lam 	4 	16 	1 	11 	1 	will 	MD
+Lam 	4 	16 	1 	12 	1 	no 	DT
+Lam 	4 	16 	1 	13 	1 	more 	RBR
+Lam 	4 	16 	1 	14 	1 	regard 	NN
+Lam 	4 	16 	1 	15 	1 	them 	PRP
+Lam 	4 	16 	1 	16 	0 	:
+Lam 	4 	16 	1 	17 	1 	they 	PRP
+Lam 	4 	16 	1 	18 	1 	respected 	VBN
+Lam 	4 	16 	1 	19 	1 	not 	RB
+Lam 	4 	16 	1 	20 	1 	the 	DT
+Lam 	4 	16 	1 	21 	1 	persons 	NNS
+Lam 	4 	16 	1 	22 	1 	of 	IN
+Lam 	4 	16 	1 	23 	1 	the 	DT
+Lam 	4 	16 	1 	24 	1 	priests 	NNS
+Lam 	4 	16 	1 	25 	0 	,
+Lam 	4 	16 	1 	26 	1 	they 	PRP
+Lam 	4 	16 	1 	27 	1 	favoured 	VBN
+Lam 	4 	16 	1 	28 	1 	not 	RB
+Lam 	4 	16 	1 	29 	1 	the 	DT
+Lam 	4 	16 	1 	30 	1 	elders 	NNS
+Lam 	4 	16 	1 	31 	0 	.
+Lam 	4 	17 	1 	1 	1 	As 	IN
+Lam 	4 	17 	1 	2 	1 	for 	IN
+Lam 	4 	17 	1 	3 	1 	us 	PRP
+Lam 	4 	17 	1 	4 	0 	,
+Lam 	4 	17 	1 	5 	1 	our 	PRP$
+Lam 	4 	17 	1 	6 	1 	eyes 	NNS
+Lam 	4 	17 	1 	7 	1 	as 	IN
+Lam 	4 	17 	1 	8 	1 	yet 	RB
+Lam 	4 	17 	1 	9 	1 	failed 	VBD
+Lam 	4 	17 	1 	10 	1 	for 	IN
+Lam 	4 	17 	1 	11 	1 	our 	PRP$
+Lam 	4 	17 	1 	12 	1 	vain 	NN
+Lam 	4 	17 	1 	13 	1 	help 	NN
+Lam 	4 	17 	1 	14 	0 	:
+Lam 	4 	17 	1 	15 	1 	in 	IN
+Lam 	4 	17 	1 	16 	1 	our 	PRP$
+Lam 	4 	17 	1 	17 	1 	watching 	VBG
+Lam 	4 	17 	1 	18 	1 	we 	PRP
+Lam 	4 	17 	1 	19 	1 	have 	VB
+Lam 	4 	17 	1 	20 	1 	watched 	VBN
+Lam 	4 	17 	1 	21 	1 	for 	IN
+Lam 	4 	17 	1 	22 	1 	a 	DT
+Lam 	4 	17 	1 	23 	1 	nation 	NN
+Lam 	4 	17 	1 	24 	1 	that 	IN
+Lam 	4 	17 	1 	25 	1 	could 	MD
+Lam 	4 	17 	1 	26 	1 	not 	RB
+Lam 	4 	17 	1 	27 	1 	save 	VB
+Lam 	4 	17 	1 	28 	1 	us 	PRP
+Lam 	4 	17 	1 	29 	0 	.
+Lam 	4 	18 	1 	1 	1 	They 	PRP
+Lam 	4 	18 	1 	2 	1 	hunt 	NN
+Lam 	4 	18 	1 	3 	1 	our 	PRP$
+Lam 	4 	18 	1 	4 	1 	steps 	NNS
+Lam 	4 	18 	1 	5 	0 	,
+Lam 	4 	18 	1 	6 	1 	that 	IN
+Lam 	4 	18 	1 	7 	1 	we 	PRP
+Lam 	4 	18 	1 	8 	1 	can 	MD
+Lam 	4 	18 	1 	9 	1 	not 	RB
+Lam 	4 	18 	1 	10 	1 	go 	VB
+Lam 	4 	18 	1 	11 	1 	in 	IN
+Lam 	4 	18 	1 	12 	1 	our 	PRP$
+Lam 	4 	18 	1 	13 	1 	streets 	NNS
+Lam 	4 	18 	1 	14 	0 	:
+Lam 	4 	18 	1 	15 	1 	our 	PRP$
+Lam 	4 	18 	1 	16 	1 	end 	NN
+Lam 	4 	18 	1 	17 	1 	is 	VBZ
+Lam 	4 	18 	1 	18 	1 	near 	IN
+Lam 	4 	18 	1 	19 	0 	,
+Lam 	4 	18 	1 	20 	1 	our 	PRP$
+Lam 	4 	18 	1 	21 	1 	days 	NNS
+Lam 	4 	18 	1 	22 	1 	are 	VBP
+Lam 	4 	18 	1 	23 	1 	fulfilled 	VBN
+Lam 	4 	18 	1 	24 	0 	;
+Lam 	4 	18 	1 	25 	1 	for 	IN
+Lam 	4 	18 	1 	26 	1 	our 	PRP$
+Lam 	4 	18 	1 	27 	1 	end 	NN
+Lam 	4 	18 	1 	28 	1 	is 	VBZ
+Lam 	4 	18 	1 	29 	1 	come 	VB
+Lam 	4 	18 	1 	30 	0 	.
+Lam 	4 	19 	1 	1 	1 	Our 	PRP$
+Lam 	4 	19 	1 	2 	1 	persecutors 	NNS
+Lam 	4 	19 	1 	3 	1 	are 	VBP
+Lam 	4 	19 	1 	4 	1 	swifter 	NN
+Lam 	4 	19 	1 	5 	1 	than 	IN
+Lam 	4 	19 	1 	6 	1 	the 	DT
+Lam 	4 	19 	1 	7 	1 	eagles 	NNS
+Lam 	4 	19 	1 	8 	1 	of 	IN
+Lam 	4 	19 	1 	9 	1 	the 	DT
+Lam 	4 	19 	1 	10 	1 	heaven 	NN
+Lam 	4 	19 	1 	11 	0 	:
+Lam 	4 	19 	1 	12 	1 	they 	PRP
+Lam 	4 	19 	1 	13 	1 	pursued 	VBN
+Lam 	4 	19 	1 	14 	1 	us 	PRP
+Lam 	4 	19 	1 	15 	1 	upon 	IN
+Lam 	4 	19 	1 	16 	1 	the 	DT
+Lam 	4 	19 	1 	17 	1 	mountains 	NNS
+Lam 	4 	19 	1 	18 	0 	,
+Lam 	4 	19 	1 	19 	1 	they 	PRP
+Lam 	4 	19 	1 	20 	1 	laid 	NN
+Lam 	4 	19 	1 	21 	1 	wait 	NN
+Lam 	4 	19 	1 	22 	1 	for 	IN
+Lam 	4 	19 	1 	23 	1 	us 	PRP
+Lam 	4 	19 	1 	24 	1 	in 	IN
+Lam 	4 	19 	1 	25 	1 	the 	DT
+Lam 	4 	19 	1 	26 	1 	wilderness 	NN
+Lam 	4 	19 	1 	27 	0 	.
+Lam 	4 	20 	1 	1 	1 	The 	DT
+Lam 	4 	20 	1 	2 	1 	breath 	NN
+Lam 	4 	20 	1 	3 	1 	of 	IN
+Lam 	4 	20 	1 	4 	1 	our 	PRP$
+Lam 	4 	20 	1 	5 	1 	nostrils 	NNS
+Lam 	4 	20 	1 	6 	0 	,
+Lam 	4 	20 	1 	7 	1 	the 	DT
+Lam 	4 	20 	1 	8 	1 	anointed 	VBN
+Lam 	4 	20 	1 	9 	1 	of 	IN
+Lam 	4 	20 	1 	10 	1 	the 	DT
+Lam 	4 	20 	1 	11 	1 	LORD 	NN
+Lam 	4 	20 	1 	12 	0 	,
+Lam 	4 	20 	1 	13 	1 	was 	VBD
+Lam 	4 	20 	1 	14 	1 	taken 	VBN
+Lam 	4 	20 	1 	15 	1 	in 	IN
+Lam 	4 	20 	1 	16 	1 	their 	PRP$
+Lam 	4 	20 	1 	17 	1 	pits 	NNS
+Lam 	4 	20 	1 	18 	0 	,
+Lam 	4 	20 	1 	19 	1 	of 	IN
+Lam 	4 	20 	1 	20 	1 	whom 	WP
+Lam 	4 	20 	1 	21 	1 	we 	PRP
+Lam 	4 	20 	1 	22 	1 	said 	VBD
+Lam 	4 	20 	1 	23 	0 	,
+Lam 	4 	20 	1 	24 	1 	Under 	IN
+Lam 	4 	20 	1 	25 	1 	his 	PRP$
+Lam 	4 	20 	1 	26 	1 	shadow 	NN
+Lam 	4 	20 	1 	27 	1 	we 	PRP
+Lam 	4 	20 	1 	28 	1 	shall 	MD
+Lam 	4 	20 	1 	29 	1 	live 	JJ
+Lam 	4 	20 	1 	30 	1 	among 	IN
+Lam 	4 	20 	1 	31 	1 	the 	DT
+Lam 	4 	20 	1 	32 	1 	heathen 	NN
+Lam 	4 	20 	1 	33 	0 	.
+Lam 	4 	21 	1 	1 	1 	Rejoice 	NN
+Lam 	4 	21 	1 	2 	1 	and 	CC
+Lam 	4 	21 	1 	3 	1 	be 	VB
+Lam 	4 	21 	1 	4 	1 	glad 	NN
+Lam 	4 	21 	1 	5 	0 	,
+Lam 	4 	21 	1 	6 	1 	O 	NN
+Lam 	4 	21 	1 	7 	1 	daughter 	NN
+Lam 	4 	21 	1 	8 	1 	of 	IN
+Lam 	4 	21 	1 	9 	1 	Edom 	NN
+Lam 	4 	21 	1 	10 	0 	,
+Lam 	4 	21 	1 	11 	1 	that 	IN
+Lam 	4 	21 	1 	12 	1 	dwellest 	NN
+Lam 	4 	21 	1 	13 	1 	in 	IN
+Lam 	4 	21 	1 	14 	1 	the 	DT
+Lam 	4 	21 	1 	15 	1 	land 	NN
+Lam 	4 	21 	1 	16 	1 	of 	IN
+Lam 	4 	21 	1 	17 	1 	Uz 	NN
+Lam 	4 	21 	1 	18 	0 	;
+Lam 	4 	21 	1 	19 	1 	the 	DT
+Lam 	4 	21 	1 	20 	1 	cup 	NN
+Lam 	4 	21 	1 	21 	1 	also 	RB
+Lam 	4 	21 	1 	22 	1 	shall 	MD
+Lam 	4 	21 	1 	23 	1 	pass 	NN
+Lam 	4 	21 	1 	24 	1 	through 	IN
+Lam 	4 	21 	1 	25 	1 	unto 	NN
+Lam 	4 	21 	1 	26 	1 	thee 	NN
+Lam 	4 	21 	1 	27 	0 	:
+Lam 	4 	21 	1 	28 	1 	thou 	NN
+Lam 	4 	21 	1 	29 	1 	shalt 	NN
+Lam 	4 	21 	1 	30 	1 	be 	VB
+Lam 	4 	21 	1 	31 	1 	drunken 	NN
+Lam 	4 	21 	1 	32 	0 	,
+Lam 	4 	21 	1 	33 	1 	and 	CC
+Lam 	4 	21 	1 	34 	1 	shalt 	NN
+Lam 	4 	21 	1 	35 	1 	make 	VB
+Lam 	4 	21 	1 	36 	1 	thyself 	NN
+Lam 	4 	21 	1 	37 	1 	naked 	JJ
+Lam 	4 	21 	1 	38 	0 	.
+Lam 	4 	22 	1 	1 	1 	The 	DT
+Lam 	4 	22 	1 	2 	1 	punishment 	NN
+Lam 	4 	22 	1 	3 	1 	of 	IN
+Lam 	4 	22 	1 	4 	1 	thine 	NN
+Lam 	4 	22 	1 	5 	1 	iniquity 	NN
+Lam 	4 	22 	1 	6 	1 	is 	VBZ
+Lam 	4 	22 	1 	7 	1 	accomplished 	VBN
+Lam 	4 	22 	1 	8 	0 	,
+Lam 	4 	22 	1 	9 	1 	O 	NN
+Lam 	4 	22 	1 	10 	1 	daughter 	NN
+Lam 	4 	22 	1 	11 	1 	of 	IN
+Lam 	4 	22 	1 	12 	1 	Zion 	NN
+Lam 	4 	22 	1 	13 	0 	;
+Lam 	4 	22 	1 	14 	1 	he 	PRP
+Lam 	4 	22 	1 	15 	1 	will 	MD
+Lam 	4 	22 	1 	16 	1 	no 	DT
+Lam 	4 	22 	1 	17 	1 	more 	RBR
+Lam 	4 	22 	1 	18 	1 	carry 	NN
+Lam 	4 	22 	1 	19 	1 	thee 	NN
+Lam 	4 	22 	1 	20 	1 	away 	RB
+Lam 	4 	22 	1 	21 	1 	into 	IN
+Lam 	4 	22 	1 	22 	1 	captivity 	NN
+Lam 	4 	22 	1 	23 	0 	:
+Lam 	4 	22 	1 	24 	1 	he 	PRP
+Lam 	4 	22 	1 	25 	1 	will 	MD
+Lam 	4 	22 	1 	26 	1 	visit 	NN
+Lam 	4 	22 	1 	27 	1 	thine 	NN
+Lam 	4 	22 	1 	28 	1 	iniquity 	NN
+Lam 	4 	22 	1 	29 	0 	,
+Lam 	4 	22 	1 	30 	1 	O 	NN
+Lam 	4 	22 	1 	31 	1 	daughter 	NN
+Lam 	4 	22 	1 	32 	1 	of 	IN
+Lam 	4 	22 	1 	33 	1 	Edom 	NN
+Lam 	4 	22 	1 	34 	0 	;
+Lam 	4 	22 	1 	35 	1 	he 	PRP
+Lam 	4 	22 	1 	36 	1 	will 	MD
+Lam 	4 	22 	1 	37 	1 	discover 	NN
+Lam 	4 	22 	1 	38 	1 	thy 	NN
+Lam 	4 	22 	1 	39 	1 	sins 	NNS
+Lam 	4 	22 	1 	40 	0 	.
+Lam 	5 	1 	1 	1 	1 	Remember 	VB
+Lam 	5 	1 	1 	2 	0 	,
+Lam 	5 	1 	1 	3 	1 	O 	NN
+Lam 	5 	1 	1 	4 	1 	LORD 	NN
+Lam 	5 	1 	1 	5 	0 	,
+Lam 	5 	1 	1 	6 	1 	what 	WP
+Lam 	5 	1 	1 	7 	1 	is 	VBZ
+Lam 	5 	1 	1 	8 	1 	come 	VB
+Lam 	5 	1 	1 	9 	1 	upon 	IN
+Lam 	5 	1 	1 	10 	1 	us 	PRP
+Lam 	5 	1 	1 	11 	0 	:
+Lam 	5 	1 	1 	12 	1 	consider 	VB
+Lam 	5 	1 	1 	13 	0 	,
+Lam 	5 	1 	1 	14 	1 	and 	CC
+Lam 	5 	1 	1 	15 	1 	behold 	NN
+Lam 	5 	1 	1 	16 	1 	our 	PRP$
+Lam 	5 	1 	1 	17 	1 	reproach 	NN
+Lam 	5 	1 	1 	18 	0 	.
+Lam 	5 	2 	1 	1 	1 	Our 	PRP$
+Lam 	5 	2 	1 	2 	1 	inheritance 	NN
+Lam 	5 	2 	1 	3 	1 	is 	VBZ
+Lam 	5 	2 	1 	4 	1 	turned 	VBD
+Lam 	5 	2 	1 	5 	1 	to 	TO
+Lam 	5 	2 	1 	6 	1 	strangers 	NNS
+Lam 	5 	2 	1 	7 	0 	,
+Lam 	5 	2 	1 	8 	1 	our 	PRP$
+Lam 	5 	2 	1 	9 	1 	houses 	NNS
+Lam 	5 	2 	1 	10 	1 	to 	TO
+Lam 	5 	2 	1 	11 	1 	aliens 	NNS
+Lam 	5 	2 	1 	12 	0 	.
+Lam 	5 	3 	1 	1 	1 	We 	PRP
+Lam 	5 	3 	1 	2 	1 	are 	VBP
+Lam 	5 	3 	1 	3 	1 	orphans 	NNS
+Lam 	5 	3 	1 	4 	1 	and 	CC
+Lam 	5 	3 	1 	5 	1 	fatherless 	NN
+Lam 	5 	3 	1 	6 	0 	,
+Lam 	5 	3 	1 	7 	1 	our 	PRP$
+Lam 	5 	3 	1 	8 	1 	mothers 	NNS
+Lam 	5 	3 	1 	9 	1 	are 	VBP
+Lam 	5 	3 	1 	10 	1 	as 	IN
+Lam 	5 	3 	1 	11 	1 	widows 	NNS
+Lam 	5 	3 	1 	12 	0 	.
+Lam 	5 	4 	1 	1 	1 	We 	PRP
+Lam 	5 	4 	1 	2 	1 	have 	VB
+Lam 	5 	4 	1 	3 	1 	drunken 	NN
+Lam 	5 	4 	1 	4 	1 	our 	PRP$
+Lam 	5 	4 	1 	5 	1 	water 	NN
+Lam 	5 	4 	1 	6 	1 	for 	IN
+Lam 	5 	4 	1 	7 	1 	money 	NN
+Lam 	5 	4 	1 	8 	0 	;
+Lam 	5 	4 	1 	9 	1 	our 	PRP$
+Lam 	5 	4 	1 	10 	1 	wood 	NN
+Lam 	5 	4 	1 	11 	1 	is 	VBZ
+Lam 	5 	4 	1 	12 	1 	sold 	VBN
+Lam 	5 	4 	1 	13 	1 	unto 	NN
+Lam 	5 	4 	1 	14 	1 	us 	PRP
+Lam 	5 	4 	1 	15 	0 	.
+Lam 	5 	5 	1 	1 	1 	Our 	PRP$
+Lam 	5 	5 	1 	2 	1 	necks 	NNS
+Lam 	5 	5 	1 	3 	1 	are 	VBP
+Lam 	5 	5 	1 	4 	1 	under 	IN
+Lam 	5 	5 	1 	5 	1 	persecution 	NN
+Lam 	5 	5 	1 	6 	0 	:
+Lam 	5 	5 	1 	7 	1 	we 	PRP
+Lam 	5 	5 	1 	8 	1 	labour 	NN
+Lam 	5 	5 	1 	9 	0 	,
+Lam 	5 	5 	1 	10 	1 	and 	CC
+Lam 	5 	5 	1 	11 	1 	have 	VB
+Lam 	5 	5 	1 	12 	1 	no 	DT
+Lam 	5 	5 	1 	13 	1 	rest 	NN
+Lam 	5 	5 	1 	14 	0 	.
+Lam 	5 	6 	1 	1 	1 	We 	PRP
+Lam 	5 	6 	1 	2 	1 	have 	VB
+Lam 	5 	6 	1 	3 	1 	given 	VBN
+Lam 	5 	6 	1 	4 	1 	the 	DT
+Lam 	5 	6 	1 	5 	1 	hand 	NN
+Lam 	5 	6 	1 	6 	1 	to 	TO
+Lam 	5 	6 	1 	7 	1 	the 	DT
+Lam 	5 	6 	1 	8 	1 	Egyptians 	NNS
+Lam 	5 	6 	1 	9 	0 	,
+Lam 	5 	6 	1 	10 	1 	and 	CC
+Lam 	5 	6 	1 	11 	1 	to 	TO
+Lam 	5 	6 	1 	12 	1 	the 	DT
+Lam 	5 	6 	1 	13 	1 	Assyrians 	NNS
+Lam 	5 	6 	1 	14 	0 	,
+Lam 	5 	6 	1 	15 	1 	to 	TO
+Lam 	5 	6 	1 	16 	1 	be 	VB
+Lam 	5 	6 	1 	17 	1 	satisfied 	JJ
+Lam 	5 	6 	1 	18 	1 	with 	IN
+Lam 	5 	6 	1 	19 	1 	bread 	NN
+Lam 	5 	6 	1 	20 	0 	.
+Lam 	5 	7 	1 	1 	1 	Our 	PRP$
+Lam 	5 	7 	1 	2 	1 	fathers 	NNS
+Lam 	5 	7 	1 	3 	1 	have 	VB
+Lam 	5 	7 	1 	4 	1 	sinned 	VBN
+Lam 	5 	7 	1 	5 	0 	,
+Lam 	5 	7 	1 	6 	1 	and 	CC
+Lam 	5 	7 	1 	7 	1 	are 	VBP
+Lam 	5 	7 	1 	8 	1 	not 	RB
+Lam 	5 	7 	1 	9 	0 	;
+Lam 	5 	7 	1 	10 	1 	and 	CC
+Lam 	5 	7 	1 	11 	1 	we 	PRP
+Lam 	5 	7 	1 	12 	1 	have 	VB
+Lam 	5 	7 	1 	13 	1 	borne 	NN
+Lam 	5 	7 	1 	14 	1 	their 	PRP$
+Lam 	5 	7 	1 	15 	1 	iniquities 	NNS
+Lam 	5 	7 	1 	16 	0 	.
+Lam 	5 	8 	1 	1 	1 	Servants 	NNS
+Lam 	5 	8 	1 	2 	1 	have 	VB
+Lam 	5 	8 	1 	3 	1 	ruled 	VBN
+Lam 	5 	8 	1 	4 	1 	over 	IN
+Lam 	5 	8 	1 	5 	1 	us 	PRP
+Lam 	5 	8 	1 	6 	0 	:
+Lam 	5 	8 	1 	7 	1 	there 	RB
+Lam 	5 	8 	1 	8 	1 	is 	VBZ
+Lam 	5 	8 	1 	9 	1 	none 	NN
+Lam 	5 	8 	1 	10 	1 	that 	IN
+Lam 	5 	8 	1 	11 	1 	doth 	NN
+Lam 	5 	8 	1 	12 	1 	deliver 	NN
+Lam 	5 	8 	1 	13 	1 	us 	PRP
+Lam 	5 	8 	1 	14 	1 	out 	IN
+Lam 	5 	8 	1 	15 	1 	of 	IN
+Lam 	5 	8 	1 	16 	1 	their 	PRP$
+Lam 	5 	8 	1 	17 	1 	hand 	NN
+Lam 	5 	8 	1 	18 	0 	.
+Lam 	5 	9 	1 	1 	1 	We 	PRP
+Lam 	5 	9 	1 	2 	1 	gat 	NN
+Lam 	5 	9 	1 	3 	1 	our 	PRP$
+Lam 	5 	9 	1 	4 	1 	bread 	NN
+Lam 	5 	9 	1 	5 	1 	with 	IN
+Lam 	5 	9 	1 	6 	1 	the 	DT
+Lam 	5 	9 	1 	7 	1 	peril 	NN
+Lam 	5 	9 	1 	8 	1 	of 	IN
+Lam 	5 	9 	1 	9 	1 	our 	PRP$
+Lam 	5 	9 	1 	10 	1 	lives 	NNS
+Lam 	5 	9 	1 	11 	1 	because 	IN
+Lam 	5 	9 	1 	12 	1 	of 	IN
+Lam 	5 	9 	1 	13 	1 	the 	DT
+Lam 	5 	9 	1 	14 	1 	sword 	NN
+Lam 	5 	9 	1 	15 	1 	of 	IN
+Lam 	5 	9 	1 	16 	1 	the 	DT
+Lam 	5 	9 	1 	17 	1 	wilderness 	NN
+Lam 	5 	9 	1 	18 	0 	.
+Lam 	5 	10 	1 	1 	1 	Our 	PRP$
+Lam 	5 	10 	1 	2 	1 	skin 	NN
+Lam 	5 	10 	1 	3 	1 	was 	VBD
+Lam 	5 	10 	1 	4 	1 	black 	JJ
+Lam 	5 	10 	1 	5 	1 	like 	IN
+Lam 	5 	10 	1 	6 	1 	an 	DT
+Lam 	5 	10 	1 	7 	1 	oven 	RB
+Lam 	5 	10 	1 	8 	1 	because 	IN
+Lam 	5 	10 	1 	9 	1 	of 	IN
+Lam 	5 	10 	1 	10 	1 	the 	DT
+Lam 	5 	10 	1 	11 	1 	terrible 	JJ
+Lam 	5 	10 	1 	12 	1 	famine 	NN
+Lam 	5 	10 	1 	13 	0 	.
+Lam 	5 	11 	1 	1 	1 	They 	PRP
+Lam 	5 	11 	1 	2 	1 	ravished 	VBN
+Lam 	5 	11 	1 	3 	1 	the 	DT
+Lam 	5 	11 	1 	4 	1 	women 	NNS
+Lam 	5 	11 	1 	5 	1 	in 	IN
+Lam 	5 	11 	1 	6 	1 	Zion 	NN
+Lam 	5 	11 	1 	7 	0 	,
+Lam 	5 	11 	1 	8 	1 	and 	CC
+Lam 	5 	11 	1 	9 	1 	the 	DT
+Lam 	5 	11 	1 	10 	1 	maids 	NNS
+Lam 	5 	11 	1 	11 	1 	in 	IN
+Lam 	5 	11 	1 	12 	1 	the 	DT
+Lam 	5 	11 	1 	13 	1 	cities 	NNS
+Lam 	5 	11 	1 	14 	1 	of 	IN
+Lam 	5 	11 	1 	15 	1 	Judah 	NN
+Lam 	5 	11 	1 	16 	0 	.
+Lam 	5 	12 	1 	1 	1 	Princes 	NNS
+Lam 	5 	12 	1 	2 	1 	are 	VBP
+Lam 	5 	12 	1 	3 	1 	hanged 	VBN
+Lam 	5 	12 	1 	4 	1 	up 	RB
+Lam 	5 	12 	1 	5 	1 	by 	IN
+Lam 	5 	12 	1 	6 	1 	their 	PRP$
+Lam 	5 	12 	1 	7 	1 	hand 	NN
+Lam 	5 	12 	1 	8 	0 	:
+Lam 	5 	12 	1 	9 	1 	the 	DT
+Lam 	5 	12 	1 	10 	1 	faces 	VBZ
+Lam 	5 	12 	1 	11 	1 	of 	IN
+Lam 	5 	12 	1 	12 	1 	elders 	NNS
+Lam 	5 	12 	1 	13 	1 	were 	VBD
+Lam 	5 	12 	1 	14 	1 	not 	RB
+Lam 	5 	12 	1 	15 	1 	honoured 	VBN
+Lam 	5 	12 	1 	16 	0 	.
+Lam 	5 	13 	1 	1 	1 	They 	PRP
+Lam 	5 	13 	1 	2 	1 	took 	VBD
+Lam 	5 	13 	1 	3 	1 	the 	DT
+Lam 	5 	13 	1 	4 	1 	young 	JJ
+Lam 	5 	13 	1 	5 	1 	men 	NNS
+Lam 	5 	13 	1 	6 	1 	to 	TO
+Lam 	5 	13 	1 	7 	1 	grind 	NN
+Lam 	5 	13 	1 	8 	0 	,
+Lam 	5 	13 	1 	9 	1 	and 	CC
+Lam 	5 	13 	1 	10 	1 	the 	DT
+Lam 	5 	13 	1 	11 	1 	children 	NNS
+Lam 	5 	13 	1 	12 	1 	fell 	VBD
+Lam 	5 	13 	1 	13 	1 	under 	IN
+Lam 	5 	13 	1 	14 	1 	the 	DT
+Lam 	5 	13 	1 	15 	1 	wood 	NN
+Lam 	5 	13 	1 	16 	0 	.
+Lam 	5 	14 	1 	1 	1 	The 	DT
+Lam 	5 	14 	1 	2 	1 	elders 	NNS
+Lam 	5 	14 	1 	3 	1 	have 	VB
+Lam 	5 	14 	1 	4 	1 	ceased 	VBN
+Lam 	5 	14 	1 	5 	1 	from 	IN
+Lam 	5 	14 	1 	6 	1 	the 	DT
+Lam 	5 	14 	1 	7 	1 	gate 	NN
+Lam 	5 	14 	1 	8 	0 	,
+Lam 	5 	14 	1 	9 	1 	the 	DT
+Lam 	5 	14 	1 	10 	1 	young 	JJ
+Lam 	5 	14 	1 	11 	1 	men 	NNS
+Lam 	5 	14 	1 	12 	1 	from 	IN
+Lam 	5 	14 	1 	13 	1 	their 	PRP$
+Lam 	5 	14 	1 	14 	1 	musick 	NN
+Lam 	5 	14 	1 	15 	0 	.
+Lam 	5 	15 	1 	1 	1 	The 	DT
+Lam 	5 	15 	1 	2 	1 	joy 	NN
+Lam 	5 	15 	1 	3 	1 	of 	IN
+Lam 	5 	15 	1 	4 	1 	our 	PRP$
+Lam 	5 	15 	1 	5 	1 	heart 	NN
+Lam 	5 	15 	1 	6 	1 	is 	VBZ
+Lam 	5 	15 	1 	7 	1 	ceased 	VBN
+Lam 	5 	15 	1 	8 	0 	;
+Lam 	5 	15 	1 	9 	1 	our 	PRP$
+Lam 	5 	15 	1 	10 	1 	dance 	NN
+Lam 	5 	15 	1 	11 	1 	is 	VBZ
+Lam 	5 	15 	1 	12 	1 	turned 	VBD
+Lam 	5 	15 	1 	13 	1 	into 	IN
+Lam 	5 	15 	1 	14 	1 	mourning 	VBG
+Lam 	5 	15 	1 	15 	0 	.
+Lam 	5 	16 	1 	1 	1 	The 	DT
+Lam 	5 	16 	1 	2 	1 	crown 	NN
+Lam 	5 	16 	1 	3 	1 	is 	VBZ
+Lam 	5 	16 	1 	4 	1 	fallen 	VBN
+Lam 	5 	16 	1 	5 	1 	from 	IN
+Lam 	5 	16 	1 	6 	1 	our 	PRP$
+Lam 	5 	16 	1 	7 	1 	head 	NN
+Lam 	5 	16 	1 	8 	0 	:
+Lam 	5 	16 	1 	9 	1 	woe 	NN
+Lam 	5 	16 	1 	10 	1 	unto 	NN
+Lam 	5 	16 	1 	11 	1 	us 	PRP
+Lam 	5 	16 	1 	12 	0 	,
+Lam 	5 	16 	1 	13 	1 	that 	IN
+Lam 	5 	16 	1 	14 	1 	we 	PRP
+Lam 	5 	16 	1 	15 	1 	have 	VB
+Lam 	5 	16 	1 	16 	1 	sinned 	VBN
+Lam 	5 	16 	1 	17 	0 	!
+Lam 	5 	17 	1 	1 	1 	For 	IN
+Lam 	5 	17 	1 	2 	1 	this 	DT
+Lam 	5 	17 	1 	3 	1 	our 	PRP$
+Lam 	5 	17 	1 	4 	1 	heart 	NN
+Lam 	5 	17 	1 	5 	1 	is 	VBZ
+Lam 	5 	17 	1 	6 	1 	faint 	NN
+Lam 	5 	17 	1 	7 	0 	;
+Lam 	5 	17 	1 	8 	1 	for 	IN
+Lam 	5 	17 	1 	9 	1 	these 	DT
+Lam 	5 	17 	1 	10 	1 	things 	NNS
+Lam 	5 	17 	1 	11 	1 	our 	PRP$
+Lam 	5 	17 	1 	12 	1 	eyes 	NNS
+Lam 	5 	17 	1 	13 	1 	are 	VBP
+Lam 	5 	17 	1 	14 	1 	dim 	NN
+Lam 	5 	17 	1 	15 	0 	.
+Lam 	5 	18 	1 	1 	1 	Because 	IN
+Lam 	5 	18 	1 	2 	1 	of 	IN
+Lam 	5 	18 	1 	3 	1 	the 	DT
+Lam 	5 	18 	1 	4 	1 	mountain 	NN
+Lam 	5 	18 	1 	5 	1 	of 	IN
+Lam 	5 	18 	1 	6 	1 	Zion 	NN
+Lam 	5 	18 	1 	7 	0 	,
+Lam 	5 	18 	1 	8 	1 	which 	WDT
+Lam 	5 	18 	1 	9 	1 	is 	VBZ
+Lam 	5 	18 	1 	10 	1 	desolate 	NN
+Lam 	5 	18 	1 	11 	0 	,
+Lam 	5 	18 	1 	12 	1 	the 	DT
+Lam 	5 	18 	1 	13 	1 	foxes 	NNS
+Lam 	5 	18 	1 	14 	1 	walk 	NN
+Lam 	5 	18 	1 	15 	1 	upon 	IN
+Lam 	5 	18 	1 	16 	1 	it 	PRP
+Lam 	5 	18 	1 	17 	0 	.
+Lam 	5 	19 	1 	1 	1 	Thou 	NN
+Lam 	5 	19 	1 	2 	0 	,
+Lam 	5 	19 	1 	3 	1 	O 	NN
+Lam 	5 	19 	1 	4 	1 	LORD 	NN
+Lam 	5 	19 	1 	5 	0 	,
+Lam 	5 	19 	1 	6 	1 	remainest 	NN
+Lam 	5 	19 	1 	7 	1 	for 	IN
+Lam 	5 	19 	1 	8 	1 	ever 	RB
+Lam 	5 	19 	1 	9 	0 	;
+Lam 	5 	19 	1 	10 	1 	thy 	NN
+Lam 	5 	19 	1 	11 	1 	throne 	NN
+Lam 	5 	19 	1 	12 	1 	from 	IN
+Lam 	5 	19 	1 	13 	1 	generation 	NN
+Lam 	5 	19 	1 	14 	1 	to 	TO
+Lam 	5 	19 	1 	15 	1 	generation 	NN
+Lam 	5 	19 	1 	16 	0 	.
+Lam 	5 	20 	1 	1 	1 	Wherefore 	IN
+Lam 	5 	20 	1 	2 	1 	dost 	NN
+Lam 	5 	20 	1 	3 	1 	thou 	NN
+Lam 	5 	20 	1 	4 	1 	forget 	NN
+Lam 	5 	20 	1 	5 	1 	us 	PRP
+Lam 	5 	20 	1 	6 	1 	for 	IN
+Lam 	5 	20 	1 	7 	1 	ever 	RB
+Lam 	5 	20 	1 	8 	0 	,
+Lam 	5 	20 	1 	9 	1 	and 	CC
+Lam 	5 	20 	1 	10 	1 	forsake 	NN
+Lam 	5 	20 	1 	11 	1 	us 	PRP
+Lam 	5 	20 	1 	12 	1 	so 	RB
+Lam 	5 	20 	1 	13 	1 	long 	RB
+Lam 	5 	20 	1 	14 	1 	time 	NN
+Lam 	5 	20 	1 	15 	0 	?
+Lam 	5 	21 	1 	1 	1 	Turn 	NN
+Lam 	5 	21 	1 	2 	1 	thou 	NN
+Lam 	5 	21 	1 	3 	1 	us 	PRP
+Lam 	5 	21 	1 	4 	1 	unto 	NN
+Lam 	5 	21 	1 	5 	1 	thee 	NN
+Lam 	5 	21 	1 	6 	0 	,
+Lam 	5 	21 	1 	7 	1 	O 	NN
+Lam 	5 	21 	1 	8 	1 	LORD 	NN
+Lam 	5 	21 	1 	9 	0 	,
+Lam 	5 	21 	1 	10 	1 	and 	CC
+Lam 	5 	21 	1 	11 	1 	we 	PRP
+Lam 	5 	21 	1 	12 	1 	shall 	MD
+Lam 	5 	21 	1 	13 	1 	be 	VB
+Lam 	5 	21 	1 	14 	1 	turned 	VBD
+Lam 	5 	21 	1 	15 	0 	;
+Lam 	5 	21 	1 	16 	1 	renew 	NN
+Lam 	5 	21 	1 	17 	1 	our 	PRP$
+Lam 	5 	21 	1 	18 	1 	days 	NNS
+Lam 	5 	21 	1 	19 	1 	as 	IN
+Lam 	5 	21 	1 	20 	1 	of 	IN
+Lam 	5 	21 	1 	21 	1 	old 	JJ
+Lam 	5 	21 	1 	22 	0 	.
+Lam 	5 	22 	1 	1 	1 	But 	CC
+Lam 	5 	22 	1 	2 	1 	thou 	NN
+Lam 	5 	22 	1 	3 	1 	hast 	NN
+Lam 	5 	22 	1 	4 	1 	utterly 	RB
+Lam 	5 	22 	1 	5 	1 	rejected 	VBN
+Lam 	5 	22 	1 	6 	1 	us 	PRP
+Lam 	5 	22 	1 	7 	0 	;
+Lam 	5 	22 	1 	8 	1 	thou 	NN
+Lam 	5 	22 	1 	9 	1 	art 	NN
+Lam 	5 	22 	1 	10 	1 	very 	RB
+Lam 	5 	22 	1 	11 	1 	wroth 	NN
+Lam 	5 	22 	1 	12 	1 	against 	IN
+Lam 	5 	22 	1 	13 	1 	us 	PRP
+Lam 	5 	22 	1 	14 	0 	.

@@ -1,0 +1,6401 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Ecc 	1 	1 	1 	1 	1 	The 	DT
+Ecc 	1 	1 	1 	2 	1 	words 	NNS
+Ecc 	1 	1 	1 	3 	1 	of 	IN
+Ecc 	1 	1 	1 	4 	1 	the 	DT
+Ecc 	1 	1 	1 	5 	1 	Preacher 	NN
+Ecc 	1 	1 	1 	6 	0 	,
+Ecc 	1 	1 	1 	7 	1 	the 	DT
+Ecc 	1 	1 	1 	8 	1 	son 	NN
+Ecc 	1 	1 	1 	9 	1 	of 	IN
+Ecc 	1 	1 	1 	10 	1 	David 	NNP
+Ecc 	1 	1 	1 	11 	0 	,
+Ecc 	1 	1 	1 	12 	1 	king 	NN
+Ecc 	1 	1 	1 	13 	1 	in 	IN
+Ecc 	1 	1 	1 	14 	1 	Jerusalem 	NN
+Ecc 	1 	1 	1 	15 	0 	.
+Ecc 	1 	2 	1 	1 	1 	Vanity 	NN
+Ecc 	1 	2 	1 	2 	1 	of 	IN
+Ecc 	1 	2 	1 	3 	1 	vanities 	NNS
+Ecc 	1 	2 	1 	4 	0 	,
+Ecc 	1 	2 	1 	5 	1 	saith 	NN
+Ecc 	1 	2 	1 	6 	1 	the 	DT
+Ecc 	1 	2 	1 	7 	1 	Preacher 	NN
+Ecc 	1 	2 	1 	8 	0 	,
+Ecc 	1 	2 	1 	9 	1 	vanity 	NN
+Ecc 	1 	2 	1 	10 	1 	of 	IN
+Ecc 	1 	2 	1 	11 	1 	vanities 	NNS
+Ecc 	1 	2 	1 	12 	0 	;
+Ecc 	1 	2 	1 	13 	1 	all 	DT
+Ecc 	1 	2 	1 	14 	1 	is 	VBZ
+Ecc 	1 	2 	1 	15 	1 	vanity 	NN
+Ecc 	1 	2 	1 	16 	0 	.
+Ecc 	1 	3 	1 	1 	1 	What 	WP
+Ecc 	1 	3 	1 	2 	1 	profit 	NN
+Ecc 	1 	3 	1 	3 	1 	hath 	NN
+Ecc 	1 	3 	1 	4 	1 	a 	DT
+Ecc 	1 	3 	1 	5 	1 	man 	NN
+Ecc 	1 	3 	1 	6 	1 	of 	IN
+Ecc 	1 	3 	1 	7 	1 	all 	DT
+Ecc 	1 	3 	1 	8 	1 	his 	PRP$
+Ecc 	1 	3 	1 	9 	1 	labour 	NN
+Ecc 	1 	3 	1 	10 	1 	which 	WDT
+Ecc 	1 	3 	1 	11 	1 	he 	PRP
+Ecc 	1 	3 	1 	12 	1 	taketh 	NNS
+Ecc 	1 	3 	1 	13 	1 	under 	IN
+Ecc 	1 	3 	1 	14 	1 	the 	DT
+Ecc 	1 	3 	1 	15 	1 	sun 	NN
+Ecc 	1 	3 	1 	16 	0 	?
+Ecc 	1 	4 	1 	1 	1 	One 	CD
+Ecc 	1 	4 	1 	2 	1 	generation 	NN
+Ecc 	1 	4 	1 	3 	1 	passeth 	NN
+Ecc 	1 	4 	1 	4 	1 	away 	RB
+Ecc 	1 	4 	1 	5 	0 	,
+Ecc 	1 	4 	1 	6 	1 	and 	CC
+Ecc 	1 	4 	1 	7 	1 	another 	DT
+Ecc 	1 	4 	1 	8 	1 	generation 	NN
+Ecc 	1 	4 	1 	9 	1 	cometh 	NNS
+Ecc 	1 	4 	1 	10 	0 	:
+Ecc 	1 	4 	1 	11 	1 	but 	CC
+Ecc 	1 	4 	1 	12 	1 	the 	DT
+Ecc 	1 	4 	1 	13 	1 	earth 	NN
+Ecc 	1 	4 	1 	14 	1 	abideth 	NNS
+Ecc 	1 	4 	1 	15 	1 	for 	IN
+Ecc 	1 	4 	1 	16 	1 	ever 	RB
+Ecc 	1 	4 	1 	17 	0 	.
+Ecc 	1 	5 	1 	1 	1 	The 	DT
+Ecc 	1 	5 	1 	2 	1 	sun 	NN
+Ecc 	1 	5 	1 	3 	1 	also 	RB
+Ecc 	1 	5 	1 	4 	1 	ariseth 	NNS
+Ecc 	1 	5 	1 	5 	0 	,
+Ecc 	1 	5 	1 	6 	1 	and 	CC
+Ecc 	1 	5 	1 	7 	1 	the 	DT
+Ecc 	1 	5 	1 	8 	1 	sun 	NN
+Ecc 	1 	5 	1 	9 	1 	goeth 	NNS
+Ecc 	1 	5 	1 	10 	1 	down 	RB
+Ecc 	1 	5 	1 	11 	0 	,
+Ecc 	1 	5 	1 	12 	1 	and 	CC
+Ecc 	1 	5 	1 	13 	1 	hasteth 	NN
+Ecc 	1 	5 	1 	14 	1 	to 	TO
+Ecc 	1 	5 	1 	15 	1 	his 	PRP$
+Ecc 	1 	5 	1 	16 	1 	place 	NN
+Ecc 	1 	5 	1 	17 	1 	where 	WRB
+Ecc 	1 	5 	1 	18 	1 	he 	PRP
+Ecc 	1 	5 	1 	19 	1 	arose 	NN
+Ecc 	1 	5 	1 	20 	0 	.
+Ecc 	1 	6 	1 	1 	1 	The 	DT
+Ecc 	1 	6 	1 	2 	1 	wind 	NN
+Ecc 	1 	6 	1 	3 	1 	goeth 	NNS
+Ecc 	1 	6 	1 	4 	1 	toward 	IN
+Ecc 	1 	6 	1 	5 	1 	the 	DT
+Ecc 	1 	6 	1 	6 	1 	south 	NN
+Ecc 	1 	6 	1 	7 	0 	,
+Ecc 	1 	6 	1 	8 	1 	and 	CC
+Ecc 	1 	6 	1 	9 	1 	turneth 	NNS
+Ecc 	1 	6 	1 	10 	1 	about 	IN
+Ecc 	1 	6 	1 	11 	1 	unto 	NN
+Ecc 	1 	6 	1 	12 	1 	the 	DT
+Ecc 	1 	6 	1 	13 	1 	north 	NN
+Ecc 	1 	6 	1 	14 	0 	;
+Ecc 	1 	6 	1 	15 	1 	it 	PRP
+Ecc 	1 	6 	1 	16 	1 	whirleth 	NNS
+Ecc 	1 	6 	1 	17 	1 	about 	IN
+Ecc 	1 	6 	1 	18 	1 	continually 	RB
+Ecc 	1 	6 	1 	19 	0 	,
+Ecc 	1 	6 	1 	20 	1 	and 	CC
+Ecc 	1 	6 	1 	21 	1 	the 	DT
+Ecc 	1 	6 	1 	22 	1 	wind 	NN
+Ecc 	1 	6 	1 	23 	1 	returneth 	NN
+Ecc 	1 	6 	1 	24 	1 	again 	RB
+Ecc 	1 	6 	1 	25 	1 	according 	VBG
+Ecc 	1 	6 	1 	26 	1 	to 	TO
+Ecc 	1 	6 	1 	27 	1 	his 	PRP$
+Ecc 	1 	6 	1 	28 	1 	circuits 	NNS
+Ecc 	1 	6 	1 	29 	0 	.
+Ecc 	1 	7 	1 	1 	1 	All 	DT
+Ecc 	1 	7 	1 	2 	1 	the 	DT
+Ecc 	1 	7 	1 	3 	1 	rivers 	NNS
+Ecc 	1 	7 	1 	4 	1 	run 	VB
+Ecc 	1 	7 	1 	5 	1 	into 	IN
+Ecc 	1 	7 	1 	6 	1 	the 	DT
+Ecc 	1 	7 	1 	7 	1 	sea 	NN
+Ecc 	1 	7 	1 	8 	0 	;
+Ecc 	1 	7 	1 	9 	1 	yet 	RB
+Ecc 	1 	7 	1 	10 	1 	the 	DT
+Ecc 	1 	7 	1 	11 	1 	sea 	NN
+Ecc 	1 	7 	1 	12 	1 	is 	VBZ
+Ecc 	1 	7 	1 	13 	1 	not 	RB
+Ecc 	1 	7 	1 	14 	1 	full 	JJ
+Ecc 	1 	7 	1 	15 	0 	;
+Ecc 	1 	7 	1 	16 	1 	unto 	NN
+Ecc 	1 	7 	1 	17 	1 	the 	DT
+Ecc 	1 	7 	1 	18 	1 	place 	NN
+Ecc 	1 	7 	1 	19 	1 	from 	IN
+Ecc 	1 	7 	1 	20 	1 	whence 	NN
+Ecc 	1 	7 	1 	21 	1 	the 	DT
+Ecc 	1 	7 	1 	22 	1 	rivers 	NNS
+Ecc 	1 	7 	1 	23 	1 	come 	VB
+Ecc 	1 	7 	1 	24 	0 	,
+Ecc 	1 	7 	1 	25 	1 	thither 	NN
+Ecc 	1 	7 	1 	26 	1 	they 	PRP
+Ecc 	1 	7 	1 	27 	1 	return 	NN
+Ecc 	1 	7 	1 	28 	1 	again 	RB
+Ecc 	1 	7 	1 	29 	0 	.
+Ecc 	1 	8 	1 	1 	1 	All 	DT
+Ecc 	1 	8 	1 	2 	1 	things 	NNS
+Ecc 	1 	8 	1 	3 	1 	are 	VBP
+Ecc 	1 	8 	1 	4 	1 	full 	JJ
+Ecc 	1 	8 	1 	5 	1 	of 	IN
+Ecc 	1 	8 	1 	6 	1 	labour 	NN
+Ecc 	1 	8 	1 	7 	0 	;
+Ecc 	1 	8 	1 	8 	1 	man 	NN
+Ecc 	1 	8 	1 	9 	1 	can 	MD
+Ecc 	1 	8 	1 	10 	1 	not 	RB
+Ecc 	1 	8 	1 	11 	1 	utter 	NN
+Ecc 	1 	8 	1 	12 	1 	it 	PRP
+Ecc 	1 	8 	1 	13 	0 	:
+Ecc 	1 	8 	1 	14 	1 	the 	DT
+Ecc 	1 	8 	1 	15 	1 	eye 	NN
+Ecc 	1 	8 	1 	16 	1 	is 	VBZ
+Ecc 	1 	8 	1 	17 	1 	not 	RB
+Ecc 	1 	8 	1 	18 	1 	satisfied 	JJ
+Ecc 	1 	8 	1 	19 	1 	with 	IN
+Ecc 	1 	8 	1 	20 	1 	seeing 	VBG
+Ecc 	1 	8 	1 	21 	0 	,
+Ecc 	1 	8 	1 	22 	1 	nor 	CC
+Ecc 	1 	8 	1 	23 	1 	the 	DT
+Ecc 	1 	8 	1 	24 	1 	ear 	NN
+Ecc 	1 	8 	1 	25 	1 	filled 	VBN
+Ecc 	1 	8 	1 	26 	1 	with 	IN
+Ecc 	1 	8 	1 	27 	1 	hearing 	NN
+Ecc 	1 	8 	1 	28 	0 	.
+Ecc 	1 	9 	1 	1 	1 	The 	DT
+Ecc 	1 	9 	1 	2 	1 	thing 	NN
+Ecc 	1 	9 	1 	3 	1 	that 	IN
+Ecc 	1 	9 	1 	4 	1 	hath 	NN
+Ecc 	1 	9 	1 	5 	1 	been 	VBN
+Ecc 	1 	9 	1 	6 	0 	,
+Ecc 	1 	9 	1 	7 	1 	it 	PRP
+Ecc 	1 	9 	1 	8 	1 	is 	VBZ
+Ecc 	1 	9 	1 	9 	1 	that 	IN
+Ecc 	1 	9 	1 	10 	1 	which 	WDT
+Ecc 	1 	9 	1 	11 	1 	shall 	MD
+Ecc 	1 	9 	1 	12 	1 	be 	VB
+Ecc 	1 	9 	1 	13 	0 	;
+Ecc 	1 	9 	1 	14 	1 	and 	CC
+Ecc 	1 	9 	1 	15 	1 	that 	IN
+Ecc 	1 	9 	1 	16 	1 	which 	WDT
+Ecc 	1 	9 	1 	17 	1 	is 	VBZ
+Ecc 	1 	9 	1 	18 	1 	done 	VBN
+Ecc 	1 	9 	1 	19 	1 	is 	VBZ
+Ecc 	1 	9 	1 	20 	1 	that 	IN
+Ecc 	1 	9 	1 	21 	1 	which 	WDT
+Ecc 	1 	9 	1 	22 	1 	shall 	MD
+Ecc 	1 	9 	1 	23 	1 	be 	VB
+Ecc 	1 	9 	1 	24 	1 	done 	VBN
+Ecc 	1 	9 	1 	25 	0 	:
+Ecc 	1 	9 	1 	26 	1 	and 	CC
+Ecc 	1 	9 	1 	27 	1 	there 	RB
+Ecc 	1 	9 	1 	28 	1 	is 	VBZ
+Ecc 	1 	9 	1 	29 	1 	no 	DT
+Ecc 	1 	9 	1 	30 	1 	new 	JJ
+Ecc 	1 	9 	1 	31 	1 	thing 	NN
+Ecc 	1 	9 	1 	32 	1 	under 	IN
+Ecc 	1 	9 	1 	33 	1 	the 	DT
+Ecc 	1 	9 	1 	34 	1 	sun 	NN
+Ecc 	1 	9 	1 	35 	0 	.
+Ecc 	1 	10 	1 	1 	1 	Is 	NN
+Ecc 	1 	10 	1 	2 	1 	there 	RB
+Ecc 	1 	10 	1 	3 	1 	any 	DT
+Ecc 	1 	10 	1 	4 	1 	thing 	NN
+Ecc 	1 	10 	1 	5 	1 	whereof 	NN
+Ecc 	1 	10 	1 	6 	1 	it 	PRP
+Ecc 	1 	10 	1 	7 	1 	may 	MD
+Ecc 	1 	10 	1 	8 	1 	be 	VB
+Ecc 	1 	10 	1 	9 	1 	said 	VBD
+Ecc 	1 	10 	1 	10 	0 	,
+Ecc 	1 	10 	1 	11 	1 	See 	VB
+Ecc 	1 	10 	1 	12 	0 	,
+Ecc 	1 	10 	1 	13 	1 	this 	DT
+Ecc 	1 	10 	1 	14 	1 	is 	VBZ
+Ecc 	1 	10 	1 	15 	1 	new 	JJ
+Ecc 	1 	10 	1 	16 	0 	?
+Ecc 	1 	10 	2 	1 	1 	it 	PRP
+Ecc 	1 	10 	2 	2 	1 	hath 	NN
+Ecc 	1 	10 	2 	3 	1 	been 	VBN
+Ecc 	1 	10 	2 	4 	1 	already 	RB
+Ecc 	1 	10 	2 	5 	1 	of 	IN
+Ecc 	1 	10 	2 	6 	1 	old 	JJ
+Ecc 	1 	10 	2 	7 	1 	time 	NN
+Ecc 	1 	10 	2 	8 	0 	,
+Ecc 	1 	10 	2 	9 	1 	which 	WDT
+Ecc 	1 	10 	2 	10 	1 	was 	VBD
+Ecc 	1 	10 	2 	11 	1 	before 	IN
+Ecc 	1 	10 	2 	12 	1 	us 	PRP
+Ecc 	1 	10 	2 	13 	0 	.
+Ecc 	1 	11 	1 	1 	1 	There 	EX
+Ecc 	1 	11 	1 	2 	1 	is 	VBZ
+Ecc 	1 	11 	1 	3 	1 	no 	DT
+Ecc 	1 	11 	1 	4 	1 	remembrance 	NN
+Ecc 	1 	11 	1 	5 	1 	of 	IN
+Ecc 	1 	11 	1 	6 	1 	former 	JJ
+Ecc 	1 	11 	1 	7 	1 	things 	NNS
+Ecc 	1 	11 	1 	8 	0 	;
+Ecc 	1 	11 	1 	9 	1 	neither 	DT
+Ecc 	1 	11 	1 	10 	1 	shall 	MD
+Ecc 	1 	11 	1 	11 	1 	there 	RB
+Ecc 	1 	11 	1 	12 	1 	be 	VB
+Ecc 	1 	11 	1 	13 	1 	any 	DT
+Ecc 	1 	11 	1 	14 	1 	remembrance 	NN
+Ecc 	1 	11 	1 	15 	1 	of 	IN
+Ecc 	1 	11 	1 	16 	1 	things 	NNS
+Ecc 	1 	11 	1 	17 	1 	that 	IN
+Ecc 	1 	11 	1 	18 	1 	are 	VBP
+Ecc 	1 	11 	1 	19 	1 	to 	TO
+Ecc 	1 	11 	1 	20 	1 	come 	VB
+Ecc 	1 	11 	1 	21 	1 	with 	IN
+Ecc 	1 	11 	1 	22 	1 	those 	DT
+Ecc 	1 	11 	1 	23 	1 	that 	IN
+Ecc 	1 	11 	1 	24 	1 	shall 	MD
+Ecc 	1 	11 	1 	25 	1 	come 	VB
+Ecc 	1 	11 	1 	26 	1 	after 	IN
+Ecc 	1 	11 	1 	27 	0 	.
+Ecc 	1 	12 	1 	1 	1 	I 	PRP
+Ecc 	1 	12 	1 	2 	1 	the 	DT
+Ecc 	1 	12 	1 	3 	1 	Preacher 	NN
+Ecc 	1 	12 	1 	4 	1 	was 	VBD
+Ecc 	1 	12 	1 	5 	1 	king 	NN
+Ecc 	1 	12 	1 	6 	1 	over 	IN
+Ecc 	1 	12 	1 	7 	1 	Israel 	NNP
+Ecc 	1 	12 	1 	8 	1 	in 	IN
+Ecc 	1 	12 	1 	9 	1 	Jerusalem 	NN
+Ecc 	1 	12 	1 	10 	0 	.
+Ecc 	1 	13 	1 	1 	1 	And 	CC
+Ecc 	1 	13 	1 	2 	1 	I 	PRP
+Ecc 	1 	13 	1 	3 	1 	gave 	VBD
+Ecc 	1 	13 	1 	4 	1 	my 	PRP$
+Ecc 	1 	13 	1 	5 	1 	heart 	NN
+Ecc 	1 	13 	1 	6 	1 	to 	TO
+Ecc 	1 	13 	1 	7 	1 	seek 	NN
+Ecc 	1 	13 	1 	8 	1 	and 	CC
+Ecc 	1 	13 	1 	9 	1 	search 	NN
+Ecc 	1 	13 	1 	10 	1 	out 	IN
+Ecc 	1 	13 	1 	11 	1 	by 	IN
+Ecc 	1 	13 	1 	12 	1 	wisdom 	NN
+Ecc 	1 	13 	1 	13 	1 	concerning 	VBG
+Ecc 	1 	13 	1 	14 	1 	all 	DT
+Ecc 	1 	13 	1 	15 	1 	things 	NNS
+Ecc 	1 	13 	1 	16 	1 	that 	IN
+Ecc 	1 	13 	1 	17 	1 	are 	VBP
+Ecc 	1 	13 	1 	18 	1 	done 	VBN
+Ecc 	1 	13 	1 	19 	1 	under 	IN
+Ecc 	1 	13 	1 	20 	1 	heaven 	NN
+Ecc 	1 	13 	1 	21 	0 	:
+Ecc 	1 	13 	1 	22 	1 	this 	DT
+Ecc 	1 	13 	1 	23 	1 	sore 	NN
+Ecc 	1 	13 	1 	24 	1 	travail 	NN
+Ecc 	1 	13 	1 	25 	1 	hath 	NN
+Ecc 	1 	13 	1 	26 	1 	God 	NNP
+Ecc 	1 	13 	1 	27 	1 	given 	VBN
+Ecc 	1 	13 	1 	28 	1 	to 	TO
+Ecc 	1 	13 	1 	29 	1 	the 	DT
+Ecc 	1 	13 	1 	30 	1 	sons 	NNS
+Ecc 	1 	13 	1 	31 	1 	of 	IN
+Ecc 	1 	13 	1 	32 	1 	man 	NN
+Ecc 	1 	13 	1 	33 	1 	to 	TO
+Ecc 	1 	13 	1 	34 	1 	be 	VB
+Ecc 	1 	13 	1 	35 	1 	exercised 	VBN
+Ecc 	1 	13 	1 	36 	1 	therewith 	NN
+Ecc 	1 	13 	1 	37 	0 	.
+Ecc 	1 	14 	1 	1 	1 	I 	PRP
+Ecc 	1 	14 	1 	2 	1 	have 	VB
+Ecc 	1 	14 	1 	3 	1 	seen 	VBN
+Ecc 	1 	14 	1 	4 	1 	all 	DT
+Ecc 	1 	14 	1 	5 	1 	the 	DT
+Ecc 	1 	14 	1 	6 	1 	works 	NNS
+Ecc 	1 	14 	1 	7 	1 	that 	IN
+Ecc 	1 	14 	1 	8 	1 	are 	VBP
+Ecc 	1 	14 	1 	9 	1 	done 	VBN
+Ecc 	1 	14 	1 	10 	1 	under 	IN
+Ecc 	1 	14 	1 	11 	1 	the 	DT
+Ecc 	1 	14 	1 	12 	1 	sun 	NN
+Ecc 	1 	14 	1 	13 	0 	;
+Ecc 	1 	14 	1 	14 	1 	and 	CC
+Ecc 	1 	14 	1 	15 	0 	,
+Ecc 	1 	14 	1 	16 	1 	behold 	NN
+Ecc 	1 	14 	1 	17 	0 	,
+Ecc 	1 	14 	1 	18 	1 	all 	DT
+Ecc 	1 	14 	1 	19 	1 	is 	VBZ
+Ecc 	1 	14 	1 	20 	1 	vanity 	NN
+Ecc 	1 	14 	1 	21 	1 	and 	CC
+Ecc 	1 	14 	1 	22 	1 	vexation 	NN
+Ecc 	1 	14 	1 	23 	1 	of 	IN
+Ecc 	1 	14 	1 	24 	1 	spirit 	NN
+Ecc 	1 	14 	1 	25 	0 	.
+Ecc 	1 	15 	1 	1 	1 	That 	DT
+Ecc 	1 	15 	1 	2 	1 	which 	WDT
+Ecc 	1 	15 	1 	3 	1 	is 	VBZ
+Ecc 	1 	15 	1 	4 	1 	crooked 	NNS
+Ecc 	1 	15 	1 	5 	1 	can 	MD
+Ecc 	1 	15 	1 	6 	1 	not 	RB
+Ecc 	1 	15 	1 	7 	1 	be 	VB
+Ecc 	1 	15 	1 	8 	1 	made 	VBN
+Ecc 	1 	15 	1 	9 	1 	straight 	NN
+Ecc 	1 	15 	1 	10 	0 	:
+Ecc 	1 	15 	1 	11 	1 	and 	CC
+Ecc 	1 	15 	1 	12 	1 	that 	IN
+Ecc 	1 	15 	1 	13 	1 	which 	WDT
+Ecc 	1 	15 	1 	14 	1 	is 	VBZ
+Ecc 	1 	15 	1 	15 	1 	wanting 	VBG
+Ecc 	1 	15 	1 	16 	1 	can 	MD
+Ecc 	1 	15 	1 	17 	1 	not 	RB
+Ecc 	1 	15 	1 	18 	1 	be 	VB
+Ecc 	1 	15 	1 	19 	1 	numbered 	JJ
+Ecc 	1 	15 	1 	20 	0 	.
+Ecc 	1 	16 	1 	1 	1 	I 	PRP
+Ecc 	1 	16 	1 	2 	1 	communed 	VBN
+Ecc 	1 	16 	1 	3 	1 	with 	IN
+Ecc 	1 	16 	1 	4 	1 	mine 	NN
+Ecc 	1 	16 	1 	5 	1 	own 	JJ
+Ecc 	1 	16 	1 	6 	1 	heart 	NN
+Ecc 	1 	16 	1 	7 	0 	,
+Ecc 	1 	16 	1 	8 	1 	saying 	VBG
+Ecc 	1 	16 	1 	9 	0 	,
+Ecc 	1 	16 	1 	10 	1 	Lo 	NN
+Ecc 	1 	16 	1 	11 	0 	,
+Ecc 	1 	16 	1 	12 	1 	I 	PRP
+Ecc 	1 	16 	1 	13 	1 	am 	VBP
+Ecc 	1 	16 	1 	14 	1 	come 	VB
+Ecc 	1 	16 	1 	15 	1 	to 	TO
+Ecc 	1 	16 	1 	16 	1 	great 	JJ
+Ecc 	1 	16 	1 	17 	1 	estate 	NN
+Ecc 	1 	16 	1 	18 	0 	,
+Ecc 	1 	16 	1 	19 	1 	and 	CC
+Ecc 	1 	16 	1 	20 	1 	have 	VB
+Ecc 	1 	16 	1 	21 	1 	gotten 	NNS
+Ecc 	1 	16 	1 	22 	1 	more 	RBR
+Ecc 	1 	16 	1 	23 	1 	wisdom 	NN
+Ecc 	1 	16 	1 	24 	1 	than 	IN
+Ecc 	1 	16 	1 	25 	1 	all 	DT
+Ecc 	1 	16 	1 	26 	1 	they 	PRP
+Ecc 	1 	16 	1 	27 	1 	that 	IN
+Ecc 	1 	16 	1 	28 	1 	have 	VB
+Ecc 	1 	16 	1 	29 	1 	been 	VBN
+Ecc 	1 	16 	1 	30 	1 	before 	IN
+Ecc 	1 	16 	1 	31 	1 	me 	PRP
+Ecc 	1 	16 	1 	32 	1 	in 	IN
+Ecc 	1 	16 	1 	33 	1 	Jerusalem 	NN
+Ecc 	1 	16 	1 	34 	0 	:
+Ecc 	1 	16 	1 	35 	1 	yea 	NN
+Ecc 	1 	16 	1 	36 	0 	,
+Ecc 	1 	16 	1 	37 	1 	my 	PRP$
+Ecc 	1 	16 	1 	38 	1 	heart 	NN
+Ecc 	1 	16 	1 	39 	1 	had 	VBD
+Ecc 	1 	16 	1 	40 	1 	great 	JJ
+Ecc 	1 	16 	1 	41 	1 	experience 	NN
+Ecc 	1 	16 	1 	42 	1 	of 	IN
+Ecc 	1 	16 	1 	43 	1 	wisdom 	NN
+Ecc 	1 	16 	1 	44 	1 	and 	CC
+Ecc 	1 	16 	1 	45 	1 	knowledge 	NN
+Ecc 	1 	16 	1 	46 	0 	.
+Ecc 	1 	17 	1 	1 	1 	And 	CC
+Ecc 	1 	17 	1 	2 	1 	I 	PRP
+Ecc 	1 	17 	1 	3 	1 	gave 	VBD
+Ecc 	1 	17 	1 	4 	1 	my 	PRP$
+Ecc 	1 	17 	1 	5 	1 	heart 	NN
+Ecc 	1 	17 	1 	6 	1 	to 	TO
+Ecc 	1 	17 	1 	7 	1 	know 	VB
+Ecc 	1 	17 	1 	8 	1 	wisdom 	NN
+Ecc 	1 	17 	1 	9 	0 	,
+Ecc 	1 	17 	1 	10 	1 	and 	CC
+Ecc 	1 	17 	1 	11 	1 	to 	TO
+Ecc 	1 	17 	1 	12 	1 	know 	VB
+Ecc 	1 	17 	1 	13 	1 	madness 	NN
+Ecc 	1 	17 	1 	14 	1 	and 	CC
+Ecc 	1 	17 	1 	15 	1 	folly 	RB
+Ecc 	1 	17 	1 	16 	0 	:
+Ecc 	1 	17 	1 	17 	1 	I 	PRP
+Ecc 	1 	17 	1 	18 	1 	perceived 	VBN
+Ecc 	1 	17 	1 	19 	1 	that 	IN
+Ecc 	1 	17 	1 	20 	1 	this 	DT
+Ecc 	1 	17 	1 	21 	1 	also 	RB
+Ecc 	1 	17 	1 	22 	1 	is 	VBZ
+Ecc 	1 	17 	1 	23 	1 	vexation 	NN
+Ecc 	1 	17 	1 	24 	1 	of 	IN
+Ecc 	1 	17 	1 	25 	1 	spirit 	NN
+Ecc 	1 	17 	1 	26 	0 	.
+Ecc 	1 	18 	1 	1 	1 	For 	IN
+Ecc 	1 	18 	1 	2 	1 	in 	IN
+Ecc 	1 	18 	1 	3 	1 	much 	JJ
+Ecc 	1 	18 	1 	4 	1 	wisdom 	NN
+Ecc 	1 	18 	1 	5 	1 	is 	VBZ
+Ecc 	1 	18 	1 	6 	1 	much 	JJ
+Ecc 	1 	18 	1 	7 	1 	grief 	NN
+Ecc 	1 	18 	1 	8 	0 	:
+Ecc 	1 	18 	1 	9 	1 	and 	CC
+Ecc 	1 	18 	1 	10 	1 	he 	PRP
+Ecc 	1 	18 	1 	11 	1 	that 	IN
+Ecc 	1 	18 	1 	12 	1 	increaseth 	NN
+Ecc 	1 	18 	1 	13 	1 	knowledge 	NN
+Ecc 	1 	18 	1 	14 	1 	increaseth 	NN
+Ecc 	1 	18 	1 	15 	1 	sorrow 	NN
+Ecc 	1 	18 	1 	16 	0 	.
+Ecc 	2 	1 	1 	1 	1 	I 	PRP
+Ecc 	2 	1 	1 	2 	1 	said 	VBD
+Ecc 	2 	1 	1 	3 	1 	in 	IN
+Ecc 	2 	1 	1 	4 	1 	mine 	NN
+Ecc 	2 	1 	1 	5 	1 	heart 	NN
+Ecc 	2 	1 	1 	6 	0 	,
+Ecc 	2 	1 	1 	7 	1 	Go 	VB
+Ecc 	2 	1 	1 	8 	1 	to 	TO
+Ecc 	2 	1 	1 	9 	1 	now 	RB
+Ecc 	2 	1 	1 	10 	0 	,
+Ecc 	2 	1 	1 	11 	1 	I 	PRP
+Ecc 	2 	1 	1 	12 	1 	will 	MD
+Ecc 	2 	1 	1 	13 	1 	prove 	NN
+Ecc 	2 	1 	1 	14 	1 	thee 	NN
+Ecc 	2 	1 	1 	15 	1 	with 	IN
+Ecc 	2 	1 	1 	16 	1 	mirth 	NN
+Ecc 	2 	1 	1 	17 	0 	,
+Ecc 	2 	1 	1 	18 	1 	therefore 	RB
+Ecc 	2 	1 	1 	19 	1 	enjoy 	NN
+Ecc 	2 	1 	1 	20 	1 	pleasure 	NN
+Ecc 	2 	1 	1 	21 	0 	:
+Ecc 	2 	1 	1 	22 	1 	and 	CC
+Ecc 	2 	1 	1 	23 	0 	,
+Ecc 	2 	1 	1 	24 	1 	behold 	NN
+Ecc 	2 	1 	1 	25 	0 	,
+Ecc 	2 	1 	1 	26 	1 	this 	DT
+Ecc 	2 	1 	1 	27 	1 	also 	RB
+Ecc 	2 	1 	1 	28 	1 	is 	VBZ
+Ecc 	2 	1 	1 	29 	1 	vanity 	NN
+Ecc 	2 	1 	1 	30 	0 	.
+Ecc 	2 	2 	1 	1 	1 	I 	PRP
+Ecc 	2 	2 	1 	2 	1 	said 	VBD
+Ecc 	2 	2 	1 	3 	1 	of 	IN
+Ecc 	2 	2 	1 	4 	1 	laughter 	NN
+Ecc 	2 	2 	1 	5 	0 	,
+Ecc 	2 	2 	1 	6 	1 	It 	PRP
+Ecc 	2 	2 	1 	7 	1 	is 	VBZ
+Ecc 	2 	2 	1 	8 	1 	mad 	NN
+Ecc 	2 	2 	1 	9 	0 	:
+Ecc 	2 	2 	1 	10 	1 	and 	CC
+Ecc 	2 	2 	1 	11 	1 	of 	IN
+Ecc 	2 	2 	1 	12 	1 	mirth 	NN
+Ecc 	2 	2 	1 	13 	0 	,
+Ecc 	2 	2 	1 	14 	1 	What 	WP
+Ecc 	2 	2 	1 	15 	1 	doeth 	NN
+Ecc 	2 	2 	1 	16 	1 	it 	PRP
+Ecc 	2 	2 	1 	17 	0 	?
+Ecc 	2 	3 	1 	1 	1 	I 	PRP
+Ecc 	2 	3 	1 	2 	1 	sought 	NN
+Ecc 	2 	3 	1 	3 	1 	in 	IN
+Ecc 	2 	3 	1 	4 	1 	mine 	NN
+Ecc 	2 	3 	1 	5 	1 	heart 	NN
+Ecc 	2 	3 	1 	6 	1 	to 	TO
+Ecc 	2 	3 	1 	7 	1 	give 	VB
+Ecc 	2 	3 	1 	8 	1 	myself 	PRP
+Ecc 	2 	3 	1 	9 	1 	unto 	NN
+Ecc 	2 	3 	1 	10 	1 	wine 	NN
+Ecc 	2 	3 	1 	11 	0 	,
+Ecc 	2 	3 	1 	12 	1 	yet 	RB
+Ecc 	2 	3 	1 	13 	1 	acquainting 	VBG
+Ecc 	2 	3 	1 	14 	1 	mine 	NN
+Ecc 	2 	3 	1 	15 	1 	heart 	NN
+Ecc 	2 	3 	1 	16 	1 	with 	IN
+Ecc 	2 	3 	1 	17 	1 	wisdom 	NN
+Ecc 	2 	3 	1 	18 	0 	;
+Ecc 	2 	3 	1 	19 	1 	and 	CC
+Ecc 	2 	3 	1 	20 	1 	to 	TO
+Ecc 	2 	3 	1 	21 	1 	lay 	NN
+Ecc 	2 	3 	1 	22 	1 	hold 	NN
+Ecc 	2 	3 	1 	23 	1 	on 	IN
+Ecc 	2 	3 	1 	24 	1 	folly 	RB
+Ecc 	2 	3 	1 	25 	0 	,
+Ecc 	2 	3 	1 	26 	1 	till 	NN
+Ecc 	2 	3 	1 	27 	1 	I 	PRP
+Ecc 	2 	3 	1 	28 	1 	might 	MD
+Ecc 	2 	3 	1 	29 	1 	see 	VB
+Ecc 	2 	3 	1 	30 	1 	what 	WP
+Ecc 	2 	3 	1 	31 	1 	was 	VBD
+Ecc 	2 	3 	1 	32 	1 	that 	IN
+Ecc 	2 	3 	1 	33 	1 	good 	JJ
+Ecc 	2 	3 	1 	34 	1 	for 	IN
+Ecc 	2 	3 	1 	35 	1 	the 	DT
+Ecc 	2 	3 	1 	36 	1 	sons 	NNS
+Ecc 	2 	3 	1 	37 	1 	of 	IN
+Ecc 	2 	3 	1 	38 	1 	men 	NNS
+Ecc 	2 	3 	1 	39 	0 	,
+Ecc 	2 	3 	1 	40 	1 	which 	WDT
+Ecc 	2 	3 	1 	41 	1 	they 	PRP
+Ecc 	2 	3 	1 	42 	1 	should 	MD
+Ecc 	2 	3 	1 	43 	1 	do 	VB
+Ecc 	2 	3 	1 	44 	1 	under 	IN
+Ecc 	2 	3 	1 	45 	1 	the 	DT
+Ecc 	2 	3 	1 	46 	1 	heaven 	NN
+Ecc 	2 	3 	1 	47 	1 	all 	DT
+Ecc 	2 	3 	1 	48 	1 	the 	DT
+Ecc 	2 	3 	1 	49 	1 	days 	NNS
+Ecc 	2 	3 	1 	50 	1 	of 	IN
+Ecc 	2 	3 	1 	51 	1 	their 	PRP$
+Ecc 	2 	3 	1 	52 	1 	life 	NN
+Ecc 	2 	3 	1 	53 	0 	.
+Ecc 	2 	4 	1 	1 	1 	I 	PRP
+Ecc 	2 	4 	1 	2 	1 	made 	VBN
+Ecc 	2 	4 	1 	3 	1 	me 	PRP
+Ecc 	2 	4 	1 	4 	1 	great 	JJ
+Ecc 	2 	4 	1 	5 	1 	works 	NNS
+Ecc 	2 	4 	1 	6 	0 	;
+Ecc 	2 	4 	1 	7 	1 	I 	PRP
+Ecc 	2 	4 	1 	8 	1 	builded 	VBN
+Ecc 	2 	4 	1 	9 	1 	me 	PRP
+Ecc 	2 	4 	1 	10 	1 	houses 	NNS
+Ecc 	2 	4 	1 	11 	0 	;
+Ecc 	2 	4 	1 	12 	1 	I 	PRP
+Ecc 	2 	4 	1 	13 	1 	planted 	VBN
+Ecc 	2 	4 	1 	14 	1 	me 	PRP
+Ecc 	2 	4 	1 	15 	1 	vineyards 	NNS
+Ecc 	2 	4 	1 	16 	0 	:
+Ecc 	2 	5 	1 	1 	1 	I 	PRP
+Ecc 	2 	5 	1 	2 	1 	made 	VBN
+Ecc 	2 	5 	1 	3 	1 	me 	PRP
+Ecc 	2 	5 	1 	4 	1 	gardens 	NNS
+Ecc 	2 	5 	1 	5 	1 	and 	CC
+Ecc 	2 	5 	1 	6 	1 	orchards 	NNS
+Ecc 	2 	5 	1 	7 	0 	,
+Ecc 	2 	5 	1 	8 	1 	and 	CC
+Ecc 	2 	5 	1 	9 	1 	I 	PRP
+Ecc 	2 	5 	1 	10 	1 	planted 	VBN
+Ecc 	2 	5 	1 	11 	1 	trees 	NNS
+Ecc 	2 	5 	1 	12 	1 	in 	IN
+Ecc 	2 	5 	1 	13 	1 	them 	PRP
+Ecc 	2 	5 	1 	14 	1 	of 	IN
+Ecc 	2 	5 	1 	15 	1 	all 	DT
+Ecc 	2 	5 	1 	16 	1 	kind 	NN
+Ecc 	2 	5 	1 	17 	1 	of 	IN
+Ecc 	2 	5 	1 	18 	1 	fruits 	NNS
+Ecc 	2 	5 	1 	19 	0 	:
+Ecc 	2 	6 	1 	1 	1 	I 	PRP
+Ecc 	2 	6 	1 	2 	1 	made 	VBN
+Ecc 	2 	6 	1 	3 	1 	me 	PRP
+Ecc 	2 	6 	1 	4 	1 	pools 	NNS
+Ecc 	2 	6 	1 	5 	1 	of 	IN
+Ecc 	2 	6 	1 	6 	1 	water 	NN
+Ecc 	2 	6 	1 	7 	0 	,
+Ecc 	2 	6 	1 	8 	1 	to 	TO
+Ecc 	2 	6 	1 	9 	1 	water 	NN
+Ecc 	2 	6 	1 	10 	1 	therewith 	NN
+Ecc 	2 	6 	1 	11 	1 	the 	DT
+Ecc 	2 	6 	1 	12 	1 	wood 	NN
+Ecc 	2 	6 	1 	13 	1 	that 	IN
+Ecc 	2 	6 	1 	14 	1 	bringeth 	NN
+Ecc 	2 	6 	1 	15 	1 	forth 	NN
+Ecc 	2 	6 	1 	16 	1 	trees 	NNS
+Ecc 	2 	6 	1 	17 	0 	:
+Ecc 	2 	7 	1 	1 	1 	I 	PRP
+Ecc 	2 	7 	1 	2 	1 	got 	VBD
+Ecc 	2 	7 	1 	3 	1 	me 	PRP
+Ecc 	2 	7 	1 	4 	1 	servants 	NNS
+Ecc 	2 	7 	1 	5 	1 	and 	CC
+Ecc 	2 	7 	1 	6 	1 	maidens 	NNS
+Ecc 	2 	7 	1 	7 	0 	,
+Ecc 	2 	7 	1 	8 	1 	and 	CC
+Ecc 	2 	7 	1 	9 	1 	had 	VBD
+Ecc 	2 	7 	1 	10 	1 	servants 	NNS
+Ecc 	2 	7 	1 	11 	1 	born 	NN
+Ecc 	2 	7 	1 	12 	1 	in 	IN
+Ecc 	2 	7 	1 	13 	1 	my 	PRP$
+Ecc 	2 	7 	1 	14 	1 	house 	NN
+Ecc 	2 	7 	1 	15 	0 	;
+Ecc 	2 	7 	1 	16 	1 	also 	RB
+Ecc 	2 	7 	1 	17 	1 	I 	PRP
+Ecc 	2 	7 	1 	18 	1 	had 	VBD
+Ecc 	2 	7 	1 	19 	1 	great 	JJ
+Ecc 	2 	7 	1 	20 	1 	possessions 	NNS
+Ecc 	2 	7 	1 	21 	1 	of 	IN
+Ecc 	2 	7 	1 	22 	1 	great 	JJ
+Ecc 	2 	7 	1 	23 	1 	and 	CC
+Ecc 	2 	7 	1 	24 	1 	small 	JJ
+Ecc 	2 	7 	1 	25 	1 	cattle 	NNS
+Ecc 	2 	7 	1 	26 	1 	above 	IN
+Ecc 	2 	7 	1 	27 	1 	all 	DT
+Ecc 	2 	7 	1 	28 	1 	that 	IN
+Ecc 	2 	7 	1 	29 	1 	were 	VBD
+Ecc 	2 	7 	1 	30 	1 	in 	IN
+Ecc 	2 	7 	1 	31 	1 	Jerusalem 	NN
+Ecc 	2 	7 	1 	32 	1 	before 	IN
+Ecc 	2 	7 	1 	33 	1 	me 	PRP
+Ecc 	2 	7 	1 	34 	0 	:
+Ecc 	2 	8 	1 	1 	1 	I 	PRP
+Ecc 	2 	8 	1 	2 	1 	gathered 	VBN
+Ecc 	2 	8 	1 	3 	1 	me 	PRP
+Ecc 	2 	8 	1 	4 	1 	also 	RB
+Ecc 	2 	8 	1 	5 	1 	silver 	NN
+Ecc 	2 	8 	1 	6 	1 	and 	CC
+Ecc 	2 	8 	1 	7 	1 	gold 	NN
+Ecc 	2 	8 	1 	8 	0 	,
+Ecc 	2 	8 	1 	9 	1 	and 	CC
+Ecc 	2 	8 	1 	10 	1 	the 	DT
+Ecc 	2 	8 	1 	11 	1 	peculiar 	NN
+Ecc 	2 	8 	1 	12 	1 	treasure 	NN
+Ecc 	2 	8 	1 	13 	1 	of 	IN
+Ecc 	2 	8 	1 	14 	1 	kings 	NNS
+Ecc 	2 	8 	1 	15 	1 	and 	CC
+Ecc 	2 	8 	1 	16 	1 	of 	IN
+Ecc 	2 	8 	1 	17 	1 	the 	DT
+Ecc 	2 	8 	1 	18 	1 	provinces 	NNS
+Ecc 	2 	8 	1 	19 	0 	:
+Ecc 	2 	8 	1 	20 	1 	I 	PRP
+Ecc 	2 	8 	1 	21 	1 	gat 	NN
+Ecc 	2 	8 	1 	22 	1 	me 	PRP
+Ecc 	2 	8 	1 	23 	1 	men 	NNS
+Ecc 	2 	8 	1 	24 	1 	singers 	NNS
+Ecc 	2 	8 	1 	25 	1 	and 	CC
+Ecc 	2 	8 	1 	26 	1 	women 	NNS
+Ecc 	2 	8 	1 	27 	1 	singers 	NNS
+Ecc 	2 	8 	1 	28 	0 	,
+Ecc 	2 	8 	1 	29 	1 	and 	CC
+Ecc 	2 	8 	1 	30 	1 	the 	DT
+Ecc 	2 	8 	1 	31 	1 	delights 	NNS
+Ecc 	2 	8 	1 	32 	1 	of 	IN
+Ecc 	2 	8 	1 	33 	1 	the 	DT
+Ecc 	2 	8 	1 	34 	1 	sons 	NNS
+Ecc 	2 	8 	1 	35 	1 	of 	IN
+Ecc 	2 	8 	1 	36 	1 	men 	NNS
+Ecc 	2 	8 	1 	37 	0 	,
+Ecc 	2 	8 	1 	38 	1 	as 	IN
+Ecc 	2 	8 	1 	39 	1 	musical 	JJ
+Ecc 	2 	8 	1 	40 	1 	instruments 	NNS
+Ecc 	2 	8 	1 	41 	0 	,
+Ecc 	2 	8 	1 	42 	1 	and 	CC
+Ecc 	2 	8 	1 	43 	1 	that 	IN
+Ecc 	2 	8 	1 	44 	1 	of 	IN
+Ecc 	2 	8 	1 	45 	1 	all 	DT
+Ecc 	2 	8 	1 	46 	1 	sorts 	NNS
+Ecc 	2 	8 	1 	47 	0 	.
+Ecc 	2 	9 	1 	1 	1 	So 	RB
+Ecc 	2 	9 	1 	2 	1 	I 	PRP
+Ecc 	2 	9 	1 	3 	1 	was 	VBD
+Ecc 	2 	9 	1 	4 	1 	great 	JJ
+Ecc 	2 	9 	1 	5 	0 	,
+Ecc 	2 	9 	1 	6 	1 	and 	CC
+Ecc 	2 	9 	1 	7 	1 	increased 	VBN
+Ecc 	2 	9 	1 	8 	1 	more 	RBR
+Ecc 	2 	9 	1 	9 	1 	than 	IN
+Ecc 	2 	9 	1 	10 	1 	all 	DT
+Ecc 	2 	9 	1 	11 	1 	that 	IN
+Ecc 	2 	9 	1 	12 	1 	were 	VBD
+Ecc 	2 	9 	1 	13 	1 	before 	IN
+Ecc 	2 	9 	1 	14 	1 	me 	PRP
+Ecc 	2 	9 	1 	15 	1 	in 	IN
+Ecc 	2 	9 	1 	16 	1 	Jerusalem 	NN
+Ecc 	2 	9 	1 	17 	0 	:
+Ecc 	2 	9 	1 	18 	1 	also 	RB
+Ecc 	2 	9 	1 	19 	1 	my 	PRP$
+Ecc 	2 	9 	1 	20 	1 	wisdom 	NN
+Ecc 	2 	9 	1 	21 	1 	remained 	VBD
+Ecc 	2 	9 	1 	22 	1 	with 	IN
+Ecc 	2 	9 	1 	23 	1 	me 	PRP
+Ecc 	2 	9 	1 	24 	0 	.
+Ecc 	2 	10 	1 	1 	1 	And 	CC
+Ecc 	2 	10 	1 	2 	1 	whatsoever 	NN
+Ecc 	2 	10 	1 	3 	1 	mine 	NN
+Ecc 	2 	10 	1 	4 	1 	eyes 	NNS
+Ecc 	2 	10 	1 	5 	1 	desired 	VBN
+Ecc 	2 	10 	1 	6 	1 	I 	PRP
+Ecc 	2 	10 	1 	7 	1 	kept 	NN
+Ecc 	2 	10 	1 	8 	1 	not 	RB
+Ecc 	2 	10 	1 	9 	1 	from 	IN
+Ecc 	2 	10 	1 	10 	1 	them 	PRP
+Ecc 	2 	10 	1 	11 	0 	,
+Ecc 	2 	10 	1 	12 	1 	I 	PRP
+Ecc 	2 	10 	1 	13 	1 	withheld 	NN
+Ecc 	2 	10 	1 	14 	1 	not 	RB
+Ecc 	2 	10 	1 	15 	1 	my 	PRP$
+Ecc 	2 	10 	1 	16 	1 	heart 	NN
+Ecc 	2 	10 	1 	17 	1 	from 	IN
+Ecc 	2 	10 	1 	18 	1 	any 	DT
+Ecc 	2 	10 	1 	19 	1 	joy 	NN
+Ecc 	2 	10 	1 	20 	0 	;
+Ecc 	2 	10 	1 	21 	1 	for 	IN
+Ecc 	2 	10 	1 	22 	1 	my 	PRP$
+Ecc 	2 	10 	1 	23 	1 	heart 	NN
+Ecc 	2 	10 	1 	24 	1 	rejoiced 	VBN
+Ecc 	2 	10 	1 	25 	1 	in 	IN
+Ecc 	2 	10 	1 	26 	1 	all 	DT
+Ecc 	2 	10 	1 	27 	1 	my 	PRP$
+Ecc 	2 	10 	1 	28 	1 	labour 	NN
+Ecc 	2 	10 	1 	29 	0 	:
+Ecc 	2 	10 	1 	30 	1 	and 	CC
+Ecc 	2 	10 	1 	31 	1 	this 	DT
+Ecc 	2 	10 	1 	32 	1 	was 	VBD
+Ecc 	2 	10 	1 	33 	1 	my 	PRP$
+Ecc 	2 	10 	1 	34 	1 	portion 	NN
+Ecc 	2 	10 	1 	35 	1 	of 	IN
+Ecc 	2 	10 	1 	36 	1 	all 	DT
+Ecc 	2 	10 	1 	37 	1 	my 	PRP$
+Ecc 	2 	10 	1 	38 	1 	labour 	NN
+Ecc 	2 	10 	1 	39 	0 	.
+Ecc 	2 	11 	1 	1 	1 	Then 	RB
+Ecc 	2 	11 	1 	2 	1 	I 	PRP
+Ecc 	2 	11 	1 	3 	1 	looked 	VBD
+Ecc 	2 	11 	1 	4 	1 	on 	IN
+Ecc 	2 	11 	1 	5 	1 	all 	DT
+Ecc 	2 	11 	1 	6 	1 	the 	DT
+Ecc 	2 	11 	1 	7 	1 	works 	NNS
+Ecc 	2 	11 	1 	8 	1 	that 	IN
+Ecc 	2 	11 	1 	9 	1 	my 	PRP$
+Ecc 	2 	11 	1 	10 	1 	hands 	NNS
+Ecc 	2 	11 	1 	11 	1 	had 	VBD
+Ecc 	2 	11 	1 	12 	1 	wrought 	NN
+Ecc 	2 	11 	1 	13 	0 	,
+Ecc 	2 	11 	1 	14 	1 	and 	CC
+Ecc 	2 	11 	1 	15 	1 	on 	IN
+Ecc 	2 	11 	1 	16 	1 	the 	DT
+Ecc 	2 	11 	1 	17 	1 	labour 	NN
+Ecc 	2 	11 	1 	18 	1 	that 	IN
+Ecc 	2 	11 	1 	19 	1 	I 	PRP
+Ecc 	2 	11 	1 	20 	1 	had 	VBD
+Ecc 	2 	11 	1 	21 	1 	laboured 	VBN
+Ecc 	2 	11 	1 	22 	1 	to 	TO
+Ecc 	2 	11 	1 	23 	1 	do 	VB
+Ecc 	2 	11 	1 	24 	0 	:
+Ecc 	2 	11 	1 	25 	1 	and 	CC
+Ecc 	2 	11 	1 	26 	0 	,
+Ecc 	2 	11 	1 	27 	1 	behold 	NN
+Ecc 	2 	11 	1 	28 	0 	,
+Ecc 	2 	11 	1 	29 	1 	all 	DT
+Ecc 	2 	11 	1 	30 	1 	was 	VBD
+Ecc 	2 	11 	1 	31 	1 	vanity 	NN
+Ecc 	2 	11 	1 	32 	1 	and 	CC
+Ecc 	2 	11 	1 	33 	1 	vexation 	NN
+Ecc 	2 	11 	1 	34 	1 	of 	IN
+Ecc 	2 	11 	1 	35 	1 	spirit 	NN
+Ecc 	2 	11 	1 	36 	0 	,
+Ecc 	2 	11 	1 	37 	1 	and 	CC
+Ecc 	2 	11 	1 	38 	1 	there 	RB
+Ecc 	2 	11 	1 	39 	1 	was 	VBD
+Ecc 	2 	11 	1 	40 	1 	no 	DT
+Ecc 	2 	11 	1 	41 	1 	profit 	NN
+Ecc 	2 	11 	1 	42 	1 	under 	IN
+Ecc 	2 	11 	1 	43 	1 	the 	DT
+Ecc 	2 	11 	1 	44 	1 	sun 	NN
+Ecc 	2 	11 	1 	45 	0 	.
+Ecc 	2 	12 	1 	1 	1 	And 	CC
+Ecc 	2 	12 	1 	2 	1 	I 	PRP
+Ecc 	2 	12 	1 	3 	1 	turned 	VBD
+Ecc 	2 	12 	1 	4 	1 	myself 	PRP
+Ecc 	2 	12 	1 	5 	1 	to 	TO
+Ecc 	2 	12 	1 	6 	1 	behold 	NN
+Ecc 	2 	12 	1 	7 	1 	wisdom 	NN
+Ecc 	2 	12 	1 	8 	0 	,
+Ecc 	2 	12 	1 	9 	1 	and 	CC
+Ecc 	2 	12 	1 	10 	1 	madness 	NN
+Ecc 	2 	12 	1 	11 	0 	,
+Ecc 	2 	12 	1 	12 	1 	and 	CC
+Ecc 	2 	12 	1 	13 	1 	folly 	RB
+Ecc 	2 	12 	1 	14 	0 	:
+Ecc 	2 	12 	1 	15 	1 	for 	IN
+Ecc 	2 	12 	1 	16 	1 	what 	WP
+Ecc 	2 	12 	1 	17 	1 	can 	MD
+Ecc 	2 	12 	1 	18 	1 	the 	DT
+Ecc 	2 	12 	1 	19 	1 	man 	NN
+Ecc 	2 	12 	1 	20 	1 	do 	VB
+Ecc 	2 	12 	1 	21 	1 	that 	IN
+Ecc 	2 	12 	1 	22 	1 	cometh 	NNS
+Ecc 	2 	12 	1 	23 	1 	after 	IN
+Ecc 	2 	12 	1 	24 	1 	the 	DT
+Ecc 	2 	12 	1 	25 	1 	king 	NN
+Ecc 	2 	12 	1 	26 	0 	?
+Ecc 	2 	12 	2 	1 	1 	even 	RB
+Ecc 	2 	12 	2 	2 	1 	that 	IN
+Ecc 	2 	12 	2 	3 	1 	which 	WDT
+Ecc 	2 	12 	2 	4 	1 	hath 	NN
+Ecc 	2 	12 	2 	5 	1 	been 	VBN
+Ecc 	2 	12 	2 	6 	1 	already 	RB
+Ecc 	2 	12 	2 	7 	1 	done 	VBN
+Ecc 	2 	12 	2 	8 	0 	.
+Ecc 	2 	13 	1 	1 	1 	Then 	RB
+Ecc 	2 	13 	1 	2 	1 	I 	PRP
+Ecc 	2 	13 	1 	3 	1 	saw 	NN
+Ecc 	2 	13 	1 	4 	1 	that 	IN
+Ecc 	2 	13 	1 	5 	1 	wisdom 	NN
+Ecc 	2 	13 	1 	6 	1 	excelleth 	NNS
+Ecc 	2 	13 	1 	7 	1 	folly 	RB
+Ecc 	2 	13 	1 	8 	0 	,
+Ecc 	2 	13 	1 	9 	1 	as 	IN
+Ecc 	2 	13 	1 	10 	1 	far 	RB
+Ecc 	2 	13 	1 	11 	1 	as 	IN
+Ecc 	2 	13 	1 	12 	1 	light 	NN
+Ecc 	2 	13 	1 	13 	1 	excelleth 	NNS
+Ecc 	2 	13 	1 	14 	1 	darkness 	NN
+Ecc 	2 	13 	1 	15 	0 	.
+Ecc 	2 	14 	1 	1 	1 	The 	DT
+Ecc 	2 	14 	1 	2 	1 	wise 	NN
+Ecc 	2 	14 	1 	3 	1 	man 	NN
+Ecc 	2 	14 	1 	4 	0 	's
+Ecc 	2 	14 	1 	5 	1 	eyes 	NNS
+Ecc 	2 	14 	1 	6 	1 	are 	VBP
+Ecc 	2 	14 	1 	7 	1 	in 	IN
+Ecc 	2 	14 	1 	8 	1 	his 	PRP$
+Ecc 	2 	14 	1 	9 	1 	head 	NN
+Ecc 	2 	14 	1 	10 	0 	;
+Ecc 	2 	14 	1 	11 	1 	but 	CC
+Ecc 	2 	14 	1 	12 	1 	the 	DT
+Ecc 	2 	14 	1 	13 	1 	fool 	NN
+Ecc 	2 	14 	1 	14 	1 	walketh 	NNS
+Ecc 	2 	14 	1 	15 	1 	in 	IN
+Ecc 	2 	14 	1 	16 	1 	darkness 	NN
+Ecc 	2 	14 	1 	17 	0 	:
+Ecc 	2 	14 	1 	18 	1 	and 	CC
+Ecc 	2 	14 	1 	19 	1 	I 	PRP
+Ecc 	2 	14 	1 	20 	1 	myself 	PRP
+Ecc 	2 	14 	1 	21 	1 	perceived 	VBN
+Ecc 	2 	14 	1 	22 	1 	also 	RB
+Ecc 	2 	14 	1 	23 	1 	that 	IN
+Ecc 	2 	14 	1 	24 	1 	one 	CD
+Ecc 	2 	14 	1 	25 	1 	event 	NN
+Ecc 	2 	14 	1 	26 	1 	happeneth 	NN
+Ecc 	2 	14 	1 	27 	1 	to 	TO
+Ecc 	2 	14 	1 	28 	1 	them 	PRP
+Ecc 	2 	14 	1 	29 	1 	all 	DT
+Ecc 	2 	14 	1 	30 	0 	.
+Ecc 	2 	15 	1 	1 	1 	Then 	RB
+Ecc 	2 	15 	1 	2 	1 	said 	VBD
+Ecc 	2 	15 	1 	3 	1 	I 	PRP
+Ecc 	2 	15 	1 	4 	1 	in 	IN
+Ecc 	2 	15 	1 	5 	1 	my 	PRP$
+Ecc 	2 	15 	1 	6 	1 	heart 	NN
+Ecc 	2 	15 	1 	7 	0 	,
+Ecc 	2 	15 	1 	8 	1 	As 	IN
+Ecc 	2 	15 	1 	9 	1 	it 	PRP
+Ecc 	2 	15 	1 	10 	1 	happeneth 	NN
+Ecc 	2 	15 	1 	11 	1 	to 	TO
+Ecc 	2 	15 	1 	12 	1 	the 	DT
+Ecc 	2 	15 	1 	13 	1 	fool 	NN
+Ecc 	2 	15 	1 	14 	0 	,
+Ecc 	2 	15 	1 	15 	1 	so 	RB
+Ecc 	2 	15 	1 	16 	1 	it 	PRP
+Ecc 	2 	15 	1 	17 	1 	happeneth 	NN
+Ecc 	2 	15 	1 	18 	1 	even 	RB
+Ecc 	2 	15 	1 	19 	1 	to 	TO
+Ecc 	2 	15 	1 	20 	1 	me 	PRP
+Ecc 	2 	15 	1 	21 	0 	;
+Ecc 	2 	15 	1 	22 	1 	and 	CC
+Ecc 	2 	15 	1 	23 	1 	why 	WRB
+Ecc 	2 	15 	1 	24 	1 	was 	VBD
+Ecc 	2 	15 	1 	25 	1 	I 	PRP
+Ecc 	2 	15 	1 	26 	1 	then 	RB
+Ecc 	2 	15 	1 	27 	1 	more 	RBR
+Ecc 	2 	15 	1 	28 	1 	wise 	NN
+Ecc 	2 	15 	1 	29 	0 	?
+Ecc 	2 	15 	2 	1 	1 	Then 	RB
+Ecc 	2 	15 	2 	2 	1 	I 	PRP
+Ecc 	2 	15 	2 	3 	1 	said 	VBD
+Ecc 	2 	15 	2 	4 	1 	in 	IN
+Ecc 	2 	15 	2 	5 	1 	my 	PRP$
+Ecc 	2 	15 	2 	6 	1 	heart 	NN
+Ecc 	2 	15 	2 	7 	0 	,
+Ecc 	2 	15 	2 	8 	1 	that 	IN
+Ecc 	2 	15 	2 	9 	1 	this 	DT
+Ecc 	2 	15 	2 	10 	1 	also 	RB
+Ecc 	2 	15 	2 	11 	1 	is 	VBZ
+Ecc 	2 	15 	2 	12 	1 	vanity 	NN
+Ecc 	2 	15 	2 	13 	0 	.
+Ecc 	2 	16 	1 	1 	1 	For 	IN
+Ecc 	2 	16 	1 	2 	1 	there 	RB
+Ecc 	2 	16 	1 	3 	1 	is 	VBZ
+Ecc 	2 	16 	1 	4 	1 	no 	DT
+Ecc 	2 	16 	1 	5 	1 	remembrance 	NN
+Ecc 	2 	16 	1 	6 	1 	of 	IN
+Ecc 	2 	16 	1 	7 	1 	the 	DT
+Ecc 	2 	16 	1 	8 	1 	wise 	NN
+Ecc 	2 	16 	1 	9 	1 	more 	RBR
+Ecc 	2 	16 	1 	10 	1 	than 	IN
+Ecc 	2 	16 	1 	11 	1 	of 	IN
+Ecc 	2 	16 	1 	12 	1 	the 	DT
+Ecc 	2 	16 	1 	13 	1 	fool 	NN
+Ecc 	2 	16 	1 	14 	1 	for 	IN
+Ecc 	2 	16 	1 	15 	1 	ever 	RB
+Ecc 	2 	16 	1 	16 	0 	;
+Ecc 	2 	16 	1 	17 	1 	seeing 	VBG
+Ecc 	2 	16 	1 	18 	1 	that 	IN
+Ecc 	2 	16 	1 	19 	1 	which 	WDT
+Ecc 	2 	16 	1 	20 	1 	now 	RB
+Ecc 	2 	16 	1 	21 	1 	is 	VBZ
+Ecc 	2 	16 	1 	22 	1 	in 	IN
+Ecc 	2 	16 	1 	23 	1 	the 	DT
+Ecc 	2 	16 	1 	24 	1 	days 	NNS
+Ecc 	2 	16 	1 	25 	1 	to 	TO
+Ecc 	2 	16 	1 	26 	1 	come 	VB
+Ecc 	2 	16 	1 	27 	1 	shall 	MD
+Ecc 	2 	16 	1 	28 	1 	all 	DT
+Ecc 	2 	16 	1 	29 	1 	be 	VB
+Ecc 	2 	16 	1 	30 	1 	forgotten 	NNS
+Ecc 	2 	16 	1 	31 	0 	.
+Ecc 	2 	16 	2 	1 	1 	And 	CC
+Ecc 	2 	16 	2 	2 	1 	how 	WRB
+Ecc 	2 	16 	2 	3 	1 	dieth 	NN
+Ecc 	2 	16 	2 	4 	1 	the 	DT
+Ecc 	2 	16 	2 	5 	1 	wise 	NN
+Ecc 	2 	16 	2 	6 	1 	man 	NN
+Ecc 	2 	16 	2 	7 	0 	?
+Ecc 	2 	16 	3 	1 	1 	as 	IN
+Ecc 	2 	16 	3 	2 	1 	the 	DT
+Ecc 	2 	16 	3 	3 	1 	fool 	NN
+Ecc 	2 	16 	3 	4 	0 	.
+Ecc 	2 	17 	1 	1 	1 	Therefore 	RB
+Ecc 	2 	17 	1 	2 	1 	I 	PRP
+Ecc 	2 	17 	1 	3 	1 	hated 	VBN
+Ecc 	2 	17 	1 	4 	1 	life 	NN
+Ecc 	2 	17 	1 	5 	0 	;
+Ecc 	2 	17 	1 	6 	1 	because 	IN
+Ecc 	2 	17 	1 	7 	1 	the 	DT
+Ecc 	2 	17 	1 	8 	1 	work 	NN
+Ecc 	2 	17 	1 	9 	1 	that 	IN
+Ecc 	2 	17 	1 	10 	1 	is 	VBZ
+Ecc 	2 	17 	1 	11 	1 	wrought 	NN
+Ecc 	2 	17 	1 	12 	1 	under 	IN
+Ecc 	2 	17 	1 	13 	1 	the 	DT
+Ecc 	2 	17 	1 	14 	1 	sun 	NN
+Ecc 	2 	17 	1 	15 	1 	is 	VBZ
+Ecc 	2 	17 	1 	16 	1 	grievous 	JJ
+Ecc 	2 	17 	1 	17 	1 	unto 	NN
+Ecc 	2 	17 	1 	18 	1 	me 	PRP
+Ecc 	2 	17 	1 	19 	0 	:
+Ecc 	2 	17 	1 	20 	1 	for 	IN
+Ecc 	2 	17 	1 	21 	1 	all 	DT
+Ecc 	2 	17 	1 	22 	1 	is 	VBZ
+Ecc 	2 	17 	1 	23 	1 	vanity 	NN
+Ecc 	2 	17 	1 	24 	1 	and 	CC
+Ecc 	2 	17 	1 	25 	1 	vexation 	NN
+Ecc 	2 	17 	1 	26 	1 	of 	IN
+Ecc 	2 	17 	1 	27 	1 	spirit 	NN
+Ecc 	2 	17 	1 	28 	0 	.
+Ecc 	2 	18 	1 	1 	1 	Yea 	NN
+Ecc 	2 	18 	1 	2 	0 	,
+Ecc 	2 	18 	1 	3 	1 	I 	PRP
+Ecc 	2 	18 	1 	4 	1 	hated 	VBN
+Ecc 	2 	18 	1 	5 	1 	all 	DT
+Ecc 	2 	18 	1 	6 	1 	my 	PRP$
+Ecc 	2 	18 	1 	7 	1 	labour 	NN
+Ecc 	2 	18 	1 	8 	1 	which 	WDT
+Ecc 	2 	18 	1 	9 	1 	I 	PRP
+Ecc 	2 	18 	1 	10 	1 	had 	VBD
+Ecc 	2 	18 	1 	11 	1 	taken 	VBN
+Ecc 	2 	18 	1 	12 	1 	under 	IN
+Ecc 	2 	18 	1 	13 	1 	the 	DT
+Ecc 	2 	18 	1 	14 	1 	sun 	NN
+Ecc 	2 	18 	1 	15 	0 	:
+Ecc 	2 	18 	1 	16 	1 	because 	IN
+Ecc 	2 	18 	1 	17 	1 	I 	PRP
+Ecc 	2 	18 	1 	18 	1 	should 	MD
+Ecc 	2 	18 	1 	19 	1 	leave 	VB
+Ecc 	2 	18 	1 	20 	1 	it 	PRP
+Ecc 	2 	18 	1 	21 	1 	unto 	NN
+Ecc 	2 	18 	1 	22 	1 	the 	DT
+Ecc 	2 	18 	1 	23 	1 	man 	NN
+Ecc 	2 	18 	1 	24 	1 	that 	IN
+Ecc 	2 	18 	1 	25 	1 	shall 	MD
+Ecc 	2 	18 	1 	26 	1 	be 	VB
+Ecc 	2 	18 	1 	27 	1 	after 	IN
+Ecc 	2 	18 	1 	28 	1 	me 	PRP
+Ecc 	2 	18 	1 	29 	0 	.
+Ecc 	2 	19 	1 	1 	1 	And 	CC
+Ecc 	2 	19 	1 	2 	1 	who 	WP
+Ecc 	2 	19 	1 	3 	1 	knoweth 	NNS
+Ecc 	2 	19 	1 	4 	1 	whether 	IN
+Ecc 	2 	19 	1 	5 	1 	he 	PRP
+Ecc 	2 	19 	1 	6 	1 	shall 	MD
+Ecc 	2 	19 	1 	7 	1 	be 	VB
+Ecc 	2 	19 	1 	8 	1 	a 	DT
+Ecc 	2 	19 	1 	9 	1 	wise 	NN
+Ecc 	2 	19 	1 	10 	1 	man 	NN
+Ecc 	2 	19 	1 	11 	1 	or 	CC
+Ecc 	2 	19 	1 	12 	1 	a 	DT
+Ecc 	2 	19 	1 	13 	1 	fool 	NN
+Ecc 	2 	19 	1 	14 	0 	?
+Ecc 	2 	19 	2 	1 	1 	yet 	RB
+Ecc 	2 	19 	2 	2 	1 	shall 	MD
+Ecc 	2 	19 	2 	3 	1 	he 	PRP
+Ecc 	2 	19 	2 	4 	1 	have 	VB
+Ecc 	2 	19 	2 	5 	1 	rule 	NN
+Ecc 	2 	19 	2 	6 	1 	over 	IN
+Ecc 	2 	19 	2 	7 	1 	all 	DT
+Ecc 	2 	19 	2 	8 	1 	my 	PRP$
+Ecc 	2 	19 	2 	9 	1 	labour 	NN
+Ecc 	2 	19 	2 	10 	1 	wherein 	NN
+Ecc 	2 	19 	2 	11 	1 	I 	PRP
+Ecc 	2 	19 	2 	12 	1 	have 	VB
+Ecc 	2 	19 	2 	13 	1 	laboured 	VBN
+Ecc 	2 	19 	2 	14 	0 	,
+Ecc 	2 	19 	2 	15 	1 	and 	CC
+Ecc 	2 	19 	2 	16 	1 	wherein 	NN
+Ecc 	2 	19 	2 	17 	1 	I 	PRP
+Ecc 	2 	19 	2 	18 	1 	have 	VB
+Ecc 	2 	19 	2 	19 	1 	shewed 	VBN
+Ecc 	2 	19 	2 	20 	1 	myself 	PRP
+Ecc 	2 	19 	2 	21 	1 	wise 	NN
+Ecc 	2 	19 	2 	22 	1 	under 	IN
+Ecc 	2 	19 	2 	23 	1 	the 	DT
+Ecc 	2 	19 	2 	24 	1 	sun 	NN
+Ecc 	2 	19 	2 	25 	0 	.
+Ecc 	2 	19 	3 	1 	1 	This 	DT
+Ecc 	2 	19 	3 	2 	1 	is 	VBZ
+Ecc 	2 	19 	3 	3 	1 	also 	RB
+Ecc 	2 	19 	3 	4 	1 	vanity 	NN
+Ecc 	2 	19 	3 	5 	0 	.
+Ecc 	2 	20 	1 	1 	1 	Therefore 	RB
+Ecc 	2 	20 	1 	2 	1 	I 	PRP
+Ecc 	2 	20 	1 	3 	1 	went 	VBD
+Ecc 	2 	20 	1 	4 	1 	about 	IN
+Ecc 	2 	20 	1 	5 	1 	to 	TO
+Ecc 	2 	20 	1 	6 	1 	cause 	NN
+Ecc 	2 	20 	1 	7 	1 	my 	PRP$
+Ecc 	2 	20 	1 	8 	1 	heart 	NN
+Ecc 	2 	20 	1 	9 	1 	to 	TO
+Ecc 	2 	20 	1 	10 	1 	despair 	NN
+Ecc 	2 	20 	1 	11 	1 	of 	IN
+Ecc 	2 	20 	1 	12 	1 	all 	DT
+Ecc 	2 	20 	1 	13 	1 	the 	DT
+Ecc 	2 	20 	1 	14 	1 	labour 	NN
+Ecc 	2 	20 	1 	15 	1 	which 	WDT
+Ecc 	2 	20 	1 	16 	1 	I 	PRP
+Ecc 	2 	20 	1 	17 	1 	took 	VBD
+Ecc 	2 	20 	1 	18 	1 	under 	IN
+Ecc 	2 	20 	1 	19 	1 	the 	DT
+Ecc 	2 	20 	1 	20 	1 	sun 	NN
+Ecc 	2 	20 	1 	21 	0 	.
+Ecc 	2 	21 	1 	1 	1 	For 	IN
+Ecc 	2 	21 	1 	2 	1 	there 	RB
+Ecc 	2 	21 	1 	3 	1 	is 	VBZ
+Ecc 	2 	21 	1 	4 	1 	a 	DT
+Ecc 	2 	21 	1 	5 	1 	man 	NN
+Ecc 	2 	21 	1 	6 	1 	whose 	WP$
+Ecc 	2 	21 	1 	7 	1 	labour 	NN
+Ecc 	2 	21 	1 	8 	1 	is 	VBZ
+Ecc 	2 	21 	1 	9 	1 	in 	IN
+Ecc 	2 	21 	1 	10 	1 	wisdom 	NN
+Ecc 	2 	21 	1 	11 	0 	,
+Ecc 	2 	21 	1 	12 	1 	and 	CC
+Ecc 	2 	21 	1 	13 	1 	in 	IN
+Ecc 	2 	21 	1 	14 	1 	knowledge 	NN
+Ecc 	2 	21 	1 	15 	0 	,
+Ecc 	2 	21 	1 	16 	1 	and 	CC
+Ecc 	2 	21 	1 	17 	1 	in 	IN
+Ecc 	2 	21 	1 	18 	1 	equity 	NN
+Ecc 	2 	21 	1 	19 	0 	;
+Ecc 	2 	21 	1 	20 	1 	yet 	RB
+Ecc 	2 	21 	1 	21 	1 	to 	TO
+Ecc 	2 	21 	1 	22 	1 	a 	DT
+Ecc 	2 	21 	1 	23 	1 	man 	NN
+Ecc 	2 	21 	1 	24 	1 	that 	IN
+Ecc 	2 	21 	1 	25 	1 	hath 	NN
+Ecc 	2 	21 	1 	26 	1 	not 	RB
+Ecc 	2 	21 	1 	27 	1 	laboured 	VBN
+Ecc 	2 	21 	1 	28 	1 	therein 	NN
+Ecc 	2 	21 	1 	29 	1 	shall 	MD
+Ecc 	2 	21 	1 	30 	1 	he 	PRP
+Ecc 	2 	21 	1 	31 	1 	leave 	VB
+Ecc 	2 	21 	1 	32 	1 	it 	PRP
+Ecc 	2 	21 	1 	33 	1 	for 	IN
+Ecc 	2 	21 	1 	34 	1 	his 	PRP$
+Ecc 	2 	21 	1 	35 	1 	portion 	NN
+Ecc 	2 	21 	1 	36 	0 	.
+Ecc 	2 	21 	2 	1 	1 	This 	DT
+Ecc 	2 	21 	2 	2 	1 	also 	RB
+Ecc 	2 	21 	2 	3 	1 	is 	VBZ
+Ecc 	2 	21 	2 	4 	1 	vanity 	NN
+Ecc 	2 	21 	2 	5 	1 	and 	CC
+Ecc 	2 	21 	2 	6 	1 	a 	DT
+Ecc 	2 	21 	2 	7 	1 	great 	JJ
+Ecc 	2 	21 	2 	8 	1 	evil 	NN
+Ecc 	2 	21 	2 	9 	0 	.
+Ecc 	2 	22 	1 	1 	1 	For 	IN
+Ecc 	2 	22 	1 	2 	1 	what 	WP
+Ecc 	2 	22 	1 	3 	1 	hath 	NN
+Ecc 	2 	22 	1 	4 	1 	man 	NN
+Ecc 	2 	22 	1 	5 	1 	of 	IN
+Ecc 	2 	22 	1 	6 	1 	all 	DT
+Ecc 	2 	22 	1 	7 	1 	his 	PRP$
+Ecc 	2 	22 	1 	8 	1 	labour 	NN
+Ecc 	2 	22 	1 	9 	0 	,
+Ecc 	2 	22 	1 	10 	1 	and 	CC
+Ecc 	2 	22 	1 	11 	1 	of 	IN
+Ecc 	2 	22 	1 	12 	1 	the 	DT
+Ecc 	2 	22 	1 	13 	1 	vexation 	NN
+Ecc 	2 	22 	1 	14 	1 	of 	IN
+Ecc 	2 	22 	1 	15 	1 	his 	PRP$
+Ecc 	2 	22 	1 	16 	1 	heart 	NN
+Ecc 	2 	22 	1 	17 	0 	,
+Ecc 	2 	22 	1 	18 	1 	wherein 	NN
+Ecc 	2 	22 	1 	19 	1 	he 	PRP
+Ecc 	2 	22 	1 	20 	1 	hath 	NN
+Ecc 	2 	22 	1 	21 	1 	laboured 	VBN
+Ecc 	2 	22 	1 	22 	1 	under 	IN
+Ecc 	2 	22 	1 	23 	1 	the 	DT
+Ecc 	2 	22 	1 	24 	1 	sun 	NN
+Ecc 	2 	22 	1 	25 	0 	?
+Ecc 	2 	23 	1 	1 	1 	For 	IN
+Ecc 	2 	23 	1 	2 	1 	all 	DT
+Ecc 	2 	23 	1 	3 	1 	his 	PRP$
+Ecc 	2 	23 	1 	4 	1 	days 	NNS
+Ecc 	2 	23 	1 	5 	1 	are 	VBP
+Ecc 	2 	23 	1 	6 	1 	sorrows 	NNS
+Ecc 	2 	23 	1 	7 	0 	,
+Ecc 	2 	23 	1 	8 	1 	and 	CC
+Ecc 	2 	23 	1 	9 	1 	his 	PRP$
+Ecc 	2 	23 	1 	10 	1 	travail 	NN
+Ecc 	2 	23 	1 	11 	1 	grief 	NN
+Ecc 	2 	23 	1 	12 	0 	;
+Ecc 	2 	23 	1 	13 	1 	yea 	NN
+Ecc 	2 	23 	1 	14 	0 	,
+Ecc 	2 	23 	1 	15 	1 	his 	PRP$
+Ecc 	2 	23 	1 	16 	1 	heart 	NN
+Ecc 	2 	23 	1 	17 	1 	taketh 	NNS
+Ecc 	2 	23 	1 	18 	1 	not 	RB
+Ecc 	2 	23 	1 	19 	1 	rest 	NN
+Ecc 	2 	23 	1 	20 	1 	in 	IN
+Ecc 	2 	23 	1 	21 	1 	the 	DT
+Ecc 	2 	23 	1 	22 	1 	night 	NN
+Ecc 	2 	23 	1 	23 	0 	.
+Ecc 	2 	23 	2 	1 	1 	This 	DT
+Ecc 	2 	23 	2 	2 	1 	is 	VBZ
+Ecc 	2 	23 	2 	3 	1 	also 	RB
+Ecc 	2 	23 	2 	4 	1 	vanity 	NN
+Ecc 	2 	23 	2 	5 	0 	.
+Ecc 	2 	24 	1 	1 	1 	There 	EX
+Ecc 	2 	24 	1 	2 	1 	is 	VBZ
+Ecc 	2 	24 	1 	3 	1 	nothing 	NN
+Ecc 	2 	24 	1 	4 	1 	better 	RBR
+Ecc 	2 	24 	1 	5 	1 	for 	IN
+Ecc 	2 	24 	1 	6 	1 	a 	DT
+Ecc 	2 	24 	1 	7 	1 	man 	NN
+Ecc 	2 	24 	1 	8 	0 	,
+Ecc 	2 	24 	1 	9 	1 	than 	IN
+Ecc 	2 	24 	1 	10 	1 	that 	IN
+Ecc 	2 	24 	1 	11 	1 	he 	PRP
+Ecc 	2 	24 	1 	12 	1 	should 	MD
+Ecc 	2 	24 	1 	13 	1 	eat 	NN
+Ecc 	2 	24 	1 	14 	1 	and 	CC
+Ecc 	2 	24 	1 	15 	1 	drink 	NN
+Ecc 	2 	24 	1 	16 	0 	,
+Ecc 	2 	24 	1 	17 	1 	and 	CC
+Ecc 	2 	24 	1 	18 	1 	that 	IN
+Ecc 	2 	24 	1 	19 	1 	he 	PRP
+Ecc 	2 	24 	1 	20 	1 	should 	MD
+Ecc 	2 	24 	1 	21 	1 	make 	VB
+Ecc 	2 	24 	1 	22 	1 	his 	PRP$
+Ecc 	2 	24 	1 	23 	1 	soul 	NN
+Ecc 	2 	24 	1 	24 	1 	enjoy 	NN
+Ecc 	2 	24 	1 	25 	1 	good 	JJ
+Ecc 	2 	24 	1 	26 	1 	in 	IN
+Ecc 	2 	24 	1 	27 	1 	his 	PRP$
+Ecc 	2 	24 	1 	28 	1 	labour 	NN
+Ecc 	2 	24 	1 	29 	0 	.
+Ecc 	2 	24 	2 	1 	1 	This 	DT
+Ecc 	2 	24 	2 	2 	1 	also 	RB
+Ecc 	2 	24 	2 	3 	1 	I 	PRP
+Ecc 	2 	24 	2 	4 	1 	saw 	NN
+Ecc 	2 	24 	2 	5 	0 	,
+Ecc 	2 	24 	2 	6 	1 	that 	IN
+Ecc 	2 	24 	2 	7 	1 	it 	PRP
+Ecc 	2 	24 	2 	8 	1 	was 	VBD
+Ecc 	2 	24 	2 	9 	1 	from 	IN
+Ecc 	2 	24 	2 	10 	1 	the 	DT
+Ecc 	2 	24 	2 	11 	1 	hand 	NN
+Ecc 	2 	24 	2 	12 	1 	of 	IN
+Ecc 	2 	24 	2 	13 	1 	God 	NNP
+Ecc 	2 	24 	2 	14 	0 	.
+Ecc 	2 	25 	1 	1 	1 	For 	IN
+Ecc 	2 	25 	1 	2 	1 	who 	WP
+Ecc 	2 	25 	1 	3 	1 	can 	MD
+Ecc 	2 	25 	1 	4 	1 	eat 	NN
+Ecc 	2 	25 	1 	5 	0 	,
+Ecc 	2 	25 	1 	6 	1 	or 	CC
+Ecc 	2 	25 	1 	7 	1 	who 	WP
+Ecc 	2 	25 	1 	8 	1 	else 	RB
+Ecc 	2 	25 	1 	9 	1 	can 	MD
+Ecc 	2 	25 	1 	10 	1 	hasten 	NN
+Ecc 	2 	25 	1 	11 	1 	hereunto 	NN
+Ecc 	2 	25 	1 	12 	0 	,
+Ecc 	2 	25 	1 	13 	1 	more 	RBR
+Ecc 	2 	25 	1 	14 	1 	than 	IN
+Ecc 	2 	25 	1 	15 	1 	I 	PRP
+Ecc 	2 	25 	1 	16 	0 	?
+Ecc 	2 	26 	1 	1 	1 	For 	IN
+Ecc 	2 	26 	1 	2 	1 	God 	NNP
+Ecc 	2 	26 	1 	3 	1 	giveth 	NNS
+Ecc 	2 	26 	1 	4 	1 	to 	TO
+Ecc 	2 	26 	1 	5 	1 	a 	DT
+Ecc 	2 	26 	1 	6 	1 	man 	NN
+Ecc 	2 	26 	1 	7 	1 	that 	IN
+Ecc 	2 	26 	1 	8 	1 	is 	VBZ
+Ecc 	2 	26 	1 	9 	1 	good 	JJ
+Ecc 	2 	26 	1 	10 	1 	in 	IN
+Ecc 	2 	26 	1 	11 	1 	his 	PRP$
+Ecc 	2 	26 	1 	12 	1 	sight 	NN
+Ecc 	2 	26 	1 	13 	1 	wisdom 	NN
+Ecc 	2 	26 	1 	14 	0 	,
+Ecc 	2 	26 	1 	15 	1 	and 	CC
+Ecc 	2 	26 	1 	16 	1 	knowledge 	NN
+Ecc 	2 	26 	1 	17 	0 	,
+Ecc 	2 	26 	1 	18 	1 	and 	CC
+Ecc 	2 	26 	1 	19 	1 	joy 	NN
+Ecc 	2 	26 	1 	20 	0 	:
+Ecc 	2 	26 	1 	21 	1 	but 	CC
+Ecc 	2 	26 	1 	22 	1 	to 	TO
+Ecc 	2 	26 	1 	23 	1 	the 	DT
+Ecc 	2 	26 	1 	24 	1 	sinner 	NN
+Ecc 	2 	26 	1 	25 	1 	he 	PRP
+Ecc 	2 	26 	1 	26 	1 	giveth 	NNS
+Ecc 	2 	26 	1 	27 	1 	travail 	NN
+Ecc 	2 	26 	1 	28 	0 	,
+Ecc 	2 	26 	1 	29 	1 	to 	TO
+Ecc 	2 	26 	1 	30 	1 	gather 	NN
+Ecc 	2 	26 	1 	31 	1 	and 	CC
+Ecc 	2 	26 	1 	32 	1 	to 	TO
+Ecc 	2 	26 	1 	33 	1 	heap 	NN
+Ecc 	2 	26 	1 	34 	1 	up 	RB
+Ecc 	2 	26 	1 	35 	0 	,
+Ecc 	2 	26 	1 	36 	1 	that 	IN
+Ecc 	2 	26 	1 	37 	1 	he 	PRP
+Ecc 	2 	26 	1 	38 	1 	may 	MD
+Ecc 	2 	26 	1 	39 	1 	give 	VB
+Ecc 	2 	26 	1 	40 	1 	to 	TO
+Ecc 	2 	26 	1 	41 	1 	him 	PRP
+Ecc 	2 	26 	1 	42 	1 	that 	IN
+Ecc 	2 	26 	1 	43 	1 	is 	VBZ
+Ecc 	2 	26 	1 	44 	1 	good 	JJ
+Ecc 	2 	26 	1 	45 	1 	before 	IN
+Ecc 	2 	26 	1 	46 	1 	God 	NNP
+Ecc 	2 	26 	1 	47 	0 	.
+Ecc 	2 	26 	2 	1 	1 	This 	DT
+Ecc 	2 	26 	2 	2 	1 	also 	RB
+Ecc 	2 	26 	2 	3 	1 	is 	VBZ
+Ecc 	2 	26 	2 	4 	1 	vanity 	NN
+Ecc 	2 	26 	2 	5 	1 	and 	CC
+Ecc 	2 	26 	2 	6 	1 	vexation 	NN
+Ecc 	2 	26 	2 	7 	1 	of 	IN
+Ecc 	2 	26 	2 	8 	1 	spirit 	NN
+Ecc 	2 	26 	2 	9 	0 	.
+Ecc 	3 	1 	1 	1 	1 	To 	TO
+Ecc 	3 	1 	1 	2 	1 	every 	DT
+Ecc 	3 	1 	1 	3 	1 	thing 	NN
+Ecc 	3 	1 	1 	4 	1 	there 	RB
+Ecc 	3 	1 	1 	5 	1 	is 	VBZ
+Ecc 	3 	1 	1 	6 	1 	a 	DT
+Ecc 	3 	1 	1 	7 	1 	season 	NN
+Ecc 	3 	1 	1 	8 	0 	,
+Ecc 	3 	1 	1 	9 	1 	and 	CC
+Ecc 	3 	1 	1 	10 	1 	a 	DT
+Ecc 	3 	1 	1 	11 	1 	time 	NN
+Ecc 	3 	1 	1 	12 	1 	to 	TO
+Ecc 	3 	1 	1 	13 	1 	every 	DT
+Ecc 	3 	1 	1 	14 	1 	purpose 	NN
+Ecc 	3 	1 	1 	15 	1 	under 	IN
+Ecc 	3 	1 	1 	16 	1 	the 	DT
+Ecc 	3 	1 	1 	17 	1 	heaven 	NN
+Ecc 	3 	1 	1 	18 	0 	:
+Ecc 	3 	2 	1 	1 	1 	A 	DT
+Ecc 	3 	2 	1 	2 	1 	time 	NN
+Ecc 	3 	2 	1 	3 	1 	to 	TO
+Ecc 	3 	2 	1 	4 	1 	be 	VB
+Ecc 	3 	2 	1 	5 	1 	born 	NN
+Ecc 	3 	2 	1 	6 	0 	,
+Ecc 	3 	2 	1 	7 	1 	and 	CC
+Ecc 	3 	2 	1 	8 	1 	a 	DT
+Ecc 	3 	2 	1 	9 	1 	time 	NN
+Ecc 	3 	2 	1 	10 	1 	to 	TO
+Ecc 	3 	2 	1 	11 	1 	die 	NN
+Ecc 	3 	2 	1 	12 	0 	;
+Ecc 	3 	2 	1 	13 	1 	a 	DT
+Ecc 	3 	2 	1 	14 	1 	time 	NN
+Ecc 	3 	2 	1 	15 	1 	to 	TO
+Ecc 	3 	2 	1 	16 	1 	plant 	NN
+Ecc 	3 	2 	1 	17 	0 	,
+Ecc 	3 	2 	1 	18 	1 	and 	CC
+Ecc 	3 	2 	1 	19 	1 	a 	DT
+Ecc 	3 	2 	1 	20 	1 	time 	NN
+Ecc 	3 	2 	1 	21 	1 	to 	TO
+Ecc 	3 	2 	1 	22 	1 	pluck 	NN
+Ecc 	3 	2 	1 	23 	1 	up 	RB
+Ecc 	3 	2 	1 	24 	1 	that 	IN
+Ecc 	3 	2 	1 	25 	1 	which 	WDT
+Ecc 	3 	2 	1 	26 	1 	is 	VBZ
+Ecc 	3 	2 	1 	27 	1 	planted 	VBN
+Ecc 	3 	2 	1 	28 	0 	;
+Ecc 	3 	3 	1 	1 	1 	A 	DT
+Ecc 	3 	3 	1 	2 	1 	time 	NN
+Ecc 	3 	3 	1 	3 	1 	to 	TO
+Ecc 	3 	3 	1 	4 	1 	kill 	NN
+Ecc 	3 	3 	1 	5 	0 	,
+Ecc 	3 	3 	1 	6 	1 	and 	CC
+Ecc 	3 	3 	1 	7 	1 	a 	DT
+Ecc 	3 	3 	1 	8 	1 	time 	NN
+Ecc 	3 	3 	1 	9 	1 	to 	TO
+Ecc 	3 	3 	1 	10 	1 	heal 	NN
+Ecc 	3 	3 	1 	11 	0 	;
+Ecc 	3 	3 	1 	12 	1 	a 	DT
+Ecc 	3 	3 	1 	13 	1 	time 	NN
+Ecc 	3 	3 	1 	14 	1 	to 	TO
+Ecc 	3 	3 	1 	15 	1 	break 	NN
+Ecc 	3 	3 	1 	16 	1 	down 	RB
+Ecc 	3 	3 	1 	17 	0 	,
+Ecc 	3 	3 	1 	18 	1 	and 	CC
+Ecc 	3 	3 	1 	19 	1 	a 	DT
+Ecc 	3 	3 	1 	20 	1 	time 	NN
+Ecc 	3 	3 	1 	21 	1 	to 	TO
+Ecc 	3 	3 	1 	22 	1 	build 	NN
+Ecc 	3 	3 	1 	23 	1 	up 	RB
+Ecc 	3 	3 	1 	24 	0 	;
+Ecc 	3 	4 	1 	1 	1 	A 	DT
+Ecc 	3 	4 	1 	2 	1 	time 	NN
+Ecc 	3 	4 	1 	3 	1 	to 	TO
+Ecc 	3 	4 	1 	4 	1 	weep 	NN
+Ecc 	3 	4 	1 	5 	0 	,
+Ecc 	3 	4 	1 	6 	1 	and 	CC
+Ecc 	3 	4 	1 	7 	1 	a 	DT
+Ecc 	3 	4 	1 	8 	1 	time 	NN
+Ecc 	3 	4 	1 	9 	1 	to 	TO
+Ecc 	3 	4 	1 	10 	1 	laugh 	NN
+Ecc 	3 	4 	1 	11 	0 	;
+Ecc 	3 	4 	1 	12 	1 	a 	DT
+Ecc 	3 	4 	1 	13 	1 	time 	NN
+Ecc 	3 	4 	1 	14 	1 	to 	TO
+Ecc 	3 	4 	1 	15 	1 	mourn 	NN
+Ecc 	3 	4 	1 	16 	0 	,
+Ecc 	3 	4 	1 	17 	1 	and 	CC
+Ecc 	3 	4 	1 	18 	1 	a 	DT
+Ecc 	3 	4 	1 	19 	1 	time 	NN
+Ecc 	3 	4 	1 	20 	1 	to 	TO
+Ecc 	3 	4 	1 	21 	1 	dance 	NN
+Ecc 	3 	4 	1 	22 	0 	;
+Ecc 	3 	5 	1 	1 	1 	A 	DT
+Ecc 	3 	5 	1 	2 	1 	time 	NN
+Ecc 	3 	5 	1 	3 	1 	to 	TO
+Ecc 	3 	5 	1 	4 	1 	cast 	NN
+Ecc 	3 	5 	1 	5 	1 	away 	RB
+Ecc 	3 	5 	1 	6 	1 	stones 	NNS
+Ecc 	3 	5 	1 	7 	0 	,
+Ecc 	3 	5 	1 	8 	1 	and 	CC
+Ecc 	3 	5 	1 	9 	1 	a 	DT
+Ecc 	3 	5 	1 	10 	1 	time 	NN
+Ecc 	3 	5 	1 	11 	1 	to 	TO
+Ecc 	3 	5 	1 	12 	1 	gather 	NN
+Ecc 	3 	5 	1 	13 	1 	stones 	NNS
+Ecc 	3 	5 	1 	14 	1 	together 	RB
+Ecc 	3 	5 	1 	15 	0 	;
+Ecc 	3 	5 	1 	16 	1 	a 	DT
+Ecc 	3 	5 	1 	17 	1 	time 	NN
+Ecc 	3 	5 	1 	18 	1 	to 	TO
+Ecc 	3 	5 	1 	19 	1 	embrace 	NN
+Ecc 	3 	5 	1 	20 	0 	,
+Ecc 	3 	5 	1 	21 	1 	and 	CC
+Ecc 	3 	5 	1 	22 	1 	a 	DT
+Ecc 	3 	5 	1 	23 	1 	time 	NN
+Ecc 	3 	5 	1 	24 	1 	to 	TO
+Ecc 	3 	5 	1 	25 	1 	refrain 	NN
+Ecc 	3 	5 	1 	26 	1 	from 	IN
+Ecc 	3 	5 	1 	27 	1 	embracing 	VBG
+Ecc 	3 	5 	1 	28 	0 	;
+Ecc 	3 	6 	1 	1 	1 	A 	DT
+Ecc 	3 	6 	1 	2 	1 	time 	NN
+Ecc 	3 	6 	1 	3 	1 	to 	TO
+Ecc 	3 	6 	1 	4 	1 	get 	VB
+Ecc 	3 	6 	1 	5 	0 	,
+Ecc 	3 	6 	1 	6 	1 	and 	CC
+Ecc 	3 	6 	1 	7 	1 	a 	DT
+Ecc 	3 	6 	1 	8 	1 	time 	NN
+Ecc 	3 	6 	1 	9 	1 	to 	TO
+Ecc 	3 	6 	1 	10 	1 	lose 	VB
+Ecc 	3 	6 	1 	11 	0 	;
+Ecc 	3 	6 	1 	12 	1 	a 	DT
+Ecc 	3 	6 	1 	13 	1 	time 	NN
+Ecc 	3 	6 	1 	14 	1 	to 	TO
+Ecc 	3 	6 	1 	15 	1 	keep 	VB
+Ecc 	3 	6 	1 	16 	0 	,
+Ecc 	3 	6 	1 	17 	1 	and 	CC
+Ecc 	3 	6 	1 	18 	1 	a 	DT
+Ecc 	3 	6 	1 	19 	1 	time 	NN
+Ecc 	3 	6 	1 	20 	1 	to 	TO
+Ecc 	3 	6 	1 	21 	1 	cast 	NN
+Ecc 	3 	6 	1 	22 	1 	away 	RB
+Ecc 	3 	6 	1 	23 	0 	;
+Ecc 	3 	7 	1 	1 	1 	A 	DT
+Ecc 	3 	7 	1 	2 	1 	time 	NN
+Ecc 	3 	7 	1 	3 	1 	to 	TO
+Ecc 	3 	7 	1 	4 	1 	rend 	NN
+Ecc 	3 	7 	1 	5 	0 	,
+Ecc 	3 	7 	1 	6 	1 	and 	CC
+Ecc 	3 	7 	1 	7 	1 	a 	DT
+Ecc 	3 	7 	1 	8 	1 	time 	NN
+Ecc 	3 	7 	1 	9 	1 	to 	TO
+Ecc 	3 	7 	1 	10 	1 	sew 	NN
+Ecc 	3 	7 	1 	11 	0 	;
+Ecc 	3 	7 	1 	12 	1 	a 	DT
+Ecc 	3 	7 	1 	13 	1 	time 	NN
+Ecc 	3 	7 	1 	14 	1 	to 	TO
+Ecc 	3 	7 	1 	15 	1 	keep 	VB
+Ecc 	3 	7 	1 	16 	1 	silence 	NN
+Ecc 	3 	7 	1 	17 	0 	,
+Ecc 	3 	7 	1 	18 	1 	and 	CC
+Ecc 	3 	7 	1 	19 	1 	a 	DT
+Ecc 	3 	7 	1 	20 	1 	time 	NN
+Ecc 	3 	7 	1 	21 	1 	to 	TO
+Ecc 	3 	7 	1 	22 	1 	speak 	NN
+Ecc 	3 	7 	1 	23 	0 	;
+Ecc 	3 	8 	1 	1 	1 	A 	DT
+Ecc 	3 	8 	1 	2 	1 	time 	NN
+Ecc 	3 	8 	1 	3 	1 	to 	TO
+Ecc 	3 	8 	1 	4 	1 	love 	NN
+Ecc 	3 	8 	1 	5 	0 	,
+Ecc 	3 	8 	1 	6 	1 	and 	CC
+Ecc 	3 	8 	1 	7 	1 	a 	DT
+Ecc 	3 	8 	1 	8 	1 	time 	NN
+Ecc 	3 	8 	1 	9 	1 	to 	TO
+Ecc 	3 	8 	1 	10 	1 	hate 	NN
+Ecc 	3 	8 	1 	11 	0 	;
+Ecc 	3 	8 	1 	12 	1 	a 	DT
+Ecc 	3 	8 	1 	13 	1 	time 	NN
+Ecc 	3 	8 	1 	14 	1 	of 	IN
+Ecc 	3 	8 	1 	15 	1 	war 	NN
+Ecc 	3 	8 	1 	16 	0 	,
+Ecc 	3 	8 	1 	17 	1 	and 	CC
+Ecc 	3 	8 	1 	18 	1 	a 	DT
+Ecc 	3 	8 	1 	19 	1 	time 	NN
+Ecc 	3 	8 	1 	20 	1 	of 	IN
+Ecc 	3 	8 	1 	21 	1 	peace 	NN
+Ecc 	3 	8 	1 	22 	0 	.
+Ecc 	3 	9 	1 	1 	1 	What 	WP
+Ecc 	3 	9 	1 	2 	1 	profit 	NN
+Ecc 	3 	9 	1 	3 	1 	hath 	NN
+Ecc 	3 	9 	1 	4 	1 	he 	PRP
+Ecc 	3 	9 	1 	5 	1 	that 	IN
+Ecc 	3 	9 	1 	6 	1 	worketh 	NNS
+Ecc 	3 	9 	1 	7 	1 	in 	IN
+Ecc 	3 	9 	1 	8 	1 	that 	IN
+Ecc 	3 	9 	1 	9 	1 	wherein 	NN
+Ecc 	3 	9 	1 	10 	1 	he 	PRP
+Ecc 	3 	9 	1 	11 	1 	laboureth 	NN
+Ecc 	3 	9 	1 	12 	0 	?
+Ecc 	3 	10 	1 	1 	1 	I 	PRP
+Ecc 	3 	10 	1 	2 	1 	have 	VB
+Ecc 	3 	10 	1 	3 	1 	seen 	VBN
+Ecc 	3 	10 	1 	4 	1 	the 	DT
+Ecc 	3 	10 	1 	5 	1 	travail 	NN
+Ecc 	3 	10 	1 	6 	0 	,
+Ecc 	3 	10 	1 	7 	1 	which 	WDT
+Ecc 	3 	10 	1 	8 	1 	God 	NNP
+Ecc 	3 	10 	1 	9 	1 	hath 	NN
+Ecc 	3 	10 	1 	10 	1 	given 	VBN
+Ecc 	3 	10 	1 	11 	1 	to 	TO
+Ecc 	3 	10 	1 	12 	1 	the 	DT
+Ecc 	3 	10 	1 	13 	1 	sons 	NNS
+Ecc 	3 	10 	1 	14 	1 	of 	IN
+Ecc 	3 	10 	1 	15 	1 	men 	NNS
+Ecc 	3 	10 	1 	16 	1 	to 	TO
+Ecc 	3 	10 	1 	17 	1 	be 	VB
+Ecc 	3 	10 	1 	18 	1 	exercised 	VBN
+Ecc 	3 	10 	1 	19 	1 	in 	IN
+Ecc 	3 	10 	1 	20 	1 	it 	PRP
+Ecc 	3 	10 	1 	21 	0 	.
+Ecc 	3 	11 	1 	1 	1 	He 	PRP
+Ecc 	3 	11 	1 	2 	1 	hath 	NN
+Ecc 	3 	11 	1 	3 	1 	made 	VBN
+Ecc 	3 	11 	1 	4 	1 	every 	DT
+Ecc 	3 	11 	1 	5 	1 	thing 	NN
+Ecc 	3 	11 	1 	6 	1 	beautiful 	NN
+Ecc 	3 	11 	1 	7 	1 	in 	IN
+Ecc 	3 	11 	1 	8 	1 	his 	PRP$
+Ecc 	3 	11 	1 	9 	1 	time 	NN
+Ecc 	3 	11 	1 	10 	0 	:
+Ecc 	3 	11 	1 	11 	1 	also 	RB
+Ecc 	3 	11 	1 	12 	1 	he 	PRP
+Ecc 	3 	11 	1 	13 	1 	hath 	NN
+Ecc 	3 	11 	1 	14 	1 	set 	NN
+Ecc 	3 	11 	1 	15 	1 	the 	DT
+Ecc 	3 	11 	1 	16 	1 	world 	NN
+Ecc 	3 	11 	1 	17 	1 	in 	IN
+Ecc 	3 	11 	1 	18 	1 	their 	PRP$
+Ecc 	3 	11 	1 	19 	1 	heart 	NN
+Ecc 	3 	11 	1 	20 	0 	,
+Ecc 	3 	11 	1 	21 	1 	so 	RB
+Ecc 	3 	11 	1 	22 	1 	that 	IN
+Ecc 	3 	11 	1 	23 	1 	no 	DT
+Ecc 	3 	11 	1 	24 	1 	man 	NN
+Ecc 	3 	11 	1 	25 	1 	can 	MD
+Ecc 	3 	11 	1 	26 	1 	find 	VB
+Ecc 	3 	11 	1 	27 	1 	out 	IN
+Ecc 	3 	11 	1 	28 	1 	the 	DT
+Ecc 	3 	11 	1 	29 	1 	work 	NN
+Ecc 	3 	11 	1 	30 	1 	that 	IN
+Ecc 	3 	11 	1 	31 	1 	God 	NNP
+Ecc 	3 	11 	1 	32 	1 	maketh 	NNS
+Ecc 	3 	11 	1 	33 	1 	from 	IN
+Ecc 	3 	11 	1 	34 	1 	the 	DT
+Ecc 	3 	11 	1 	35 	1 	beginning 	VBG
+Ecc 	3 	11 	1 	36 	1 	to 	TO
+Ecc 	3 	11 	1 	37 	1 	the 	DT
+Ecc 	3 	11 	1 	38 	1 	end 	NN
+Ecc 	3 	11 	1 	39 	0 	.
+Ecc 	3 	12 	1 	1 	1 	I 	PRP
+Ecc 	3 	12 	1 	2 	1 	know 	VB
+Ecc 	3 	12 	1 	3 	1 	that 	IN
+Ecc 	3 	12 	1 	4 	1 	there 	RB
+Ecc 	3 	12 	1 	5 	1 	is 	VBZ
+Ecc 	3 	12 	1 	6 	1 	no 	DT
+Ecc 	3 	12 	1 	7 	1 	good 	JJ
+Ecc 	3 	12 	1 	8 	1 	in 	IN
+Ecc 	3 	12 	1 	9 	1 	them 	PRP
+Ecc 	3 	12 	1 	10 	0 	,
+Ecc 	3 	12 	1 	11 	1 	but 	CC
+Ecc 	3 	12 	1 	12 	1 	for 	IN
+Ecc 	3 	12 	1 	13 	1 	a 	DT
+Ecc 	3 	12 	1 	14 	1 	man 	NN
+Ecc 	3 	12 	1 	15 	1 	to 	TO
+Ecc 	3 	12 	1 	16 	1 	rejoice 	NN
+Ecc 	3 	12 	1 	17 	0 	,
+Ecc 	3 	12 	1 	18 	1 	and 	CC
+Ecc 	3 	12 	1 	19 	1 	to 	TO
+Ecc 	3 	12 	1 	20 	1 	do 	VB
+Ecc 	3 	12 	1 	21 	1 	good 	JJ
+Ecc 	3 	12 	1 	22 	1 	in 	IN
+Ecc 	3 	12 	1 	23 	1 	his 	PRP$
+Ecc 	3 	12 	1 	24 	1 	life 	NN
+Ecc 	3 	12 	1 	25 	0 	.
+Ecc 	3 	13 	1 	1 	1 	And 	CC
+Ecc 	3 	13 	1 	2 	1 	also 	RB
+Ecc 	3 	13 	1 	3 	1 	that 	IN
+Ecc 	3 	13 	1 	4 	1 	every 	DT
+Ecc 	3 	13 	1 	5 	1 	man 	NN
+Ecc 	3 	13 	1 	6 	1 	should 	MD
+Ecc 	3 	13 	1 	7 	1 	eat 	NN
+Ecc 	3 	13 	1 	8 	1 	and 	CC
+Ecc 	3 	13 	1 	9 	1 	drink 	NN
+Ecc 	3 	13 	1 	10 	0 	,
+Ecc 	3 	13 	1 	11 	1 	and 	CC
+Ecc 	3 	13 	1 	12 	1 	enjoy 	NN
+Ecc 	3 	13 	1 	13 	1 	the 	DT
+Ecc 	3 	13 	1 	14 	1 	good 	JJ
+Ecc 	3 	13 	1 	15 	1 	of 	IN
+Ecc 	3 	13 	1 	16 	1 	all 	DT
+Ecc 	3 	13 	1 	17 	1 	his 	PRP$
+Ecc 	3 	13 	1 	18 	1 	labour 	NN
+Ecc 	3 	13 	1 	19 	0 	,
+Ecc 	3 	13 	1 	20 	1 	it 	PRP
+Ecc 	3 	13 	1 	21 	1 	is 	VBZ
+Ecc 	3 	13 	1 	22 	1 	the 	DT
+Ecc 	3 	13 	1 	23 	1 	gift 	NN
+Ecc 	3 	13 	1 	24 	1 	of 	IN
+Ecc 	3 	13 	1 	25 	1 	God 	NNP
+Ecc 	3 	13 	1 	26 	0 	.
+Ecc 	3 	14 	1 	1 	1 	I 	PRP
+Ecc 	3 	14 	1 	2 	1 	know 	VB
+Ecc 	3 	14 	1 	3 	1 	that 	IN
+Ecc 	3 	14 	1 	4 	0 	,
+Ecc 	3 	14 	1 	5 	1 	whatsoever 	NN
+Ecc 	3 	14 	1 	6 	1 	God 	NNP
+Ecc 	3 	14 	1 	7 	1 	doeth 	NN
+Ecc 	3 	14 	1 	8 	0 	,
+Ecc 	3 	14 	1 	9 	1 	it 	PRP
+Ecc 	3 	14 	1 	10 	1 	shall 	MD
+Ecc 	3 	14 	1 	11 	1 	be 	VB
+Ecc 	3 	14 	1 	12 	1 	for 	IN
+Ecc 	3 	14 	1 	13 	1 	ever 	RB
+Ecc 	3 	14 	1 	14 	0 	:
+Ecc 	3 	14 	1 	15 	1 	nothing 	NN
+Ecc 	3 	14 	1 	16 	1 	can 	MD
+Ecc 	3 	14 	1 	17 	1 	be 	VB
+Ecc 	3 	14 	1 	18 	1 	put 	NN
+Ecc 	3 	14 	1 	19 	1 	to 	TO
+Ecc 	3 	14 	1 	20 	1 	it 	PRP
+Ecc 	3 	14 	1 	21 	0 	,
+Ecc 	3 	14 	1 	22 	1 	nor 	CC
+Ecc 	3 	14 	1 	23 	1 	any 	DT
+Ecc 	3 	14 	1 	24 	1 	thing 	NN
+Ecc 	3 	14 	1 	25 	1 	taken 	VBN
+Ecc 	3 	14 	1 	26 	1 	from 	IN
+Ecc 	3 	14 	1 	27 	1 	it 	PRP
+Ecc 	3 	14 	1 	28 	0 	:
+Ecc 	3 	14 	1 	29 	1 	and 	CC
+Ecc 	3 	14 	1 	30 	1 	God 	NNP
+Ecc 	3 	14 	1 	31 	1 	doeth 	NN
+Ecc 	3 	14 	1 	32 	1 	it 	PRP
+Ecc 	3 	14 	1 	33 	0 	,
+Ecc 	3 	14 	1 	34 	1 	that 	IN
+Ecc 	3 	14 	1 	35 	1 	men 	NNS
+Ecc 	3 	14 	1 	36 	1 	should 	MD
+Ecc 	3 	14 	1 	37 	1 	fear 	NN
+Ecc 	3 	14 	1 	38 	1 	before 	IN
+Ecc 	3 	14 	1 	39 	1 	him 	PRP
+Ecc 	3 	14 	1 	40 	0 	.
+Ecc 	3 	15 	1 	1 	1 	That 	DT
+Ecc 	3 	15 	1 	2 	1 	which 	WDT
+Ecc 	3 	15 	1 	3 	1 	hath 	NN
+Ecc 	3 	15 	1 	4 	1 	been 	VBN
+Ecc 	3 	15 	1 	5 	1 	is 	VBZ
+Ecc 	3 	15 	1 	6 	1 	now 	RB
+Ecc 	3 	15 	1 	7 	0 	;
+Ecc 	3 	15 	1 	8 	1 	and 	CC
+Ecc 	3 	15 	1 	9 	1 	that 	IN
+Ecc 	3 	15 	1 	10 	1 	which 	WDT
+Ecc 	3 	15 	1 	11 	1 	is 	VBZ
+Ecc 	3 	15 	1 	12 	1 	to 	TO
+Ecc 	3 	15 	1 	13 	1 	be 	VB
+Ecc 	3 	15 	1 	14 	1 	hath 	NN
+Ecc 	3 	15 	1 	15 	1 	already 	RB
+Ecc 	3 	15 	1 	16 	1 	been 	VBN
+Ecc 	3 	15 	1 	17 	0 	;
+Ecc 	3 	15 	1 	18 	1 	and 	CC
+Ecc 	3 	15 	1 	19 	1 	God 	NNP
+Ecc 	3 	15 	1 	20 	1 	requireth 	NN
+Ecc 	3 	15 	1 	21 	1 	that 	IN
+Ecc 	3 	15 	1 	22 	1 	which 	WDT
+Ecc 	3 	15 	1 	23 	1 	is 	VBZ
+Ecc 	3 	15 	1 	24 	1 	past 	NN
+Ecc 	3 	15 	1 	25 	0 	.
+Ecc 	3 	16 	1 	1 	1 	And 	CC
+Ecc 	3 	16 	1 	2 	1 	moreover 	NN
+Ecc 	3 	16 	1 	3 	1 	I 	PRP
+Ecc 	3 	16 	1 	4 	1 	saw 	NN
+Ecc 	3 	16 	1 	5 	1 	under 	IN
+Ecc 	3 	16 	1 	6 	1 	the 	DT
+Ecc 	3 	16 	1 	7 	1 	sun 	NN
+Ecc 	3 	16 	1 	8 	1 	the 	DT
+Ecc 	3 	16 	1 	9 	1 	place 	NN
+Ecc 	3 	16 	1 	10 	1 	of 	IN
+Ecc 	3 	16 	1 	11 	1 	judgment 	NN
+Ecc 	3 	16 	1 	12 	0 	,
+Ecc 	3 	16 	1 	13 	1 	that 	IN
+Ecc 	3 	16 	1 	14 	1 	wickedness 	NN
+Ecc 	3 	16 	1 	15 	1 	was 	VBD
+Ecc 	3 	16 	1 	16 	1 	there 	RB
+Ecc 	3 	16 	1 	17 	0 	;
+Ecc 	3 	16 	1 	18 	1 	and 	CC
+Ecc 	3 	16 	1 	19 	1 	the 	DT
+Ecc 	3 	16 	1 	20 	1 	place 	NN
+Ecc 	3 	16 	1 	21 	1 	of 	IN
+Ecc 	3 	16 	1 	22 	1 	righteousness 	NN
+Ecc 	3 	16 	1 	23 	0 	,
+Ecc 	3 	16 	1 	24 	1 	that 	IN
+Ecc 	3 	16 	1 	25 	1 	iniquity 	NN
+Ecc 	3 	16 	1 	26 	1 	was 	VBD
+Ecc 	3 	16 	1 	27 	1 	there 	RB
+Ecc 	3 	16 	1 	28 	0 	.
+Ecc 	3 	17 	1 	1 	1 	I 	PRP
+Ecc 	3 	17 	1 	2 	1 	said 	VBD
+Ecc 	3 	17 	1 	3 	1 	in 	IN
+Ecc 	3 	17 	1 	4 	1 	mine 	NN
+Ecc 	3 	17 	1 	5 	1 	heart 	NN
+Ecc 	3 	17 	1 	6 	0 	,
+Ecc 	3 	17 	1 	7 	1 	God 	NNP
+Ecc 	3 	17 	1 	8 	1 	shall 	MD
+Ecc 	3 	17 	1 	9 	1 	judge 	NN
+Ecc 	3 	17 	1 	10 	1 	the 	DT
+Ecc 	3 	17 	1 	11 	1 	righteous 	JJ
+Ecc 	3 	17 	1 	12 	1 	and 	CC
+Ecc 	3 	17 	1 	13 	1 	the 	DT
+Ecc 	3 	17 	1 	14 	1 	wicked 	VBD
+Ecc 	3 	17 	1 	15 	0 	:
+Ecc 	3 	17 	1 	16 	1 	for 	IN
+Ecc 	3 	17 	1 	17 	1 	there 	RB
+Ecc 	3 	17 	1 	18 	1 	is 	VBZ
+Ecc 	3 	17 	1 	19 	1 	a 	DT
+Ecc 	3 	17 	1 	20 	1 	time 	NN
+Ecc 	3 	17 	1 	21 	1 	there 	RB
+Ecc 	3 	17 	1 	22 	1 	for 	IN
+Ecc 	3 	17 	1 	23 	1 	every 	DT
+Ecc 	3 	17 	1 	24 	1 	purpose 	NN
+Ecc 	3 	17 	1 	25 	1 	and 	CC
+Ecc 	3 	17 	1 	26 	1 	for 	IN
+Ecc 	3 	17 	1 	27 	1 	every 	DT
+Ecc 	3 	17 	1 	28 	1 	work 	NN
+Ecc 	3 	17 	1 	29 	0 	.
+Ecc 	3 	18 	1 	1 	1 	I 	PRP
+Ecc 	3 	18 	1 	2 	1 	said 	VBD
+Ecc 	3 	18 	1 	3 	1 	in 	IN
+Ecc 	3 	18 	1 	4 	1 	mine 	NN
+Ecc 	3 	18 	1 	5 	1 	heart 	NN
+Ecc 	3 	18 	1 	6 	1 	concerning 	VBG
+Ecc 	3 	18 	1 	7 	1 	the 	DT
+Ecc 	3 	18 	1 	8 	1 	estate 	NN
+Ecc 	3 	18 	1 	9 	1 	of 	IN
+Ecc 	3 	18 	1 	10 	1 	the 	DT
+Ecc 	3 	18 	1 	11 	1 	sons 	NNS
+Ecc 	3 	18 	1 	12 	1 	of 	IN
+Ecc 	3 	18 	1 	13 	1 	men 	NNS
+Ecc 	3 	18 	1 	14 	0 	,
+Ecc 	3 	18 	1 	15 	1 	that 	IN
+Ecc 	3 	18 	1 	16 	1 	God 	NNP
+Ecc 	3 	18 	1 	17 	1 	might 	MD
+Ecc 	3 	18 	1 	18 	1 	manifest 	JJS
+Ecc 	3 	18 	1 	19 	1 	them 	PRP
+Ecc 	3 	18 	1 	20 	0 	,
+Ecc 	3 	18 	1 	21 	1 	and 	CC
+Ecc 	3 	18 	1 	22 	1 	that 	IN
+Ecc 	3 	18 	1 	23 	1 	they 	PRP
+Ecc 	3 	18 	1 	24 	1 	might 	MD
+Ecc 	3 	18 	1 	25 	1 	see 	VB
+Ecc 	3 	18 	1 	26 	1 	that 	IN
+Ecc 	3 	18 	1 	27 	1 	they 	PRP
+Ecc 	3 	18 	1 	28 	1 	themselves 	PRP
+Ecc 	3 	18 	1 	29 	1 	are 	VBP
+Ecc 	3 	18 	1 	30 	1 	beasts 	NNS
+Ecc 	3 	18 	1 	31 	0 	.
+Ecc 	3 	19 	1 	1 	1 	For 	IN
+Ecc 	3 	19 	1 	2 	1 	that 	IN
+Ecc 	3 	19 	1 	3 	1 	which 	WDT
+Ecc 	3 	19 	1 	4 	1 	befalleth 	NN
+Ecc 	3 	19 	1 	5 	1 	the 	DT
+Ecc 	3 	19 	1 	6 	1 	sons 	NNS
+Ecc 	3 	19 	1 	7 	1 	of 	IN
+Ecc 	3 	19 	1 	8 	1 	men 	NNS
+Ecc 	3 	19 	1 	9 	1 	befalleth 	NN
+Ecc 	3 	19 	1 	10 	1 	beasts 	NNS
+Ecc 	3 	19 	1 	11 	0 	;
+Ecc 	3 	19 	1 	12 	1 	even 	RB
+Ecc 	3 	19 	1 	13 	1 	one 	CD
+Ecc 	3 	19 	1 	14 	1 	thing 	NN
+Ecc 	3 	19 	1 	15 	1 	befalleth 	NN
+Ecc 	3 	19 	1 	16 	1 	them 	PRP
+Ecc 	3 	19 	1 	17 	0 	:
+Ecc 	3 	19 	1 	18 	1 	as 	IN
+Ecc 	3 	19 	1 	19 	1 	the 	DT
+Ecc 	3 	19 	1 	20 	1 	one 	CD
+Ecc 	3 	19 	1 	21 	1 	dieth 	NN
+Ecc 	3 	19 	1 	22 	0 	,
+Ecc 	3 	19 	1 	23 	1 	so 	RB
+Ecc 	3 	19 	1 	24 	1 	dieth 	NN
+Ecc 	3 	19 	1 	25 	1 	the 	DT
+Ecc 	3 	19 	1 	26 	1 	other 	JJ
+Ecc 	3 	19 	1 	27 	0 	;
+Ecc 	3 	19 	1 	28 	1 	yea 	NN
+Ecc 	3 	19 	1 	29 	0 	,
+Ecc 	3 	19 	1 	30 	1 	they 	PRP
+Ecc 	3 	19 	1 	31 	1 	have 	VB
+Ecc 	3 	19 	1 	32 	1 	all 	DT
+Ecc 	3 	19 	1 	33 	1 	one 	CD
+Ecc 	3 	19 	1 	34 	1 	breath 	NN
+Ecc 	3 	19 	1 	35 	0 	;
+Ecc 	3 	19 	1 	36 	1 	so 	RB
+Ecc 	3 	19 	1 	37 	1 	that 	IN
+Ecc 	3 	19 	1 	38 	1 	a 	DT
+Ecc 	3 	19 	1 	39 	1 	man 	NN
+Ecc 	3 	19 	1 	40 	1 	hath 	NN
+Ecc 	3 	19 	1 	41 	1 	no 	DT
+Ecc 	3 	19 	1 	42 	1 	preeminence 	NN
+Ecc 	3 	19 	1 	43 	1 	above 	IN
+Ecc 	3 	19 	1 	44 	1 	a 	DT
+Ecc 	3 	19 	1 	45 	1 	beast 	NN
+Ecc 	3 	19 	1 	46 	0 	:
+Ecc 	3 	19 	1 	47 	1 	for 	IN
+Ecc 	3 	19 	1 	48 	1 	all 	DT
+Ecc 	3 	19 	1 	49 	1 	is 	VBZ
+Ecc 	3 	19 	1 	50 	1 	vanity 	NN
+Ecc 	3 	19 	1 	51 	0 	.
+Ecc 	3 	20 	1 	1 	1 	All 	DT
+Ecc 	3 	20 	1 	2 	1 	go 	VB
+Ecc 	3 	20 	1 	3 	1 	unto 	NN
+Ecc 	3 	20 	1 	4 	1 	one 	CD
+Ecc 	3 	20 	1 	5 	1 	place 	NN
+Ecc 	3 	20 	1 	6 	0 	;
+Ecc 	3 	20 	1 	7 	1 	all 	DT
+Ecc 	3 	20 	1 	8 	1 	are 	VBP
+Ecc 	3 	20 	1 	9 	1 	of 	IN
+Ecc 	3 	20 	1 	10 	1 	the 	DT
+Ecc 	3 	20 	1 	11 	1 	dust 	NN
+Ecc 	3 	20 	1 	12 	0 	,
+Ecc 	3 	20 	1 	13 	1 	and 	CC
+Ecc 	3 	20 	1 	14 	1 	all 	DT
+Ecc 	3 	20 	1 	15 	1 	turn 	NN
+Ecc 	3 	20 	1 	16 	1 	to 	TO
+Ecc 	3 	20 	1 	17 	1 	dust 	NN
+Ecc 	3 	20 	1 	18 	1 	again 	RB
+Ecc 	3 	20 	1 	19 	0 	.
+Ecc 	3 	21 	1 	1 	1 	Who 	WP
+Ecc 	3 	21 	1 	2 	1 	knoweth 	NNS
+Ecc 	3 	21 	1 	3 	1 	the 	DT
+Ecc 	3 	21 	1 	4 	1 	spirit 	NN
+Ecc 	3 	21 	1 	5 	1 	of 	IN
+Ecc 	3 	21 	1 	6 	1 	man 	NN
+Ecc 	3 	21 	1 	7 	1 	that 	IN
+Ecc 	3 	21 	1 	8 	1 	goeth 	NNS
+Ecc 	3 	21 	1 	9 	1 	upward 	RB
+Ecc 	3 	21 	1 	10 	0 	,
+Ecc 	3 	21 	1 	11 	1 	and 	CC
+Ecc 	3 	21 	1 	12 	1 	the 	DT
+Ecc 	3 	21 	1 	13 	1 	spirit 	NN
+Ecc 	3 	21 	1 	14 	1 	of 	IN
+Ecc 	3 	21 	1 	15 	1 	the 	DT
+Ecc 	3 	21 	1 	16 	1 	beast 	NN
+Ecc 	3 	21 	1 	17 	1 	that 	IN
+Ecc 	3 	21 	1 	18 	1 	goeth 	NNS
+Ecc 	3 	21 	1 	19 	1 	downward 	NN
+Ecc 	3 	21 	1 	20 	1 	to 	TO
+Ecc 	3 	21 	1 	21 	1 	the 	DT
+Ecc 	3 	21 	1 	22 	1 	earth 	NN
+Ecc 	3 	21 	1 	23 	0 	?
+Ecc 	3 	22 	1 	1 	1 	Wherefore 	IN
+Ecc 	3 	22 	1 	2 	1 	I 	PRP
+Ecc 	3 	22 	1 	3 	1 	perceive 	NN
+Ecc 	3 	22 	1 	4 	1 	that 	IN
+Ecc 	3 	22 	1 	5 	1 	there 	RB
+Ecc 	3 	22 	1 	6 	1 	is 	VBZ
+Ecc 	3 	22 	1 	7 	1 	nothing 	NN
+Ecc 	3 	22 	1 	8 	1 	better 	RBR
+Ecc 	3 	22 	1 	9 	0 	,
+Ecc 	3 	22 	1 	10 	1 	than 	IN
+Ecc 	3 	22 	1 	11 	1 	that 	IN
+Ecc 	3 	22 	1 	12 	1 	a 	DT
+Ecc 	3 	22 	1 	13 	1 	man 	NN
+Ecc 	3 	22 	1 	14 	1 	should 	MD
+Ecc 	3 	22 	1 	15 	1 	rejoice 	NN
+Ecc 	3 	22 	1 	16 	1 	in 	IN
+Ecc 	3 	22 	1 	17 	1 	his 	PRP$
+Ecc 	3 	22 	1 	18 	1 	own 	JJ
+Ecc 	3 	22 	1 	19 	1 	works 	NNS
+Ecc 	3 	22 	1 	20 	0 	;
+Ecc 	3 	22 	1 	21 	1 	for 	IN
+Ecc 	3 	22 	1 	22 	1 	that 	IN
+Ecc 	3 	22 	1 	23 	1 	is 	VBZ
+Ecc 	3 	22 	1 	24 	1 	his 	PRP$
+Ecc 	3 	22 	1 	25 	1 	portion 	NN
+Ecc 	3 	22 	1 	26 	0 	:
+Ecc 	3 	22 	1 	27 	1 	for 	IN
+Ecc 	3 	22 	1 	28 	1 	who 	WP
+Ecc 	3 	22 	1 	29 	1 	shall 	MD
+Ecc 	3 	22 	1 	30 	1 	bring 	NN
+Ecc 	3 	22 	1 	31 	1 	him 	PRP
+Ecc 	3 	22 	1 	32 	1 	to 	TO
+Ecc 	3 	22 	1 	33 	1 	see 	VB
+Ecc 	3 	22 	1 	34 	1 	what 	WP
+Ecc 	3 	22 	1 	35 	1 	shall 	MD
+Ecc 	3 	22 	1 	36 	1 	be 	VB
+Ecc 	3 	22 	1 	37 	1 	after 	IN
+Ecc 	3 	22 	1 	38 	1 	him 	PRP
+Ecc 	3 	22 	1 	39 	0 	?
+Ecc 	4 	1 	1 	1 	1 	So 	RB
+Ecc 	4 	1 	1 	2 	1 	I 	PRP
+Ecc 	4 	1 	1 	3 	1 	returned 	VBN
+Ecc 	4 	1 	1 	4 	0 	,
+Ecc 	4 	1 	1 	5 	1 	and 	CC
+Ecc 	4 	1 	1 	6 	1 	considered 	VBN
+Ecc 	4 	1 	1 	7 	1 	all 	DT
+Ecc 	4 	1 	1 	8 	1 	the 	DT
+Ecc 	4 	1 	1 	9 	1 	oppressions 	NNS
+Ecc 	4 	1 	1 	10 	1 	that 	IN
+Ecc 	4 	1 	1 	11 	1 	are 	VBP
+Ecc 	4 	1 	1 	12 	1 	done 	VBN
+Ecc 	4 	1 	1 	13 	1 	under 	IN
+Ecc 	4 	1 	1 	14 	1 	the 	DT
+Ecc 	4 	1 	1 	15 	1 	sun 	NN
+Ecc 	4 	1 	1 	16 	0 	:
+Ecc 	4 	1 	1 	17 	1 	and 	CC
+Ecc 	4 	1 	1 	18 	1 	behold 	NN
+Ecc 	4 	1 	1 	19 	1 	the 	DT
+Ecc 	4 	1 	1 	20 	1 	tears 	NNS
+Ecc 	4 	1 	1 	21 	1 	of 	IN
+Ecc 	4 	1 	1 	22 	1 	such 	JJ
+Ecc 	4 	1 	1 	23 	1 	as 	IN
+Ecc 	4 	1 	1 	24 	1 	were 	VBD
+Ecc 	4 	1 	1 	25 	1 	oppressed 	VBN
+Ecc 	4 	1 	1 	26 	0 	,
+Ecc 	4 	1 	1 	27 	1 	and 	CC
+Ecc 	4 	1 	1 	28 	1 	they 	PRP
+Ecc 	4 	1 	1 	29 	1 	had 	VBD
+Ecc 	4 	1 	1 	30 	1 	no 	DT
+Ecc 	4 	1 	1 	31 	1 	comforter 	NN
+Ecc 	4 	1 	1 	32 	0 	;
+Ecc 	4 	1 	1 	33 	1 	and 	CC
+Ecc 	4 	1 	1 	34 	1 	on 	IN
+Ecc 	4 	1 	1 	35 	1 	the 	DT
+Ecc 	4 	1 	1 	36 	1 	side 	NN
+Ecc 	4 	1 	1 	37 	1 	of 	IN
+Ecc 	4 	1 	1 	38 	1 	their 	PRP$
+Ecc 	4 	1 	1 	39 	1 	oppressors 	NNS
+Ecc 	4 	1 	1 	40 	1 	there 	RB
+Ecc 	4 	1 	1 	41 	1 	was 	VBD
+Ecc 	4 	1 	1 	42 	1 	power 	NN
+Ecc 	4 	1 	1 	43 	0 	;
+Ecc 	4 	1 	1 	44 	1 	but 	CC
+Ecc 	4 	1 	1 	45 	1 	they 	PRP
+Ecc 	4 	1 	1 	46 	1 	had 	VBD
+Ecc 	4 	1 	1 	47 	1 	no 	DT
+Ecc 	4 	1 	1 	48 	1 	comforter 	NN
+Ecc 	4 	1 	1 	49 	0 	.
+Ecc 	4 	2 	1 	1 	1 	Wherefore 	IN
+Ecc 	4 	2 	1 	2 	1 	I 	PRP
+Ecc 	4 	2 	1 	3 	1 	praised 	VBN
+Ecc 	4 	2 	1 	4 	1 	the 	DT
+Ecc 	4 	2 	1 	5 	1 	dead 	JJ
+Ecc 	4 	2 	1 	6 	1 	which 	WDT
+Ecc 	4 	2 	1 	7 	1 	are 	VBP
+Ecc 	4 	2 	1 	8 	1 	already 	RB
+Ecc 	4 	2 	1 	9 	1 	dead 	JJ
+Ecc 	4 	2 	1 	10 	1 	more 	RBR
+Ecc 	4 	2 	1 	11 	1 	than 	IN
+Ecc 	4 	2 	1 	12 	1 	the 	DT
+Ecc 	4 	2 	1 	13 	1 	living 	NN
+Ecc 	4 	2 	1 	14 	1 	which 	WDT
+Ecc 	4 	2 	1 	15 	1 	are 	VBP
+Ecc 	4 	2 	1 	16 	1 	yet 	RB
+Ecc 	4 	2 	1 	17 	1 	alive 	JJ
+Ecc 	4 	2 	1 	18 	0 	.
+Ecc 	4 	3 	1 	1 	1 	Yea 	NN
+Ecc 	4 	3 	1 	2 	0 	,
+Ecc 	4 	3 	1 	3 	1 	better 	RBR
+Ecc 	4 	3 	1 	4 	1 	is 	VBZ
+Ecc 	4 	3 	1 	5 	1 	he 	PRP
+Ecc 	4 	3 	1 	6 	1 	than 	IN
+Ecc 	4 	3 	1 	7 	1 	both 	DT
+Ecc 	4 	3 	1 	8 	1 	they 	PRP
+Ecc 	4 	3 	1 	9 	0 	,
+Ecc 	4 	3 	1 	10 	1 	which 	WDT
+Ecc 	4 	3 	1 	11 	1 	hath 	NN
+Ecc 	4 	3 	1 	12 	1 	not 	RB
+Ecc 	4 	3 	1 	13 	1 	yet 	RB
+Ecc 	4 	3 	1 	14 	1 	been 	VBN
+Ecc 	4 	3 	1 	15 	0 	,
+Ecc 	4 	3 	1 	16 	1 	who 	WP
+Ecc 	4 	3 	1 	17 	1 	hath 	NN
+Ecc 	4 	3 	1 	18 	1 	not 	RB
+Ecc 	4 	3 	1 	19 	1 	seen 	VBN
+Ecc 	4 	3 	1 	20 	1 	the 	DT
+Ecc 	4 	3 	1 	21 	1 	evil 	NN
+Ecc 	4 	3 	1 	22 	1 	work 	NN
+Ecc 	4 	3 	1 	23 	1 	that 	IN
+Ecc 	4 	3 	1 	24 	1 	is 	VBZ
+Ecc 	4 	3 	1 	25 	1 	done 	VBN
+Ecc 	4 	3 	1 	26 	1 	under 	IN
+Ecc 	4 	3 	1 	27 	1 	the 	DT
+Ecc 	4 	3 	1 	28 	1 	sun 	NN
+Ecc 	4 	3 	1 	29 	0 	.
+Ecc 	4 	4 	1 	1 	1 	Again 	NN
+Ecc 	4 	4 	1 	2 	0 	,
+Ecc 	4 	4 	1 	3 	1 	I 	PRP
+Ecc 	4 	4 	1 	4 	1 	considered 	VBN
+Ecc 	4 	4 	1 	5 	1 	all 	DT
+Ecc 	4 	4 	1 	6 	1 	travail 	NN
+Ecc 	4 	4 	1 	7 	0 	,
+Ecc 	4 	4 	1 	8 	1 	and 	CC
+Ecc 	4 	4 	1 	9 	1 	every 	DT
+Ecc 	4 	4 	1 	10 	1 	right 	NN
+Ecc 	4 	4 	1 	11 	1 	work 	NN
+Ecc 	4 	4 	1 	12 	0 	,
+Ecc 	4 	4 	1 	13 	1 	that 	IN
+Ecc 	4 	4 	1 	14 	1 	for 	IN
+Ecc 	4 	4 	1 	15 	1 	this 	DT
+Ecc 	4 	4 	1 	16 	1 	a 	DT
+Ecc 	4 	4 	1 	17 	1 	man 	NN
+Ecc 	4 	4 	1 	18 	1 	is 	VBZ
+Ecc 	4 	4 	1 	19 	1 	envied 	VBN
+Ecc 	4 	4 	1 	20 	1 	of 	IN
+Ecc 	4 	4 	1 	21 	1 	his 	PRP$
+Ecc 	4 	4 	1 	22 	1 	neighbour 	NN
+Ecc 	4 	4 	1 	23 	0 	.
+Ecc 	4 	4 	2 	1 	1 	This 	DT
+Ecc 	4 	4 	2 	2 	1 	is 	VBZ
+Ecc 	4 	4 	2 	3 	1 	also 	RB
+Ecc 	4 	4 	2 	4 	1 	vanity 	NN
+Ecc 	4 	4 	2 	5 	1 	and 	CC
+Ecc 	4 	4 	2 	6 	1 	vexation 	NN
+Ecc 	4 	4 	2 	7 	1 	of 	IN
+Ecc 	4 	4 	2 	8 	1 	spirit 	NN
+Ecc 	4 	4 	2 	9 	0 	.
+Ecc 	4 	5 	1 	1 	1 	The 	DT
+Ecc 	4 	5 	1 	2 	1 	fool 	NN
+Ecc 	4 	5 	1 	3 	1 	foldeth 	NNS
+Ecc 	4 	5 	1 	4 	1 	his 	PRP$
+Ecc 	4 	5 	1 	5 	1 	hands 	NNS
+Ecc 	4 	5 	1 	6 	1 	together 	RB
+Ecc 	4 	5 	1 	7 	0 	,
+Ecc 	4 	5 	1 	8 	1 	and 	CC
+Ecc 	4 	5 	1 	9 	1 	eateth 	NNS
+Ecc 	4 	5 	1 	10 	1 	his 	PRP$
+Ecc 	4 	5 	1 	11 	1 	own 	JJ
+Ecc 	4 	5 	1 	12 	1 	flesh 	NN
+Ecc 	4 	5 	1 	13 	0 	.
+Ecc 	4 	6 	1 	1 	1 	Better 	RBR
+Ecc 	4 	6 	1 	2 	1 	is 	VBZ
+Ecc 	4 	6 	1 	3 	1 	an 	DT
+Ecc 	4 	6 	1 	4 	1 	handful 	NN
+Ecc 	4 	6 	1 	5 	1 	with 	IN
+Ecc 	4 	6 	1 	6 	1 	quietness 	NN
+Ecc 	4 	6 	1 	7 	0 	,
+Ecc 	4 	6 	1 	8 	1 	than 	IN
+Ecc 	4 	6 	1 	9 	1 	both 	DT
+Ecc 	4 	6 	1 	10 	1 	the 	DT
+Ecc 	4 	6 	1 	11 	1 	hands 	NNS
+Ecc 	4 	6 	1 	12 	1 	full 	JJ
+Ecc 	4 	6 	1 	13 	1 	with 	IN
+Ecc 	4 	6 	1 	14 	1 	travail 	NN
+Ecc 	4 	6 	1 	15 	1 	and 	CC
+Ecc 	4 	6 	1 	16 	1 	vexation 	NN
+Ecc 	4 	6 	1 	17 	1 	of 	IN
+Ecc 	4 	6 	1 	18 	1 	spirit 	NN
+Ecc 	4 	6 	1 	19 	0 	.
+Ecc 	4 	7 	1 	1 	1 	Then 	RB
+Ecc 	4 	7 	1 	2 	1 	I 	PRP
+Ecc 	4 	7 	1 	3 	1 	returned 	VBN
+Ecc 	4 	7 	1 	4 	0 	,
+Ecc 	4 	7 	1 	5 	1 	and 	CC
+Ecc 	4 	7 	1 	6 	1 	I 	PRP
+Ecc 	4 	7 	1 	7 	1 	saw 	NN
+Ecc 	4 	7 	1 	8 	1 	vanity 	NN
+Ecc 	4 	7 	1 	9 	1 	under 	IN
+Ecc 	4 	7 	1 	10 	1 	the 	DT
+Ecc 	4 	7 	1 	11 	1 	sun 	NN
+Ecc 	4 	7 	1 	12 	0 	.
+Ecc 	4 	8 	1 	1 	1 	There 	EX
+Ecc 	4 	8 	1 	2 	1 	is 	VBZ
+Ecc 	4 	8 	1 	3 	1 	one 	CD
+Ecc 	4 	8 	1 	4 	1 	alone 	RB
+Ecc 	4 	8 	1 	5 	0 	,
+Ecc 	4 	8 	1 	6 	1 	and 	CC
+Ecc 	4 	8 	1 	7 	1 	there 	RB
+Ecc 	4 	8 	1 	8 	1 	is 	VBZ
+Ecc 	4 	8 	1 	9 	1 	not 	RB
+Ecc 	4 	8 	1 	10 	1 	a 	DT
+Ecc 	4 	8 	1 	11 	1 	second 	JJ
+Ecc 	4 	8 	1 	12 	0 	;
+Ecc 	4 	8 	1 	13 	1 	yea 	NN
+Ecc 	4 	8 	1 	14 	0 	,
+Ecc 	4 	8 	1 	15 	1 	he 	PRP
+Ecc 	4 	8 	1 	16 	1 	hath 	NN
+Ecc 	4 	8 	1 	17 	1 	neither 	DT
+Ecc 	4 	8 	1 	18 	1 	child 	NN
+Ecc 	4 	8 	1 	19 	1 	nor 	CC
+Ecc 	4 	8 	1 	20 	1 	brother 	NN
+Ecc 	4 	8 	1 	21 	0 	:
+Ecc 	4 	8 	1 	22 	1 	yet 	RB
+Ecc 	4 	8 	1 	23 	1 	is 	VBZ
+Ecc 	4 	8 	1 	24 	1 	there 	RB
+Ecc 	4 	8 	1 	25 	1 	no 	DT
+Ecc 	4 	8 	1 	26 	1 	end 	NN
+Ecc 	4 	8 	1 	27 	1 	of 	IN
+Ecc 	4 	8 	1 	28 	1 	all 	DT
+Ecc 	4 	8 	1 	29 	1 	his 	PRP$
+Ecc 	4 	8 	1 	30 	1 	labour 	NN
+Ecc 	4 	8 	1 	31 	0 	;
+Ecc 	4 	8 	1 	32 	1 	neither 	DT
+Ecc 	4 	8 	1 	33 	1 	is 	VBZ
+Ecc 	4 	8 	1 	34 	1 	his 	PRP$
+Ecc 	4 	8 	1 	35 	1 	eye 	NN
+Ecc 	4 	8 	1 	36 	1 	satisfied 	JJ
+Ecc 	4 	8 	1 	37 	1 	with 	IN
+Ecc 	4 	8 	1 	38 	1 	riches 	NNS
+Ecc 	4 	8 	1 	39 	0 	;
+Ecc 	4 	8 	1 	40 	1 	neither 	DT
+Ecc 	4 	8 	1 	41 	1 	saith 	NN
+Ecc 	4 	8 	1 	42 	1 	he 	PRP
+Ecc 	4 	8 	1 	43 	0 	,
+Ecc 	4 	8 	1 	44 	1 	For 	IN
+Ecc 	4 	8 	1 	45 	1 	whom 	WP
+Ecc 	4 	8 	1 	46 	1 	do 	VB
+Ecc 	4 	8 	1 	47 	1 	I 	PRP
+Ecc 	4 	8 	1 	48 	1 	labour 	NN
+Ecc 	4 	8 	1 	49 	0 	,
+Ecc 	4 	8 	1 	50 	1 	and 	CC
+Ecc 	4 	8 	1 	51 	1 	bereave 	NN
+Ecc 	4 	8 	1 	52 	1 	my 	PRP$
+Ecc 	4 	8 	1 	53 	1 	soul 	NN
+Ecc 	4 	8 	1 	54 	1 	of 	IN
+Ecc 	4 	8 	1 	55 	1 	good 	JJ
+Ecc 	4 	8 	1 	56 	0 	?
+Ecc 	4 	8 	2 	1 	1 	This 	DT
+Ecc 	4 	8 	2 	2 	1 	is 	VBZ
+Ecc 	4 	8 	2 	3 	1 	also 	RB
+Ecc 	4 	8 	2 	4 	1 	vanity 	NN
+Ecc 	4 	8 	2 	5 	0 	,
+Ecc 	4 	8 	2 	6 	1 	yea 	NN
+Ecc 	4 	8 	2 	7 	0 	,
+Ecc 	4 	8 	2 	8 	1 	it 	PRP
+Ecc 	4 	8 	2 	9 	1 	is 	VBZ
+Ecc 	4 	8 	2 	10 	1 	a 	DT
+Ecc 	4 	8 	2 	11 	1 	sore 	NN
+Ecc 	4 	8 	2 	12 	1 	travail 	NN
+Ecc 	4 	8 	2 	13 	0 	.
+Ecc 	4 	9 	1 	1 	1 	Two 	CD
+Ecc 	4 	9 	1 	2 	1 	are 	VBP
+Ecc 	4 	9 	1 	3 	1 	better 	RBR
+Ecc 	4 	9 	1 	4 	1 	than 	IN
+Ecc 	4 	9 	1 	5 	1 	one 	CD
+Ecc 	4 	9 	1 	6 	0 	;
+Ecc 	4 	9 	1 	7 	1 	because 	IN
+Ecc 	4 	9 	1 	8 	1 	they 	PRP
+Ecc 	4 	9 	1 	9 	1 	have 	VB
+Ecc 	4 	9 	1 	10 	1 	a 	DT
+Ecc 	4 	9 	1 	11 	1 	good 	JJ
+Ecc 	4 	9 	1 	12 	1 	reward 	NN
+Ecc 	4 	9 	1 	13 	1 	for 	IN
+Ecc 	4 	9 	1 	14 	1 	their 	PRP$
+Ecc 	4 	9 	1 	15 	1 	labour 	NN
+Ecc 	4 	9 	1 	16 	0 	.
+Ecc 	4 	10 	1 	1 	1 	For 	IN
+Ecc 	4 	10 	1 	2 	1 	if 	IN
+Ecc 	4 	10 	1 	3 	1 	they 	PRP
+Ecc 	4 	10 	1 	4 	1 	fall 	NN
+Ecc 	4 	10 	1 	5 	0 	,
+Ecc 	4 	10 	1 	6 	1 	the 	DT
+Ecc 	4 	10 	1 	7 	1 	one 	CD
+Ecc 	4 	10 	1 	8 	1 	will 	MD
+Ecc 	4 	10 	1 	9 	1 	lift 	NN
+Ecc 	4 	10 	1 	10 	1 	up 	RB
+Ecc 	4 	10 	1 	11 	1 	his 	PRP$
+Ecc 	4 	10 	1 	12 	1 	fellow 	NN
+Ecc 	4 	10 	1 	13 	0 	:
+Ecc 	4 	10 	1 	14 	1 	but 	CC
+Ecc 	4 	10 	1 	15 	1 	woe 	NN
+Ecc 	4 	10 	1 	16 	1 	to 	TO
+Ecc 	4 	10 	1 	17 	1 	him 	PRP
+Ecc 	4 	10 	1 	18 	1 	that 	IN
+Ecc 	4 	10 	1 	19 	1 	is 	VBZ
+Ecc 	4 	10 	1 	20 	1 	alone 	RB
+Ecc 	4 	10 	1 	21 	1 	when 	WRB
+Ecc 	4 	10 	1 	22 	1 	he 	PRP
+Ecc 	4 	10 	1 	23 	1 	falleth 	NNS
+Ecc 	4 	10 	1 	24 	0 	;
+Ecc 	4 	10 	1 	25 	1 	for 	IN
+Ecc 	4 	10 	1 	26 	1 	he 	PRP
+Ecc 	4 	10 	1 	27 	1 	hath 	NN
+Ecc 	4 	10 	1 	28 	1 	not 	RB
+Ecc 	4 	10 	1 	29 	1 	another 	DT
+Ecc 	4 	10 	1 	30 	1 	to 	TO
+Ecc 	4 	10 	1 	31 	1 	help 	NN
+Ecc 	4 	10 	1 	32 	1 	him 	PRP
+Ecc 	4 	10 	1 	33 	1 	up 	RB
+Ecc 	4 	10 	1 	34 	0 	.
+Ecc 	4 	11 	1 	1 	1 	Again 	NN
+Ecc 	4 	11 	1 	2 	0 	,
+Ecc 	4 	11 	1 	3 	1 	if 	IN
+Ecc 	4 	11 	1 	4 	1 	two 	CD
+Ecc 	4 	11 	1 	5 	1 	lie 	NN
+Ecc 	4 	11 	1 	6 	1 	together 	RB
+Ecc 	4 	11 	1 	7 	0 	,
+Ecc 	4 	11 	1 	8 	1 	then 	RB
+Ecc 	4 	11 	1 	9 	1 	they 	PRP
+Ecc 	4 	11 	1 	10 	1 	have 	VB
+Ecc 	4 	11 	1 	11 	1 	heat 	NN
+Ecc 	4 	11 	1 	12 	0 	:
+Ecc 	4 	11 	1 	13 	1 	but 	CC
+Ecc 	4 	11 	1 	14 	1 	how 	WRB
+Ecc 	4 	11 	1 	15 	1 	can 	MD
+Ecc 	4 	11 	1 	16 	1 	one 	CD
+Ecc 	4 	11 	1 	17 	1 	be 	VB
+Ecc 	4 	11 	1 	18 	1 	warm 	NN
+Ecc 	4 	11 	1 	19 	1 	alone 	RB
+Ecc 	4 	11 	1 	20 	0 	?
+Ecc 	4 	12 	1 	1 	1 	And 	CC
+Ecc 	4 	12 	1 	2 	1 	if 	IN
+Ecc 	4 	12 	1 	3 	1 	one 	CD
+Ecc 	4 	12 	1 	4 	1 	prevail 	NN
+Ecc 	4 	12 	1 	5 	1 	against 	IN
+Ecc 	4 	12 	1 	6 	1 	him 	PRP
+Ecc 	4 	12 	1 	7 	0 	,
+Ecc 	4 	12 	1 	8 	1 	two 	CD
+Ecc 	4 	12 	1 	9 	1 	shall 	MD
+Ecc 	4 	12 	1 	10 	1 	withstand 	NN
+Ecc 	4 	12 	1 	11 	1 	him 	PRP
+Ecc 	4 	12 	1 	12 	0 	;
+Ecc 	4 	12 	1 	13 	1 	and 	CC
+Ecc 	4 	12 	1 	14 	1 	a 	DT
+Ecc 	4 	12 	1 	15 	1 	threefold 	NN
+Ecc 	4 	12 	1 	16 	1 	cord 	NN
+Ecc 	4 	12 	1 	17 	1 	is 	VBZ
+Ecc 	4 	12 	1 	18 	1 	not 	RB
+Ecc 	4 	12 	1 	19 	1 	quickly 	RB
+Ecc 	4 	12 	1 	20 	1 	broken 	NN
+Ecc 	4 	12 	1 	21 	0 	.
+Ecc 	4 	13 	1 	1 	1 	Better 	RBR
+Ecc 	4 	13 	1 	2 	1 	is 	VBZ
+Ecc 	4 	13 	1 	3 	1 	a 	DT
+Ecc 	4 	13 	1 	4 	1 	poor 	JJ
+Ecc 	4 	13 	1 	5 	1 	and 	CC
+Ecc 	4 	13 	1 	6 	1 	a 	DT
+Ecc 	4 	13 	1 	7 	1 	wise 	NN
+Ecc 	4 	13 	1 	8 	1 	child 	NN
+Ecc 	4 	13 	1 	9 	1 	than 	IN
+Ecc 	4 	13 	1 	10 	1 	an 	DT
+Ecc 	4 	13 	1 	11 	1 	old 	JJ
+Ecc 	4 	13 	1 	12 	1 	and 	CC
+Ecc 	4 	13 	1 	13 	1 	foolish 	JJ
+Ecc 	4 	13 	1 	14 	1 	king 	NN
+Ecc 	4 	13 	1 	15 	0 	,
+Ecc 	4 	13 	1 	16 	1 	who 	WP
+Ecc 	4 	13 	1 	17 	1 	will 	MD
+Ecc 	4 	13 	1 	18 	1 	no 	DT
+Ecc 	4 	13 	1 	19 	1 	more 	RBR
+Ecc 	4 	13 	1 	20 	1 	be 	VB
+Ecc 	4 	13 	1 	21 	1 	admonished 	VBN
+Ecc 	4 	13 	1 	22 	0 	.
+Ecc 	4 	14 	1 	1 	1 	For 	IN
+Ecc 	4 	14 	1 	2 	1 	out 	IN
+Ecc 	4 	14 	1 	3 	1 	of 	IN
+Ecc 	4 	14 	1 	4 	1 	prison 	NN
+Ecc 	4 	14 	1 	5 	1 	he 	PRP
+Ecc 	4 	14 	1 	6 	1 	cometh 	NNS
+Ecc 	4 	14 	1 	7 	1 	to 	TO
+Ecc 	4 	14 	1 	8 	1 	reign 	NN
+Ecc 	4 	14 	1 	9 	0 	;
+Ecc 	4 	14 	1 	10 	1 	whereas 	NNS
+Ecc 	4 	14 	1 	11 	1 	also 	RB
+Ecc 	4 	14 	1 	12 	1 	he 	PRP
+Ecc 	4 	14 	1 	13 	1 	that 	IN
+Ecc 	4 	14 	1 	14 	1 	is 	VBZ
+Ecc 	4 	14 	1 	15 	1 	born 	NN
+Ecc 	4 	14 	1 	16 	1 	in 	IN
+Ecc 	4 	14 	1 	17 	1 	his 	PRP$
+Ecc 	4 	14 	1 	18 	1 	kingdom 	NN
+Ecc 	4 	14 	1 	19 	1 	becometh 	NN
+Ecc 	4 	14 	1 	20 	1 	poor 	JJ
+Ecc 	4 	14 	1 	21 	0 	.
+Ecc 	4 	15 	1 	1 	1 	I 	PRP
+Ecc 	4 	15 	1 	2 	1 	considered 	VBN
+Ecc 	4 	15 	1 	3 	1 	all 	DT
+Ecc 	4 	15 	1 	4 	1 	the 	DT
+Ecc 	4 	15 	1 	5 	1 	living 	NN
+Ecc 	4 	15 	1 	6 	1 	which 	WDT
+Ecc 	4 	15 	1 	7 	1 	walk 	NN
+Ecc 	4 	15 	1 	8 	1 	under 	IN
+Ecc 	4 	15 	1 	9 	1 	the 	DT
+Ecc 	4 	15 	1 	10 	1 	sun 	NN
+Ecc 	4 	15 	1 	11 	0 	,
+Ecc 	4 	15 	1 	12 	1 	with 	IN
+Ecc 	4 	15 	1 	13 	1 	the 	DT
+Ecc 	4 	15 	1 	14 	1 	second 	JJ
+Ecc 	4 	15 	1 	15 	1 	child 	NN
+Ecc 	4 	15 	1 	16 	1 	that 	IN
+Ecc 	4 	15 	1 	17 	1 	shall 	MD
+Ecc 	4 	15 	1 	18 	1 	stand 	NN
+Ecc 	4 	15 	1 	19 	1 	up 	RB
+Ecc 	4 	15 	1 	20 	1 	in 	IN
+Ecc 	4 	15 	1 	21 	1 	his 	PRP$
+Ecc 	4 	15 	1 	22 	1 	stead 	NN
+Ecc 	4 	15 	1 	23 	0 	.
+Ecc 	4 	16 	1 	1 	1 	There 	EX
+Ecc 	4 	16 	1 	2 	1 	is 	VBZ
+Ecc 	4 	16 	1 	3 	1 	no 	DT
+Ecc 	4 	16 	1 	4 	1 	end 	NN
+Ecc 	4 	16 	1 	5 	1 	of 	IN
+Ecc 	4 	16 	1 	6 	1 	all 	DT
+Ecc 	4 	16 	1 	7 	1 	the 	DT
+Ecc 	4 	16 	1 	8 	1 	people 	NNS
+Ecc 	4 	16 	1 	9 	0 	,
+Ecc 	4 	16 	1 	10 	1 	even 	RB
+Ecc 	4 	16 	1 	11 	1 	of 	IN
+Ecc 	4 	16 	1 	12 	1 	all 	DT
+Ecc 	4 	16 	1 	13 	1 	that 	IN
+Ecc 	4 	16 	1 	14 	1 	have 	VB
+Ecc 	4 	16 	1 	15 	1 	been 	VBN
+Ecc 	4 	16 	1 	16 	1 	before 	IN
+Ecc 	4 	16 	1 	17 	1 	them 	PRP
+Ecc 	4 	16 	1 	18 	0 	:
+Ecc 	4 	16 	1 	19 	1 	they 	PRP
+Ecc 	4 	16 	1 	20 	1 	also 	RB
+Ecc 	4 	16 	1 	21 	1 	that 	IN
+Ecc 	4 	16 	1 	22 	1 	come 	VB
+Ecc 	4 	16 	1 	23 	1 	after 	IN
+Ecc 	4 	16 	1 	24 	1 	shall 	MD
+Ecc 	4 	16 	1 	25 	1 	not 	RB
+Ecc 	4 	16 	1 	26 	1 	rejoice 	NN
+Ecc 	4 	16 	1 	27 	1 	in 	IN
+Ecc 	4 	16 	1 	28 	1 	him 	PRP
+Ecc 	4 	16 	1 	29 	0 	.
+Ecc 	4 	16 	2 	1 	1 	Surely 	RB
+Ecc 	4 	16 	2 	2 	1 	this 	DT
+Ecc 	4 	16 	2 	3 	1 	also 	RB
+Ecc 	4 	16 	2 	4 	1 	is 	VBZ
+Ecc 	4 	16 	2 	5 	1 	vanity 	NN
+Ecc 	4 	16 	2 	6 	1 	and 	CC
+Ecc 	4 	16 	2 	7 	1 	vexation 	NN
+Ecc 	4 	16 	2 	8 	1 	of 	IN
+Ecc 	4 	16 	2 	9 	1 	spirit 	NN
+Ecc 	4 	16 	2 	10 	0 	.
+Ecc 	5 	1 	1 	1 	1 	Keep 	VB
+Ecc 	5 	1 	1 	2 	1 	thy 	NN
+Ecc 	5 	1 	1 	3 	1 	foot 	NN
+Ecc 	5 	1 	1 	4 	1 	when 	WRB
+Ecc 	5 	1 	1 	5 	1 	thou 	NN
+Ecc 	5 	1 	1 	6 	1 	goest 	NN
+Ecc 	5 	1 	1 	7 	1 	to 	TO
+Ecc 	5 	1 	1 	8 	1 	the 	DT
+Ecc 	5 	1 	1 	9 	1 	house 	NN
+Ecc 	5 	1 	1 	10 	1 	of 	IN
+Ecc 	5 	1 	1 	11 	1 	God 	NNP
+Ecc 	5 	1 	1 	12 	0 	,
+Ecc 	5 	1 	1 	13 	1 	and 	CC
+Ecc 	5 	1 	1 	14 	1 	be 	VB
+Ecc 	5 	1 	1 	15 	1 	more 	RBR
+Ecc 	5 	1 	1 	16 	1 	ready 	JJ
+Ecc 	5 	1 	1 	17 	1 	to 	TO
+Ecc 	5 	1 	1 	18 	1 	hear 	NN
+Ecc 	5 	1 	1 	19 	0 	,
+Ecc 	5 	1 	1 	20 	1 	than 	IN
+Ecc 	5 	1 	1 	21 	1 	to 	TO
+Ecc 	5 	1 	1 	22 	1 	give 	VB
+Ecc 	5 	1 	1 	23 	1 	the 	DT
+Ecc 	5 	1 	1 	24 	1 	sacrifice 	NN
+Ecc 	5 	1 	1 	25 	1 	of 	IN
+Ecc 	5 	1 	1 	26 	1 	fools 	NNS
+Ecc 	5 	1 	1 	27 	0 	:
+Ecc 	5 	1 	1 	28 	1 	for 	IN
+Ecc 	5 	1 	1 	29 	1 	they 	PRP
+Ecc 	5 	1 	1 	30 	1 	consider 	VB
+Ecc 	5 	1 	1 	31 	1 	not 	RB
+Ecc 	5 	1 	1 	32 	1 	that 	IN
+Ecc 	5 	1 	1 	33 	1 	they 	PRP
+Ecc 	5 	1 	1 	34 	1 	do 	VB
+Ecc 	5 	1 	1 	35 	1 	evil 	NN
+Ecc 	5 	1 	1 	36 	0 	.
+Ecc 	5 	2 	1 	1 	1 	Be 	VB
+Ecc 	5 	2 	1 	2 	1 	not 	RB
+Ecc 	5 	2 	1 	3 	1 	rash 	NN
+Ecc 	5 	2 	1 	4 	1 	with 	IN
+Ecc 	5 	2 	1 	5 	1 	thy 	NN
+Ecc 	5 	2 	1 	6 	1 	mouth 	NN
+Ecc 	5 	2 	1 	7 	0 	,
+Ecc 	5 	2 	1 	8 	1 	and 	CC
+Ecc 	5 	2 	1 	9 	1 	let 	VB
+Ecc 	5 	2 	1 	10 	1 	not 	RB
+Ecc 	5 	2 	1 	11 	1 	thine 	NN
+Ecc 	5 	2 	1 	12 	1 	heart 	NN
+Ecc 	5 	2 	1 	13 	1 	be 	VB
+Ecc 	5 	2 	1 	14 	1 	hasty 	NN
+Ecc 	5 	2 	1 	15 	1 	to 	TO
+Ecc 	5 	2 	1 	16 	1 	utter 	NN
+Ecc 	5 	2 	1 	17 	1 	any 	DT
+Ecc 	5 	2 	1 	18 	1 	thing 	NN
+Ecc 	5 	2 	1 	19 	1 	before 	IN
+Ecc 	5 	2 	1 	20 	1 	God 	NNP
+Ecc 	5 	2 	1 	21 	0 	:
+Ecc 	5 	2 	1 	22 	1 	for 	IN
+Ecc 	5 	2 	1 	23 	1 	God 	NNP
+Ecc 	5 	2 	1 	24 	1 	is 	VBZ
+Ecc 	5 	2 	1 	25 	1 	in 	IN
+Ecc 	5 	2 	1 	26 	1 	heaven 	NN
+Ecc 	5 	2 	1 	27 	0 	,
+Ecc 	5 	2 	1 	28 	1 	and 	CC
+Ecc 	5 	2 	1 	29 	1 	thou 	NN
+Ecc 	5 	2 	1 	30 	1 	upon 	IN
+Ecc 	5 	2 	1 	31 	1 	earth 	NN
+Ecc 	5 	2 	1 	32 	0 	:
+Ecc 	5 	2 	1 	33 	1 	therefore 	RB
+Ecc 	5 	2 	1 	34 	1 	let 	VB
+Ecc 	5 	2 	1 	35 	1 	thy 	NN
+Ecc 	5 	2 	1 	36 	1 	words 	NNS
+Ecc 	5 	2 	1 	37 	1 	be 	VB
+Ecc 	5 	2 	1 	38 	1 	few 	JJ
+Ecc 	5 	2 	1 	39 	0 	.
+Ecc 	5 	3 	1 	1 	1 	For 	IN
+Ecc 	5 	3 	1 	2 	1 	a 	DT
+Ecc 	5 	3 	1 	3 	1 	dream 	NN
+Ecc 	5 	3 	1 	4 	1 	cometh 	NNS
+Ecc 	5 	3 	1 	5 	1 	through 	IN
+Ecc 	5 	3 	1 	6 	1 	the 	DT
+Ecc 	5 	3 	1 	7 	1 	multitude 	NN
+Ecc 	5 	3 	1 	8 	1 	of 	IN
+Ecc 	5 	3 	1 	9 	1 	business 	NN
+Ecc 	5 	3 	1 	10 	0 	;
+Ecc 	5 	3 	1 	11 	1 	and 	CC
+Ecc 	5 	3 	1 	12 	1 	a 	DT
+Ecc 	5 	3 	1 	13 	1 	fool 	NN
+Ecc 	5 	3 	1 	14 	0 	's
+Ecc 	5 	3 	1 	15 	1 	voice 	NN
+Ecc 	5 	3 	1 	16 	1 	is 	VBZ
+Ecc 	5 	3 	1 	17 	1 	known 	VBN
+Ecc 	5 	3 	1 	18 	1 	by 	IN
+Ecc 	5 	3 	1 	19 	1 	multitude 	NN
+Ecc 	5 	3 	1 	20 	1 	of 	IN
+Ecc 	5 	3 	1 	21 	1 	words 	NNS
+Ecc 	5 	3 	1 	22 	0 	.
+Ecc 	5 	4 	1 	1 	1 	When 	WRB
+Ecc 	5 	4 	1 	2 	1 	thou 	NN
+Ecc 	5 	4 	1 	3 	1 	vowest 	NN
+Ecc 	5 	4 	1 	4 	1 	a 	DT
+Ecc 	5 	4 	1 	5 	1 	vow 	NN
+Ecc 	5 	4 	1 	6 	1 	unto 	NN
+Ecc 	5 	4 	1 	7 	1 	God 	NNP
+Ecc 	5 	4 	1 	8 	0 	,
+Ecc 	5 	4 	1 	9 	1 	defer 	NN
+Ecc 	5 	4 	1 	10 	1 	not 	RB
+Ecc 	5 	4 	1 	11 	1 	to 	TO
+Ecc 	5 	4 	1 	12 	1 	pay 	NN
+Ecc 	5 	4 	1 	13 	1 	it 	PRP
+Ecc 	5 	4 	1 	14 	0 	;
+Ecc 	5 	4 	1 	15 	1 	for 	IN
+Ecc 	5 	4 	1 	16 	1 	he 	PRP
+Ecc 	5 	4 	1 	17 	1 	hath 	NN
+Ecc 	5 	4 	1 	18 	1 	no 	DT
+Ecc 	5 	4 	1 	19 	1 	pleasure 	NN
+Ecc 	5 	4 	1 	20 	1 	in 	IN
+Ecc 	5 	4 	1 	21 	1 	fools 	NNS
+Ecc 	5 	4 	1 	22 	0 	:
+Ecc 	5 	4 	1 	23 	1 	pay 	NN
+Ecc 	5 	4 	1 	24 	1 	that 	IN
+Ecc 	5 	4 	1 	25 	1 	which 	WDT
+Ecc 	5 	4 	1 	26 	1 	thou 	NN
+Ecc 	5 	4 	1 	27 	1 	hast 	NN
+Ecc 	5 	4 	1 	28 	1 	vowed 	NN
+Ecc 	5 	4 	1 	29 	0 	.
+Ecc 	5 	5 	1 	1 	1 	Better 	RBR
+Ecc 	5 	5 	1 	2 	1 	is 	VBZ
+Ecc 	5 	5 	1 	3 	1 	it 	PRP
+Ecc 	5 	5 	1 	4 	1 	that 	IN
+Ecc 	5 	5 	1 	5 	1 	thou 	NN
+Ecc 	5 	5 	1 	6 	1 	shouldest 	NN
+Ecc 	5 	5 	1 	7 	1 	not 	RB
+Ecc 	5 	5 	1 	8 	1 	vow 	NN
+Ecc 	5 	5 	1 	9 	0 	,
+Ecc 	5 	5 	1 	10 	1 	than 	IN
+Ecc 	5 	5 	1 	11 	1 	that 	IN
+Ecc 	5 	5 	1 	12 	1 	thou 	NN
+Ecc 	5 	5 	1 	13 	1 	shouldest 	NN
+Ecc 	5 	5 	1 	14 	1 	vow 	NN
+Ecc 	5 	5 	1 	15 	1 	and 	CC
+Ecc 	5 	5 	1 	16 	1 	not 	RB
+Ecc 	5 	5 	1 	17 	1 	pay 	NN
+Ecc 	5 	5 	1 	18 	0 	.
+Ecc 	5 	6 	1 	1 	1 	Suffer 	NN
+Ecc 	5 	6 	1 	2 	1 	not 	RB
+Ecc 	5 	6 	1 	3 	1 	thy 	NN
+Ecc 	5 	6 	1 	4 	1 	mouth 	NN
+Ecc 	5 	6 	1 	5 	1 	to 	TO
+Ecc 	5 	6 	1 	6 	1 	cause 	NN
+Ecc 	5 	6 	1 	7 	1 	thy 	NN
+Ecc 	5 	6 	1 	8 	1 	flesh 	NN
+Ecc 	5 	6 	1 	9 	1 	to 	TO
+Ecc 	5 	6 	1 	10 	1 	sin 	NN
+Ecc 	5 	6 	1 	11 	0 	;
+Ecc 	5 	6 	1 	12 	1 	neither 	DT
+Ecc 	5 	6 	1 	13 	1 	say 	VB
+Ecc 	5 	6 	1 	14 	1 	thou 	NN
+Ecc 	5 	6 	1 	15 	1 	before 	IN
+Ecc 	5 	6 	1 	16 	1 	the 	DT
+Ecc 	5 	6 	1 	17 	1 	angel 	NN
+Ecc 	5 	6 	1 	18 	0 	,
+Ecc 	5 	6 	1 	19 	1 	that 	IN
+Ecc 	5 	6 	1 	20 	1 	it 	PRP
+Ecc 	5 	6 	1 	21 	1 	was 	VBD
+Ecc 	5 	6 	1 	22 	1 	an 	DT
+Ecc 	5 	6 	1 	23 	1 	error 	NN
+Ecc 	5 	6 	1 	24 	0 	:
+Ecc 	5 	6 	1 	25 	1 	wherefore 	NN
+Ecc 	5 	6 	1 	26 	1 	should 	MD
+Ecc 	5 	6 	1 	27 	1 	God 	NNP
+Ecc 	5 	6 	1 	28 	1 	be 	VB
+Ecc 	5 	6 	1 	29 	1 	angry 	JJ
+Ecc 	5 	6 	1 	30 	1 	at 	IN
+Ecc 	5 	6 	1 	31 	1 	thy 	NN
+Ecc 	5 	6 	1 	32 	1 	voice 	NN
+Ecc 	5 	6 	1 	33 	0 	,
+Ecc 	5 	6 	1 	34 	1 	and 	CC
+Ecc 	5 	6 	1 	35 	1 	destroy 	NN
+Ecc 	5 	6 	1 	36 	1 	the 	DT
+Ecc 	5 	6 	1 	37 	1 	work 	NN
+Ecc 	5 	6 	1 	38 	1 	of 	IN
+Ecc 	5 	6 	1 	39 	1 	thine 	NN
+Ecc 	5 	6 	1 	40 	1 	hands 	NNS
+Ecc 	5 	6 	1 	41 	0 	?
+Ecc 	5 	7 	1 	1 	1 	For 	IN
+Ecc 	5 	7 	1 	2 	1 	in 	IN
+Ecc 	5 	7 	1 	3 	1 	the 	DT
+Ecc 	5 	7 	1 	4 	1 	multitude 	NN
+Ecc 	5 	7 	1 	5 	1 	of 	IN
+Ecc 	5 	7 	1 	6 	1 	dreams 	NNS
+Ecc 	5 	7 	1 	7 	1 	and 	CC
+Ecc 	5 	7 	1 	8 	1 	many 	JJ
+Ecc 	5 	7 	1 	9 	1 	words 	NNS
+Ecc 	5 	7 	1 	10 	1 	there 	RB
+Ecc 	5 	7 	1 	11 	1 	are 	VBP
+Ecc 	5 	7 	1 	12 	1 	also 	RB
+Ecc 	5 	7 	1 	13 	1 	divers 	NNS
+Ecc 	5 	7 	1 	14 	1 	vanities 	NNS
+Ecc 	5 	7 	1 	15 	0 	:
+Ecc 	5 	7 	1 	16 	1 	but 	CC
+Ecc 	5 	7 	1 	17 	1 	fear 	NN
+Ecc 	5 	7 	1 	18 	1 	thou 	NN
+Ecc 	5 	7 	1 	19 	1 	God 	NNP
+Ecc 	5 	7 	1 	20 	0 	.
+Ecc 	5 	8 	1 	1 	1 	If 	IN
+Ecc 	5 	8 	1 	2 	1 	thou 	NN
+Ecc 	5 	8 	1 	3 	1 	seest 	NN
+Ecc 	5 	8 	1 	4 	1 	the 	DT
+Ecc 	5 	8 	1 	5 	1 	oppression 	NN
+Ecc 	5 	8 	1 	6 	1 	of 	IN
+Ecc 	5 	8 	1 	7 	1 	the 	DT
+Ecc 	5 	8 	1 	8 	1 	poor 	JJ
+Ecc 	5 	8 	1 	9 	0 	,
+Ecc 	5 	8 	1 	10 	1 	and 	CC
+Ecc 	5 	8 	1 	11 	1 	violent 	NN
+Ecc 	5 	8 	1 	12 	1 	perverting 	VBG
+Ecc 	5 	8 	1 	13 	1 	of 	IN
+Ecc 	5 	8 	1 	14 	1 	judgment 	NN
+Ecc 	5 	8 	1 	15 	1 	and 	CC
+Ecc 	5 	8 	1 	16 	1 	justice 	NN
+Ecc 	5 	8 	1 	17 	1 	in 	IN
+Ecc 	5 	8 	1 	18 	1 	a 	DT
+Ecc 	5 	8 	1 	19 	1 	province 	NN
+Ecc 	5 	8 	1 	20 	0 	,
+Ecc 	5 	8 	1 	21 	1 	marvel 	NN
+Ecc 	5 	8 	1 	22 	1 	not 	RB
+Ecc 	5 	8 	1 	23 	1 	at 	IN
+Ecc 	5 	8 	1 	24 	1 	the 	DT
+Ecc 	5 	8 	1 	25 	1 	matter 	NN
+Ecc 	5 	8 	1 	26 	0 	:
+Ecc 	5 	8 	1 	27 	1 	for 	IN
+Ecc 	5 	8 	1 	28 	1 	he 	PRP
+Ecc 	5 	8 	1 	29 	1 	that 	IN
+Ecc 	5 	8 	1 	30 	1 	is 	VBZ
+Ecc 	5 	8 	1 	31 	1 	higher 	JJR
+Ecc 	5 	8 	1 	32 	1 	than 	IN
+Ecc 	5 	8 	1 	33 	1 	the 	DT
+Ecc 	5 	8 	1 	34 	1 	highest 	JJS
+Ecc 	5 	8 	1 	35 	1 	regardeth 	NN
+Ecc 	5 	8 	1 	36 	0 	;
+Ecc 	5 	8 	1 	37 	1 	and 	CC
+Ecc 	5 	8 	1 	38 	1 	there 	RB
+Ecc 	5 	8 	1 	39 	1 	be 	VB
+Ecc 	5 	8 	1 	40 	1 	higher 	JJR
+Ecc 	5 	8 	1 	41 	1 	than 	IN
+Ecc 	5 	8 	1 	42 	1 	they 	PRP
+Ecc 	5 	8 	1 	43 	0 	.
+Ecc 	5 	9 	1 	1 	1 	Moreover 	RB
+Ecc 	5 	9 	1 	2 	1 	the 	DT
+Ecc 	5 	9 	1 	3 	1 	profit 	NN
+Ecc 	5 	9 	1 	4 	1 	of 	IN
+Ecc 	5 	9 	1 	5 	1 	the 	DT
+Ecc 	5 	9 	1 	6 	1 	earth 	NN
+Ecc 	5 	9 	1 	7 	1 	is 	VBZ
+Ecc 	5 	9 	1 	8 	1 	for 	IN
+Ecc 	5 	9 	1 	9 	1 	all 	DT
+Ecc 	5 	9 	1 	10 	0 	:
+Ecc 	5 	9 	1 	11 	1 	the 	DT
+Ecc 	5 	9 	1 	12 	1 	king 	NN
+Ecc 	5 	9 	1 	13 	1 	himself 	PRP
+Ecc 	5 	9 	1 	14 	1 	is 	VBZ
+Ecc 	5 	9 	1 	15 	1 	served 	VBD
+Ecc 	5 	9 	1 	16 	1 	by 	IN
+Ecc 	5 	9 	1 	17 	1 	the 	DT
+Ecc 	5 	9 	1 	18 	1 	field 	NN
+Ecc 	5 	9 	1 	19 	0 	.
+Ecc 	5 	10 	1 	1 	1 	He 	PRP
+Ecc 	5 	10 	1 	2 	1 	that 	IN
+Ecc 	5 	10 	1 	3 	1 	loveth 	NN
+Ecc 	5 	10 	1 	4 	1 	silver 	NN
+Ecc 	5 	10 	1 	5 	1 	shall 	MD
+Ecc 	5 	10 	1 	6 	1 	not 	RB
+Ecc 	5 	10 	1 	7 	1 	be 	VB
+Ecc 	5 	10 	1 	8 	1 	satisfied 	JJ
+Ecc 	5 	10 	1 	9 	1 	with 	IN
+Ecc 	5 	10 	1 	10 	1 	silver 	NN
+Ecc 	5 	10 	1 	11 	0 	;
+Ecc 	5 	10 	1 	12 	1 	nor 	CC
+Ecc 	5 	10 	1 	13 	1 	he 	PRP
+Ecc 	5 	10 	1 	14 	1 	that 	IN
+Ecc 	5 	10 	1 	15 	1 	loveth 	NN
+Ecc 	5 	10 	1 	16 	1 	abundance 	NN
+Ecc 	5 	10 	1 	17 	1 	with 	IN
+Ecc 	5 	10 	1 	18 	1 	increase 	NN
+Ecc 	5 	10 	1 	19 	0 	:
+Ecc 	5 	10 	1 	20 	1 	this 	DT
+Ecc 	5 	10 	1 	21 	1 	is 	VBZ
+Ecc 	5 	10 	1 	22 	1 	also 	RB
+Ecc 	5 	10 	1 	23 	1 	vanity 	NN
+Ecc 	5 	10 	1 	24 	0 	.
+Ecc 	5 	11 	1 	1 	1 	When 	WRB
+Ecc 	5 	11 	1 	2 	1 	goods 	NNS
+Ecc 	5 	11 	1 	3 	1 	increase 	NN
+Ecc 	5 	11 	1 	4 	0 	,
+Ecc 	5 	11 	1 	5 	1 	they 	PRP
+Ecc 	5 	11 	1 	6 	1 	are 	VBP
+Ecc 	5 	11 	1 	7 	1 	increased 	VBN
+Ecc 	5 	11 	1 	8 	1 	that 	IN
+Ecc 	5 	11 	1 	9 	1 	eat 	NN
+Ecc 	5 	11 	1 	10 	1 	them 	PRP
+Ecc 	5 	11 	1 	11 	0 	:
+Ecc 	5 	11 	1 	12 	1 	and 	CC
+Ecc 	5 	11 	1 	13 	1 	what 	WP
+Ecc 	5 	11 	1 	14 	1 	good 	JJ
+Ecc 	5 	11 	1 	15 	1 	is 	VBZ
+Ecc 	5 	11 	1 	16 	1 	there 	RB
+Ecc 	5 	11 	1 	17 	1 	to 	TO
+Ecc 	5 	11 	1 	18 	1 	the 	DT
+Ecc 	5 	11 	1 	19 	1 	owners 	NNS
+Ecc 	5 	11 	1 	20 	1 	thereof 	NN
+Ecc 	5 	11 	1 	21 	0 	,
+Ecc 	5 	11 	1 	22 	1 	saving 	VBG
+Ecc 	5 	11 	1 	23 	1 	the 	DT
+Ecc 	5 	11 	1 	24 	1 	beholding 	NN
+Ecc 	5 	11 	1 	25 	1 	of 	IN
+Ecc 	5 	11 	1 	26 	1 	them 	PRP
+Ecc 	5 	11 	1 	27 	1 	with 	IN
+Ecc 	5 	11 	1 	28 	1 	their 	PRP$
+Ecc 	5 	11 	1 	29 	1 	eyes 	NNS
+Ecc 	5 	11 	1 	30 	0 	?
+Ecc 	5 	12 	1 	1 	1 	The 	DT
+Ecc 	5 	12 	1 	2 	1 	sleep 	NN
+Ecc 	5 	12 	1 	3 	1 	of 	IN
+Ecc 	5 	12 	1 	4 	1 	a 	DT
+Ecc 	5 	12 	1 	5 	1 	labouring 	VBG
+Ecc 	5 	12 	1 	6 	1 	man 	NN
+Ecc 	5 	12 	1 	7 	1 	is 	VBZ
+Ecc 	5 	12 	1 	8 	1 	sweet 	NN
+Ecc 	5 	12 	1 	9 	0 	,
+Ecc 	5 	12 	1 	10 	1 	whether 	IN
+Ecc 	5 	12 	1 	11 	1 	he 	PRP
+Ecc 	5 	12 	1 	12 	1 	eat 	NN
+Ecc 	5 	12 	1 	13 	1 	little 	JJ
+Ecc 	5 	12 	1 	14 	1 	or 	CC
+Ecc 	5 	12 	1 	15 	1 	much 	JJ
+Ecc 	5 	12 	1 	16 	0 	:
+Ecc 	5 	12 	1 	17 	1 	but 	CC
+Ecc 	5 	12 	1 	18 	1 	the 	DT
+Ecc 	5 	12 	1 	19 	1 	abundance 	NN
+Ecc 	5 	12 	1 	20 	1 	of 	IN
+Ecc 	5 	12 	1 	21 	1 	the 	DT
+Ecc 	5 	12 	1 	22 	1 	rich 	JJ
+Ecc 	5 	12 	1 	23 	1 	will 	MD
+Ecc 	5 	12 	1 	24 	1 	not 	RB
+Ecc 	5 	12 	1 	25 	1 	suffer 	NN
+Ecc 	5 	12 	1 	26 	1 	him 	PRP
+Ecc 	5 	12 	1 	27 	1 	to 	TO
+Ecc 	5 	12 	1 	28 	1 	sleep 	NN
+Ecc 	5 	12 	1 	29 	0 	.
+Ecc 	5 	13 	1 	1 	1 	There 	EX
+Ecc 	5 	13 	1 	2 	1 	is 	VBZ
+Ecc 	5 	13 	1 	3 	1 	a 	DT
+Ecc 	5 	13 	1 	4 	1 	sore 	NN
+Ecc 	5 	13 	1 	5 	1 	evil 	NN
+Ecc 	5 	13 	1 	6 	1 	which 	WDT
+Ecc 	5 	13 	1 	7 	1 	I 	PRP
+Ecc 	5 	13 	1 	8 	1 	have 	VB
+Ecc 	5 	13 	1 	9 	1 	seen 	VBN
+Ecc 	5 	13 	1 	10 	1 	under 	IN
+Ecc 	5 	13 	1 	11 	1 	the 	DT
+Ecc 	5 	13 	1 	12 	1 	sun 	NN
+Ecc 	5 	13 	1 	13 	0 	,
+Ecc 	5 	13 	1 	14 	1 	namely 	RB
+Ecc 	5 	13 	1 	15 	0 	,
+Ecc 	5 	13 	1 	16 	1 	riches 	NNS
+Ecc 	5 	13 	1 	17 	1 	kept 	NN
+Ecc 	5 	13 	1 	18 	1 	for 	IN
+Ecc 	5 	13 	1 	19 	1 	the 	DT
+Ecc 	5 	13 	1 	20 	1 	owners 	NNS
+Ecc 	5 	13 	1 	21 	1 	thereof 	NN
+Ecc 	5 	13 	1 	22 	1 	to 	TO
+Ecc 	5 	13 	1 	23 	1 	their 	PRP$
+Ecc 	5 	13 	1 	24 	1 	hurt 	NN
+Ecc 	5 	13 	1 	25 	0 	.
+Ecc 	5 	14 	1 	1 	1 	But 	CC
+Ecc 	5 	14 	1 	2 	1 	those 	DT
+Ecc 	5 	14 	1 	3 	1 	riches 	NNS
+Ecc 	5 	14 	1 	4 	1 	perish 	NN
+Ecc 	5 	14 	1 	5 	1 	by 	IN
+Ecc 	5 	14 	1 	6 	1 	evil 	NN
+Ecc 	5 	14 	1 	7 	1 	travail 	NN
+Ecc 	5 	14 	1 	8 	0 	:
+Ecc 	5 	14 	1 	9 	1 	and 	CC
+Ecc 	5 	14 	1 	10 	1 	he 	PRP
+Ecc 	5 	14 	1 	11 	1 	begetteth 	NN
+Ecc 	5 	14 	1 	12 	1 	a 	DT
+Ecc 	5 	14 	1 	13 	1 	son 	NN
+Ecc 	5 	14 	1 	14 	0 	,
+Ecc 	5 	14 	1 	15 	1 	and 	CC
+Ecc 	5 	14 	1 	16 	1 	there 	RB
+Ecc 	5 	14 	1 	17 	1 	is 	VBZ
+Ecc 	5 	14 	1 	18 	1 	nothing 	NN
+Ecc 	5 	14 	1 	19 	1 	in 	IN
+Ecc 	5 	14 	1 	20 	1 	his 	PRP$
+Ecc 	5 	14 	1 	21 	1 	hand 	NN
+Ecc 	5 	14 	1 	22 	0 	.
+Ecc 	5 	15 	1 	1 	1 	As 	IN
+Ecc 	5 	15 	1 	2 	1 	he 	PRP
+Ecc 	5 	15 	1 	3 	1 	came 	VBD
+Ecc 	5 	15 	1 	4 	1 	forth 	NN
+Ecc 	5 	15 	1 	5 	1 	of 	IN
+Ecc 	5 	15 	1 	6 	1 	his 	PRP$
+Ecc 	5 	15 	1 	7 	1 	mother 	NN
+Ecc 	5 	15 	1 	8 	0 	's
+Ecc 	5 	15 	1 	9 	1 	womb 	NN
+Ecc 	5 	15 	1 	10 	0 	,
+Ecc 	5 	15 	1 	11 	1 	naked 	JJ
+Ecc 	5 	15 	1 	12 	1 	shall 	MD
+Ecc 	5 	15 	1 	13 	1 	he 	PRP
+Ecc 	5 	15 	1 	14 	1 	return 	NN
+Ecc 	5 	15 	1 	15 	1 	to 	TO
+Ecc 	5 	15 	1 	16 	1 	go 	VB
+Ecc 	5 	15 	1 	17 	1 	as 	IN
+Ecc 	5 	15 	1 	18 	1 	he 	PRP
+Ecc 	5 	15 	1 	19 	1 	came 	VBD
+Ecc 	5 	15 	1 	20 	0 	,
+Ecc 	5 	15 	1 	21 	1 	and 	CC
+Ecc 	5 	15 	1 	22 	1 	shall 	MD
+Ecc 	5 	15 	1 	23 	1 	take 	VB
+Ecc 	5 	15 	1 	24 	1 	nothing 	NN
+Ecc 	5 	15 	1 	25 	1 	of 	IN
+Ecc 	5 	15 	1 	26 	1 	his 	PRP$
+Ecc 	5 	15 	1 	27 	1 	labour 	NN
+Ecc 	5 	15 	1 	28 	0 	,
+Ecc 	5 	15 	1 	29 	1 	which 	WDT
+Ecc 	5 	15 	1 	30 	1 	he 	PRP
+Ecc 	5 	15 	1 	31 	1 	may 	MD
+Ecc 	5 	15 	1 	32 	1 	carry 	NN
+Ecc 	5 	15 	1 	33 	1 	away 	RB
+Ecc 	5 	15 	1 	34 	1 	in 	IN
+Ecc 	5 	15 	1 	35 	1 	his 	PRP$
+Ecc 	5 	15 	1 	36 	1 	hand 	NN
+Ecc 	5 	15 	1 	37 	0 	.
+Ecc 	5 	16 	1 	1 	1 	And 	CC
+Ecc 	5 	16 	1 	2 	1 	this 	DT
+Ecc 	5 	16 	1 	3 	1 	also 	RB
+Ecc 	5 	16 	1 	4 	1 	is 	VBZ
+Ecc 	5 	16 	1 	5 	1 	a 	DT
+Ecc 	5 	16 	1 	6 	1 	sore 	NN
+Ecc 	5 	16 	1 	7 	1 	evil 	NN
+Ecc 	5 	16 	1 	8 	0 	,
+Ecc 	5 	16 	1 	9 	1 	that 	IN
+Ecc 	5 	16 	1 	10 	1 	in 	IN
+Ecc 	5 	16 	1 	11 	1 	all 	DT
+Ecc 	5 	16 	1 	12 	1 	points 	NNS
+Ecc 	5 	16 	1 	13 	1 	as 	IN
+Ecc 	5 	16 	1 	14 	1 	he 	PRP
+Ecc 	5 	16 	1 	15 	1 	came 	VBD
+Ecc 	5 	16 	1 	16 	0 	,
+Ecc 	5 	16 	1 	17 	1 	so 	RB
+Ecc 	5 	16 	1 	18 	1 	shall 	MD
+Ecc 	5 	16 	1 	19 	1 	he 	PRP
+Ecc 	5 	16 	1 	20 	1 	go 	VB
+Ecc 	5 	16 	1 	21 	0 	:
+Ecc 	5 	16 	1 	22 	1 	and 	CC
+Ecc 	5 	16 	1 	23 	1 	what 	WP
+Ecc 	5 	16 	1 	24 	1 	profit 	NN
+Ecc 	5 	16 	1 	25 	1 	hath 	NN
+Ecc 	5 	16 	1 	26 	1 	he 	PRP
+Ecc 	5 	16 	1 	27 	1 	that 	IN
+Ecc 	5 	16 	1 	28 	1 	hath 	NN
+Ecc 	5 	16 	1 	29 	1 	laboured 	VBN
+Ecc 	5 	16 	1 	30 	1 	for 	IN
+Ecc 	5 	16 	1 	31 	1 	the 	DT
+Ecc 	5 	16 	1 	32 	1 	wind 	NN
+Ecc 	5 	16 	1 	33 	0 	?
+Ecc 	5 	17 	1 	1 	1 	All 	DT
+Ecc 	5 	17 	1 	2 	1 	his 	PRP$
+Ecc 	5 	17 	1 	3 	1 	days 	NNS
+Ecc 	5 	17 	1 	4 	1 	also 	RB
+Ecc 	5 	17 	1 	5 	1 	he 	PRP
+Ecc 	5 	17 	1 	6 	1 	eateth 	NNS
+Ecc 	5 	17 	1 	7 	1 	in 	IN
+Ecc 	5 	17 	1 	8 	1 	darkness 	NN
+Ecc 	5 	17 	1 	9 	0 	,
+Ecc 	5 	17 	1 	10 	1 	and 	CC
+Ecc 	5 	17 	1 	11 	1 	he 	PRP
+Ecc 	5 	17 	1 	12 	1 	hath 	NN
+Ecc 	5 	17 	1 	13 	1 	much 	JJ
+Ecc 	5 	17 	1 	14 	1 	sorrow 	NN
+Ecc 	5 	17 	1 	15 	1 	and 	CC
+Ecc 	5 	17 	1 	16 	1 	wrath 	NN
+Ecc 	5 	17 	1 	17 	1 	with 	IN
+Ecc 	5 	17 	1 	18 	1 	his 	PRP$
+Ecc 	5 	17 	1 	19 	1 	sickness 	NN
+Ecc 	5 	17 	1 	20 	0 	.
+Ecc 	5 	18 	1 	1 	1 	Behold 	NN
+Ecc 	5 	18 	1 	2 	1 	that 	IN
+Ecc 	5 	18 	1 	3 	1 	which 	WDT
+Ecc 	5 	18 	1 	4 	1 	I 	PRP
+Ecc 	5 	18 	1 	5 	1 	have 	VB
+Ecc 	5 	18 	1 	6 	1 	seen 	VBN
+Ecc 	5 	18 	1 	7 	0 	:
+Ecc 	5 	18 	1 	8 	1 	it 	PRP
+Ecc 	5 	18 	1 	9 	1 	is 	VBZ
+Ecc 	5 	18 	1 	10 	1 	good 	JJ
+Ecc 	5 	18 	1 	11 	1 	and 	CC
+Ecc 	5 	18 	1 	12 	1 	comely 	RB
+Ecc 	5 	18 	1 	13 	1 	for 	IN
+Ecc 	5 	18 	1 	14 	1 	one 	CD
+Ecc 	5 	18 	1 	15 	1 	to 	TO
+Ecc 	5 	18 	1 	16 	1 	eat 	NN
+Ecc 	5 	18 	1 	17 	1 	and 	CC
+Ecc 	5 	18 	1 	18 	1 	to 	TO
+Ecc 	5 	18 	1 	19 	1 	drink 	NN
+Ecc 	5 	18 	1 	20 	0 	,
+Ecc 	5 	18 	1 	21 	1 	and 	CC
+Ecc 	5 	18 	1 	22 	1 	to 	TO
+Ecc 	5 	18 	1 	23 	1 	enjoy 	NN
+Ecc 	5 	18 	1 	24 	1 	the 	DT
+Ecc 	5 	18 	1 	25 	1 	good 	JJ
+Ecc 	5 	18 	1 	26 	1 	of 	IN
+Ecc 	5 	18 	1 	27 	1 	all 	DT
+Ecc 	5 	18 	1 	28 	1 	his 	PRP$
+Ecc 	5 	18 	1 	29 	1 	labour 	NN
+Ecc 	5 	18 	1 	30 	1 	that 	IN
+Ecc 	5 	18 	1 	31 	1 	he 	PRP
+Ecc 	5 	18 	1 	32 	1 	taketh 	NNS
+Ecc 	5 	18 	1 	33 	1 	under 	IN
+Ecc 	5 	18 	1 	34 	1 	the 	DT
+Ecc 	5 	18 	1 	35 	1 	sun 	NN
+Ecc 	5 	18 	1 	36 	1 	all 	DT
+Ecc 	5 	18 	1 	37 	1 	the 	DT
+Ecc 	5 	18 	1 	38 	1 	days 	NNS
+Ecc 	5 	18 	1 	39 	1 	of 	IN
+Ecc 	5 	18 	1 	40 	1 	his 	PRP$
+Ecc 	5 	18 	1 	41 	1 	life 	NN
+Ecc 	5 	18 	1 	42 	0 	,
+Ecc 	5 	18 	1 	43 	1 	which 	WDT
+Ecc 	5 	18 	1 	44 	1 	God 	NNP
+Ecc 	5 	18 	1 	45 	1 	giveth 	NNS
+Ecc 	5 	18 	1 	46 	1 	him 	PRP
+Ecc 	5 	18 	1 	47 	0 	:
+Ecc 	5 	18 	1 	48 	1 	for 	IN
+Ecc 	5 	18 	1 	49 	1 	it 	PRP
+Ecc 	5 	18 	1 	50 	1 	is 	VBZ
+Ecc 	5 	18 	1 	51 	1 	his 	PRP$
+Ecc 	5 	18 	1 	52 	1 	portion 	NN
+Ecc 	5 	18 	1 	53 	0 	.
+Ecc 	5 	19 	1 	1 	1 	very 	RB
+Ecc 	5 	19 	1 	2 	1 	man 	NN
+Ecc 	5 	19 	1 	3 	1 	also 	RB
+Ecc 	5 	19 	1 	4 	1 	to 	TO
+Ecc 	5 	19 	1 	5 	1 	whom 	WP
+Ecc 	5 	19 	1 	6 	1 	God 	NNP
+Ecc 	5 	19 	1 	7 	1 	hath 	NN
+Ecc 	5 	19 	1 	8 	1 	given 	VBN
+Ecc 	5 	19 	1 	9 	1 	riches 	NNS
+Ecc 	5 	19 	1 	10 	1 	and 	CC
+Ecc 	5 	19 	1 	11 	1 	wealth 	NN
+Ecc 	5 	19 	1 	12 	0 	,
+Ecc 	5 	19 	1 	13 	1 	and 	CC
+Ecc 	5 	19 	1 	14 	1 	hath 	NN
+Ecc 	5 	19 	1 	15 	1 	given 	VBN
+Ecc 	5 	19 	1 	16 	1 	him 	PRP
+Ecc 	5 	19 	1 	17 	1 	power 	NN
+Ecc 	5 	19 	1 	18 	1 	to 	TO
+Ecc 	5 	19 	1 	19 	1 	eat 	NN
+Ecc 	5 	19 	1 	20 	1 	thereof 	NN
+Ecc 	5 	19 	1 	21 	0 	,
+Ecc 	5 	19 	1 	22 	1 	and 	CC
+Ecc 	5 	19 	1 	23 	1 	to 	TO
+Ecc 	5 	19 	1 	24 	1 	take 	VB
+Ecc 	5 	19 	1 	25 	1 	his 	PRP$
+Ecc 	5 	19 	1 	26 	1 	portion 	NN
+Ecc 	5 	19 	1 	27 	0 	,
+Ecc 	5 	19 	1 	28 	1 	and 	CC
+Ecc 	5 	19 	1 	29 	1 	to 	TO
+Ecc 	5 	19 	1 	30 	1 	rejoice 	NN
+Ecc 	5 	19 	1 	31 	1 	in 	IN
+Ecc 	5 	19 	1 	32 	1 	his 	PRP$
+Ecc 	5 	19 	1 	33 	1 	labour 	NN
+Ecc 	5 	19 	1 	34 	0 	;
+Ecc 	5 	19 	1 	35 	1 	this 	DT
+Ecc 	5 	19 	1 	36 	1 	is 	VBZ
+Ecc 	5 	19 	1 	37 	1 	the 	DT
+Ecc 	5 	19 	1 	38 	1 	gift 	NN
+Ecc 	5 	19 	1 	39 	1 	of 	IN
+Ecc 	5 	19 	1 	40 	1 	God 	NNP
+Ecc 	5 	19 	1 	41 	0 	.
+Ecc 	5 	20 	1 	1 	1 	For 	IN
+Ecc 	5 	20 	1 	2 	1 	he 	PRP
+Ecc 	5 	20 	1 	3 	1 	shall 	MD
+Ecc 	5 	20 	1 	4 	1 	not 	RB
+Ecc 	5 	20 	1 	5 	1 	much 	JJ
+Ecc 	5 	20 	1 	6 	1 	remember 	VB
+Ecc 	5 	20 	1 	7 	1 	the 	DT
+Ecc 	5 	20 	1 	8 	1 	days 	NNS
+Ecc 	5 	20 	1 	9 	1 	of 	IN
+Ecc 	5 	20 	1 	10 	1 	his 	PRP$
+Ecc 	5 	20 	1 	11 	1 	life 	NN
+Ecc 	5 	20 	1 	12 	0 	;
+Ecc 	5 	20 	1 	13 	1 	because 	IN
+Ecc 	5 	20 	1 	14 	1 	God 	NNP
+Ecc 	5 	20 	1 	15 	1 	answereth 	NNS
+Ecc 	5 	20 	1 	16 	1 	him 	PRP
+Ecc 	5 	20 	1 	17 	1 	in 	IN
+Ecc 	5 	20 	1 	18 	1 	the 	DT
+Ecc 	5 	20 	1 	19 	1 	joy 	NN
+Ecc 	5 	20 	1 	20 	1 	of 	IN
+Ecc 	5 	20 	1 	21 	1 	his 	PRP$
+Ecc 	5 	20 	1 	22 	1 	heart 	NN
+Ecc 	5 	20 	1 	23 	0 	.
+Ecc 	6 	1 	1 	1 	1 	There 	EX
+Ecc 	6 	1 	1 	2 	1 	is 	VBZ
+Ecc 	6 	1 	1 	3 	1 	an 	DT
+Ecc 	6 	1 	1 	4 	1 	evil 	NN
+Ecc 	6 	1 	1 	5 	1 	which 	WDT
+Ecc 	6 	1 	1 	6 	1 	I 	PRP
+Ecc 	6 	1 	1 	7 	1 	have 	VB
+Ecc 	6 	1 	1 	8 	1 	seen 	VBN
+Ecc 	6 	1 	1 	9 	1 	under 	IN
+Ecc 	6 	1 	1 	10 	1 	the 	DT
+Ecc 	6 	1 	1 	11 	1 	sun 	NN
+Ecc 	6 	1 	1 	12 	0 	,
+Ecc 	6 	1 	1 	13 	1 	and 	CC
+Ecc 	6 	1 	1 	14 	1 	it 	PRP
+Ecc 	6 	1 	1 	15 	1 	is 	VBZ
+Ecc 	6 	1 	1 	16 	1 	common 	JJ
+Ecc 	6 	1 	1 	17 	1 	among 	IN
+Ecc 	6 	1 	1 	18 	1 	men 	NNS
+Ecc 	6 	1 	1 	19 	0 	:
+Ecc 	6 	2 	1 	1 	1 	A 	DT
+Ecc 	6 	2 	1 	2 	1 	man 	NN
+Ecc 	6 	2 	1 	3 	1 	to 	TO
+Ecc 	6 	2 	1 	4 	1 	whom 	WP
+Ecc 	6 	2 	1 	5 	1 	God 	NNP
+Ecc 	6 	2 	1 	6 	1 	hath 	NN
+Ecc 	6 	2 	1 	7 	1 	given 	VBN
+Ecc 	6 	2 	1 	8 	1 	riches 	NNS
+Ecc 	6 	2 	1 	9 	0 	,
+Ecc 	6 	2 	1 	10 	1 	wealth 	NN
+Ecc 	6 	2 	1 	11 	0 	,
+Ecc 	6 	2 	1 	12 	1 	and 	CC
+Ecc 	6 	2 	1 	13 	1 	honour 	NN
+Ecc 	6 	2 	1 	14 	0 	,
+Ecc 	6 	2 	1 	15 	1 	so 	RB
+Ecc 	6 	2 	1 	16 	1 	that 	IN
+Ecc 	6 	2 	1 	17 	1 	he 	PRP
+Ecc 	6 	2 	1 	18 	1 	wanteth 	NNS
+Ecc 	6 	2 	1 	19 	1 	nothing 	NN
+Ecc 	6 	2 	1 	20 	1 	for 	IN
+Ecc 	6 	2 	1 	21 	1 	his 	PRP$
+Ecc 	6 	2 	1 	22 	1 	soul 	NN
+Ecc 	6 	2 	1 	23 	1 	of 	IN
+Ecc 	6 	2 	1 	24 	1 	all 	DT
+Ecc 	6 	2 	1 	25 	1 	that 	IN
+Ecc 	6 	2 	1 	26 	1 	he 	PRP
+Ecc 	6 	2 	1 	27 	1 	desireth 	NN
+Ecc 	6 	2 	1 	28 	0 	,
+Ecc 	6 	2 	1 	29 	1 	yet 	RB
+Ecc 	6 	2 	1 	30 	1 	God 	NNP
+Ecc 	6 	2 	1 	31 	1 	giveth 	NNS
+Ecc 	6 	2 	1 	32 	1 	him 	PRP
+Ecc 	6 	2 	1 	33 	1 	not 	RB
+Ecc 	6 	2 	1 	34 	1 	power 	NN
+Ecc 	6 	2 	1 	35 	1 	to 	TO
+Ecc 	6 	2 	1 	36 	1 	eat 	NN
+Ecc 	6 	2 	1 	37 	1 	thereof 	NN
+Ecc 	6 	2 	1 	38 	0 	,
+Ecc 	6 	2 	1 	39 	1 	but 	CC
+Ecc 	6 	2 	1 	40 	1 	a 	DT
+Ecc 	6 	2 	1 	41 	1 	stranger 	NN
+Ecc 	6 	2 	1 	42 	1 	eateth 	NNS
+Ecc 	6 	2 	1 	43 	1 	it 	PRP
+Ecc 	6 	2 	1 	44 	0 	:
+Ecc 	6 	2 	1 	45 	1 	this 	DT
+Ecc 	6 	2 	1 	46 	1 	is 	VBZ
+Ecc 	6 	2 	1 	47 	1 	vanity 	NN
+Ecc 	6 	2 	1 	48 	0 	,
+Ecc 	6 	2 	1 	49 	1 	and 	CC
+Ecc 	6 	2 	1 	50 	1 	it 	PRP
+Ecc 	6 	2 	1 	51 	1 	is 	VBZ
+Ecc 	6 	2 	1 	52 	1 	an 	DT
+Ecc 	6 	2 	1 	53 	1 	evil 	NN
+Ecc 	6 	2 	1 	54 	1 	disease 	NN
+Ecc 	6 	2 	1 	55 	0 	.
+Ecc 	6 	3 	1 	1 	1 	If 	IN
+Ecc 	6 	3 	1 	2 	1 	a 	DT
+Ecc 	6 	3 	1 	3 	1 	man 	NN
+Ecc 	6 	3 	1 	4 	1 	beget 	NN
+Ecc 	6 	3 	1 	5 	1 	an 	DT
+Ecc 	6 	3 	1 	6 	1 	hundred 	VBN
+Ecc 	6 	3 	1 	7 	1 	children 	NNS
+Ecc 	6 	3 	1 	8 	0 	,
+Ecc 	6 	3 	1 	9 	1 	and 	CC
+Ecc 	6 	3 	1 	10 	1 	live 	JJ
+Ecc 	6 	3 	1 	11 	1 	many 	JJ
+Ecc 	6 	3 	1 	12 	1 	years 	NNS
+Ecc 	6 	3 	1 	13 	0 	,
+Ecc 	6 	3 	1 	14 	1 	so 	RB
+Ecc 	6 	3 	1 	15 	1 	that 	IN
+Ecc 	6 	3 	1 	16 	1 	the 	DT
+Ecc 	6 	3 	1 	17 	1 	days 	NNS
+Ecc 	6 	3 	1 	18 	1 	of 	IN
+Ecc 	6 	3 	1 	19 	1 	his 	PRP$
+Ecc 	6 	3 	1 	20 	1 	years 	NNS
+Ecc 	6 	3 	1 	21 	1 	be 	VB
+Ecc 	6 	3 	1 	22 	1 	many 	JJ
+Ecc 	6 	3 	1 	23 	0 	,
+Ecc 	6 	3 	1 	24 	1 	and 	CC
+Ecc 	6 	3 	1 	25 	1 	his 	PRP$
+Ecc 	6 	3 	1 	26 	1 	soul 	NN
+Ecc 	6 	3 	1 	27 	1 	be 	VB
+Ecc 	6 	3 	1 	28 	1 	not 	RB
+Ecc 	6 	3 	1 	29 	1 	filled 	VBN
+Ecc 	6 	3 	1 	30 	1 	with 	IN
+Ecc 	6 	3 	1 	31 	1 	good 	JJ
+Ecc 	6 	3 	1 	32 	0 	,
+Ecc 	6 	3 	1 	33 	1 	and 	CC
+Ecc 	6 	3 	1 	34 	1 	also 	RB
+Ecc 	6 	3 	1 	35 	1 	that 	IN
+Ecc 	6 	3 	1 	36 	1 	he 	PRP
+Ecc 	6 	3 	1 	37 	1 	have 	VB
+Ecc 	6 	3 	1 	38 	1 	no 	DT
+Ecc 	6 	3 	1 	39 	1 	burial 	NN
+Ecc 	6 	3 	1 	40 	0 	;
+Ecc 	6 	3 	1 	41 	1 	I 	PRP
+Ecc 	6 	3 	1 	42 	1 	say 	VB
+Ecc 	6 	3 	1 	43 	0 	,
+Ecc 	6 	3 	1 	44 	1 	that 	IN
+Ecc 	6 	3 	1 	45 	1 	an 	DT
+Ecc 	6 	3 	1 	46 	1 	untimely 	RB
+Ecc 	6 	3 	1 	47 	1 	birth 	NN
+Ecc 	6 	3 	1 	48 	1 	is 	VBZ
+Ecc 	6 	3 	1 	49 	1 	better 	RBR
+Ecc 	6 	3 	1 	50 	1 	than 	IN
+Ecc 	6 	3 	1 	51 	1 	he 	PRP
+Ecc 	6 	3 	1 	52 	0 	.
+Ecc 	6 	4 	1 	1 	1 	For 	IN
+Ecc 	6 	4 	1 	2 	1 	he 	PRP
+Ecc 	6 	4 	1 	3 	1 	cometh 	NNS
+Ecc 	6 	4 	1 	4 	1 	in 	IN
+Ecc 	6 	4 	1 	5 	1 	with 	IN
+Ecc 	6 	4 	1 	6 	1 	vanity 	NN
+Ecc 	6 	4 	1 	7 	0 	,
+Ecc 	6 	4 	1 	8 	1 	and 	CC
+Ecc 	6 	4 	1 	9 	1 	departeth 	NN
+Ecc 	6 	4 	1 	10 	1 	in 	IN
+Ecc 	6 	4 	1 	11 	1 	darkness 	NN
+Ecc 	6 	4 	1 	12 	0 	,
+Ecc 	6 	4 	1 	13 	1 	and 	CC
+Ecc 	6 	4 	1 	14 	1 	his 	PRP$
+Ecc 	6 	4 	1 	15 	1 	name 	NN
+Ecc 	6 	4 	1 	16 	1 	shall 	MD
+Ecc 	6 	4 	1 	17 	1 	be 	VB
+Ecc 	6 	4 	1 	18 	1 	covered 	VBN
+Ecc 	6 	4 	1 	19 	1 	with 	IN
+Ecc 	6 	4 	1 	20 	1 	darkness 	NN
+Ecc 	6 	4 	1 	21 	0 	.
+Ecc 	6 	5 	1 	1 	1 	Moreover 	RB
+Ecc 	6 	5 	1 	2 	1 	he 	PRP
+Ecc 	6 	5 	1 	3 	1 	hath 	NN
+Ecc 	6 	5 	1 	4 	1 	not 	RB
+Ecc 	6 	5 	1 	5 	1 	seen 	VBN
+Ecc 	6 	5 	1 	6 	1 	the 	DT
+Ecc 	6 	5 	1 	7 	1 	sun 	NN
+Ecc 	6 	5 	1 	8 	0 	,
+Ecc 	6 	5 	1 	9 	1 	nor 	CC
+Ecc 	6 	5 	1 	10 	1 	known 	VBN
+Ecc 	6 	5 	1 	11 	1 	any 	DT
+Ecc 	6 	5 	1 	12 	1 	thing 	NN
+Ecc 	6 	5 	1 	13 	0 	:
+Ecc 	6 	5 	1 	14 	1 	this 	DT
+Ecc 	6 	5 	1 	15 	1 	hath 	NN
+Ecc 	6 	5 	1 	16 	1 	more 	RBR
+Ecc 	6 	5 	1 	17 	1 	rest 	NN
+Ecc 	6 	5 	1 	18 	1 	than 	IN
+Ecc 	6 	5 	1 	19 	1 	the 	DT
+Ecc 	6 	5 	1 	20 	1 	other 	JJ
+Ecc 	6 	5 	1 	21 	0 	.
+Ecc 	6 	6 	1 	1 	1 	Yea 	NN
+Ecc 	6 	6 	1 	2 	0 	,
+Ecc 	6 	6 	1 	3 	1 	though 	IN
+Ecc 	6 	6 	1 	4 	1 	he 	PRP
+Ecc 	6 	6 	1 	5 	1 	live 	JJ
+Ecc 	6 	6 	1 	6 	1 	a 	DT
+Ecc 	6 	6 	1 	7 	1 	thousand 	NN
+Ecc 	6 	6 	1 	8 	1 	years 	NNS
+Ecc 	6 	6 	1 	9 	1 	twice 	RB
+Ecc 	6 	6 	1 	10 	1 	told 	NN
+Ecc 	6 	6 	1 	11 	0 	,
+Ecc 	6 	6 	1 	12 	1 	yet 	RB
+Ecc 	6 	6 	1 	13 	1 	hath 	NN
+Ecc 	6 	6 	1 	14 	1 	he 	PRP
+Ecc 	6 	6 	1 	15 	1 	seen 	VBN
+Ecc 	6 	6 	1 	16 	1 	no 	DT
+Ecc 	6 	6 	1 	17 	1 	good 	JJ
+Ecc 	6 	6 	1 	18 	0 	:
+Ecc 	6 	6 	1 	19 	1 	do 	VB
+Ecc 	6 	6 	1 	20 	1 	not 	RB
+Ecc 	6 	6 	1 	21 	1 	all 	DT
+Ecc 	6 	6 	1 	22 	1 	go 	VB
+Ecc 	6 	6 	1 	23 	1 	to 	TO
+Ecc 	6 	6 	1 	24 	1 	one 	CD
+Ecc 	6 	6 	1 	25 	1 	place 	NN
+Ecc 	6 	6 	1 	26 	0 	?
+Ecc 	6 	7 	1 	1 	1 	All 	DT
+Ecc 	6 	7 	1 	2 	1 	the 	DT
+Ecc 	6 	7 	1 	3 	1 	labour 	NN
+Ecc 	6 	7 	1 	4 	1 	of 	IN
+Ecc 	6 	7 	1 	5 	1 	man 	NN
+Ecc 	6 	7 	1 	6 	1 	is 	VBZ
+Ecc 	6 	7 	1 	7 	1 	for 	IN
+Ecc 	6 	7 	1 	8 	1 	his 	PRP$
+Ecc 	6 	7 	1 	9 	1 	mouth 	NN
+Ecc 	6 	7 	1 	10 	0 	,
+Ecc 	6 	7 	1 	11 	1 	and 	CC
+Ecc 	6 	7 	1 	12 	1 	yet 	RB
+Ecc 	6 	7 	1 	13 	1 	the 	DT
+Ecc 	6 	7 	1 	14 	1 	appetite 	NN
+Ecc 	6 	7 	1 	15 	1 	is 	VBZ
+Ecc 	6 	7 	1 	16 	1 	not 	RB
+Ecc 	6 	7 	1 	17 	1 	filled 	VBN
+Ecc 	6 	7 	1 	18 	0 	.
+Ecc 	6 	8 	1 	1 	1 	For 	IN
+Ecc 	6 	8 	1 	2 	1 	what 	WP
+Ecc 	6 	8 	1 	3 	1 	hath 	NN
+Ecc 	6 	8 	1 	4 	1 	the 	DT
+Ecc 	6 	8 	1 	5 	1 	wise 	NN
+Ecc 	6 	8 	1 	6 	1 	more 	RBR
+Ecc 	6 	8 	1 	7 	1 	than 	IN
+Ecc 	6 	8 	1 	8 	1 	the 	DT
+Ecc 	6 	8 	1 	9 	1 	fool 	NN
+Ecc 	6 	8 	1 	10 	0 	?
+Ecc 	6 	8 	2 	1 	1 	what 	WP
+Ecc 	6 	8 	2 	2 	1 	hath 	NN
+Ecc 	6 	8 	2 	3 	1 	the 	DT
+Ecc 	6 	8 	2 	4 	1 	poor 	JJ
+Ecc 	6 	8 	2 	5 	0 	,
+Ecc 	6 	8 	2 	6 	1 	that 	IN
+Ecc 	6 	8 	2 	7 	1 	knoweth 	NNS
+Ecc 	6 	8 	2 	8 	1 	to 	TO
+Ecc 	6 	8 	2 	9 	1 	walk 	NN
+Ecc 	6 	8 	2 	10 	1 	before 	IN
+Ecc 	6 	8 	2 	11 	1 	the 	DT
+Ecc 	6 	8 	2 	12 	1 	living 	NN
+Ecc 	6 	8 	2 	13 	0 	?
+Ecc 	6 	9 	1 	1 	1 	Better 	RBR
+Ecc 	6 	9 	1 	2 	1 	is 	VBZ
+Ecc 	6 	9 	1 	3 	1 	the 	DT
+Ecc 	6 	9 	1 	4 	1 	sight 	NN
+Ecc 	6 	9 	1 	5 	1 	of 	IN
+Ecc 	6 	9 	1 	6 	1 	the 	DT
+Ecc 	6 	9 	1 	7 	1 	eyes 	NNS
+Ecc 	6 	9 	1 	8 	1 	than 	IN
+Ecc 	6 	9 	1 	9 	1 	the 	DT
+Ecc 	6 	9 	1 	10 	1 	wandering 	VBG
+Ecc 	6 	9 	1 	11 	1 	of 	IN
+Ecc 	6 	9 	1 	12 	1 	the 	DT
+Ecc 	6 	9 	1 	13 	1 	desire 	NN
+Ecc 	6 	9 	1 	14 	0 	:
+Ecc 	6 	9 	1 	15 	1 	this 	DT
+Ecc 	6 	9 	1 	16 	1 	is 	VBZ
+Ecc 	6 	9 	1 	17 	1 	also 	RB
+Ecc 	6 	9 	1 	18 	1 	vanity 	NN
+Ecc 	6 	9 	1 	19 	1 	and 	CC
+Ecc 	6 	9 	1 	20 	1 	vexation 	NN
+Ecc 	6 	9 	1 	21 	1 	of 	IN
+Ecc 	6 	9 	1 	22 	1 	spirit 	NN
+Ecc 	6 	9 	1 	23 	0 	.
+Ecc 	6 	10 	1 	1 	1 	That 	DT
+Ecc 	6 	10 	1 	2 	1 	which 	WDT
+Ecc 	6 	10 	1 	3 	1 	hath 	NN
+Ecc 	6 	10 	1 	4 	1 	been 	VBN
+Ecc 	6 	10 	1 	5 	1 	is 	VBZ
+Ecc 	6 	10 	1 	6 	1 	named 	VBN
+Ecc 	6 	10 	1 	7 	1 	already 	RB
+Ecc 	6 	10 	1 	8 	0 	,
+Ecc 	6 	10 	1 	9 	1 	and 	CC
+Ecc 	6 	10 	1 	10 	1 	it 	PRP
+Ecc 	6 	10 	1 	11 	1 	is 	VBZ
+Ecc 	6 	10 	1 	12 	1 	known 	VBN
+Ecc 	6 	10 	1 	13 	1 	that 	IN
+Ecc 	6 	10 	1 	14 	1 	it 	PRP
+Ecc 	6 	10 	1 	15 	1 	is 	VBZ
+Ecc 	6 	10 	1 	16 	1 	man 	NN
+Ecc 	6 	10 	1 	17 	0 	:
+Ecc 	6 	10 	1 	18 	1 	neither 	DT
+Ecc 	6 	10 	1 	19 	1 	may 	MD
+Ecc 	6 	10 	1 	20 	1 	he 	PRP
+Ecc 	6 	10 	1 	21 	1 	contend 	NN
+Ecc 	6 	10 	1 	22 	1 	with 	IN
+Ecc 	6 	10 	1 	23 	1 	him 	PRP
+Ecc 	6 	10 	1 	24 	1 	that 	IN
+Ecc 	6 	10 	1 	25 	1 	is 	VBZ
+Ecc 	6 	10 	1 	26 	1 	mightier 	NN
+Ecc 	6 	10 	1 	27 	1 	than 	IN
+Ecc 	6 	10 	1 	28 	1 	he 	PRP
+Ecc 	6 	10 	1 	29 	0 	.
+Ecc 	6 	11 	1 	1 	1 	Seeing 	VBG
+Ecc 	6 	11 	1 	2 	1 	there 	RB
+Ecc 	6 	11 	1 	3 	1 	be 	VB
+Ecc 	6 	11 	1 	4 	1 	many 	JJ
+Ecc 	6 	11 	1 	5 	1 	things 	NNS
+Ecc 	6 	11 	1 	6 	1 	that 	IN
+Ecc 	6 	11 	1 	7 	1 	increase 	NN
+Ecc 	6 	11 	1 	8 	1 	vanity 	NN
+Ecc 	6 	11 	1 	9 	0 	,
+Ecc 	6 	11 	1 	10 	1 	what 	WP
+Ecc 	6 	11 	1 	11 	1 	is 	VBZ
+Ecc 	6 	11 	1 	12 	1 	man 	NN
+Ecc 	6 	11 	1 	13 	1 	the 	DT
+Ecc 	6 	11 	1 	14 	1 	better 	RBR
+Ecc 	6 	11 	1 	15 	0 	?
+Ecc 	6 	12 	1 	1 	1 	For 	IN
+Ecc 	6 	12 	1 	2 	1 	who 	WP
+Ecc 	6 	12 	1 	3 	1 	knoweth 	NNS
+Ecc 	6 	12 	1 	4 	1 	what 	WP
+Ecc 	6 	12 	1 	5 	1 	is 	VBZ
+Ecc 	6 	12 	1 	6 	1 	good 	JJ
+Ecc 	6 	12 	1 	7 	1 	for 	IN
+Ecc 	6 	12 	1 	8 	1 	man 	NN
+Ecc 	6 	12 	1 	9 	1 	in 	IN
+Ecc 	6 	12 	1 	10 	1 	this 	DT
+Ecc 	6 	12 	1 	11 	1 	life 	NN
+Ecc 	6 	12 	1 	12 	0 	,
+Ecc 	6 	12 	1 	13 	1 	all 	DT
+Ecc 	6 	12 	1 	14 	1 	the 	DT
+Ecc 	6 	12 	1 	15 	1 	days 	NNS
+Ecc 	6 	12 	1 	16 	1 	of 	IN
+Ecc 	6 	12 	1 	17 	1 	his 	PRP$
+Ecc 	6 	12 	1 	18 	1 	vain 	NN
+Ecc 	6 	12 	1 	19 	1 	life 	NN
+Ecc 	6 	12 	1 	20 	1 	which 	WDT
+Ecc 	6 	12 	1 	21 	1 	he 	PRP
+Ecc 	6 	12 	1 	22 	1 	spendeth 	NN
+Ecc 	6 	12 	1 	23 	1 	as 	IN
+Ecc 	6 	12 	1 	24 	1 	a 	DT
+Ecc 	6 	12 	1 	25 	1 	shadow 	NN
+Ecc 	6 	12 	1 	26 	0 	?
+Ecc 	6 	12 	2 	1 	1 	for 	IN
+Ecc 	6 	12 	2 	2 	1 	who 	WP
+Ecc 	6 	12 	2 	3 	1 	can 	MD
+Ecc 	6 	12 	2 	4 	1 	tell 	NN
+Ecc 	6 	12 	2 	5 	1 	a 	DT
+Ecc 	6 	12 	2 	6 	1 	man 	NN
+Ecc 	6 	12 	2 	7 	1 	what 	WP
+Ecc 	6 	12 	2 	8 	1 	shall 	MD
+Ecc 	6 	12 	2 	9 	1 	be 	VB
+Ecc 	6 	12 	2 	10 	1 	after 	IN
+Ecc 	6 	12 	2 	11 	1 	him 	PRP
+Ecc 	6 	12 	2 	12 	1 	under 	IN
+Ecc 	6 	12 	2 	13 	1 	the 	DT
+Ecc 	6 	12 	2 	14 	1 	sun 	NN
+Ecc 	6 	12 	2 	15 	0 	?
+Ecc 	7 	1 	1 	1 	1 	A 	DT
+Ecc 	7 	1 	1 	2 	1 	good 	JJ
+Ecc 	7 	1 	1 	3 	1 	name 	NN
+Ecc 	7 	1 	1 	4 	1 	is 	VBZ
+Ecc 	7 	1 	1 	5 	1 	better 	RBR
+Ecc 	7 	1 	1 	6 	1 	than 	IN
+Ecc 	7 	1 	1 	7 	1 	precious 	JJ
+Ecc 	7 	1 	1 	8 	1 	ointment 	NN
+Ecc 	7 	1 	1 	9 	0 	;
+Ecc 	7 	1 	1 	10 	1 	and 	CC
+Ecc 	7 	1 	1 	11 	1 	the 	DT
+Ecc 	7 	1 	1 	12 	1 	day 	NN
+Ecc 	7 	1 	1 	13 	1 	of 	IN
+Ecc 	7 	1 	1 	14 	1 	death 	NN
+Ecc 	7 	1 	1 	15 	1 	than 	IN
+Ecc 	7 	1 	1 	16 	1 	the 	DT
+Ecc 	7 	1 	1 	17 	1 	day 	NN
+Ecc 	7 	1 	1 	18 	1 	of 	IN
+Ecc 	7 	1 	1 	19 	1 	one 	CD
+Ecc 	7 	1 	1 	20 	0 	's
+Ecc 	7 	1 	1 	21 	1 	birth 	NN
+Ecc 	7 	1 	1 	22 	0 	.
+Ecc 	7 	2 	1 	1 	1 	It 	PRP
+Ecc 	7 	2 	1 	2 	1 	is 	VBZ
+Ecc 	7 	2 	1 	3 	1 	better 	RBR
+Ecc 	7 	2 	1 	4 	1 	to 	TO
+Ecc 	7 	2 	1 	5 	1 	go 	VB
+Ecc 	7 	2 	1 	6 	1 	to 	TO
+Ecc 	7 	2 	1 	7 	1 	the 	DT
+Ecc 	7 	2 	1 	8 	1 	house 	NN
+Ecc 	7 	2 	1 	9 	1 	of 	IN
+Ecc 	7 	2 	1 	10 	1 	mourning 	VBG
+Ecc 	7 	2 	1 	11 	0 	,
+Ecc 	7 	2 	1 	12 	1 	than 	IN
+Ecc 	7 	2 	1 	13 	1 	to 	TO
+Ecc 	7 	2 	1 	14 	1 	go 	VB
+Ecc 	7 	2 	1 	15 	1 	to 	TO
+Ecc 	7 	2 	1 	16 	1 	the 	DT
+Ecc 	7 	2 	1 	17 	1 	house 	NN
+Ecc 	7 	2 	1 	18 	1 	of 	IN
+Ecc 	7 	2 	1 	19 	1 	feasting 	VBG
+Ecc 	7 	2 	1 	20 	0 	:
+Ecc 	7 	2 	1 	21 	1 	for 	IN
+Ecc 	7 	2 	1 	22 	1 	that 	IN
+Ecc 	7 	2 	1 	23 	1 	is 	VBZ
+Ecc 	7 	2 	1 	24 	1 	the 	DT
+Ecc 	7 	2 	1 	25 	1 	end 	NN
+Ecc 	7 	2 	1 	26 	1 	of 	IN
+Ecc 	7 	2 	1 	27 	1 	all 	DT
+Ecc 	7 	2 	1 	28 	1 	men 	NNS
+Ecc 	7 	2 	1 	29 	0 	;
+Ecc 	7 	2 	1 	30 	1 	and 	CC
+Ecc 	7 	2 	1 	31 	1 	the 	DT
+Ecc 	7 	2 	1 	32 	1 	living 	NN
+Ecc 	7 	2 	1 	33 	1 	will 	MD
+Ecc 	7 	2 	1 	34 	1 	lay 	NN
+Ecc 	7 	2 	1 	35 	1 	it 	PRP
+Ecc 	7 	2 	1 	36 	1 	to 	TO
+Ecc 	7 	2 	1 	37 	1 	his 	PRP$
+Ecc 	7 	2 	1 	38 	1 	heart 	NN
+Ecc 	7 	2 	1 	39 	0 	.
+Ecc 	7 	3 	1 	1 	1 	Sorrow 	NN
+Ecc 	7 	3 	1 	2 	1 	is 	VBZ
+Ecc 	7 	3 	1 	3 	1 	better 	RBR
+Ecc 	7 	3 	1 	4 	1 	than 	IN
+Ecc 	7 	3 	1 	5 	1 	laughter 	NN
+Ecc 	7 	3 	1 	6 	0 	:
+Ecc 	7 	3 	1 	7 	1 	for 	IN
+Ecc 	7 	3 	1 	8 	1 	by 	IN
+Ecc 	7 	3 	1 	9 	1 	the 	DT
+Ecc 	7 	3 	1 	10 	1 	sadness 	NN
+Ecc 	7 	3 	1 	11 	1 	of 	IN
+Ecc 	7 	3 	1 	12 	1 	the 	DT
+Ecc 	7 	3 	1 	13 	1 	countenance 	NN
+Ecc 	7 	3 	1 	14 	1 	the 	DT
+Ecc 	7 	3 	1 	15 	1 	heart 	NN
+Ecc 	7 	3 	1 	16 	1 	is 	VBZ
+Ecc 	7 	3 	1 	17 	1 	made 	VBN
+Ecc 	7 	3 	1 	18 	1 	better 	RBR
+Ecc 	7 	3 	1 	19 	0 	.
+Ecc 	7 	4 	1 	1 	1 	The 	DT
+Ecc 	7 	4 	1 	2 	1 	heart 	NN
+Ecc 	7 	4 	1 	3 	1 	of 	IN
+Ecc 	7 	4 	1 	4 	1 	the 	DT
+Ecc 	7 	4 	1 	5 	1 	wise 	NN
+Ecc 	7 	4 	1 	6 	1 	is 	VBZ
+Ecc 	7 	4 	1 	7 	1 	in 	IN
+Ecc 	7 	4 	1 	8 	1 	the 	DT
+Ecc 	7 	4 	1 	9 	1 	house 	NN
+Ecc 	7 	4 	1 	10 	1 	of 	IN
+Ecc 	7 	4 	1 	11 	1 	mourning 	VBG
+Ecc 	7 	4 	1 	12 	0 	;
+Ecc 	7 	4 	1 	13 	1 	but 	CC
+Ecc 	7 	4 	1 	14 	1 	the 	DT
+Ecc 	7 	4 	1 	15 	1 	heart 	NN
+Ecc 	7 	4 	1 	16 	1 	of 	IN
+Ecc 	7 	4 	1 	17 	1 	fools 	NNS
+Ecc 	7 	4 	1 	18 	1 	is 	VBZ
+Ecc 	7 	4 	1 	19 	1 	in 	IN
+Ecc 	7 	4 	1 	20 	1 	the 	DT
+Ecc 	7 	4 	1 	21 	1 	house 	NN
+Ecc 	7 	4 	1 	22 	1 	of 	IN
+Ecc 	7 	4 	1 	23 	1 	mirth 	NN
+Ecc 	7 	4 	1 	24 	0 	.
+Ecc 	7 	5 	1 	1 	1 	It 	PRP
+Ecc 	7 	5 	1 	2 	1 	is 	VBZ
+Ecc 	7 	5 	1 	3 	1 	better 	RBR
+Ecc 	7 	5 	1 	4 	1 	to 	TO
+Ecc 	7 	5 	1 	5 	1 	hear 	NN
+Ecc 	7 	5 	1 	6 	1 	the 	DT
+Ecc 	7 	5 	1 	7 	1 	rebuke 	NN
+Ecc 	7 	5 	1 	8 	1 	of 	IN
+Ecc 	7 	5 	1 	9 	1 	the 	DT
+Ecc 	7 	5 	1 	10 	1 	wise 	NN
+Ecc 	7 	5 	1 	11 	0 	,
+Ecc 	7 	5 	1 	12 	1 	than 	IN
+Ecc 	7 	5 	1 	13 	1 	for 	IN
+Ecc 	7 	5 	1 	14 	1 	a 	DT
+Ecc 	7 	5 	1 	15 	1 	man 	NN
+Ecc 	7 	5 	1 	16 	1 	to 	TO
+Ecc 	7 	5 	1 	17 	1 	hear 	NN
+Ecc 	7 	5 	1 	18 	1 	the 	DT
+Ecc 	7 	5 	1 	19 	1 	song 	NN
+Ecc 	7 	5 	1 	20 	1 	of 	IN
+Ecc 	7 	5 	1 	21 	1 	fools 	NNS
+Ecc 	7 	5 	1 	22 	0 	.
+Ecc 	7 	6 	1 	1 	1 	For 	IN
+Ecc 	7 	6 	1 	2 	1 	as 	IN
+Ecc 	7 	6 	1 	3 	1 	the 	DT
+Ecc 	7 	6 	1 	4 	1 	crackling 	VBG
+Ecc 	7 	6 	1 	5 	1 	of 	IN
+Ecc 	7 	6 	1 	6 	1 	thorns 	NNS
+Ecc 	7 	6 	1 	7 	1 	under 	IN
+Ecc 	7 	6 	1 	8 	1 	a 	DT
+Ecc 	7 	6 	1 	9 	1 	pot 	NN
+Ecc 	7 	6 	1 	10 	0 	,
+Ecc 	7 	6 	1 	11 	1 	so 	RB
+Ecc 	7 	6 	1 	12 	1 	is 	VBZ
+Ecc 	7 	6 	1 	13 	1 	the 	DT
+Ecc 	7 	6 	1 	14 	1 	laughter 	NN
+Ecc 	7 	6 	1 	15 	1 	of 	IN
+Ecc 	7 	6 	1 	16 	1 	the 	DT
+Ecc 	7 	6 	1 	17 	1 	fool 	NN
+Ecc 	7 	6 	1 	18 	0 	:
+Ecc 	7 	6 	1 	19 	1 	this 	DT
+Ecc 	7 	6 	1 	20 	1 	also 	RB
+Ecc 	7 	6 	1 	21 	1 	is 	VBZ
+Ecc 	7 	6 	1 	22 	1 	vanity 	NN
+Ecc 	7 	6 	1 	23 	0 	.
+Ecc 	7 	7 	1 	1 	1 	Surely 	RB
+Ecc 	7 	7 	1 	2 	1 	oppression 	NN
+Ecc 	7 	7 	1 	3 	1 	maketh 	NNS
+Ecc 	7 	7 	1 	4 	1 	a 	DT
+Ecc 	7 	7 	1 	5 	1 	wise 	NN
+Ecc 	7 	7 	1 	6 	1 	man 	NN
+Ecc 	7 	7 	1 	7 	1 	mad 	NN
+Ecc 	7 	7 	1 	8 	0 	;
+Ecc 	7 	7 	1 	9 	1 	and 	CC
+Ecc 	7 	7 	1 	10 	1 	a 	DT
+Ecc 	7 	7 	1 	11 	1 	gift 	NN
+Ecc 	7 	7 	1 	12 	1 	destroyeth 	NN
+Ecc 	7 	7 	1 	13 	1 	the 	DT
+Ecc 	7 	7 	1 	14 	1 	heart 	NN
+Ecc 	7 	7 	1 	15 	0 	.
+Ecc 	7 	8 	1 	1 	1 	Better 	RBR
+Ecc 	7 	8 	1 	2 	1 	is 	VBZ
+Ecc 	7 	8 	1 	3 	1 	the 	DT
+Ecc 	7 	8 	1 	4 	1 	end 	NN
+Ecc 	7 	8 	1 	5 	1 	of 	IN
+Ecc 	7 	8 	1 	6 	1 	a 	DT
+Ecc 	7 	8 	1 	7 	1 	thing 	NN
+Ecc 	7 	8 	1 	8 	1 	than 	IN
+Ecc 	7 	8 	1 	9 	1 	the 	DT
+Ecc 	7 	8 	1 	10 	1 	beginning 	VBG
+Ecc 	7 	8 	1 	11 	1 	thereof 	NN
+Ecc 	7 	8 	1 	12 	0 	:
+Ecc 	7 	8 	1 	13 	1 	and 	CC
+Ecc 	7 	8 	1 	14 	1 	the 	DT
+Ecc 	7 	8 	1 	15 	1 	patient 	NN
+Ecc 	7 	8 	1 	16 	1 	in 	IN
+Ecc 	7 	8 	1 	17 	1 	spirit 	NN
+Ecc 	7 	8 	1 	18 	1 	is 	VBZ
+Ecc 	7 	8 	1 	19 	1 	better 	RBR
+Ecc 	7 	8 	1 	20 	1 	than 	IN
+Ecc 	7 	8 	1 	21 	1 	the 	DT
+Ecc 	7 	8 	1 	22 	1 	proud 	NN
+Ecc 	7 	8 	1 	23 	1 	in 	IN
+Ecc 	7 	8 	1 	24 	1 	spirit 	NN
+Ecc 	7 	8 	1 	25 	0 	.
+Ecc 	7 	9 	1 	1 	1 	Be 	VB
+Ecc 	7 	9 	1 	2 	1 	not 	RB
+Ecc 	7 	9 	1 	3 	1 	hasty 	NN
+Ecc 	7 	9 	1 	4 	1 	in 	IN
+Ecc 	7 	9 	1 	5 	1 	thy 	NN
+Ecc 	7 	9 	1 	6 	1 	spirit 	NN
+Ecc 	7 	9 	1 	7 	1 	to 	TO
+Ecc 	7 	9 	1 	8 	1 	be 	VB
+Ecc 	7 	9 	1 	9 	1 	angry 	JJ
+Ecc 	7 	9 	1 	10 	0 	:
+Ecc 	7 	9 	1 	11 	1 	for 	IN
+Ecc 	7 	9 	1 	12 	1 	anger 	NN
+Ecc 	7 	9 	1 	13 	1 	resteth 	NN
+Ecc 	7 	9 	1 	14 	1 	in 	IN
+Ecc 	7 	9 	1 	15 	1 	the 	DT
+Ecc 	7 	9 	1 	16 	1 	bosom 	NN
+Ecc 	7 	9 	1 	17 	1 	of 	IN
+Ecc 	7 	9 	1 	18 	1 	fools 	NNS
+Ecc 	7 	9 	1 	19 	0 	.
+Ecc 	7 	10 	1 	1 	1 	Say 	NN
+Ecc 	7 	10 	1 	2 	1 	not 	RB
+Ecc 	7 	10 	1 	3 	1 	thou 	NN
+Ecc 	7 	10 	1 	4 	0 	,
+Ecc 	7 	10 	1 	5 	1 	What 	WP
+Ecc 	7 	10 	1 	6 	1 	is 	VBZ
+Ecc 	7 	10 	1 	7 	1 	the 	DT
+Ecc 	7 	10 	1 	8 	1 	cause 	NN
+Ecc 	7 	10 	1 	9 	1 	that 	IN
+Ecc 	7 	10 	1 	10 	1 	the 	DT
+Ecc 	7 	10 	1 	11 	1 	former 	JJ
+Ecc 	7 	10 	1 	12 	1 	days 	NNS
+Ecc 	7 	10 	1 	13 	1 	were 	VBD
+Ecc 	7 	10 	1 	14 	1 	better 	RBR
+Ecc 	7 	10 	1 	15 	1 	than 	IN
+Ecc 	7 	10 	1 	16 	1 	these 	DT
+Ecc 	7 	10 	1 	17 	0 	?
+Ecc 	7 	10 	2 	1 	1 	for 	IN
+Ecc 	7 	10 	2 	2 	1 	thou 	NN
+Ecc 	7 	10 	2 	3 	1 	dost 	NN
+Ecc 	7 	10 	2 	4 	1 	not 	RB
+Ecc 	7 	10 	2 	5 	1 	enquire 	NN
+Ecc 	7 	10 	2 	6 	1 	wisely 	RB
+Ecc 	7 	10 	2 	7 	1 	concerning 	VBG
+Ecc 	7 	10 	2 	8 	1 	this 	DT
+Ecc 	7 	10 	2 	9 	0 	.
+Ecc 	7 	11 	1 	1 	1 	Wisdom 	NN
+Ecc 	7 	11 	1 	2 	1 	is 	VBZ
+Ecc 	7 	11 	1 	3 	1 	good 	JJ
+Ecc 	7 	11 	1 	4 	1 	with 	IN
+Ecc 	7 	11 	1 	5 	1 	an 	DT
+Ecc 	7 	11 	1 	6 	1 	inheritance 	NN
+Ecc 	7 	11 	1 	7 	0 	:
+Ecc 	7 	11 	1 	8 	1 	and 	CC
+Ecc 	7 	11 	1 	9 	1 	by 	IN
+Ecc 	7 	11 	1 	10 	1 	it 	PRP
+Ecc 	7 	11 	1 	11 	1 	there 	RB
+Ecc 	7 	11 	1 	12 	1 	is 	VBZ
+Ecc 	7 	11 	1 	13 	1 	profit 	NN
+Ecc 	7 	11 	1 	14 	1 	to 	TO
+Ecc 	7 	11 	1 	15 	1 	them 	PRP
+Ecc 	7 	11 	1 	16 	1 	that 	IN
+Ecc 	7 	11 	1 	17 	1 	see 	VB
+Ecc 	7 	11 	1 	18 	1 	the 	DT
+Ecc 	7 	11 	1 	19 	1 	sun 	NN
+Ecc 	7 	11 	1 	20 	0 	.
+Ecc 	7 	12 	1 	1 	1 	For 	IN
+Ecc 	7 	12 	1 	2 	1 	wisdom 	NN
+Ecc 	7 	12 	1 	3 	1 	is 	VBZ
+Ecc 	7 	12 	1 	4 	1 	a 	DT
+Ecc 	7 	12 	1 	5 	1 	defence 	NN
+Ecc 	7 	12 	1 	6 	0 	,
+Ecc 	7 	12 	1 	7 	1 	and 	CC
+Ecc 	7 	12 	1 	8 	1 	money 	NN
+Ecc 	7 	12 	1 	9 	1 	is 	VBZ
+Ecc 	7 	12 	1 	10 	1 	a 	DT
+Ecc 	7 	12 	1 	11 	1 	defence 	NN
+Ecc 	7 	12 	1 	12 	0 	:
+Ecc 	7 	12 	1 	13 	1 	but 	CC
+Ecc 	7 	12 	1 	14 	1 	the 	DT
+Ecc 	7 	12 	1 	15 	1 	excellency 	NN
+Ecc 	7 	12 	1 	16 	1 	of 	IN
+Ecc 	7 	12 	1 	17 	1 	knowledge 	NN
+Ecc 	7 	12 	1 	18 	1 	is 	VBZ
+Ecc 	7 	12 	1 	19 	0 	,
+Ecc 	7 	12 	1 	20 	1 	that 	IN
+Ecc 	7 	12 	1 	21 	1 	wisdom 	NN
+Ecc 	7 	12 	1 	22 	1 	giveth 	NNS
+Ecc 	7 	12 	1 	23 	1 	life 	NN
+Ecc 	7 	12 	1 	24 	1 	to 	TO
+Ecc 	7 	12 	1 	25 	1 	them 	PRP
+Ecc 	7 	12 	1 	26 	1 	that 	IN
+Ecc 	7 	12 	1 	27 	1 	have 	VB
+Ecc 	7 	12 	1 	28 	1 	it 	PRP
+Ecc 	7 	12 	1 	29 	0 	.
+Ecc 	7 	13 	1 	1 	1 	Consider 	VB
+Ecc 	7 	13 	1 	2 	1 	the 	DT
+Ecc 	7 	13 	1 	3 	1 	work 	NN
+Ecc 	7 	13 	1 	4 	1 	of 	IN
+Ecc 	7 	13 	1 	5 	1 	God 	NNP
+Ecc 	7 	13 	1 	6 	0 	:
+Ecc 	7 	13 	1 	7 	1 	for 	IN
+Ecc 	7 	13 	1 	8 	1 	who 	WP
+Ecc 	7 	13 	1 	9 	1 	can 	MD
+Ecc 	7 	13 	1 	10 	1 	make 	VB
+Ecc 	7 	13 	1 	11 	1 	that 	IN
+Ecc 	7 	13 	1 	12 	1 	straight 	NN
+Ecc 	7 	13 	1 	13 	0 	,
+Ecc 	7 	13 	1 	14 	1 	which 	WDT
+Ecc 	7 	13 	1 	15 	1 	he 	PRP
+Ecc 	7 	13 	1 	16 	1 	hath 	NN
+Ecc 	7 	13 	1 	17 	1 	made 	VBN
+Ecc 	7 	13 	1 	18 	1 	crooked 	NNS
+Ecc 	7 	13 	1 	19 	0 	?
+Ecc 	7 	14 	1 	1 	1 	In 	IN
+Ecc 	7 	14 	1 	2 	1 	the 	DT
+Ecc 	7 	14 	1 	3 	1 	day 	NN
+Ecc 	7 	14 	1 	4 	1 	of 	IN
+Ecc 	7 	14 	1 	5 	1 	prosperity 	NN
+Ecc 	7 	14 	1 	6 	1 	be 	VB
+Ecc 	7 	14 	1 	7 	1 	joyful 	NN
+Ecc 	7 	14 	1 	8 	0 	,
+Ecc 	7 	14 	1 	9 	1 	but 	CC
+Ecc 	7 	14 	1 	10 	1 	in 	IN
+Ecc 	7 	14 	1 	11 	1 	the 	DT
+Ecc 	7 	14 	1 	12 	1 	day 	NN
+Ecc 	7 	14 	1 	13 	1 	of 	IN
+Ecc 	7 	14 	1 	14 	1 	adversity 	NN
+Ecc 	7 	14 	1 	15 	1 	consider 	VB
+Ecc 	7 	14 	1 	16 	0 	:
+Ecc 	7 	14 	1 	17 	1 	God 	NNP
+Ecc 	7 	14 	1 	18 	1 	also 	RB
+Ecc 	7 	14 	1 	19 	1 	hath 	NN
+Ecc 	7 	14 	1 	20 	1 	set 	NN
+Ecc 	7 	14 	1 	21 	1 	the 	DT
+Ecc 	7 	14 	1 	22 	1 	one 	CD
+Ecc 	7 	14 	1 	23 	1 	over 	IN
+Ecc 	7 	14 	1 	24 	1 	against 	IN
+Ecc 	7 	14 	1 	25 	1 	the 	DT
+Ecc 	7 	14 	1 	26 	1 	other 	JJ
+Ecc 	7 	14 	1 	27 	0 	,
+Ecc 	7 	14 	1 	28 	1 	to 	TO
+Ecc 	7 	14 	1 	29 	1 	the 	DT
+Ecc 	7 	14 	1 	30 	1 	end 	NN
+Ecc 	7 	14 	1 	31 	1 	that 	IN
+Ecc 	7 	14 	1 	32 	1 	man 	NN
+Ecc 	7 	14 	1 	33 	1 	should 	MD
+Ecc 	7 	14 	1 	34 	1 	find 	VB
+Ecc 	7 	14 	1 	35 	1 	nothing 	NN
+Ecc 	7 	14 	1 	36 	1 	after 	IN
+Ecc 	7 	14 	1 	37 	1 	him 	PRP
+Ecc 	7 	14 	1 	38 	0 	.
+Ecc 	7 	15 	1 	1 	1 	All 	DT
+Ecc 	7 	15 	1 	2 	1 	things 	NNS
+Ecc 	7 	15 	1 	3 	1 	have 	VB
+Ecc 	7 	15 	1 	4 	1 	I 	PRP
+Ecc 	7 	15 	1 	5 	1 	seen 	VBN
+Ecc 	7 	15 	1 	6 	1 	in 	IN
+Ecc 	7 	15 	1 	7 	1 	the 	DT
+Ecc 	7 	15 	1 	8 	1 	days 	NNS
+Ecc 	7 	15 	1 	9 	1 	of 	IN
+Ecc 	7 	15 	1 	10 	1 	my 	PRP$
+Ecc 	7 	15 	1 	11 	1 	vanity 	NN
+Ecc 	7 	15 	1 	12 	0 	:
+Ecc 	7 	15 	1 	13 	1 	there 	RB
+Ecc 	7 	15 	1 	14 	1 	is 	VBZ
+Ecc 	7 	15 	1 	15 	1 	a 	DT
+Ecc 	7 	15 	1 	16 	1 	just 	RB
+Ecc 	7 	15 	1 	17 	1 	man 	NN
+Ecc 	7 	15 	1 	18 	1 	that 	IN
+Ecc 	7 	15 	1 	19 	1 	perisheth 	NN
+Ecc 	7 	15 	1 	20 	1 	in 	IN
+Ecc 	7 	15 	1 	21 	1 	his 	PRP$
+Ecc 	7 	15 	1 	22 	1 	righteousness 	NN
+Ecc 	7 	15 	1 	23 	0 	,
+Ecc 	7 	15 	1 	24 	1 	and 	CC
+Ecc 	7 	15 	1 	25 	1 	there 	RB
+Ecc 	7 	15 	1 	26 	1 	is 	VBZ
+Ecc 	7 	15 	1 	27 	1 	a 	DT
+Ecc 	7 	15 	1 	28 	1 	wicked 	VBD
+Ecc 	7 	15 	1 	29 	1 	man 	NN
+Ecc 	7 	15 	1 	30 	1 	that 	IN
+Ecc 	7 	15 	1 	31 	1 	prolongeth 	NN
+Ecc 	7 	15 	1 	32 	1 	his 	PRP$
+Ecc 	7 	15 	1 	33 	1 	life 	NN
+Ecc 	7 	15 	1 	34 	1 	in 	IN
+Ecc 	7 	15 	1 	35 	1 	his 	PRP$
+Ecc 	7 	15 	1 	36 	1 	wickedness 	NN
+Ecc 	7 	15 	1 	37 	0 	.
+Ecc 	7 	16 	1 	1 	1 	Be 	VB
+Ecc 	7 	16 	1 	2 	1 	not 	RB
+Ecc 	7 	16 	1 	3 	1 	righteous 	JJ
+Ecc 	7 	16 	1 	4 	1 	over 	IN
+Ecc 	7 	16 	1 	5 	1 	much 	JJ
+Ecc 	7 	16 	1 	6 	0 	;
+Ecc 	7 	16 	1 	7 	1 	neither 	DT
+Ecc 	7 	16 	1 	8 	1 	make 	VB
+Ecc 	7 	16 	1 	9 	1 	thyself 	NN
+Ecc 	7 	16 	1 	10 	1 	over 	IN
+Ecc 	7 	16 	1 	11 	1 	wise 	NN
+Ecc 	7 	16 	1 	12 	0 	:
+Ecc 	7 	16 	1 	13 	1 	why 	WRB
+Ecc 	7 	16 	1 	14 	1 	shouldest 	NN
+Ecc 	7 	16 	1 	15 	1 	thou 	NN
+Ecc 	7 	16 	1 	16 	1 	destroy 	NN
+Ecc 	7 	16 	1 	17 	1 	thyself 	NN
+Ecc 	7 	16 	1 	18 	0 	?
+Ecc 	7 	17 	1 	1 	1 	Be 	VB
+Ecc 	7 	17 	1 	2 	1 	not 	RB
+Ecc 	7 	17 	1 	3 	1 	over 	IN
+Ecc 	7 	17 	1 	4 	1 	much 	JJ
+Ecc 	7 	17 	1 	5 	1 	wicked 	VBD
+Ecc 	7 	17 	1 	6 	0 	,
+Ecc 	7 	17 	1 	7 	1 	neither 	DT
+Ecc 	7 	17 	1 	8 	1 	be 	VB
+Ecc 	7 	17 	1 	9 	1 	thou 	NN
+Ecc 	7 	17 	1 	10 	1 	foolish 	JJ
+Ecc 	7 	17 	1 	11 	0 	:
+Ecc 	7 	17 	1 	12 	1 	why 	WRB
+Ecc 	7 	17 	1 	13 	1 	shouldest 	NN
+Ecc 	7 	17 	1 	14 	1 	thou 	NN
+Ecc 	7 	17 	1 	15 	1 	die 	NN
+Ecc 	7 	17 	1 	16 	1 	before 	IN
+Ecc 	7 	17 	1 	17 	1 	thy 	NN
+Ecc 	7 	17 	1 	18 	1 	time 	NN
+Ecc 	7 	17 	1 	19 	0 	?
+Ecc 	7 	18 	1 	1 	1 	It 	PRP
+Ecc 	7 	18 	1 	2 	1 	is 	VBZ
+Ecc 	7 	18 	1 	3 	1 	good 	JJ
+Ecc 	7 	18 	1 	4 	1 	that 	IN
+Ecc 	7 	18 	1 	5 	1 	thou 	NN
+Ecc 	7 	18 	1 	6 	1 	shouldest 	NN
+Ecc 	7 	18 	1 	7 	1 	take 	VB
+Ecc 	7 	18 	1 	8 	1 	hold 	NN
+Ecc 	7 	18 	1 	9 	1 	of 	IN
+Ecc 	7 	18 	1 	10 	1 	this 	DT
+Ecc 	7 	18 	1 	11 	0 	;
+Ecc 	7 	18 	1 	12 	1 	yea 	NN
+Ecc 	7 	18 	1 	13 	0 	,
+Ecc 	7 	18 	1 	14 	1 	also 	RB
+Ecc 	7 	18 	1 	15 	1 	from 	IN
+Ecc 	7 	18 	1 	16 	1 	this 	DT
+Ecc 	7 	18 	1 	17 	1 	withdraw 	NN
+Ecc 	7 	18 	1 	18 	1 	not 	RB
+Ecc 	7 	18 	1 	19 	1 	thine 	NN
+Ecc 	7 	18 	1 	20 	1 	hand 	NN
+Ecc 	7 	18 	1 	21 	0 	:
+Ecc 	7 	18 	1 	22 	1 	for 	IN
+Ecc 	7 	18 	1 	23 	1 	he 	PRP
+Ecc 	7 	18 	1 	24 	1 	that 	IN
+Ecc 	7 	18 	1 	25 	1 	feareth 	NNS
+Ecc 	7 	18 	1 	26 	1 	God 	NNP
+Ecc 	7 	18 	1 	27 	1 	shall 	MD
+Ecc 	7 	18 	1 	28 	1 	come 	VB
+Ecc 	7 	18 	1 	29 	1 	forth 	NN
+Ecc 	7 	18 	1 	30 	1 	of 	IN
+Ecc 	7 	18 	1 	31 	1 	them 	PRP
+Ecc 	7 	18 	1 	32 	1 	all 	DT
+Ecc 	7 	18 	1 	33 	0 	.
+Ecc 	7 	19 	1 	1 	1 	Wisdom 	NN
+Ecc 	7 	19 	1 	2 	1 	strengtheneth 	NN
+Ecc 	7 	19 	1 	3 	1 	the 	DT
+Ecc 	7 	19 	1 	4 	1 	wise 	NN
+Ecc 	7 	19 	1 	5 	1 	more 	RBR
+Ecc 	7 	19 	1 	6 	1 	than 	IN
+Ecc 	7 	19 	1 	7 	1 	ten 	NNS
+Ecc 	7 	19 	1 	8 	1 	mighty 	NN
+Ecc 	7 	19 	1 	9 	1 	men 	NNS
+Ecc 	7 	19 	1 	10 	1 	which 	WDT
+Ecc 	7 	19 	1 	11 	1 	are 	VBP
+Ecc 	7 	19 	1 	12 	1 	in 	IN
+Ecc 	7 	19 	1 	13 	1 	the 	DT
+Ecc 	7 	19 	1 	14 	1 	city 	NN
+Ecc 	7 	19 	1 	15 	0 	.
+Ecc 	7 	20 	1 	1 	1 	For 	IN
+Ecc 	7 	20 	1 	2 	1 	there 	RB
+Ecc 	7 	20 	1 	3 	1 	is 	VBZ
+Ecc 	7 	20 	1 	4 	1 	not 	RB
+Ecc 	7 	20 	1 	5 	1 	a 	DT
+Ecc 	7 	20 	1 	6 	1 	just 	RB
+Ecc 	7 	20 	1 	7 	1 	man 	NN
+Ecc 	7 	20 	1 	8 	1 	upon 	IN
+Ecc 	7 	20 	1 	9 	1 	earth 	NN
+Ecc 	7 	20 	1 	10 	0 	,
+Ecc 	7 	20 	1 	11 	1 	that 	IN
+Ecc 	7 	20 	1 	12 	1 	doeth 	NN
+Ecc 	7 	20 	1 	13 	1 	good 	JJ
+Ecc 	7 	20 	1 	14 	0 	,
+Ecc 	7 	20 	1 	15 	1 	and 	CC
+Ecc 	7 	20 	1 	16 	1 	sinneth 	NN
+Ecc 	7 	20 	1 	17 	1 	not 	RB
+Ecc 	7 	20 	1 	18 	0 	.
+Ecc 	7 	21 	1 	1 	1 	Also 	RB
+Ecc 	7 	21 	1 	2 	1 	take 	VB
+Ecc 	7 	21 	1 	3 	1 	no 	DT
+Ecc 	7 	21 	1 	4 	1 	heed 	NN
+Ecc 	7 	21 	1 	5 	1 	unto 	NN
+Ecc 	7 	21 	1 	6 	1 	all 	DT
+Ecc 	7 	21 	1 	7 	1 	words 	NNS
+Ecc 	7 	21 	1 	8 	1 	that 	IN
+Ecc 	7 	21 	1 	9 	1 	are 	VBP
+Ecc 	7 	21 	1 	10 	1 	spoken 	NN
+Ecc 	7 	21 	1 	11 	0 	;
+Ecc 	7 	21 	1 	12 	1 	lest 	JJS
+Ecc 	7 	21 	1 	13 	1 	thou 	NN
+Ecc 	7 	21 	1 	14 	1 	hear 	NN
+Ecc 	7 	21 	1 	15 	1 	thy 	NN
+Ecc 	7 	21 	1 	16 	1 	servant 	NN
+Ecc 	7 	21 	1 	17 	1 	curse 	NN
+Ecc 	7 	21 	1 	18 	1 	thee 	NN
+Ecc 	7 	21 	1 	19 	0 	:
+Ecc 	7 	22 	1 	1 	1 	For 	IN
+Ecc 	7 	22 	1 	2 	1 	oftentimes 	NNS
+Ecc 	7 	22 	1 	3 	1 	also 	RB
+Ecc 	7 	22 	1 	4 	1 	thine 	NN
+Ecc 	7 	22 	1 	5 	1 	own 	JJ
+Ecc 	7 	22 	1 	6 	1 	heart 	NN
+Ecc 	7 	22 	1 	7 	1 	knoweth 	NNS
+Ecc 	7 	22 	1 	8 	1 	that 	IN
+Ecc 	7 	22 	1 	9 	1 	thou 	NN
+Ecc 	7 	22 	1 	10 	1 	thyself 	NN
+Ecc 	7 	22 	1 	11 	1 	likewise 	RB
+Ecc 	7 	22 	1 	12 	1 	hast 	NN
+Ecc 	7 	22 	1 	13 	1 	cursed 	VBN
+Ecc 	7 	22 	1 	14 	1 	others 	NNS
+Ecc 	7 	22 	1 	15 	0 	.
+Ecc 	7 	23 	1 	1 	1 	All 	DT
+Ecc 	7 	23 	1 	2 	1 	this 	DT
+Ecc 	7 	23 	1 	3 	1 	have 	VB
+Ecc 	7 	23 	1 	4 	1 	I 	PRP
+Ecc 	7 	23 	1 	5 	1 	proved 	VBN
+Ecc 	7 	23 	1 	6 	1 	by 	IN
+Ecc 	7 	23 	1 	7 	1 	wisdom 	NN
+Ecc 	7 	23 	1 	8 	0 	:
+Ecc 	7 	23 	1 	9 	1 	I 	PRP
+Ecc 	7 	23 	1 	10 	1 	said 	VBD
+Ecc 	7 	23 	1 	11 	0 	,
+Ecc 	7 	23 	1 	12 	1 	I 	PRP
+Ecc 	7 	23 	1 	13 	1 	will 	MD
+Ecc 	7 	23 	1 	14 	1 	be 	VB
+Ecc 	7 	23 	1 	15 	1 	wise 	NN
+Ecc 	7 	23 	1 	16 	0 	;
+Ecc 	7 	23 	1 	17 	1 	but 	CC
+Ecc 	7 	23 	1 	18 	1 	it 	PRP
+Ecc 	7 	23 	1 	19 	1 	was 	VBD
+Ecc 	7 	23 	1 	20 	1 	far 	RB
+Ecc 	7 	23 	1 	21 	1 	from 	IN
+Ecc 	7 	23 	1 	22 	1 	me 	PRP
+Ecc 	7 	23 	1 	23 	0 	.
+Ecc 	7 	24 	1 	1 	1 	That 	DT
+Ecc 	7 	24 	1 	2 	1 	which 	WDT
+Ecc 	7 	24 	1 	3 	1 	is 	VBZ
+Ecc 	7 	24 	1 	4 	1 	far 	RB
+Ecc 	7 	24 	1 	5 	1 	off 	IN
+Ecc 	7 	24 	1 	6 	0 	,
+Ecc 	7 	24 	1 	7 	1 	and 	CC
+Ecc 	7 	24 	1 	8 	1 	exceeding 	VBG
+Ecc 	7 	24 	1 	9 	1 	deep 	NN
+Ecc 	7 	24 	1 	10 	0 	,
+Ecc 	7 	24 	1 	11 	1 	who 	WP
+Ecc 	7 	24 	1 	12 	1 	can 	MD
+Ecc 	7 	24 	1 	13 	1 	find 	VB
+Ecc 	7 	24 	1 	14 	1 	it 	PRP
+Ecc 	7 	24 	1 	15 	1 	out 	IN
+Ecc 	7 	24 	1 	16 	0 	?
+Ecc 	7 	25 	1 	1 	1 	I 	PRP
+Ecc 	7 	25 	1 	2 	1 	applied 	VBN
+Ecc 	7 	25 	1 	3 	1 	mine 	NN
+Ecc 	7 	25 	1 	4 	1 	heart 	NN
+Ecc 	7 	25 	1 	5 	1 	to 	TO
+Ecc 	7 	25 	1 	6 	1 	know 	VB
+Ecc 	7 	25 	1 	7 	0 	,
+Ecc 	7 	25 	1 	8 	1 	and 	CC
+Ecc 	7 	25 	1 	9 	1 	to 	TO
+Ecc 	7 	25 	1 	10 	1 	search 	NN
+Ecc 	7 	25 	1 	11 	0 	,
+Ecc 	7 	25 	1 	12 	1 	and 	CC
+Ecc 	7 	25 	1 	13 	1 	to 	TO
+Ecc 	7 	25 	1 	14 	1 	seek 	NN
+Ecc 	7 	25 	1 	15 	1 	out 	IN
+Ecc 	7 	25 	1 	16 	1 	wisdom 	NN
+Ecc 	7 	25 	1 	17 	0 	,
+Ecc 	7 	25 	1 	18 	1 	and 	CC
+Ecc 	7 	25 	1 	19 	1 	the 	DT
+Ecc 	7 	25 	1 	20 	1 	reason 	NN
+Ecc 	7 	25 	1 	21 	1 	of 	IN
+Ecc 	7 	25 	1 	22 	1 	things 	NNS
+Ecc 	7 	25 	1 	23 	0 	,
+Ecc 	7 	25 	1 	24 	1 	and 	CC
+Ecc 	7 	25 	1 	25 	1 	to 	TO
+Ecc 	7 	25 	1 	26 	1 	know 	VB
+Ecc 	7 	25 	1 	27 	1 	the 	DT
+Ecc 	7 	25 	1 	28 	1 	wickedness 	NN
+Ecc 	7 	25 	1 	29 	1 	of 	IN
+Ecc 	7 	25 	1 	30 	1 	folly 	RB
+Ecc 	7 	25 	1 	31 	0 	,
+Ecc 	7 	25 	1 	32 	1 	even 	RB
+Ecc 	7 	25 	1 	33 	1 	of 	IN
+Ecc 	7 	25 	1 	34 	1 	foolishness 	NN
+Ecc 	7 	25 	1 	35 	1 	and 	CC
+Ecc 	7 	25 	1 	36 	1 	madness 	NN
+Ecc 	7 	25 	1 	37 	0 	:
+Ecc 	7 	26 	1 	1 	1 	And 	CC
+Ecc 	7 	26 	1 	2 	1 	I 	PRP
+Ecc 	7 	26 	1 	3 	1 	find 	VB
+Ecc 	7 	26 	1 	4 	1 	more 	RBR
+Ecc 	7 	26 	1 	5 	1 	bitter 	NN
+Ecc 	7 	26 	1 	6 	1 	than 	IN
+Ecc 	7 	26 	1 	7 	1 	death 	NN
+Ecc 	7 	26 	1 	8 	1 	the 	DT
+Ecc 	7 	26 	1 	9 	1 	woman 	NN
+Ecc 	7 	26 	1 	10 	0 	,
+Ecc 	7 	26 	1 	11 	1 	whose 	WP$
+Ecc 	7 	26 	1 	12 	1 	heart 	NN
+Ecc 	7 	26 	1 	13 	1 	is 	VBZ
+Ecc 	7 	26 	1 	14 	1 	snares 	NNS
+Ecc 	7 	26 	1 	15 	1 	and 	CC
+Ecc 	7 	26 	1 	16 	1 	nets 	NNS
+Ecc 	7 	26 	1 	17 	0 	,
+Ecc 	7 	26 	1 	18 	1 	and 	CC
+Ecc 	7 	26 	1 	19 	1 	her 	PRP$
+Ecc 	7 	26 	1 	20 	1 	hands 	NNS
+Ecc 	7 	26 	1 	21 	1 	as 	IN
+Ecc 	7 	26 	1 	22 	1 	bands 	NNS
+Ecc 	7 	26 	1 	23 	0 	:
+Ecc 	7 	26 	1 	24 	1 	whoso 	NN
+Ecc 	7 	26 	1 	25 	1 	pleaseth 	NN
+Ecc 	7 	26 	1 	26 	1 	God 	NNP
+Ecc 	7 	26 	1 	27 	1 	shall 	MD
+Ecc 	7 	26 	1 	28 	1 	escape 	NN
+Ecc 	7 	26 	1 	29 	1 	from 	IN
+Ecc 	7 	26 	1 	30 	1 	her 	PRP$
+Ecc 	7 	26 	1 	31 	0 	;
+Ecc 	7 	26 	1 	32 	1 	but 	CC
+Ecc 	7 	26 	1 	33 	1 	the 	DT
+Ecc 	7 	26 	1 	34 	1 	sinner 	NN
+Ecc 	7 	26 	1 	35 	1 	shall 	MD
+Ecc 	7 	26 	1 	36 	1 	be 	VB
+Ecc 	7 	26 	1 	37 	1 	taken 	VBN
+Ecc 	7 	26 	1 	38 	1 	by 	IN
+Ecc 	7 	26 	1 	39 	1 	her 	PRP$
+Ecc 	7 	26 	1 	40 	0 	.
+Ecc 	7 	27 	1 	1 	1 	Behold 	NN
+Ecc 	7 	27 	1 	2 	0 	,
+Ecc 	7 	27 	1 	3 	1 	this 	DT
+Ecc 	7 	27 	1 	4 	1 	have 	VB
+Ecc 	7 	27 	1 	5 	1 	I 	PRP
+Ecc 	7 	27 	1 	6 	1 	found 	NN
+Ecc 	7 	27 	1 	7 	0 	,
+Ecc 	7 	27 	1 	8 	1 	saith 	NN
+Ecc 	7 	27 	1 	9 	1 	the 	DT
+Ecc 	7 	27 	1 	10 	1 	preacher 	NN
+Ecc 	7 	27 	1 	11 	0 	,
+Ecc 	7 	27 	1 	12 	1 	counting 	NN
+Ecc 	7 	27 	1 	13 	1 	one 	CD
+Ecc 	7 	27 	1 	14 	1 	by 	IN
+Ecc 	7 	27 	1 	15 	1 	one 	CD
+Ecc 	7 	27 	1 	16 	0 	,
+Ecc 	7 	27 	1 	17 	1 	to 	TO
+Ecc 	7 	27 	1 	18 	1 	find 	VB
+Ecc 	7 	27 	1 	19 	1 	out 	IN
+Ecc 	7 	27 	1 	20 	1 	the 	DT
+Ecc 	7 	27 	1 	21 	1 	account 	NN
+Ecc 	7 	27 	1 	22 	0 	:
+Ecc 	7 	28 	1 	1 	1 	Which 	WDT
+Ecc 	7 	28 	1 	2 	1 	yet 	RB
+Ecc 	7 	28 	1 	3 	1 	my 	PRP$
+Ecc 	7 	28 	1 	4 	1 	soul 	NN
+Ecc 	7 	28 	1 	5 	1 	seeketh 	NN
+Ecc 	7 	28 	1 	6 	0 	,
+Ecc 	7 	28 	1 	7 	1 	but 	CC
+Ecc 	7 	28 	1 	8 	1 	I 	PRP
+Ecc 	7 	28 	1 	9 	1 	find 	VB
+Ecc 	7 	28 	1 	10 	1 	not 	RB
+Ecc 	7 	28 	1 	11 	0 	:
+Ecc 	7 	28 	1 	12 	1 	one 	CD
+Ecc 	7 	28 	1 	13 	1 	man 	NN
+Ecc 	7 	28 	1 	14 	1 	among 	IN
+Ecc 	7 	28 	1 	15 	1 	a 	DT
+Ecc 	7 	28 	1 	16 	1 	thousand 	NN
+Ecc 	7 	28 	1 	17 	1 	have 	VB
+Ecc 	7 	28 	1 	18 	1 	I 	PRP
+Ecc 	7 	28 	1 	19 	1 	found 	NN
+Ecc 	7 	28 	1 	20 	0 	;
+Ecc 	7 	28 	1 	21 	1 	but 	CC
+Ecc 	7 	28 	1 	22 	1 	a 	DT
+Ecc 	7 	28 	1 	23 	1 	woman 	NN
+Ecc 	7 	28 	1 	24 	1 	among 	IN
+Ecc 	7 	28 	1 	25 	1 	all 	DT
+Ecc 	7 	28 	1 	26 	1 	those 	DT
+Ecc 	7 	28 	1 	27 	1 	have 	VB
+Ecc 	7 	28 	1 	28 	1 	I 	PRP
+Ecc 	7 	28 	1 	29 	1 	not 	RB
+Ecc 	7 	28 	1 	30 	1 	found 	NN
+Ecc 	7 	28 	1 	31 	0 	.
+Ecc 	7 	29 	1 	1 	1 	Lo 	NN
+Ecc 	7 	29 	1 	2 	0 	,
+Ecc 	7 	29 	1 	3 	1 	this 	DT
+Ecc 	7 	29 	1 	4 	1 	only 	RB
+Ecc 	7 	29 	1 	5 	1 	have 	VB
+Ecc 	7 	29 	1 	6 	1 	I 	PRP
+Ecc 	7 	29 	1 	7 	1 	found 	NN
+Ecc 	7 	29 	1 	8 	0 	,
+Ecc 	7 	29 	1 	9 	1 	that 	IN
+Ecc 	7 	29 	1 	10 	1 	God 	NNP
+Ecc 	7 	29 	1 	11 	1 	hath 	NN
+Ecc 	7 	29 	1 	12 	1 	made 	VBN
+Ecc 	7 	29 	1 	13 	1 	man 	NN
+Ecc 	7 	29 	1 	14 	1 	upright 	JJ
+Ecc 	7 	29 	1 	15 	0 	;
+Ecc 	7 	29 	1 	16 	1 	but 	CC
+Ecc 	7 	29 	1 	17 	1 	they 	PRP
+Ecc 	7 	29 	1 	18 	1 	have 	VB
+Ecc 	7 	29 	1 	19 	1 	sought 	NN
+Ecc 	7 	29 	1 	20 	1 	out 	IN
+Ecc 	7 	29 	1 	21 	1 	many 	JJ
+Ecc 	7 	29 	1 	22 	1 	inventions 	NNS
+Ecc 	7 	29 	1 	23 	0 	.
+Ecc 	8 	1 	1 	1 	1 	Who 	WP
+Ecc 	8 	1 	1 	2 	1 	is 	VBZ
+Ecc 	8 	1 	1 	3 	1 	as 	IN
+Ecc 	8 	1 	1 	4 	1 	the 	DT
+Ecc 	8 	1 	1 	5 	1 	wise 	NN
+Ecc 	8 	1 	1 	6 	1 	man 	NN
+Ecc 	8 	1 	1 	7 	0 	?
+Ecc 	8 	1 	2 	1 	1 	and 	CC
+Ecc 	8 	1 	2 	2 	1 	who 	WP
+Ecc 	8 	1 	2 	3 	1 	knoweth 	NNS
+Ecc 	8 	1 	2 	4 	1 	the 	DT
+Ecc 	8 	1 	2 	5 	1 	interpretation 	NN
+Ecc 	8 	1 	2 	6 	1 	of 	IN
+Ecc 	8 	1 	2 	7 	1 	a 	DT
+Ecc 	8 	1 	2 	8 	1 	thing 	NN
+Ecc 	8 	1 	2 	9 	0 	?
+Ecc 	8 	1 	3 	1 	1 	a 	DT
+Ecc 	8 	1 	3 	2 	1 	man 	NN
+Ecc 	8 	1 	3 	3 	0 	's
+Ecc 	8 	1 	3 	4 	1 	wisdom 	NN
+Ecc 	8 	1 	3 	5 	1 	maketh 	NNS
+Ecc 	8 	1 	3 	6 	1 	his 	PRP$
+Ecc 	8 	1 	3 	7 	1 	face 	NN
+Ecc 	8 	1 	3 	8 	1 	to 	TO
+Ecc 	8 	1 	3 	9 	1 	shine 	NN
+Ecc 	8 	1 	3 	10 	0 	,
+Ecc 	8 	1 	3 	11 	1 	and 	CC
+Ecc 	8 	1 	3 	12 	1 	the 	DT
+Ecc 	8 	1 	3 	13 	1 	boldness 	NN
+Ecc 	8 	1 	3 	14 	1 	of 	IN
+Ecc 	8 	1 	3 	15 	1 	his 	PRP$
+Ecc 	8 	1 	3 	16 	1 	face 	NN
+Ecc 	8 	1 	3 	17 	1 	shall 	MD
+Ecc 	8 	1 	3 	18 	1 	be 	VB
+Ecc 	8 	1 	3 	19 	1 	changed 	VBN
+Ecc 	8 	1 	3 	20 	0 	.
+Ecc 	8 	2 	1 	1 	1 	I 	PRP
+Ecc 	8 	2 	1 	2 	1 	counsel 	NN
+Ecc 	8 	2 	1 	3 	1 	thee 	NN
+Ecc 	8 	2 	1 	4 	1 	to 	TO
+Ecc 	8 	2 	1 	5 	1 	keep 	VB
+Ecc 	8 	2 	1 	6 	1 	the 	DT
+Ecc 	8 	2 	1 	7 	1 	king 	NN
+Ecc 	8 	2 	1 	8 	0 	's
+Ecc 	8 	2 	1 	9 	1 	commandment 	NN
+Ecc 	8 	2 	1 	10 	0 	,
+Ecc 	8 	2 	1 	11 	1 	and 	CC
+Ecc 	8 	2 	1 	12 	1 	that 	IN
+Ecc 	8 	2 	1 	13 	1 	in 	IN
+Ecc 	8 	2 	1 	14 	1 	regard 	NN
+Ecc 	8 	2 	1 	15 	1 	of 	IN
+Ecc 	8 	2 	1 	16 	1 	the 	DT
+Ecc 	8 	2 	1 	17 	1 	oath 	NN
+Ecc 	8 	2 	1 	18 	1 	of 	IN
+Ecc 	8 	2 	1 	19 	1 	God 	NNP
+Ecc 	8 	2 	1 	20 	0 	.
+Ecc 	8 	3 	1 	1 	1 	Be 	VB
+Ecc 	8 	3 	1 	2 	1 	not 	RB
+Ecc 	8 	3 	1 	3 	1 	hasty 	NN
+Ecc 	8 	3 	1 	4 	1 	to 	TO
+Ecc 	8 	3 	1 	5 	1 	go 	VB
+Ecc 	8 	3 	1 	6 	1 	out 	IN
+Ecc 	8 	3 	1 	7 	1 	of 	IN
+Ecc 	8 	3 	1 	8 	1 	his 	PRP$
+Ecc 	8 	3 	1 	9 	1 	sight 	NN
+Ecc 	8 	3 	1 	10 	0 	:
+Ecc 	8 	3 	1 	11 	1 	stand 	NN
+Ecc 	8 	3 	1 	12 	1 	not 	RB
+Ecc 	8 	3 	1 	13 	1 	in 	IN
+Ecc 	8 	3 	1 	14 	1 	an 	DT
+Ecc 	8 	3 	1 	15 	1 	evil 	NN
+Ecc 	8 	3 	1 	16 	1 	thing 	NN
+Ecc 	8 	3 	1 	17 	0 	;
+Ecc 	8 	3 	1 	18 	1 	for 	IN
+Ecc 	8 	3 	1 	19 	1 	he 	PRP
+Ecc 	8 	3 	1 	20 	1 	doeth 	NN
+Ecc 	8 	3 	1 	21 	1 	whatsoever 	NN
+Ecc 	8 	3 	1 	22 	1 	pleaseth 	NN
+Ecc 	8 	3 	1 	23 	1 	him 	PRP
+Ecc 	8 	3 	1 	24 	0 	.
+Ecc 	8 	4 	1 	1 	1 	Where 	WRB
+Ecc 	8 	4 	1 	2 	1 	the 	DT
+Ecc 	8 	4 	1 	3 	1 	word 	NN
+Ecc 	8 	4 	1 	4 	1 	of 	IN
+Ecc 	8 	4 	1 	5 	1 	a 	DT
+Ecc 	8 	4 	1 	6 	1 	king 	NN
+Ecc 	8 	4 	1 	7 	1 	is 	VBZ
+Ecc 	8 	4 	1 	8 	0 	,
+Ecc 	8 	4 	1 	9 	1 	there 	RB
+Ecc 	8 	4 	1 	10 	1 	is 	VBZ
+Ecc 	8 	4 	1 	11 	1 	power 	NN
+Ecc 	8 	4 	1 	12 	0 	:
+Ecc 	8 	4 	1 	13 	1 	and 	CC
+Ecc 	8 	4 	1 	14 	1 	who 	WP
+Ecc 	8 	4 	1 	15 	1 	may 	MD
+Ecc 	8 	4 	1 	16 	1 	say 	VB
+Ecc 	8 	4 	1 	17 	1 	unto 	NN
+Ecc 	8 	4 	1 	18 	1 	him 	PRP
+Ecc 	8 	4 	1 	19 	0 	,
+Ecc 	8 	4 	1 	20 	1 	What 	WP
+Ecc 	8 	4 	1 	21 	1 	doest 	NN
+Ecc 	8 	4 	1 	22 	1 	thou 	NN
+Ecc 	8 	4 	1 	23 	0 	?
+Ecc 	8 	5 	1 	1 	1 	Whoso 	NN
+Ecc 	8 	5 	1 	2 	1 	keepeth 	NNS
+Ecc 	8 	5 	1 	3 	1 	the 	DT
+Ecc 	8 	5 	1 	4 	1 	commandment 	NN
+Ecc 	8 	5 	1 	5 	1 	shall 	MD
+Ecc 	8 	5 	1 	6 	1 	feel 	NN
+Ecc 	8 	5 	1 	7 	1 	no 	DT
+Ecc 	8 	5 	1 	8 	1 	evil 	NN
+Ecc 	8 	5 	1 	9 	1 	thing 	NN
+Ecc 	8 	5 	1 	10 	0 	:
+Ecc 	8 	5 	1 	11 	1 	and 	CC
+Ecc 	8 	5 	1 	12 	1 	a 	DT
+Ecc 	8 	5 	1 	13 	1 	wise 	NN
+Ecc 	8 	5 	1 	14 	1 	man 	NN
+Ecc 	8 	5 	1 	15 	0 	's
+Ecc 	8 	5 	1 	16 	1 	heart 	NN
+Ecc 	8 	5 	1 	17 	1 	discerneth 	NN
+Ecc 	8 	5 	1 	18 	1 	both 	DT
+Ecc 	8 	5 	1 	19 	1 	time 	NN
+Ecc 	8 	5 	1 	20 	1 	and 	CC
+Ecc 	8 	5 	1 	21 	1 	judgment 	NN
+Ecc 	8 	5 	1 	22 	0 	.
+Ecc 	8 	6 	1 	1 	1 	Because 	IN
+Ecc 	8 	6 	1 	2 	1 	to 	TO
+Ecc 	8 	6 	1 	3 	1 	every 	DT
+Ecc 	8 	6 	1 	4 	1 	purpose 	NN
+Ecc 	8 	6 	1 	5 	1 	there 	RB
+Ecc 	8 	6 	1 	6 	1 	is 	VBZ
+Ecc 	8 	6 	1 	7 	1 	time 	NN
+Ecc 	8 	6 	1 	8 	1 	and 	CC
+Ecc 	8 	6 	1 	9 	1 	judgment 	NN
+Ecc 	8 	6 	1 	10 	0 	,
+Ecc 	8 	6 	1 	11 	1 	therefore 	RB
+Ecc 	8 	6 	1 	12 	1 	the 	DT
+Ecc 	8 	6 	1 	13 	1 	misery 	NN
+Ecc 	8 	6 	1 	14 	1 	of 	IN
+Ecc 	8 	6 	1 	15 	1 	man 	NN
+Ecc 	8 	6 	1 	16 	1 	is 	VBZ
+Ecc 	8 	6 	1 	17 	1 	great 	JJ
+Ecc 	8 	6 	1 	18 	1 	upon 	IN
+Ecc 	8 	6 	1 	19 	1 	him 	PRP
+Ecc 	8 	6 	1 	20 	0 	.
+Ecc 	8 	7 	1 	1 	1 	For 	IN
+Ecc 	8 	7 	1 	2 	1 	he 	PRP
+Ecc 	8 	7 	1 	3 	1 	knoweth 	NNS
+Ecc 	8 	7 	1 	4 	1 	not 	RB
+Ecc 	8 	7 	1 	5 	1 	that 	IN
+Ecc 	8 	7 	1 	6 	1 	which 	WDT
+Ecc 	8 	7 	1 	7 	1 	shall 	MD
+Ecc 	8 	7 	1 	8 	1 	be 	VB
+Ecc 	8 	7 	1 	9 	0 	:
+Ecc 	8 	7 	1 	10 	1 	for 	IN
+Ecc 	8 	7 	1 	11 	1 	who 	WP
+Ecc 	8 	7 	1 	12 	1 	can 	MD
+Ecc 	8 	7 	1 	13 	1 	tell 	NN
+Ecc 	8 	7 	1 	14 	1 	him 	PRP
+Ecc 	8 	7 	1 	15 	1 	when 	WRB
+Ecc 	8 	7 	1 	16 	1 	it 	PRP
+Ecc 	8 	7 	1 	17 	1 	shall 	MD
+Ecc 	8 	7 	1 	18 	1 	be 	VB
+Ecc 	8 	7 	1 	19 	0 	?
+Ecc 	8 	8 	1 	1 	1 	There 	EX
+Ecc 	8 	8 	1 	2 	1 	is 	VBZ
+Ecc 	8 	8 	1 	3 	1 	no 	DT
+Ecc 	8 	8 	1 	4 	1 	man 	NN
+Ecc 	8 	8 	1 	5 	1 	that 	IN
+Ecc 	8 	8 	1 	6 	1 	hath 	NN
+Ecc 	8 	8 	1 	7 	1 	power 	NN
+Ecc 	8 	8 	1 	8 	1 	over 	IN
+Ecc 	8 	8 	1 	9 	1 	the 	DT
+Ecc 	8 	8 	1 	10 	1 	spirit 	NN
+Ecc 	8 	8 	1 	11 	1 	to 	TO
+Ecc 	8 	8 	1 	12 	1 	retain 	NN
+Ecc 	8 	8 	1 	13 	1 	the 	DT
+Ecc 	8 	8 	1 	14 	1 	spirit 	NN
+Ecc 	8 	8 	1 	15 	0 	;
+Ecc 	8 	8 	1 	16 	1 	neither 	DT
+Ecc 	8 	8 	1 	17 	1 	hath 	NN
+Ecc 	8 	8 	1 	18 	1 	he 	PRP
+Ecc 	8 	8 	1 	19 	1 	power 	NN
+Ecc 	8 	8 	1 	20 	1 	in 	IN
+Ecc 	8 	8 	1 	21 	1 	the 	DT
+Ecc 	8 	8 	1 	22 	1 	day 	NN
+Ecc 	8 	8 	1 	23 	1 	of 	IN
+Ecc 	8 	8 	1 	24 	1 	death 	NN
+Ecc 	8 	8 	1 	25 	0 	:
+Ecc 	8 	8 	1 	26 	1 	and 	CC
+Ecc 	8 	8 	1 	27 	1 	there 	RB
+Ecc 	8 	8 	1 	28 	1 	is 	VBZ
+Ecc 	8 	8 	1 	29 	1 	no 	DT
+Ecc 	8 	8 	1 	30 	1 	discharge 	NN
+Ecc 	8 	8 	1 	31 	1 	in 	IN
+Ecc 	8 	8 	1 	32 	1 	that 	IN
+Ecc 	8 	8 	1 	33 	1 	war 	NN
+Ecc 	8 	8 	1 	34 	0 	;
+Ecc 	8 	8 	1 	35 	1 	neither 	DT
+Ecc 	8 	8 	1 	36 	1 	shall 	MD
+Ecc 	8 	8 	1 	37 	1 	wickedness 	NN
+Ecc 	8 	8 	1 	38 	1 	deliver 	NN
+Ecc 	8 	8 	1 	39 	1 	those 	DT
+Ecc 	8 	8 	1 	40 	1 	that 	IN
+Ecc 	8 	8 	1 	41 	1 	are 	VBP
+Ecc 	8 	8 	1 	42 	1 	given 	VBN
+Ecc 	8 	8 	1 	43 	1 	to 	TO
+Ecc 	8 	8 	1 	44 	1 	it 	PRP
+Ecc 	8 	8 	1 	45 	0 	.
+Ecc 	8 	9 	1 	1 	1 	All 	DT
+Ecc 	8 	9 	1 	2 	1 	this 	DT
+Ecc 	8 	9 	1 	3 	1 	have 	VB
+Ecc 	8 	9 	1 	4 	1 	I 	PRP
+Ecc 	8 	9 	1 	5 	1 	seen 	VBN
+Ecc 	8 	9 	1 	6 	0 	,
+Ecc 	8 	9 	1 	7 	1 	and 	CC
+Ecc 	8 	9 	1 	8 	1 	applied 	VBN
+Ecc 	8 	9 	1 	9 	1 	my 	PRP$
+Ecc 	8 	9 	1 	10 	1 	heart 	NN
+Ecc 	8 	9 	1 	11 	1 	unto 	NN
+Ecc 	8 	9 	1 	12 	1 	every 	DT
+Ecc 	8 	9 	1 	13 	1 	work 	NN
+Ecc 	8 	9 	1 	14 	1 	that 	IN
+Ecc 	8 	9 	1 	15 	1 	is 	VBZ
+Ecc 	8 	9 	1 	16 	1 	done 	VBN
+Ecc 	8 	9 	1 	17 	1 	under 	IN
+Ecc 	8 	9 	1 	18 	1 	the 	DT
+Ecc 	8 	9 	1 	19 	1 	sun 	NN
+Ecc 	8 	9 	1 	20 	0 	:
+Ecc 	8 	9 	1 	21 	1 	there 	RB
+Ecc 	8 	9 	1 	22 	1 	is 	VBZ
+Ecc 	8 	9 	1 	23 	1 	a 	DT
+Ecc 	8 	9 	1 	24 	1 	time 	NN
+Ecc 	8 	9 	1 	25 	1 	wherein 	NN
+Ecc 	8 	9 	1 	26 	1 	one 	CD
+Ecc 	8 	9 	1 	27 	1 	man 	NN
+Ecc 	8 	9 	1 	28 	1 	ruleth 	NN
+Ecc 	8 	9 	1 	29 	1 	over 	IN
+Ecc 	8 	9 	1 	30 	1 	another 	DT
+Ecc 	8 	9 	1 	31 	1 	to 	TO
+Ecc 	8 	9 	1 	32 	1 	his 	PRP$
+Ecc 	8 	9 	1 	33 	1 	own 	JJ
+Ecc 	8 	9 	1 	34 	1 	hurt 	NN
+Ecc 	8 	9 	1 	35 	0 	.
+Ecc 	8 	10 	1 	1 	1 	And 	CC
+Ecc 	8 	10 	1 	2 	1 	so 	RB
+Ecc 	8 	10 	1 	3 	1 	I 	PRP
+Ecc 	8 	10 	1 	4 	1 	saw 	NN
+Ecc 	8 	10 	1 	5 	1 	the 	DT
+Ecc 	8 	10 	1 	6 	1 	wicked 	VBD
+Ecc 	8 	10 	1 	7 	1 	buried 	VBN
+Ecc 	8 	10 	1 	8 	0 	,
+Ecc 	8 	10 	1 	9 	1 	who 	WP
+Ecc 	8 	10 	1 	10 	1 	had 	VBD
+Ecc 	8 	10 	1 	11 	1 	come 	VB
+Ecc 	8 	10 	1 	12 	1 	and 	CC
+Ecc 	8 	10 	1 	13 	1 	gone 	VBN
+Ecc 	8 	10 	1 	14 	1 	from 	IN
+Ecc 	8 	10 	1 	15 	1 	the 	DT
+Ecc 	8 	10 	1 	16 	1 	place 	NN
+Ecc 	8 	10 	1 	17 	1 	of 	IN
+Ecc 	8 	10 	1 	18 	1 	the 	DT
+Ecc 	8 	10 	1 	19 	1 	holy 	NN
+Ecc 	8 	10 	1 	20 	0 	,
+Ecc 	8 	10 	1 	21 	1 	and 	CC
+Ecc 	8 	10 	1 	22 	1 	they 	PRP
+Ecc 	8 	10 	1 	23 	1 	were 	VBD
+Ecc 	8 	10 	1 	24 	1 	forgotten 	NNS
+Ecc 	8 	10 	1 	25 	1 	in 	IN
+Ecc 	8 	10 	1 	26 	1 	the 	DT
+Ecc 	8 	10 	1 	27 	1 	city 	NN
+Ecc 	8 	10 	1 	28 	1 	where 	WRB
+Ecc 	8 	10 	1 	29 	1 	they 	PRP
+Ecc 	8 	10 	1 	30 	1 	had 	VBD
+Ecc 	8 	10 	1 	31 	1 	so 	RB
+Ecc 	8 	10 	1 	32 	1 	done 	VBN
+Ecc 	8 	10 	1 	33 	0 	:
+Ecc 	8 	10 	1 	34 	1 	this 	DT
+Ecc 	8 	10 	1 	35 	1 	is 	VBZ
+Ecc 	8 	10 	1 	36 	1 	also 	RB
+Ecc 	8 	10 	1 	37 	1 	vanity 	NN
+Ecc 	8 	10 	1 	38 	0 	.
+Ecc 	8 	11 	1 	1 	1 	Because 	IN
+Ecc 	8 	11 	1 	2 	1 	sentence 	NN
+Ecc 	8 	11 	1 	3 	1 	against 	IN
+Ecc 	8 	11 	1 	4 	1 	an 	DT
+Ecc 	8 	11 	1 	5 	1 	evil 	NN
+Ecc 	8 	11 	1 	6 	1 	work 	NN
+Ecc 	8 	11 	1 	7 	1 	is 	VBZ
+Ecc 	8 	11 	1 	8 	1 	not 	RB
+Ecc 	8 	11 	1 	9 	1 	executed 	VBN
+Ecc 	8 	11 	1 	10 	1 	speedily 	RB
+Ecc 	8 	11 	1 	11 	0 	,
+Ecc 	8 	11 	1 	12 	1 	therefore 	RB
+Ecc 	8 	11 	1 	13 	1 	the 	DT
+Ecc 	8 	11 	1 	14 	1 	heart 	NN
+Ecc 	8 	11 	1 	15 	1 	of 	IN
+Ecc 	8 	11 	1 	16 	1 	the 	DT
+Ecc 	8 	11 	1 	17 	1 	sons 	NNS
+Ecc 	8 	11 	1 	18 	1 	of 	IN
+Ecc 	8 	11 	1 	19 	1 	men 	NNS
+Ecc 	8 	11 	1 	20 	1 	is 	VBZ
+Ecc 	8 	11 	1 	21 	1 	fully 	RB
+Ecc 	8 	11 	1 	22 	1 	set 	NN
+Ecc 	8 	11 	1 	23 	1 	in 	IN
+Ecc 	8 	11 	1 	24 	1 	them 	PRP
+Ecc 	8 	11 	1 	25 	1 	to 	TO
+Ecc 	8 	11 	1 	26 	1 	do 	VB
+Ecc 	8 	11 	1 	27 	1 	evil 	NN
+Ecc 	8 	11 	1 	28 	0 	.
+Ecc 	8 	12 	1 	1 	1 	Though 	IN
+Ecc 	8 	12 	1 	2 	1 	a 	DT
+Ecc 	8 	12 	1 	3 	1 	sinner 	NN
+Ecc 	8 	12 	1 	4 	1 	do 	VB
+Ecc 	8 	12 	1 	5 	1 	evil 	NN
+Ecc 	8 	12 	1 	6 	1 	an 	DT
+Ecc 	8 	12 	1 	7 	1 	hundred 	VBN
+Ecc 	8 	12 	1 	8 	1 	times 	NNS
+Ecc 	8 	12 	1 	9 	0 	,
+Ecc 	8 	12 	1 	10 	1 	and 	CC
+Ecc 	8 	12 	1 	11 	1 	his 	PRP$
+Ecc 	8 	12 	1 	12 	1 	days 	NNS
+Ecc 	8 	12 	1 	13 	1 	be 	VB
+Ecc 	8 	12 	1 	14 	1 	prolonged 	VBN
+Ecc 	8 	12 	1 	15 	0 	,
+Ecc 	8 	12 	1 	16 	1 	yet 	RB
+Ecc 	8 	12 	1 	17 	1 	surely 	RB
+Ecc 	8 	12 	1 	18 	1 	I 	PRP
+Ecc 	8 	12 	1 	19 	1 	know 	VB
+Ecc 	8 	12 	1 	20 	1 	that 	IN
+Ecc 	8 	12 	1 	21 	1 	it 	PRP
+Ecc 	8 	12 	1 	22 	1 	shall 	MD
+Ecc 	8 	12 	1 	23 	1 	be 	VB
+Ecc 	8 	12 	1 	24 	1 	well 	RB
+Ecc 	8 	12 	1 	25 	1 	with 	IN
+Ecc 	8 	12 	1 	26 	1 	them 	PRP
+Ecc 	8 	12 	1 	27 	1 	that 	IN
+Ecc 	8 	12 	1 	28 	1 	fear 	NN
+Ecc 	8 	12 	1 	29 	1 	God 	NNP
+Ecc 	8 	12 	1 	30 	0 	,
+Ecc 	8 	12 	1 	31 	1 	which 	WDT
+Ecc 	8 	12 	1 	32 	1 	fear 	NN
+Ecc 	8 	12 	1 	33 	1 	before 	IN
+Ecc 	8 	12 	1 	34 	1 	him 	PRP
+Ecc 	8 	12 	1 	35 	0 	:
+Ecc 	8 	13 	1 	1 	1 	But 	CC
+Ecc 	8 	13 	1 	2 	1 	it 	PRP
+Ecc 	8 	13 	1 	3 	1 	shall 	MD
+Ecc 	8 	13 	1 	4 	1 	not 	RB
+Ecc 	8 	13 	1 	5 	1 	be 	VB
+Ecc 	8 	13 	1 	6 	1 	well 	RB
+Ecc 	8 	13 	1 	7 	1 	with 	IN
+Ecc 	8 	13 	1 	8 	1 	the 	DT
+Ecc 	8 	13 	1 	9 	1 	wicked 	VBD
+Ecc 	8 	13 	1 	10 	0 	,
+Ecc 	8 	13 	1 	11 	1 	neither 	DT
+Ecc 	8 	13 	1 	12 	1 	shall 	MD
+Ecc 	8 	13 	1 	13 	1 	he 	PRP
+Ecc 	8 	13 	1 	14 	1 	prolong 	NN
+Ecc 	8 	13 	1 	15 	1 	his 	PRP$
+Ecc 	8 	13 	1 	16 	1 	days 	NNS
+Ecc 	8 	13 	1 	17 	0 	,
+Ecc 	8 	13 	1 	18 	1 	which 	WDT
+Ecc 	8 	13 	1 	19 	1 	are 	VBP
+Ecc 	8 	13 	1 	20 	1 	as 	IN
+Ecc 	8 	13 	1 	21 	1 	a 	DT
+Ecc 	8 	13 	1 	22 	1 	shadow 	NN
+Ecc 	8 	13 	1 	23 	0 	;
+Ecc 	8 	13 	1 	24 	1 	because 	IN
+Ecc 	8 	13 	1 	25 	1 	he 	PRP
+Ecc 	8 	13 	1 	26 	1 	feareth 	NNS
+Ecc 	8 	13 	1 	27 	1 	not 	RB
+Ecc 	8 	13 	1 	28 	1 	before 	IN
+Ecc 	8 	13 	1 	29 	1 	God 	NNP
+Ecc 	8 	13 	1 	30 	0 	.
+Ecc 	8 	14 	1 	1 	1 	There 	EX
+Ecc 	8 	14 	1 	2 	1 	is 	VBZ
+Ecc 	8 	14 	1 	3 	1 	a 	DT
+Ecc 	8 	14 	1 	4 	1 	vanity 	NN
+Ecc 	8 	14 	1 	5 	1 	which 	WDT
+Ecc 	8 	14 	1 	6 	1 	is 	VBZ
+Ecc 	8 	14 	1 	7 	1 	done 	VBN
+Ecc 	8 	14 	1 	8 	1 	upon 	IN
+Ecc 	8 	14 	1 	9 	1 	the 	DT
+Ecc 	8 	14 	1 	10 	1 	earth 	NN
+Ecc 	8 	14 	1 	11 	0 	;
+Ecc 	8 	14 	1 	12 	1 	that 	IN
+Ecc 	8 	14 	1 	13 	1 	there 	RB
+Ecc 	8 	14 	1 	14 	1 	be 	VB
+Ecc 	8 	14 	1 	15 	1 	just 	RB
+Ecc 	8 	14 	1 	16 	1 	men 	NNS
+Ecc 	8 	14 	1 	17 	0 	,
+Ecc 	8 	14 	1 	18 	1 	unto 	NN
+Ecc 	8 	14 	1 	19 	1 	whom 	WP
+Ecc 	8 	14 	1 	20 	1 	it 	PRP
+Ecc 	8 	14 	1 	21 	1 	happeneth 	NN
+Ecc 	8 	14 	1 	22 	1 	according 	VBG
+Ecc 	8 	14 	1 	23 	1 	to 	TO
+Ecc 	8 	14 	1 	24 	1 	the 	DT
+Ecc 	8 	14 	1 	25 	1 	work 	NN
+Ecc 	8 	14 	1 	26 	1 	of 	IN
+Ecc 	8 	14 	1 	27 	1 	the 	DT
+Ecc 	8 	14 	1 	28 	1 	wicked 	VBD
+Ecc 	8 	14 	1 	29 	0 	;
+Ecc 	8 	14 	1 	30 	1 	again 	RB
+Ecc 	8 	14 	1 	31 	0 	,
+Ecc 	8 	14 	1 	32 	1 	there 	RB
+Ecc 	8 	14 	1 	33 	1 	be 	VB
+Ecc 	8 	14 	1 	34 	1 	wicked 	VBD
+Ecc 	8 	14 	1 	35 	1 	men 	NNS
+Ecc 	8 	14 	1 	36 	0 	,
+Ecc 	8 	14 	1 	37 	1 	to 	TO
+Ecc 	8 	14 	1 	38 	1 	whom 	WP
+Ecc 	8 	14 	1 	39 	1 	it 	PRP
+Ecc 	8 	14 	1 	40 	1 	happeneth 	NN
+Ecc 	8 	14 	1 	41 	1 	according 	VBG
+Ecc 	8 	14 	1 	42 	1 	to 	TO
+Ecc 	8 	14 	1 	43 	1 	the 	DT
+Ecc 	8 	14 	1 	44 	1 	work 	NN
+Ecc 	8 	14 	1 	45 	1 	of 	IN
+Ecc 	8 	14 	1 	46 	1 	the 	DT
+Ecc 	8 	14 	1 	47 	1 	righteous 	JJ
+Ecc 	8 	14 	1 	48 	0 	:
+Ecc 	8 	14 	1 	49 	1 	I 	PRP
+Ecc 	8 	14 	1 	50 	1 	said 	VBD
+Ecc 	8 	14 	1 	51 	1 	that 	IN
+Ecc 	8 	14 	1 	52 	1 	this 	DT
+Ecc 	8 	14 	1 	53 	1 	also 	RB
+Ecc 	8 	14 	1 	54 	1 	is 	VBZ
+Ecc 	8 	14 	1 	55 	1 	vanity 	NN
+Ecc 	8 	14 	1 	56 	0 	.
+Ecc 	8 	15 	1 	1 	1 	Then 	RB
+Ecc 	8 	15 	1 	2 	1 	I 	PRP
+Ecc 	8 	15 	1 	3 	1 	commended 	VBN
+Ecc 	8 	15 	1 	4 	1 	mirth 	NN
+Ecc 	8 	15 	1 	5 	0 	,
+Ecc 	8 	15 	1 	6 	1 	because 	IN
+Ecc 	8 	15 	1 	7 	1 	a 	DT
+Ecc 	8 	15 	1 	8 	1 	man 	NN
+Ecc 	8 	15 	1 	9 	1 	hath 	NN
+Ecc 	8 	15 	1 	10 	1 	no 	DT
+Ecc 	8 	15 	1 	11 	1 	better 	RBR
+Ecc 	8 	15 	1 	12 	1 	thing 	NN
+Ecc 	8 	15 	1 	13 	1 	under 	IN
+Ecc 	8 	15 	1 	14 	1 	the 	DT
+Ecc 	8 	15 	1 	15 	1 	sun 	NN
+Ecc 	8 	15 	1 	16 	0 	,
+Ecc 	8 	15 	1 	17 	1 	than 	IN
+Ecc 	8 	15 	1 	18 	1 	to 	TO
+Ecc 	8 	15 	1 	19 	1 	eat 	NN
+Ecc 	8 	15 	1 	20 	0 	,
+Ecc 	8 	15 	1 	21 	1 	and 	CC
+Ecc 	8 	15 	1 	22 	1 	to 	TO
+Ecc 	8 	15 	1 	23 	1 	drink 	NN
+Ecc 	8 	15 	1 	24 	0 	,
+Ecc 	8 	15 	1 	25 	1 	and 	CC
+Ecc 	8 	15 	1 	26 	1 	to 	TO
+Ecc 	8 	15 	1 	27 	1 	be 	VB
+Ecc 	8 	15 	1 	28 	1 	merry 	NN
+Ecc 	8 	15 	1 	29 	0 	:
+Ecc 	8 	15 	1 	30 	1 	for 	IN
+Ecc 	8 	15 	1 	31 	1 	that 	IN
+Ecc 	8 	15 	1 	32 	1 	shall 	MD
+Ecc 	8 	15 	1 	33 	1 	abide 	NN
+Ecc 	8 	15 	1 	34 	1 	with 	IN
+Ecc 	8 	15 	1 	35 	1 	him 	PRP
+Ecc 	8 	15 	1 	36 	1 	of 	IN
+Ecc 	8 	15 	1 	37 	1 	his 	PRP$
+Ecc 	8 	15 	1 	38 	1 	labour 	NN
+Ecc 	8 	15 	1 	39 	1 	the 	DT
+Ecc 	8 	15 	1 	40 	1 	days 	NNS
+Ecc 	8 	15 	1 	41 	1 	of 	IN
+Ecc 	8 	15 	1 	42 	1 	his 	PRP$
+Ecc 	8 	15 	1 	43 	1 	life 	NN
+Ecc 	8 	15 	1 	44 	0 	,
+Ecc 	8 	15 	1 	45 	1 	which 	WDT
+Ecc 	8 	15 	1 	46 	1 	God 	NNP
+Ecc 	8 	15 	1 	47 	1 	giveth 	NNS
+Ecc 	8 	15 	1 	48 	1 	him 	PRP
+Ecc 	8 	15 	1 	49 	1 	under 	IN
+Ecc 	8 	15 	1 	50 	1 	the 	DT
+Ecc 	8 	15 	1 	51 	1 	sun 	NN
+Ecc 	8 	15 	1 	52 	0 	.
+Ecc 	8 	16 	1 	1 	1 	When 	WRB
+Ecc 	8 	16 	1 	2 	1 	I 	PRP
+Ecc 	8 	16 	1 	3 	1 	applied 	VBN
+Ecc 	8 	16 	1 	4 	1 	mine 	NN
+Ecc 	8 	16 	1 	5 	1 	heart 	NN
+Ecc 	8 	16 	1 	6 	1 	to 	TO
+Ecc 	8 	16 	1 	7 	1 	know 	VB
+Ecc 	8 	16 	1 	8 	1 	wisdom 	NN
+Ecc 	8 	16 	1 	9 	0 	,
+Ecc 	8 	16 	1 	10 	1 	and 	CC
+Ecc 	8 	16 	1 	11 	1 	to 	TO
+Ecc 	8 	16 	1 	12 	1 	see 	VB
+Ecc 	8 	16 	1 	13 	1 	the 	DT
+Ecc 	8 	16 	1 	14 	1 	business 	NN
+Ecc 	8 	16 	1 	15 	1 	that 	IN
+Ecc 	8 	16 	1 	16 	1 	is 	VBZ
+Ecc 	8 	16 	1 	17 	1 	done 	VBN
+Ecc 	8 	16 	1 	18 	1 	upon 	IN
+Ecc 	8 	16 	1 	19 	1 	the 	DT
+Ecc 	8 	16 	1 	20 	1 	earth 	NN
+Ecc 	8 	16 	1 	21 	0 	:
+Ecc 	8 	16 	1 	22 	0 	(
+Ecc 	8 	16 	1 	23 	1 	for 	IN
+Ecc 	8 	16 	1 	24 	1 	also 	RB
+Ecc 	8 	16 	1 	25 	1 	there 	RB
+Ecc 	8 	16 	1 	26 	1 	is 	VBZ
+Ecc 	8 	16 	1 	27 	1 	that 	IN
+Ecc 	8 	16 	1 	28 	1 	neither 	DT
+Ecc 	8 	16 	1 	29 	1 	day 	NN
+Ecc 	8 	16 	1 	30 	1 	nor 	CC
+Ecc 	8 	16 	1 	31 	1 	night 	NN
+Ecc 	8 	16 	1 	32 	1 	seeth 	NN
+Ecc 	8 	16 	1 	33 	1 	sleep 	NN
+Ecc 	8 	16 	1 	34 	1 	with 	IN
+Ecc 	8 	16 	1 	35 	1 	his 	PRP$
+Ecc 	8 	16 	1 	36 	1 	eyes 	NNS
+Ecc 	8 	16 	1 	37 	0 	:
+Ecc 	8 	16 	1 	38 	0 	)
+Ecc 	8 	17 	1 	1 	1 	Then 	RB
+Ecc 	8 	17 	1 	2 	1 	I 	PRP
+Ecc 	8 	17 	1 	3 	1 	beheld 	NN
+Ecc 	8 	17 	1 	4 	1 	all 	DT
+Ecc 	8 	17 	1 	5 	1 	the 	DT
+Ecc 	8 	17 	1 	6 	1 	work 	NN
+Ecc 	8 	17 	1 	7 	1 	of 	IN
+Ecc 	8 	17 	1 	8 	1 	God 	NNP
+Ecc 	8 	17 	1 	9 	0 	,
+Ecc 	8 	17 	1 	10 	1 	that 	IN
+Ecc 	8 	17 	1 	11 	1 	a 	DT
+Ecc 	8 	17 	1 	12 	1 	man 	NN
+Ecc 	8 	17 	1 	13 	1 	can 	MD
+Ecc 	8 	17 	1 	14 	1 	not 	RB
+Ecc 	8 	17 	1 	15 	1 	find 	VB
+Ecc 	8 	17 	1 	16 	1 	out 	IN
+Ecc 	8 	17 	1 	17 	1 	the 	DT
+Ecc 	8 	17 	1 	18 	1 	work 	NN
+Ecc 	8 	17 	1 	19 	1 	that 	IN
+Ecc 	8 	17 	1 	20 	1 	is 	VBZ
+Ecc 	8 	17 	1 	21 	1 	done 	VBN
+Ecc 	8 	17 	1 	22 	1 	under 	IN
+Ecc 	8 	17 	1 	23 	1 	the 	DT
+Ecc 	8 	17 	1 	24 	1 	sun 	NN
+Ecc 	8 	17 	1 	25 	0 	:
+Ecc 	8 	17 	1 	26 	1 	because 	IN
+Ecc 	8 	17 	1 	27 	1 	though 	IN
+Ecc 	8 	17 	1 	28 	1 	a 	DT
+Ecc 	8 	17 	1 	29 	1 	man 	NN
+Ecc 	8 	17 	1 	30 	1 	labour 	NN
+Ecc 	8 	17 	1 	31 	1 	to 	TO
+Ecc 	8 	17 	1 	32 	1 	seek 	NN
+Ecc 	8 	17 	1 	33 	1 	it 	PRP
+Ecc 	8 	17 	1 	34 	1 	out 	IN
+Ecc 	8 	17 	1 	35 	0 	,
+Ecc 	8 	17 	1 	36 	1 	yet 	RB
+Ecc 	8 	17 	1 	37 	1 	he 	PRP
+Ecc 	8 	17 	1 	38 	1 	shall 	MD
+Ecc 	8 	17 	1 	39 	1 	not 	RB
+Ecc 	8 	17 	1 	40 	1 	find 	VB
+Ecc 	8 	17 	1 	41 	1 	it 	PRP
+Ecc 	8 	17 	1 	42 	0 	;
+Ecc 	8 	17 	1 	43 	1 	yea 	NN
+Ecc 	8 	17 	1 	44 	1 	farther 	NN
+Ecc 	8 	17 	1 	45 	0 	;
+Ecc 	8 	17 	1 	46 	1 	though 	IN
+Ecc 	8 	17 	1 	47 	1 	a 	DT
+Ecc 	8 	17 	1 	48 	1 	wise 	NN
+Ecc 	8 	17 	1 	49 	1 	man 	NN
+Ecc 	8 	17 	1 	50 	1 	think 	NN
+Ecc 	8 	17 	1 	51 	1 	to 	TO
+Ecc 	8 	17 	1 	52 	1 	know 	VB
+Ecc 	8 	17 	1 	53 	1 	it 	PRP
+Ecc 	8 	17 	1 	54 	0 	,
+Ecc 	8 	17 	1 	55 	1 	yet 	RB
+Ecc 	8 	17 	1 	56 	1 	shall 	MD
+Ecc 	8 	17 	1 	57 	1 	he 	PRP
+Ecc 	8 	17 	1 	58 	1 	not 	RB
+Ecc 	8 	17 	1 	59 	1 	be 	VB
+Ecc 	8 	17 	1 	60 	1 	able 	JJ
+Ecc 	8 	17 	1 	61 	1 	to 	TO
+Ecc 	8 	17 	1 	62 	1 	find 	VB
+Ecc 	8 	17 	1 	63 	1 	it 	PRP
+Ecc 	8 	17 	1 	64 	0 	.
+Ecc 	9 	1 	1 	1 	1 	For 	IN
+Ecc 	9 	1 	1 	2 	1 	all 	DT
+Ecc 	9 	1 	1 	3 	1 	this 	DT
+Ecc 	9 	1 	1 	4 	1 	I 	PRP
+Ecc 	9 	1 	1 	5 	1 	considered 	VBN
+Ecc 	9 	1 	1 	6 	1 	in 	IN
+Ecc 	9 	1 	1 	7 	1 	my 	PRP$
+Ecc 	9 	1 	1 	8 	1 	heart 	NN
+Ecc 	9 	1 	1 	9 	1 	even 	RB
+Ecc 	9 	1 	1 	10 	1 	to 	TO
+Ecc 	9 	1 	1 	11 	1 	declare 	NN
+Ecc 	9 	1 	1 	12 	1 	all 	DT
+Ecc 	9 	1 	1 	13 	1 	this 	DT
+Ecc 	9 	1 	1 	14 	0 	,
+Ecc 	9 	1 	1 	15 	1 	that 	IN
+Ecc 	9 	1 	1 	16 	1 	the 	DT
+Ecc 	9 	1 	1 	17 	1 	righteous 	JJ
+Ecc 	9 	1 	1 	18 	0 	,
+Ecc 	9 	1 	1 	19 	1 	and 	CC
+Ecc 	9 	1 	1 	20 	1 	the 	DT
+Ecc 	9 	1 	1 	21 	1 	wise 	NN
+Ecc 	9 	1 	1 	22 	0 	,
+Ecc 	9 	1 	1 	23 	1 	and 	CC
+Ecc 	9 	1 	1 	24 	1 	their 	PRP$
+Ecc 	9 	1 	1 	25 	1 	works 	NNS
+Ecc 	9 	1 	1 	26 	0 	,
+Ecc 	9 	1 	1 	27 	1 	are 	VBP
+Ecc 	9 	1 	1 	28 	1 	in 	IN
+Ecc 	9 	1 	1 	29 	1 	the 	DT
+Ecc 	9 	1 	1 	30 	1 	hand 	NN
+Ecc 	9 	1 	1 	31 	1 	of 	IN
+Ecc 	9 	1 	1 	32 	1 	God 	NNP
+Ecc 	9 	1 	1 	33 	0 	:
+Ecc 	9 	1 	1 	34 	1 	no 	DT
+Ecc 	9 	1 	1 	35 	1 	man 	NN
+Ecc 	9 	1 	1 	36 	1 	knoweth 	NNS
+Ecc 	9 	1 	1 	37 	1 	either 	DT
+Ecc 	9 	1 	1 	38 	1 	love 	NN
+Ecc 	9 	1 	1 	39 	1 	or 	CC
+Ecc 	9 	1 	1 	40 	1 	hatred 	VBN
+Ecc 	9 	1 	1 	41 	1 	by 	IN
+Ecc 	9 	1 	1 	42 	1 	all 	DT
+Ecc 	9 	1 	1 	43 	1 	that 	IN
+Ecc 	9 	1 	1 	44 	1 	is 	VBZ
+Ecc 	9 	1 	1 	45 	1 	before 	IN
+Ecc 	9 	1 	1 	46 	1 	them 	PRP
+Ecc 	9 	1 	1 	47 	0 	.
+Ecc 	9 	2 	1 	1 	1 	All 	DT
+Ecc 	9 	2 	1 	2 	1 	things 	NNS
+Ecc 	9 	2 	1 	3 	1 	come 	VB
+Ecc 	9 	2 	1 	4 	1 	alike 	RB
+Ecc 	9 	2 	1 	5 	1 	to 	TO
+Ecc 	9 	2 	1 	6 	1 	all 	DT
+Ecc 	9 	2 	1 	7 	0 	:
+Ecc 	9 	2 	1 	8 	1 	there 	RB
+Ecc 	9 	2 	1 	9 	1 	is 	VBZ
+Ecc 	9 	2 	1 	10 	1 	one 	CD
+Ecc 	9 	2 	1 	11 	1 	event 	NN
+Ecc 	9 	2 	1 	12 	1 	to 	TO
+Ecc 	9 	2 	1 	13 	1 	the 	DT
+Ecc 	9 	2 	1 	14 	1 	righteous 	JJ
+Ecc 	9 	2 	1 	15 	0 	,
+Ecc 	9 	2 	1 	16 	1 	and 	CC
+Ecc 	9 	2 	1 	17 	1 	to 	TO
+Ecc 	9 	2 	1 	18 	1 	the 	DT
+Ecc 	9 	2 	1 	19 	1 	wicked 	VBD
+Ecc 	9 	2 	1 	20 	0 	;
+Ecc 	9 	2 	1 	21 	1 	to 	TO
+Ecc 	9 	2 	1 	22 	1 	the 	DT
+Ecc 	9 	2 	1 	23 	1 	good 	JJ
+Ecc 	9 	2 	1 	24 	1 	and 	CC
+Ecc 	9 	2 	1 	25 	1 	to 	TO
+Ecc 	9 	2 	1 	26 	1 	the 	DT
+Ecc 	9 	2 	1 	27 	1 	clean 	NN
+Ecc 	9 	2 	1 	28 	0 	,
+Ecc 	9 	2 	1 	29 	1 	and 	CC
+Ecc 	9 	2 	1 	30 	1 	to 	TO
+Ecc 	9 	2 	1 	31 	1 	the 	DT
+Ecc 	9 	2 	1 	32 	1 	unclean 	JJ
+Ecc 	9 	2 	1 	33 	0 	;
+Ecc 	9 	2 	1 	34 	1 	to 	TO
+Ecc 	9 	2 	1 	35 	1 	him 	PRP
+Ecc 	9 	2 	1 	36 	1 	that 	IN
+Ecc 	9 	2 	1 	37 	1 	sacrificeth 	NN
+Ecc 	9 	2 	1 	38 	0 	,
+Ecc 	9 	2 	1 	39 	1 	and 	CC
+Ecc 	9 	2 	1 	40 	1 	to 	TO
+Ecc 	9 	2 	1 	41 	1 	him 	PRP
+Ecc 	9 	2 	1 	42 	1 	that 	IN
+Ecc 	9 	2 	1 	43 	1 	sacrificeth 	NN
+Ecc 	9 	2 	1 	44 	1 	not 	RB
+Ecc 	9 	2 	1 	45 	0 	:
+Ecc 	9 	2 	1 	46 	1 	as 	IN
+Ecc 	9 	2 	1 	47 	1 	is 	VBZ
+Ecc 	9 	2 	1 	48 	1 	the 	DT
+Ecc 	9 	2 	1 	49 	1 	good 	JJ
+Ecc 	9 	2 	1 	50 	0 	,
+Ecc 	9 	2 	1 	51 	1 	so 	RB
+Ecc 	9 	2 	1 	52 	1 	is 	VBZ
+Ecc 	9 	2 	1 	53 	1 	the 	DT
+Ecc 	9 	2 	1 	54 	1 	sinner 	NN
+Ecc 	9 	2 	1 	55 	0 	;
+Ecc 	9 	2 	1 	56 	1 	and 	CC
+Ecc 	9 	2 	1 	57 	1 	he 	PRP
+Ecc 	9 	2 	1 	58 	1 	that 	IN
+Ecc 	9 	2 	1 	59 	1 	sweareth 	NN
+Ecc 	9 	2 	1 	60 	0 	,
+Ecc 	9 	2 	1 	61 	1 	as 	IN
+Ecc 	9 	2 	1 	62 	1 	he 	PRP
+Ecc 	9 	2 	1 	63 	1 	that 	IN
+Ecc 	9 	2 	1 	64 	1 	feareth 	NNS
+Ecc 	9 	2 	1 	65 	1 	an 	DT
+Ecc 	9 	2 	1 	66 	1 	oath 	NN
+Ecc 	9 	2 	1 	67 	0 	.
+Ecc 	9 	3 	1 	1 	1 	This 	DT
+Ecc 	9 	3 	1 	2 	1 	is 	VBZ
+Ecc 	9 	3 	1 	3 	1 	an 	DT
+Ecc 	9 	3 	1 	4 	1 	evil 	NN
+Ecc 	9 	3 	1 	5 	1 	among 	IN
+Ecc 	9 	3 	1 	6 	1 	all 	DT
+Ecc 	9 	3 	1 	7 	1 	things 	NNS
+Ecc 	9 	3 	1 	8 	1 	that 	IN
+Ecc 	9 	3 	1 	9 	1 	are 	VBP
+Ecc 	9 	3 	1 	10 	1 	done 	VBN
+Ecc 	9 	3 	1 	11 	1 	under 	IN
+Ecc 	9 	3 	1 	12 	1 	the 	DT
+Ecc 	9 	3 	1 	13 	1 	sun 	NN
+Ecc 	9 	3 	1 	14 	0 	,
+Ecc 	9 	3 	1 	15 	1 	that 	IN
+Ecc 	9 	3 	1 	16 	1 	there 	RB
+Ecc 	9 	3 	1 	17 	1 	is 	VBZ
+Ecc 	9 	3 	1 	18 	1 	one 	CD
+Ecc 	9 	3 	1 	19 	1 	event 	NN
+Ecc 	9 	3 	1 	20 	1 	unto 	NN
+Ecc 	9 	3 	1 	21 	1 	all 	DT
+Ecc 	9 	3 	1 	22 	0 	:
+Ecc 	9 	3 	1 	23 	1 	yea 	NN
+Ecc 	9 	3 	1 	24 	0 	,
+Ecc 	9 	3 	1 	25 	1 	also 	RB
+Ecc 	9 	3 	1 	26 	1 	the 	DT
+Ecc 	9 	3 	1 	27 	1 	heart 	NN
+Ecc 	9 	3 	1 	28 	1 	of 	IN
+Ecc 	9 	3 	1 	29 	1 	the 	DT
+Ecc 	9 	3 	1 	30 	1 	sons 	NNS
+Ecc 	9 	3 	1 	31 	1 	of 	IN
+Ecc 	9 	3 	1 	32 	1 	men 	NNS
+Ecc 	9 	3 	1 	33 	1 	is 	VBZ
+Ecc 	9 	3 	1 	34 	1 	full 	JJ
+Ecc 	9 	3 	1 	35 	1 	of 	IN
+Ecc 	9 	3 	1 	36 	1 	evil 	NN
+Ecc 	9 	3 	1 	37 	0 	,
+Ecc 	9 	3 	1 	38 	1 	and 	CC
+Ecc 	9 	3 	1 	39 	1 	madness 	NN
+Ecc 	9 	3 	1 	40 	1 	is 	VBZ
+Ecc 	9 	3 	1 	41 	1 	in 	IN
+Ecc 	9 	3 	1 	42 	1 	their 	PRP$
+Ecc 	9 	3 	1 	43 	1 	heart 	NN
+Ecc 	9 	3 	1 	44 	1 	while 	IN
+Ecc 	9 	3 	1 	45 	1 	they 	PRP
+Ecc 	9 	3 	1 	46 	1 	live 	JJ
+Ecc 	9 	3 	1 	47 	0 	,
+Ecc 	9 	3 	1 	48 	1 	and 	CC
+Ecc 	9 	3 	1 	49 	1 	after 	IN
+Ecc 	9 	3 	1 	50 	1 	that 	IN
+Ecc 	9 	3 	1 	51 	1 	they 	PRP
+Ecc 	9 	3 	1 	52 	1 	go 	VB
+Ecc 	9 	3 	1 	53 	1 	to 	TO
+Ecc 	9 	3 	1 	54 	1 	the 	DT
+Ecc 	9 	3 	1 	55 	1 	dead 	JJ
+Ecc 	9 	3 	1 	56 	0 	.
+Ecc 	9 	4 	1 	1 	1 	For 	IN
+Ecc 	9 	4 	1 	2 	1 	to 	TO
+Ecc 	9 	4 	1 	3 	1 	him 	PRP
+Ecc 	9 	4 	1 	4 	1 	that 	IN
+Ecc 	9 	4 	1 	5 	1 	is 	VBZ
+Ecc 	9 	4 	1 	6 	1 	joined 	VBD
+Ecc 	9 	4 	1 	7 	1 	to 	TO
+Ecc 	9 	4 	1 	8 	1 	all 	DT
+Ecc 	9 	4 	1 	9 	1 	the 	DT
+Ecc 	9 	4 	1 	10 	1 	living 	NN
+Ecc 	9 	4 	1 	11 	1 	there 	RB
+Ecc 	9 	4 	1 	12 	1 	is 	VBZ
+Ecc 	9 	4 	1 	13 	1 	hope 	NN
+Ecc 	9 	4 	1 	14 	0 	:
+Ecc 	9 	4 	1 	15 	1 	for 	IN
+Ecc 	9 	4 	1 	16 	1 	a 	DT
+Ecc 	9 	4 	1 	17 	1 	living 	NN
+Ecc 	9 	4 	1 	18 	1 	dog 	NN
+Ecc 	9 	4 	1 	19 	1 	is 	VBZ
+Ecc 	9 	4 	1 	20 	1 	better 	RBR
+Ecc 	9 	4 	1 	21 	1 	than 	IN
+Ecc 	9 	4 	1 	22 	1 	a 	DT
+Ecc 	9 	4 	1 	23 	1 	dead 	JJ
+Ecc 	9 	4 	1 	24 	1 	lion 	NN
+Ecc 	9 	4 	1 	25 	0 	.
+Ecc 	9 	5 	1 	1 	1 	For 	IN
+Ecc 	9 	5 	1 	2 	1 	the 	DT
+Ecc 	9 	5 	1 	3 	1 	living 	NN
+Ecc 	9 	5 	1 	4 	1 	know 	VB
+Ecc 	9 	5 	1 	5 	1 	that 	IN
+Ecc 	9 	5 	1 	6 	1 	they 	PRP
+Ecc 	9 	5 	1 	7 	1 	shall 	MD
+Ecc 	9 	5 	1 	8 	1 	die 	NN
+Ecc 	9 	5 	1 	9 	0 	:
+Ecc 	9 	5 	1 	10 	1 	but 	CC
+Ecc 	9 	5 	1 	11 	1 	the 	DT
+Ecc 	9 	5 	1 	12 	1 	dead 	JJ
+Ecc 	9 	5 	1 	13 	1 	know 	VB
+Ecc 	9 	5 	1 	14 	1 	not 	RB
+Ecc 	9 	5 	1 	15 	1 	any 	DT
+Ecc 	9 	5 	1 	16 	1 	thing 	NN
+Ecc 	9 	5 	1 	17 	0 	,
+Ecc 	9 	5 	1 	18 	1 	neither 	DT
+Ecc 	9 	5 	1 	19 	1 	have 	VB
+Ecc 	9 	5 	1 	20 	1 	they 	PRP
+Ecc 	9 	5 	1 	21 	1 	any 	DT
+Ecc 	9 	5 	1 	22 	1 	more 	RBR
+Ecc 	9 	5 	1 	23 	1 	a 	DT
+Ecc 	9 	5 	1 	24 	1 	reward 	NN
+Ecc 	9 	5 	1 	25 	0 	;
+Ecc 	9 	5 	1 	26 	1 	for 	IN
+Ecc 	9 	5 	1 	27 	1 	the 	DT
+Ecc 	9 	5 	1 	28 	1 	memory 	NN
+Ecc 	9 	5 	1 	29 	1 	of 	IN
+Ecc 	9 	5 	1 	30 	1 	them 	PRP
+Ecc 	9 	5 	1 	31 	1 	is 	VBZ
+Ecc 	9 	5 	1 	32 	1 	forgotten 	NNS
+Ecc 	9 	5 	1 	33 	0 	.
+Ecc 	9 	6 	1 	1 	1 	Also 	RB
+Ecc 	9 	6 	1 	2 	1 	their 	PRP$
+Ecc 	9 	6 	1 	3 	1 	love 	NN
+Ecc 	9 	6 	1 	4 	0 	,
+Ecc 	9 	6 	1 	5 	1 	and 	CC
+Ecc 	9 	6 	1 	6 	1 	their 	PRP$
+Ecc 	9 	6 	1 	7 	1 	hatred 	VBN
+Ecc 	9 	6 	1 	8 	0 	,
+Ecc 	9 	6 	1 	9 	1 	and 	CC
+Ecc 	9 	6 	1 	10 	1 	their 	PRP$
+Ecc 	9 	6 	1 	11 	1 	envy 	NN
+Ecc 	9 	6 	1 	12 	0 	,
+Ecc 	9 	6 	1 	13 	1 	is 	VBZ
+Ecc 	9 	6 	1 	14 	1 	now 	RB
+Ecc 	9 	6 	1 	15 	1 	perished 	VBN
+Ecc 	9 	6 	1 	16 	0 	;
+Ecc 	9 	6 	1 	17 	1 	neither 	DT
+Ecc 	9 	6 	1 	18 	1 	have 	VB
+Ecc 	9 	6 	1 	19 	1 	they 	PRP
+Ecc 	9 	6 	1 	20 	1 	any 	DT
+Ecc 	9 	6 	1 	21 	1 	more 	RBR
+Ecc 	9 	6 	1 	22 	1 	a 	DT
+Ecc 	9 	6 	1 	23 	1 	portion 	NN
+Ecc 	9 	6 	1 	24 	1 	for 	IN
+Ecc 	9 	6 	1 	25 	1 	ever 	RB
+Ecc 	9 	6 	1 	26 	1 	in 	IN
+Ecc 	9 	6 	1 	27 	1 	any 	DT
+Ecc 	9 	6 	1 	28 	1 	thing 	NN
+Ecc 	9 	6 	1 	29 	1 	that 	IN
+Ecc 	9 	6 	1 	30 	1 	is 	VBZ
+Ecc 	9 	6 	1 	31 	1 	done 	VBN
+Ecc 	9 	6 	1 	32 	1 	under 	IN
+Ecc 	9 	6 	1 	33 	1 	the 	DT
+Ecc 	9 	6 	1 	34 	1 	sun 	NN
+Ecc 	9 	6 	1 	35 	0 	.
+Ecc 	9 	7 	1 	1 	1 	Go 	VB
+Ecc 	9 	7 	1 	2 	1 	thy 	NN
+Ecc 	9 	7 	1 	3 	1 	way 	NN
+Ecc 	9 	7 	1 	4 	0 	,
+Ecc 	9 	7 	1 	5 	1 	eat 	NN
+Ecc 	9 	7 	1 	6 	1 	thy 	NN
+Ecc 	9 	7 	1 	7 	1 	bread 	NN
+Ecc 	9 	7 	1 	8 	1 	with 	IN
+Ecc 	9 	7 	1 	9 	1 	joy 	NN
+Ecc 	9 	7 	1 	10 	0 	,
+Ecc 	9 	7 	1 	11 	1 	and 	CC
+Ecc 	9 	7 	1 	12 	1 	drink 	NN
+Ecc 	9 	7 	1 	13 	1 	thy 	NN
+Ecc 	9 	7 	1 	14 	1 	wine 	NN
+Ecc 	9 	7 	1 	15 	1 	with 	IN
+Ecc 	9 	7 	1 	16 	1 	a 	DT
+Ecc 	9 	7 	1 	17 	1 	merry 	NN
+Ecc 	9 	7 	1 	18 	1 	heart 	NN
+Ecc 	9 	7 	1 	19 	0 	;
+Ecc 	9 	7 	1 	20 	1 	for 	IN
+Ecc 	9 	7 	1 	21 	1 	God 	NNP
+Ecc 	9 	7 	1 	22 	1 	now 	RB
+Ecc 	9 	7 	1 	23 	1 	accepteth 	NNS
+Ecc 	9 	7 	1 	24 	1 	thy 	NN
+Ecc 	9 	7 	1 	25 	1 	works 	NNS
+Ecc 	9 	7 	1 	26 	0 	.
+Ecc 	9 	8 	1 	1 	1 	Let 	VB
+Ecc 	9 	8 	1 	2 	1 	thy 	NN
+Ecc 	9 	8 	1 	3 	1 	garments 	NNS
+Ecc 	9 	8 	1 	4 	1 	be 	VB
+Ecc 	9 	8 	1 	5 	1 	always 	RB
+Ecc 	9 	8 	1 	6 	1 	white 	JJ
+Ecc 	9 	8 	1 	7 	0 	;
+Ecc 	9 	8 	1 	8 	1 	and 	CC
+Ecc 	9 	8 	1 	9 	1 	let 	VB
+Ecc 	9 	8 	1 	10 	1 	thy 	NN
+Ecc 	9 	8 	1 	11 	1 	head 	NN
+Ecc 	9 	8 	1 	12 	1 	lack 	NN
+Ecc 	9 	8 	1 	13 	1 	no 	DT
+Ecc 	9 	8 	1 	14 	1 	ointment 	NN
+Ecc 	9 	8 	1 	15 	0 	.
+Ecc 	9 	9 	1 	1 	1 	Live 	JJ
+Ecc 	9 	9 	1 	2 	1 	joyfully 	RB
+Ecc 	9 	9 	1 	3 	1 	with 	IN
+Ecc 	9 	9 	1 	4 	1 	the 	DT
+Ecc 	9 	9 	1 	5 	1 	wife 	NN
+Ecc 	9 	9 	1 	6 	1 	whom 	WP
+Ecc 	9 	9 	1 	7 	1 	thou 	NN
+Ecc 	9 	9 	1 	8 	1 	lovest 	JJS
+Ecc 	9 	9 	1 	9 	1 	all 	DT
+Ecc 	9 	9 	1 	10 	1 	the 	DT
+Ecc 	9 	9 	1 	11 	1 	days 	NNS
+Ecc 	9 	9 	1 	12 	1 	of 	IN
+Ecc 	9 	9 	1 	13 	1 	the 	DT
+Ecc 	9 	9 	1 	14 	1 	life 	NN
+Ecc 	9 	9 	1 	15 	1 	of 	IN
+Ecc 	9 	9 	1 	16 	1 	thy 	NN
+Ecc 	9 	9 	1 	17 	1 	vanity 	NN
+Ecc 	9 	9 	1 	18 	0 	,
+Ecc 	9 	9 	1 	19 	1 	which 	WDT
+Ecc 	9 	9 	1 	20 	1 	he 	PRP
+Ecc 	9 	9 	1 	21 	1 	hath 	NN
+Ecc 	9 	9 	1 	22 	1 	given 	VBN
+Ecc 	9 	9 	1 	23 	1 	thee 	NN
+Ecc 	9 	9 	1 	24 	1 	under 	IN
+Ecc 	9 	9 	1 	25 	1 	the 	DT
+Ecc 	9 	9 	1 	26 	1 	sun 	NN
+Ecc 	9 	9 	1 	27 	0 	,
+Ecc 	9 	9 	1 	28 	1 	all 	DT
+Ecc 	9 	9 	1 	29 	1 	the 	DT
+Ecc 	9 	9 	1 	30 	1 	days 	NNS
+Ecc 	9 	9 	1 	31 	1 	of 	IN
+Ecc 	9 	9 	1 	32 	1 	thy 	NN
+Ecc 	9 	9 	1 	33 	1 	vanity 	NN
+Ecc 	9 	9 	1 	34 	0 	:
+Ecc 	9 	9 	1 	35 	1 	for 	IN
+Ecc 	9 	9 	1 	36 	1 	that 	IN
+Ecc 	9 	9 	1 	37 	1 	is 	VBZ
+Ecc 	9 	9 	1 	38 	1 	thy 	NN
+Ecc 	9 	9 	1 	39 	1 	portion 	NN
+Ecc 	9 	9 	1 	40 	1 	in 	IN
+Ecc 	9 	9 	1 	41 	1 	this 	DT
+Ecc 	9 	9 	1 	42 	1 	life 	NN
+Ecc 	9 	9 	1 	43 	0 	,
+Ecc 	9 	9 	1 	44 	1 	and 	CC
+Ecc 	9 	9 	1 	45 	1 	in 	IN
+Ecc 	9 	9 	1 	46 	1 	thy 	NN
+Ecc 	9 	9 	1 	47 	1 	labour 	NN
+Ecc 	9 	9 	1 	48 	1 	which 	WDT
+Ecc 	9 	9 	1 	49 	1 	thou 	NN
+Ecc 	9 	9 	1 	50 	1 	takest 	NN
+Ecc 	9 	9 	1 	51 	1 	under 	IN
+Ecc 	9 	9 	1 	52 	1 	the 	DT
+Ecc 	9 	9 	1 	53 	1 	sun 	NN
+Ecc 	9 	9 	1 	54 	0 	.
+Ecc 	9 	10 	1 	1 	1 	Whatsoever 	WRB
+Ecc 	9 	10 	1 	2 	1 	thy 	NN
+Ecc 	9 	10 	1 	3 	1 	hand 	NN
+Ecc 	9 	10 	1 	4 	1 	findeth 	NNS
+Ecc 	9 	10 	1 	5 	1 	to 	TO
+Ecc 	9 	10 	1 	6 	1 	do 	VB
+Ecc 	9 	10 	1 	7 	0 	,
+Ecc 	9 	10 	1 	8 	1 	do 	VB
+Ecc 	9 	10 	1 	9 	1 	it 	PRP
+Ecc 	9 	10 	1 	10 	1 	with 	IN
+Ecc 	9 	10 	1 	11 	1 	thy 	NN
+Ecc 	9 	10 	1 	12 	1 	might 	MD
+Ecc 	9 	10 	1 	13 	0 	;
+Ecc 	9 	10 	1 	14 	1 	for 	IN
+Ecc 	9 	10 	1 	15 	1 	there 	RB
+Ecc 	9 	10 	1 	16 	1 	is 	VBZ
+Ecc 	9 	10 	1 	17 	1 	no 	DT
+Ecc 	9 	10 	1 	18 	1 	work 	NN
+Ecc 	9 	10 	1 	19 	0 	,
+Ecc 	9 	10 	1 	20 	1 	nor 	CC
+Ecc 	9 	10 	1 	21 	1 	device 	NN
+Ecc 	9 	10 	1 	22 	0 	,
+Ecc 	9 	10 	1 	23 	1 	nor 	CC
+Ecc 	9 	10 	1 	24 	1 	knowledge 	NN
+Ecc 	9 	10 	1 	25 	0 	,
+Ecc 	9 	10 	1 	26 	1 	nor 	CC
+Ecc 	9 	10 	1 	27 	1 	wisdom 	NN
+Ecc 	9 	10 	1 	28 	0 	,
+Ecc 	9 	10 	1 	29 	1 	in 	IN
+Ecc 	9 	10 	1 	30 	1 	the 	DT
+Ecc 	9 	10 	1 	31 	1 	grave 	NN
+Ecc 	9 	10 	1 	32 	0 	,
+Ecc 	9 	10 	1 	33 	1 	whither 	NN
+Ecc 	9 	10 	1 	34 	1 	thou 	NN
+Ecc 	9 	10 	1 	35 	1 	goest 	NN
+Ecc 	9 	10 	1 	36 	0 	.
+Ecc 	9 	11 	1 	1 	1 	I 	PRP
+Ecc 	9 	11 	1 	2 	1 	returned 	VBN
+Ecc 	9 	11 	1 	3 	0 	,
+Ecc 	9 	11 	1 	4 	1 	and 	CC
+Ecc 	9 	11 	1 	5 	1 	saw 	NN
+Ecc 	9 	11 	1 	6 	1 	under 	IN
+Ecc 	9 	11 	1 	7 	1 	the 	DT
+Ecc 	9 	11 	1 	8 	1 	sun 	NN
+Ecc 	9 	11 	1 	9 	0 	,
+Ecc 	9 	11 	1 	10 	1 	that 	IN
+Ecc 	9 	11 	1 	11 	1 	the 	DT
+Ecc 	9 	11 	1 	12 	1 	race 	NN
+Ecc 	9 	11 	1 	13 	1 	is 	VBZ
+Ecc 	9 	11 	1 	14 	1 	not 	RB
+Ecc 	9 	11 	1 	15 	1 	to 	TO
+Ecc 	9 	11 	1 	16 	1 	the 	DT
+Ecc 	9 	11 	1 	17 	1 	swift 	NN
+Ecc 	9 	11 	1 	18 	0 	,
+Ecc 	9 	11 	1 	19 	1 	nor 	CC
+Ecc 	9 	11 	1 	20 	1 	the 	DT
+Ecc 	9 	11 	1 	21 	1 	battle 	NN
+Ecc 	9 	11 	1 	22 	1 	to 	TO
+Ecc 	9 	11 	1 	23 	1 	the 	DT
+Ecc 	9 	11 	1 	24 	1 	strong 	JJ
+Ecc 	9 	11 	1 	25 	0 	,
+Ecc 	9 	11 	1 	26 	1 	neither 	DT
+Ecc 	9 	11 	1 	27 	1 	yet 	RB
+Ecc 	9 	11 	1 	28 	1 	bread 	NN
+Ecc 	9 	11 	1 	29 	1 	to 	TO
+Ecc 	9 	11 	1 	30 	1 	the 	DT
+Ecc 	9 	11 	1 	31 	1 	wise 	NN
+Ecc 	9 	11 	1 	32 	0 	,
+Ecc 	9 	11 	1 	33 	1 	nor 	CC
+Ecc 	9 	11 	1 	34 	1 	yet 	RB
+Ecc 	9 	11 	1 	35 	1 	riches 	NNS
+Ecc 	9 	11 	1 	36 	1 	to 	TO
+Ecc 	9 	11 	1 	37 	1 	men 	NNS
+Ecc 	9 	11 	1 	38 	1 	of 	IN
+Ecc 	9 	11 	1 	39 	1 	understanding 	VBG
+Ecc 	9 	11 	1 	40 	0 	,
+Ecc 	9 	11 	1 	41 	1 	nor 	CC
+Ecc 	9 	11 	1 	42 	1 	yet 	RB
+Ecc 	9 	11 	1 	43 	1 	favour 	NN
+Ecc 	9 	11 	1 	44 	1 	to 	TO
+Ecc 	9 	11 	1 	45 	1 	men 	NNS
+Ecc 	9 	11 	1 	46 	1 	of 	IN
+Ecc 	9 	11 	1 	47 	1 	skill 	NN
+Ecc 	9 	11 	1 	48 	0 	;
+Ecc 	9 	11 	1 	49 	1 	but 	CC
+Ecc 	9 	11 	1 	50 	1 	time 	NN
+Ecc 	9 	11 	1 	51 	1 	and 	CC
+Ecc 	9 	11 	1 	52 	1 	chance 	NN
+Ecc 	9 	11 	1 	53 	1 	happeneth 	NN
+Ecc 	9 	11 	1 	54 	1 	to 	TO
+Ecc 	9 	11 	1 	55 	1 	them 	PRP
+Ecc 	9 	11 	1 	56 	1 	all 	DT
+Ecc 	9 	11 	1 	57 	0 	.
+Ecc 	9 	12 	1 	1 	1 	For 	IN
+Ecc 	9 	12 	1 	2 	1 	man 	NN
+Ecc 	9 	12 	1 	3 	1 	also 	RB
+Ecc 	9 	12 	1 	4 	1 	knoweth 	NNS
+Ecc 	9 	12 	1 	5 	1 	not 	RB
+Ecc 	9 	12 	1 	6 	1 	his 	PRP$
+Ecc 	9 	12 	1 	7 	1 	time 	NN
+Ecc 	9 	12 	1 	8 	0 	:
+Ecc 	9 	12 	1 	9 	1 	as 	IN
+Ecc 	9 	12 	1 	10 	1 	the 	DT
+Ecc 	9 	12 	1 	11 	1 	fishes 	NNS
+Ecc 	9 	12 	1 	12 	1 	that 	IN
+Ecc 	9 	12 	1 	13 	1 	are 	VBP
+Ecc 	9 	12 	1 	14 	1 	taken 	VBN
+Ecc 	9 	12 	1 	15 	1 	in 	IN
+Ecc 	9 	12 	1 	16 	1 	an 	DT
+Ecc 	9 	12 	1 	17 	1 	evil 	NN
+Ecc 	9 	12 	1 	18 	1 	net 	NN
+Ecc 	9 	12 	1 	19 	0 	,
+Ecc 	9 	12 	1 	20 	1 	and 	CC
+Ecc 	9 	12 	1 	21 	1 	as 	IN
+Ecc 	9 	12 	1 	22 	1 	the 	DT
+Ecc 	9 	12 	1 	23 	1 	birds 	NNS
+Ecc 	9 	12 	1 	24 	1 	that 	IN
+Ecc 	9 	12 	1 	25 	1 	are 	VBP
+Ecc 	9 	12 	1 	26 	1 	caught 	NN
+Ecc 	9 	12 	1 	27 	1 	in 	IN
+Ecc 	9 	12 	1 	28 	1 	the 	DT
+Ecc 	9 	12 	1 	29 	1 	snare 	NN
+Ecc 	9 	12 	1 	30 	0 	;
+Ecc 	9 	12 	1 	31 	1 	so 	RB
+Ecc 	9 	12 	1 	32 	1 	are 	VBP
+Ecc 	9 	12 	1 	33 	1 	the 	DT
+Ecc 	9 	12 	1 	34 	1 	sons 	NNS
+Ecc 	9 	12 	1 	35 	1 	of 	IN
+Ecc 	9 	12 	1 	36 	1 	men 	NNS
+Ecc 	9 	12 	1 	37 	1 	snared 	VBN
+Ecc 	9 	12 	1 	38 	1 	in 	IN
+Ecc 	9 	12 	1 	39 	1 	an 	DT
+Ecc 	9 	12 	1 	40 	1 	evil 	NN
+Ecc 	9 	12 	1 	41 	1 	time 	NN
+Ecc 	9 	12 	1 	42 	0 	,
+Ecc 	9 	12 	1 	43 	1 	when 	WRB
+Ecc 	9 	12 	1 	44 	1 	it 	PRP
+Ecc 	9 	12 	1 	45 	1 	falleth 	NNS
+Ecc 	9 	12 	1 	46 	1 	suddenly 	RB
+Ecc 	9 	12 	1 	47 	1 	upon 	IN
+Ecc 	9 	12 	1 	48 	1 	them 	PRP
+Ecc 	9 	12 	1 	49 	0 	.
+Ecc 	9 	13 	1 	1 	1 	This 	DT
+Ecc 	9 	13 	1 	2 	1 	wisdom 	NN
+Ecc 	9 	13 	1 	3 	1 	have 	VB
+Ecc 	9 	13 	1 	4 	1 	I 	PRP
+Ecc 	9 	13 	1 	5 	1 	seen 	VBN
+Ecc 	9 	13 	1 	6 	1 	also 	RB
+Ecc 	9 	13 	1 	7 	1 	under 	IN
+Ecc 	9 	13 	1 	8 	1 	the 	DT
+Ecc 	9 	13 	1 	9 	1 	sun 	NN
+Ecc 	9 	13 	1 	10 	0 	,
+Ecc 	9 	13 	1 	11 	1 	and 	CC
+Ecc 	9 	13 	1 	12 	1 	it 	PRP
+Ecc 	9 	13 	1 	13 	1 	seemed 	VBD
+Ecc 	9 	13 	1 	14 	1 	great 	JJ
+Ecc 	9 	13 	1 	15 	1 	unto 	NN
+Ecc 	9 	13 	1 	16 	1 	me 	PRP
+Ecc 	9 	13 	1 	17 	0 	:
+Ecc 	9 	14 	1 	1 	1 	There 	EX
+Ecc 	9 	14 	1 	2 	1 	was 	VBD
+Ecc 	9 	14 	1 	3 	1 	a 	DT
+Ecc 	9 	14 	1 	4 	1 	little 	JJ
+Ecc 	9 	14 	1 	5 	1 	city 	NN
+Ecc 	9 	14 	1 	6 	0 	,
+Ecc 	9 	14 	1 	7 	1 	and 	CC
+Ecc 	9 	14 	1 	8 	1 	few 	JJ
+Ecc 	9 	14 	1 	9 	1 	men 	NNS
+Ecc 	9 	14 	1 	10 	1 	within 	IN
+Ecc 	9 	14 	1 	11 	1 	it 	PRP
+Ecc 	9 	14 	1 	12 	0 	;
+Ecc 	9 	14 	1 	13 	1 	and 	CC
+Ecc 	9 	14 	1 	14 	1 	there 	RB
+Ecc 	9 	14 	1 	15 	1 	came 	VBD
+Ecc 	9 	14 	1 	16 	1 	a 	DT
+Ecc 	9 	14 	1 	17 	1 	great 	JJ
+Ecc 	9 	14 	1 	18 	1 	king 	NN
+Ecc 	9 	14 	1 	19 	1 	against 	IN
+Ecc 	9 	14 	1 	20 	1 	it 	PRP
+Ecc 	9 	14 	1 	21 	0 	,
+Ecc 	9 	14 	1 	22 	1 	and 	CC
+Ecc 	9 	14 	1 	23 	1 	besieged 	VBN
+Ecc 	9 	14 	1 	24 	1 	it 	PRP
+Ecc 	9 	14 	1 	25 	0 	,
+Ecc 	9 	14 	1 	26 	1 	and 	CC
+Ecc 	9 	14 	1 	27 	1 	built 	NN
+Ecc 	9 	14 	1 	28 	1 	great 	JJ
+Ecc 	9 	14 	1 	29 	1 	bulwarks 	NNS
+Ecc 	9 	14 	1 	30 	1 	against 	IN
+Ecc 	9 	14 	1 	31 	1 	it 	PRP
+Ecc 	9 	14 	1 	32 	0 	:
+Ecc 	9 	15 	1 	1 	1 	Now 	RB
+Ecc 	9 	15 	1 	2 	1 	there 	RB
+Ecc 	9 	15 	1 	3 	1 	was 	VBD
+Ecc 	9 	15 	1 	4 	1 	found 	NN
+Ecc 	9 	15 	1 	5 	1 	in 	IN
+Ecc 	9 	15 	1 	6 	1 	it 	PRP
+Ecc 	9 	15 	1 	7 	1 	a 	DT
+Ecc 	9 	15 	1 	8 	1 	poor 	JJ
+Ecc 	9 	15 	1 	9 	1 	wise 	NN
+Ecc 	9 	15 	1 	10 	1 	man 	NN
+Ecc 	9 	15 	1 	11 	0 	,
+Ecc 	9 	15 	1 	12 	1 	and 	CC
+Ecc 	9 	15 	1 	13 	1 	he 	PRP
+Ecc 	9 	15 	1 	14 	1 	by 	IN
+Ecc 	9 	15 	1 	15 	1 	his 	PRP$
+Ecc 	9 	15 	1 	16 	1 	wisdom 	NN
+Ecc 	9 	15 	1 	17 	1 	delivered 	VBN
+Ecc 	9 	15 	1 	18 	1 	the 	DT
+Ecc 	9 	15 	1 	19 	1 	city 	NN
+Ecc 	9 	15 	1 	20 	0 	;
+Ecc 	9 	15 	1 	21 	1 	yet 	RB
+Ecc 	9 	15 	1 	22 	1 	no 	DT
+Ecc 	9 	15 	1 	23 	1 	man 	NN
+Ecc 	9 	15 	1 	24 	1 	remembered 	VBN
+Ecc 	9 	15 	1 	25 	1 	that 	IN
+Ecc 	9 	15 	1 	26 	1 	same 	JJ
+Ecc 	9 	15 	1 	27 	1 	poor 	JJ
+Ecc 	9 	15 	1 	28 	1 	man 	NN
+Ecc 	9 	15 	1 	29 	0 	.
+Ecc 	9 	16 	1 	1 	1 	Then 	RB
+Ecc 	9 	16 	1 	2 	1 	said 	VBD
+Ecc 	9 	16 	1 	3 	1 	I 	PRP
+Ecc 	9 	16 	1 	4 	0 	,
+Ecc 	9 	16 	1 	5 	1 	Wisdom 	NN
+Ecc 	9 	16 	1 	6 	1 	is 	VBZ
+Ecc 	9 	16 	1 	7 	1 	better 	RBR
+Ecc 	9 	16 	1 	8 	1 	than 	IN
+Ecc 	9 	16 	1 	9 	1 	strength 	NN
+Ecc 	9 	16 	1 	10 	0 	:
+Ecc 	9 	16 	1 	11 	1 	nevertheless 	RB
+Ecc 	9 	16 	1 	12 	1 	the 	DT
+Ecc 	9 	16 	1 	13 	1 	poor 	JJ
+Ecc 	9 	16 	1 	14 	1 	man 	NN
+Ecc 	9 	16 	1 	15 	0 	's
+Ecc 	9 	16 	1 	16 	1 	wisdom 	NN
+Ecc 	9 	16 	1 	17 	1 	is 	VBZ
+Ecc 	9 	16 	1 	18 	1 	despised 	VBN
+Ecc 	9 	16 	1 	19 	0 	,
+Ecc 	9 	16 	1 	20 	1 	and 	CC
+Ecc 	9 	16 	1 	21 	1 	his 	PRP$
+Ecc 	9 	16 	1 	22 	1 	words 	NNS
+Ecc 	9 	16 	1 	23 	1 	are 	VBP
+Ecc 	9 	16 	1 	24 	1 	not 	RB
+Ecc 	9 	16 	1 	25 	1 	heard 	NN
+Ecc 	9 	16 	1 	26 	0 	.
+Ecc 	9 	17 	1 	1 	1 	The 	DT
+Ecc 	9 	17 	1 	2 	1 	words 	NNS
+Ecc 	9 	17 	1 	3 	1 	of 	IN
+Ecc 	9 	17 	1 	4 	1 	wise 	NN
+Ecc 	9 	17 	1 	5 	1 	men 	NNS
+Ecc 	9 	17 	1 	6 	1 	are 	VBP
+Ecc 	9 	17 	1 	7 	1 	heard 	NN
+Ecc 	9 	17 	1 	8 	1 	in 	IN
+Ecc 	9 	17 	1 	9 	1 	quiet 	JJ
+Ecc 	9 	17 	1 	10 	1 	more 	RBR
+Ecc 	9 	17 	1 	11 	1 	than 	IN
+Ecc 	9 	17 	1 	12 	1 	the 	DT
+Ecc 	9 	17 	1 	13 	1 	cry 	NN
+Ecc 	9 	17 	1 	14 	1 	of 	IN
+Ecc 	9 	17 	1 	15 	1 	him 	PRP
+Ecc 	9 	17 	1 	16 	1 	that 	IN
+Ecc 	9 	17 	1 	17 	1 	ruleth 	NN
+Ecc 	9 	17 	1 	18 	1 	among 	IN
+Ecc 	9 	17 	1 	19 	1 	fools 	NNS
+Ecc 	9 	17 	1 	20 	0 	.
+Ecc 	9 	18 	1 	1 	1 	Wisdom 	NN
+Ecc 	9 	18 	1 	2 	1 	is 	VBZ
+Ecc 	9 	18 	1 	3 	1 	better 	RBR
+Ecc 	9 	18 	1 	4 	1 	than 	IN
+Ecc 	9 	18 	1 	5 	1 	weapons 	NNS
+Ecc 	9 	18 	1 	6 	1 	of 	IN
+Ecc 	9 	18 	1 	7 	1 	war 	NN
+Ecc 	9 	18 	1 	8 	0 	:
+Ecc 	9 	18 	1 	9 	1 	but 	CC
+Ecc 	9 	18 	1 	10 	1 	one 	CD
+Ecc 	9 	18 	1 	11 	1 	sinner 	NN
+Ecc 	9 	18 	1 	12 	1 	destroyeth 	NN
+Ecc 	9 	18 	1 	13 	1 	much 	JJ
+Ecc 	9 	18 	1 	14 	1 	good 	JJ
+Ecc 	9 	18 	1 	15 	0 	.
+Ecc 	10 	1 	1 	1 	1 	Dead 	JJ
+Ecc 	10 	1 	1 	2 	1 	flies 	NNS
+Ecc 	10 	1 	1 	3 	1 	cause 	NN
+Ecc 	10 	1 	1 	4 	1 	the 	DT
+Ecc 	10 	1 	1 	5 	1 	ointment 	NN
+Ecc 	10 	1 	1 	6 	1 	of 	IN
+Ecc 	10 	1 	1 	7 	1 	the 	DT
+Ecc 	10 	1 	1 	8 	1 	apothecary 	JJ
+Ecc 	10 	1 	1 	9 	1 	to 	TO
+Ecc 	10 	1 	1 	10 	1 	send 	NN
+Ecc 	10 	1 	1 	11 	1 	forth 	NN
+Ecc 	10 	1 	1 	12 	1 	a 	DT
+Ecc 	10 	1 	1 	13 	1 	stinking 	VBG
+Ecc 	10 	1 	1 	14 	1 	savour 	NN
+Ecc 	10 	1 	1 	15 	0 	:
+Ecc 	10 	1 	1 	16 	1 	so 	RB
+Ecc 	10 	1 	1 	17 	1 	doth 	NN
+Ecc 	10 	1 	1 	18 	1 	a 	DT
+Ecc 	10 	1 	1 	19 	1 	little 	JJ
+Ecc 	10 	1 	1 	20 	1 	folly 	RB
+Ecc 	10 	1 	1 	21 	1 	him 	PRP
+Ecc 	10 	1 	1 	22 	1 	that 	IN
+Ecc 	10 	1 	1 	23 	1 	is 	VBZ
+Ecc 	10 	1 	1 	24 	1 	in 	IN
+Ecc 	10 	1 	1 	25 	1 	reputation 	NN
+Ecc 	10 	1 	1 	26 	1 	for 	IN
+Ecc 	10 	1 	1 	27 	1 	wisdom 	NN
+Ecc 	10 	1 	1 	28 	1 	and 	CC
+Ecc 	10 	1 	1 	29 	1 	honour 	NN
+Ecc 	10 	1 	1 	30 	0 	.
+Ecc 	10 	2 	1 	1 	1 	A 	DT
+Ecc 	10 	2 	1 	2 	1 	wise 	NN
+Ecc 	10 	2 	1 	3 	1 	man 	NN
+Ecc 	10 	2 	1 	4 	0 	's
+Ecc 	10 	2 	1 	5 	1 	heart 	NN
+Ecc 	10 	2 	1 	6 	1 	is 	VBZ
+Ecc 	10 	2 	1 	7 	1 	at 	IN
+Ecc 	10 	2 	1 	8 	1 	his 	PRP$
+Ecc 	10 	2 	1 	9 	1 	right 	NN
+Ecc 	10 	2 	1 	10 	1 	hand 	NN
+Ecc 	10 	2 	1 	11 	0 	;
+Ecc 	10 	2 	1 	12 	1 	but 	CC
+Ecc 	10 	2 	1 	13 	1 	a 	DT
+Ecc 	10 	2 	1 	14 	1 	fool 	NN
+Ecc 	10 	2 	1 	15 	0 	's
+Ecc 	10 	2 	1 	16 	1 	heart 	NN
+Ecc 	10 	2 	1 	17 	1 	at 	IN
+Ecc 	10 	2 	1 	18 	1 	his 	PRP$
+Ecc 	10 	2 	1 	19 	1 	left 	NN
+Ecc 	10 	2 	1 	20 	0 	.
+Ecc 	10 	3 	1 	1 	1 	Yea 	NN
+Ecc 	10 	3 	1 	2 	1 	also 	RB
+Ecc 	10 	3 	1 	3 	0 	,
+Ecc 	10 	3 	1 	4 	1 	when 	WRB
+Ecc 	10 	3 	1 	5 	1 	he 	PRP
+Ecc 	10 	3 	1 	6 	1 	that 	IN
+Ecc 	10 	3 	1 	7 	1 	is 	VBZ
+Ecc 	10 	3 	1 	8 	1 	a 	DT
+Ecc 	10 	3 	1 	9 	1 	fool 	NN
+Ecc 	10 	3 	1 	10 	1 	walketh 	NNS
+Ecc 	10 	3 	1 	11 	1 	by 	IN
+Ecc 	10 	3 	1 	12 	1 	the 	DT
+Ecc 	10 	3 	1 	13 	1 	way 	NN
+Ecc 	10 	3 	1 	14 	0 	,
+Ecc 	10 	3 	1 	15 	1 	his 	PRP$
+Ecc 	10 	3 	1 	16 	1 	wisdom 	NN
+Ecc 	10 	3 	1 	17 	1 	faileth 	NNS
+Ecc 	10 	3 	1 	18 	1 	him 	PRP
+Ecc 	10 	3 	1 	19 	0 	,
+Ecc 	10 	3 	1 	20 	1 	and 	CC
+Ecc 	10 	3 	1 	21 	1 	he 	PRP
+Ecc 	10 	3 	1 	22 	1 	saith 	NN
+Ecc 	10 	3 	1 	23 	1 	to 	TO
+Ecc 	10 	3 	1 	24 	1 	every 	DT
+Ecc 	10 	3 	1 	25 	1 	one 	CD
+Ecc 	10 	3 	1 	26 	1 	that 	IN
+Ecc 	10 	3 	1 	27 	1 	he 	PRP
+Ecc 	10 	3 	1 	28 	1 	is 	VBZ
+Ecc 	10 	3 	1 	29 	1 	a 	DT
+Ecc 	10 	3 	1 	30 	1 	fool 	NN
+Ecc 	10 	3 	1 	31 	0 	.
+Ecc 	10 	4 	1 	1 	1 	If 	IN
+Ecc 	10 	4 	1 	2 	1 	the 	DT
+Ecc 	10 	4 	1 	3 	1 	spirit 	NN
+Ecc 	10 	4 	1 	4 	1 	of 	IN
+Ecc 	10 	4 	1 	5 	1 	the 	DT
+Ecc 	10 	4 	1 	6 	1 	ruler 	NN
+Ecc 	10 	4 	1 	7 	1 	rise 	NN
+Ecc 	10 	4 	1 	8 	1 	up 	RB
+Ecc 	10 	4 	1 	9 	1 	against 	IN
+Ecc 	10 	4 	1 	10 	1 	thee 	NN
+Ecc 	10 	4 	1 	11 	0 	,
+Ecc 	10 	4 	1 	12 	1 	leave 	VB
+Ecc 	10 	4 	1 	13 	1 	not 	RB
+Ecc 	10 	4 	1 	14 	1 	thy 	NN
+Ecc 	10 	4 	1 	15 	1 	place 	NN
+Ecc 	10 	4 	1 	16 	0 	;
+Ecc 	10 	4 	1 	17 	1 	for 	IN
+Ecc 	10 	4 	1 	18 	1 	yielding 	VBG
+Ecc 	10 	4 	1 	19 	1 	pacifieth 	NN
+Ecc 	10 	4 	1 	20 	1 	great 	JJ
+Ecc 	10 	4 	1 	21 	1 	offences 	NNS
+Ecc 	10 	4 	1 	22 	0 	.
+Ecc 	10 	5 	1 	1 	1 	There 	EX
+Ecc 	10 	5 	1 	2 	1 	is 	VBZ
+Ecc 	10 	5 	1 	3 	1 	an 	DT
+Ecc 	10 	5 	1 	4 	1 	evil 	NN
+Ecc 	10 	5 	1 	5 	1 	which 	WDT
+Ecc 	10 	5 	1 	6 	1 	I 	PRP
+Ecc 	10 	5 	1 	7 	1 	have 	VB
+Ecc 	10 	5 	1 	8 	1 	seen 	VBN
+Ecc 	10 	5 	1 	9 	1 	under 	IN
+Ecc 	10 	5 	1 	10 	1 	the 	DT
+Ecc 	10 	5 	1 	11 	1 	sun 	NN
+Ecc 	10 	5 	1 	12 	0 	,
+Ecc 	10 	5 	1 	13 	1 	as 	IN
+Ecc 	10 	5 	1 	14 	1 	an 	DT
+Ecc 	10 	5 	1 	15 	1 	error 	NN
+Ecc 	10 	5 	1 	16 	1 	which 	WDT
+Ecc 	10 	5 	1 	17 	1 	proceedeth 	NN
+Ecc 	10 	5 	1 	18 	1 	from 	IN
+Ecc 	10 	5 	1 	19 	1 	the 	DT
+Ecc 	10 	5 	1 	20 	1 	ruler 	NN
+Ecc 	10 	5 	1 	21 	0 	:
+Ecc 	10 	6 	1 	1 	1 	Folly 	RB
+Ecc 	10 	6 	1 	2 	1 	is 	VBZ
+Ecc 	10 	6 	1 	3 	1 	set 	NN
+Ecc 	10 	6 	1 	4 	1 	in 	IN
+Ecc 	10 	6 	1 	5 	1 	great 	JJ
+Ecc 	10 	6 	1 	6 	1 	dignity 	NN
+Ecc 	10 	6 	1 	7 	0 	,
+Ecc 	10 	6 	1 	8 	1 	and 	CC
+Ecc 	10 	6 	1 	9 	1 	the 	DT
+Ecc 	10 	6 	1 	10 	1 	rich 	JJ
+Ecc 	10 	6 	1 	11 	1 	sit 	NN
+Ecc 	10 	6 	1 	12 	1 	in 	IN
+Ecc 	10 	6 	1 	13 	1 	low 	JJ
+Ecc 	10 	6 	1 	14 	1 	place 	NN
+Ecc 	10 	6 	1 	15 	0 	.
+Ecc 	10 	7 	1 	1 	1 	I 	PRP
+Ecc 	10 	7 	1 	2 	1 	have 	VB
+Ecc 	10 	7 	1 	3 	1 	seen 	VBN
+Ecc 	10 	7 	1 	4 	1 	servants 	NNS
+Ecc 	10 	7 	1 	5 	1 	upon 	IN
+Ecc 	10 	7 	1 	6 	1 	horses 	NNS
+Ecc 	10 	7 	1 	7 	0 	,
+Ecc 	10 	7 	1 	8 	1 	and 	CC
+Ecc 	10 	7 	1 	9 	1 	princes 	NNS
+Ecc 	10 	7 	1 	10 	1 	walking 	VBG
+Ecc 	10 	7 	1 	11 	1 	as 	IN
+Ecc 	10 	7 	1 	12 	1 	servants 	NNS
+Ecc 	10 	7 	1 	13 	1 	upon 	IN
+Ecc 	10 	7 	1 	14 	1 	the 	DT
+Ecc 	10 	7 	1 	15 	1 	earth 	NN
+Ecc 	10 	7 	1 	16 	0 	.
+Ecc 	10 	8 	1 	1 	1 	He 	PRP
+Ecc 	10 	8 	1 	2 	1 	that 	IN
+Ecc 	10 	8 	1 	3 	1 	diggeth 	NN
+Ecc 	10 	8 	1 	4 	1 	a 	DT
+Ecc 	10 	8 	1 	5 	1 	pit 	NN
+Ecc 	10 	8 	1 	6 	1 	shall 	MD
+Ecc 	10 	8 	1 	7 	1 	fall 	NN
+Ecc 	10 	8 	1 	8 	1 	into 	IN
+Ecc 	10 	8 	1 	9 	1 	it 	PRP
+Ecc 	10 	8 	1 	10 	0 	;
+Ecc 	10 	8 	1 	11 	1 	and 	CC
+Ecc 	10 	8 	1 	12 	1 	whoso 	NN
+Ecc 	10 	8 	1 	13 	1 	breaketh 	NN
+Ecc 	10 	8 	1 	14 	1 	an 	DT
+Ecc 	10 	8 	1 	15 	1 	hedge 	NN
+Ecc 	10 	8 	1 	16 	0 	,
+Ecc 	10 	8 	1 	17 	1 	a 	DT
+Ecc 	10 	8 	1 	18 	1 	serpent 	NN
+Ecc 	10 	8 	1 	19 	1 	shall 	MD
+Ecc 	10 	8 	1 	20 	1 	bite 	NN
+Ecc 	10 	8 	1 	21 	1 	him 	PRP
+Ecc 	10 	8 	1 	22 	0 	.
+Ecc 	10 	9 	1 	1 	1 	Whoso 	NN
+Ecc 	10 	9 	1 	2 	1 	removeth 	NN
+Ecc 	10 	9 	1 	3 	1 	stones 	NNS
+Ecc 	10 	9 	1 	4 	1 	shall 	MD
+Ecc 	10 	9 	1 	5 	1 	be 	VB
+Ecc 	10 	9 	1 	6 	1 	hurt 	NN
+Ecc 	10 	9 	1 	7 	1 	therewith 	NN
+Ecc 	10 	9 	1 	8 	0 	;
+Ecc 	10 	9 	1 	9 	1 	and 	CC
+Ecc 	10 	9 	1 	10 	1 	he 	PRP
+Ecc 	10 	9 	1 	11 	1 	that 	IN
+Ecc 	10 	9 	1 	12 	1 	cleaveth 	NNS
+Ecc 	10 	9 	1 	13 	1 	wood 	NN
+Ecc 	10 	9 	1 	14 	1 	shall 	MD
+Ecc 	10 	9 	1 	15 	1 	be 	VB
+Ecc 	10 	9 	1 	16 	1 	endangered 	VBN
+Ecc 	10 	9 	1 	17 	1 	thereby 	RB
+Ecc 	10 	9 	1 	18 	0 	.
+Ecc 	10 	10 	1 	1 	1 	If 	IN
+Ecc 	10 	10 	1 	2 	1 	the 	DT
+Ecc 	10 	10 	1 	3 	1 	iron 	NN
+Ecc 	10 	10 	1 	4 	1 	be 	VB
+Ecc 	10 	10 	1 	5 	1 	blunt 	NN
+Ecc 	10 	10 	1 	6 	0 	,
+Ecc 	10 	10 	1 	7 	1 	and 	CC
+Ecc 	10 	10 	1 	8 	1 	he 	PRP
+Ecc 	10 	10 	1 	9 	1 	do 	VB
+Ecc 	10 	10 	1 	10 	1 	not 	RB
+Ecc 	10 	10 	1 	11 	1 	whet 	NN
+Ecc 	10 	10 	1 	12 	1 	the 	DT
+Ecc 	10 	10 	1 	13 	1 	edge 	NN
+Ecc 	10 	10 	1 	14 	0 	,
+Ecc 	10 	10 	1 	15 	1 	then 	RB
+Ecc 	10 	10 	1 	16 	1 	must 	MD
+Ecc 	10 	10 	1 	17 	1 	he 	PRP
+Ecc 	10 	10 	1 	18 	1 	put 	NN
+Ecc 	10 	10 	1 	19 	1 	to 	TO
+Ecc 	10 	10 	1 	20 	1 	more 	RBR
+Ecc 	10 	10 	1 	21 	1 	strength 	NN
+Ecc 	10 	10 	1 	22 	0 	:
+Ecc 	10 	10 	1 	23 	1 	but 	CC
+Ecc 	10 	10 	1 	24 	1 	wisdom 	NN
+Ecc 	10 	10 	1 	25 	1 	is 	VBZ
+Ecc 	10 	10 	1 	26 	1 	profitable 	JJ
+Ecc 	10 	10 	1 	27 	1 	to 	TO
+Ecc 	10 	10 	1 	28 	1 	direct 	JJ
+Ecc 	10 	10 	1 	29 	0 	.
+Ecc 	10 	11 	1 	1 	1 	Surely 	RB
+Ecc 	10 	11 	1 	2 	1 	the 	DT
+Ecc 	10 	11 	1 	3 	1 	serpent 	NN
+Ecc 	10 	11 	1 	4 	1 	will 	MD
+Ecc 	10 	11 	1 	5 	1 	bite 	NN
+Ecc 	10 	11 	1 	6 	1 	without 	IN
+Ecc 	10 	11 	1 	7 	1 	enchantment 	NN
+Ecc 	10 	11 	1 	8 	0 	;
+Ecc 	10 	11 	1 	9 	1 	and 	CC
+Ecc 	10 	11 	1 	10 	1 	a 	DT
+Ecc 	10 	11 	1 	11 	1 	babbler 	NN
+Ecc 	10 	11 	1 	12 	1 	is 	VBZ
+Ecc 	10 	11 	1 	13 	1 	no 	DT
+Ecc 	10 	11 	1 	14 	1 	better 	RBR
+Ecc 	10 	11 	1 	15 	0 	.
+Ecc 	10 	12 	1 	1 	1 	The 	DT
+Ecc 	10 	12 	1 	2 	1 	words 	NNS
+Ecc 	10 	12 	1 	3 	1 	of 	IN
+Ecc 	10 	12 	1 	4 	1 	a 	DT
+Ecc 	10 	12 	1 	5 	1 	wise 	NN
+Ecc 	10 	12 	1 	6 	1 	man 	NN
+Ecc 	10 	12 	1 	7 	0 	's
+Ecc 	10 	12 	1 	8 	1 	mouth 	NN
+Ecc 	10 	12 	1 	9 	1 	are 	VBP
+Ecc 	10 	12 	1 	10 	1 	gracious 	JJ
+Ecc 	10 	12 	1 	11 	0 	;
+Ecc 	10 	12 	1 	12 	1 	but 	CC
+Ecc 	10 	12 	1 	13 	1 	the 	DT
+Ecc 	10 	12 	1 	14 	1 	lips 	NNS
+Ecc 	10 	12 	1 	15 	1 	of 	IN
+Ecc 	10 	12 	1 	16 	1 	a 	DT
+Ecc 	10 	12 	1 	17 	1 	fool 	NN
+Ecc 	10 	12 	1 	18 	1 	will 	MD
+Ecc 	10 	12 	1 	19 	1 	swallow 	NN
+Ecc 	10 	12 	1 	20 	1 	up 	RB
+Ecc 	10 	12 	1 	21 	1 	himself 	PRP
+Ecc 	10 	12 	1 	22 	0 	.
+Ecc 	10 	13 	1 	1 	1 	The 	DT
+Ecc 	10 	13 	1 	2 	1 	beginning 	VBG
+Ecc 	10 	13 	1 	3 	1 	of 	IN
+Ecc 	10 	13 	1 	4 	1 	the 	DT
+Ecc 	10 	13 	1 	5 	1 	words 	NNS
+Ecc 	10 	13 	1 	6 	1 	of 	IN
+Ecc 	10 	13 	1 	7 	1 	his 	PRP$
+Ecc 	10 	13 	1 	8 	1 	mouth 	NN
+Ecc 	10 	13 	1 	9 	1 	is 	VBZ
+Ecc 	10 	13 	1 	10 	1 	foolishness 	NN
+Ecc 	10 	13 	1 	11 	0 	:
+Ecc 	10 	13 	1 	12 	1 	and 	CC
+Ecc 	10 	13 	1 	13 	1 	the 	DT
+Ecc 	10 	13 	1 	14 	1 	end 	NN
+Ecc 	10 	13 	1 	15 	1 	of 	IN
+Ecc 	10 	13 	1 	16 	1 	his 	PRP$
+Ecc 	10 	13 	1 	17 	1 	talk 	NN
+Ecc 	10 	13 	1 	18 	1 	is 	VBZ
+Ecc 	10 	13 	1 	19 	1 	mischievous 	JJ
+Ecc 	10 	13 	1 	20 	1 	madness 	NN
+Ecc 	10 	13 	1 	21 	0 	.
+Ecc 	10 	14 	1 	1 	1 	A 	DT
+Ecc 	10 	14 	1 	2 	1 	fool 	NN
+Ecc 	10 	14 	1 	3 	1 	also 	RB
+Ecc 	10 	14 	1 	4 	1 	is 	VBZ
+Ecc 	10 	14 	1 	5 	1 	full 	JJ
+Ecc 	10 	14 	1 	6 	1 	of 	IN
+Ecc 	10 	14 	1 	7 	1 	words 	NNS
+Ecc 	10 	14 	1 	8 	0 	:
+Ecc 	10 	14 	1 	9 	1 	a 	DT
+Ecc 	10 	14 	1 	10 	1 	man 	NN
+Ecc 	10 	14 	1 	11 	1 	can 	MD
+Ecc 	10 	14 	1 	12 	1 	not 	RB
+Ecc 	10 	14 	1 	13 	1 	tell 	NN
+Ecc 	10 	14 	1 	14 	1 	what 	WP
+Ecc 	10 	14 	1 	15 	1 	shall 	MD
+Ecc 	10 	14 	1 	16 	1 	be 	VB
+Ecc 	10 	14 	1 	17 	0 	;
+Ecc 	10 	14 	1 	18 	1 	and 	CC
+Ecc 	10 	14 	1 	19 	1 	what 	WP
+Ecc 	10 	14 	1 	20 	1 	shall 	MD
+Ecc 	10 	14 	1 	21 	1 	be 	VB
+Ecc 	10 	14 	1 	22 	1 	after 	IN
+Ecc 	10 	14 	1 	23 	1 	him 	PRP
+Ecc 	10 	14 	1 	24 	0 	,
+Ecc 	10 	14 	1 	25 	1 	who 	WP
+Ecc 	10 	14 	1 	26 	1 	can 	MD
+Ecc 	10 	14 	1 	27 	1 	tell 	NN
+Ecc 	10 	14 	1 	28 	1 	him 	PRP
+Ecc 	10 	14 	1 	29 	0 	?
+Ecc 	10 	15 	1 	1 	1 	The 	DT
+Ecc 	10 	15 	1 	2 	1 	labour 	NN
+Ecc 	10 	15 	1 	3 	1 	of 	IN
+Ecc 	10 	15 	1 	4 	1 	the 	DT
+Ecc 	10 	15 	1 	5 	1 	foolish 	JJ
+Ecc 	10 	15 	1 	6 	1 	wearieth 	NNS
+Ecc 	10 	15 	1 	7 	1 	every 	DT
+Ecc 	10 	15 	1 	8 	1 	one 	CD
+Ecc 	10 	15 	1 	9 	1 	of 	IN
+Ecc 	10 	15 	1 	10 	1 	them 	PRP
+Ecc 	10 	15 	1 	11 	0 	,
+Ecc 	10 	15 	1 	12 	1 	because 	IN
+Ecc 	10 	15 	1 	13 	1 	he 	PRP
+Ecc 	10 	15 	1 	14 	1 	knoweth 	NNS
+Ecc 	10 	15 	1 	15 	1 	not 	RB
+Ecc 	10 	15 	1 	16 	1 	how 	WRB
+Ecc 	10 	15 	1 	17 	1 	to 	TO
+Ecc 	10 	15 	1 	18 	1 	go 	VB
+Ecc 	10 	15 	1 	19 	1 	to 	TO
+Ecc 	10 	15 	1 	20 	1 	the 	DT
+Ecc 	10 	15 	1 	21 	1 	city 	NN
+Ecc 	10 	15 	1 	22 	0 	.
+Ecc 	10 	16 	1 	1 	1 	Woe 	NN
+Ecc 	10 	16 	1 	2 	1 	to 	TO
+Ecc 	10 	16 	1 	3 	1 	thee 	NN
+Ecc 	10 	16 	1 	4 	0 	,
+Ecc 	10 	16 	1 	5 	1 	O 	NN
+Ecc 	10 	16 	1 	6 	1 	land 	NN
+Ecc 	10 	16 	1 	7 	0 	,
+Ecc 	10 	16 	1 	8 	1 	when 	WRB
+Ecc 	10 	16 	1 	9 	1 	thy 	NN
+Ecc 	10 	16 	1 	10 	1 	king 	NN
+Ecc 	10 	16 	1 	11 	1 	is 	VBZ
+Ecc 	10 	16 	1 	12 	1 	a 	DT
+Ecc 	10 	16 	1 	13 	1 	child 	NN
+Ecc 	10 	16 	1 	14 	0 	,
+Ecc 	10 	16 	1 	15 	1 	and 	CC
+Ecc 	10 	16 	1 	16 	1 	thy 	NN
+Ecc 	10 	16 	1 	17 	1 	princes 	NNS
+Ecc 	10 	16 	1 	18 	1 	eat 	NN
+Ecc 	10 	16 	1 	19 	1 	in 	IN
+Ecc 	10 	16 	1 	20 	1 	the 	DT
+Ecc 	10 	16 	1 	21 	1 	morning 	NN
+Ecc 	10 	16 	1 	22 	0 	!
+Ecc 	10 	17 	1 	1 	1 	Blessed 	VBN
+Ecc 	10 	17 	1 	2 	1 	art 	NN
+Ecc 	10 	17 	1 	3 	1 	thou 	NN
+Ecc 	10 	17 	1 	4 	0 	,
+Ecc 	10 	17 	1 	5 	1 	O 	NN
+Ecc 	10 	17 	1 	6 	1 	land 	NN
+Ecc 	10 	17 	1 	7 	0 	,
+Ecc 	10 	17 	1 	8 	1 	when 	WRB
+Ecc 	10 	17 	1 	9 	1 	thy 	NN
+Ecc 	10 	17 	1 	10 	1 	king 	NN
+Ecc 	10 	17 	1 	11 	1 	is 	VBZ
+Ecc 	10 	17 	1 	12 	1 	the 	DT
+Ecc 	10 	17 	1 	13 	1 	son 	NN
+Ecc 	10 	17 	1 	14 	1 	of 	IN
+Ecc 	10 	17 	1 	15 	1 	nobles 	NNS
+Ecc 	10 	17 	1 	16 	0 	,
+Ecc 	10 	17 	1 	17 	1 	and 	CC
+Ecc 	10 	17 	1 	18 	1 	thy 	NN
+Ecc 	10 	17 	1 	19 	1 	princes 	NNS
+Ecc 	10 	17 	1 	20 	1 	eat 	NN
+Ecc 	10 	17 	1 	21 	1 	in 	IN
+Ecc 	10 	17 	1 	22 	1 	due 	JJ
+Ecc 	10 	17 	1 	23 	1 	season 	NN
+Ecc 	10 	17 	1 	24 	0 	,
+Ecc 	10 	17 	1 	25 	1 	for 	IN
+Ecc 	10 	17 	1 	26 	1 	strength 	NN
+Ecc 	10 	17 	1 	27 	0 	,
+Ecc 	10 	17 	1 	28 	1 	and 	CC
+Ecc 	10 	17 	1 	29 	1 	not 	RB
+Ecc 	10 	17 	1 	30 	1 	for 	IN
+Ecc 	10 	17 	1 	31 	1 	drunkenness 	NN
+Ecc 	10 	17 	1 	32 	0 	!
+Ecc 	10 	18 	1 	1 	1 	By 	IN
+Ecc 	10 	18 	1 	2 	1 	much 	JJ
+Ecc 	10 	18 	1 	3 	1 	slothfulness 	NN
+Ecc 	10 	18 	1 	4 	1 	the 	DT
+Ecc 	10 	18 	1 	5 	1 	building 	NN
+Ecc 	10 	18 	1 	6 	1 	decayeth 	NN
+Ecc 	10 	18 	1 	7 	0 	;
+Ecc 	10 	18 	1 	8 	1 	and 	CC
+Ecc 	10 	18 	1 	9 	1 	through 	IN
+Ecc 	10 	18 	1 	10 	1 	idleness 	NN
+Ecc 	10 	18 	1 	11 	1 	of 	IN
+Ecc 	10 	18 	1 	12 	1 	the 	DT
+Ecc 	10 	18 	1 	13 	1 	hands 	NNS
+Ecc 	10 	18 	1 	14 	1 	the 	DT
+Ecc 	10 	18 	1 	15 	1 	house 	NN
+Ecc 	10 	18 	1 	16 	1 	droppeth 	NN
+Ecc 	10 	18 	1 	17 	1 	through 	IN
+Ecc 	10 	18 	1 	18 	0 	.
+Ecc 	10 	19 	1 	1 	1 	A 	DT
+Ecc 	10 	19 	1 	2 	1 	feast 	NN
+Ecc 	10 	19 	1 	3 	1 	is 	VBZ
+Ecc 	10 	19 	1 	4 	1 	made 	VBN
+Ecc 	10 	19 	1 	5 	1 	for 	IN
+Ecc 	10 	19 	1 	6 	1 	laughter 	NN
+Ecc 	10 	19 	1 	7 	0 	,
+Ecc 	10 	19 	1 	8 	1 	and 	CC
+Ecc 	10 	19 	1 	9 	1 	wine 	NN
+Ecc 	10 	19 	1 	10 	1 	maketh 	NNS
+Ecc 	10 	19 	1 	11 	1 	merry 	NN
+Ecc 	10 	19 	1 	12 	0 	:
+Ecc 	10 	19 	1 	13 	1 	but 	CC
+Ecc 	10 	19 	1 	14 	1 	money 	NN
+Ecc 	10 	19 	1 	15 	1 	answereth 	NNS
+Ecc 	10 	19 	1 	16 	1 	all 	DT
+Ecc 	10 	19 	1 	17 	1 	things 	NNS
+Ecc 	10 	19 	1 	18 	0 	.
+Ecc 	10 	20 	1 	1 	1 	Curse 	NN
+Ecc 	10 	20 	1 	2 	1 	not 	RB
+Ecc 	10 	20 	1 	3 	1 	the 	DT
+Ecc 	10 	20 	1 	4 	1 	king 	NN
+Ecc 	10 	20 	1 	5 	0 	,
+Ecc 	10 	20 	1 	6 	1 	no 	DT
+Ecc 	10 	20 	1 	7 	1 	not 	RB
+Ecc 	10 	20 	1 	8 	1 	in 	IN
+Ecc 	10 	20 	1 	9 	1 	thy 	NN
+Ecc 	10 	20 	1 	10 	1 	thought 	NN
+Ecc 	10 	20 	1 	11 	0 	;
+Ecc 	10 	20 	1 	12 	1 	and 	CC
+Ecc 	10 	20 	1 	13 	1 	curse 	NN
+Ecc 	10 	20 	1 	14 	1 	not 	RB
+Ecc 	10 	20 	1 	15 	1 	the 	DT
+Ecc 	10 	20 	1 	16 	1 	rich 	JJ
+Ecc 	10 	20 	1 	17 	1 	in 	IN
+Ecc 	10 	20 	1 	18 	1 	thy 	NN
+Ecc 	10 	20 	1 	19 	1 	bedchamber 	NN
+Ecc 	10 	20 	1 	20 	0 	:
+Ecc 	10 	20 	1 	21 	1 	for 	IN
+Ecc 	10 	20 	1 	22 	1 	a 	DT
+Ecc 	10 	20 	1 	23 	1 	bird 	NN
+Ecc 	10 	20 	1 	24 	1 	of 	IN
+Ecc 	10 	20 	1 	25 	1 	the 	DT
+Ecc 	10 	20 	1 	26 	1 	air 	NN
+Ecc 	10 	20 	1 	27 	1 	shall 	MD
+Ecc 	10 	20 	1 	28 	1 	carry 	NN
+Ecc 	10 	20 	1 	29 	1 	the 	DT
+Ecc 	10 	20 	1 	30 	1 	voice 	NN
+Ecc 	10 	20 	1 	31 	0 	,
+Ecc 	10 	20 	1 	32 	1 	and 	CC
+Ecc 	10 	20 	1 	33 	1 	that 	IN
+Ecc 	10 	20 	1 	34 	1 	which 	WDT
+Ecc 	10 	20 	1 	35 	1 	hath 	NN
+Ecc 	10 	20 	1 	36 	1 	wings 	NNS
+Ecc 	10 	20 	1 	37 	1 	shall 	MD
+Ecc 	10 	20 	1 	38 	1 	tell 	NN
+Ecc 	10 	20 	1 	39 	1 	the 	DT
+Ecc 	10 	20 	1 	40 	1 	matter 	NN
+Ecc 	10 	20 	1 	41 	0 	.
+Ecc 	11 	1 	1 	1 	1 	Cast 	NN
+Ecc 	11 	1 	1 	2 	1 	thy 	NN
+Ecc 	11 	1 	1 	3 	1 	bread 	NN
+Ecc 	11 	1 	1 	4 	1 	upon 	IN
+Ecc 	11 	1 	1 	5 	1 	the 	DT
+Ecc 	11 	1 	1 	6 	1 	waters 	NNS
+Ecc 	11 	1 	1 	7 	0 	:
+Ecc 	11 	1 	1 	8 	1 	for 	IN
+Ecc 	11 	1 	1 	9 	1 	thou 	NN
+Ecc 	11 	1 	1 	10 	1 	shalt 	NN
+Ecc 	11 	1 	1 	11 	1 	find 	VB
+Ecc 	11 	1 	1 	12 	1 	it 	PRP
+Ecc 	11 	1 	1 	13 	1 	after 	IN
+Ecc 	11 	1 	1 	14 	1 	many 	JJ
+Ecc 	11 	1 	1 	15 	1 	days 	NNS
+Ecc 	11 	1 	1 	16 	0 	.
+Ecc 	11 	2 	1 	1 	1 	Give 	VB
+Ecc 	11 	2 	1 	2 	1 	a 	DT
+Ecc 	11 	2 	1 	3 	1 	portion 	NN
+Ecc 	11 	2 	1 	4 	1 	to 	TO
+Ecc 	11 	2 	1 	5 	1 	seven 	CD
+Ecc 	11 	2 	1 	6 	0 	,
+Ecc 	11 	2 	1 	7 	1 	and 	CC
+Ecc 	11 	2 	1 	8 	1 	also 	RB
+Ecc 	11 	2 	1 	9 	1 	to 	TO
+Ecc 	11 	2 	1 	10 	1 	eight 	CD
+Ecc 	11 	2 	1 	11 	0 	;
+Ecc 	11 	2 	1 	12 	1 	for 	IN
+Ecc 	11 	2 	1 	13 	1 	thou 	NN
+Ecc 	11 	2 	1 	14 	1 	knowest 	NN
+Ecc 	11 	2 	1 	15 	1 	not 	RB
+Ecc 	11 	2 	1 	16 	1 	what 	WP
+Ecc 	11 	2 	1 	17 	1 	evil 	NN
+Ecc 	11 	2 	1 	18 	1 	shall 	MD
+Ecc 	11 	2 	1 	19 	1 	be 	VB
+Ecc 	11 	2 	1 	20 	1 	upon 	IN
+Ecc 	11 	2 	1 	21 	1 	the 	DT
+Ecc 	11 	2 	1 	22 	1 	earth 	NN
+Ecc 	11 	2 	1 	23 	0 	.
+Ecc 	11 	3 	1 	1 	1 	If 	IN
+Ecc 	11 	3 	1 	2 	1 	the 	DT
+Ecc 	11 	3 	1 	3 	1 	clouds 	NNS
+Ecc 	11 	3 	1 	4 	1 	be 	VB
+Ecc 	11 	3 	1 	5 	1 	full 	JJ
+Ecc 	11 	3 	1 	6 	1 	of 	IN
+Ecc 	11 	3 	1 	7 	1 	rain 	NN
+Ecc 	11 	3 	1 	8 	0 	,
+Ecc 	11 	3 	1 	9 	1 	they 	PRP
+Ecc 	11 	3 	1 	10 	1 	empty 	JJ
+Ecc 	11 	3 	1 	11 	1 	themselves 	PRP
+Ecc 	11 	3 	1 	12 	1 	upon 	IN
+Ecc 	11 	3 	1 	13 	1 	the 	DT
+Ecc 	11 	3 	1 	14 	1 	earth 	NN
+Ecc 	11 	3 	1 	15 	0 	:
+Ecc 	11 	3 	1 	16 	1 	and 	CC
+Ecc 	11 	3 	1 	17 	1 	if 	IN
+Ecc 	11 	3 	1 	18 	1 	the 	DT
+Ecc 	11 	3 	1 	19 	1 	tree 	NN
+Ecc 	11 	3 	1 	20 	1 	fall 	NN
+Ecc 	11 	3 	1 	21 	1 	toward 	IN
+Ecc 	11 	3 	1 	22 	1 	the 	DT
+Ecc 	11 	3 	1 	23 	1 	south 	NN
+Ecc 	11 	3 	1 	24 	0 	,
+Ecc 	11 	3 	1 	25 	1 	or 	CC
+Ecc 	11 	3 	1 	26 	1 	toward 	IN
+Ecc 	11 	3 	1 	27 	1 	the 	DT
+Ecc 	11 	3 	1 	28 	1 	north 	NN
+Ecc 	11 	3 	1 	29 	0 	,
+Ecc 	11 	3 	1 	30 	1 	in 	IN
+Ecc 	11 	3 	1 	31 	1 	the 	DT
+Ecc 	11 	3 	1 	32 	1 	place 	NN
+Ecc 	11 	3 	1 	33 	1 	where 	WRB
+Ecc 	11 	3 	1 	34 	1 	the 	DT
+Ecc 	11 	3 	1 	35 	1 	tree 	NN
+Ecc 	11 	3 	1 	36 	1 	falleth 	NNS
+Ecc 	11 	3 	1 	37 	0 	,
+Ecc 	11 	3 	1 	38 	1 	there 	RB
+Ecc 	11 	3 	1 	39 	1 	it 	PRP
+Ecc 	11 	3 	1 	40 	1 	shall 	MD
+Ecc 	11 	3 	1 	41 	1 	be 	VB
+Ecc 	11 	3 	1 	42 	0 	.
+Ecc 	11 	4 	1 	1 	1 	He 	PRP
+Ecc 	11 	4 	1 	2 	1 	that 	IN
+Ecc 	11 	4 	1 	3 	1 	observeth 	NNS
+Ecc 	11 	4 	1 	4 	1 	the 	DT
+Ecc 	11 	4 	1 	5 	1 	wind 	NN
+Ecc 	11 	4 	1 	6 	1 	shall 	MD
+Ecc 	11 	4 	1 	7 	1 	not 	RB
+Ecc 	11 	4 	1 	8 	1 	sow 	NN
+Ecc 	11 	4 	1 	9 	0 	;
+Ecc 	11 	4 	1 	10 	1 	and 	CC
+Ecc 	11 	4 	1 	11 	1 	he 	PRP
+Ecc 	11 	4 	1 	12 	1 	that 	IN
+Ecc 	11 	4 	1 	13 	1 	regardeth 	NN
+Ecc 	11 	4 	1 	14 	1 	the 	DT
+Ecc 	11 	4 	1 	15 	1 	clouds 	NNS
+Ecc 	11 	4 	1 	16 	1 	shall 	MD
+Ecc 	11 	4 	1 	17 	1 	not 	RB
+Ecc 	11 	4 	1 	18 	1 	reap 	NN
+Ecc 	11 	4 	1 	19 	0 	.
+Ecc 	11 	5 	1 	1 	1 	As 	IN
+Ecc 	11 	5 	1 	2 	1 	thou 	NN
+Ecc 	11 	5 	1 	3 	1 	knowest 	NN
+Ecc 	11 	5 	1 	4 	1 	not 	RB
+Ecc 	11 	5 	1 	5 	1 	what 	WP
+Ecc 	11 	5 	1 	6 	1 	is 	VBZ
+Ecc 	11 	5 	1 	7 	1 	the 	DT
+Ecc 	11 	5 	1 	8 	1 	way 	NN
+Ecc 	11 	5 	1 	9 	1 	of 	IN
+Ecc 	11 	5 	1 	10 	1 	the 	DT
+Ecc 	11 	5 	1 	11 	1 	spirit 	NN
+Ecc 	11 	5 	1 	12 	0 	,
+Ecc 	11 	5 	1 	13 	1 	nor 	CC
+Ecc 	11 	5 	1 	14 	1 	how 	WRB
+Ecc 	11 	5 	1 	15 	1 	the 	DT
+Ecc 	11 	5 	1 	16 	1 	bones 	NNS
+Ecc 	11 	5 	1 	17 	1 	do 	VB
+Ecc 	11 	5 	1 	18 	1 	grow 	NN
+Ecc 	11 	5 	1 	19 	1 	in 	IN
+Ecc 	11 	5 	1 	20 	1 	the 	DT
+Ecc 	11 	5 	1 	21 	1 	womb 	NN
+Ecc 	11 	5 	1 	22 	1 	of 	IN
+Ecc 	11 	5 	1 	23 	1 	her 	PRP$
+Ecc 	11 	5 	1 	24 	1 	that 	IN
+Ecc 	11 	5 	1 	25 	1 	is 	VBZ
+Ecc 	11 	5 	1 	26 	1 	with 	IN
+Ecc 	11 	5 	1 	27 	1 	child 	NN
+Ecc 	11 	5 	1 	28 	0 	:
+Ecc 	11 	5 	1 	29 	1 	even 	RB
+Ecc 	11 	5 	1 	30 	1 	so 	RB
+Ecc 	11 	5 	1 	31 	1 	thou 	NN
+Ecc 	11 	5 	1 	32 	1 	knowest 	NN
+Ecc 	11 	5 	1 	33 	1 	not 	RB
+Ecc 	11 	5 	1 	34 	1 	the 	DT
+Ecc 	11 	5 	1 	35 	1 	works 	NNS
+Ecc 	11 	5 	1 	36 	1 	of 	IN
+Ecc 	11 	5 	1 	37 	1 	God 	NNP
+Ecc 	11 	5 	1 	38 	1 	who 	WP
+Ecc 	11 	5 	1 	39 	1 	maketh 	NNS
+Ecc 	11 	5 	1 	40 	1 	all 	DT
+Ecc 	11 	5 	1 	41 	0 	.
+Ecc 	11 	6 	1 	1 	1 	In 	IN
+Ecc 	11 	6 	1 	2 	1 	the 	DT
+Ecc 	11 	6 	1 	3 	1 	morning 	NN
+Ecc 	11 	6 	1 	4 	1 	sow 	NN
+Ecc 	11 	6 	1 	5 	1 	thy 	NN
+Ecc 	11 	6 	1 	6 	1 	seed 	NN
+Ecc 	11 	6 	1 	7 	0 	,
+Ecc 	11 	6 	1 	8 	1 	and 	CC
+Ecc 	11 	6 	1 	9 	1 	in 	IN
+Ecc 	11 	6 	1 	10 	1 	the 	DT
+Ecc 	11 	6 	1 	11 	1 	evening 	VBG
+Ecc 	11 	6 	1 	12 	1 	withhold 	NN
+Ecc 	11 	6 	1 	13 	1 	not 	RB
+Ecc 	11 	6 	1 	14 	1 	thine 	NN
+Ecc 	11 	6 	1 	15 	1 	hand 	NN
+Ecc 	11 	6 	1 	16 	0 	:
+Ecc 	11 	6 	1 	17 	1 	for 	IN
+Ecc 	11 	6 	1 	18 	1 	thou 	NN
+Ecc 	11 	6 	1 	19 	1 	knowest 	NN
+Ecc 	11 	6 	1 	20 	1 	not 	RB
+Ecc 	11 	6 	1 	21 	1 	whether 	IN
+Ecc 	11 	6 	1 	22 	1 	shall 	MD
+Ecc 	11 	6 	1 	23 	1 	prosper 	NN
+Ecc 	11 	6 	1 	24 	0 	,
+Ecc 	11 	6 	1 	25 	1 	either 	DT
+Ecc 	11 	6 	1 	26 	1 	this 	DT
+Ecc 	11 	6 	1 	27 	1 	or 	CC
+Ecc 	11 	6 	1 	28 	1 	that 	IN
+Ecc 	11 	6 	1 	29 	0 	,
+Ecc 	11 	6 	1 	30 	1 	or 	CC
+Ecc 	11 	6 	1 	31 	1 	whether 	IN
+Ecc 	11 	6 	1 	32 	1 	they 	PRP
+Ecc 	11 	6 	1 	33 	1 	both 	DT
+Ecc 	11 	6 	1 	34 	1 	shall 	MD
+Ecc 	11 	6 	1 	35 	1 	be 	VB
+Ecc 	11 	6 	1 	36 	1 	alike 	RB
+Ecc 	11 	6 	1 	37 	1 	good 	JJ
+Ecc 	11 	6 	1 	38 	0 	.
+Ecc 	11 	7 	1 	1 	1 	Truly 	RB
+Ecc 	11 	7 	1 	2 	1 	the 	DT
+Ecc 	11 	7 	1 	3 	1 	light 	NN
+Ecc 	11 	7 	1 	4 	1 	is 	VBZ
+Ecc 	11 	7 	1 	5 	1 	sweet 	NN
+Ecc 	11 	7 	1 	6 	0 	,
+Ecc 	11 	7 	1 	7 	1 	and 	CC
+Ecc 	11 	7 	1 	8 	1 	a 	DT
+Ecc 	11 	7 	1 	9 	1 	pleasant 	NN
+Ecc 	11 	7 	1 	10 	1 	thing 	NN
+Ecc 	11 	7 	1 	11 	1 	it 	PRP
+Ecc 	11 	7 	1 	12 	1 	is 	VBZ
+Ecc 	11 	7 	1 	13 	1 	for 	IN
+Ecc 	11 	7 	1 	14 	1 	the 	DT
+Ecc 	11 	7 	1 	15 	1 	eyes 	NNS
+Ecc 	11 	7 	1 	16 	1 	to 	TO
+Ecc 	11 	7 	1 	17 	1 	behold 	NN
+Ecc 	11 	7 	1 	18 	1 	the 	DT
+Ecc 	11 	7 	1 	19 	1 	sun 	NN
+Ecc 	11 	7 	1 	20 	0 	:
+Ecc 	11 	8 	1 	1 	1 	But 	CC
+Ecc 	11 	8 	1 	2 	1 	if 	IN
+Ecc 	11 	8 	1 	3 	1 	a 	DT
+Ecc 	11 	8 	1 	4 	1 	man 	NN
+Ecc 	11 	8 	1 	5 	1 	live 	JJ
+Ecc 	11 	8 	1 	6 	1 	many 	JJ
+Ecc 	11 	8 	1 	7 	1 	years 	NNS
+Ecc 	11 	8 	1 	8 	0 	,
+Ecc 	11 	8 	1 	9 	1 	and 	CC
+Ecc 	11 	8 	1 	10 	1 	rejoice 	NN
+Ecc 	11 	8 	1 	11 	1 	in 	IN
+Ecc 	11 	8 	1 	12 	1 	them 	PRP
+Ecc 	11 	8 	1 	13 	1 	all 	DT
+Ecc 	11 	8 	1 	14 	0 	;
+Ecc 	11 	8 	1 	15 	1 	yet 	RB
+Ecc 	11 	8 	1 	16 	1 	let 	VB
+Ecc 	11 	8 	1 	17 	1 	him 	PRP
+Ecc 	11 	8 	1 	18 	1 	remember 	VB
+Ecc 	11 	8 	1 	19 	1 	the 	DT
+Ecc 	11 	8 	1 	20 	1 	days 	NNS
+Ecc 	11 	8 	1 	21 	1 	of 	IN
+Ecc 	11 	8 	1 	22 	1 	darkness 	NN
+Ecc 	11 	8 	1 	23 	0 	;
+Ecc 	11 	8 	1 	24 	1 	for 	IN
+Ecc 	11 	8 	1 	25 	1 	they 	PRP
+Ecc 	11 	8 	1 	26 	1 	shall 	MD
+Ecc 	11 	8 	1 	27 	1 	be 	VB
+Ecc 	11 	8 	1 	28 	1 	many 	JJ
+Ecc 	11 	8 	1 	29 	0 	.
+Ecc 	11 	8 	2 	1 	1 	All 	DT
+Ecc 	11 	8 	2 	2 	1 	that 	IN
+Ecc 	11 	8 	2 	3 	1 	cometh 	NNS
+Ecc 	11 	8 	2 	4 	1 	is 	VBZ
+Ecc 	11 	8 	2 	5 	1 	vanity 	NN
+Ecc 	11 	8 	2 	6 	0 	.
+Ecc 	11 	9 	1 	1 	1 	Rejoice 	NN
+Ecc 	11 	9 	1 	2 	0 	,
+Ecc 	11 	9 	1 	3 	1 	O 	NN
+Ecc 	11 	9 	1 	4 	1 	young 	JJ
+Ecc 	11 	9 	1 	5 	1 	man 	NN
+Ecc 	11 	9 	1 	6 	0 	,
+Ecc 	11 	9 	1 	7 	1 	in 	IN
+Ecc 	11 	9 	1 	8 	1 	thy 	NN
+Ecc 	11 	9 	1 	9 	1 	youth 	NN
+Ecc 	11 	9 	1 	10 	0 	;
+Ecc 	11 	9 	1 	11 	1 	and 	CC
+Ecc 	11 	9 	1 	12 	1 	let 	VB
+Ecc 	11 	9 	1 	13 	1 	thy 	NN
+Ecc 	11 	9 	1 	14 	1 	heart 	NN
+Ecc 	11 	9 	1 	15 	1 	cheer 	NN
+Ecc 	11 	9 	1 	16 	1 	thee 	NN
+Ecc 	11 	9 	1 	17 	1 	in 	IN
+Ecc 	11 	9 	1 	18 	1 	the 	DT
+Ecc 	11 	9 	1 	19 	1 	days 	NNS
+Ecc 	11 	9 	1 	20 	1 	of 	IN
+Ecc 	11 	9 	1 	21 	1 	thy 	NN
+Ecc 	11 	9 	1 	22 	1 	youth 	NN
+Ecc 	11 	9 	1 	23 	0 	,
+Ecc 	11 	9 	1 	24 	1 	and 	CC
+Ecc 	11 	9 	1 	25 	1 	walk 	NN
+Ecc 	11 	9 	1 	26 	1 	in 	IN
+Ecc 	11 	9 	1 	27 	1 	the 	DT
+Ecc 	11 	9 	1 	28 	1 	ways 	NNS
+Ecc 	11 	9 	1 	29 	1 	of 	IN
+Ecc 	11 	9 	1 	30 	1 	thine 	NN
+Ecc 	11 	9 	1 	31 	1 	heart 	NN
+Ecc 	11 	9 	1 	32 	0 	,
+Ecc 	11 	9 	1 	33 	1 	and 	CC
+Ecc 	11 	9 	1 	34 	1 	in 	IN
+Ecc 	11 	9 	1 	35 	1 	the 	DT
+Ecc 	11 	9 	1 	36 	1 	sight 	NN
+Ecc 	11 	9 	1 	37 	1 	of 	IN
+Ecc 	11 	9 	1 	38 	1 	thine 	NN
+Ecc 	11 	9 	1 	39 	1 	eyes 	NNS
+Ecc 	11 	9 	1 	40 	0 	:
+Ecc 	11 	9 	1 	41 	1 	but 	CC
+Ecc 	11 	9 	1 	42 	1 	know 	VB
+Ecc 	11 	9 	1 	43 	1 	thou 	NN
+Ecc 	11 	9 	1 	44 	0 	,
+Ecc 	11 	9 	1 	45 	1 	that 	IN
+Ecc 	11 	9 	1 	46 	1 	for 	IN
+Ecc 	11 	9 	1 	47 	1 	all 	DT
+Ecc 	11 	9 	1 	48 	1 	these 	DT
+Ecc 	11 	9 	1 	49 	1 	things 	NNS
+Ecc 	11 	9 	1 	50 	1 	God 	NNP
+Ecc 	11 	9 	1 	51 	1 	will 	MD
+Ecc 	11 	9 	1 	52 	1 	bring 	NN
+Ecc 	11 	9 	1 	53 	1 	thee 	NN
+Ecc 	11 	9 	1 	54 	1 	into 	IN
+Ecc 	11 	9 	1 	55 	1 	judgment 	NN
+Ecc 	11 	9 	1 	56 	0 	.
+Ecc 	11 	10 	1 	1 	1 	Therefore 	RB
+Ecc 	11 	10 	1 	2 	1 	remove 	VB
+Ecc 	11 	10 	1 	3 	1 	sorrow 	NN
+Ecc 	11 	10 	1 	4 	1 	from 	IN
+Ecc 	11 	10 	1 	5 	1 	thy 	NN
+Ecc 	11 	10 	1 	6 	1 	heart 	NN
+Ecc 	11 	10 	1 	7 	0 	,
+Ecc 	11 	10 	1 	8 	1 	and 	CC
+Ecc 	11 	10 	1 	9 	1 	put 	NN
+Ecc 	11 	10 	1 	10 	1 	away 	RB
+Ecc 	11 	10 	1 	11 	1 	evil 	NN
+Ecc 	11 	10 	1 	12 	1 	from 	IN
+Ecc 	11 	10 	1 	13 	1 	thy 	NN
+Ecc 	11 	10 	1 	14 	1 	flesh 	NN
+Ecc 	11 	10 	1 	15 	0 	:
+Ecc 	11 	10 	1 	16 	1 	for 	IN
+Ecc 	11 	10 	1 	17 	1 	childhood 	NN
+Ecc 	11 	10 	1 	18 	1 	and 	CC
+Ecc 	11 	10 	1 	19 	1 	youth 	NN
+Ecc 	11 	10 	1 	20 	1 	are 	VBP
+Ecc 	11 	10 	1 	21 	1 	vanity 	NN
+Ecc 	11 	10 	1 	22 	0 	.
+Ecc 	12 	1 	1 	1 	1 	Remember 	VB
+Ecc 	12 	1 	1 	2 	1 	now 	RB
+Ecc 	12 	1 	1 	3 	1 	thy 	NN
+Ecc 	12 	1 	1 	4 	1 	Creator 	NN
+Ecc 	12 	1 	1 	5 	1 	in 	IN
+Ecc 	12 	1 	1 	6 	1 	the 	DT
+Ecc 	12 	1 	1 	7 	1 	days 	NNS
+Ecc 	12 	1 	1 	8 	1 	of 	IN
+Ecc 	12 	1 	1 	9 	1 	thy 	NN
+Ecc 	12 	1 	1 	10 	1 	youth 	NN
+Ecc 	12 	1 	1 	11 	0 	,
+Ecc 	12 	1 	1 	12 	1 	while 	IN
+Ecc 	12 	1 	1 	13 	1 	the 	DT
+Ecc 	12 	1 	1 	14 	1 	evil 	NN
+Ecc 	12 	1 	1 	15 	1 	days 	NNS
+Ecc 	12 	1 	1 	16 	1 	come 	VB
+Ecc 	12 	1 	1 	17 	1 	not 	RB
+Ecc 	12 	1 	1 	18 	0 	,
+Ecc 	12 	1 	1 	19 	1 	nor 	CC
+Ecc 	12 	1 	1 	20 	1 	the 	DT
+Ecc 	12 	1 	1 	21 	1 	years 	NNS
+Ecc 	12 	1 	1 	22 	1 	draw 	NN
+Ecc 	12 	1 	1 	23 	1 	nigh 	JJ
+Ecc 	12 	1 	1 	24 	0 	,
+Ecc 	12 	1 	1 	25 	1 	when 	WRB
+Ecc 	12 	1 	1 	26 	1 	thou 	NN
+Ecc 	12 	1 	1 	27 	1 	shalt 	NN
+Ecc 	12 	1 	1 	28 	1 	say 	VB
+Ecc 	12 	1 	1 	29 	0 	,
+Ecc 	12 	1 	1 	30 	1 	I 	PRP
+Ecc 	12 	1 	1 	31 	1 	have 	VB
+Ecc 	12 	1 	1 	32 	1 	no 	DT
+Ecc 	12 	1 	1 	33 	1 	pleasure 	NN
+Ecc 	12 	1 	1 	34 	1 	in 	IN
+Ecc 	12 	1 	1 	35 	1 	them 	PRP
+Ecc 	12 	1 	1 	36 	0 	;
+Ecc 	12 	2 	1 	1 	1 	While 	IN
+Ecc 	12 	2 	1 	2 	1 	the 	DT
+Ecc 	12 	2 	1 	3 	1 	sun 	NN
+Ecc 	12 	2 	1 	4 	0 	,
+Ecc 	12 	2 	1 	5 	1 	or 	CC
+Ecc 	12 	2 	1 	6 	1 	the 	DT
+Ecc 	12 	2 	1 	7 	1 	light 	NN
+Ecc 	12 	2 	1 	8 	0 	,
+Ecc 	12 	2 	1 	9 	1 	or 	CC
+Ecc 	12 	2 	1 	10 	1 	the 	DT
+Ecc 	12 	2 	1 	11 	1 	moon 	NN
+Ecc 	12 	2 	1 	12 	0 	,
+Ecc 	12 	2 	1 	13 	1 	or 	CC
+Ecc 	12 	2 	1 	14 	1 	the 	DT
+Ecc 	12 	2 	1 	15 	1 	stars 	NNS
+Ecc 	12 	2 	1 	16 	0 	,
+Ecc 	12 	2 	1 	17 	1 	be 	VB
+Ecc 	12 	2 	1 	18 	1 	not 	RB
+Ecc 	12 	2 	1 	19 	1 	darkened 	VBN
+Ecc 	12 	2 	1 	20 	0 	,
+Ecc 	12 	2 	1 	21 	1 	nor 	CC
+Ecc 	12 	2 	1 	22 	1 	the 	DT
+Ecc 	12 	2 	1 	23 	1 	clouds 	NNS
+Ecc 	12 	2 	1 	24 	1 	return 	NN
+Ecc 	12 	2 	1 	25 	1 	after 	IN
+Ecc 	12 	2 	1 	26 	1 	the 	DT
+Ecc 	12 	2 	1 	27 	1 	rain 	NN
+Ecc 	12 	2 	1 	28 	0 	:
+Ecc 	12 	3 	1 	1 	1 	In 	IN
+Ecc 	12 	3 	1 	2 	1 	the 	DT
+Ecc 	12 	3 	1 	3 	1 	day 	NN
+Ecc 	12 	3 	1 	4 	1 	when 	WRB
+Ecc 	12 	3 	1 	5 	1 	the 	DT
+Ecc 	12 	3 	1 	6 	1 	keepers 	NNS
+Ecc 	12 	3 	1 	7 	1 	of 	IN
+Ecc 	12 	3 	1 	8 	1 	the 	DT
+Ecc 	12 	3 	1 	9 	1 	house 	NN
+Ecc 	12 	3 	1 	10 	1 	shall 	MD
+Ecc 	12 	3 	1 	11 	1 	tremble 	JJ
+Ecc 	12 	3 	1 	12 	0 	,
+Ecc 	12 	3 	1 	13 	1 	and 	CC
+Ecc 	12 	3 	1 	14 	1 	the 	DT
+Ecc 	12 	3 	1 	15 	1 	strong 	JJ
+Ecc 	12 	3 	1 	16 	1 	men 	NNS
+Ecc 	12 	3 	1 	17 	1 	shall 	MD
+Ecc 	12 	3 	1 	18 	1 	bow 	NN
+Ecc 	12 	3 	1 	19 	1 	themselves 	PRP
+Ecc 	12 	3 	1 	20 	0 	,
+Ecc 	12 	3 	1 	21 	1 	and 	CC
+Ecc 	12 	3 	1 	22 	1 	the 	DT
+Ecc 	12 	3 	1 	23 	1 	grinders 	NNS
+Ecc 	12 	3 	1 	24 	1 	cease 	NN
+Ecc 	12 	3 	1 	25 	1 	because 	IN
+Ecc 	12 	3 	1 	26 	1 	they 	PRP
+Ecc 	12 	3 	1 	27 	1 	are 	VBP
+Ecc 	12 	3 	1 	28 	1 	few 	JJ
+Ecc 	12 	3 	1 	29 	0 	,
+Ecc 	12 	3 	1 	30 	1 	and 	CC
+Ecc 	12 	3 	1 	31 	1 	those 	DT
+Ecc 	12 	3 	1 	32 	1 	that 	IN
+Ecc 	12 	3 	1 	33 	1 	look 	NN
+Ecc 	12 	3 	1 	34 	1 	out 	IN
+Ecc 	12 	3 	1 	35 	1 	of 	IN
+Ecc 	12 	3 	1 	36 	1 	the 	DT
+Ecc 	12 	3 	1 	37 	1 	windows 	NNS
+Ecc 	12 	3 	1 	38 	1 	be 	VB
+Ecc 	12 	3 	1 	39 	1 	darkened 	VBN
+Ecc 	12 	3 	1 	40 	0 	,
+Ecc 	12 	4 	1 	1 	1 	And 	CC
+Ecc 	12 	4 	1 	2 	1 	the 	DT
+Ecc 	12 	4 	1 	3 	1 	doors 	NNS
+Ecc 	12 	4 	1 	4 	1 	shall 	MD
+Ecc 	12 	4 	1 	5 	1 	be 	VB
+Ecc 	12 	4 	1 	6 	1 	shut 	NN
+Ecc 	12 	4 	1 	7 	1 	in 	IN
+Ecc 	12 	4 	1 	8 	1 	the 	DT
+Ecc 	12 	4 	1 	9 	1 	streets 	NNS
+Ecc 	12 	4 	1 	10 	0 	,
+Ecc 	12 	4 	1 	11 	1 	when 	WRB
+Ecc 	12 	4 	1 	12 	1 	the 	DT
+Ecc 	12 	4 	1 	13 	1 	sound 	NN
+Ecc 	12 	4 	1 	14 	1 	of 	IN
+Ecc 	12 	4 	1 	15 	1 	the 	DT
+Ecc 	12 	4 	1 	16 	1 	grinding 	VBG
+Ecc 	12 	4 	1 	17 	1 	is 	VBZ
+Ecc 	12 	4 	1 	18 	1 	low 	JJ
+Ecc 	12 	4 	1 	19 	0 	,
+Ecc 	12 	4 	1 	20 	1 	and 	CC
+Ecc 	12 	4 	1 	21 	1 	he 	PRP
+Ecc 	12 	4 	1 	22 	1 	shall 	MD
+Ecc 	12 	4 	1 	23 	1 	rise 	NN
+Ecc 	12 	4 	1 	24 	1 	up 	RB
+Ecc 	12 	4 	1 	25 	1 	at 	IN
+Ecc 	12 	4 	1 	26 	1 	the 	DT
+Ecc 	12 	4 	1 	27 	1 	voice 	NN
+Ecc 	12 	4 	1 	28 	1 	of 	IN
+Ecc 	12 	4 	1 	29 	1 	the 	DT
+Ecc 	12 	4 	1 	30 	1 	bird 	NN
+Ecc 	12 	4 	1 	31 	0 	,
+Ecc 	12 	4 	1 	32 	1 	and 	CC
+Ecc 	12 	4 	1 	33 	1 	all 	DT
+Ecc 	12 	4 	1 	34 	1 	the 	DT
+Ecc 	12 	4 	1 	35 	1 	daughters 	NNS
+Ecc 	12 	4 	1 	36 	1 	of 	IN
+Ecc 	12 	4 	1 	37 	1 	musick 	NN
+Ecc 	12 	4 	1 	38 	1 	shall 	MD
+Ecc 	12 	4 	1 	39 	1 	be 	VB
+Ecc 	12 	4 	1 	40 	1 	brought 	NN
+Ecc 	12 	4 	1 	41 	1 	low 	JJ
+Ecc 	12 	4 	1 	42 	0 	;
+Ecc 	12 	5 	1 	1 	1 	Also 	RB
+Ecc 	12 	5 	1 	2 	1 	when 	WRB
+Ecc 	12 	5 	1 	3 	1 	they 	PRP
+Ecc 	12 	5 	1 	4 	1 	shall 	MD
+Ecc 	12 	5 	1 	5 	1 	be 	VB
+Ecc 	12 	5 	1 	6 	1 	afraid 	NN
+Ecc 	12 	5 	1 	7 	1 	of 	IN
+Ecc 	12 	5 	1 	8 	1 	that 	IN
+Ecc 	12 	5 	1 	9 	1 	which 	WDT
+Ecc 	12 	5 	1 	10 	1 	is 	VBZ
+Ecc 	12 	5 	1 	11 	1 	high 	JJ
+Ecc 	12 	5 	1 	12 	0 	,
+Ecc 	12 	5 	1 	13 	1 	and 	CC
+Ecc 	12 	5 	1 	14 	1 	fears 	NNS
+Ecc 	12 	5 	1 	15 	1 	shall 	MD
+Ecc 	12 	5 	1 	16 	1 	be 	VB
+Ecc 	12 	5 	1 	17 	1 	in 	IN
+Ecc 	12 	5 	1 	18 	1 	the 	DT
+Ecc 	12 	5 	1 	19 	1 	way 	NN
+Ecc 	12 	5 	1 	20 	0 	,
+Ecc 	12 	5 	1 	21 	1 	and 	CC
+Ecc 	12 	5 	1 	22 	1 	the 	DT
+Ecc 	12 	5 	1 	23 	1 	almond 	NN
+Ecc 	12 	5 	1 	24 	1 	tree 	NN
+Ecc 	12 	5 	1 	25 	1 	shall 	MD
+Ecc 	12 	5 	1 	26 	1 	flourish 	JJ
+Ecc 	12 	5 	1 	27 	0 	,
+Ecc 	12 	5 	1 	28 	1 	and 	CC
+Ecc 	12 	5 	1 	29 	1 	the 	DT
+Ecc 	12 	5 	1 	30 	1 	grasshopper 	NN
+Ecc 	12 	5 	1 	31 	1 	shall 	MD
+Ecc 	12 	5 	1 	32 	1 	be 	VB
+Ecc 	12 	5 	1 	33 	1 	a 	DT
+Ecc 	12 	5 	1 	34 	1 	burden 	NN
+Ecc 	12 	5 	1 	35 	0 	,
+Ecc 	12 	5 	1 	36 	1 	and 	CC
+Ecc 	12 	5 	1 	37 	1 	desire 	NN
+Ecc 	12 	5 	1 	38 	1 	shall 	MD
+Ecc 	12 	5 	1 	39 	1 	fail 	NN
+Ecc 	12 	5 	1 	40 	0 	:
+Ecc 	12 	5 	1 	41 	1 	because 	IN
+Ecc 	12 	5 	1 	42 	1 	man 	NN
+Ecc 	12 	5 	1 	43 	1 	goeth 	NNS
+Ecc 	12 	5 	1 	44 	1 	to 	TO
+Ecc 	12 	5 	1 	45 	1 	his 	PRP$
+Ecc 	12 	5 	1 	46 	1 	long 	RB
+Ecc 	12 	5 	1 	47 	1 	home 	NN
+Ecc 	12 	5 	1 	48 	0 	,
+Ecc 	12 	5 	1 	49 	1 	and 	CC
+Ecc 	12 	5 	1 	50 	1 	the 	DT
+Ecc 	12 	5 	1 	51 	1 	mourners 	NNS
+Ecc 	12 	5 	1 	52 	1 	go 	VB
+Ecc 	12 	5 	1 	53 	1 	about 	IN
+Ecc 	12 	5 	1 	54 	1 	the 	DT
+Ecc 	12 	5 	1 	55 	1 	streets 	NNS
+Ecc 	12 	5 	1 	56 	0 	:
+Ecc 	12 	6 	1 	1 	1 	Or 	CC
+Ecc 	12 	6 	1 	2 	1 	ever 	RB
+Ecc 	12 	6 	1 	3 	1 	the 	DT
+Ecc 	12 	6 	1 	4 	1 	silver 	NN
+Ecc 	12 	6 	1 	5 	1 	cord 	NN
+Ecc 	12 	6 	1 	6 	1 	be 	VB
+Ecc 	12 	6 	1 	7 	1 	loosed 	VBN
+Ecc 	12 	6 	1 	8 	0 	,
+Ecc 	12 	6 	1 	9 	1 	or 	CC
+Ecc 	12 	6 	1 	10 	1 	the 	DT
+Ecc 	12 	6 	1 	11 	1 	golden 	JJ
+Ecc 	12 	6 	1 	12 	1 	bowl 	NN
+Ecc 	12 	6 	1 	13 	1 	be 	VB
+Ecc 	12 	6 	1 	14 	1 	broken 	NN
+Ecc 	12 	6 	1 	15 	0 	,
+Ecc 	12 	6 	1 	16 	1 	or 	CC
+Ecc 	12 	6 	1 	17 	1 	the 	DT
+Ecc 	12 	6 	1 	18 	1 	pitcher 	NN
+Ecc 	12 	6 	1 	19 	1 	be 	VB
+Ecc 	12 	6 	1 	20 	1 	broken 	NN
+Ecc 	12 	6 	1 	21 	1 	at 	IN
+Ecc 	12 	6 	1 	22 	1 	the 	DT
+Ecc 	12 	6 	1 	23 	1 	fountain 	NN
+Ecc 	12 	6 	1 	24 	0 	,
+Ecc 	12 	6 	1 	25 	1 	or 	CC
+Ecc 	12 	6 	1 	26 	1 	the 	DT
+Ecc 	12 	6 	1 	27 	1 	wheel 	NN
+Ecc 	12 	6 	1 	28 	1 	broken 	NN
+Ecc 	12 	6 	1 	29 	1 	at 	IN
+Ecc 	12 	6 	1 	30 	1 	the 	DT
+Ecc 	12 	6 	1 	31 	1 	cistern 	NN
+Ecc 	12 	6 	1 	32 	0 	.
+Ecc 	12 	7 	1 	1 	1 	Then 	RB
+Ecc 	12 	7 	1 	2 	1 	shall 	MD
+Ecc 	12 	7 	1 	3 	1 	the 	DT
+Ecc 	12 	7 	1 	4 	1 	dust 	NN
+Ecc 	12 	7 	1 	5 	1 	return 	NN
+Ecc 	12 	7 	1 	6 	1 	to 	TO
+Ecc 	12 	7 	1 	7 	1 	the 	DT
+Ecc 	12 	7 	1 	8 	1 	earth 	NN
+Ecc 	12 	7 	1 	9 	1 	as 	IN
+Ecc 	12 	7 	1 	10 	1 	it 	PRP
+Ecc 	12 	7 	1 	11 	1 	was 	VBD
+Ecc 	12 	7 	1 	12 	0 	:
+Ecc 	12 	7 	1 	13 	1 	and 	CC
+Ecc 	12 	7 	1 	14 	1 	the 	DT
+Ecc 	12 	7 	1 	15 	1 	spirit 	NN
+Ecc 	12 	7 	1 	16 	1 	shall 	MD
+Ecc 	12 	7 	1 	17 	1 	return 	NN
+Ecc 	12 	7 	1 	18 	1 	unto 	NN
+Ecc 	12 	7 	1 	19 	1 	God 	NNP
+Ecc 	12 	7 	1 	20 	1 	who 	WP
+Ecc 	12 	7 	1 	21 	1 	gave 	VBD
+Ecc 	12 	7 	1 	22 	1 	it 	PRP
+Ecc 	12 	7 	1 	23 	0 	.
+Ecc 	12 	8 	1 	1 	1 	Vanity 	NN
+Ecc 	12 	8 	1 	2 	1 	of 	IN
+Ecc 	12 	8 	1 	3 	1 	vanities 	NNS
+Ecc 	12 	8 	1 	4 	0 	,
+Ecc 	12 	8 	1 	5 	1 	saith 	NN
+Ecc 	12 	8 	1 	6 	1 	the 	DT
+Ecc 	12 	8 	1 	7 	1 	preacher 	NN
+Ecc 	12 	8 	1 	8 	0 	;
+Ecc 	12 	8 	1 	9 	1 	all 	DT
+Ecc 	12 	8 	1 	10 	1 	is 	VBZ
+Ecc 	12 	8 	1 	11 	1 	vanity 	NN
+Ecc 	12 	8 	1 	12 	0 	.
+Ecc 	12 	9 	1 	1 	1 	And 	CC
+Ecc 	12 	9 	1 	2 	1 	moreover 	NN
+Ecc 	12 	9 	1 	3 	0 	,
+Ecc 	12 	9 	1 	4 	1 	because 	IN
+Ecc 	12 	9 	1 	5 	1 	the 	DT
+Ecc 	12 	9 	1 	6 	1 	preacher 	NN
+Ecc 	12 	9 	1 	7 	1 	was 	VBD
+Ecc 	12 	9 	1 	8 	1 	wise 	NN
+Ecc 	12 	9 	1 	9 	0 	,
+Ecc 	12 	9 	1 	10 	1 	he 	PRP
+Ecc 	12 	9 	1 	11 	1 	still 	RB
+Ecc 	12 	9 	1 	12 	1 	taught 	NN
+Ecc 	12 	9 	1 	13 	1 	the 	DT
+Ecc 	12 	9 	1 	14 	1 	people 	NNS
+Ecc 	12 	9 	1 	15 	1 	knowledge 	NN
+Ecc 	12 	9 	1 	16 	0 	;
+Ecc 	12 	9 	1 	17 	1 	yea 	NN
+Ecc 	12 	9 	1 	18 	0 	,
+Ecc 	12 	9 	1 	19 	1 	he 	PRP
+Ecc 	12 	9 	1 	20 	1 	gave 	VBD
+Ecc 	12 	9 	1 	21 	1 	good 	JJ
+Ecc 	12 	9 	1 	22 	1 	heed 	NN
+Ecc 	12 	9 	1 	23 	0 	,
+Ecc 	12 	9 	1 	24 	1 	and 	CC
+Ecc 	12 	9 	1 	25 	1 	sought 	NN
+Ecc 	12 	9 	1 	26 	1 	out 	IN
+Ecc 	12 	9 	1 	27 	0 	,
+Ecc 	12 	9 	1 	28 	1 	and 	CC
+Ecc 	12 	9 	1 	29 	1 	set 	NN
+Ecc 	12 	9 	1 	30 	1 	in 	IN
+Ecc 	12 	9 	1 	31 	1 	order 	NN
+Ecc 	12 	9 	1 	32 	1 	many 	JJ
+Ecc 	12 	9 	1 	33 	1 	proverbs 	NNS
+Ecc 	12 	9 	1 	34 	0 	.
+Ecc 	12 	10 	1 	1 	1 	The 	DT
+Ecc 	12 	10 	1 	2 	1 	preacher 	NN
+Ecc 	12 	10 	1 	3 	1 	sought 	NN
+Ecc 	12 	10 	1 	4 	1 	to 	TO
+Ecc 	12 	10 	1 	5 	1 	find 	VB
+Ecc 	12 	10 	1 	6 	1 	out 	IN
+Ecc 	12 	10 	1 	7 	1 	acceptable 	JJ
+Ecc 	12 	10 	1 	8 	1 	words 	NNS
+Ecc 	12 	10 	1 	9 	0 	:
+Ecc 	12 	10 	1 	10 	1 	and 	CC
+Ecc 	12 	10 	1 	11 	1 	that 	IN
+Ecc 	12 	10 	1 	12 	1 	which 	WDT
+Ecc 	12 	10 	1 	13 	1 	was 	VBD
+Ecc 	12 	10 	1 	14 	1 	written 	VBN
+Ecc 	12 	10 	1 	15 	1 	was 	VBD
+Ecc 	12 	10 	1 	16 	1 	upright 	JJ
+Ecc 	12 	10 	1 	17 	0 	,
+Ecc 	12 	10 	1 	18 	1 	even 	RB
+Ecc 	12 	10 	1 	19 	1 	words 	NNS
+Ecc 	12 	10 	1 	20 	1 	of 	IN
+Ecc 	12 	10 	1 	21 	1 	truth 	NN
+Ecc 	12 	10 	1 	22 	0 	.
+Ecc 	12 	11 	1 	1 	1 	The 	DT
+Ecc 	12 	11 	1 	2 	1 	words 	NNS
+Ecc 	12 	11 	1 	3 	1 	of 	IN
+Ecc 	12 	11 	1 	4 	1 	the 	DT
+Ecc 	12 	11 	1 	5 	1 	wise 	NN
+Ecc 	12 	11 	1 	6 	1 	are 	VBP
+Ecc 	12 	11 	1 	7 	1 	as 	IN
+Ecc 	12 	11 	1 	8 	1 	goads 	NNS
+Ecc 	12 	11 	1 	9 	0 	,
+Ecc 	12 	11 	1 	10 	1 	and 	CC
+Ecc 	12 	11 	1 	11 	1 	as 	IN
+Ecc 	12 	11 	1 	12 	1 	nails 	NNS
+Ecc 	12 	11 	1 	13 	1 	fastened 	VBN
+Ecc 	12 	11 	1 	14 	1 	by 	IN
+Ecc 	12 	11 	1 	15 	1 	the 	DT
+Ecc 	12 	11 	1 	16 	1 	masters 	NNS
+Ecc 	12 	11 	1 	17 	1 	of 	IN
+Ecc 	12 	11 	1 	18 	1 	assemblies 	NNS
+Ecc 	12 	11 	1 	19 	0 	,
+Ecc 	12 	11 	1 	20 	1 	which 	WDT
+Ecc 	12 	11 	1 	21 	1 	are 	VBP
+Ecc 	12 	11 	1 	22 	1 	given 	VBN
+Ecc 	12 	11 	1 	23 	1 	from 	IN
+Ecc 	12 	11 	1 	24 	1 	one 	CD
+Ecc 	12 	11 	1 	25 	1 	shepherd 	NN
+Ecc 	12 	11 	1 	26 	0 	.
+Ecc 	12 	12 	1 	1 	1 	And 	CC
+Ecc 	12 	12 	1 	2 	1 	further 	RB
+Ecc 	12 	12 	1 	3 	0 	,
+Ecc 	12 	12 	1 	4 	1 	by 	IN
+Ecc 	12 	12 	1 	5 	1 	these 	DT
+Ecc 	12 	12 	1 	6 	0 	,
+Ecc 	12 	12 	1 	7 	1 	my 	PRP$
+Ecc 	12 	12 	1 	8 	1 	son 	NN
+Ecc 	12 	12 	1 	9 	0 	,
+Ecc 	12 	12 	1 	10 	1 	be 	VB
+Ecc 	12 	12 	1 	11 	1 	admonished 	VBN
+Ecc 	12 	12 	1 	12 	0 	:
+Ecc 	12 	12 	1 	13 	1 	of 	IN
+Ecc 	12 	12 	1 	14 	1 	making 	VBG
+Ecc 	12 	12 	1 	15 	1 	many 	JJ
+Ecc 	12 	12 	1 	16 	1 	books 	NNS
+Ecc 	12 	12 	1 	17 	1 	there 	RB
+Ecc 	12 	12 	1 	18 	1 	is 	VBZ
+Ecc 	12 	12 	1 	19 	1 	no 	DT
+Ecc 	12 	12 	1 	20 	1 	end 	NN
+Ecc 	12 	12 	1 	21 	0 	;
+Ecc 	12 	12 	1 	22 	1 	and 	CC
+Ecc 	12 	12 	1 	23 	1 	much 	JJ
+Ecc 	12 	12 	1 	24 	1 	study 	NN
+Ecc 	12 	12 	1 	25 	1 	is 	VBZ
+Ecc 	12 	12 	1 	26 	1 	a 	DT
+Ecc 	12 	12 	1 	27 	1 	weariness 	NN
+Ecc 	12 	12 	1 	28 	1 	of 	IN
+Ecc 	12 	12 	1 	29 	1 	the 	DT
+Ecc 	12 	12 	1 	30 	1 	flesh 	NN
+Ecc 	12 	12 	1 	31 	0 	.
+Ecc 	12 	13 	1 	1 	1 	Let 	VB
+Ecc 	12 	13 	1 	2 	1 	us 	PRP
+Ecc 	12 	13 	1 	3 	1 	hear 	NN
+Ecc 	12 	13 	1 	4 	1 	the 	DT
+Ecc 	12 	13 	1 	5 	1 	conclusion 	NN
+Ecc 	12 	13 	1 	6 	1 	of 	IN
+Ecc 	12 	13 	1 	7 	1 	the 	DT
+Ecc 	12 	13 	1 	8 	1 	whole 	JJ
+Ecc 	12 	13 	1 	9 	1 	matter 	NN
+Ecc 	12 	13 	1 	10 	0 	:
+Ecc 	12 	13 	1 	11 	1 	Fear 	NN
+Ecc 	12 	13 	1 	12 	1 	God 	NNP
+Ecc 	12 	13 	1 	13 	0 	,
+Ecc 	12 	13 	1 	14 	1 	and 	CC
+Ecc 	12 	13 	1 	15 	1 	keep 	VB
+Ecc 	12 	13 	1 	16 	1 	his 	PRP$
+Ecc 	12 	13 	1 	17 	1 	commandments 	NNS
+Ecc 	12 	13 	1 	18 	0 	:
+Ecc 	12 	13 	1 	19 	1 	for 	IN
+Ecc 	12 	13 	1 	20 	1 	this 	DT
+Ecc 	12 	13 	1 	21 	1 	is 	VBZ
+Ecc 	12 	13 	1 	22 	1 	the 	DT
+Ecc 	12 	13 	1 	23 	1 	whole 	JJ
+Ecc 	12 	13 	1 	24 	1 	duty 	NN
+Ecc 	12 	13 	1 	25 	1 	of 	IN
+Ecc 	12 	13 	1 	26 	1 	man 	NN
+Ecc 	12 	13 	1 	27 	0 	.
+Ecc 	12 	14 	1 	1 	1 	For 	IN
+Ecc 	12 	14 	1 	2 	1 	God 	NNP
+Ecc 	12 	14 	1 	3 	1 	shall 	MD
+Ecc 	12 	14 	1 	4 	1 	bring 	NN
+Ecc 	12 	14 	1 	5 	1 	every 	DT
+Ecc 	12 	14 	1 	6 	1 	work 	NN
+Ecc 	12 	14 	1 	7 	1 	into 	IN
+Ecc 	12 	14 	1 	8 	1 	judgment 	NN
+Ecc 	12 	14 	1 	9 	0 	,
+Ecc 	12 	14 	1 	10 	1 	with 	IN
+Ecc 	12 	14 	1 	11 	1 	every 	DT
+Ecc 	12 	14 	1 	12 	1 	secret 	NN
+Ecc 	12 	14 	1 	13 	1 	thing 	NN
+Ecc 	12 	14 	1 	14 	0 	,
+Ecc 	12 	14 	1 	15 	1 	whether 	IN
+Ecc 	12 	14 	1 	16 	1 	it 	PRP
+Ecc 	12 	14 	1 	17 	1 	be 	VB
+Ecc 	12 	14 	1 	18 	1 	good 	JJ
+Ecc 	12 	14 	1 	19 	0 	,
+Ecc 	12 	14 	1 	20 	1 	or 	CC
+Ecc 	12 	14 	1 	21 	1 	whether 	IN
+Ecc 	12 	14 	1 	22 	1 	it 	PRP
+Ecc 	12 	14 	1 	23 	1 	be 	VB
+Ecc 	12 	14 	1 	24 	1 	evil 	NN
+Ecc 	12 	14 	1 	25 	0 	.

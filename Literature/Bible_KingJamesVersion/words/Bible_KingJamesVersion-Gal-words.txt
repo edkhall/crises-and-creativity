@@ -1,0 +1,3590 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Gal 	1 	1 	1 	1 	1 	Paul 	NNP
+Gal 	1 	1 	1 	2 	0 	,
+Gal 	1 	1 	1 	3 	1 	an 	DT
+Gal 	1 	1 	1 	4 	1 	apostle 	NN
+Gal 	1 	1 	1 	5 	0 	,
+Gal 	1 	1 	1 	6 	0 	(
+Gal 	1 	1 	1 	7 	1 	not 	RB
+Gal 	1 	1 	1 	8 	1 	of 	IN
+Gal 	1 	1 	1 	9 	1 	men 	NNS
+Gal 	1 	1 	1 	10 	0 	,
+Gal 	1 	1 	1 	11 	1 	neither 	DT
+Gal 	1 	1 	1 	12 	1 	by 	IN
+Gal 	1 	1 	1 	13 	1 	man 	NN
+Gal 	1 	1 	1 	14 	0 	,
+Gal 	1 	1 	1 	15 	1 	but 	CC
+Gal 	1 	1 	1 	16 	1 	by 	IN
+Gal 	1 	1 	1 	17 	1 	Jesus 	NN
+Gal 	1 	1 	1 	18 	1 	Christ 	NN
+Gal 	1 	1 	1 	19 	0 	,
+Gal 	1 	1 	1 	20 	1 	and 	CC
+Gal 	1 	1 	1 	21 	1 	God 	NNP
+Gal 	1 	1 	1 	22 	1 	the 	DT
+Gal 	1 	1 	1 	23 	1 	Father 	NN
+Gal 	1 	1 	1 	24 	0 	,
+Gal 	1 	1 	1 	25 	1 	who 	WP
+Gal 	1 	1 	1 	26 	1 	raised 	VBN
+Gal 	1 	1 	1 	27 	1 	him 	PRP
+Gal 	1 	1 	1 	28 	1 	from 	IN
+Gal 	1 	1 	1 	29 	1 	the 	DT
+Gal 	1 	1 	1 	30 	1 	dead 	JJ
+Gal 	1 	1 	1 	31 	0 	;
+Gal 	1 	1 	1 	32 	0 	)
+Gal 	1 	2 	1 	1 	1 	And 	CC
+Gal 	1 	2 	1 	2 	1 	all 	DT
+Gal 	1 	2 	1 	3 	1 	the 	DT
+Gal 	1 	2 	1 	4 	1 	brethren 	NNS
+Gal 	1 	2 	1 	5 	1 	which 	WDT
+Gal 	1 	2 	1 	6 	1 	are 	VBP
+Gal 	1 	2 	1 	7 	1 	with 	IN
+Gal 	1 	2 	1 	8 	1 	me 	PRP
+Gal 	1 	2 	1 	9 	0 	,
+Gal 	1 	2 	1 	10 	1 	unto 	NN
+Gal 	1 	2 	1 	11 	1 	the 	DT
+Gal 	1 	2 	1 	12 	1 	churches 	NNS
+Gal 	1 	2 	1 	13 	1 	of 	IN
+Gal 	1 	2 	1 	14 	1 	Galatia 	NN
+Gal 	1 	2 	1 	15 	0 	:
+Gal 	1 	3 	1 	1 	1 	race 	NN
+Gal 	1 	3 	1 	2 	1 	be 	VB
+Gal 	1 	3 	1 	3 	1 	to 	TO
+Gal 	1 	3 	1 	4 	1 	you 	PRP
+Gal 	1 	3 	1 	5 	1 	and 	CC
+Gal 	1 	3 	1 	6 	1 	peace 	NN
+Gal 	1 	3 	1 	7 	1 	from 	IN
+Gal 	1 	3 	1 	8 	1 	God 	NNP
+Gal 	1 	3 	1 	9 	1 	the 	DT
+Gal 	1 	3 	1 	10 	1 	Father 	NN
+Gal 	1 	3 	1 	11 	0 	,
+Gal 	1 	3 	1 	12 	1 	and 	CC
+Gal 	1 	3 	1 	13 	1 	from 	IN
+Gal 	1 	3 	1 	14 	1 	our 	PRP$
+Gal 	1 	3 	1 	15 	1 	Lord 	NN
+Gal 	1 	3 	1 	16 	1 	Jesus 	NN
+Gal 	1 	3 	1 	17 	1 	Christ 	NN
+Gal 	1 	3 	1 	18 	0 	,
+Gal 	1 	4 	1 	1 	1 	Who 	WP
+Gal 	1 	4 	1 	2 	1 	gave 	VBD
+Gal 	1 	4 	1 	3 	1 	himself 	PRP
+Gal 	1 	4 	1 	4 	1 	for 	IN
+Gal 	1 	4 	1 	5 	1 	our 	PRP$
+Gal 	1 	4 	1 	6 	1 	sins 	NNS
+Gal 	1 	4 	1 	7 	0 	,
+Gal 	1 	4 	1 	8 	1 	that 	IN
+Gal 	1 	4 	1 	9 	1 	he 	PRP
+Gal 	1 	4 	1 	10 	1 	might 	MD
+Gal 	1 	4 	1 	11 	1 	deliver 	NN
+Gal 	1 	4 	1 	12 	1 	us 	PRP
+Gal 	1 	4 	1 	13 	1 	from 	IN
+Gal 	1 	4 	1 	14 	1 	this 	DT
+Gal 	1 	4 	1 	15 	1 	present 	NN
+Gal 	1 	4 	1 	16 	1 	evil 	NN
+Gal 	1 	4 	1 	17 	1 	world 	NN
+Gal 	1 	4 	1 	18 	0 	,
+Gal 	1 	4 	1 	19 	1 	according 	VBG
+Gal 	1 	4 	1 	20 	1 	to 	TO
+Gal 	1 	4 	1 	21 	1 	the 	DT
+Gal 	1 	4 	1 	22 	1 	will 	MD
+Gal 	1 	4 	1 	23 	1 	of 	IN
+Gal 	1 	4 	1 	24 	1 	God 	NNP
+Gal 	1 	4 	1 	25 	1 	and 	CC
+Gal 	1 	4 	1 	26 	1 	our 	PRP$
+Gal 	1 	4 	1 	27 	1 	Father 	NN
+Gal 	1 	4 	1 	28 	0 	:
+Gal 	1 	5 	1 	1 	1 	To 	TO
+Gal 	1 	5 	1 	2 	1 	whom 	WP
+Gal 	1 	5 	1 	3 	1 	be 	VB
+Gal 	1 	5 	1 	4 	1 	glory 	NN
+Gal 	1 	5 	1 	5 	1 	for 	IN
+Gal 	1 	5 	1 	6 	1 	ever 	RB
+Gal 	1 	5 	1 	7 	1 	and 	CC
+Gal 	1 	5 	1 	8 	1 	ever 	RB
+Gal 	1 	5 	1 	9 	0 	.
+Gal 	1 	5 	2 	1 	1 	Amen 	NNS
+Gal 	1 	5 	2 	2 	0 	.
+Gal 	1 	6 	1 	1 	1 	I 	PRP
+Gal 	1 	6 	1 	2 	1 	marvel 	NN
+Gal 	1 	6 	1 	3 	1 	that 	IN
+Gal 	1 	6 	1 	4 	1 	ye 	NN
+Gal 	1 	6 	1 	5 	1 	are 	VBP
+Gal 	1 	6 	1 	6 	1 	so 	RB
+Gal 	1 	6 	1 	7 	1 	soon 	RB
+Gal 	1 	6 	1 	8 	1 	removed 	VBN
+Gal 	1 	6 	1 	9 	1 	from 	IN
+Gal 	1 	6 	1 	10 	1 	him 	PRP
+Gal 	1 	6 	1 	11 	1 	that 	IN
+Gal 	1 	6 	1 	12 	1 	called 	VBN
+Gal 	1 	6 	1 	13 	1 	you 	PRP
+Gal 	1 	6 	1 	14 	1 	into 	IN
+Gal 	1 	6 	1 	15 	1 	the 	DT
+Gal 	1 	6 	1 	16 	1 	grace 	NN
+Gal 	1 	6 	1 	17 	1 	of 	IN
+Gal 	1 	6 	1 	18 	1 	Christ 	NN
+Gal 	1 	6 	1 	19 	1 	unto 	NN
+Gal 	1 	6 	1 	20 	1 	another 	DT
+Gal 	1 	6 	1 	21 	1 	gospel 	NN
+Gal 	1 	6 	1 	22 	0 	:
+Gal 	1 	7 	1 	1 	1 	Which 	WDT
+Gal 	1 	7 	1 	2 	1 	is 	VBZ
+Gal 	1 	7 	1 	3 	1 	not 	RB
+Gal 	1 	7 	1 	4 	1 	another 	DT
+Gal 	1 	7 	1 	5 	0 	;
+Gal 	1 	7 	1 	6 	1 	but 	CC
+Gal 	1 	7 	1 	7 	1 	there 	RB
+Gal 	1 	7 	1 	8 	1 	be 	VB
+Gal 	1 	7 	1 	9 	1 	some 	DT
+Gal 	1 	7 	1 	10 	1 	that 	IN
+Gal 	1 	7 	1 	11 	1 	trouble 	NN
+Gal 	1 	7 	1 	12 	1 	you 	PRP
+Gal 	1 	7 	1 	13 	0 	,
+Gal 	1 	7 	1 	14 	1 	and 	CC
+Gal 	1 	7 	1 	15 	1 	would 	MD
+Gal 	1 	7 	1 	16 	1 	pervert 	NN
+Gal 	1 	7 	1 	17 	1 	the 	DT
+Gal 	1 	7 	1 	18 	1 	gospel 	NN
+Gal 	1 	7 	1 	19 	1 	of 	IN
+Gal 	1 	7 	1 	20 	1 	Christ 	NN
+Gal 	1 	7 	1 	21 	0 	.
+Gal 	1 	8 	1 	1 	1 	But 	CC
+Gal 	1 	8 	1 	2 	1 	though 	IN
+Gal 	1 	8 	1 	3 	1 	we 	PRP
+Gal 	1 	8 	1 	4 	0 	,
+Gal 	1 	8 	1 	5 	1 	or 	CC
+Gal 	1 	8 	1 	6 	1 	an 	DT
+Gal 	1 	8 	1 	7 	1 	angel 	NN
+Gal 	1 	8 	1 	8 	1 	from 	IN
+Gal 	1 	8 	1 	9 	1 	heaven 	NN
+Gal 	1 	8 	1 	10 	0 	,
+Gal 	1 	8 	1 	11 	1 	preach 	NN
+Gal 	1 	8 	1 	12 	1 	any 	DT
+Gal 	1 	8 	1 	13 	1 	other 	JJ
+Gal 	1 	8 	1 	14 	1 	gospel 	NN
+Gal 	1 	8 	1 	15 	1 	unto 	NN
+Gal 	1 	8 	1 	16 	1 	you 	PRP
+Gal 	1 	8 	1 	17 	1 	than 	IN
+Gal 	1 	8 	1 	18 	1 	that 	IN
+Gal 	1 	8 	1 	19 	1 	which 	WDT
+Gal 	1 	8 	1 	20 	1 	we 	PRP
+Gal 	1 	8 	1 	21 	1 	have 	VB
+Gal 	1 	8 	1 	22 	1 	preached 	VBN
+Gal 	1 	8 	1 	23 	1 	unto 	NN
+Gal 	1 	8 	1 	24 	1 	you 	PRP
+Gal 	1 	8 	1 	25 	0 	,
+Gal 	1 	8 	1 	26 	1 	let 	VB
+Gal 	1 	8 	1 	27 	1 	him 	PRP
+Gal 	1 	8 	1 	28 	1 	be 	VB
+Gal 	1 	8 	1 	29 	1 	accursed 	VBN
+Gal 	1 	8 	1 	30 	0 	.
+Gal 	1 	9 	1 	1 	1 	As 	IN
+Gal 	1 	9 	1 	2 	1 	we 	PRP
+Gal 	1 	9 	1 	3 	1 	said 	VBD
+Gal 	1 	9 	1 	4 	1 	before 	IN
+Gal 	1 	9 	1 	5 	0 	,
+Gal 	1 	9 	1 	6 	1 	so 	RB
+Gal 	1 	9 	1 	7 	1 	say 	VB
+Gal 	1 	9 	1 	8 	1 	I 	PRP
+Gal 	1 	9 	1 	9 	1 	now 	RB
+Gal 	1 	9 	1 	10 	1 	again 	RB
+Gal 	1 	9 	1 	11 	0 	,
+Gal 	1 	9 	1 	12 	1 	if 	IN
+Gal 	1 	9 	1 	13 	1 	any 	DT
+Gal 	1 	9 	1 	14 	1 	man 	NN
+Gal 	1 	9 	1 	15 	1 	preach 	NN
+Gal 	1 	9 	1 	16 	1 	any 	DT
+Gal 	1 	9 	1 	17 	1 	other 	JJ
+Gal 	1 	9 	1 	18 	1 	gospel 	NN
+Gal 	1 	9 	1 	19 	1 	unto 	NN
+Gal 	1 	9 	1 	20 	1 	you 	PRP
+Gal 	1 	9 	1 	21 	1 	than 	IN
+Gal 	1 	9 	1 	22 	1 	that 	IN
+Gal 	1 	9 	1 	23 	1 	ye 	NN
+Gal 	1 	9 	1 	24 	1 	have 	VB
+Gal 	1 	9 	1 	25 	1 	received 	VBN
+Gal 	1 	9 	1 	26 	0 	,
+Gal 	1 	9 	1 	27 	1 	let 	VB
+Gal 	1 	9 	1 	28 	1 	him 	PRP
+Gal 	1 	9 	1 	29 	1 	be 	VB
+Gal 	1 	9 	1 	30 	1 	accursed 	VBN
+Gal 	1 	9 	1 	31 	0 	.
+Gal 	1 	10 	1 	1 	1 	For 	IN
+Gal 	1 	10 	1 	2 	1 	do 	VB
+Gal 	1 	10 	1 	3 	1 	I 	PRP
+Gal 	1 	10 	1 	4 	1 	now 	RB
+Gal 	1 	10 	1 	5 	1 	persuade 	NN
+Gal 	1 	10 	1 	6 	1 	men 	NNS
+Gal 	1 	10 	1 	7 	0 	,
+Gal 	1 	10 	1 	8 	1 	or 	CC
+Gal 	1 	10 	1 	9 	1 	God 	NNP
+Gal 	1 	10 	1 	10 	0 	?
+Gal 	1 	10 	2 	1 	1 	or 	CC
+Gal 	1 	10 	2 	2 	1 	do 	VB
+Gal 	1 	10 	2 	3 	1 	I 	PRP
+Gal 	1 	10 	2 	4 	1 	seek 	NN
+Gal 	1 	10 	2 	5 	1 	to 	TO
+Gal 	1 	10 	2 	6 	1 	please 	NN
+Gal 	1 	10 	2 	7 	1 	men 	NNS
+Gal 	1 	10 	2 	8 	0 	?
+Gal 	1 	10 	3 	1 	1 	for 	IN
+Gal 	1 	10 	3 	2 	1 	if 	IN
+Gal 	1 	10 	3 	3 	1 	I 	PRP
+Gal 	1 	10 	3 	4 	1 	yet 	RB
+Gal 	1 	10 	3 	5 	1 	pleased 	JJ
+Gal 	1 	10 	3 	6 	1 	men 	NNS
+Gal 	1 	10 	3 	7 	0 	,
+Gal 	1 	10 	3 	8 	1 	I 	PRP
+Gal 	1 	10 	3 	9 	1 	should 	MD
+Gal 	1 	10 	3 	10 	1 	not 	RB
+Gal 	1 	10 	3 	11 	1 	be 	VB
+Gal 	1 	10 	3 	12 	1 	the 	DT
+Gal 	1 	10 	3 	13 	1 	servant 	NN
+Gal 	1 	10 	3 	14 	1 	of 	IN
+Gal 	1 	10 	3 	15 	1 	Christ 	NN
+Gal 	1 	10 	3 	16 	0 	.
+Gal 	1 	11 	1 	1 	1 	But 	CC
+Gal 	1 	11 	1 	2 	1 	I 	PRP
+Gal 	1 	11 	1 	3 	1 	certify 	NN
+Gal 	1 	11 	1 	4 	1 	you 	PRP
+Gal 	1 	11 	1 	5 	0 	,
+Gal 	1 	11 	1 	6 	1 	brethren 	NNS
+Gal 	1 	11 	1 	7 	0 	,
+Gal 	1 	11 	1 	8 	1 	that 	IN
+Gal 	1 	11 	1 	9 	1 	the 	DT
+Gal 	1 	11 	1 	10 	1 	gospel 	NN
+Gal 	1 	11 	1 	11 	1 	which 	WDT
+Gal 	1 	11 	1 	12 	1 	was 	VBD
+Gal 	1 	11 	1 	13 	1 	preached 	VBN
+Gal 	1 	11 	1 	14 	1 	of 	IN
+Gal 	1 	11 	1 	15 	1 	me 	PRP
+Gal 	1 	11 	1 	16 	1 	is 	VBZ
+Gal 	1 	11 	1 	17 	1 	not 	RB
+Gal 	1 	11 	1 	18 	1 	after 	IN
+Gal 	1 	11 	1 	19 	1 	man 	NN
+Gal 	1 	11 	1 	20 	0 	.
+Gal 	1 	12 	1 	1 	1 	For 	IN
+Gal 	1 	12 	1 	2 	1 	I 	PRP
+Gal 	1 	12 	1 	3 	1 	neither 	DT
+Gal 	1 	12 	1 	4 	1 	received 	VBN
+Gal 	1 	12 	1 	5 	1 	it 	PRP
+Gal 	1 	12 	1 	6 	1 	of 	IN
+Gal 	1 	12 	1 	7 	1 	man 	NN
+Gal 	1 	12 	1 	8 	0 	,
+Gal 	1 	12 	1 	9 	1 	neither 	DT
+Gal 	1 	12 	1 	10 	1 	was 	VBD
+Gal 	1 	12 	1 	11 	1 	I 	PRP
+Gal 	1 	12 	1 	12 	1 	taught 	NN
+Gal 	1 	12 	1 	13 	1 	it 	PRP
+Gal 	1 	12 	1 	14 	0 	,
+Gal 	1 	12 	1 	15 	1 	but 	CC
+Gal 	1 	12 	1 	16 	1 	by 	IN
+Gal 	1 	12 	1 	17 	1 	the 	DT
+Gal 	1 	12 	1 	18 	1 	revelation 	NN
+Gal 	1 	12 	1 	19 	1 	of 	IN
+Gal 	1 	12 	1 	20 	1 	Jesus 	NN
+Gal 	1 	12 	1 	21 	1 	Christ 	NN
+Gal 	1 	12 	1 	22 	0 	.
+Gal 	1 	13 	1 	1 	1 	For 	IN
+Gal 	1 	13 	1 	2 	1 	ye 	NN
+Gal 	1 	13 	1 	3 	1 	have 	VB
+Gal 	1 	13 	1 	4 	1 	heard 	NN
+Gal 	1 	13 	1 	5 	1 	of 	IN
+Gal 	1 	13 	1 	6 	1 	my 	PRP$
+Gal 	1 	13 	1 	7 	1 	conversation 	NN
+Gal 	1 	13 	1 	8 	1 	in 	IN
+Gal 	1 	13 	1 	9 	1 	time 	NN
+Gal 	1 	13 	1 	10 	1 	past 	NN
+Gal 	1 	13 	1 	11 	1 	in 	IN
+Gal 	1 	13 	1 	12 	1 	the 	DT
+Gal 	1 	13 	1 	13 	1 	Jews 	NNS
+Gal 	1 	13 	1 	14 	0 	'
+Gal 	1 	13 	1 	15 	1 	religion 	NN
+Gal 	1 	13 	1 	16 	0 	,
+Gal 	1 	13 	1 	17 	1 	how 	WRB
+Gal 	1 	13 	1 	18 	1 	that 	IN
+Gal 	1 	13 	1 	19 	1 	beyond 	IN
+Gal 	1 	13 	1 	20 	1 	measure 	NN
+Gal 	1 	13 	1 	21 	1 	I 	PRP
+Gal 	1 	13 	1 	22 	1 	persecuted 	VBN
+Gal 	1 	13 	1 	23 	1 	the 	DT
+Gal 	1 	13 	1 	24 	1 	church 	NN
+Gal 	1 	13 	1 	25 	1 	of 	IN
+Gal 	1 	13 	1 	26 	1 	God 	NNP
+Gal 	1 	13 	1 	27 	0 	,
+Gal 	1 	13 	1 	28 	1 	and 	CC
+Gal 	1 	13 	1 	29 	1 	wasted 	VBN
+Gal 	1 	13 	1 	30 	1 	it 	PRP
+Gal 	1 	13 	1 	31 	0 	:
+Gal 	1 	14 	1 	1 	1 	And 	CC
+Gal 	1 	14 	1 	2 	1 	profited 	VBN
+Gal 	1 	14 	1 	3 	1 	in 	IN
+Gal 	1 	14 	1 	4 	1 	the 	DT
+Gal 	1 	14 	1 	5 	1 	Jews 	NNS
+Gal 	1 	14 	1 	6 	0 	'
+Gal 	1 	14 	1 	7 	1 	religion 	NN
+Gal 	1 	14 	1 	8 	1 	above 	IN
+Gal 	1 	14 	1 	9 	1 	many 	JJ
+Gal 	1 	14 	1 	10 	1 	my 	PRP$
+Gal 	1 	14 	1 	11 	1 	equals 	NNS
+Gal 	1 	14 	1 	12 	1 	in 	IN
+Gal 	1 	14 	1 	13 	1 	mine 	NN
+Gal 	1 	14 	1 	14 	1 	own 	JJ
+Gal 	1 	14 	1 	15 	1 	nation 	NN
+Gal 	1 	14 	1 	16 	0 	,
+Gal 	1 	14 	1 	17 	1 	being 	VBG
+Gal 	1 	14 	1 	18 	1 	more 	RBR
+Gal 	1 	14 	1 	19 	1 	exceedingly 	RB
+Gal 	1 	14 	1 	20 	1 	zealous 	JJ
+Gal 	1 	14 	1 	21 	1 	of 	IN
+Gal 	1 	14 	1 	22 	1 	the 	DT
+Gal 	1 	14 	1 	23 	1 	traditions 	NNS
+Gal 	1 	14 	1 	24 	1 	of 	IN
+Gal 	1 	14 	1 	25 	1 	my 	PRP$
+Gal 	1 	14 	1 	26 	1 	fathers 	NNS
+Gal 	1 	14 	1 	27 	0 	.
+Gal 	1 	15 	1 	1 	1 	But 	CC
+Gal 	1 	15 	1 	2 	1 	when 	WRB
+Gal 	1 	15 	1 	3 	1 	it 	PRP
+Gal 	1 	15 	1 	4 	1 	pleased 	JJ
+Gal 	1 	15 	1 	5 	1 	God 	NNP
+Gal 	1 	15 	1 	6 	0 	,
+Gal 	1 	15 	1 	7 	1 	who 	WP
+Gal 	1 	15 	1 	8 	1 	separated 	VBN
+Gal 	1 	15 	1 	9 	1 	me 	PRP
+Gal 	1 	15 	1 	10 	1 	from 	IN
+Gal 	1 	15 	1 	11 	1 	my 	PRP$
+Gal 	1 	15 	1 	12 	1 	mother 	NN
+Gal 	1 	15 	1 	13 	0 	's
+Gal 	1 	15 	1 	14 	1 	womb 	NN
+Gal 	1 	15 	1 	15 	0 	,
+Gal 	1 	15 	1 	16 	1 	and 	CC
+Gal 	1 	15 	1 	17 	1 	called 	VBN
+Gal 	1 	15 	1 	18 	1 	me 	PRP
+Gal 	1 	15 	1 	19 	1 	by 	IN
+Gal 	1 	15 	1 	20 	1 	his 	PRP$
+Gal 	1 	15 	1 	21 	1 	grace 	NN
+Gal 	1 	15 	1 	22 	0 	,
+Gal 	1 	16 	1 	1 	1 	To 	TO
+Gal 	1 	16 	1 	2 	1 	reveal 	NN
+Gal 	1 	16 	1 	3 	1 	his 	PRP$
+Gal 	1 	16 	1 	4 	1 	Son 	NN
+Gal 	1 	16 	1 	5 	1 	in 	IN
+Gal 	1 	16 	1 	6 	1 	me 	PRP
+Gal 	1 	16 	1 	7 	0 	,
+Gal 	1 	16 	1 	8 	1 	that 	IN
+Gal 	1 	16 	1 	9 	1 	I 	PRP
+Gal 	1 	16 	1 	10 	1 	might 	MD
+Gal 	1 	16 	1 	11 	1 	preach 	NN
+Gal 	1 	16 	1 	12 	1 	him 	PRP
+Gal 	1 	16 	1 	13 	1 	among 	IN
+Gal 	1 	16 	1 	14 	1 	the 	DT
+Gal 	1 	16 	1 	15 	1 	heathen 	NN
+Gal 	1 	16 	1 	16 	0 	;
+Gal 	1 	16 	1 	17 	1 	immediately 	RB
+Gal 	1 	16 	1 	18 	1 	I 	PRP
+Gal 	1 	16 	1 	19 	1 	conferred 	VBN
+Gal 	1 	16 	1 	20 	1 	not 	RB
+Gal 	1 	16 	1 	21 	1 	with 	IN
+Gal 	1 	16 	1 	22 	1 	flesh 	NN
+Gal 	1 	16 	1 	23 	1 	and 	CC
+Gal 	1 	16 	1 	24 	1 	blood 	NN
+Gal 	1 	16 	1 	25 	0 	:
+Gal 	1 	17 	1 	1 	1 	Neither 	CC
+Gal 	1 	17 	1 	2 	1 	went 	VBD
+Gal 	1 	17 	1 	3 	1 	I 	PRP
+Gal 	1 	17 	1 	4 	1 	up 	RB
+Gal 	1 	17 	1 	5 	1 	to 	TO
+Gal 	1 	17 	1 	6 	1 	Jerusalem 	NN
+Gal 	1 	17 	1 	7 	1 	to 	TO
+Gal 	1 	17 	1 	8 	1 	them 	PRP
+Gal 	1 	17 	1 	9 	1 	which 	WDT
+Gal 	1 	17 	1 	10 	1 	were 	VBD
+Gal 	1 	17 	1 	11 	1 	apostles 	NNS
+Gal 	1 	17 	1 	12 	1 	before 	IN
+Gal 	1 	17 	1 	13 	1 	me 	PRP
+Gal 	1 	17 	1 	14 	0 	;
+Gal 	1 	17 	1 	15 	1 	but 	CC
+Gal 	1 	17 	1 	16 	1 	I 	PRP
+Gal 	1 	17 	1 	17 	1 	went 	VBD
+Gal 	1 	17 	1 	18 	1 	into 	IN
+Gal 	1 	17 	1 	19 	1 	Arabia 	NNP
+Gal 	1 	17 	1 	20 	0 	,
+Gal 	1 	17 	1 	21 	1 	and 	CC
+Gal 	1 	17 	1 	22 	1 	returned 	VBN
+Gal 	1 	17 	1 	23 	1 	again 	RB
+Gal 	1 	17 	1 	24 	1 	unto 	NN
+Gal 	1 	17 	1 	25 	1 	Damascus 	NN
+Gal 	1 	17 	1 	26 	0 	.
+Gal 	1 	18 	1 	1 	1 	Then 	RB
+Gal 	1 	18 	1 	2 	1 	after 	IN
+Gal 	1 	18 	1 	3 	1 	three 	CD
+Gal 	1 	18 	1 	4 	1 	years 	NNS
+Gal 	1 	18 	1 	5 	1 	I 	PRP
+Gal 	1 	18 	1 	6 	1 	went 	VBD
+Gal 	1 	18 	1 	7 	1 	up 	RB
+Gal 	1 	18 	1 	8 	1 	to 	TO
+Gal 	1 	18 	1 	9 	1 	Jerusalem 	NN
+Gal 	1 	18 	1 	10 	1 	to 	TO
+Gal 	1 	18 	1 	11 	1 	see 	VB
+Gal 	1 	18 	1 	12 	1 	Peter 	NNP
+Gal 	1 	18 	1 	13 	0 	,
+Gal 	1 	18 	1 	14 	1 	and 	CC
+Gal 	1 	18 	1 	15 	1 	abode 	NN
+Gal 	1 	18 	1 	16 	1 	with 	IN
+Gal 	1 	18 	1 	17 	1 	him 	PRP
+Gal 	1 	18 	1 	18 	1 	fifteen 	NN
+Gal 	1 	18 	1 	19 	1 	days 	NNS
+Gal 	1 	18 	1 	20 	0 	.
+Gal 	1 	19 	1 	1 	1 	But 	CC
+Gal 	1 	19 	1 	2 	1 	other 	JJ
+Gal 	1 	19 	1 	3 	1 	of 	IN
+Gal 	1 	19 	1 	4 	1 	the 	DT
+Gal 	1 	19 	1 	5 	1 	apostles 	NNS
+Gal 	1 	19 	1 	6 	1 	saw 	NN
+Gal 	1 	19 	1 	7 	1 	I 	PRP
+Gal 	1 	19 	1 	8 	1 	none 	NN
+Gal 	1 	19 	1 	9 	0 	,
+Gal 	1 	19 	1 	10 	1 	save 	VB
+Gal 	1 	19 	1 	11 	1 	James 	NNP
+Gal 	1 	19 	1 	12 	1 	the 	DT
+Gal 	1 	19 	1 	13 	1 	Lord 	NN
+Gal 	1 	19 	1 	14 	0 	's
+Gal 	1 	19 	1 	15 	1 	brother 	NN
+Gal 	1 	19 	1 	16 	0 	.
+Gal 	1 	20 	1 	1 	1 	Now 	RB
+Gal 	1 	20 	1 	2 	1 	the 	DT
+Gal 	1 	20 	1 	3 	1 	things 	NNS
+Gal 	1 	20 	1 	4 	1 	which 	WDT
+Gal 	1 	20 	1 	5 	1 	I 	PRP
+Gal 	1 	20 	1 	6 	1 	write 	NN
+Gal 	1 	20 	1 	7 	1 	unto 	NN
+Gal 	1 	20 	1 	8 	1 	you 	PRP
+Gal 	1 	20 	1 	9 	0 	,
+Gal 	1 	20 	1 	10 	1 	behold 	NN
+Gal 	1 	20 	1 	11 	0 	,
+Gal 	1 	20 	1 	12 	1 	before 	IN
+Gal 	1 	20 	1 	13 	1 	God 	NNP
+Gal 	1 	20 	1 	14 	0 	,
+Gal 	1 	20 	1 	15 	1 	I 	PRP
+Gal 	1 	20 	1 	16 	1 	lie 	NN
+Gal 	1 	20 	1 	17 	1 	not 	RB
+Gal 	1 	20 	1 	18 	0 	.
+Gal 	1 	21 	1 	1 	1 	Afterwards 	NNS
+Gal 	1 	21 	1 	2 	1 	I 	PRP
+Gal 	1 	21 	1 	3 	1 	came 	VBD
+Gal 	1 	21 	1 	4 	1 	into 	IN
+Gal 	1 	21 	1 	5 	1 	the 	DT
+Gal 	1 	21 	1 	6 	1 	regions 	NNS
+Gal 	1 	21 	1 	7 	1 	of 	IN
+Gal 	1 	21 	1 	8 	1 	Syria 	NNS
+Gal 	1 	21 	1 	9 	1 	and 	CC
+Gal 	1 	21 	1 	10 	1 	Cilicia 	NN
+Gal 	1 	21 	1 	11 	0 	;
+Gal 	1 	22 	1 	1 	1 	And 	CC
+Gal 	1 	22 	1 	2 	1 	was 	VBD
+Gal 	1 	22 	1 	3 	1 	unknown 	JJ
+Gal 	1 	22 	1 	4 	1 	by 	IN
+Gal 	1 	22 	1 	5 	1 	face 	NN
+Gal 	1 	22 	1 	6 	1 	unto 	NN
+Gal 	1 	22 	1 	7 	1 	the 	DT
+Gal 	1 	22 	1 	8 	1 	churches 	NNS
+Gal 	1 	22 	1 	9 	1 	of 	IN
+Gal 	1 	22 	1 	10 	1 	Judaea 	NN
+Gal 	1 	22 	1 	11 	1 	which 	WDT
+Gal 	1 	22 	1 	12 	1 	were 	VBD
+Gal 	1 	22 	1 	13 	1 	in 	IN
+Gal 	1 	22 	1 	14 	1 	Christ 	NN
+Gal 	1 	22 	1 	15 	0 	:
+Gal 	1 	23 	1 	1 	1 	But 	CC
+Gal 	1 	23 	1 	2 	1 	they 	PRP
+Gal 	1 	23 	1 	3 	1 	had 	VBD
+Gal 	1 	23 	1 	4 	1 	heard 	NN
+Gal 	1 	23 	1 	5 	1 	only 	RB
+Gal 	1 	23 	1 	6 	0 	,
+Gal 	1 	23 	1 	7 	1 	That 	DT
+Gal 	1 	23 	1 	8 	1 	he 	PRP
+Gal 	1 	23 	1 	9 	1 	which 	WDT
+Gal 	1 	23 	1 	10 	1 	persecuted 	VBN
+Gal 	1 	23 	1 	11 	1 	us 	PRP
+Gal 	1 	23 	1 	12 	1 	in 	IN
+Gal 	1 	23 	1 	13 	1 	times 	NNS
+Gal 	1 	23 	1 	14 	1 	past 	NN
+Gal 	1 	23 	1 	15 	1 	now 	RB
+Gal 	1 	23 	1 	16 	1 	preacheth 	NN
+Gal 	1 	23 	1 	17 	1 	the 	DT
+Gal 	1 	23 	1 	18 	1 	faith 	NN
+Gal 	1 	23 	1 	19 	1 	which 	WDT
+Gal 	1 	23 	1 	20 	1 	once 	RB
+Gal 	1 	23 	1 	21 	1 	he 	PRP
+Gal 	1 	23 	1 	22 	1 	destroyed 	NN
+Gal 	1 	23 	1 	23 	0 	.
+Gal 	1 	24 	1 	1 	1 	And 	CC
+Gal 	1 	24 	1 	2 	1 	they 	PRP
+Gal 	1 	24 	1 	3 	1 	glorified 	VBN
+Gal 	1 	24 	1 	4 	1 	God 	NNP
+Gal 	1 	24 	1 	5 	1 	in 	IN
+Gal 	1 	24 	1 	6 	1 	me 	PRP
+Gal 	1 	24 	1 	7 	0 	.
+Gal 	2 	1 	1 	1 	1 	Then 	RB
+Gal 	2 	1 	1 	2 	1 	fourteen 	NN
+Gal 	2 	1 	1 	3 	1 	years 	NNS
+Gal 	2 	1 	1 	4 	1 	after 	IN
+Gal 	2 	1 	1 	5 	1 	I 	PRP
+Gal 	2 	1 	1 	6 	1 	went 	VBD
+Gal 	2 	1 	1 	7 	1 	up 	RB
+Gal 	2 	1 	1 	8 	1 	again 	RB
+Gal 	2 	1 	1 	9 	1 	to 	TO
+Gal 	2 	1 	1 	10 	1 	Jerusalem 	NN
+Gal 	2 	1 	1 	11 	1 	with 	IN
+Gal 	2 	1 	1 	12 	1 	Barnabas 	NN
+Gal 	2 	1 	1 	13 	0 	,
+Gal 	2 	1 	1 	14 	1 	and 	CC
+Gal 	2 	1 	1 	15 	1 	took 	VBD
+Gal 	2 	1 	1 	16 	1 	Titus 	NN
+Gal 	2 	1 	1 	17 	1 	with 	IN
+Gal 	2 	1 	1 	18 	1 	me 	PRP
+Gal 	2 	1 	1 	19 	1 	also 	RB
+Gal 	2 	1 	1 	20 	0 	.
+Gal 	2 	2 	1 	1 	1 	And 	CC
+Gal 	2 	2 	1 	2 	1 	I 	PRP
+Gal 	2 	2 	1 	3 	1 	went 	VBD
+Gal 	2 	2 	1 	4 	1 	up 	RB
+Gal 	2 	2 	1 	5 	1 	by 	IN
+Gal 	2 	2 	1 	6 	1 	revelation 	NN
+Gal 	2 	2 	1 	7 	0 	,
+Gal 	2 	2 	1 	8 	1 	and 	CC
+Gal 	2 	2 	1 	9 	1 	communicated 	VBN
+Gal 	2 	2 	1 	10 	1 	unto 	NN
+Gal 	2 	2 	1 	11 	1 	them 	PRP
+Gal 	2 	2 	1 	12 	1 	that 	IN
+Gal 	2 	2 	1 	13 	1 	gospel 	NN
+Gal 	2 	2 	1 	14 	1 	which 	WDT
+Gal 	2 	2 	1 	15 	1 	I 	PRP
+Gal 	2 	2 	1 	16 	1 	preach 	NN
+Gal 	2 	2 	1 	17 	1 	among 	IN
+Gal 	2 	2 	1 	18 	1 	the 	DT
+Gal 	2 	2 	1 	19 	1 	Gentiles 	NNS
+Gal 	2 	2 	1 	20 	0 	,
+Gal 	2 	2 	1 	21 	1 	but 	CC
+Gal 	2 	2 	1 	22 	1 	privately 	RB
+Gal 	2 	2 	1 	23 	1 	to 	TO
+Gal 	2 	2 	1 	24 	1 	them 	PRP
+Gal 	2 	2 	1 	25 	1 	which 	WDT
+Gal 	2 	2 	1 	26 	1 	were 	VBD
+Gal 	2 	2 	1 	27 	1 	of 	IN
+Gal 	2 	2 	1 	28 	1 	reputation 	NN
+Gal 	2 	2 	1 	29 	0 	,
+Gal 	2 	2 	1 	30 	1 	lest 	JJS
+Gal 	2 	2 	1 	31 	1 	by 	IN
+Gal 	2 	2 	1 	32 	1 	any 	DT
+Gal 	2 	2 	1 	33 	1 	means 	NNS
+Gal 	2 	2 	1 	34 	1 	I 	PRP
+Gal 	2 	2 	1 	35 	1 	should 	MD
+Gal 	2 	2 	1 	36 	1 	run 	VB
+Gal 	2 	2 	1 	37 	0 	,
+Gal 	2 	2 	1 	38 	1 	or 	CC
+Gal 	2 	2 	1 	39 	1 	had 	VBD
+Gal 	2 	2 	1 	40 	1 	run 	VB
+Gal 	2 	2 	1 	41 	0 	,
+Gal 	2 	2 	1 	42 	1 	in 	IN
+Gal 	2 	2 	1 	43 	1 	vain 	NN
+Gal 	2 	2 	1 	44 	0 	.
+Gal 	2 	3 	1 	1 	1 	But 	CC
+Gal 	2 	3 	1 	2 	1 	neither 	DT
+Gal 	2 	3 	1 	3 	1 	Titus 	NN
+Gal 	2 	3 	1 	4 	0 	,
+Gal 	2 	3 	1 	5 	1 	who 	WP
+Gal 	2 	3 	1 	6 	1 	was 	VBD
+Gal 	2 	3 	1 	7 	1 	with 	IN
+Gal 	2 	3 	1 	8 	1 	me 	PRP
+Gal 	2 	3 	1 	9 	0 	,
+Gal 	2 	3 	1 	10 	1 	being 	VBG
+Gal 	2 	3 	1 	11 	1 	a 	DT
+Gal 	2 	3 	1 	12 	1 	Greek 	JJ
+Gal 	2 	3 	1 	13 	0 	,
+Gal 	2 	3 	1 	14 	1 	was 	VBD
+Gal 	2 	3 	1 	15 	1 	compelled 	VBN
+Gal 	2 	3 	1 	16 	1 	to 	TO
+Gal 	2 	3 	1 	17 	1 	be 	VB
+Gal 	2 	3 	1 	18 	1 	circumcised 	VBN
+Gal 	2 	3 	1 	19 	0 	:
+Gal 	2 	4 	1 	1 	1 	And 	CC
+Gal 	2 	4 	1 	2 	1 	that 	IN
+Gal 	2 	4 	1 	3 	1 	because 	IN
+Gal 	2 	4 	1 	4 	1 	of 	IN
+Gal 	2 	4 	1 	5 	1 	false 	JJ
+Gal 	2 	4 	1 	6 	1 	brethren 	NNS
+Gal 	2 	4 	1 	7 	1 	unawares 	NNS
+Gal 	2 	4 	1 	8 	1 	brought 	NN
+Gal 	2 	4 	1 	9 	1 	in 	IN
+Gal 	2 	4 	1 	10 	0 	,
+Gal 	2 	4 	1 	11 	1 	who 	WP
+Gal 	2 	4 	1 	12 	1 	came 	VBD
+Gal 	2 	4 	1 	13 	1 	in 	IN
+Gal 	2 	4 	1 	14 	1 	privily 	RB
+Gal 	2 	4 	1 	15 	1 	to 	TO
+Gal 	2 	4 	1 	16 	1 	spy 	NN
+Gal 	2 	4 	1 	17 	1 	out 	IN
+Gal 	2 	4 	1 	18 	1 	our 	PRP$
+Gal 	2 	4 	1 	19 	1 	liberty 	NN
+Gal 	2 	4 	1 	20 	1 	which 	WDT
+Gal 	2 	4 	1 	21 	1 	we 	PRP
+Gal 	2 	4 	1 	22 	1 	have 	VB
+Gal 	2 	4 	1 	23 	1 	in 	IN
+Gal 	2 	4 	1 	24 	1 	Christ 	NN
+Gal 	2 	4 	1 	25 	1 	Jesus 	NN
+Gal 	2 	4 	1 	26 	0 	,
+Gal 	2 	4 	1 	27 	1 	that 	IN
+Gal 	2 	4 	1 	28 	1 	they 	PRP
+Gal 	2 	4 	1 	29 	1 	might 	MD
+Gal 	2 	4 	1 	30 	1 	bring 	NN
+Gal 	2 	4 	1 	31 	1 	us 	PRP
+Gal 	2 	4 	1 	32 	1 	into 	IN
+Gal 	2 	4 	1 	33 	1 	bondage 	NN
+Gal 	2 	4 	1 	34 	0 	:
+Gal 	2 	5 	1 	1 	1 	To 	TO
+Gal 	2 	5 	1 	2 	1 	whom 	WP
+Gal 	2 	5 	1 	3 	1 	we 	PRP
+Gal 	2 	5 	1 	4 	1 	gave 	VBD
+Gal 	2 	5 	1 	5 	1 	place 	NN
+Gal 	2 	5 	1 	6 	1 	by 	IN
+Gal 	2 	5 	1 	7 	1 	subjection 	NN
+Gal 	2 	5 	1 	8 	0 	,
+Gal 	2 	5 	1 	9 	1 	no 	DT
+Gal 	2 	5 	1 	10 	0 	,
+Gal 	2 	5 	1 	11 	1 	not 	RB
+Gal 	2 	5 	1 	12 	1 	for 	IN
+Gal 	2 	5 	1 	13 	1 	an 	DT
+Gal 	2 	5 	1 	14 	1 	hour 	NN
+Gal 	2 	5 	1 	15 	0 	;
+Gal 	2 	5 	1 	16 	1 	that 	IN
+Gal 	2 	5 	1 	17 	1 	the 	DT
+Gal 	2 	5 	1 	18 	1 	truth 	NN
+Gal 	2 	5 	1 	19 	1 	of 	IN
+Gal 	2 	5 	1 	20 	1 	the 	DT
+Gal 	2 	5 	1 	21 	1 	gospel 	NN
+Gal 	2 	5 	1 	22 	1 	might 	MD
+Gal 	2 	5 	1 	23 	1 	continue 	NN
+Gal 	2 	5 	1 	24 	1 	with 	IN
+Gal 	2 	5 	1 	25 	1 	you 	PRP
+Gal 	2 	5 	1 	26 	0 	.
+Gal 	2 	6 	1 	1 	1 	But 	CC
+Gal 	2 	6 	1 	2 	1 	of 	IN
+Gal 	2 	6 	1 	3 	1 	these 	DT
+Gal 	2 	6 	1 	4 	1 	who 	WP
+Gal 	2 	6 	1 	5 	1 	seemed 	VBD
+Gal 	2 	6 	1 	6 	1 	to 	TO
+Gal 	2 	6 	1 	7 	1 	be 	VB
+Gal 	2 	6 	1 	8 	1 	somewhat 	RB
+Gal 	2 	6 	1 	9 	0 	,
+Gal 	2 	6 	1 	10 	0 	(
+Gal 	2 	6 	1 	11 	1 	whatsoever 	NN
+Gal 	2 	6 	1 	12 	1 	they 	PRP
+Gal 	2 	6 	1 	13 	1 	were 	VBD
+Gal 	2 	6 	1 	14 	0 	,
+Gal 	2 	6 	1 	15 	1 	it 	PRP
+Gal 	2 	6 	1 	16 	1 	maketh 	NNS
+Gal 	2 	6 	1 	17 	1 	no 	DT
+Gal 	2 	6 	1 	18 	1 	matter 	NN
+Gal 	2 	6 	1 	19 	1 	to 	TO
+Gal 	2 	6 	1 	20 	1 	me 	PRP
+Gal 	2 	6 	1 	21 	0 	:
+Gal 	2 	6 	1 	22 	1 	God 	NNP
+Gal 	2 	6 	1 	23 	1 	accepteth 	NNS
+Gal 	2 	6 	1 	24 	1 	no 	DT
+Gal 	2 	6 	1 	25 	1 	man 	NN
+Gal 	2 	6 	1 	26 	0 	's
+Gal 	2 	6 	1 	27 	1 	person 	NN
+Gal 	2 	6 	1 	28 	0 	:
+Gal 	2 	6 	1 	29 	0 	)
+Gal 	2 	6 	1 	30 	1 	for 	IN
+Gal 	2 	6 	1 	31 	1 	they 	PRP
+Gal 	2 	6 	1 	32 	1 	who 	WP
+Gal 	2 	6 	1 	33 	1 	seemed 	VBD
+Gal 	2 	6 	1 	34 	1 	to 	TO
+Gal 	2 	6 	1 	35 	1 	be 	VB
+Gal 	2 	6 	1 	36 	1 	somewhat 	RB
+Gal 	2 	6 	1 	37 	1 	in 	IN
+Gal 	2 	6 	1 	38 	1 	conference 	NN
+Gal 	2 	6 	1 	39 	1 	added 	VBD
+Gal 	2 	6 	1 	40 	1 	nothing 	NN
+Gal 	2 	6 	1 	41 	1 	to 	TO
+Gal 	2 	6 	1 	42 	1 	me 	PRP
+Gal 	2 	6 	1 	43 	0 	:
+Gal 	2 	7 	1 	1 	1 	But 	CC
+Gal 	2 	7 	1 	2 	1 	contrariwise 	NN
+Gal 	2 	7 	1 	3 	0 	,
+Gal 	2 	7 	1 	4 	1 	when 	WRB
+Gal 	2 	7 	1 	5 	1 	they 	PRP
+Gal 	2 	7 	1 	6 	1 	saw 	NN
+Gal 	2 	7 	1 	7 	1 	that 	IN
+Gal 	2 	7 	1 	8 	1 	the 	DT
+Gal 	2 	7 	1 	9 	1 	gospel 	NN
+Gal 	2 	7 	1 	10 	1 	of 	IN
+Gal 	2 	7 	1 	11 	1 	the 	DT
+Gal 	2 	7 	1 	12 	1 	uncircumcision 	NN
+Gal 	2 	7 	1 	13 	1 	was 	VBD
+Gal 	2 	7 	1 	14 	1 	committed 	VBN
+Gal 	2 	7 	1 	15 	1 	unto 	NN
+Gal 	2 	7 	1 	16 	1 	me 	PRP
+Gal 	2 	7 	1 	17 	0 	,
+Gal 	2 	7 	1 	18 	1 	as 	IN
+Gal 	2 	7 	1 	19 	1 	the 	DT
+Gal 	2 	7 	1 	20 	1 	gospel 	NN
+Gal 	2 	7 	1 	21 	1 	of 	IN
+Gal 	2 	7 	1 	22 	1 	the 	DT
+Gal 	2 	7 	1 	23 	1 	circumcision 	NN
+Gal 	2 	7 	1 	24 	1 	was 	VBD
+Gal 	2 	7 	1 	25 	1 	unto 	NN
+Gal 	2 	7 	1 	26 	1 	Peter 	NNP
+Gal 	2 	7 	1 	27 	0 	;
+Gal 	2 	8 	1 	1 	0 	(
+Gal 	2 	8 	1 	2 	1 	For 	IN
+Gal 	2 	8 	1 	3 	1 	he 	PRP
+Gal 	2 	8 	1 	4 	1 	that 	IN
+Gal 	2 	8 	1 	5 	1 	wrought 	NN
+Gal 	2 	8 	1 	6 	1 	effectually 	RB
+Gal 	2 	8 	1 	7 	1 	in 	IN
+Gal 	2 	8 	1 	8 	1 	Peter 	NNP
+Gal 	2 	8 	1 	9 	1 	to 	TO
+Gal 	2 	8 	1 	10 	1 	the 	DT
+Gal 	2 	8 	1 	11 	1 	apostleship 	NN
+Gal 	2 	8 	1 	12 	1 	of 	IN
+Gal 	2 	8 	1 	13 	1 	the 	DT
+Gal 	2 	8 	1 	14 	1 	circumcision 	NN
+Gal 	2 	8 	1 	15 	0 	,
+Gal 	2 	8 	1 	16 	1 	the 	DT
+Gal 	2 	8 	1 	17 	1 	same 	JJ
+Gal 	2 	8 	1 	18 	1 	was 	VBD
+Gal 	2 	8 	1 	19 	1 	mighty 	NN
+Gal 	2 	8 	1 	20 	1 	in 	IN
+Gal 	2 	8 	1 	21 	1 	me 	PRP
+Gal 	2 	8 	1 	22 	1 	toward 	IN
+Gal 	2 	8 	1 	23 	1 	the 	DT
+Gal 	2 	8 	1 	24 	1 	Gentiles 	NNS
+Gal 	2 	8 	1 	25 	0 	:
+Gal 	2 	8 	1 	26 	0 	)
+Gal 	2 	9 	1 	1 	1 	And 	CC
+Gal 	2 	9 	1 	2 	1 	when 	WRB
+Gal 	2 	9 	1 	3 	1 	James 	NNP
+Gal 	2 	9 	1 	4 	0 	,
+Gal 	2 	9 	1 	5 	1 	Cephas 	NN
+Gal 	2 	9 	1 	6 	0 	,
+Gal 	2 	9 	1 	7 	1 	and 	CC
+Gal 	2 	9 	1 	8 	1 	John 	NNP
+Gal 	2 	9 	1 	9 	0 	,
+Gal 	2 	9 	1 	10 	1 	who 	WP
+Gal 	2 	9 	1 	11 	1 	seemed 	VBD
+Gal 	2 	9 	1 	12 	1 	to 	TO
+Gal 	2 	9 	1 	13 	1 	be 	VB
+Gal 	2 	9 	1 	14 	1 	pillars 	NNS
+Gal 	2 	9 	1 	15 	0 	,
+Gal 	2 	9 	1 	16 	1 	perceived 	VBN
+Gal 	2 	9 	1 	17 	1 	the 	DT
+Gal 	2 	9 	1 	18 	1 	grace 	NN
+Gal 	2 	9 	1 	19 	1 	that 	IN
+Gal 	2 	9 	1 	20 	1 	was 	VBD
+Gal 	2 	9 	1 	21 	1 	given 	VBN
+Gal 	2 	9 	1 	22 	1 	unto 	NN
+Gal 	2 	9 	1 	23 	1 	me 	PRP
+Gal 	2 	9 	1 	24 	0 	,
+Gal 	2 	9 	1 	25 	1 	they 	PRP
+Gal 	2 	9 	1 	26 	1 	gave 	VBD
+Gal 	2 	9 	1 	27 	1 	to 	TO
+Gal 	2 	9 	1 	28 	1 	me 	PRP
+Gal 	2 	9 	1 	29 	1 	and 	CC
+Gal 	2 	9 	1 	30 	1 	Barnabas 	NN
+Gal 	2 	9 	1 	31 	1 	the 	DT
+Gal 	2 	9 	1 	32 	1 	right 	NN
+Gal 	2 	9 	1 	33 	1 	hands 	NNS
+Gal 	2 	9 	1 	34 	1 	of 	IN
+Gal 	2 	9 	1 	35 	1 	fellowship 	NN
+Gal 	2 	9 	1 	36 	0 	;
+Gal 	2 	9 	1 	37 	1 	that 	IN
+Gal 	2 	9 	1 	38 	1 	we 	PRP
+Gal 	2 	9 	1 	39 	1 	should 	MD
+Gal 	2 	9 	1 	40 	1 	go 	VB
+Gal 	2 	9 	1 	41 	1 	unto 	NN
+Gal 	2 	9 	1 	42 	1 	the 	DT
+Gal 	2 	9 	1 	43 	1 	heathen 	NN
+Gal 	2 	9 	1 	44 	0 	,
+Gal 	2 	9 	1 	45 	1 	and 	CC
+Gal 	2 	9 	1 	46 	1 	they 	PRP
+Gal 	2 	9 	1 	47 	1 	unto 	NN
+Gal 	2 	9 	1 	48 	1 	the 	DT
+Gal 	2 	9 	1 	49 	1 	circumcision 	NN
+Gal 	2 	9 	1 	50 	0 	.
+Gal 	2 	10 	1 	1 	1 	Only 	RB
+Gal 	2 	10 	1 	2 	1 	they 	PRP
+Gal 	2 	10 	1 	3 	1 	would 	MD
+Gal 	2 	10 	1 	4 	1 	that 	IN
+Gal 	2 	10 	1 	5 	1 	we 	PRP
+Gal 	2 	10 	1 	6 	1 	should 	MD
+Gal 	2 	10 	1 	7 	1 	remember 	VB
+Gal 	2 	10 	1 	8 	1 	the 	DT
+Gal 	2 	10 	1 	9 	1 	poor 	JJ
+Gal 	2 	10 	1 	10 	0 	;
+Gal 	2 	10 	1 	11 	1 	the 	DT
+Gal 	2 	10 	1 	12 	1 	same 	JJ
+Gal 	2 	10 	1 	13 	1 	which 	WDT
+Gal 	2 	10 	1 	14 	1 	I 	PRP
+Gal 	2 	10 	1 	15 	1 	also 	RB
+Gal 	2 	10 	1 	16 	1 	was 	VBD
+Gal 	2 	10 	1 	17 	1 	forward 	RB
+Gal 	2 	10 	1 	18 	1 	to 	TO
+Gal 	2 	10 	1 	19 	1 	do 	VB
+Gal 	2 	10 	1 	20 	0 	.
+Gal 	2 	11 	1 	1 	1 	But 	CC
+Gal 	2 	11 	1 	2 	1 	when 	WRB
+Gal 	2 	11 	1 	3 	1 	Peter 	NNP
+Gal 	2 	11 	1 	4 	1 	was 	VBD
+Gal 	2 	11 	1 	5 	1 	come 	VB
+Gal 	2 	11 	1 	6 	1 	to 	TO
+Gal 	2 	11 	1 	7 	1 	Antioch 	NN
+Gal 	2 	11 	1 	8 	0 	,
+Gal 	2 	11 	1 	9 	1 	I 	PRP
+Gal 	2 	11 	1 	10 	1 	withstood 	NN
+Gal 	2 	11 	1 	11 	1 	him 	PRP
+Gal 	2 	11 	1 	12 	1 	to 	TO
+Gal 	2 	11 	1 	13 	1 	the 	DT
+Gal 	2 	11 	1 	14 	1 	face 	NN
+Gal 	2 	11 	1 	15 	0 	,
+Gal 	2 	11 	1 	16 	1 	because 	IN
+Gal 	2 	11 	1 	17 	1 	he 	PRP
+Gal 	2 	11 	1 	18 	1 	was 	VBD
+Gal 	2 	11 	1 	19 	1 	to 	TO
+Gal 	2 	11 	1 	20 	1 	be 	VB
+Gal 	2 	11 	1 	21 	1 	blamed 	VBN
+Gal 	2 	11 	1 	22 	0 	.
+Gal 	2 	12 	1 	1 	1 	For 	IN
+Gal 	2 	12 	1 	2 	1 	before 	IN
+Gal 	2 	12 	1 	3 	1 	that 	IN
+Gal 	2 	12 	1 	4 	1 	certain 	JJ
+Gal 	2 	12 	1 	5 	1 	came 	VBD
+Gal 	2 	12 	1 	6 	1 	from 	IN
+Gal 	2 	12 	1 	7 	1 	James 	NNP
+Gal 	2 	12 	1 	8 	0 	,
+Gal 	2 	12 	1 	9 	1 	he 	PRP
+Gal 	2 	12 	1 	10 	1 	did 	VBD
+Gal 	2 	12 	1 	11 	1 	eat 	NN
+Gal 	2 	12 	1 	12 	1 	with 	IN
+Gal 	2 	12 	1 	13 	1 	the 	DT
+Gal 	2 	12 	1 	14 	1 	Gentiles 	NNS
+Gal 	2 	12 	1 	15 	0 	:
+Gal 	2 	12 	1 	16 	1 	but 	CC
+Gal 	2 	12 	1 	17 	1 	when 	WRB
+Gal 	2 	12 	1 	18 	1 	they 	PRP
+Gal 	2 	12 	1 	19 	1 	were 	VBD
+Gal 	2 	12 	1 	20 	1 	come 	VB
+Gal 	2 	12 	1 	21 	0 	,
+Gal 	2 	12 	1 	22 	1 	he 	PRP
+Gal 	2 	12 	1 	23 	1 	withdrew 	NN
+Gal 	2 	12 	1 	24 	1 	and 	CC
+Gal 	2 	12 	1 	25 	1 	separated 	VBN
+Gal 	2 	12 	1 	26 	1 	himself 	PRP
+Gal 	2 	12 	1 	27 	0 	,
+Gal 	2 	12 	1 	28 	1 	fearing 	VBG
+Gal 	2 	12 	1 	29 	1 	them 	PRP
+Gal 	2 	12 	1 	30 	1 	which 	WDT
+Gal 	2 	12 	1 	31 	1 	were 	VBD
+Gal 	2 	12 	1 	32 	1 	of 	IN
+Gal 	2 	12 	1 	33 	1 	the 	DT
+Gal 	2 	12 	1 	34 	1 	circumcision 	NN
+Gal 	2 	12 	1 	35 	0 	.
+Gal 	2 	13 	1 	1 	1 	And 	CC
+Gal 	2 	13 	1 	2 	1 	the 	DT
+Gal 	2 	13 	1 	3 	1 	other 	JJ
+Gal 	2 	13 	1 	4 	1 	Jews 	NNS
+Gal 	2 	13 	1 	5 	1 	dissembled 	VBN
+Gal 	2 	13 	1 	6 	1 	likewise 	RB
+Gal 	2 	13 	1 	7 	1 	with 	IN
+Gal 	2 	13 	1 	8 	1 	him 	PRP
+Gal 	2 	13 	1 	9 	0 	;
+Gal 	2 	13 	1 	10 	1 	insomuch 	JJ
+Gal 	2 	13 	1 	11 	1 	that 	IN
+Gal 	2 	13 	1 	12 	1 	Barnabas 	NN
+Gal 	2 	13 	1 	13 	1 	also 	RB
+Gal 	2 	13 	1 	14 	1 	was 	VBD
+Gal 	2 	13 	1 	15 	1 	carried 	VBN
+Gal 	2 	13 	1 	16 	1 	away 	RB
+Gal 	2 	13 	1 	17 	1 	with 	IN
+Gal 	2 	13 	1 	18 	1 	their 	PRP$
+Gal 	2 	13 	1 	19 	1 	dissimulation 	NN
+Gal 	2 	13 	1 	20 	0 	.
+Gal 	2 	14 	1 	1 	1 	But 	CC
+Gal 	2 	14 	1 	2 	1 	when 	WRB
+Gal 	2 	14 	1 	3 	1 	I 	PRP
+Gal 	2 	14 	1 	4 	1 	saw 	NN
+Gal 	2 	14 	1 	5 	1 	that 	IN
+Gal 	2 	14 	1 	6 	1 	they 	PRP
+Gal 	2 	14 	1 	7 	1 	walked 	VBD
+Gal 	2 	14 	1 	8 	1 	not 	RB
+Gal 	2 	14 	1 	9 	1 	uprightly 	RB
+Gal 	2 	14 	1 	10 	1 	according 	VBG
+Gal 	2 	14 	1 	11 	1 	to 	TO
+Gal 	2 	14 	1 	12 	1 	the 	DT
+Gal 	2 	14 	1 	13 	1 	truth 	NN
+Gal 	2 	14 	1 	14 	1 	of 	IN
+Gal 	2 	14 	1 	15 	1 	the 	DT
+Gal 	2 	14 	1 	16 	1 	gospel 	NN
+Gal 	2 	14 	1 	17 	0 	,
+Gal 	2 	14 	1 	18 	1 	I 	PRP
+Gal 	2 	14 	1 	19 	1 	said 	VBD
+Gal 	2 	14 	1 	20 	1 	unto 	NN
+Gal 	2 	14 	1 	21 	1 	Peter 	NNP
+Gal 	2 	14 	1 	22 	1 	before 	IN
+Gal 	2 	14 	1 	23 	1 	them 	PRP
+Gal 	2 	14 	1 	24 	1 	all 	DT
+Gal 	2 	14 	1 	25 	0 	,
+Gal 	2 	14 	1 	26 	1 	If 	IN
+Gal 	2 	14 	1 	27 	1 	thou 	NN
+Gal 	2 	14 	1 	28 	0 	,
+Gal 	2 	14 	1 	29 	1 	being 	VBG
+Gal 	2 	14 	1 	30 	1 	a 	DT
+Gal 	2 	14 	1 	31 	1 	Jew 	NN
+Gal 	2 	14 	1 	32 	0 	,
+Gal 	2 	14 	1 	33 	1 	livest 	JJS
+Gal 	2 	14 	1 	34 	1 	after 	IN
+Gal 	2 	14 	1 	35 	1 	the 	DT
+Gal 	2 	14 	1 	36 	1 	manner 	NN
+Gal 	2 	14 	1 	37 	1 	of 	IN
+Gal 	2 	14 	1 	38 	1 	Gentiles 	NNS
+Gal 	2 	14 	1 	39 	0 	,
+Gal 	2 	14 	1 	40 	1 	and 	CC
+Gal 	2 	14 	1 	41 	1 	not 	RB
+Gal 	2 	14 	1 	42 	1 	as 	IN
+Gal 	2 	14 	1 	43 	1 	do 	VB
+Gal 	2 	14 	1 	44 	1 	the 	DT
+Gal 	2 	14 	1 	45 	1 	Jews 	NNS
+Gal 	2 	14 	1 	46 	0 	,
+Gal 	2 	14 	1 	47 	1 	why 	WRB
+Gal 	2 	14 	1 	48 	1 	compellest 	NN
+Gal 	2 	14 	1 	49 	1 	thou 	NN
+Gal 	2 	14 	1 	50 	1 	the 	DT
+Gal 	2 	14 	1 	51 	1 	Gentiles 	NNS
+Gal 	2 	14 	1 	52 	1 	to 	TO
+Gal 	2 	14 	1 	53 	1 	live 	JJ
+Gal 	2 	14 	1 	54 	1 	as 	IN
+Gal 	2 	14 	1 	55 	1 	do 	VB
+Gal 	2 	14 	1 	56 	1 	the 	DT
+Gal 	2 	14 	1 	57 	1 	Jews 	NNS
+Gal 	2 	14 	1 	58 	0 	?
+Gal 	2 	15 	1 	1 	1 	We 	PRP
+Gal 	2 	15 	1 	2 	1 	who 	WP
+Gal 	2 	15 	1 	3 	1 	are 	VBP
+Gal 	2 	15 	1 	4 	1 	Jews 	NNS
+Gal 	2 	15 	1 	5 	1 	by 	IN
+Gal 	2 	15 	1 	6 	1 	nature 	NN
+Gal 	2 	15 	1 	7 	0 	,
+Gal 	2 	15 	1 	8 	1 	and 	CC
+Gal 	2 	15 	1 	9 	1 	not 	RB
+Gal 	2 	15 	1 	10 	1 	sinners 	NNS
+Gal 	2 	15 	1 	11 	1 	of 	IN
+Gal 	2 	15 	1 	12 	1 	the 	DT
+Gal 	2 	15 	1 	13 	1 	Gentiles 	NNS
+Gal 	2 	15 	1 	14 	0 	,
+Gal 	2 	16 	1 	1 	1 	Knowing 	VBG
+Gal 	2 	16 	1 	2 	1 	that 	IN
+Gal 	2 	16 	1 	3 	1 	a 	DT
+Gal 	2 	16 	1 	4 	1 	man 	NN
+Gal 	2 	16 	1 	5 	1 	is 	VBZ
+Gal 	2 	16 	1 	6 	1 	not 	RB
+Gal 	2 	16 	1 	7 	1 	justified 	JJ
+Gal 	2 	16 	1 	8 	1 	by 	IN
+Gal 	2 	16 	1 	9 	1 	the 	DT
+Gal 	2 	16 	1 	10 	1 	works 	NNS
+Gal 	2 	16 	1 	11 	1 	of 	IN
+Gal 	2 	16 	1 	12 	1 	the 	DT
+Gal 	2 	16 	1 	13 	1 	law 	NN
+Gal 	2 	16 	1 	14 	0 	,
+Gal 	2 	16 	1 	15 	1 	but 	CC
+Gal 	2 	16 	1 	16 	1 	by 	IN
+Gal 	2 	16 	1 	17 	1 	the 	DT
+Gal 	2 	16 	1 	18 	1 	faith 	NN
+Gal 	2 	16 	1 	19 	1 	of 	IN
+Gal 	2 	16 	1 	20 	1 	Jesus 	NN
+Gal 	2 	16 	1 	21 	1 	Christ 	NN
+Gal 	2 	16 	1 	22 	0 	,
+Gal 	2 	16 	1 	23 	1 	even 	RB
+Gal 	2 	16 	1 	24 	1 	we 	PRP
+Gal 	2 	16 	1 	25 	1 	have 	VB
+Gal 	2 	16 	1 	26 	1 	believed 	VBN
+Gal 	2 	16 	1 	27 	1 	in 	IN
+Gal 	2 	16 	1 	28 	1 	Jesus 	NN
+Gal 	2 	16 	1 	29 	1 	Christ 	NN
+Gal 	2 	16 	1 	30 	0 	,
+Gal 	2 	16 	1 	31 	1 	that 	IN
+Gal 	2 	16 	1 	32 	1 	we 	PRP
+Gal 	2 	16 	1 	33 	1 	might 	MD
+Gal 	2 	16 	1 	34 	1 	be 	VB
+Gal 	2 	16 	1 	35 	1 	justified 	JJ
+Gal 	2 	16 	1 	36 	1 	by 	IN
+Gal 	2 	16 	1 	37 	1 	the 	DT
+Gal 	2 	16 	1 	38 	1 	faith 	NN
+Gal 	2 	16 	1 	39 	1 	of 	IN
+Gal 	2 	16 	1 	40 	1 	Christ 	NN
+Gal 	2 	16 	1 	41 	0 	,
+Gal 	2 	16 	1 	42 	1 	and 	CC
+Gal 	2 	16 	1 	43 	1 	not 	RB
+Gal 	2 	16 	1 	44 	1 	by 	IN
+Gal 	2 	16 	1 	45 	1 	the 	DT
+Gal 	2 	16 	1 	46 	1 	works 	NNS
+Gal 	2 	16 	1 	47 	1 	of 	IN
+Gal 	2 	16 	1 	48 	1 	the 	DT
+Gal 	2 	16 	1 	49 	1 	law 	NN
+Gal 	2 	16 	1 	50 	0 	:
+Gal 	2 	16 	1 	51 	1 	for 	IN
+Gal 	2 	16 	1 	52 	1 	by 	IN
+Gal 	2 	16 	1 	53 	1 	the 	DT
+Gal 	2 	16 	1 	54 	1 	works 	NNS
+Gal 	2 	16 	1 	55 	1 	of 	IN
+Gal 	2 	16 	1 	56 	1 	the 	DT
+Gal 	2 	16 	1 	57 	1 	law 	NN
+Gal 	2 	16 	1 	58 	1 	shall 	MD
+Gal 	2 	16 	1 	59 	1 	no 	DT
+Gal 	2 	16 	1 	60 	1 	flesh 	NN
+Gal 	2 	16 	1 	61 	1 	be 	VB
+Gal 	2 	16 	1 	62 	1 	justified 	JJ
+Gal 	2 	16 	1 	63 	0 	.
+Gal 	2 	17 	1 	1 	1 	But 	CC
+Gal 	2 	17 	1 	2 	1 	if 	IN
+Gal 	2 	17 	1 	3 	0 	,
+Gal 	2 	17 	1 	4 	1 	while 	IN
+Gal 	2 	17 	1 	5 	1 	we 	PRP
+Gal 	2 	17 	1 	6 	1 	seek 	NN
+Gal 	2 	17 	1 	7 	1 	to 	TO
+Gal 	2 	17 	1 	8 	1 	be 	VB
+Gal 	2 	17 	1 	9 	1 	justified 	JJ
+Gal 	2 	17 	1 	10 	1 	by 	IN
+Gal 	2 	17 	1 	11 	1 	Christ 	NN
+Gal 	2 	17 	1 	12 	0 	,
+Gal 	2 	17 	1 	13 	1 	we 	PRP
+Gal 	2 	17 	1 	14 	1 	ourselves 	NNS
+Gal 	2 	17 	1 	15 	1 	also 	RB
+Gal 	2 	17 	1 	16 	1 	are 	VBP
+Gal 	2 	17 	1 	17 	1 	found 	NN
+Gal 	2 	17 	1 	18 	1 	sinners 	NNS
+Gal 	2 	17 	1 	19 	0 	,
+Gal 	2 	17 	1 	20 	1 	is 	VBZ
+Gal 	2 	17 	1 	21 	1 	therefore 	RB
+Gal 	2 	17 	1 	22 	1 	Christ 	NN
+Gal 	2 	17 	1 	23 	1 	the 	DT
+Gal 	2 	17 	1 	24 	1 	minister 	NN
+Gal 	2 	17 	1 	25 	1 	of 	IN
+Gal 	2 	17 	1 	26 	1 	sin 	NN
+Gal 	2 	17 	1 	27 	0 	?
+Gal 	2 	17 	2 	1 	1 	God 	NNP
+Gal 	2 	17 	2 	2 	1 	forbid 	NN
+Gal 	2 	17 	2 	3 	0 	.
+Gal 	2 	18 	1 	1 	1 	For 	IN
+Gal 	2 	18 	1 	2 	1 	if 	IN
+Gal 	2 	18 	1 	3 	1 	I 	PRP
+Gal 	2 	18 	1 	4 	1 	build 	NN
+Gal 	2 	18 	1 	5 	1 	again 	RB
+Gal 	2 	18 	1 	6 	1 	the 	DT
+Gal 	2 	18 	1 	7 	1 	things 	NNS
+Gal 	2 	18 	1 	8 	1 	which 	WDT
+Gal 	2 	18 	1 	9 	1 	I 	PRP
+Gal 	2 	18 	1 	10 	1 	destroyed 	NN
+Gal 	2 	18 	1 	11 	0 	,
+Gal 	2 	18 	1 	12 	1 	I 	PRP
+Gal 	2 	18 	1 	13 	1 	make 	VB
+Gal 	2 	18 	1 	14 	1 	myself 	PRP
+Gal 	2 	18 	1 	15 	1 	a 	DT
+Gal 	2 	18 	1 	16 	1 	transgressor 	NN
+Gal 	2 	18 	1 	17 	0 	.
+Gal 	2 	19 	1 	1 	1 	For 	IN
+Gal 	2 	19 	1 	2 	1 	I 	PRP
+Gal 	2 	19 	1 	3 	1 	through 	IN
+Gal 	2 	19 	1 	4 	1 	the 	DT
+Gal 	2 	19 	1 	5 	1 	law 	NN
+Gal 	2 	19 	1 	6 	1 	am 	VBP
+Gal 	2 	19 	1 	7 	1 	dead 	JJ
+Gal 	2 	19 	1 	8 	1 	to 	TO
+Gal 	2 	19 	1 	9 	1 	the 	DT
+Gal 	2 	19 	1 	10 	1 	law 	NN
+Gal 	2 	19 	1 	11 	0 	,
+Gal 	2 	19 	1 	12 	1 	that 	IN
+Gal 	2 	19 	1 	13 	1 	I 	PRP
+Gal 	2 	19 	1 	14 	1 	might 	MD
+Gal 	2 	19 	1 	15 	1 	live 	JJ
+Gal 	2 	19 	1 	16 	1 	unto 	NN
+Gal 	2 	19 	1 	17 	1 	God 	NNP
+Gal 	2 	19 	1 	18 	0 	.
+Gal 	2 	20 	1 	1 	1 	I 	PRP
+Gal 	2 	20 	1 	2 	1 	am 	VBP
+Gal 	2 	20 	1 	3 	1 	crucified 	VBN
+Gal 	2 	20 	1 	4 	1 	with 	IN
+Gal 	2 	20 	1 	5 	1 	Christ 	NN
+Gal 	2 	20 	1 	6 	0 	:
+Gal 	2 	20 	1 	7 	1 	neverthless 	NN
+Gal 	2 	20 	1 	8 	1 	I 	PRP
+Gal 	2 	20 	1 	9 	1 	live 	JJ
+Gal 	2 	20 	1 	10 	0 	;
+Gal 	2 	20 	1 	11 	1 	yet 	RB
+Gal 	2 	20 	1 	12 	1 	not 	RB
+Gal 	2 	20 	1 	13 	1 	I 	PRP
+Gal 	2 	20 	1 	14 	0 	,
+Gal 	2 	20 	1 	15 	1 	but 	CC
+Gal 	2 	20 	1 	16 	1 	Christ 	NN
+Gal 	2 	20 	1 	17 	1 	liveth 	NN
+Gal 	2 	20 	1 	18 	1 	in 	IN
+Gal 	2 	20 	1 	19 	1 	me 	PRP
+Gal 	2 	20 	1 	20 	0 	:
+Gal 	2 	20 	1 	21 	1 	and 	CC
+Gal 	2 	20 	1 	22 	1 	the 	DT
+Gal 	2 	20 	1 	23 	1 	life 	NN
+Gal 	2 	20 	1 	24 	1 	which 	WDT
+Gal 	2 	20 	1 	25 	1 	I 	PRP
+Gal 	2 	20 	1 	26 	1 	now 	RB
+Gal 	2 	20 	1 	27 	1 	live 	JJ
+Gal 	2 	20 	1 	28 	1 	in 	IN
+Gal 	2 	20 	1 	29 	1 	the 	DT
+Gal 	2 	20 	1 	30 	1 	flesh 	NN
+Gal 	2 	20 	1 	31 	1 	I 	PRP
+Gal 	2 	20 	1 	32 	1 	live 	JJ
+Gal 	2 	20 	1 	33 	1 	by 	IN
+Gal 	2 	20 	1 	34 	1 	the 	DT
+Gal 	2 	20 	1 	35 	1 	faith 	NN
+Gal 	2 	20 	1 	36 	1 	of 	IN
+Gal 	2 	20 	1 	37 	1 	the 	DT
+Gal 	2 	20 	1 	38 	1 	Son 	NN
+Gal 	2 	20 	1 	39 	1 	of 	IN
+Gal 	2 	20 	1 	40 	1 	God 	NNP
+Gal 	2 	20 	1 	41 	0 	,
+Gal 	2 	20 	1 	42 	1 	who 	WP
+Gal 	2 	20 	1 	43 	1 	loved 	VBN
+Gal 	2 	20 	1 	44 	1 	me 	PRP
+Gal 	2 	20 	1 	45 	0 	,
+Gal 	2 	20 	1 	46 	1 	and 	CC
+Gal 	2 	20 	1 	47 	1 	gave 	VBD
+Gal 	2 	20 	1 	48 	1 	himself 	PRP
+Gal 	2 	20 	1 	49 	1 	for 	IN
+Gal 	2 	20 	1 	50 	1 	me 	PRP
+Gal 	2 	20 	1 	51 	0 	.
+Gal 	2 	21 	1 	1 	1 	I 	PRP
+Gal 	2 	21 	1 	2 	1 	do 	VB
+Gal 	2 	21 	1 	3 	1 	not 	RB
+Gal 	2 	21 	1 	4 	1 	frustrate 	NN
+Gal 	2 	21 	1 	5 	1 	the 	DT
+Gal 	2 	21 	1 	6 	1 	grace 	NN
+Gal 	2 	21 	1 	7 	1 	of 	IN
+Gal 	2 	21 	1 	8 	1 	God 	NNP
+Gal 	2 	21 	1 	9 	0 	:
+Gal 	2 	21 	1 	10 	1 	for 	IN
+Gal 	2 	21 	1 	11 	1 	if 	IN
+Gal 	2 	21 	1 	12 	1 	righteousness 	NN
+Gal 	2 	21 	1 	13 	1 	come 	VB
+Gal 	2 	21 	1 	14 	1 	by 	IN
+Gal 	2 	21 	1 	15 	1 	the 	DT
+Gal 	2 	21 	1 	16 	1 	law 	NN
+Gal 	2 	21 	1 	17 	0 	,
+Gal 	2 	21 	1 	18 	1 	then 	RB
+Gal 	2 	21 	1 	19 	1 	Christ 	NN
+Gal 	2 	21 	1 	20 	1 	is 	VBZ
+Gal 	2 	21 	1 	21 	1 	dead 	JJ
+Gal 	2 	21 	1 	22 	1 	in 	IN
+Gal 	2 	21 	1 	23 	1 	vain 	NN
+Gal 	2 	21 	1 	24 	0 	.
+Gal 	3 	1 	1 	1 	1 	O 	NN
+Gal 	3 	1 	1 	2 	1 	foolish 	JJ
+Gal 	3 	1 	1 	3 	1 	Galatians 	NNS
+Gal 	3 	1 	1 	4 	0 	,
+Gal 	3 	1 	1 	5 	1 	who 	WP
+Gal 	3 	1 	1 	6 	1 	hath 	NN
+Gal 	3 	1 	1 	7 	1 	bewitched 	VBN
+Gal 	3 	1 	1 	8 	1 	you 	PRP
+Gal 	3 	1 	1 	9 	0 	,
+Gal 	3 	1 	1 	10 	1 	that 	IN
+Gal 	3 	1 	1 	11 	1 	ye 	NN
+Gal 	3 	1 	1 	12 	1 	should 	MD
+Gal 	3 	1 	1 	13 	1 	not 	RB
+Gal 	3 	1 	1 	14 	1 	obey 	NN
+Gal 	3 	1 	1 	15 	1 	the 	DT
+Gal 	3 	1 	1 	16 	1 	truth 	NN
+Gal 	3 	1 	1 	17 	0 	,
+Gal 	3 	1 	1 	18 	1 	before 	IN
+Gal 	3 	1 	1 	19 	1 	whose 	WP$
+Gal 	3 	1 	1 	20 	1 	eyes 	NNS
+Gal 	3 	1 	1 	21 	1 	Jesus 	NN
+Gal 	3 	1 	1 	22 	1 	Christ 	NN
+Gal 	3 	1 	1 	23 	1 	hath 	NN
+Gal 	3 	1 	1 	24 	1 	been 	VBN
+Gal 	3 	1 	1 	25 	1 	evidently 	RB
+Gal 	3 	1 	1 	26 	1 	set 	NN
+Gal 	3 	1 	1 	27 	1 	forth 	NN
+Gal 	3 	1 	1 	28 	0 	,
+Gal 	3 	1 	1 	29 	1 	crucified 	VBN
+Gal 	3 	1 	1 	30 	1 	among 	IN
+Gal 	3 	1 	1 	31 	1 	you 	PRP
+Gal 	3 	1 	1 	32 	0 	?
+Gal 	3 	2 	1 	1 	1 	This 	DT
+Gal 	3 	2 	1 	2 	1 	only 	RB
+Gal 	3 	2 	1 	3 	1 	would 	MD
+Gal 	3 	2 	1 	4 	1 	I 	PRP
+Gal 	3 	2 	1 	5 	1 	learn 	NN
+Gal 	3 	2 	1 	6 	1 	of 	IN
+Gal 	3 	2 	1 	7 	1 	you 	PRP
+Gal 	3 	2 	1 	8 	0 	,
+Gal 	3 	2 	1 	9 	1 	Received 	VBN
+Gal 	3 	2 	1 	10 	1 	ye 	NN
+Gal 	3 	2 	1 	11 	1 	the 	DT
+Gal 	3 	2 	1 	12 	1 	Spirit 	NN
+Gal 	3 	2 	1 	13 	1 	by 	IN
+Gal 	3 	2 	1 	14 	1 	the 	DT
+Gal 	3 	2 	1 	15 	1 	works 	NNS
+Gal 	3 	2 	1 	16 	1 	of 	IN
+Gal 	3 	2 	1 	17 	1 	the 	DT
+Gal 	3 	2 	1 	18 	1 	law 	NN
+Gal 	3 	2 	1 	19 	0 	,
+Gal 	3 	2 	1 	20 	1 	or 	CC
+Gal 	3 	2 	1 	21 	1 	by 	IN
+Gal 	3 	2 	1 	22 	1 	the 	DT
+Gal 	3 	2 	1 	23 	1 	hearing 	NN
+Gal 	3 	2 	1 	24 	1 	of 	IN
+Gal 	3 	2 	1 	25 	1 	faith 	NN
+Gal 	3 	2 	1 	26 	0 	?
+Gal 	3 	3 	1 	1 	1 	Are 	NN
+Gal 	3 	3 	1 	2 	1 	ye 	NN
+Gal 	3 	3 	1 	3 	1 	so 	RB
+Gal 	3 	3 	1 	4 	1 	foolish 	JJ
+Gal 	3 	3 	1 	5 	0 	?
+Gal 	3 	3 	2 	1 	1 	having 	VBG
+Gal 	3 	3 	2 	2 	1 	begun 	VBN
+Gal 	3 	3 	2 	3 	1 	in 	IN
+Gal 	3 	3 	2 	4 	1 	the 	DT
+Gal 	3 	3 	2 	5 	1 	Spirit 	NN
+Gal 	3 	3 	2 	6 	0 	,
+Gal 	3 	3 	2 	7 	1 	are 	VBP
+Gal 	3 	3 	2 	8 	1 	ye 	NN
+Gal 	3 	3 	2 	9 	1 	now 	RB
+Gal 	3 	3 	2 	10 	1 	made 	VBN
+Gal 	3 	3 	2 	11 	1 	perfect 	NN
+Gal 	3 	3 	2 	12 	1 	by 	IN
+Gal 	3 	3 	2 	13 	1 	the 	DT
+Gal 	3 	3 	2 	14 	1 	flesh 	NN
+Gal 	3 	3 	2 	15 	0 	?
+Gal 	3 	4 	1 	1 	1 	Have 	VB
+Gal 	3 	4 	1 	2 	1 	ye 	NN
+Gal 	3 	4 	1 	3 	1 	suffered 	VBD
+Gal 	3 	4 	1 	4 	1 	so 	RB
+Gal 	3 	4 	1 	5 	1 	many 	JJ
+Gal 	3 	4 	1 	6 	1 	things 	NNS
+Gal 	3 	4 	1 	7 	1 	in 	IN
+Gal 	3 	4 	1 	8 	1 	vain 	NN
+Gal 	3 	4 	1 	9 	0 	?
+Gal 	3 	4 	2 	1 	1 	if 	IN
+Gal 	3 	4 	2 	2 	1 	it 	PRP
+Gal 	3 	4 	2 	3 	1 	be 	VB
+Gal 	3 	4 	2 	4 	1 	yet 	RB
+Gal 	3 	4 	2 	5 	1 	in 	IN
+Gal 	3 	4 	2 	6 	1 	vain 	NN
+Gal 	3 	4 	2 	7 	0 	.
+Gal 	3 	5 	1 	1 	1 	He 	PRP
+Gal 	3 	5 	1 	2 	1 	therefore 	RB
+Gal 	3 	5 	1 	3 	1 	that 	IN
+Gal 	3 	5 	1 	4 	1 	ministereth 	NNS
+Gal 	3 	5 	1 	5 	1 	to 	TO
+Gal 	3 	5 	1 	6 	1 	you 	PRP
+Gal 	3 	5 	1 	7 	1 	the 	DT
+Gal 	3 	5 	1 	8 	1 	Spirit 	NN
+Gal 	3 	5 	1 	9 	0 	,
+Gal 	3 	5 	1 	10 	1 	and 	CC
+Gal 	3 	5 	1 	11 	1 	worketh 	NNS
+Gal 	3 	5 	1 	12 	1 	miracles 	NNS
+Gal 	3 	5 	1 	13 	1 	among 	IN
+Gal 	3 	5 	1 	14 	1 	you 	PRP
+Gal 	3 	5 	1 	15 	0 	,
+Gal 	3 	5 	1 	16 	1 	doeth 	NN
+Gal 	3 	5 	1 	17 	1 	he 	PRP
+Gal 	3 	5 	1 	18 	1 	it 	PRP
+Gal 	3 	5 	1 	19 	1 	by 	IN
+Gal 	3 	5 	1 	20 	1 	the 	DT
+Gal 	3 	5 	1 	21 	1 	works 	NNS
+Gal 	3 	5 	1 	22 	1 	of 	IN
+Gal 	3 	5 	1 	23 	1 	the 	DT
+Gal 	3 	5 	1 	24 	1 	law 	NN
+Gal 	3 	5 	1 	25 	0 	,
+Gal 	3 	5 	1 	26 	1 	or 	CC
+Gal 	3 	5 	1 	27 	1 	by 	IN
+Gal 	3 	5 	1 	28 	1 	the 	DT
+Gal 	3 	5 	1 	29 	1 	hearing 	NN
+Gal 	3 	5 	1 	30 	1 	of 	IN
+Gal 	3 	5 	1 	31 	1 	faith 	NN
+Gal 	3 	5 	1 	32 	0 	?
+Gal 	3 	6 	1 	1 	1 	Even 	RB
+Gal 	3 	6 	1 	2 	1 	as 	IN
+Gal 	3 	6 	1 	3 	1 	Abraham 	NNP
+Gal 	3 	6 	1 	4 	1 	believed 	VBN
+Gal 	3 	6 	1 	5 	1 	God 	NNP
+Gal 	3 	6 	1 	6 	0 	,
+Gal 	3 	6 	1 	7 	1 	and 	CC
+Gal 	3 	6 	1 	8 	1 	it 	PRP
+Gal 	3 	6 	1 	9 	1 	was 	VBD
+Gal 	3 	6 	1 	10 	1 	accounted 	VBD
+Gal 	3 	6 	1 	11 	1 	to 	TO
+Gal 	3 	6 	1 	12 	1 	him 	PRP
+Gal 	3 	6 	1 	13 	1 	for 	IN
+Gal 	3 	6 	1 	14 	1 	righteousness 	NN
+Gal 	3 	6 	1 	15 	0 	.
+Gal 	3 	7 	1 	1 	1 	Know 	NNP
+Gal 	3 	7 	1 	2 	1 	ye 	NN
+Gal 	3 	7 	1 	3 	1 	therefore 	RB
+Gal 	3 	7 	1 	4 	1 	that 	IN
+Gal 	3 	7 	1 	5 	1 	they 	PRP
+Gal 	3 	7 	1 	6 	1 	which 	WDT
+Gal 	3 	7 	1 	7 	1 	are 	VBP
+Gal 	3 	7 	1 	8 	1 	of 	IN
+Gal 	3 	7 	1 	9 	1 	faith 	NN
+Gal 	3 	7 	1 	10 	0 	,
+Gal 	3 	7 	1 	11 	1 	the 	DT
+Gal 	3 	7 	1 	12 	1 	same 	JJ
+Gal 	3 	7 	1 	13 	1 	are 	VBP
+Gal 	3 	7 	1 	14 	1 	the 	DT
+Gal 	3 	7 	1 	15 	1 	children 	NNS
+Gal 	3 	7 	1 	16 	1 	of 	IN
+Gal 	3 	7 	1 	17 	1 	Abraham 	NNP
+Gal 	3 	7 	1 	18 	0 	.
+Gal 	3 	8 	1 	1 	1 	And 	CC
+Gal 	3 	8 	1 	2 	1 	the 	DT
+Gal 	3 	8 	1 	3 	1 	scripture 	NN
+Gal 	3 	8 	1 	4 	0 	,
+Gal 	3 	8 	1 	5 	1 	foreseeing 	VBG
+Gal 	3 	8 	1 	6 	1 	that 	IN
+Gal 	3 	8 	1 	7 	1 	God 	NNP
+Gal 	3 	8 	1 	8 	1 	would 	MD
+Gal 	3 	8 	1 	9 	1 	justify 	NN
+Gal 	3 	8 	1 	10 	1 	the 	DT
+Gal 	3 	8 	1 	11 	1 	heathen 	NN
+Gal 	3 	8 	1 	12 	1 	through 	IN
+Gal 	3 	8 	1 	13 	1 	faith 	NN
+Gal 	3 	8 	1 	14 	0 	,
+Gal 	3 	8 	1 	15 	1 	preached 	VBN
+Gal 	3 	8 	1 	16 	1 	before 	IN
+Gal 	3 	8 	1 	17 	1 	the 	DT
+Gal 	3 	8 	1 	18 	1 	gospel 	NN
+Gal 	3 	8 	1 	19 	1 	unto 	NN
+Gal 	3 	8 	1 	20 	1 	Abraham 	NNP
+Gal 	3 	8 	1 	21 	0 	,
+Gal 	3 	8 	1 	22 	1 	saying 	VBG
+Gal 	3 	8 	1 	23 	0 	,
+Gal 	3 	8 	1 	24 	1 	In 	IN
+Gal 	3 	8 	1 	25 	1 	thee 	NN
+Gal 	3 	8 	1 	26 	1 	shall 	MD
+Gal 	3 	8 	1 	27 	1 	all 	DT
+Gal 	3 	8 	1 	28 	1 	nations 	NNS
+Gal 	3 	8 	1 	29 	1 	be 	VB
+Gal 	3 	8 	1 	30 	1 	blessed 	VBN
+Gal 	3 	8 	1 	31 	0 	.
+Gal 	3 	9 	1 	1 	1 	So 	RB
+Gal 	3 	9 	1 	2 	1 	then 	RB
+Gal 	3 	9 	1 	3 	1 	they 	PRP
+Gal 	3 	9 	1 	4 	1 	which 	WDT
+Gal 	3 	9 	1 	5 	1 	be 	VB
+Gal 	3 	9 	1 	6 	1 	of 	IN
+Gal 	3 	9 	1 	7 	1 	faith 	NN
+Gal 	3 	9 	1 	8 	1 	are 	VBP
+Gal 	3 	9 	1 	9 	1 	blessed 	VBN
+Gal 	3 	9 	1 	10 	1 	with 	IN
+Gal 	3 	9 	1 	11 	1 	faithful 	NN
+Gal 	3 	9 	1 	12 	1 	Abraham 	NNP
+Gal 	3 	9 	1 	13 	0 	.
+Gal 	3 	10 	1 	1 	1 	For 	IN
+Gal 	3 	10 	1 	2 	1 	as 	IN
+Gal 	3 	10 	1 	3 	1 	many 	JJ
+Gal 	3 	10 	1 	4 	1 	as 	IN
+Gal 	3 	10 	1 	5 	1 	are 	VBP
+Gal 	3 	10 	1 	6 	1 	of 	IN
+Gal 	3 	10 	1 	7 	1 	the 	DT
+Gal 	3 	10 	1 	8 	1 	works 	NNS
+Gal 	3 	10 	1 	9 	1 	of 	IN
+Gal 	3 	10 	1 	10 	1 	the 	DT
+Gal 	3 	10 	1 	11 	1 	law 	NN
+Gal 	3 	10 	1 	12 	1 	are 	VBP
+Gal 	3 	10 	1 	13 	1 	under 	IN
+Gal 	3 	10 	1 	14 	1 	the 	DT
+Gal 	3 	10 	1 	15 	1 	curse 	NN
+Gal 	3 	10 	1 	16 	0 	:
+Gal 	3 	10 	1 	17 	1 	for 	IN
+Gal 	3 	10 	1 	18 	1 	it 	PRP
+Gal 	3 	10 	1 	19 	1 	is 	VBZ
+Gal 	3 	10 	1 	20 	1 	written 	VBN
+Gal 	3 	10 	1 	21 	0 	,
+Gal 	3 	10 	1 	22 	1 	Cursed 	VBN
+Gal 	3 	10 	1 	23 	1 	is 	VBZ
+Gal 	3 	10 	1 	24 	1 	every 	DT
+Gal 	3 	10 	1 	25 	1 	one 	CD
+Gal 	3 	10 	1 	26 	1 	that 	IN
+Gal 	3 	10 	1 	27 	1 	continueth 	NNS
+Gal 	3 	10 	1 	28 	1 	not 	RB
+Gal 	3 	10 	1 	29 	1 	in 	IN
+Gal 	3 	10 	1 	30 	1 	all 	DT
+Gal 	3 	10 	1 	31 	1 	things 	NNS
+Gal 	3 	10 	1 	32 	1 	which 	WDT
+Gal 	3 	10 	1 	33 	1 	are 	VBP
+Gal 	3 	10 	1 	34 	1 	written 	VBN
+Gal 	3 	10 	1 	35 	1 	in 	IN
+Gal 	3 	10 	1 	36 	1 	the 	DT
+Gal 	3 	10 	1 	37 	1 	book 	NN
+Gal 	3 	10 	1 	38 	1 	of 	IN
+Gal 	3 	10 	1 	39 	1 	the 	DT
+Gal 	3 	10 	1 	40 	1 	law 	NN
+Gal 	3 	10 	1 	41 	1 	to 	TO
+Gal 	3 	10 	1 	42 	1 	do 	VB
+Gal 	3 	10 	1 	43 	1 	them 	PRP
+Gal 	3 	10 	1 	44 	0 	.
+Gal 	3 	11 	1 	1 	1 	But 	CC
+Gal 	3 	11 	1 	2 	1 	that 	IN
+Gal 	3 	11 	1 	3 	1 	no 	DT
+Gal 	3 	11 	1 	4 	1 	man 	NN
+Gal 	3 	11 	1 	5 	1 	is 	VBZ
+Gal 	3 	11 	1 	6 	1 	justified 	JJ
+Gal 	3 	11 	1 	7 	1 	by 	IN
+Gal 	3 	11 	1 	8 	1 	the 	DT
+Gal 	3 	11 	1 	9 	1 	law 	NN
+Gal 	3 	11 	1 	10 	1 	in 	IN
+Gal 	3 	11 	1 	11 	1 	the 	DT
+Gal 	3 	11 	1 	12 	1 	sight 	NN
+Gal 	3 	11 	1 	13 	1 	of 	IN
+Gal 	3 	11 	1 	14 	1 	God 	NNP
+Gal 	3 	11 	1 	15 	0 	,
+Gal 	3 	11 	1 	16 	1 	it 	PRP
+Gal 	3 	11 	1 	17 	1 	is 	VBZ
+Gal 	3 	11 	1 	18 	1 	evident 	NN
+Gal 	3 	11 	1 	19 	0 	:
+Gal 	3 	11 	1 	20 	1 	for 	IN
+Gal 	3 	11 	1 	21 	0 	,
+Gal 	3 	11 	1 	22 	1 	The 	DT
+Gal 	3 	11 	1 	23 	1 	just 	RB
+Gal 	3 	11 	1 	24 	1 	shall 	MD
+Gal 	3 	11 	1 	25 	1 	live 	JJ
+Gal 	3 	11 	1 	26 	1 	by 	IN
+Gal 	3 	11 	1 	27 	1 	faith 	NN
+Gal 	3 	11 	1 	28 	0 	.
+Gal 	3 	12 	1 	1 	1 	And 	CC
+Gal 	3 	12 	1 	2 	1 	the 	DT
+Gal 	3 	12 	1 	3 	1 	law 	NN
+Gal 	3 	12 	1 	4 	1 	is 	VBZ
+Gal 	3 	12 	1 	5 	1 	not 	RB
+Gal 	3 	12 	1 	6 	1 	of 	IN
+Gal 	3 	12 	1 	7 	1 	faith 	NN
+Gal 	3 	12 	1 	8 	0 	:
+Gal 	3 	12 	1 	9 	1 	but 	CC
+Gal 	3 	12 	1 	10 	0 	,
+Gal 	3 	12 	1 	11 	1 	The 	DT
+Gal 	3 	12 	1 	12 	1 	man 	NN
+Gal 	3 	12 	1 	13 	1 	that 	IN
+Gal 	3 	12 	1 	14 	1 	doeth 	NN
+Gal 	3 	12 	1 	15 	1 	them 	PRP
+Gal 	3 	12 	1 	16 	1 	shall 	MD
+Gal 	3 	12 	1 	17 	1 	live 	JJ
+Gal 	3 	12 	1 	18 	1 	in 	IN
+Gal 	3 	12 	1 	19 	1 	them 	PRP
+Gal 	3 	12 	1 	20 	0 	.
+Gal 	3 	13 	1 	1 	1 	Christ 	NN
+Gal 	3 	13 	1 	2 	1 	hath 	NN
+Gal 	3 	13 	1 	3 	1 	redeemed 	VBN
+Gal 	3 	13 	1 	4 	1 	us 	PRP
+Gal 	3 	13 	1 	5 	1 	from 	IN
+Gal 	3 	13 	1 	6 	1 	the 	DT
+Gal 	3 	13 	1 	7 	1 	curse 	NN
+Gal 	3 	13 	1 	8 	1 	of 	IN
+Gal 	3 	13 	1 	9 	1 	the 	DT
+Gal 	3 	13 	1 	10 	1 	law 	NN
+Gal 	3 	13 	1 	11 	0 	,
+Gal 	3 	13 	1 	12 	1 	being 	VBG
+Gal 	3 	13 	1 	13 	1 	made 	VBN
+Gal 	3 	13 	1 	14 	1 	a 	DT
+Gal 	3 	13 	1 	15 	1 	curse 	NN
+Gal 	3 	13 	1 	16 	1 	for 	IN
+Gal 	3 	13 	1 	17 	1 	us 	PRP
+Gal 	3 	13 	1 	18 	0 	:
+Gal 	3 	13 	1 	19 	1 	for 	IN
+Gal 	3 	13 	1 	20 	1 	it 	PRP
+Gal 	3 	13 	1 	21 	1 	is 	VBZ
+Gal 	3 	13 	1 	22 	1 	written 	VBN
+Gal 	3 	13 	1 	23 	0 	,
+Gal 	3 	13 	1 	24 	1 	Cursed 	VBN
+Gal 	3 	13 	1 	25 	1 	is 	VBZ
+Gal 	3 	13 	1 	26 	1 	every 	DT
+Gal 	3 	13 	1 	27 	1 	one 	CD
+Gal 	3 	13 	1 	28 	1 	that 	IN
+Gal 	3 	13 	1 	29 	1 	hangeth 	NN
+Gal 	3 	13 	1 	30 	1 	on 	IN
+Gal 	3 	13 	1 	31 	1 	a 	DT
+Gal 	3 	13 	1 	32 	1 	tree 	NN
+Gal 	3 	13 	1 	33 	0 	:
+Gal 	3 	14 	1 	1 	1 	That 	DT
+Gal 	3 	14 	1 	2 	1 	the 	DT
+Gal 	3 	14 	1 	3 	1 	blessing 	NN
+Gal 	3 	14 	1 	4 	1 	of 	IN
+Gal 	3 	14 	1 	5 	1 	Abraham 	NNP
+Gal 	3 	14 	1 	6 	1 	might 	MD
+Gal 	3 	14 	1 	7 	1 	come 	VB
+Gal 	3 	14 	1 	8 	1 	on 	IN
+Gal 	3 	14 	1 	9 	1 	the 	DT
+Gal 	3 	14 	1 	10 	1 	Gentiles 	NNS
+Gal 	3 	14 	1 	11 	1 	through 	IN
+Gal 	3 	14 	1 	12 	1 	Jesus 	NN
+Gal 	3 	14 	1 	13 	1 	Christ 	NN
+Gal 	3 	14 	1 	14 	0 	;
+Gal 	3 	14 	1 	15 	1 	that 	IN
+Gal 	3 	14 	1 	16 	1 	we 	PRP
+Gal 	3 	14 	1 	17 	1 	might 	MD
+Gal 	3 	14 	1 	18 	1 	receive 	NN
+Gal 	3 	14 	1 	19 	1 	the 	DT
+Gal 	3 	14 	1 	20 	1 	promise 	NN
+Gal 	3 	14 	1 	21 	1 	of 	IN
+Gal 	3 	14 	1 	22 	1 	the 	DT
+Gal 	3 	14 	1 	23 	1 	Spirit 	NN
+Gal 	3 	14 	1 	24 	1 	through 	IN
+Gal 	3 	14 	1 	25 	1 	faith 	NN
+Gal 	3 	14 	1 	26 	0 	.
+Gal 	3 	15 	1 	1 	1 	Brethren 	NNS
+Gal 	3 	15 	1 	2 	0 	,
+Gal 	3 	15 	1 	3 	1 	I 	PRP
+Gal 	3 	15 	1 	4 	1 	speak 	NN
+Gal 	3 	15 	1 	5 	1 	after 	IN
+Gal 	3 	15 	1 	6 	1 	the 	DT
+Gal 	3 	15 	1 	7 	1 	manner 	NN
+Gal 	3 	15 	1 	8 	1 	of 	IN
+Gal 	3 	15 	1 	9 	1 	men 	NNS
+Gal 	3 	15 	1 	10 	0 	;
+Gal 	3 	15 	1 	11 	1 	Though 	IN
+Gal 	3 	15 	1 	12 	1 	it 	PRP
+Gal 	3 	15 	1 	13 	1 	be 	VB
+Gal 	3 	15 	1 	14 	1 	but 	CC
+Gal 	3 	15 	1 	15 	1 	a 	DT
+Gal 	3 	15 	1 	16 	1 	man 	NN
+Gal 	3 	15 	1 	17 	0 	's
+Gal 	3 	15 	1 	18 	1 	covenant 	NN
+Gal 	3 	15 	1 	19 	0 	,
+Gal 	3 	15 	1 	20 	1 	yet 	RB
+Gal 	3 	15 	1 	21 	1 	if 	IN
+Gal 	3 	15 	1 	22 	1 	it 	PRP
+Gal 	3 	15 	1 	23 	1 	be 	VB
+Gal 	3 	15 	1 	24 	1 	confirmed 	VBN
+Gal 	3 	15 	1 	25 	0 	,
+Gal 	3 	15 	1 	26 	1 	no 	DT
+Gal 	3 	15 	1 	27 	1 	man 	NN
+Gal 	3 	15 	1 	28 	1 	disannulleth 	NN
+Gal 	3 	15 	1 	29 	0 	,
+Gal 	3 	15 	1 	30 	1 	or 	CC
+Gal 	3 	15 	1 	31 	1 	addeth 	NNS
+Gal 	3 	15 	1 	32 	1 	thereto 	NN
+Gal 	3 	15 	1 	33 	0 	.
+Gal 	3 	16 	1 	1 	1 	Now 	RB
+Gal 	3 	16 	1 	2 	1 	to 	TO
+Gal 	3 	16 	1 	3 	1 	Abraham 	NNP
+Gal 	3 	16 	1 	4 	1 	and 	CC
+Gal 	3 	16 	1 	5 	1 	his 	PRP$
+Gal 	3 	16 	1 	6 	1 	seed 	NN
+Gal 	3 	16 	1 	7 	1 	were 	VBD
+Gal 	3 	16 	1 	8 	1 	the 	DT
+Gal 	3 	16 	1 	9 	1 	promises 	NNS
+Gal 	3 	16 	1 	10 	1 	made 	VBN
+Gal 	3 	16 	1 	11 	0 	.
+Gal 	3 	16 	2 	1 	1 	He 	PRP
+Gal 	3 	16 	2 	2 	1 	saith 	NN
+Gal 	3 	16 	2 	3 	1 	not 	RB
+Gal 	3 	16 	2 	4 	0 	,
+Gal 	3 	16 	2 	5 	1 	And 	CC
+Gal 	3 	16 	2 	6 	1 	to 	TO
+Gal 	3 	16 	2 	7 	1 	seeds 	NNS
+Gal 	3 	16 	2 	8 	0 	,
+Gal 	3 	16 	2 	9 	1 	as 	IN
+Gal 	3 	16 	2 	10 	1 	of 	IN
+Gal 	3 	16 	2 	11 	1 	many 	JJ
+Gal 	3 	16 	2 	12 	0 	;
+Gal 	3 	16 	2 	13 	1 	but 	CC
+Gal 	3 	16 	2 	14 	1 	as 	IN
+Gal 	3 	16 	2 	15 	1 	of 	IN
+Gal 	3 	16 	2 	16 	1 	one 	CD
+Gal 	3 	16 	2 	17 	0 	,
+Gal 	3 	16 	2 	18 	1 	And 	CC
+Gal 	3 	16 	2 	19 	1 	to 	TO
+Gal 	3 	16 	2 	20 	1 	thy 	NN
+Gal 	3 	16 	2 	21 	1 	seed 	NN
+Gal 	3 	16 	2 	22 	0 	,
+Gal 	3 	16 	2 	23 	1 	which 	WDT
+Gal 	3 	16 	2 	24 	1 	is 	VBZ
+Gal 	3 	16 	2 	25 	1 	Christ 	NN
+Gal 	3 	16 	2 	26 	0 	.
+Gal 	3 	17 	1 	1 	1 	And 	CC
+Gal 	3 	17 	1 	2 	1 	this 	DT
+Gal 	3 	17 	1 	3 	1 	I 	PRP
+Gal 	3 	17 	1 	4 	1 	say 	VB
+Gal 	3 	17 	1 	5 	0 	,
+Gal 	3 	17 	1 	6 	1 	that 	IN
+Gal 	3 	17 	1 	7 	1 	the 	DT
+Gal 	3 	17 	1 	8 	1 	covenant 	NN
+Gal 	3 	17 	1 	9 	0 	,
+Gal 	3 	17 	1 	10 	1 	that 	IN
+Gal 	3 	17 	1 	11 	1 	was 	VBD
+Gal 	3 	17 	1 	12 	1 	confirmed 	VBN
+Gal 	3 	17 	1 	13 	1 	before 	IN
+Gal 	3 	17 	1 	14 	1 	of 	IN
+Gal 	3 	17 	1 	15 	1 	God 	NNP
+Gal 	3 	17 	1 	16 	1 	in 	IN
+Gal 	3 	17 	1 	17 	1 	Christ 	NN
+Gal 	3 	17 	1 	18 	0 	,
+Gal 	3 	17 	1 	19 	1 	the 	DT
+Gal 	3 	17 	1 	20 	1 	law 	NN
+Gal 	3 	17 	1 	21 	0 	,
+Gal 	3 	17 	1 	22 	1 	which 	WDT
+Gal 	3 	17 	1 	23 	1 	was 	VBD
+Gal 	3 	17 	1 	24 	1 	four 	CD
+Gal 	3 	17 	1 	25 	1 	hundred 	VBN
+Gal 	3 	17 	1 	26 	1 	and 	CC
+Gal 	3 	17 	1 	27 	1 	thirty 	NN
+Gal 	3 	17 	1 	28 	1 	years 	NNS
+Gal 	3 	17 	1 	29 	1 	after 	IN
+Gal 	3 	17 	1 	30 	0 	,
+Gal 	3 	17 	1 	31 	1 	can 	MD
+Gal 	3 	17 	1 	32 	1 	not 	RB
+Gal 	3 	17 	1 	33 	1 	disannul 	NN
+Gal 	3 	17 	1 	34 	0 	,
+Gal 	3 	17 	1 	35 	1 	that 	IN
+Gal 	3 	17 	1 	36 	1 	it 	PRP
+Gal 	3 	17 	1 	37 	1 	should 	MD
+Gal 	3 	17 	1 	38 	1 	make 	VB
+Gal 	3 	17 	1 	39 	1 	the 	DT
+Gal 	3 	17 	1 	40 	1 	promise 	NN
+Gal 	3 	17 	1 	41 	1 	of 	IN
+Gal 	3 	17 	1 	42 	1 	none 	NN
+Gal 	3 	17 	1 	43 	1 	effect 	NN
+Gal 	3 	17 	1 	44 	0 	.
+Gal 	3 	18 	1 	1 	1 	For 	IN
+Gal 	3 	18 	1 	2 	1 	if 	IN
+Gal 	3 	18 	1 	3 	1 	the 	DT
+Gal 	3 	18 	1 	4 	1 	inheritance 	NN
+Gal 	3 	18 	1 	5 	1 	be 	VB
+Gal 	3 	18 	1 	6 	1 	of 	IN
+Gal 	3 	18 	1 	7 	1 	the 	DT
+Gal 	3 	18 	1 	8 	1 	law 	NN
+Gal 	3 	18 	1 	9 	0 	,
+Gal 	3 	18 	1 	10 	1 	it 	PRP
+Gal 	3 	18 	1 	11 	1 	is 	VBZ
+Gal 	3 	18 	1 	12 	1 	no 	DT
+Gal 	3 	18 	1 	13 	1 	more 	RBR
+Gal 	3 	18 	1 	14 	1 	of 	IN
+Gal 	3 	18 	1 	15 	1 	promise 	NN
+Gal 	3 	18 	1 	16 	0 	:
+Gal 	3 	18 	1 	17 	1 	but 	CC
+Gal 	3 	18 	1 	18 	1 	God 	NNP
+Gal 	3 	18 	1 	19 	1 	gave 	VBD
+Gal 	3 	18 	1 	20 	1 	it 	PRP
+Gal 	3 	18 	1 	21 	1 	to 	TO
+Gal 	3 	18 	1 	22 	1 	Abraham 	NNP
+Gal 	3 	18 	1 	23 	1 	by 	IN
+Gal 	3 	18 	1 	24 	1 	promise 	NN
+Gal 	3 	18 	1 	25 	0 	.
+Gal 	3 	19 	1 	1 	1 	Wherefore 	IN
+Gal 	3 	19 	1 	2 	1 	then 	RB
+Gal 	3 	19 	1 	3 	1 	serveth 	NN
+Gal 	3 	19 	1 	4 	1 	the 	DT
+Gal 	3 	19 	1 	5 	1 	law 	NN
+Gal 	3 	19 	1 	6 	0 	?
+Gal 	3 	19 	2 	1 	1 	It 	PRP
+Gal 	3 	19 	2 	2 	1 	was 	VBD
+Gal 	3 	19 	2 	3 	1 	added 	VBD
+Gal 	3 	19 	2 	4 	1 	because 	IN
+Gal 	3 	19 	2 	5 	1 	of 	IN
+Gal 	3 	19 	2 	6 	1 	transgressions 	NNS
+Gal 	3 	19 	2 	7 	0 	,
+Gal 	3 	19 	2 	8 	1 	till 	NN
+Gal 	3 	19 	2 	9 	1 	the 	DT
+Gal 	3 	19 	2 	10 	1 	seed 	NN
+Gal 	3 	19 	2 	11 	1 	should 	MD
+Gal 	3 	19 	2 	12 	1 	come 	VB
+Gal 	3 	19 	2 	13 	1 	to 	TO
+Gal 	3 	19 	2 	14 	1 	whom 	WP
+Gal 	3 	19 	2 	15 	1 	the 	DT
+Gal 	3 	19 	2 	16 	1 	promise 	NN
+Gal 	3 	19 	2 	17 	1 	was 	VBD
+Gal 	3 	19 	2 	18 	1 	made 	VBN
+Gal 	3 	19 	2 	19 	0 	;
+Gal 	3 	19 	2 	20 	1 	and 	CC
+Gal 	3 	19 	2 	21 	1 	it 	PRP
+Gal 	3 	19 	2 	22 	1 	was 	VBD
+Gal 	3 	19 	2 	23 	1 	ordained 	VBN
+Gal 	3 	19 	2 	24 	1 	by 	IN
+Gal 	3 	19 	2 	25 	1 	angels 	NNS
+Gal 	3 	19 	2 	26 	1 	in 	IN
+Gal 	3 	19 	2 	27 	1 	the 	DT
+Gal 	3 	19 	2 	28 	1 	hand 	NN
+Gal 	3 	19 	2 	29 	1 	of 	IN
+Gal 	3 	19 	2 	30 	1 	a 	DT
+Gal 	3 	19 	2 	31 	1 	mediator 	NN
+Gal 	3 	19 	2 	32 	0 	.
+Gal 	3 	20 	1 	1 	1 	Now 	RB
+Gal 	3 	20 	1 	2 	1 	a 	DT
+Gal 	3 	20 	1 	3 	1 	mediator 	NN
+Gal 	3 	20 	1 	4 	1 	is 	VBZ
+Gal 	3 	20 	1 	5 	1 	not 	RB
+Gal 	3 	20 	1 	6 	1 	a 	DT
+Gal 	3 	20 	1 	7 	1 	mediator 	NN
+Gal 	3 	20 	1 	8 	1 	of 	IN
+Gal 	3 	20 	1 	9 	1 	one 	CD
+Gal 	3 	20 	1 	10 	0 	,
+Gal 	3 	20 	1 	11 	1 	but 	CC
+Gal 	3 	20 	1 	12 	1 	God 	NNP
+Gal 	3 	20 	1 	13 	1 	is 	VBZ
+Gal 	3 	20 	1 	14 	1 	one 	CD
+Gal 	3 	20 	1 	15 	0 	.
+Gal 	3 	21 	1 	1 	1 	Is 	NN
+Gal 	3 	21 	1 	2 	1 	the 	DT
+Gal 	3 	21 	1 	3 	1 	law 	NN
+Gal 	3 	21 	1 	4 	1 	then 	RB
+Gal 	3 	21 	1 	5 	1 	against 	IN
+Gal 	3 	21 	1 	6 	1 	the 	DT
+Gal 	3 	21 	1 	7 	1 	promises 	NNS
+Gal 	3 	21 	1 	8 	1 	of 	IN
+Gal 	3 	21 	1 	9 	1 	God 	NNP
+Gal 	3 	21 	1 	10 	0 	?
+Gal 	3 	21 	2 	1 	1 	God 	NNP
+Gal 	3 	21 	2 	2 	1 	forbid 	NN
+Gal 	3 	21 	2 	3 	0 	:
+Gal 	3 	21 	2 	4 	1 	for 	IN
+Gal 	3 	21 	2 	5 	1 	if 	IN
+Gal 	3 	21 	2 	6 	1 	there 	RB
+Gal 	3 	21 	2 	7 	1 	had 	VBD
+Gal 	3 	21 	2 	8 	1 	been 	VBN
+Gal 	3 	21 	2 	9 	1 	a 	DT
+Gal 	3 	21 	2 	10 	1 	law 	NN
+Gal 	3 	21 	2 	11 	1 	given 	VBN
+Gal 	3 	21 	2 	12 	1 	which 	WDT
+Gal 	3 	21 	2 	13 	1 	could 	MD
+Gal 	3 	21 	2 	14 	1 	have 	VB
+Gal 	3 	21 	2 	15 	1 	given 	VBN
+Gal 	3 	21 	2 	16 	1 	life 	NN
+Gal 	3 	21 	2 	17 	0 	,
+Gal 	3 	21 	2 	18 	1 	verily 	RB
+Gal 	3 	21 	2 	19 	1 	righteousness 	NN
+Gal 	3 	21 	2 	20 	1 	should 	MD
+Gal 	3 	21 	2 	21 	1 	have 	VB
+Gal 	3 	21 	2 	22 	1 	been 	VBN
+Gal 	3 	21 	2 	23 	1 	by 	IN
+Gal 	3 	21 	2 	24 	1 	the 	DT
+Gal 	3 	21 	2 	25 	1 	law 	NN
+Gal 	3 	21 	2 	26 	0 	.
+Gal 	3 	22 	1 	1 	1 	But 	CC
+Gal 	3 	22 	1 	2 	1 	the 	DT
+Gal 	3 	22 	1 	3 	1 	scripture 	NN
+Gal 	3 	22 	1 	4 	1 	hath 	NN
+Gal 	3 	22 	1 	5 	1 	concluded 	VBD
+Gal 	3 	22 	1 	6 	1 	all 	DT
+Gal 	3 	22 	1 	7 	1 	under 	IN
+Gal 	3 	22 	1 	8 	1 	sin 	NN
+Gal 	3 	22 	1 	9 	0 	,
+Gal 	3 	22 	1 	10 	1 	that 	IN
+Gal 	3 	22 	1 	11 	1 	the 	DT
+Gal 	3 	22 	1 	12 	1 	promise 	NN
+Gal 	3 	22 	1 	13 	1 	by 	IN
+Gal 	3 	22 	1 	14 	1 	faith 	NN
+Gal 	3 	22 	1 	15 	1 	of 	IN
+Gal 	3 	22 	1 	16 	1 	Jesus 	NN
+Gal 	3 	22 	1 	17 	1 	Christ 	NN
+Gal 	3 	22 	1 	18 	1 	might 	MD
+Gal 	3 	22 	1 	19 	1 	be 	VB
+Gal 	3 	22 	1 	20 	1 	given 	VBN
+Gal 	3 	22 	1 	21 	1 	to 	TO
+Gal 	3 	22 	1 	22 	1 	them 	PRP
+Gal 	3 	22 	1 	23 	1 	that 	IN
+Gal 	3 	22 	1 	24 	1 	believe 	VB
+Gal 	3 	22 	1 	25 	0 	.
+Gal 	3 	23 	1 	1 	1 	But 	CC
+Gal 	3 	23 	1 	2 	1 	before 	IN
+Gal 	3 	23 	1 	3 	1 	faith 	NN
+Gal 	3 	23 	1 	4 	1 	came 	VBD
+Gal 	3 	23 	1 	5 	0 	,
+Gal 	3 	23 	1 	6 	1 	we 	PRP
+Gal 	3 	23 	1 	7 	1 	were 	VBD
+Gal 	3 	23 	1 	8 	1 	kept 	NN
+Gal 	3 	23 	1 	9 	1 	under 	IN
+Gal 	3 	23 	1 	10 	1 	the 	DT
+Gal 	3 	23 	1 	11 	1 	law 	NN
+Gal 	3 	23 	1 	12 	0 	,
+Gal 	3 	23 	1 	13 	1 	shut 	NN
+Gal 	3 	23 	1 	14 	1 	up 	RB
+Gal 	3 	23 	1 	15 	1 	unto 	NN
+Gal 	3 	23 	1 	16 	1 	the 	DT
+Gal 	3 	23 	1 	17 	1 	faith 	NN
+Gal 	3 	23 	1 	18 	1 	which 	WDT
+Gal 	3 	23 	1 	19 	1 	should 	MD
+Gal 	3 	23 	1 	20 	1 	afterwards 	NNS
+Gal 	3 	23 	1 	21 	1 	be 	VB
+Gal 	3 	23 	1 	22 	1 	revealed 	VBD
+Gal 	3 	23 	1 	23 	0 	.
+Gal 	3 	24 	1 	1 	1 	Wherefore 	IN
+Gal 	3 	24 	1 	2 	1 	the 	DT
+Gal 	3 	24 	1 	3 	1 	law 	NN
+Gal 	3 	24 	1 	4 	1 	was 	VBD
+Gal 	3 	24 	1 	5 	1 	our 	PRP$
+Gal 	3 	24 	1 	6 	1 	schoolmaster 	NN
+Gal 	3 	24 	1 	7 	1 	to 	TO
+Gal 	3 	24 	1 	8 	1 	bring 	NN
+Gal 	3 	24 	1 	9 	1 	us 	PRP
+Gal 	3 	24 	1 	10 	1 	unto 	NN
+Gal 	3 	24 	1 	11 	1 	Christ 	NN
+Gal 	3 	24 	1 	12 	0 	,
+Gal 	3 	24 	1 	13 	1 	that 	IN
+Gal 	3 	24 	1 	14 	1 	we 	PRP
+Gal 	3 	24 	1 	15 	1 	might 	MD
+Gal 	3 	24 	1 	16 	1 	be 	VB
+Gal 	3 	24 	1 	17 	1 	justified 	JJ
+Gal 	3 	24 	1 	18 	1 	by 	IN
+Gal 	3 	24 	1 	19 	1 	faith 	NN
+Gal 	3 	24 	1 	20 	0 	.
+Gal 	3 	25 	1 	1 	1 	But 	CC
+Gal 	3 	25 	1 	2 	1 	after 	IN
+Gal 	3 	25 	1 	3 	1 	that 	IN
+Gal 	3 	25 	1 	4 	1 	faith 	NN
+Gal 	3 	25 	1 	5 	1 	is 	VBZ
+Gal 	3 	25 	1 	6 	1 	come 	VB
+Gal 	3 	25 	1 	7 	0 	,
+Gal 	3 	25 	1 	8 	1 	we 	PRP
+Gal 	3 	25 	1 	9 	1 	are 	VBP
+Gal 	3 	25 	1 	10 	1 	no 	DT
+Gal 	3 	25 	1 	11 	1 	longer 	NN
+Gal 	3 	25 	1 	12 	1 	under 	IN
+Gal 	3 	25 	1 	13 	1 	a 	DT
+Gal 	3 	25 	1 	14 	1 	schoolmaster 	NN
+Gal 	3 	25 	1 	15 	0 	.
+Gal 	3 	26 	1 	1 	1 	For 	IN
+Gal 	3 	26 	1 	2 	1 	ye 	NN
+Gal 	3 	26 	1 	3 	1 	are 	VBP
+Gal 	3 	26 	1 	4 	1 	all 	DT
+Gal 	3 	26 	1 	5 	1 	the 	DT
+Gal 	3 	26 	1 	6 	1 	children 	NNS
+Gal 	3 	26 	1 	7 	1 	of 	IN
+Gal 	3 	26 	1 	8 	1 	God 	NNP
+Gal 	3 	26 	1 	9 	1 	by 	IN
+Gal 	3 	26 	1 	10 	1 	faith 	NN
+Gal 	3 	26 	1 	11 	1 	in 	IN
+Gal 	3 	26 	1 	12 	1 	Christ 	NN
+Gal 	3 	26 	1 	13 	1 	Jesus 	NN
+Gal 	3 	26 	1 	14 	0 	.
+Gal 	3 	27 	1 	1 	1 	For 	IN
+Gal 	3 	27 	1 	2 	1 	as 	IN
+Gal 	3 	27 	1 	3 	1 	many 	JJ
+Gal 	3 	27 	1 	4 	1 	of 	IN
+Gal 	3 	27 	1 	5 	1 	you 	PRP
+Gal 	3 	27 	1 	6 	1 	as 	IN
+Gal 	3 	27 	1 	7 	1 	have 	VB
+Gal 	3 	27 	1 	8 	1 	been 	VBN
+Gal 	3 	27 	1 	9 	1 	baptized 	VBN
+Gal 	3 	27 	1 	10 	1 	into 	IN
+Gal 	3 	27 	1 	11 	1 	Christ 	NN
+Gal 	3 	27 	1 	12 	1 	have 	VB
+Gal 	3 	27 	1 	13 	1 	put 	NN
+Gal 	3 	27 	1 	14 	1 	on 	IN
+Gal 	3 	27 	1 	15 	1 	Christ 	NN
+Gal 	3 	27 	1 	16 	0 	.
+Gal 	3 	28 	1 	1 	1 	There 	EX
+Gal 	3 	28 	1 	2 	1 	is 	VBZ
+Gal 	3 	28 	1 	3 	1 	neither 	DT
+Gal 	3 	28 	1 	4 	1 	Jew 	NN
+Gal 	3 	28 	1 	5 	1 	nor 	CC
+Gal 	3 	28 	1 	6 	1 	Greek 	JJ
+Gal 	3 	28 	1 	7 	0 	,
+Gal 	3 	28 	1 	8 	1 	there 	RB
+Gal 	3 	28 	1 	9 	1 	is 	VBZ
+Gal 	3 	28 	1 	10 	1 	neither 	DT
+Gal 	3 	28 	1 	11 	1 	bond 	NN
+Gal 	3 	28 	1 	12 	1 	nor 	CC
+Gal 	3 	28 	1 	13 	1 	free 	JJ
+Gal 	3 	28 	1 	14 	0 	,
+Gal 	3 	28 	1 	15 	1 	there 	RB
+Gal 	3 	28 	1 	16 	1 	is 	VBZ
+Gal 	3 	28 	1 	17 	1 	neither 	DT
+Gal 	3 	28 	1 	18 	1 	male 	NN
+Gal 	3 	28 	1 	19 	1 	nor 	CC
+Gal 	3 	28 	1 	20 	1 	female 	NN
+Gal 	3 	28 	1 	21 	0 	:
+Gal 	3 	28 	1 	22 	1 	for 	IN
+Gal 	3 	28 	1 	23 	1 	ye 	NN
+Gal 	3 	28 	1 	24 	1 	are 	VBP
+Gal 	3 	28 	1 	25 	1 	all 	DT
+Gal 	3 	28 	1 	26 	1 	one 	CD
+Gal 	3 	28 	1 	27 	1 	in 	IN
+Gal 	3 	28 	1 	28 	1 	Christ 	NN
+Gal 	3 	28 	1 	29 	1 	Jesus 	NN
+Gal 	3 	28 	1 	30 	0 	.
+Gal 	3 	29 	1 	1 	1 	And 	CC
+Gal 	3 	29 	1 	2 	1 	if 	IN
+Gal 	3 	29 	1 	3 	1 	ye 	NN
+Gal 	3 	29 	1 	4 	1 	be 	VB
+Gal 	3 	29 	1 	5 	1 	Christ 	NN
+Gal 	3 	29 	1 	6 	0 	's
+Gal 	3 	29 	1 	7 	0 	,
+Gal 	3 	29 	1 	8 	1 	then 	RB
+Gal 	3 	29 	1 	9 	1 	are 	VBP
+Gal 	3 	29 	1 	10 	1 	ye 	NN
+Gal 	3 	29 	1 	11 	1 	Abraham 	NNP
+Gal 	3 	29 	1 	12 	0 	's
+Gal 	3 	29 	1 	13 	1 	seed 	NN
+Gal 	3 	29 	1 	14 	0 	,
+Gal 	3 	29 	1 	15 	1 	and 	CC
+Gal 	3 	29 	1 	16 	1 	heirs 	NNS
+Gal 	3 	29 	1 	17 	1 	according 	VBG
+Gal 	3 	29 	1 	18 	1 	to 	TO
+Gal 	3 	29 	1 	19 	1 	the 	DT
+Gal 	3 	29 	1 	20 	1 	promise 	NN
+Gal 	3 	29 	1 	21 	0 	.
+Gal 	4 	1 	1 	1 	1 	Now 	RB
+Gal 	4 	1 	1 	2 	1 	I 	PRP
+Gal 	4 	1 	1 	3 	1 	say 	VB
+Gal 	4 	1 	1 	4 	0 	,
+Gal 	4 	1 	1 	5 	1 	That 	DT
+Gal 	4 	1 	1 	6 	1 	the 	DT
+Gal 	4 	1 	1 	7 	1 	heir 	NN
+Gal 	4 	1 	1 	8 	0 	,
+Gal 	4 	1 	1 	9 	1 	as 	IN
+Gal 	4 	1 	1 	10 	1 	long 	RB
+Gal 	4 	1 	1 	11 	1 	as 	IN
+Gal 	4 	1 	1 	12 	1 	he 	PRP
+Gal 	4 	1 	1 	13 	1 	is 	VBZ
+Gal 	4 	1 	1 	14 	1 	a 	DT
+Gal 	4 	1 	1 	15 	1 	child 	NN
+Gal 	4 	1 	1 	16 	0 	,
+Gal 	4 	1 	1 	17 	1 	differeth 	NN
+Gal 	4 	1 	1 	18 	1 	nothing 	NN
+Gal 	4 	1 	1 	19 	1 	from 	IN
+Gal 	4 	1 	1 	20 	1 	a 	DT
+Gal 	4 	1 	1 	21 	1 	servant 	NN
+Gal 	4 	1 	1 	22 	0 	,
+Gal 	4 	1 	1 	23 	1 	though 	IN
+Gal 	4 	1 	1 	24 	1 	he 	PRP
+Gal 	4 	1 	1 	25 	1 	be 	VB
+Gal 	4 	1 	1 	26 	1 	lord 	NN
+Gal 	4 	1 	1 	27 	1 	of 	IN
+Gal 	4 	1 	1 	28 	1 	all 	DT
+Gal 	4 	1 	1 	29 	0 	;
+Gal 	4 	2 	1 	1 	1 	But 	CC
+Gal 	4 	2 	1 	2 	1 	is 	VBZ
+Gal 	4 	2 	1 	3 	1 	under 	IN
+Gal 	4 	2 	1 	4 	1 	tutors 	NNS
+Gal 	4 	2 	1 	5 	1 	and 	CC
+Gal 	4 	2 	1 	6 	1 	governors 	NNS
+Gal 	4 	2 	1 	7 	1 	until 	IN
+Gal 	4 	2 	1 	8 	1 	the 	DT
+Gal 	4 	2 	1 	9 	1 	time 	NN
+Gal 	4 	2 	1 	10 	1 	appointed 	VBN
+Gal 	4 	2 	1 	11 	1 	of 	IN
+Gal 	4 	2 	1 	12 	1 	the 	DT
+Gal 	4 	2 	1 	13 	1 	father 	NN
+Gal 	4 	2 	1 	14 	0 	.
+Gal 	4 	3 	1 	1 	1 	Even 	RB
+Gal 	4 	3 	1 	2 	1 	so 	RB
+Gal 	4 	3 	1 	3 	1 	we 	PRP
+Gal 	4 	3 	1 	4 	0 	,
+Gal 	4 	3 	1 	5 	1 	when 	WRB
+Gal 	4 	3 	1 	6 	1 	we 	PRP
+Gal 	4 	3 	1 	7 	1 	were 	VBD
+Gal 	4 	3 	1 	8 	1 	children 	NNS
+Gal 	4 	3 	1 	9 	0 	,
+Gal 	4 	3 	1 	10 	1 	were 	VBD
+Gal 	4 	3 	1 	11 	1 	in 	IN
+Gal 	4 	3 	1 	12 	1 	bondage 	NN
+Gal 	4 	3 	1 	13 	1 	under 	IN
+Gal 	4 	3 	1 	14 	1 	the 	DT
+Gal 	4 	3 	1 	15 	1 	elements 	NNS
+Gal 	4 	3 	1 	16 	1 	of 	IN
+Gal 	4 	3 	1 	17 	1 	the 	DT
+Gal 	4 	3 	1 	18 	1 	world 	NN
+Gal 	4 	3 	1 	19 	0 	:
+Gal 	4 	4 	1 	1 	1 	But 	CC
+Gal 	4 	4 	1 	2 	1 	when 	WRB
+Gal 	4 	4 	1 	3 	1 	the 	DT
+Gal 	4 	4 	1 	4 	1 	fulness 	NN
+Gal 	4 	4 	1 	5 	1 	of 	IN
+Gal 	4 	4 	1 	6 	1 	the 	DT
+Gal 	4 	4 	1 	7 	1 	time 	NN
+Gal 	4 	4 	1 	8 	1 	was 	VBD
+Gal 	4 	4 	1 	9 	1 	come 	VB
+Gal 	4 	4 	1 	10 	0 	,
+Gal 	4 	4 	1 	11 	1 	God 	NNP
+Gal 	4 	4 	1 	12 	1 	sent 	NN
+Gal 	4 	4 	1 	13 	1 	forth 	NN
+Gal 	4 	4 	1 	14 	1 	his 	PRP$
+Gal 	4 	4 	1 	15 	1 	Son 	NN
+Gal 	4 	4 	1 	16 	0 	,
+Gal 	4 	4 	1 	17 	1 	made 	VBN
+Gal 	4 	4 	1 	18 	1 	of 	IN
+Gal 	4 	4 	1 	19 	1 	a 	DT
+Gal 	4 	4 	1 	20 	1 	woman 	NN
+Gal 	4 	4 	1 	21 	0 	,
+Gal 	4 	4 	1 	22 	1 	made 	VBN
+Gal 	4 	4 	1 	23 	1 	under 	IN
+Gal 	4 	4 	1 	24 	1 	the 	DT
+Gal 	4 	4 	1 	25 	1 	law 	NN
+Gal 	4 	4 	1 	26 	0 	,
+Gal 	4 	5 	1 	1 	1 	To 	TO
+Gal 	4 	5 	1 	2 	1 	redeem 	NN
+Gal 	4 	5 	1 	3 	1 	them 	PRP
+Gal 	4 	5 	1 	4 	1 	that 	IN
+Gal 	4 	5 	1 	5 	1 	were 	VBD
+Gal 	4 	5 	1 	6 	1 	under 	IN
+Gal 	4 	5 	1 	7 	1 	the 	DT
+Gal 	4 	5 	1 	8 	1 	law 	NN
+Gal 	4 	5 	1 	9 	0 	,
+Gal 	4 	5 	1 	10 	1 	that 	IN
+Gal 	4 	5 	1 	11 	1 	we 	PRP
+Gal 	4 	5 	1 	12 	1 	might 	MD
+Gal 	4 	5 	1 	13 	1 	receive 	NN
+Gal 	4 	5 	1 	14 	1 	the 	DT
+Gal 	4 	5 	1 	15 	1 	adoption 	NN
+Gal 	4 	5 	1 	16 	1 	of 	IN
+Gal 	4 	5 	1 	17 	1 	sons 	NNS
+Gal 	4 	5 	1 	18 	0 	.
+Gal 	4 	6 	1 	1 	1 	And 	CC
+Gal 	4 	6 	1 	2 	1 	because 	IN
+Gal 	4 	6 	1 	3 	1 	ye 	NN
+Gal 	4 	6 	1 	4 	1 	are 	VBP
+Gal 	4 	6 	1 	5 	1 	sons 	NNS
+Gal 	4 	6 	1 	6 	0 	,
+Gal 	4 	6 	1 	7 	1 	God 	NNP
+Gal 	4 	6 	1 	8 	1 	hath 	NN
+Gal 	4 	6 	1 	9 	1 	sent 	NN
+Gal 	4 	6 	1 	10 	1 	forth 	NN
+Gal 	4 	6 	1 	11 	1 	the 	DT
+Gal 	4 	6 	1 	12 	1 	Spirit 	NN
+Gal 	4 	6 	1 	13 	1 	of 	IN
+Gal 	4 	6 	1 	14 	1 	his 	PRP$
+Gal 	4 	6 	1 	15 	1 	Son 	NN
+Gal 	4 	6 	1 	16 	1 	into 	IN
+Gal 	4 	6 	1 	17 	1 	your 	PRP$
+Gal 	4 	6 	1 	18 	1 	hearts 	NNS
+Gal 	4 	6 	1 	19 	0 	,
+Gal 	4 	6 	1 	20 	1 	crying 	VBG
+Gal 	4 	6 	1 	21 	0 	,
+Gal 	4 	6 	1 	22 	1 	Abba 	NN
+Gal 	4 	6 	1 	23 	0 	,
+Gal 	4 	6 	1 	24 	1 	Father 	NN
+Gal 	4 	6 	1 	25 	0 	.
+Gal 	4 	7 	1 	1 	1 	Wherefore 	IN
+Gal 	4 	7 	1 	2 	1 	thou 	NN
+Gal 	4 	7 	1 	3 	1 	art 	NN
+Gal 	4 	7 	1 	4 	1 	no 	DT
+Gal 	4 	7 	1 	5 	1 	more 	RBR
+Gal 	4 	7 	1 	6 	1 	a 	DT
+Gal 	4 	7 	1 	7 	1 	servant 	NN
+Gal 	4 	7 	1 	8 	0 	,
+Gal 	4 	7 	1 	9 	1 	but 	CC
+Gal 	4 	7 	1 	10 	1 	a 	DT
+Gal 	4 	7 	1 	11 	1 	son 	NN
+Gal 	4 	7 	1 	12 	0 	;
+Gal 	4 	7 	1 	13 	1 	and 	CC
+Gal 	4 	7 	1 	14 	1 	if 	IN
+Gal 	4 	7 	1 	15 	1 	a 	DT
+Gal 	4 	7 	1 	16 	1 	son 	NN
+Gal 	4 	7 	1 	17 	0 	,
+Gal 	4 	7 	1 	18 	1 	then 	RB
+Gal 	4 	7 	1 	19 	1 	an 	DT
+Gal 	4 	7 	1 	20 	1 	heir 	NN
+Gal 	4 	7 	1 	21 	1 	of 	IN
+Gal 	4 	7 	1 	22 	1 	God 	NNP
+Gal 	4 	7 	1 	23 	1 	through 	IN
+Gal 	4 	7 	1 	24 	1 	Christ 	NN
+Gal 	4 	7 	1 	25 	0 	.
+Gal 	4 	8 	1 	1 	1 	Howbeit 	NN
+Gal 	4 	8 	1 	2 	1 	then 	RB
+Gal 	4 	8 	1 	3 	0 	,
+Gal 	4 	8 	1 	4 	1 	when 	WRB
+Gal 	4 	8 	1 	5 	1 	ye 	NN
+Gal 	4 	8 	1 	6 	1 	knew 	NNS
+Gal 	4 	8 	1 	7 	1 	not 	RB
+Gal 	4 	8 	1 	8 	1 	God 	NNP
+Gal 	4 	8 	1 	9 	0 	,
+Gal 	4 	8 	1 	10 	1 	ye 	NN
+Gal 	4 	8 	1 	11 	1 	did 	VBD
+Gal 	4 	8 	1 	12 	1 	service 	NN
+Gal 	4 	8 	1 	13 	1 	unto 	NN
+Gal 	4 	8 	1 	14 	1 	them 	PRP
+Gal 	4 	8 	1 	15 	1 	which 	WDT
+Gal 	4 	8 	1 	16 	1 	by 	IN
+Gal 	4 	8 	1 	17 	1 	nature 	NN
+Gal 	4 	8 	1 	18 	1 	are 	VBP
+Gal 	4 	8 	1 	19 	1 	no 	DT
+Gal 	4 	8 	1 	20 	1 	gods 	NNS
+Gal 	4 	8 	1 	21 	0 	.
+Gal 	4 	9 	1 	1 	1 	But 	CC
+Gal 	4 	9 	1 	2 	1 	now 	RB
+Gal 	4 	9 	1 	3 	0 	,
+Gal 	4 	9 	1 	4 	1 	after 	IN
+Gal 	4 	9 	1 	5 	1 	that 	IN
+Gal 	4 	9 	1 	6 	1 	ye 	NN
+Gal 	4 	9 	1 	7 	1 	have 	VB
+Gal 	4 	9 	1 	8 	1 	known 	VBN
+Gal 	4 	9 	1 	9 	1 	God 	NNP
+Gal 	4 	9 	1 	10 	0 	,
+Gal 	4 	9 	1 	11 	1 	or 	CC
+Gal 	4 	9 	1 	12 	1 	rather 	RB
+Gal 	4 	9 	1 	13 	1 	are 	VBP
+Gal 	4 	9 	1 	14 	1 	known 	VBN
+Gal 	4 	9 	1 	15 	1 	of 	IN
+Gal 	4 	9 	1 	16 	1 	God 	NNP
+Gal 	4 	9 	1 	17 	0 	,
+Gal 	4 	9 	1 	18 	1 	how 	WRB
+Gal 	4 	9 	1 	19 	1 	turn 	NN
+Gal 	4 	9 	1 	20 	1 	ye 	NN
+Gal 	4 	9 	1 	21 	1 	again 	RB
+Gal 	4 	9 	1 	22 	1 	to 	TO
+Gal 	4 	9 	1 	23 	1 	the 	DT
+Gal 	4 	9 	1 	24 	1 	weak 	JJ
+Gal 	4 	9 	1 	25 	1 	and 	CC
+Gal 	4 	9 	1 	26 	1 	beggarly 	RB
+Gal 	4 	9 	1 	27 	1 	elements 	NNS
+Gal 	4 	9 	1 	28 	0 	,
+Gal 	4 	9 	1 	29 	1 	whereunto 	NN
+Gal 	4 	9 	1 	30 	1 	ye 	NN
+Gal 	4 	9 	1 	31 	1 	desire 	NN
+Gal 	4 	9 	1 	32 	1 	again 	RB
+Gal 	4 	9 	1 	33 	1 	to 	TO
+Gal 	4 	9 	1 	34 	1 	be 	VB
+Gal 	4 	9 	1 	35 	1 	in 	IN
+Gal 	4 	9 	1 	36 	1 	bondage 	NN
+Gal 	4 	9 	1 	37 	0 	?
+Gal 	4 	10 	1 	1 	1 	Ye 	NN
+Gal 	4 	10 	1 	2 	1 	observe 	NN
+Gal 	4 	10 	1 	3 	1 	days 	NNS
+Gal 	4 	10 	1 	4 	0 	,
+Gal 	4 	10 	1 	5 	1 	and 	CC
+Gal 	4 	10 	1 	6 	1 	months 	NNS
+Gal 	4 	10 	1 	7 	0 	,
+Gal 	4 	10 	1 	8 	1 	and 	CC
+Gal 	4 	10 	1 	9 	1 	times 	NNS
+Gal 	4 	10 	1 	10 	0 	,
+Gal 	4 	10 	1 	11 	1 	and 	CC
+Gal 	4 	10 	1 	12 	1 	years 	NNS
+Gal 	4 	10 	1 	13 	0 	.
+Gal 	4 	11 	1 	1 	1 	I 	PRP
+Gal 	4 	11 	1 	2 	1 	am 	VBP
+Gal 	4 	11 	1 	3 	1 	afraid 	NN
+Gal 	4 	11 	1 	4 	1 	of 	IN
+Gal 	4 	11 	1 	5 	1 	you 	PRP
+Gal 	4 	11 	1 	6 	0 	,
+Gal 	4 	11 	1 	7 	1 	lest 	JJS
+Gal 	4 	11 	1 	8 	1 	I 	PRP
+Gal 	4 	11 	1 	9 	1 	have 	VB
+Gal 	4 	11 	1 	10 	1 	bestowed 	VBN
+Gal 	4 	11 	1 	11 	1 	upon 	IN
+Gal 	4 	11 	1 	12 	1 	you 	PRP
+Gal 	4 	11 	1 	13 	1 	labour 	NN
+Gal 	4 	11 	1 	14 	1 	in 	IN
+Gal 	4 	11 	1 	15 	1 	vain 	NN
+Gal 	4 	11 	1 	16 	0 	.
+Gal 	4 	12 	1 	1 	1 	Brethren 	NNS
+Gal 	4 	12 	1 	2 	0 	,
+Gal 	4 	12 	1 	3 	1 	I 	PRP
+Gal 	4 	12 	1 	4 	1 	beseech 	NN
+Gal 	4 	12 	1 	5 	1 	you 	PRP
+Gal 	4 	12 	1 	6 	0 	,
+Gal 	4 	12 	1 	7 	1 	be 	VB
+Gal 	4 	12 	1 	8 	1 	as 	IN
+Gal 	4 	12 	1 	9 	1 	I 	PRP
+Gal 	4 	12 	1 	10 	1 	am 	VBP
+Gal 	4 	12 	1 	11 	0 	;
+Gal 	4 	12 	1 	12 	1 	for 	IN
+Gal 	4 	12 	1 	13 	1 	I 	PRP
+Gal 	4 	12 	1 	14 	1 	am 	VBP
+Gal 	4 	12 	1 	15 	1 	as 	IN
+Gal 	4 	12 	1 	16 	1 	ye 	NN
+Gal 	4 	12 	1 	17 	1 	are 	VBP
+Gal 	4 	12 	1 	18 	0 	:
+Gal 	4 	12 	1 	19 	1 	ye 	NN
+Gal 	4 	12 	1 	20 	1 	have 	VB
+Gal 	4 	12 	1 	21 	1 	not 	RB
+Gal 	4 	12 	1 	22 	1 	injured 	JJ
+Gal 	4 	12 	1 	23 	1 	me 	PRP
+Gal 	4 	12 	1 	24 	1 	at 	IN
+Gal 	4 	12 	1 	25 	1 	all 	DT
+Gal 	4 	12 	1 	26 	0 	.
+Gal 	4 	13 	1 	1 	1 	Ye 	NN
+Gal 	4 	13 	1 	2 	1 	know 	VB
+Gal 	4 	13 	1 	3 	1 	how 	WRB
+Gal 	4 	13 	1 	4 	1 	through 	IN
+Gal 	4 	13 	1 	5 	1 	infirmity 	NN
+Gal 	4 	13 	1 	6 	1 	of 	IN
+Gal 	4 	13 	1 	7 	1 	the 	DT
+Gal 	4 	13 	1 	8 	1 	flesh 	NN
+Gal 	4 	13 	1 	9 	1 	I 	PRP
+Gal 	4 	13 	1 	10 	1 	preached 	VBN
+Gal 	4 	13 	1 	11 	1 	the 	DT
+Gal 	4 	13 	1 	12 	1 	gospel 	NN
+Gal 	4 	13 	1 	13 	1 	unto 	NN
+Gal 	4 	13 	1 	14 	1 	you 	PRP
+Gal 	4 	13 	1 	15 	1 	at 	IN
+Gal 	4 	13 	1 	16 	1 	the 	DT
+Gal 	4 	13 	1 	17 	1 	first 	RB
+Gal 	4 	13 	1 	18 	0 	.
+Gal 	4 	14 	1 	1 	1 	And 	CC
+Gal 	4 	14 	1 	2 	1 	my 	PRP$
+Gal 	4 	14 	1 	3 	1 	temptation 	NN
+Gal 	4 	14 	1 	4 	1 	which 	WDT
+Gal 	4 	14 	1 	5 	1 	was 	VBD
+Gal 	4 	14 	1 	6 	1 	in 	IN
+Gal 	4 	14 	1 	7 	1 	my 	PRP$
+Gal 	4 	14 	1 	8 	1 	flesh 	NN
+Gal 	4 	14 	1 	9 	1 	ye 	NN
+Gal 	4 	14 	1 	10 	1 	despised 	VBN
+Gal 	4 	14 	1 	11 	1 	not 	RB
+Gal 	4 	14 	1 	12 	0 	,
+Gal 	4 	14 	1 	13 	1 	nor 	CC
+Gal 	4 	14 	1 	14 	1 	rejected 	VBN
+Gal 	4 	14 	1 	15 	0 	;
+Gal 	4 	14 	1 	16 	1 	but 	CC
+Gal 	4 	14 	1 	17 	1 	received 	VBN
+Gal 	4 	14 	1 	18 	1 	me 	PRP
+Gal 	4 	14 	1 	19 	1 	as 	IN
+Gal 	4 	14 	1 	20 	1 	an 	DT
+Gal 	4 	14 	1 	21 	1 	angel 	NN
+Gal 	4 	14 	1 	22 	1 	of 	IN
+Gal 	4 	14 	1 	23 	1 	God 	NNP
+Gal 	4 	14 	1 	24 	0 	,
+Gal 	4 	14 	1 	25 	1 	even 	RB
+Gal 	4 	14 	1 	26 	1 	as 	IN
+Gal 	4 	14 	1 	27 	1 	Christ 	NN
+Gal 	4 	14 	1 	28 	1 	Jesus 	NN
+Gal 	4 	14 	1 	29 	0 	.
+Gal 	4 	15 	1 	1 	1 	Where 	WRB
+Gal 	4 	15 	1 	2 	1 	is 	VBZ
+Gal 	4 	15 	1 	3 	1 	then 	RB
+Gal 	4 	15 	1 	4 	1 	the 	DT
+Gal 	4 	15 	1 	5 	1 	blessedness 	NN
+Gal 	4 	15 	1 	6 	1 	ye 	NN
+Gal 	4 	15 	1 	7 	1 	spake 	NN
+Gal 	4 	15 	1 	8 	1 	of 	IN
+Gal 	4 	15 	1 	9 	0 	?
+Gal 	4 	15 	2 	1 	1 	for 	IN
+Gal 	4 	15 	2 	2 	1 	I 	PRP
+Gal 	4 	15 	2 	3 	1 	bear 	NN
+Gal 	4 	15 	2 	4 	1 	you 	PRP
+Gal 	4 	15 	2 	5 	1 	record 	NN
+Gal 	4 	15 	2 	6 	0 	,
+Gal 	4 	15 	2 	7 	1 	that 	IN
+Gal 	4 	15 	2 	8 	0 	,
+Gal 	4 	15 	2 	9 	1 	if 	IN
+Gal 	4 	15 	2 	10 	1 	it 	PRP
+Gal 	4 	15 	2 	11 	1 	had 	VBD
+Gal 	4 	15 	2 	12 	1 	been 	VBN
+Gal 	4 	15 	2 	13 	1 	possible 	JJ
+Gal 	4 	15 	2 	14 	0 	,
+Gal 	4 	15 	2 	15 	1 	ye 	NN
+Gal 	4 	15 	2 	16 	1 	would 	MD
+Gal 	4 	15 	2 	17 	1 	have 	VB
+Gal 	4 	15 	2 	18 	1 	plucked 	NNS
+Gal 	4 	15 	2 	19 	1 	out 	IN
+Gal 	4 	15 	2 	20 	1 	your 	PRP$
+Gal 	4 	15 	2 	21 	1 	own 	JJ
+Gal 	4 	15 	2 	22 	1 	eyes 	NNS
+Gal 	4 	15 	2 	23 	0 	,
+Gal 	4 	15 	2 	24 	1 	and 	CC
+Gal 	4 	15 	2 	25 	1 	have 	VB
+Gal 	4 	15 	2 	26 	1 	given 	VBN
+Gal 	4 	15 	2 	27 	1 	them 	PRP
+Gal 	4 	15 	2 	28 	1 	to 	TO
+Gal 	4 	15 	2 	29 	1 	me 	PRP
+Gal 	4 	15 	2 	30 	0 	.
+Gal 	4 	16 	1 	1 	1 	Am 	NN
+Gal 	4 	16 	1 	2 	1 	I 	PRP
+Gal 	4 	16 	1 	3 	1 	therefore 	RB
+Gal 	4 	16 	1 	4 	1 	become 	NN
+Gal 	4 	16 	1 	5 	1 	your 	PRP$
+Gal 	4 	16 	1 	6 	1 	enemy 	NN
+Gal 	4 	16 	1 	7 	0 	,
+Gal 	4 	16 	1 	8 	1 	because 	IN
+Gal 	4 	16 	1 	9 	1 	I 	PRP
+Gal 	4 	16 	1 	10 	1 	tell 	NN
+Gal 	4 	16 	1 	11 	1 	you 	PRP
+Gal 	4 	16 	1 	12 	1 	the 	DT
+Gal 	4 	16 	1 	13 	1 	truth 	NN
+Gal 	4 	16 	1 	14 	0 	?
+Gal 	4 	17 	1 	1 	1 	They 	PRP
+Gal 	4 	17 	1 	2 	1 	zealously 	RB
+Gal 	4 	17 	1 	3 	1 	affect 	NN
+Gal 	4 	17 	1 	4 	1 	you 	PRP
+Gal 	4 	17 	1 	5 	0 	,
+Gal 	4 	17 	1 	6 	1 	but 	CC
+Gal 	4 	17 	1 	7 	1 	not 	RB
+Gal 	4 	17 	1 	8 	1 	well 	RB
+Gal 	4 	17 	1 	9 	0 	;
+Gal 	4 	17 	1 	10 	1 	yea 	NN
+Gal 	4 	17 	1 	11 	0 	,
+Gal 	4 	17 	1 	12 	1 	they 	PRP
+Gal 	4 	17 	1 	13 	1 	would 	MD
+Gal 	4 	17 	1 	14 	1 	exclude 	NN
+Gal 	4 	17 	1 	15 	1 	you 	PRP
+Gal 	4 	17 	1 	16 	0 	,
+Gal 	4 	17 	1 	17 	1 	that 	IN
+Gal 	4 	17 	1 	18 	1 	ye 	NN
+Gal 	4 	17 	1 	19 	1 	might 	MD
+Gal 	4 	17 	1 	20 	1 	affect 	NN
+Gal 	4 	17 	1 	21 	1 	them 	PRP
+Gal 	4 	17 	1 	22 	0 	.
+Gal 	4 	18 	1 	1 	1 	But 	CC
+Gal 	4 	18 	1 	2 	1 	it 	PRP
+Gal 	4 	18 	1 	3 	1 	is 	VBZ
+Gal 	4 	18 	1 	4 	1 	good 	JJ
+Gal 	4 	18 	1 	5 	1 	to 	TO
+Gal 	4 	18 	1 	6 	1 	be 	VB
+Gal 	4 	18 	1 	7 	1 	zealously 	RB
+Gal 	4 	18 	1 	8 	1 	affected 	JJ
+Gal 	4 	18 	1 	9 	1 	always 	RB
+Gal 	4 	18 	1 	10 	1 	in 	IN
+Gal 	4 	18 	1 	11 	1 	a 	DT
+Gal 	4 	18 	1 	12 	1 	good 	JJ
+Gal 	4 	18 	1 	13 	1 	thing 	NN
+Gal 	4 	18 	1 	14 	0 	,
+Gal 	4 	18 	1 	15 	1 	and 	CC
+Gal 	4 	18 	1 	16 	1 	not 	RB
+Gal 	4 	18 	1 	17 	1 	only 	RB
+Gal 	4 	18 	1 	18 	1 	when 	WRB
+Gal 	4 	18 	1 	19 	1 	I 	PRP
+Gal 	4 	18 	1 	20 	1 	am 	VBP
+Gal 	4 	18 	1 	21 	1 	present 	NN
+Gal 	4 	18 	1 	22 	1 	with 	IN
+Gal 	4 	18 	1 	23 	1 	you 	PRP
+Gal 	4 	18 	1 	24 	0 	.
+Gal 	4 	19 	1 	1 	1 	My 	PRP$
+Gal 	4 	19 	1 	2 	1 	little 	JJ
+Gal 	4 	19 	1 	3 	1 	children 	NNS
+Gal 	4 	19 	1 	4 	0 	,
+Gal 	4 	19 	1 	5 	1 	of 	IN
+Gal 	4 	19 	1 	6 	1 	whom 	WP
+Gal 	4 	19 	1 	7 	1 	I 	PRP
+Gal 	4 	19 	1 	8 	1 	travail 	NN
+Gal 	4 	19 	1 	9 	1 	in 	IN
+Gal 	4 	19 	1 	10 	1 	birth 	NN
+Gal 	4 	19 	1 	11 	1 	again 	RB
+Gal 	4 	19 	1 	12 	1 	until 	IN
+Gal 	4 	19 	1 	13 	1 	Christ 	NN
+Gal 	4 	19 	1 	14 	1 	be 	VB
+Gal 	4 	19 	1 	15 	1 	formed 	VBN
+Gal 	4 	19 	1 	16 	1 	in 	IN
+Gal 	4 	19 	1 	17 	1 	you 	PRP
+Gal 	4 	19 	1 	18 	0 	,
+Gal 	4 	20 	1 	1 	1 	I 	PRP
+Gal 	4 	20 	1 	2 	1 	desire 	NN
+Gal 	4 	20 	1 	3 	1 	to 	TO
+Gal 	4 	20 	1 	4 	1 	be 	VB
+Gal 	4 	20 	1 	5 	1 	present 	NN
+Gal 	4 	20 	1 	6 	1 	with 	IN
+Gal 	4 	20 	1 	7 	1 	you 	PRP
+Gal 	4 	20 	1 	8 	1 	now 	RB
+Gal 	4 	20 	1 	9 	0 	,
+Gal 	4 	20 	1 	10 	1 	and 	CC
+Gal 	4 	20 	1 	11 	1 	to 	TO
+Gal 	4 	20 	1 	12 	1 	change 	NN
+Gal 	4 	20 	1 	13 	1 	my 	PRP$
+Gal 	4 	20 	1 	14 	1 	voice 	NN
+Gal 	4 	20 	1 	15 	0 	;
+Gal 	4 	20 	1 	16 	1 	for 	IN
+Gal 	4 	20 	1 	17 	1 	I 	PRP
+Gal 	4 	20 	1 	18 	1 	stand 	NN
+Gal 	4 	20 	1 	19 	1 	in 	IN
+Gal 	4 	20 	1 	20 	1 	doubt 	NN
+Gal 	4 	20 	1 	21 	1 	of 	IN
+Gal 	4 	20 	1 	22 	1 	you 	PRP
+Gal 	4 	20 	1 	23 	0 	.
+Gal 	4 	21 	1 	1 	1 	Tell 	VB
+Gal 	4 	21 	1 	2 	1 	me 	PRP
+Gal 	4 	21 	1 	3 	0 	,
+Gal 	4 	21 	1 	4 	1 	ye 	NN
+Gal 	4 	21 	1 	5 	1 	that 	IN
+Gal 	4 	21 	1 	6 	1 	desire 	NN
+Gal 	4 	21 	1 	7 	1 	to 	TO
+Gal 	4 	21 	1 	8 	1 	be 	VB
+Gal 	4 	21 	1 	9 	1 	under 	IN
+Gal 	4 	21 	1 	10 	1 	the 	DT
+Gal 	4 	21 	1 	11 	1 	law 	NN
+Gal 	4 	21 	1 	12 	0 	,
+Gal 	4 	21 	1 	13 	1 	do 	VB
+Gal 	4 	21 	1 	14 	1 	ye 	NN
+Gal 	4 	21 	1 	15 	1 	not 	RB
+Gal 	4 	21 	1 	16 	1 	hear 	NN
+Gal 	4 	21 	1 	17 	1 	the 	DT
+Gal 	4 	21 	1 	18 	1 	law 	NN
+Gal 	4 	21 	1 	19 	0 	?
+Gal 	4 	22 	1 	1 	1 	For 	IN
+Gal 	4 	22 	1 	2 	1 	it 	PRP
+Gal 	4 	22 	1 	3 	1 	is 	VBZ
+Gal 	4 	22 	1 	4 	1 	written 	VBN
+Gal 	4 	22 	1 	5 	0 	,
+Gal 	4 	22 	1 	6 	1 	that 	IN
+Gal 	4 	22 	1 	7 	1 	Abraham 	NNP
+Gal 	4 	22 	1 	8 	1 	had 	VBD
+Gal 	4 	22 	1 	9 	1 	two 	CD
+Gal 	4 	22 	1 	10 	1 	sons 	NNS
+Gal 	4 	22 	1 	11 	0 	,
+Gal 	4 	22 	1 	12 	1 	the 	DT
+Gal 	4 	22 	1 	13 	1 	one 	CD
+Gal 	4 	22 	1 	14 	1 	by 	IN
+Gal 	4 	22 	1 	15 	1 	a 	DT
+Gal 	4 	22 	1 	16 	1 	bondmaid 	NN
+Gal 	4 	22 	1 	17 	0 	,
+Gal 	4 	22 	1 	18 	1 	the 	DT
+Gal 	4 	22 	1 	19 	1 	other 	JJ
+Gal 	4 	22 	1 	20 	1 	by 	IN
+Gal 	4 	22 	1 	21 	1 	a 	DT
+Gal 	4 	22 	1 	22 	1 	freewoman 	NN
+Gal 	4 	22 	1 	23 	0 	.
+Gal 	4 	23 	1 	1 	1 	But 	CC
+Gal 	4 	23 	1 	2 	1 	he 	PRP
+Gal 	4 	23 	1 	3 	1 	who 	WP
+Gal 	4 	23 	1 	4 	1 	was 	VBD
+Gal 	4 	23 	1 	5 	1 	of 	IN
+Gal 	4 	23 	1 	6 	1 	the 	DT
+Gal 	4 	23 	1 	7 	1 	bondwoman 	NN
+Gal 	4 	23 	1 	8 	1 	was 	VBD
+Gal 	4 	23 	1 	9 	1 	born 	NN
+Gal 	4 	23 	1 	10 	1 	after 	IN
+Gal 	4 	23 	1 	11 	1 	the 	DT
+Gal 	4 	23 	1 	12 	1 	flesh 	NN
+Gal 	4 	23 	1 	13 	0 	;
+Gal 	4 	23 	1 	14 	1 	but 	CC
+Gal 	4 	23 	1 	15 	1 	he 	PRP
+Gal 	4 	23 	1 	16 	1 	of 	IN
+Gal 	4 	23 	1 	17 	1 	the 	DT
+Gal 	4 	23 	1 	18 	1 	freewoman 	NN
+Gal 	4 	23 	1 	19 	1 	was 	VBD
+Gal 	4 	23 	1 	20 	1 	by 	IN
+Gal 	4 	23 	1 	21 	1 	promise 	NN
+Gal 	4 	23 	1 	22 	0 	.
+Gal 	4 	24 	1 	1 	1 	Which 	WDT
+Gal 	4 	24 	1 	2 	1 	things 	NNS
+Gal 	4 	24 	1 	3 	1 	are 	VBP
+Gal 	4 	24 	1 	4 	1 	an 	DT
+Gal 	4 	24 	1 	5 	1 	allegory 	NN
+Gal 	4 	24 	1 	6 	0 	:
+Gal 	4 	24 	1 	7 	1 	for 	IN
+Gal 	4 	24 	1 	8 	1 	these 	DT
+Gal 	4 	24 	1 	9 	1 	are 	VBP
+Gal 	4 	24 	1 	10 	1 	the 	DT
+Gal 	4 	24 	1 	11 	1 	two 	CD
+Gal 	4 	24 	1 	12 	1 	covenants 	NNS
+Gal 	4 	24 	1 	13 	0 	;
+Gal 	4 	24 	1 	14 	1 	the 	DT
+Gal 	4 	24 	1 	15 	1 	one 	CD
+Gal 	4 	24 	1 	16 	1 	from 	IN
+Gal 	4 	24 	1 	17 	1 	the 	DT
+Gal 	4 	24 	1 	18 	1 	mount 	NN
+Gal 	4 	24 	1 	19 	1 	Sinai 	NN
+Gal 	4 	24 	1 	20 	0 	,
+Gal 	4 	24 	1 	21 	1 	which 	WDT
+Gal 	4 	24 	1 	22 	1 	gendereth 	NNS
+Gal 	4 	24 	1 	23 	1 	to 	TO
+Gal 	4 	24 	1 	24 	1 	bondage 	NN
+Gal 	4 	24 	1 	25 	0 	,
+Gal 	4 	24 	1 	26 	1 	which 	WDT
+Gal 	4 	24 	1 	27 	1 	is 	VBZ
+Gal 	4 	24 	1 	28 	1 	Agar 	NN
+Gal 	4 	24 	1 	29 	0 	.
+Gal 	4 	25 	1 	1 	1 	For 	IN
+Gal 	4 	25 	1 	2 	1 	this 	DT
+Gal 	4 	25 	1 	3 	1 	Agar 	NN
+Gal 	4 	25 	1 	4 	1 	is 	VBZ
+Gal 	4 	25 	1 	5 	1 	mount 	NN
+Gal 	4 	25 	1 	6 	1 	Sinai 	NN
+Gal 	4 	25 	1 	7 	1 	in 	IN
+Gal 	4 	25 	1 	8 	1 	Arabia 	NNP
+Gal 	4 	25 	1 	9 	0 	,
+Gal 	4 	25 	1 	10 	1 	and 	CC
+Gal 	4 	25 	1 	11 	1 	answereth 	NNS
+Gal 	4 	25 	1 	12 	1 	to 	TO
+Gal 	4 	25 	1 	13 	1 	Jerusalem 	NN
+Gal 	4 	25 	1 	14 	1 	which 	WDT
+Gal 	4 	25 	1 	15 	1 	now 	RB
+Gal 	4 	25 	1 	16 	1 	is 	VBZ
+Gal 	4 	25 	1 	17 	0 	,
+Gal 	4 	25 	1 	18 	1 	and 	CC
+Gal 	4 	25 	1 	19 	1 	is 	VBZ
+Gal 	4 	25 	1 	20 	1 	in 	IN
+Gal 	4 	25 	1 	21 	1 	bondage 	NN
+Gal 	4 	25 	1 	22 	1 	with 	IN
+Gal 	4 	25 	1 	23 	1 	her 	PRP$
+Gal 	4 	25 	1 	24 	1 	children 	NNS
+Gal 	4 	25 	1 	25 	0 	.
+Gal 	4 	26 	1 	1 	1 	But 	CC
+Gal 	4 	26 	1 	2 	1 	Jerusalem 	NN
+Gal 	4 	26 	1 	3 	1 	which 	WDT
+Gal 	4 	26 	1 	4 	1 	is 	VBZ
+Gal 	4 	26 	1 	5 	1 	above 	IN
+Gal 	4 	26 	1 	6 	1 	is 	VBZ
+Gal 	4 	26 	1 	7 	1 	free 	JJ
+Gal 	4 	26 	1 	8 	0 	,
+Gal 	4 	26 	1 	9 	1 	which 	WDT
+Gal 	4 	26 	1 	10 	1 	is 	VBZ
+Gal 	4 	26 	1 	11 	1 	the 	DT
+Gal 	4 	26 	1 	12 	1 	mother 	NN
+Gal 	4 	26 	1 	13 	1 	of 	IN
+Gal 	4 	26 	1 	14 	1 	us 	PRP
+Gal 	4 	26 	1 	15 	1 	all 	DT
+Gal 	4 	26 	1 	16 	0 	.
+Gal 	4 	27 	1 	1 	1 	For 	IN
+Gal 	4 	27 	1 	2 	1 	it 	PRP
+Gal 	4 	27 	1 	3 	1 	is 	VBZ
+Gal 	4 	27 	1 	4 	1 	written 	VBN
+Gal 	4 	27 	1 	5 	0 	,
+Gal 	4 	27 	1 	6 	1 	Rejoice 	NN
+Gal 	4 	27 	1 	7 	0 	,
+Gal 	4 	27 	1 	8 	1 	thou 	NN
+Gal 	4 	27 	1 	9 	1 	barren 	NNS
+Gal 	4 	27 	1 	10 	1 	that 	IN
+Gal 	4 	27 	1 	11 	1 	bearest 	NN
+Gal 	4 	27 	1 	12 	1 	not 	RB
+Gal 	4 	27 	1 	13 	0 	;
+Gal 	4 	27 	1 	14 	1 	break 	NN
+Gal 	4 	27 	1 	15 	1 	forth 	NN
+Gal 	4 	27 	1 	16 	1 	and 	CC
+Gal 	4 	27 	1 	17 	1 	cry 	NN
+Gal 	4 	27 	1 	18 	0 	,
+Gal 	4 	27 	1 	19 	1 	thou 	NN
+Gal 	4 	27 	1 	20 	1 	that 	IN
+Gal 	4 	27 	1 	21 	1 	travailest 	NN
+Gal 	4 	27 	1 	22 	1 	not 	RB
+Gal 	4 	27 	1 	23 	0 	:
+Gal 	4 	27 	1 	24 	1 	for 	IN
+Gal 	4 	27 	1 	25 	1 	the 	DT
+Gal 	4 	27 	1 	26 	1 	desolate 	NN
+Gal 	4 	27 	1 	27 	1 	hath 	NN
+Gal 	4 	27 	1 	28 	1 	many 	JJ
+Gal 	4 	27 	1 	29 	1 	more 	RBR
+Gal 	4 	27 	1 	30 	1 	children 	NNS
+Gal 	4 	27 	1 	31 	1 	than 	IN
+Gal 	4 	27 	1 	32 	1 	she 	PRP
+Gal 	4 	27 	1 	33 	1 	which 	WDT
+Gal 	4 	27 	1 	34 	1 	hath 	NN
+Gal 	4 	27 	1 	35 	1 	an 	DT
+Gal 	4 	27 	1 	36 	1 	husband 	NN
+Gal 	4 	27 	1 	37 	0 	.
+Gal 	4 	28 	1 	1 	1 	Now 	RB
+Gal 	4 	28 	1 	2 	1 	we 	PRP
+Gal 	4 	28 	1 	3 	0 	,
+Gal 	4 	28 	1 	4 	1 	brethren 	NNS
+Gal 	4 	28 	1 	5 	0 	,
+Gal 	4 	28 	1 	6 	1 	as 	IN
+Gal 	4 	28 	1 	7 	1 	Isaac 	NN
+Gal 	4 	28 	1 	8 	1 	was 	VBD
+Gal 	4 	28 	1 	9 	0 	,
+Gal 	4 	28 	1 	10 	1 	are 	VBP
+Gal 	4 	28 	1 	11 	1 	the 	DT
+Gal 	4 	28 	1 	12 	1 	children 	NNS
+Gal 	4 	28 	1 	13 	1 	of 	IN
+Gal 	4 	28 	1 	14 	1 	promise 	NN
+Gal 	4 	28 	1 	15 	0 	.
+Gal 	4 	29 	1 	1 	1 	But 	CC
+Gal 	4 	29 	1 	2 	1 	as 	IN
+Gal 	4 	29 	1 	3 	1 	then 	RB
+Gal 	4 	29 	1 	4 	1 	he 	PRP
+Gal 	4 	29 	1 	5 	1 	that 	IN
+Gal 	4 	29 	1 	6 	1 	was 	VBD
+Gal 	4 	29 	1 	7 	1 	born 	NN
+Gal 	4 	29 	1 	8 	1 	after 	IN
+Gal 	4 	29 	1 	9 	1 	the 	DT
+Gal 	4 	29 	1 	10 	1 	flesh 	NN
+Gal 	4 	29 	1 	11 	1 	persecuted 	VBN
+Gal 	4 	29 	1 	12 	1 	him 	PRP
+Gal 	4 	29 	1 	13 	1 	that 	IN
+Gal 	4 	29 	1 	14 	1 	was 	VBD
+Gal 	4 	29 	1 	15 	1 	born 	NN
+Gal 	4 	29 	1 	16 	1 	after 	IN
+Gal 	4 	29 	1 	17 	1 	the 	DT
+Gal 	4 	29 	1 	18 	1 	Spirit 	NN
+Gal 	4 	29 	1 	19 	0 	,
+Gal 	4 	29 	1 	20 	1 	even 	RB
+Gal 	4 	29 	1 	21 	1 	so 	RB
+Gal 	4 	29 	1 	22 	1 	it 	PRP
+Gal 	4 	29 	1 	23 	1 	is 	VBZ
+Gal 	4 	29 	1 	24 	1 	now 	RB
+Gal 	4 	29 	1 	25 	0 	.
+Gal 	4 	30 	1 	1 	1 	Nevertheless 	RB
+Gal 	4 	30 	1 	2 	1 	what 	WP
+Gal 	4 	30 	1 	3 	1 	saith 	NN
+Gal 	4 	30 	1 	4 	1 	the 	DT
+Gal 	4 	30 	1 	5 	1 	scripture 	NN
+Gal 	4 	30 	1 	6 	0 	?
+Gal 	4 	30 	2 	1 	1 	Cast 	NN
+Gal 	4 	30 	2 	2 	1 	out 	IN
+Gal 	4 	30 	2 	3 	1 	the 	DT
+Gal 	4 	30 	2 	4 	1 	bondwoman 	NN
+Gal 	4 	30 	2 	5 	1 	and 	CC
+Gal 	4 	30 	2 	6 	1 	her 	PRP$
+Gal 	4 	30 	2 	7 	1 	son 	NN
+Gal 	4 	30 	2 	8 	0 	:
+Gal 	4 	30 	2 	9 	1 	for 	IN
+Gal 	4 	30 	2 	10 	1 	the 	DT
+Gal 	4 	30 	2 	11 	1 	son 	NN
+Gal 	4 	30 	2 	12 	1 	of 	IN
+Gal 	4 	30 	2 	13 	1 	the 	DT
+Gal 	4 	30 	2 	14 	1 	bondwoman 	NN
+Gal 	4 	30 	2 	15 	1 	shall 	MD
+Gal 	4 	30 	2 	16 	1 	not 	RB
+Gal 	4 	30 	2 	17 	1 	be 	VB
+Gal 	4 	30 	2 	18 	1 	heir 	NN
+Gal 	4 	30 	2 	19 	1 	with 	IN
+Gal 	4 	30 	2 	20 	1 	the 	DT
+Gal 	4 	30 	2 	21 	1 	son 	NN
+Gal 	4 	30 	2 	22 	1 	of 	IN
+Gal 	4 	30 	2 	23 	1 	the 	DT
+Gal 	4 	30 	2 	24 	1 	freewoman 	NN
+Gal 	4 	30 	2 	25 	0 	.
+Gal 	4 	31 	1 	1 	1 	So 	RB
+Gal 	4 	31 	1 	2 	1 	then 	RB
+Gal 	4 	31 	1 	3 	0 	,
+Gal 	4 	31 	1 	4 	1 	brethren 	NNS
+Gal 	4 	31 	1 	5 	0 	,
+Gal 	4 	31 	1 	6 	1 	we 	PRP
+Gal 	4 	31 	1 	7 	1 	are 	VBP
+Gal 	4 	31 	1 	8 	1 	not 	RB
+Gal 	4 	31 	1 	9 	1 	children 	NNS
+Gal 	4 	31 	1 	10 	1 	of 	IN
+Gal 	4 	31 	1 	11 	1 	the 	DT
+Gal 	4 	31 	1 	12 	1 	bondwoman 	NN
+Gal 	4 	31 	1 	13 	0 	,
+Gal 	4 	31 	1 	14 	1 	but 	CC
+Gal 	4 	31 	1 	15 	1 	of 	IN
+Gal 	4 	31 	1 	16 	1 	the 	DT
+Gal 	4 	31 	1 	17 	1 	free 	JJ
+Gal 	4 	31 	1 	18 	0 	.
+Gal 	5 	1 	1 	1 	1 	Stand 	NN
+Gal 	5 	1 	1 	2 	1 	fast 	NN
+Gal 	5 	1 	1 	3 	1 	therefore 	RB
+Gal 	5 	1 	1 	4 	1 	in 	IN
+Gal 	5 	1 	1 	5 	1 	the 	DT
+Gal 	5 	1 	1 	6 	1 	liberty 	NN
+Gal 	5 	1 	1 	7 	1 	wherewith 	NN
+Gal 	5 	1 	1 	8 	1 	Christ 	NN
+Gal 	5 	1 	1 	9 	1 	hath 	NN
+Gal 	5 	1 	1 	10 	1 	made 	VBN
+Gal 	5 	1 	1 	11 	1 	us 	PRP
+Gal 	5 	1 	1 	12 	1 	free 	JJ
+Gal 	5 	1 	1 	13 	0 	,
+Gal 	5 	1 	1 	14 	1 	and 	CC
+Gal 	5 	1 	1 	15 	1 	be 	VB
+Gal 	5 	1 	1 	16 	1 	not 	RB
+Gal 	5 	1 	1 	17 	1 	entangled 	VBN
+Gal 	5 	1 	1 	18 	1 	again 	RB
+Gal 	5 	1 	1 	19 	1 	with 	IN
+Gal 	5 	1 	1 	20 	1 	the 	DT
+Gal 	5 	1 	1 	21 	1 	yoke 	NN
+Gal 	5 	1 	1 	22 	1 	of 	IN
+Gal 	5 	1 	1 	23 	1 	bondage 	NN
+Gal 	5 	1 	1 	24 	0 	.
+Gal 	5 	2 	1 	1 	1 	Behold 	NN
+Gal 	5 	2 	1 	2 	0 	,
+Gal 	5 	2 	1 	3 	1 	I 	PRP
+Gal 	5 	2 	1 	4 	1 	Paul 	NNP
+Gal 	5 	2 	1 	5 	1 	say 	VB
+Gal 	5 	2 	1 	6 	1 	unto 	NN
+Gal 	5 	2 	1 	7 	1 	you 	PRP
+Gal 	5 	2 	1 	8 	0 	,
+Gal 	5 	2 	1 	9 	1 	that 	IN
+Gal 	5 	2 	1 	10 	1 	if 	IN
+Gal 	5 	2 	1 	11 	1 	ye 	NN
+Gal 	5 	2 	1 	12 	1 	be 	VB
+Gal 	5 	2 	1 	13 	1 	circumcised 	VBN
+Gal 	5 	2 	1 	14 	0 	,
+Gal 	5 	2 	1 	15 	1 	Christ 	NN
+Gal 	5 	2 	1 	16 	1 	shall 	MD
+Gal 	5 	2 	1 	17 	1 	profit 	NN
+Gal 	5 	2 	1 	18 	1 	you 	PRP
+Gal 	5 	2 	1 	19 	1 	nothing 	NN
+Gal 	5 	2 	1 	20 	0 	.
+Gal 	5 	3 	1 	1 	1 	For 	IN
+Gal 	5 	3 	1 	2 	1 	I 	PRP
+Gal 	5 	3 	1 	3 	1 	testify 	NN
+Gal 	5 	3 	1 	4 	1 	again 	RB
+Gal 	5 	3 	1 	5 	1 	to 	TO
+Gal 	5 	3 	1 	6 	1 	every 	DT
+Gal 	5 	3 	1 	7 	1 	man 	NN
+Gal 	5 	3 	1 	8 	1 	that 	IN
+Gal 	5 	3 	1 	9 	1 	is 	VBZ
+Gal 	5 	3 	1 	10 	1 	circumcised 	VBN
+Gal 	5 	3 	1 	11 	0 	,
+Gal 	5 	3 	1 	12 	1 	that 	IN
+Gal 	5 	3 	1 	13 	1 	he 	PRP
+Gal 	5 	3 	1 	14 	1 	is 	VBZ
+Gal 	5 	3 	1 	15 	1 	a 	DT
+Gal 	5 	3 	1 	16 	1 	debtor 	NN
+Gal 	5 	3 	1 	17 	1 	to 	TO
+Gal 	5 	3 	1 	18 	1 	do 	VB
+Gal 	5 	3 	1 	19 	1 	the 	DT
+Gal 	5 	3 	1 	20 	1 	whole 	JJ
+Gal 	5 	3 	1 	21 	1 	law 	NN
+Gal 	5 	3 	1 	22 	0 	.
+Gal 	5 	4 	1 	1 	1 	Christ 	NN
+Gal 	5 	4 	1 	2 	1 	is 	VBZ
+Gal 	5 	4 	1 	3 	1 	become 	NN
+Gal 	5 	4 	1 	4 	1 	of 	IN
+Gal 	5 	4 	1 	5 	1 	no 	DT
+Gal 	5 	4 	1 	6 	1 	effect 	NN
+Gal 	5 	4 	1 	7 	1 	unto 	NN
+Gal 	5 	4 	1 	8 	1 	you 	PRP
+Gal 	5 	4 	1 	9 	0 	,
+Gal 	5 	4 	1 	10 	1 	whosoever 	NN
+Gal 	5 	4 	1 	11 	1 	of 	IN
+Gal 	5 	4 	1 	12 	1 	you 	PRP
+Gal 	5 	4 	1 	13 	1 	are 	VBP
+Gal 	5 	4 	1 	14 	1 	justified 	JJ
+Gal 	5 	4 	1 	15 	1 	by 	IN
+Gal 	5 	4 	1 	16 	1 	the 	DT
+Gal 	5 	4 	1 	17 	1 	law 	NN
+Gal 	5 	4 	1 	18 	0 	;
+Gal 	5 	4 	1 	19 	1 	ye 	NN
+Gal 	5 	4 	1 	20 	1 	are 	VBP
+Gal 	5 	4 	1 	21 	1 	fallen 	VBN
+Gal 	5 	4 	1 	22 	1 	from 	IN
+Gal 	5 	4 	1 	23 	1 	grace 	NN
+Gal 	5 	4 	1 	24 	0 	.
+Gal 	5 	5 	1 	1 	1 	For 	IN
+Gal 	5 	5 	1 	2 	1 	we 	PRP
+Gal 	5 	5 	1 	3 	1 	through 	IN
+Gal 	5 	5 	1 	4 	1 	the 	DT
+Gal 	5 	5 	1 	5 	1 	Spirit 	NN
+Gal 	5 	5 	1 	6 	1 	wait 	NN
+Gal 	5 	5 	1 	7 	1 	for 	IN
+Gal 	5 	5 	1 	8 	1 	the 	DT
+Gal 	5 	5 	1 	9 	1 	hope 	NN
+Gal 	5 	5 	1 	10 	1 	of 	IN
+Gal 	5 	5 	1 	11 	1 	righteousness 	NN
+Gal 	5 	5 	1 	12 	1 	by 	IN
+Gal 	5 	5 	1 	13 	1 	faith 	NN
+Gal 	5 	5 	1 	14 	0 	.
+Gal 	5 	6 	1 	1 	1 	For 	IN
+Gal 	5 	6 	1 	2 	1 	in 	IN
+Gal 	5 	6 	1 	3 	1 	Jesus 	NN
+Gal 	5 	6 	1 	4 	1 	Christ 	NN
+Gal 	5 	6 	1 	5 	1 	neither 	DT
+Gal 	5 	6 	1 	6 	1 	circumcision 	NN
+Gal 	5 	6 	1 	7 	1 	availeth 	NNS
+Gal 	5 	6 	1 	8 	1 	any 	DT
+Gal 	5 	6 	1 	9 	1 	thing 	NN
+Gal 	5 	6 	1 	10 	0 	,
+Gal 	5 	6 	1 	11 	1 	nor 	CC
+Gal 	5 	6 	1 	12 	1 	uncircumcision 	NN
+Gal 	5 	6 	1 	13 	0 	;
+Gal 	5 	6 	1 	14 	1 	but 	CC
+Gal 	5 	6 	1 	15 	1 	faith 	NN
+Gal 	5 	6 	1 	16 	1 	which 	WDT
+Gal 	5 	6 	1 	17 	1 	worketh 	NNS
+Gal 	5 	6 	1 	18 	1 	by 	IN
+Gal 	5 	6 	1 	19 	1 	love 	NN
+Gal 	5 	6 	1 	20 	0 	.
+Gal 	5 	7 	1 	1 	1 	Ye 	NN
+Gal 	5 	7 	1 	2 	1 	did 	VBD
+Gal 	5 	7 	1 	3 	1 	run 	VB
+Gal 	5 	7 	1 	4 	1 	well 	RB
+Gal 	5 	7 	1 	5 	0 	;
+Gal 	5 	7 	1 	6 	1 	who 	WP
+Gal 	5 	7 	1 	7 	1 	did 	VBD
+Gal 	5 	7 	1 	8 	1 	hinder 	NN
+Gal 	5 	7 	1 	9 	1 	you 	PRP
+Gal 	5 	7 	1 	10 	1 	that 	IN
+Gal 	5 	7 	1 	11 	1 	ye 	NN
+Gal 	5 	7 	1 	12 	1 	should 	MD
+Gal 	5 	7 	1 	13 	1 	not 	RB
+Gal 	5 	7 	1 	14 	1 	obey 	NN
+Gal 	5 	7 	1 	15 	1 	the 	DT
+Gal 	5 	7 	1 	16 	1 	truth 	NN
+Gal 	5 	7 	1 	17 	0 	?
+Gal 	5 	8 	1 	1 	1 	This 	DT
+Gal 	5 	8 	1 	2 	1 	persuasion 	NN
+Gal 	5 	8 	1 	3 	1 	cometh 	NNS
+Gal 	5 	8 	1 	4 	1 	not 	RB
+Gal 	5 	8 	1 	5 	1 	of 	IN
+Gal 	5 	8 	1 	6 	1 	him 	PRP
+Gal 	5 	8 	1 	7 	1 	that 	IN
+Gal 	5 	8 	1 	8 	1 	calleth 	NNS
+Gal 	5 	8 	1 	9 	1 	you 	PRP
+Gal 	5 	8 	1 	10 	0 	.
+Gal 	5 	9 	1 	1 	1 	A 	DT
+Gal 	5 	9 	1 	2 	1 	little 	JJ
+Gal 	5 	9 	1 	3 	1 	leaven 	RB
+Gal 	5 	9 	1 	4 	1 	leaveneth 	NN
+Gal 	5 	9 	1 	5 	1 	the 	DT
+Gal 	5 	9 	1 	6 	1 	whole 	JJ
+Gal 	5 	9 	1 	7 	1 	lump 	NN
+Gal 	5 	9 	1 	8 	0 	.
+Gal 	5 	10 	1 	1 	1 	I 	PRP
+Gal 	5 	10 	1 	2 	1 	have 	VB
+Gal 	5 	10 	1 	3 	1 	confidence 	NN
+Gal 	5 	10 	1 	4 	1 	in 	IN
+Gal 	5 	10 	1 	5 	1 	you 	PRP
+Gal 	5 	10 	1 	6 	1 	through 	IN
+Gal 	5 	10 	1 	7 	1 	the 	DT
+Gal 	5 	10 	1 	8 	1 	Lord 	NN
+Gal 	5 	10 	1 	9 	0 	,
+Gal 	5 	10 	1 	10 	1 	that 	IN
+Gal 	5 	10 	1 	11 	1 	ye 	NN
+Gal 	5 	10 	1 	12 	1 	will 	MD
+Gal 	5 	10 	1 	13 	1 	be 	VB
+Gal 	5 	10 	1 	14 	1 	none 	NN
+Gal 	5 	10 	1 	15 	1 	otherwise 	RB
+Gal 	5 	10 	1 	16 	1 	minded 	VBN
+Gal 	5 	10 	1 	17 	0 	:
+Gal 	5 	10 	1 	18 	1 	but 	CC
+Gal 	5 	10 	1 	19 	1 	he 	PRP
+Gal 	5 	10 	1 	20 	1 	that 	IN
+Gal 	5 	10 	1 	21 	1 	troubleth 	NNS
+Gal 	5 	10 	1 	22 	1 	you 	PRP
+Gal 	5 	10 	1 	23 	1 	shall 	MD
+Gal 	5 	10 	1 	24 	1 	bear 	NN
+Gal 	5 	10 	1 	25 	1 	his 	PRP$
+Gal 	5 	10 	1 	26 	1 	judgment 	NN
+Gal 	5 	10 	1 	27 	0 	,
+Gal 	5 	10 	1 	28 	1 	whosoever 	NN
+Gal 	5 	10 	1 	29 	1 	he 	PRP
+Gal 	5 	10 	1 	30 	1 	be 	VB
+Gal 	5 	10 	1 	31 	0 	.
+Gal 	5 	11 	1 	1 	1 	And 	CC
+Gal 	5 	11 	1 	2 	1 	I 	PRP
+Gal 	5 	11 	1 	3 	0 	,
+Gal 	5 	11 	1 	4 	1 	brethren 	NNS
+Gal 	5 	11 	1 	5 	0 	,
+Gal 	5 	11 	1 	6 	1 	if 	IN
+Gal 	5 	11 	1 	7 	1 	I 	PRP
+Gal 	5 	11 	1 	8 	1 	yet 	RB
+Gal 	5 	11 	1 	9 	1 	preach 	NN
+Gal 	5 	11 	1 	10 	1 	circumcision 	NN
+Gal 	5 	11 	1 	11 	0 	,
+Gal 	5 	11 	1 	12 	1 	why 	WRB
+Gal 	5 	11 	1 	13 	1 	do 	VB
+Gal 	5 	11 	1 	14 	1 	I 	PRP
+Gal 	5 	11 	1 	15 	1 	yet 	RB
+Gal 	5 	11 	1 	16 	1 	suffer 	NN
+Gal 	5 	11 	1 	17 	1 	persecution 	NN
+Gal 	5 	11 	1 	18 	0 	?
+Gal 	5 	11 	2 	1 	1 	then 	RB
+Gal 	5 	11 	2 	2 	1 	is 	VBZ
+Gal 	5 	11 	2 	3 	1 	the 	DT
+Gal 	5 	11 	2 	4 	1 	offence 	NN
+Gal 	5 	11 	2 	5 	1 	of 	IN
+Gal 	5 	11 	2 	6 	1 	the 	DT
+Gal 	5 	11 	2 	7 	1 	cross 	NN
+Gal 	5 	11 	2 	8 	1 	ceased 	VBN
+Gal 	5 	11 	2 	9 	0 	.
+Gal 	5 	12 	1 	1 	1 	I 	PRP
+Gal 	5 	12 	1 	2 	1 	would 	MD
+Gal 	5 	12 	1 	3 	1 	they 	PRP
+Gal 	5 	12 	1 	4 	1 	were 	VBD
+Gal 	5 	12 	1 	5 	1 	even 	RB
+Gal 	5 	12 	1 	6 	1 	cut 	NN
+Gal 	5 	12 	1 	7 	1 	off 	IN
+Gal 	5 	12 	1 	8 	1 	which 	WDT
+Gal 	5 	12 	1 	9 	1 	trouble 	NN
+Gal 	5 	12 	1 	10 	1 	you 	PRP
+Gal 	5 	12 	1 	11 	0 	.
+Gal 	5 	13 	1 	1 	1 	For 	IN
+Gal 	5 	13 	1 	2 	0 	,
+Gal 	5 	13 	1 	3 	1 	brethren 	NNS
+Gal 	5 	13 	1 	4 	0 	,
+Gal 	5 	13 	1 	5 	1 	ye 	NN
+Gal 	5 	13 	1 	6 	1 	have 	VB
+Gal 	5 	13 	1 	7 	1 	been 	VBN
+Gal 	5 	13 	1 	8 	1 	called 	VBN
+Gal 	5 	13 	1 	9 	1 	unto 	NN
+Gal 	5 	13 	1 	10 	1 	liberty 	NN
+Gal 	5 	13 	1 	11 	0 	;
+Gal 	5 	13 	1 	12 	1 	only 	RB
+Gal 	5 	13 	1 	13 	1 	use 	NN
+Gal 	5 	13 	1 	14 	1 	not 	RB
+Gal 	5 	13 	1 	15 	1 	liberty 	NN
+Gal 	5 	13 	1 	16 	1 	for 	IN
+Gal 	5 	13 	1 	17 	1 	an 	DT
+Gal 	5 	13 	1 	18 	1 	occasion 	NN
+Gal 	5 	13 	1 	19 	1 	to 	TO
+Gal 	5 	13 	1 	20 	1 	the 	DT
+Gal 	5 	13 	1 	21 	1 	flesh 	NN
+Gal 	5 	13 	1 	22 	0 	,
+Gal 	5 	13 	1 	23 	1 	but 	CC
+Gal 	5 	13 	1 	24 	1 	by 	IN
+Gal 	5 	13 	1 	25 	1 	love 	NN
+Gal 	5 	13 	1 	26 	1 	serve 	NN
+Gal 	5 	13 	1 	27 	1 	one 	CD
+Gal 	5 	13 	1 	28 	1 	another 	DT
+Gal 	5 	13 	1 	29 	0 	.
+Gal 	5 	14 	1 	1 	1 	For 	IN
+Gal 	5 	14 	1 	2 	1 	all 	DT
+Gal 	5 	14 	1 	3 	1 	the 	DT
+Gal 	5 	14 	1 	4 	1 	law 	NN
+Gal 	5 	14 	1 	5 	1 	is 	VBZ
+Gal 	5 	14 	1 	6 	1 	fulfilled 	VBN
+Gal 	5 	14 	1 	7 	1 	in 	IN
+Gal 	5 	14 	1 	8 	1 	one 	CD
+Gal 	5 	14 	1 	9 	1 	word 	NN
+Gal 	5 	14 	1 	10 	0 	,
+Gal 	5 	14 	1 	11 	1 	even 	RB
+Gal 	5 	14 	1 	12 	1 	in 	IN
+Gal 	5 	14 	1 	13 	1 	this 	DT
+Gal 	5 	14 	1 	14 	0 	;
+Gal 	5 	14 	1 	15 	1 	Thou 	NN
+Gal 	5 	14 	1 	16 	1 	shalt 	NN
+Gal 	5 	14 	1 	17 	1 	love 	NN
+Gal 	5 	14 	1 	18 	1 	thy 	NN
+Gal 	5 	14 	1 	19 	1 	neighbour 	NN
+Gal 	5 	14 	1 	20 	1 	as 	IN
+Gal 	5 	14 	1 	21 	1 	thyself 	NN
+Gal 	5 	14 	1 	22 	0 	.
+Gal 	5 	15 	1 	1 	1 	But 	CC
+Gal 	5 	15 	1 	2 	1 	if 	IN
+Gal 	5 	15 	1 	3 	1 	ye 	NN
+Gal 	5 	15 	1 	4 	1 	bite 	NN
+Gal 	5 	15 	1 	5 	1 	and 	CC
+Gal 	5 	15 	1 	6 	1 	devour 	NN
+Gal 	5 	15 	1 	7 	1 	one 	CD
+Gal 	5 	15 	1 	8 	1 	another 	DT
+Gal 	5 	15 	1 	9 	0 	,
+Gal 	5 	15 	1 	10 	1 	take 	VB
+Gal 	5 	15 	1 	11 	1 	heed 	NN
+Gal 	5 	15 	1 	12 	1 	that 	IN
+Gal 	5 	15 	1 	13 	1 	ye 	NN
+Gal 	5 	15 	1 	14 	1 	be 	VB
+Gal 	5 	15 	1 	15 	1 	not 	RB
+Gal 	5 	15 	1 	16 	1 	consumed 	VBN
+Gal 	5 	15 	1 	17 	1 	one 	CD
+Gal 	5 	15 	1 	18 	1 	of 	IN
+Gal 	5 	15 	1 	19 	1 	another 	DT
+Gal 	5 	15 	1 	20 	0 	.
+Gal 	5 	16 	1 	1 	1 	This 	DT
+Gal 	5 	16 	1 	2 	1 	I 	PRP
+Gal 	5 	16 	1 	3 	1 	say 	VB
+Gal 	5 	16 	1 	4 	1 	then 	RB
+Gal 	5 	16 	1 	5 	0 	,
+Gal 	5 	16 	1 	6 	1 	Walk 	NN
+Gal 	5 	16 	1 	7 	1 	in 	IN
+Gal 	5 	16 	1 	8 	1 	the 	DT
+Gal 	5 	16 	1 	9 	1 	Spirit 	NN
+Gal 	5 	16 	1 	10 	0 	,
+Gal 	5 	16 	1 	11 	1 	and 	CC
+Gal 	5 	16 	1 	12 	1 	ye 	NN
+Gal 	5 	16 	1 	13 	1 	shall 	MD
+Gal 	5 	16 	1 	14 	1 	not 	RB
+Gal 	5 	16 	1 	15 	1 	fulfil 	NN
+Gal 	5 	16 	1 	16 	1 	the 	DT
+Gal 	5 	16 	1 	17 	1 	lust 	NN
+Gal 	5 	16 	1 	18 	1 	of 	IN
+Gal 	5 	16 	1 	19 	1 	the 	DT
+Gal 	5 	16 	1 	20 	1 	flesh 	NN
+Gal 	5 	16 	1 	21 	0 	.
+Gal 	5 	17 	1 	1 	1 	For 	IN
+Gal 	5 	17 	1 	2 	1 	the 	DT
+Gal 	5 	17 	1 	3 	1 	flesh 	NN
+Gal 	5 	17 	1 	4 	1 	lusteth 	NN
+Gal 	5 	17 	1 	5 	1 	against 	IN
+Gal 	5 	17 	1 	6 	1 	the 	DT
+Gal 	5 	17 	1 	7 	1 	Spirit 	NN
+Gal 	5 	17 	1 	8 	0 	,
+Gal 	5 	17 	1 	9 	1 	and 	CC
+Gal 	5 	17 	1 	10 	1 	the 	DT
+Gal 	5 	17 	1 	11 	1 	Spirit 	NN
+Gal 	5 	17 	1 	12 	1 	against 	IN
+Gal 	5 	17 	1 	13 	1 	the 	DT
+Gal 	5 	17 	1 	14 	1 	flesh 	NN
+Gal 	5 	17 	1 	15 	0 	:
+Gal 	5 	17 	1 	16 	1 	and 	CC
+Gal 	5 	17 	1 	17 	1 	these 	DT
+Gal 	5 	17 	1 	18 	1 	are 	VBP
+Gal 	5 	17 	1 	19 	1 	contrary 	JJ
+Gal 	5 	17 	1 	20 	1 	the 	DT
+Gal 	5 	17 	1 	21 	1 	one 	CD
+Gal 	5 	17 	1 	22 	1 	to 	TO
+Gal 	5 	17 	1 	23 	1 	the 	DT
+Gal 	5 	17 	1 	24 	1 	other 	JJ
+Gal 	5 	17 	1 	25 	0 	:
+Gal 	5 	17 	1 	26 	1 	so 	RB
+Gal 	5 	17 	1 	27 	1 	that 	IN
+Gal 	5 	17 	1 	28 	1 	ye 	NN
+Gal 	5 	17 	1 	29 	1 	can 	MD
+Gal 	5 	17 	1 	30 	1 	not 	RB
+Gal 	5 	17 	1 	31 	1 	do 	VB
+Gal 	5 	17 	1 	32 	1 	the 	DT
+Gal 	5 	17 	1 	33 	1 	things 	NNS
+Gal 	5 	17 	1 	34 	1 	that 	IN
+Gal 	5 	17 	1 	35 	1 	ye 	NN
+Gal 	5 	17 	1 	36 	1 	would 	MD
+Gal 	5 	17 	1 	37 	0 	.
+Gal 	5 	18 	1 	1 	1 	But 	CC
+Gal 	5 	18 	1 	2 	1 	if 	IN
+Gal 	5 	18 	1 	3 	1 	ye 	NN
+Gal 	5 	18 	1 	4 	1 	be 	VB
+Gal 	5 	18 	1 	5 	1 	led 	VBN
+Gal 	5 	18 	1 	6 	1 	of 	IN
+Gal 	5 	18 	1 	7 	1 	the 	DT
+Gal 	5 	18 	1 	8 	1 	Spirit 	NN
+Gal 	5 	18 	1 	9 	0 	,
+Gal 	5 	18 	1 	10 	1 	ye 	NN
+Gal 	5 	18 	1 	11 	1 	are 	VBP
+Gal 	5 	18 	1 	12 	1 	not 	RB
+Gal 	5 	18 	1 	13 	1 	under 	IN
+Gal 	5 	18 	1 	14 	1 	the 	DT
+Gal 	5 	18 	1 	15 	1 	law 	NN
+Gal 	5 	18 	1 	16 	0 	.
+Gal 	5 	19 	1 	1 	1 	Now 	RB
+Gal 	5 	19 	1 	2 	1 	the 	DT
+Gal 	5 	19 	1 	3 	1 	works 	NNS
+Gal 	5 	19 	1 	4 	1 	of 	IN
+Gal 	5 	19 	1 	5 	1 	the 	DT
+Gal 	5 	19 	1 	6 	1 	flesh 	NN
+Gal 	5 	19 	1 	7 	1 	are 	VBP
+Gal 	5 	19 	1 	8 	1 	manifest 	JJS
+Gal 	5 	19 	1 	9 	0 	,
+Gal 	5 	19 	1 	10 	1 	which 	WDT
+Gal 	5 	19 	1 	11 	1 	are 	VBP
+Gal 	5 	19 	1 	12 	1 	these 	DT
+Gal 	5 	19 	1 	13 	0 	;
+Gal 	5 	19 	1 	14 	1 	Adultery 	NN
+Gal 	5 	19 	1 	15 	0 	,
+Gal 	5 	19 	1 	16 	1 	fornication 	NN
+Gal 	5 	19 	1 	17 	0 	,
+Gal 	5 	19 	1 	18 	1 	uncleanness 	NN
+Gal 	5 	19 	1 	19 	0 	,
+Gal 	5 	19 	1 	20 	1 	lasciviousness 	NN
+Gal 	5 	19 	1 	21 	0 	,
+Gal 	5 	20 	1 	1 	1 	Idolatry 	NN
+Gal 	5 	20 	1 	2 	0 	,
+Gal 	5 	20 	1 	3 	1 	witchcraft 	NN
+Gal 	5 	20 	1 	4 	0 	,
+Gal 	5 	20 	1 	5 	1 	hatred 	VBN
+Gal 	5 	20 	1 	6 	0 	,
+Gal 	5 	20 	1 	7 	1 	variance 	NN
+Gal 	5 	20 	1 	8 	0 	,
+Gal 	5 	20 	1 	9 	1 	emulations 	NNS
+Gal 	5 	20 	1 	10 	0 	,
+Gal 	5 	20 	1 	11 	1 	wrath 	NN
+Gal 	5 	20 	1 	12 	0 	,
+Gal 	5 	20 	1 	13 	1 	strife 	NN
+Gal 	5 	20 	1 	14 	0 	,
+Gal 	5 	20 	1 	15 	1 	seditions 	NNS
+Gal 	5 	20 	1 	16 	0 	,
+Gal 	5 	20 	1 	17 	1 	heresies 	NNS
+Gal 	5 	20 	1 	18 	0 	,
+Gal 	5 	21 	1 	1 	1 	Envyings 	NNS
+Gal 	5 	21 	1 	2 	0 	,
+Gal 	5 	21 	1 	3 	1 	murders 	NNS
+Gal 	5 	21 	1 	4 	0 	,
+Gal 	5 	21 	1 	5 	1 	drunkenness 	NN
+Gal 	5 	21 	1 	6 	0 	,
+Gal 	5 	21 	1 	7 	1 	revellings 	NNS
+Gal 	5 	21 	1 	8 	0 	,
+Gal 	5 	21 	1 	9 	1 	and 	CC
+Gal 	5 	21 	1 	10 	1 	such 	JJ
+Gal 	5 	21 	1 	11 	1 	like 	IN
+Gal 	5 	21 	1 	12 	0 	:
+Gal 	5 	21 	1 	13 	1 	of 	IN
+Gal 	5 	21 	1 	14 	1 	the 	DT
+Gal 	5 	21 	1 	15 	1 	which 	WDT
+Gal 	5 	21 	1 	16 	1 	I 	PRP
+Gal 	5 	21 	1 	17 	1 	tell 	NN
+Gal 	5 	21 	1 	18 	1 	you 	PRP
+Gal 	5 	21 	1 	19 	1 	before 	IN
+Gal 	5 	21 	1 	20 	0 	,
+Gal 	5 	21 	1 	21 	1 	as 	IN
+Gal 	5 	21 	1 	22 	1 	I 	PRP
+Gal 	5 	21 	1 	23 	1 	have 	VB
+Gal 	5 	21 	1 	24 	1 	also 	RB
+Gal 	5 	21 	1 	25 	1 	told 	NN
+Gal 	5 	21 	1 	26 	1 	you 	PRP
+Gal 	5 	21 	1 	27 	1 	in 	IN
+Gal 	5 	21 	1 	28 	1 	time 	NN
+Gal 	5 	21 	1 	29 	1 	past 	NN
+Gal 	5 	21 	1 	30 	0 	,
+Gal 	5 	21 	1 	31 	1 	that 	IN
+Gal 	5 	21 	1 	32 	1 	they 	PRP
+Gal 	5 	21 	1 	33 	1 	which 	WDT
+Gal 	5 	21 	1 	34 	1 	do 	VB
+Gal 	5 	21 	1 	35 	1 	such 	JJ
+Gal 	5 	21 	1 	36 	1 	things 	NNS
+Gal 	5 	21 	1 	37 	1 	shall 	MD
+Gal 	5 	21 	1 	38 	1 	not 	RB
+Gal 	5 	21 	1 	39 	1 	inherit 	NN
+Gal 	5 	21 	1 	40 	1 	the 	DT
+Gal 	5 	21 	1 	41 	1 	kingdom 	NN
+Gal 	5 	21 	1 	42 	1 	of 	IN
+Gal 	5 	21 	1 	43 	1 	God 	NNP
+Gal 	5 	21 	1 	44 	0 	.
+Gal 	5 	22 	1 	1 	1 	But 	CC
+Gal 	5 	22 	1 	2 	1 	the 	DT
+Gal 	5 	22 	1 	3 	1 	fruit 	NN
+Gal 	5 	22 	1 	4 	1 	of 	IN
+Gal 	5 	22 	1 	5 	1 	the 	DT
+Gal 	5 	22 	1 	6 	1 	Spirit 	NN
+Gal 	5 	22 	1 	7 	1 	is 	VBZ
+Gal 	5 	22 	1 	8 	1 	love 	NN
+Gal 	5 	22 	1 	9 	0 	,
+Gal 	5 	22 	1 	10 	1 	joy 	NN
+Gal 	5 	22 	1 	11 	0 	,
+Gal 	5 	22 	1 	12 	1 	peace 	NN
+Gal 	5 	22 	1 	13 	0 	,
+Gal 	5 	22 	1 	14 	1 	longsuffering 	VBG
+Gal 	5 	22 	1 	15 	0 	,
+Gal 	5 	22 	1 	16 	1 	gentleness 	NN
+Gal 	5 	22 	1 	17 	0 	,
+Gal 	5 	22 	1 	18 	1 	goodness 	NN
+Gal 	5 	22 	1 	19 	0 	,
+Gal 	5 	22 	1 	20 	1 	faith 	NN
+Gal 	5 	22 	1 	21 	0 	,
+Gal 	5 	23 	1 	1 	1 	Meekness 	NN
+Gal 	5 	23 	1 	2 	0 	,
+Gal 	5 	23 	1 	3 	1 	temperance 	NN
+Gal 	5 	23 	1 	4 	0 	:
+Gal 	5 	23 	1 	5 	1 	against 	IN
+Gal 	5 	23 	1 	6 	1 	such 	JJ
+Gal 	5 	23 	1 	7 	1 	there 	RB
+Gal 	5 	23 	1 	8 	1 	is 	VBZ
+Gal 	5 	23 	1 	9 	1 	no 	DT
+Gal 	5 	23 	1 	10 	1 	law 	NN
+Gal 	5 	23 	1 	11 	0 	.
+Gal 	5 	24 	1 	1 	1 	And 	CC
+Gal 	5 	24 	1 	2 	1 	they 	PRP
+Gal 	5 	24 	1 	3 	1 	that 	IN
+Gal 	5 	24 	1 	4 	1 	are 	VBP
+Gal 	5 	24 	1 	5 	1 	Christ 	NN
+Gal 	5 	24 	1 	6 	0 	's
+Gal 	5 	24 	1 	7 	1 	have 	VB
+Gal 	5 	24 	1 	8 	1 	crucified 	VBN
+Gal 	5 	24 	1 	9 	1 	the 	DT
+Gal 	5 	24 	1 	10 	1 	flesh 	NN
+Gal 	5 	24 	1 	11 	1 	with 	IN
+Gal 	5 	24 	1 	12 	1 	the 	DT
+Gal 	5 	24 	1 	13 	1 	affections 	NNS
+Gal 	5 	24 	1 	14 	1 	and 	CC
+Gal 	5 	24 	1 	15 	1 	lusts 	NNS
+Gal 	5 	24 	1 	16 	0 	.
+Gal 	5 	25 	1 	1 	1 	If 	IN
+Gal 	5 	25 	1 	2 	1 	we 	PRP
+Gal 	5 	25 	1 	3 	1 	live 	JJ
+Gal 	5 	25 	1 	4 	1 	in 	IN
+Gal 	5 	25 	1 	5 	1 	the 	DT
+Gal 	5 	25 	1 	6 	1 	Spirit 	NN
+Gal 	5 	25 	1 	7 	0 	,
+Gal 	5 	25 	1 	8 	1 	let 	VB
+Gal 	5 	25 	1 	9 	1 	us 	PRP
+Gal 	5 	25 	1 	10 	1 	also 	RB
+Gal 	5 	25 	1 	11 	1 	walk 	NN
+Gal 	5 	25 	1 	12 	1 	in 	IN
+Gal 	5 	25 	1 	13 	1 	the 	DT
+Gal 	5 	25 	1 	14 	1 	Spirit 	NN
+Gal 	5 	25 	1 	15 	0 	.
+Gal 	5 	26 	1 	1 	1 	Let 	VB
+Gal 	5 	26 	1 	2 	1 	us 	PRP
+Gal 	5 	26 	1 	3 	1 	not 	RB
+Gal 	5 	26 	1 	4 	1 	be 	VB
+Gal 	5 	26 	1 	5 	1 	desirous 	JJ
+Gal 	5 	26 	1 	6 	1 	of 	IN
+Gal 	5 	26 	1 	7 	1 	vain 	NN
+Gal 	5 	26 	1 	8 	1 	glory 	NN
+Gal 	5 	26 	1 	9 	0 	,
+Gal 	5 	26 	1 	10 	1 	provoking 	VBG
+Gal 	5 	26 	1 	11 	1 	one 	CD
+Gal 	5 	26 	1 	12 	1 	another 	DT
+Gal 	5 	26 	1 	13 	0 	,
+Gal 	5 	26 	1 	14 	1 	envying 	VBG
+Gal 	5 	26 	1 	15 	1 	one 	CD
+Gal 	5 	26 	1 	16 	1 	another 	DT
+Gal 	5 	26 	1 	17 	0 	.
+Gal 	6 	1 	1 	1 	1 	Brethren 	NNS
+Gal 	6 	1 	1 	2 	0 	,
+Gal 	6 	1 	1 	3 	1 	if 	IN
+Gal 	6 	1 	1 	4 	1 	a 	DT
+Gal 	6 	1 	1 	5 	1 	man 	NN
+Gal 	6 	1 	1 	6 	1 	be 	VB
+Gal 	6 	1 	1 	7 	1 	overtaken 	NN
+Gal 	6 	1 	1 	8 	1 	in 	IN
+Gal 	6 	1 	1 	9 	1 	a 	DT
+Gal 	6 	1 	1 	10 	1 	fault 	NN
+Gal 	6 	1 	1 	11 	0 	,
+Gal 	6 	1 	1 	12 	1 	ye 	NN
+Gal 	6 	1 	1 	13 	1 	which 	WDT
+Gal 	6 	1 	1 	14 	1 	are 	VBP
+Gal 	6 	1 	1 	15 	1 	spiritual 	JJ
+Gal 	6 	1 	1 	16 	0 	,
+Gal 	6 	1 	1 	17 	1 	restore 	NN
+Gal 	6 	1 	1 	18 	1 	such 	JJ
+Gal 	6 	1 	1 	19 	1 	an 	DT
+Gal 	6 	1 	1 	20 	1 	one 	CD
+Gal 	6 	1 	1 	21 	1 	in 	IN
+Gal 	6 	1 	1 	22 	1 	the 	DT
+Gal 	6 	1 	1 	23 	1 	spirit 	NN
+Gal 	6 	1 	1 	24 	1 	of 	IN
+Gal 	6 	1 	1 	25 	1 	meekness 	NN
+Gal 	6 	1 	1 	26 	0 	;
+Gal 	6 	1 	1 	27 	1 	considering 	VBG
+Gal 	6 	1 	1 	28 	1 	thyself 	NN
+Gal 	6 	1 	1 	29 	0 	,
+Gal 	6 	1 	1 	30 	1 	lest 	JJS
+Gal 	6 	1 	1 	31 	1 	thou 	NN
+Gal 	6 	1 	1 	32 	1 	also 	RB
+Gal 	6 	1 	1 	33 	1 	be 	VB
+Gal 	6 	1 	1 	34 	1 	tempted 	VBN
+Gal 	6 	1 	1 	35 	0 	.
+Gal 	6 	2 	1 	1 	1 	Bear 	NNP
+Gal 	6 	2 	1 	2 	1 	ye 	NN
+Gal 	6 	2 	1 	3 	1 	one 	CD
+Gal 	6 	2 	1 	4 	1 	another 	DT
+Gal 	6 	2 	1 	5 	0 	's
+Gal 	6 	2 	1 	6 	1 	burdens 	NNS
+Gal 	6 	2 	1 	7 	0 	,
+Gal 	6 	2 	1 	8 	1 	and 	CC
+Gal 	6 	2 	1 	9 	1 	so 	RB
+Gal 	6 	2 	1 	10 	1 	fulfil 	NN
+Gal 	6 	2 	1 	11 	1 	the 	DT
+Gal 	6 	2 	1 	12 	1 	law 	NN
+Gal 	6 	2 	1 	13 	1 	of 	IN
+Gal 	6 	2 	1 	14 	1 	Christ 	NN
+Gal 	6 	2 	1 	15 	0 	.
+Gal 	6 	3 	1 	1 	1 	For 	IN
+Gal 	6 	3 	1 	2 	1 	if 	IN
+Gal 	6 	3 	1 	3 	1 	a 	DT
+Gal 	6 	3 	1 	4 	1 	man 	NN
+Gal 	6 	3 	1 	5 	1 	think 	NN
+Gal 	6 	3 	1 	6 	1 	himself 	PRP
+Gal 	6 	3 	1 	7 	1 	to 	TO
+Gal 	6 	3 	1 	8 	1 	be 	VB
+Gal 	6 	3 	1 	9 	1 	something 	NN
+Gal 	6 	3 	1 	10 	0 	,
+Gal 	6 	3 	1 	11 	1 	when 	WRB
+Gal 	6 	3 	1 	12 	1 	he 	PRP
+Gal 	6 	3 	1 	13 	1 	is 	VBZ
+Gal 	6 	3 	1 	14 	1 	nothing 	NN
+Gal 	6 	3 	1 	15 	0 	,
+Gal 	6 	3 	1 	16 	1 	he 	PRP
+Gal 	6 	3 	1 	17 	1 	deceiveth 	NN
+Gal 	6 	3 	1 	18 	1 	himself 	PRP
+Gal 	6 	3 	1 	19 	0 	.
+Gal 	6 	4 	1 	1 	1 	But 	CC
+Gal 	6 	4 	1 	2 	1 	let 	VB
+Gal 	6 	4 	1 	3 	1 	every 	DT
+Gal 	6 	4 	1 	4 	1 	man 	NN
+Gal 	6 	4 	1 	5 	1 	prove 	NN
+Gal 	6 	4 	1 	6 	1 	his 	PRP$
+Gal 	6 	4 	1 	7 	1 	own 	JJ
+Gal 	6 	4 	1 	8 	1 	work 	NN
+Gal 	6 	4 	1 	9 	0 	,
+Gal 	6 	4 	1 	10 	1 	and 	CC
+Gal 	6 	4 	1 	11 	1 	then 	RB
+Gal 	6 	4 	1 	12 	1 	shall 	MD
+Gal 	6 	4 	1 	13 	1 	he 	PRP
+Gal 	6 	4 	1 	14 	1 	have 	VB
+Gal 	6 	4 	1 	15 	1 	rejoicing 	VBG
+Gal 	6 	4 	1 	16 	1 	in 	IN
+Gal 	6 	4 	1 	17 	1 	himself 	PRP
+Gal 	6 	4 	1 	18 	1 	alone 	RB
+Gal 	6 	4 	1 	19 	0 	,
+Gal 	6 	4 	1 	20 	1 	and 	CC
+Gal 	6 	4 	1 	21 	1 	not 	RB
+Gal 	6 	4 	1 	22 	1 	in 	IN
+Gal 	6 	4 	1 	23 	1 	another 	DT
+Gal 	6 	4 	1 	24 	0 	.
+Gal 	6 	5 	1 	1 	1 	For 	IN
+Gal 	6 	5 	1 	2 	1 	every 	DT
+Gal 	6 	5 	1 	3 	1 	man 	NN
+Gal 	6 	5 	1 	4 	1 	shall 	MD
+Gal 	6 	5 	1 	5 	1 	bear 	NN
+Gal 	6 	5 	1 	6 	1 	his 	PRP$
+Gal 	6 	5 	1 	7 	1 	own 	JJ
+Gal 	6 	5 	1 	8 	1 	burden 	NN
+Gal 	6 	5 	1 	9 	0 	.
+Gal 	6 	6 	1 	1 	1 	Let 	VB
+Gal 	6 	6 	1 	2 	1 	him 	PRP
+Gal 	6 	6 	1 	3 	1 	that 	IN
+Gal 	6 	6 	1 	4 	1 	is 	VBZ
+Gal 	6 	6 	1 	5 	1 	taught 	NN
+Gal 	6 	6 	1 	6 	1 	in 	IN
+Gal 	6 	6 	1 	7 	1 	the 	DT
+Gal 	6 	6 	1 	8 	1 	word 	NN
+Gal 	6 	6 	1 	9 	1 	communicate 	NN
+Gal 	6 	6 	1 	10 	1 	unto 	NN
+Gal 	6 	6 	1 	11 	1 	him 	PRP
+Gal 	6 	6 	1 	12 	1 	that 	IN
+Gal 	6 	6 	1 	13 	1 	teacheth 	NNS
+Gal 	6 	6 	1 	14 	1 	in 	IN
+Gal 	6 	6 	1 	15 	1 	all 	DT
+Gal 	6 	6 	1 	16 	1 	good 	JJ
+Gal 	6 	6 	1 	17 	1 	things 	NNS
+Gal 	6 	6 	1 	18 	0 	.
+Gal 	6 	7 	1 	1 	1 	Be 	VB
+Gal 	6 	7 	1 	2 	1 	not 	RB
+Gal 	6 	7 	1 	3 	1 	deceived 	VBN
+Gal 	6 	7 	1 	4 	0 	;
+Gal 	6 	7 	1 	5 	1 	God 	NNP
+Gal 	6 	7 	1 	6 	1 	is 	VBZ
+Gal 	6 	7 	1 	7 	1 	not 	RB
+Gal 	6 	7 	1 	8 	1 	mocked 	NNS
+Gal 	6 	7 	1 	9 	0 	:
+Gal 	6 	7 	1 	10 	1 	for 	IN
+Gal 	6 	7 	1 	11 	1 	whatsoever 	NN
+Gal 	6 	7 	1 	12 	1 	a 	DT
+Gal 	6 	7 	1 	13 	1 	man 	NN
+Gal 	6 	7 	1 	14 	1 	soweth 	NN
+Gal 	6 	7 	1 	15 	0 	,
+Gal 	6 	7 	1 	16 	1 	that 	IN
+Gal 	6 	7 	1 	17 	1 	shall 	MD
+Gal 	6 	7 	1 	18 	1 	he 	PRP
+Gal 	6 	7 	1 	19 	1 	also 	RB
+Gal 	6 	7 	1 	20 	1 	reap 	NN
+Gal 	6 	7 	1 	21 	0 	.
+Gal 	6 	8 	1 	1 	1 	For 	IN
+Gal 	6 	8 	1 	2 	1 	he 	PRP
+Gal 	6 	8 	1 	3 	1 	that 	IN
+Gal 	6 	8 	1 	4 	1 	soweth 	NN
+Gal 	6 	8 	1 	5 	1 	to 	TO
+Gal 	6 	8 	1 	6 	1 	his 	PRP$
+Gal 	6 	8 	1 	7 	1 	flesh 	NN
+Gal 	6 	8 	1 	8 	1 	shall 	MD
+Gal 	6 	8 	1 	9 	1 	of 	IN
+Gal 	6 	8 	1 	10 	1 	the 	DT
+Gal 	6 	8 	1 	11 	1 	flesh 	NN
+Gal 	6 	8 	1 	12 	1 	reap 	NN
+Gal 	6 	8 	1 	13 	1 	corruption 	NN
+Gal 	6 	8 	1 	14 	0 	;
+Gal 	6 	8 	1 	15 	1 	but 	CC
+Gal 	6 	8 	1 	16 	1 	he 	PRP
+Gal 	6 	8 	1 	17 	1 	that 	IN
+Gal 	6 	8 	1 	18 	1 	soweth 	NN
+Gal 	6 	8 	1 	19 	1 	to 	TO
+Gal 	6 	8 	1 	20 	1 	the 	DT
+Gal 	6 	8 	1 	21 	1 	Spirit 	NN
+Gal 	6 	8 	1 	22 	1 	shall 	MD
+Gal 	6 	8 	1 	23 	1 	of 	IN
+Gal 	6 	8 	1 	24 	1 	the 	DT
+Gal 	6 	8 	1 	25 	1 	Spirit 	NN
+Gal 	6 	8 	1 	26 	1 	reap 	NN
+Gal 	6 	8 	1 	27 	1 	life 	NN
+Gal 	6 	8 	1 	28 	1 	everlasting 	VBG
+Gal 	6 	8 	1 	29 	0 	.
+Gal 	6 	9 	1 	1 	1 	And 	CC
+Gal 	6 	9 	1 	2 	1 	let 	VB
+Gal 	6 	9 	1 	3 	1 	us 	PRP
+Gal 	6 	9 	1 	4 	1 	not 	RB
+Gal 	6 	9 	1 	5 	1 	be 	VB
+Gal 	6 	9 	1 	6 	1 	weary 	JJ
+Gal 	6 	9 	1 	7 	1 	in 	IN
+Gal 	6 	9 	1 	8 	1 	well 	RB
+Gal 	6 	9 	1 	9 	1 	doing 	VBG
+Gal 	6 	9 	1 	10 	0 	:
+Gal 	6 	9 	1 	11 	1 	for 	IN
+Gal 	6 	9 	1 	12 	1 	in 	IN
+Gal 	6 	9 	1 	13 	1 	due 	JJ
+Gal 	6 	9 	1 	14 	1 	season 	NN
+Gal 	6 	9 	1 	15 	1 	we 	PRP
+Gal 	6 	9 	1 	16 	1 	shall 	MD
+Gal 	6 	9 	1 	17 	1 	reap 	NN
+Gal 	6 	9 	1 	18 	0 	,
+Gal 	6 	9 	1 	19 	1 	if 	IN
+Gal 	6 	9 	1 	20 	1 	we 	PRP
+Gal 	6 	9 	1 	21 	1 	faint 	NN
+Gal 	6 	9 	1 	22 	1 	not 	RB
+Gal 	6 	9 	1 	23 	0 	.
+Gal 	6 	10 	1 	1 	1 	As 	IN
+Gal 	6 	10 	1 	2 	1 	we 	PRP
+Gal 	6 	10 	1 	3 	1 	have 	VB
+Gal 	6 	10 	1 	4 	1 	therefore 	RB
+Gal 	6 	10 	1 	5 	1 	opportunity 	NN
+Gal 	6 	10 	1 	6 	0 	,
+Gal 	6 	10 	1 	7 	1 	let 	VB
+Gal 	6 	10 	1 	8 	1 	us 	PRP
+Gal 	6 	10 	1 	9 	1 	do 	VB
+Gal 	6 	10 	1 	10 	1 	good 	JJ
+Gal 	6 	10 	1 	11 	1 	unto 	NN
+Gal 	6 	10 	1 	12 	1 	all 	DT
+Gal 	6 	10 	1 	13 	1 	men 	NNS
+Gal 	6 	10 	1 	14 	0 	,
+Gal 	6 	10 	1 	15 	1 	especially 	RB
+Gal 	6 	10 	1 	16 	1 	unto 	NN
+Gal 	6 	10 	1 	17 	1 	them 	PRP
+Gal 	6 	10 	1 	18 	1 	who 	WP
+Gal 	6 	10 	1 	19 	1 	are 	VBP
+Gal 	6 	10 	1 	20 	1 	of 	IN
+Gal 	6 	10 	1 	21 	1 	the 	DT
+Gal 	6 	10 	1 	22 	1 	household 	NN
+Gal 	6 	10 	1 	23 	1 	of 	IN
+Gal 	6 	10 	1 	24 	1 	faith 	NN
+Gal 	6 	10 	1 	25 	0 	.
+Gal 	6 	11 	1 	1 	1 	Ye 	NN
+Gal 	6 	11 	1 	2 	1 	see 	VB
+Gal 	6 	11 	1 	3 	1 	how 	WRB
+Gal 	6 	11 	1 	4 	1 	large 	JJ
+Gal 	6 	11 	1 	5 	1 	a 	DT
+Gal 	6 	11 	1 	6 	1 	letter 	NN
+Gal 	6 	11 	1 	7 	1 	I 	PRP
+Gal 	6 	11 	1 	8 	1 	have 	VB
+Gal 	6 	11 	1 	9 	1 	written 	VBN
+Gal 	6 	11 	1 	10 	1 	unto 	NN
+Gal 	6 	11 	1 	11 	1 	you 	PRP
+Gal 	6 	11 	1 	12 	1 	with 	IN
+Gal 	6 	11 	1 	13 	1 	mine 	NN
+Gal 	6 	11 	1 	14 	1 	own 	JJ
+Gal 	6 	11 	1 	15 	1 	hand 	NN
+Gal 	6 	11 	1 	16 	0 	.
+Gal 	6 	12 	1 	1 	1 	As 	IN
+Gal 	6 	12 	1 	2 	1 	many 	JJ
+Gal 	6 	12 	1 	3 	1 	as 	IN
+Gal 	6 	12 	1 	4 	1 	desire 	NN
+Gal 	6 	12 	1 	5 	1 	to 	TO
+Gal 	6 	12 	1 	6 	1 	make 	VB
+Gal 	6 	12 	1 	7 	1 	a 	DT
+Gal 	6 	12 	1 	8 	1 	fair 	NN
+Gal 	6 	12 	1 	9 	1 	shew 	NN
+Gal 	6 	12 	1 	10 	1 	in 	IN
+Gal 	6 	12 	1 	11 	1 	the 	DT
+Gal 	6 	12 	1 	12 	1 	flesh 	NN
+Gal 	6 	12 	1 	13 	0 	,
+Gal 	6 	12 	1 	14 	1 	they 	PRP
+Gal 	6 	12 	1 	15 	1 	constrain 	NN
+Gal 	6 	12 	1 	16 	1 	you 	PRP
+Gal 	6 	12 	1 	17 	1 	to 	TO
+Gal 	6 	12 	1 	18 	1 	be 	VB
+Gal 	6 	12 	1 	19 	1 	circumcised 	VBN
+Gal 	6 	12 	1 	20 	0 	;
+Gal 	6 	12 	1 	21 	1 	only 	RB
+Gal 	6 	12 	1 	22 	1 	lest 	JJS
+Gal 	6 	12 	1 	23 	1 	they 	PRP
+Gal 	6 	12 	1 	24 	1 	should 	MD
+Gal 	6 	12 	1 	25 	1 	suffer 	NN
+Gal 	6 	12 	1 	26 	1 	persecution 	NN
+Gal 	6 	12 	1 	27 	1 	for 	IN
+Gal 	6 	12 	1 	28 	1 	the 	DT
+Gal 	6 	12 	1 	29 	1 	cross 	NN
+Gal 	6 	12 	1 	30 	1 	of 	IN
+Gal 	6 	12 	1 	31 	1 	Christ 	NN
+Gal 	6 	12 	1 	32 	0 	.
+Gal 	6 	13 	1 	1 	1 	For 	IN
+Gal 	6 	13 	1 	2 	1 	neither 	DT
+Gal 	6 	13 	1 	3 	1 	they 	PRP
+Gal 	6 	13 	1 	4 	1 	themselves 	PRP
+Gal 	6 	13 	1 	5 	1 	who 	WP
+Gal 	6 	13 	1 	6 	1 	are 	VBP
+Gal 	6 	13 	1 	7 	1 	circumcised 	VBN
+Gal 	6 	13 	1 	8 	1 	keep 	VB
+Gal 	6 	13 	1 	9 	1 	the 	DT
+Gal 	6 	13 	1 	10 	1 	law 	NN
+Gal 	6 	13 	1 	11 	0 	;
+Gal 	6 	13 	1 	12 	1 	but 	CC
+Gal 	6 	13 	1 	13 	1 	desire 	NN
+Gal 	6 	13 	1 	14 	1 	to 	TO
+Gal 	6 	13 	1 	15 	1 	have 	VB
+Gal 	6 	13 	1 	16 	1 	you 	PRP
+Gal 	6 	13 	1 	17 	1 	circumcised 	VBN
+Gal 	6 	13 	1 	18 	0 	,
+Gal 	6 	13 	1 	19 	1 	that 	IN
+Gal 	6 	13 	1 	20 	1 	they 	PRP
+Gal 	6 	13 	1 	21 	1 	may 	MD
+Gal 	6 	13 	1 	22 	1 	glory 	NN
+Gal 	6 	13 	1 	23 	1 	in 	IN
+Gal 	6 	13 	1 	24 	1 	your 	PRP$
+Gal 	6 	13 	1 	25 	1 	flesh 	NN
+Gal 	6 	13 	1 	26 	0 	.
+Gal 	6 	14 	1 	1 	1 	But 	CC
+Gal 	6 	14 	1 	2 	1 	God 	NNP
+Gal 	6 	14 	1 	3 	1 	forbid 	NN
+Gal 	6 	14 	1 	4 	1 	that 	IN
+Gal 	6 	14 	1 	5 	1 	I 	PRP
+Gal 	6 	14 	1 	6 	1 	should 	MD
+Gal 	6 	14 	1 	7 	1 	glory 	NN
+Gal 	6 	14 	1 	8 	0 	,
+Gal 	6 	14 	1 	9 	1 	save 	VB
+Gal 	6 	14 	1 	10 	1 	in 	IN
+Gal 	6 	14 	1 	11 	1 	the 	DT
+Gal 	6 	14 	1 	12 	1 	cross 	NN
+Gal 	6 	14 	1 	13 	1 	of 	IN
+Gal 	6 	14 	1 	14 	1 	our 	PRP$
+Gal 	6 	14 	1 	15 	1 	Lord 	NN
+Gal 	6 	14 	1 	16 	1 	Jesus 	NN
+Gal 	6 	14 	1 	17 	1 	Christ 	NN
+Gal 	6 	14 	1 	18 	0 	,
+Gal 	6 	14 	1 	19 	1 	by 	IN
+Gal 	6 	14 	1 	20 	1 	whom 	WP
+Gal 	6 	14 	1 	21 	1 	the 	DT
+Gal 	6 	14 	1 	22 	1 	world 	NN
+Gal 	6 	14 	1 	23 	1 	is 	VBZ
+Gal 	6 	14 	1 	24 	1 	crucified 	VBN
+Gal 	6 	14 	1 	25 	1 	unto 	NN
+Gal 	6 	14 	1 	26 	1 	me 	PRP
+Gal 	6 	14 	1 	27 	0 	,
+Gal 	6 	14 	1 	28 	1 	and 	CC
+Gal 	6 	14 	1 	29 	1 	I 	PRP
+Gal 	6 	14 	1 	30 	1 	unto 	NN
+Gal 	6 	14 	1 	31 	1 	the 	DT
+Gal 	6 	14 	1 	32 	1 	world 	NN
+Gal 	6 	14 	1 	33 	0 	.
+Gal 	6 	15 	1 	1 	1 	For 	IN
+Gal 	6 	15 	1 	2 	1 	in 	IN
+Gal 	6 	15 	1 	3 	1 	Christ 	NN
+Gal 	6 	15 	1 	4 	1 	Jesus 	NN
+Gal 	6 	15 	1 	5 	1 	neither 	DT
+Gal 	6 	15 	1 	6 	1 	circumcision 	NN
+Gal 	6 	15 	1 	7 	1 	availeth 	NNS
+Gal 	6 	15 	1 	8 	1 	any 	DT
+Gal 	6 	15 	1 	9 	1 	thing 	NN
+Gal 	6 	15 	1 	10 	0 	,
+Gal 	6 	15 	1 	11 	1 	nor 	CC
+Gal 	6 	15 	1 	12 	1 	uncircumcision 	NN
+Gal 	6 	15 	1 	13 	0 	,
+Gal 	6 	15 	1 	14 	1 	but 	CC
+Gal 	6 	15 	1 	15 	1 	a 	DT
+Gal 	6 	15 	1 	16 	1 	new 	JJ
+Gal 	6 	15 	1 	17 	1 	creature 	NN
+Gal 	6 	15 	1 	18 	0 	.
+Gal 	6 	16 	1 	1 	1 	And 	CC
+Gal 	6 	16 	1 	2 	1 	as 	IN
+Gal 	6 	16 	1 	3 	1 	many 	JJ
+Gal 	6 	16 	1 	4 	1 	as 	IN
+Gal 	6 	16 	1 	5 	1 	walk 	NN
+Gal 	6 	16 	1 	6 	1 	according 	VBG
+Gal 	6 	16 	1 	7 	1 	to 	TO
+Gal 	6 	16 	1 	8 	1 	this 	DT
+Gal 	6 	16 	1 	9 	1 	rule 	NN
+Gal 	6 	16 	1 	10 	0 	,
+Gal 	6 	16 	1 	11 	1 	peace 	NN
+Gal 	6 	16 	1 	12 	1 	be 	VB
+Gal 	6 	16 	1 	13 	1 	on 	IN
+Gal 	6 	16 	1 	14 	1 	them 	PRP
+Gal 	6 	16 	1 	15 	0 	,
+Gal 	6 	16 	1 	16 	1 	and 	CC
+Gal 	6 	16 	1 	17 	1 	mercy 	NN
+Gal 	6 	16 	1 	18 	0 	,
+Gal 	6 	16 	1 	19 	1 	and 	CC
+Gal 	6 	16 	1 	20 	1 	upon 	IN
+Gal 	6 	16 	1 	21 	1 	the 	DT
+Gal 	6 	16 	1 	22 	1 	Israel 	NNP
+Gal 	6 	16 	1 	23 	1 	of 	IN
+Gal 	6 	16 	1 	24 	1 	God 	NNP
+Gal 	6 	16 	1 	25 	0 	.
+Gal 	6 	17 	1 	1 	1 	From 	IN
+Gal 	6 	17 	1 	2 	1 	henceforth 	NN
+Gal 	6 	17 	1 	3 	1 	let 	VB
+Gal 	6 	17 	1 	4 	1 	no 	DT
+Gal 	6 	17 	1 	5 	1 	man 	NN
+Gal 	6 	17 	1 	6 	1 	trouble 	NN
+Gal 	6 	17 	1 	7 	1 	me 	PRP
+Gal 	6 	17 	1 	8 	0 	:
+Gal 	6 	17 	1 	9 	1 	for 	IN
+Gal 	6 	17 	1 	10 	1 	I 	PRP
+Gal 	6 	17 	1 	11 	1 	bear 	NN
+Gal 	6 	17 	1 	12 	1 	in 	IN
+Gal 	6 	17 	1 	13 	1 	my 	PRP$
+Gal 	6 	17 	1 	14 	1 	body 	NN
+Gal 	6 	17 	1 	15 	1 	the 	DT
+Gal 	6 	17 	1 	16 	1 	marks 	NNS
+Gal 	6 	17 	1 	17 	1 	of 	IN
+Gal 	6 	17 	1 	18 	1 	the 	DT
+Gal 	6 	17 	1 	19 	1 	Lord 	NN
+Gal 	6 	17 	1 	20 	1 	Jesus 	NN
+Gal 	6 	17 	1 	21 	0 	.
+Gal 	6 	18 	1 	1 	1 	Brethren 	NNS
+Gal 	6 	18 	1 	2 	0 	,
+Gal 	6 	18 	1 	3 	1 	the 	DT
+Gal 	6 	18 	1 	4 	1 	grace 	NN
+Gal 	6 	18 	1 	5 	1 	of 	IN
+Gal 	6 	18 	1 	6 	1 	our 	PRP$
+Gal 	6 	18 	1 	7 	1 	Lord 	NN
+Gal 	6 	18 	1 	8 	1 	Jesus 	NN
+Gal 	6 	18 	1 	9 	1 	Christ 	NN
+Gal 	6 	18 	1 	10 	1 	be 	VB
+Gal 	6 	18 	1 	11 	1 	with 	IN
+Gal 	6 	18 	1 	12 	1 	your 	PRP$
+Gal 	6 	18 	1 	13 	1 	spirit 	NN
+Gal 	6 	18 	1 	14 	0 	.
+Gal 	6 	18 	2 	1 	1 	Amen 	NNS
+Gal 	6 	18 	2 	2 	0 	.

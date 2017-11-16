@@ -1,0 +1,1765 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Pe2 	1 	1 	1 	1 	1 	Simon 	NN
+Pe2 	1 	1 	1 	2 	1 	Peter 	NNP
+Pe2 	1 	1 	1 	3 	0 	,
+Pe2 	1 	1 	1 	4 	1 	a 	DT
+Pe2 	1 	1 	1 	5 	1 	servant 	NN
+Pe2 	1 	1 	1 	6 	1 	and 	CC
+Pe2 	1 	1 	1 	7 	1 	an 	DT
+Pe2 	1 	1 	1 	8 	1 	apostle 	NN
+Pe2 	1 	1 	1 	9 	1 	of 	IN
+Pe2 	1 	1 	1 	10 	1 	Jesus 	NN
+Pe2 	1 	1 	1 	11 	1 	Christ 	NN
+Pe2 	1 	1 	1 	12 	0 	,
+Pe2 	1 	1 	1 	13 	1 	to 	TO
+Pe2 	1 	1 	1 	14 	1 	them 	PRP
+Pe2 	1 	1 	1 	15 	1 	that 	IN
+Pe2 	1 	1 	1 	16 	1 	have 	VB
+Pe2 	1 	1 	1 	17 	1 	obtained 	VBN
+Pe2 	1 	1 	1 	18 	1 	like 	IN
+Pe2 	1 	1 	1 	19 	1 	precious 	JJ
+Pe2 	1 	1 	1 	20 	1 	faith 	NN
+Pe2 	1 	1 	1 	21 	1 	with 	IN
+Pe2 	1 	1 	1 	22 	1 	us 	PRP
+Pe2 	1 	1 	1 	23 	1 	through 	IN
+Pe2 	1 	1 	1 	24 	1 	the 	DT
+Pe2 	1 	1 	1 	25 	1 	righteousness 	NN
+Pe2 	1 	1 	1 	26 	1 	of 	IN
+Pe2 	1 	1 	1 	27 	1 	God 	NNP
+Pe2 	1 	1 	1 	28 	1 	and 	CC
+Pe2 	1 	1 	1 	29 	1 	our 	PRP$
+Pe2 	1 	1 	1 	30 	1 	Saviour 	NN
+Pe2 	1 	1 	1 	31 	1 	Jesus 	NN
+Pe2 	1 	1 	1 	32 	1 	Christ 	NN
+Pe2 	1 	1 	1 	33 	0 	:
+Pe2 	1 	2 	1 	1 	1 	Grace 	NN
+Pe2 	1 	2 	1 	2 	1 	and 	CC
+Pe2 	1 	2 	1 	3 	1 	peace 	NN
+Pe2 	1 	2 	1 	4 	1 	be 	VB
+Pe2 	1 	2 	1 	5 	1 	multiplied 	VBN
+Pe2 	1 	2 	1 	6 	1 	unto 	NN
+Pe2 	1 	2 	1 	7 	1 	you 	PRP
+Pe2 	1 	2 	1 	8 	1 	through 	IN
+Pe2 	1 	2 	1 	9 	1 	the 	DT
+Pe2 	1 	2 	1 	10 	1 	knowledge 	NN
+Pe2 	1 	2 	1 	11 	1 	of 	IN
+Pe2 	1 	2 	1 	12 	1 	God 	NNP
+Pe2 	1 	2 	1 	13 	0 	,
+Pe2 	1 	2 	1 	14 	1 	and 	CC
+Pe2 	1 	2 	1 	15 	1 	of 	IN
+Pe2 	1 	2 	1 	16 	1 	Jesus 	NN
+Pe2 	1 	2 	1 	17 	1 	our 	PRP$
+Pe2 	1 	2 	1 	18 	1 	Lord 	NN
+Pe2 	1 	2 	1 	19 	0 	,
+Pe2 	1 	3 	1 	1 	1 	According 	VBG
+Pe2 	1 	3 	1 	2 	1 	as 	IN
+Pe2 	1 	3 	1 	3 	1 	his 	PRP$
+Pe2 	1 	3 	1 	4 	1 	divine 	NN
+Pe2 	1 	3 	1 	5 	1 	power 	NN
+Pe2 	1 	3 	1 	6 	1 	hath 	NN
+Pe2 	1 	3 	1 	7 	1 	given 	VBN
+Pe2 	1 	3 	1 	8 	1 	unto 	NN
+Pe2 	1 	3 	1 	9 	1 	us 	PRP
+Pe2 	1 	3 	1 	10 	1 	all 	DT
+Pe2 	1 	3 	1 	11 	1 	things 	NNS
+Pe2 	1 	3 	1 	12 	1 	that 	IN
+Pe2 	1 	3 	1 	13 	1 	pertain 	NN
+Pe2 	1 	3 	1 	14 	1 	unto 	NN
+Pe2 	1 	3 	1 	15 	1 	life 	NN
+Pe2 	1 	3 	1 	16 	1 	and 	CC
+Pe2 	1 	3 	1 	17 	1 	godliness 	NN
+Pe2 	1 	3 	1 	18 	0 	,
+Pe2 	1 	3 	1 	19 	1 	through 	IN
+Pe2 	1 	3 	1 	20 	1 	the 	DT
+Pe2 	1 	3 	1 	21 	1 	knowledge 	NN
+Pe2 	1 	3 	1 	22 	1 	of 	IN
+Pe2 	1 	3 	1 	23 	1 	him 	PRP
+Pe2 	1 	3 	1 	24 	1 	that 	IN
+Pe2 	1 	3 	1 	25 	1 	hath 	NN
+Pe2 	1 	3 	1 	26 	1 	called 	VBN
+Pe2 	1 	3 	1 	27 	1 	us 	PRP
+Pe2 	1 	3 	1 	28 	1 	to 	TO
+Pe2 	1 	3 	1 	29 	1 	glory 	NN
+Pe2 	1 	3 	1 	30 	1 	and 	CC
+Pe2 	1 	3 	1 	31 	1 	virtue 	NN
+Pe2 	1 	3 	1 	32 	0 	:
+Pe2 	1 	4 	1 	1 	1 	Whereby 	WRB
+Pe2 	1 	4 	1 	2 	1 	are 	VBP
+Pe2 	1 	4 	1 	3 	1 	given 	VBN
+Pe2 	1 	4 	1 	4 	1 	unto 	NN
+Pe2 	1 	4 	1 	5 	1 	us 	PRP
+Pe2 	1 	4 	1 	6 	1 	exceeding 	VBG
+Pe2 	1 	4 	1 	7 	1 	great 	JJ
+Pe2 	1 	4 	1 	8 	1 	and 	CC
+Pe2 	1 	4 	1 	9 	1 	precious 	JJ
+Pe2 	1 	4 	1 	10 	1 	promises 	NNS
+Pe2 	1 	4 	1 	11 	0 	:
+Pe2 	1 	4 	1 	12 	1 	that 	IN
+Pe2 	1 	4 	1 	13 	1 	by 	IN
+Pe2 	1 	4 	1 	14 	1 	these 	DT
+Pe2 	1 	4 	1 	15 	1 	ye 	NN
+Pe2 	1 	4 	1 	16 	1 	might 	MD
+Pe2 	1 	4 	1 	17 	1 	be 	VB
+Pe2 	1 	4 	1 	18 	1 	partakers 	NNS
+Pe2 	1 	4 	1 	19 	1 	of 	IN
+Pe2 	1 	4 	1 	20 	1 	the 	DT
+Pe2 	1 	4 	1 	21 	1 	divine 	NN
+Pe2 	1 	4 	1 	22 	1 	nature 	NN
+Pe2 	1 	4 	1 	23 	0 	,
+Pe2 	1 	4 	1 	24 	1 	having 	VBG
+Pe2 	1 	4 	1 	25 	1 	escaped 	VBD
+Pe2 	1 	4 	1 	26 	1 	the 	DT
+Pe2 	1 	4 	1 	27 	1 	corruption 	NN
+Pe2 	1 	4 	1 	28 	1 	that 	IN
+Pe2 	1 	4 	1 	29 	1 	is 	VBZ
+Pe2 	1 	4 	1 	30 	1 	in 	IN
+Pe2 	1 	4 	1 	31 	1 	the 	DT
+Pe2 	1 	4 	1 	32 	1 	world 	NN
+Pe2 	1 	4 	1 	33 	1 	through 	IN
+Pe2 	1 	4 	1 	34 	1 	lust 	NN
+Pe2 	1 	4 	1 	35 	0 	.
+Pe2 	1 	5 	1 	1 	1 	And 	CC
+Pe2 	1 	5 	1 	2 	1 	beside 	NN
+Pe2 	1 	5 	1 	3 	1 	this 	DT
+Pe2 	1 	5 	1 	4 	0 	,
+Pe2 	1 	5 	1 	5 	1 	giving 	VBG
+Pe2 	1 	5 	1 	6 	1 	all 	DT
+Pe2 	1 	5 	1 	7 	1 	diligence 	NN
+Pe2 	1 	5 	1 	8 	0 	,
+Pe2 	1 	5 	1 	9 	1 	add 	VB
+Pe2 	1 	5 	1 	10 	1 	to 	TO
+Pe2 	1 	5 	1 	11 	1 	your 	PRP$
+Pe2 	1 	5 	1 	12 	1 	faith 	NN
+Pe2 	1 	5 	1 	13 	1 	virtue 	NN
+Pe2 	1 	5 	1 	14 	0 	;
+Pe2 	1 	5 	1 	15 	1 	and 	CC
+Pe2 	1 	5 	1 	16 	1 	to 	TO
+Pe2 	1 	5 	1 	17 	1 	virtue 	NN
+Pe2 	1 	5 	1 	18 	1 	knowledge 	NN
+Pe2 	1 	5 	1 	19 	0 	;
+Pe2 	1 	6 	1 	1 	1 	And 	CC
+Pe2 	1 	6 	1 	2 	1 	to 	TO
+Pe2 	1 	6 	1 	3 	1 	knowledge 	NN
+Pe2 	1 	6 	1 	4 	1 	temperance 	NN
+Pe2 	1 	6 	1 	5 	0 	;
+Pe2 	1 	6 	1 	6 	1 	and 	CC
+Pe2 	1 	6 	1 	7 	1 	to 	TO
+Pe2 	1 	6 	1 	8 	1 	temperance 	NN
+Pe2 	1 	6 	1 	9 	1 	patience 	NN
+Pe2 	1 	6 	1 	10 	0 	;
+Pe2 	1 	6 	1 	11 	1 	and 	CC
+Pe2 	1 	6 	1 	12 	1 	to 	TO
+Pe2 	1 	6 	1 	13 	1 	patience 	NN
+Pe2 	1 	6 	1 	14 	1 	godliness 	NN
+Pe2 	1 	6 	1 	15 	0 	;
+Pe2 	1 	7 	1 	1 	1 	And 	CC
+Pe2 	1 	7 	1 	2 	1 	to 	TO
+Pe2 	1 	7 	1 	3 	1 	godliness 	NN
+Pe2 	1 	7 	1 	4 	1 	brotherly 	RB
+Pe2 	1 	7 	1 	5 	1 	kindness 	NN
+Pe2 	1 	7 	1 	6 	0 	;
+Pe2 	1 	7 	1 	7 	1 	and 	CC
+Pe2 	1 	7 	1 	8 	1 	to 	TO
+Pe2 	1 	7 	1 	9 	1 	brotherly 	RB
+Pe2 	1 	7 	1 	10 	1 	kindness 	NN
+Pe2 	1 	7 	1 	11 	1 	charity 	NN
+Pe2 	1 	7 	1 	12 	0 	.
+Pe2 	1 	8 	1 	1 	1 	For 	IN
+Pe2 	1 	8 	1 	2 	1 	if 	IN
+Pe2 	1 	8 	1 	3 	1 	these 	DT
+Pe2 	1 	8 	1 	4 	1 	things 	NNS
+Pe2 	1 	8 	1 	5 	1 	be 	VB
+Pe2 	1 	8 	1 	6 	1 	in 	IN
+Pe2 	1 	8 	1 	7 	1 	you 	PRP
+Pe2 	1 	8 	1 	8 	0 	,
+Pe2 	1 	8 	1 	9 	1 	and 	CC
+Pe2 	1 	8 	1 	10 	1 	abound 	NN
+Pe2 	1 	8 	1 	11 	0 	,
+Pe2 	1 	8 	1 	12 	1 	they 	PRP
+Pe2 	1 	8 	1 	13 	1 	make 	VB
+Pe2 	1 	8 	1 	14 	1 	you 	PRP
+Pe2 	1 	8 	1 	15 	1 	that 	IN
+Pe2 	1 	8 	1 	16 	1 	ye 	NN
+Pe2 	1 	8 	1 	17 	1 	shall 	MD
+Pe2 	1 	8 	1 	18 	1 	neither 	DT
+Pe2 	1 	8 	1 	19 	1 	be 	VB
+Pe2 	1 	8 	1 	20 	1 	barren 	NNS
+Pe2 	1 	8 	1 	21 	1 	nor 	CC
+Pe2 	1 	8 	1 	22 	1 	unfruitful 	JJ
+Pe2 	1 	8 	1 	23 	1 	in 	IN
+Pe2 	1 	8 	1 	24 	1 	the 	DT
+Pe2 	1 	8 	1 	25 	1 	knowledge 	NN
+Pe2 	1 	8 	1 	26 	1 	of 	IN
+Pe2 	1 	8 	1 	27 	1 	our 	PRP$
+Pe2 	1 	8 	1 	28 	1 	Lord 	NN
+Pe2 	1 	8 	1 	29 	1 	Jesus 	NN
+Pe2 	1 	8 	1 	30 	1 	Christ 	NN
+Pe2 	1 	8 	1 	31 	0 	.
+Pe2 	1 	9 	1 	1 	1 	But 	CC
+Pe2 	1 	9 	1 	2 	1 	he 	PRP
+Pe2 	1 	9 	1 	3 	1 	that 	IN
+Pe2 	1 	9 	1 	4 	1 	lacketh 	NN
+Pe2 	1 	9 	1 	5 	1 	these 	DT
+Pe2 	1 	9 	1 	6 	1 	things 	NNS
+Pe2 	1 	9 	1 	7 	1 	is 	VBZ
+Pe2 	1 	9 	1 	8 	1 	blind 	NN
+Pe2 	1 	9 	1 	9 	0 	,
+Pe2 	1 	9 	1 	10 	1 	and 	CC
+Pe2 	1 	9 	1 	11 	1 	can 	MD
+Pe2 	1 	9 	1 	12 	1 	not 	RB
+Pe2 	1 	9 	1 	13 	1 	see 	VB
+Pe2 	1 	9 	1 	14 	1 	afar 	NN
+Pe2 	1 	9 	1 	15 	1 	off 	IN
+Pe2 	1 	9 	1 	16 	0 	,
+Pe2 	1 	9 	1 	17 	1 	and 	CC
+Pe2 	1 	9 	1 	18 	1 	hath 	NN
+Pe2 	1 	9 	1 	19 	1 	forgotten 	NNS
+Pe2 	1 	9 	1 	20 	1 	that 	IN
+Pe2 	1 	9 	1 	21 	1 	he 	PRP
+Pe2 	1 	9 	1 	22 	1 	was 	VBD
+Pe2 	1 	9 	1 	23 	1 	purged 	VBN
+Pe2 	1 	9 	1 	24 	1 	from 	IN
+Pe2 	1 	9 	1 	25 	1 	his 	PRP$
+Pe2 	1 	9 	1 	26 	1 	old 	JJ
+Pe2 	1 	9 	1 	27 	1 	sins 	NNS
+Pe2 	1 	9 	1 	28 	0 	.
+Pe2 	1 	10 	1 	1 	1 	Wherefore 	IN
+Pe2 	1 	10 	1 	2 	1 	the 	DT
+Pe2 	1 	10 	1 	3 	1 	rather 	RB
+Pe2 	1 	10 	1 	4 	0 	,
+Pe2 	1 	10 	1 	5 	1 	brethren 	NNS
+Pe2 	1 	10 	1 	6 	0 	,
+Pe2 	1 	10 	1 	7 	1 	give 	VB
+Pe2 	1 	10 	1 	8 	1 	diligence 	NN
+Pe2 	1 	10 	1 	9 	1 	to 	TO
+Pe2 	1 	10 	1 	10 	1 	make 	VB
+Pe2 	1 	10 	1 	11 	1 	your 	PRP$
+Pe2 	1 	10 	1 	12 	1 	calling 	VBG
+Pe2 	1 	10 	1 	13 	1 	and 	CC
+Pe2 	1 	10 	1 	14 	1 	election 	NN
+Pe2 	1 	10 	1 	15 	1 	sure 	NN
+Pe2 	1 	10 	1 	16 	0 	:
+Pe2 	1 	10 	1 	17 	1 	for 	IN
+Pe2 	1 	10 	1 	18 	1 	if 	IN
+Pe2 	1 	10 	1 	19 	1 	ye 	NN
+Pe2 	1 	10 	1 	20 	1 	do 	VB
+Pe2 	1 	10 	1 	21 	1 	these 	DT
+Pe2 	1 	10 	1 	22 	1 	things 	NNS
+Pe2 	1 	10 	1 	23 	0 	,
+Pe2 	1 	10 	1 	24 	1 	ye 	NN
+Pe2 	1 	10 	1 	25 	1 	shall 	MD
+Pe2 	1 	10 	1 	26 	1 	never 	RB
+Pe2 	1 	10 	1 	27 	1 	fall 	NN
+Pe2 	1 	10 	1 	28 	0 	:
+Pe2 	1 	11 	1 	1 	1 	For 	IN
+Pe2 	1 	11 	1 	2 	1 	so 	RB
+Pe2 	1 	11 	1 	3 	1 	an 	DT
+Pe2 	1 	11 	1 	4 	1 	entrance 	NN
+Pe2 	1 	11 	1 	5 	1 	shall 	MD
+Pe2 	1 	11 	1 	6 	1 	be 	VB
+Pe2 	1 	11 	1 	7 	1 	ministered 	VBN
+Pe2 	1 	11 	1 	8 	1 	unto 	NN
+Pe2 	1 	11 	1 	9 	1 	you 	PRP
+Pe2 	1 	11 	1 	10 	1 	abundantly 	RB
+Pe2 	1 	11 	1 	11 	1 	into 	IN
+Pe2 	1 	11 	1 	12 	1 	the 	DT
+Pe2 	1 	11 	1 	13 	1 	everlasting 	VBG
+Pe2 	1 	11 	1 	14 	1 	kingdom 	NN
+Pe2 	1 	11 	1 	15 	1 	of 	IN
+Pe2 	1 	11 	1 	16 	1 	our 	PRP$
+Pe2 	1 	11 	1 	17 	1 	Lord 	NN
+Pe2 	1 	11 	1 	18 	1 	and 	CC
+Pe2 	1 	11 	1 	19 	1 	Saviour 	NN
+Pe2 	1 	11 	1 	20 	1 	Jesus 	NN
+Pe2 	1 	11 	1 	21 	1 	Christ 	NN
+Pe2 	1 	11 	1 	22 	0 	.
+Pe2 	1 	12 	1 	1 	1 	Wherefore 	IN
+Pe2 	1 	12 	1 	2 	1 	I 	PRP
+Pe2 	1 	12 	1 	3 	1 	will 	MD
+Pe2 	1 	12 	1 	4 	1 	not 	RB
+Pe2 	1 	12 	1 	5 	1 	be 	VB
+Pe2 	1 	12 	1 	6 	1 	negligent 	NN
+Pe2 	1 	12 	1 	7 	1 	to 	TO
+Pe2 	1 	12 	1 	8 	1 	put 	NN
+Pe2 	1 	12 	1 	9 	1 	you 	PRP
+Pe2 	1 	12 	1 	10 	1 	always 	RB
+Pe2 	1 	12 	1 	11 	1 	in 	IN
+Pe2 	1 	12 	1 	12 	1 	remembrance 	NN
+Pe2 	1 	12 	1 	13 	1 	of 	IN
+Pe2 	1 	12 	1 	14 	1 	these 	DT
+Pe2 	1 	12 	1 	15 	1 	things 	NNS
+Pe2 	1 	12 	1 	16 	0 	,
+Pe2 	1 	12 	1 	17 	1 	though 	IN
+Pe2 	1 	12 	1 	18 	1 	ye 	NN
+Pe2 	1 	12 	1 	19 	1 	know 	VB
+Pe2 	1 	12 	1 	20 	1 	them 	PRP
+Pe2 	1 	12 	1 	21 	0 	,
+Pe2 	1 	12 	1 	22 	1 	and 	CC
+Pe2 	1 	12 	1 	23 	1 	be 	VB
+Pe2 	1 	12 	1 	24 	1 	established 	VBN
+Pe2 	1 	12 	1 	25 	1 	in 	IN
+Pe2 	1 	12 	1 	26 	1 	the 	DT
+Pe2 	1 	12 	1 	27 	1 	present 	NN
+Pe2 	1 	12 	1 	28 	1 	truth 	NN
+Pe2 	1 	12 	1 	29 	0 	.
+Pe2 	1 	13 	1 	1 	1 	Yea 	NN
+Pe2 	1 	13 	1 	2 	0 	,
+Pe2 	1 	13 	1 	3 	1 	I 	PRP
+Pe2 	1 	13 	1 	4 	1 	think 	NN
+Pe2 	1 	13 	1 	5 	1 	it 	PRP
+Pe2 	1 	13 	1 	6 	1 	meet 	NN
+Pe2 	1 	13 	1 	7 	0 	,
+Pe2 	1 	13 	1 	8 	1 	as 	IN
+Pe2 	1 	13 	1 	9 	1 	long 	RB
+Pe2 	1 	13 	1 	10 	1 	as 	IN
+Pe2 	1 	13 	1 	11 	1 	I 	PRP
+Pe2 	1 	13 	1 	12 	1 	am 	VBP
+Pe2 	1 	13 	1 	13 	1 	in 	IN
+Pe2 	1 	13 	1 	14 	1 	this 	DT
+Pe2 	1 	13 	1 	15 	1 	tabernacle 	NN
+Pe2 	1 	13 	1 	16 	0 	,
+Pe2 	1 	13 	1 	17 	1 	to 	TO
+Pe2 	1 	13 	1 	18 	1 	stir 	NN
+Pe2 	1 	13 	1 	19 	1 	you 	PRP
+Pe2 	1 	13 	1 	20 	1 	up 	RB
+Pe2 	1 	13 	1 	21 	1 	by 	IN
+Pe2 	1 	13 	1 	22 	1 	putting 	VBG
+Pe2 	1 	13 	1 	23 	1 	you 	PRP
+Pe2 	1 	13 	1 	24 	1 	in 	IN
+Pe2 	1 	13 	1 	25 	1 	remembrance 	NN
+Pe2 	1 	13 	1 	26 	0 	;
+Pe2 	1 	14 	1 	1 	1 	Knowing 	VBG
+Pe2 	1 	14 	1 	2 	1 	that 	IN
+Pe2 	1 	14 	1 	3 	1 	shortly 	RB
+Pe2 	1 	14 	1 	4 	1 	I 	PRP
+Pe2 	1 	14 	1 	5 	1 	must 	MD
+Pe2 	1 	14 	1 	6 	1 	put 	NN
+Pe2 	1 	14 	1 	7 	1 	off 	IN
+Pe2 	1 	14 	1 	8 	1 	this 	DT
+Pe2 	1 	14 	1 	9 	1 	my 	PRP$
+Pe2 	1 	14 	1 	10 	1 	tabernacle 	NN
+Pe2 	1 	14 	1 	11 	0 	,
+Pe2 	1 	14 	1 	12 	1 	even 	RB
+Pe2 	1 	14 	1 	13 	1 	as 	IN
+Pe2 	1 	14 	1 	14 	1 	our 	PRP$
+Pe2 	1 	14 	1 	15 	1 	Lord 	NN
+Pe2 	1 	14 	1 	16 	1 	Jesus 	NN
+Pe2 	1 	14 	1 	17 	1 	Christ 	NN
+Pe2 	1 	14 	1 	18 	1 	hath 	NN
+Pe2 	1 	14 	1 	19 	1 	shewed 	VBN
+Pe2 	1 	14 	1 	20 	1 	me 	PRP
+Pe2 	1 	14 	1 	21 	0 	.
+Pe2 	1 	15 	1 	1 	1 	Moreover 	RB
+Pe2 	1 	15 	1 	2 	1 	I 	PRP
+Pe2 	1 	15 	1 	3 	1 	will 	MD
+Pe2 	1 	15 	1 	4 	1 	endeavour 	NN
+Pe2 	1 	15 	1 	5 	1 	that 	IN
+Pe2 	1 	15 	1 	6 	1 	ye 	NN
+Pe2 	1 	15 	1 	7 	1 	may 	MD
+Pe2 	1 	15 	1 	8 	1 	be 	VB
+Pe2 	1 	15 	1 	9 	1 	able 	JJ
+Pe2 	1 	15 	1 	10 	1 	after 	IN
+Pe2 	1 	15 	1 	11 	1 	my 	PRP$
+Pe2 	1 	15 	1 	12 	1 	decease 	NN
+Pe2 	1 	15 	1 	13 	1 	to 	TO
+Pe2 	1 	15 	1 	14 	1 	have 	VB
+Pe2 	1 	15 	1 	15 	1 	these 	DT
+Pe2 	1 	15 	1 	16 	1 	things 	NNS
+Pe2 	1 	15 	1 	17 	1 	always 	RB
+Pe2 	1 	15 	1 	18 	1 	in 	IN
+Pe2 	1 	15 	1 	19 	1 	remembrance 	NN
+Pe2 	1 	15 	1 	20 	0 	.
+Pe2 	1 	16 	1 	1 	1 	For 	IN
+Pe2 	1 	16 	1 	2 	1 	we 	PRP
+Pe2 	1 	16 	1 	3 	1 	have 	VB
+Pe2 	1 	16 	1 	4 	1 	not 	RB
+Pe2 	1 	16 	1 	5 	1 	followed 	VBD
+Pe2 	1 	16 	1 	6 	1 	cunningly 	RB
+Pe2 	1 	16 	1 	7 	1 	devised 	VBN
+Pe2 	1 	16 	1 	8 	1 	fables 	NNS
+Pe2 	1 	16 	1 	9 	0 	,
+Pe2 	1 	16 	1 	10 	1 	when 	WRB
+Pe2 	1 	16 	1 	11 	1 	we 	PRP
+Pe2 	1 	16 	1 	12 	1 	made 	VBN
+Pe2 	1 	16 	1 	13 	1 	known 	VBN
+Pe2 	1 	16 	1 	14 	1 	unto 	NN
+Pe2 	1 	16 	1 	15 	1 	you 	PRP
+Pe2 	1 	16 	1 	16 	1 	the 	DT
+Pe2 	1 	16 	1 	17 	1 	power 	NN
+Pe2 	1 	16 	1 	18 	1 	and 	CC
+Pe2 	1 	16 	1 	19 	1 	coming 	VBG
+Pe2 	1 	16 	1 	20 	1 	of 	IN
+Pe2 	1 	16 	1 	21 	1 	our 	PRP$
+Pe2 	1 	16 	1 	22 	1 	Lord 	NN
+Pe2 	1 	16 	1 	23 	1 	Jesus 	NN
+Pe2 	1 	16 	1 	24 	1 	Christ 	NN
+Pe2 	1 	16 	1 	25 	0 	,
+Pe2 	1 	16 	1 	26 	1 	but 	CC
+Pe2 	1 	16 	1 	27 	1 	were 	VBD
+Pe2 	1 	16 	1 	28 	1 	eyewitnesses 	NNS
+Pe2 	1 	16 	1 	29 	1 	of 	IN
+Pe2 	1 	16 	1 	30 	1 	his 	PRP$
+Pe2 	1 	16 	1 	31 	1 	majesty 	NN
+Pe2 	1 	16 	1 	32 	0 	.
+Pe2 	1 	17 	1 	1 	1 	For 	IN
+Pe2 	1 	17 	1 	2 	1 	he 	PRP
+Pe2 	1 	17 	1 	3 	1 	received 	VBN
+Pe2 	1 	17 	1 	4 	1 	from 	IN
+Pe2 	1 	17 	1 	5 	1 	God 	NNP
+Pe2 	1 	17 	1 	6 	1 	the 	DT
+Pe2 	1 	17 	1 	7 	1 	Father 	NN
+Pe2 	1 	17 	1 	8 	1 	honour 	NN
+Pe2 	1 	17 	1 	9 	1 	and 	CC
+Pe2 	1 	17 	1 	10 	1 	glory 	NN
+Pe2 	1 	17 	1 	11 	0 	,
+Pe2 	1 	17 	1 	12 	1 	when 	WRB
+Pe2 	1 	17 	1 	13 	1 	there 	RB
+Pe2 	1 	17 	1 	14 	1 	came 	VBD
+Pe2 	1 	17 	1 	15 	1 	such 	JJ
+Pe2 	1 	17 	1 	16 	1 	a 	DT
+Pe2 	1 	17 	1 	17 	1 	voice 	NN
+Pe2 	1 	17 	1 	18 	1 	to 	TO
+Pe2 	1 	17 	1 	19 	1 	him 	PRP
+Pe2 	1 	17 	1 	20 	1 	from 	IN
+Pe2 	1 	17 	1 	21 	1 	the 	DT
+Pe2 	1 	17 	1 	22 	1 	excellent 	NN
+Pe2 	1 	17 	1 	23 	1 	glory 	NN
+Pe2 	1 	17 	1 	24 	0 	,
+Pe2 	1 	17 	1 	25 	1 	This 	DT
+Pe2 	1 	17 	1 	26 	1 	is 	VBZ
+Pe2 	1 	17 	1 	27 	1 	my 	PRP$
+Pe2 	1 	17 	1 	28 	1 	beloved 	VBN
+Pe2 	1 	17 	1 	29 	1 	Son 	NN
+Pe2 	1 	17 	1 	30 	0 	,
+Pe2 	1 	17 	1 	31 	1 	in 	IN
+Pe2 	1 	17 	1 	32 	1 	whom 	WP
+Pe2 	1 	17 	1 	33 	1 	I 	PRP
+Pe2 	1 	17 	1 	34 	1 	am 	VBP
+Pe2 	1 	17 	1 	35 	1 	well 	RB
+Pe2 	1 	17 	1 	36 	1 	pleased 	JJ
+Pe2 	1 	17 	1 	37 	0 	.
+Pe2 	1 	18 	1 	1 	1 	And 	CC
+Pe2 	1 	18 	1 	2 	1 	this 	DT
+Pe2 	1 	18 	1 	3 	1 	voice 	NN
+Pe2 	1 	18 	1 	4 	1 	which 	WDT
+Pe2 	1 	18 	1 	5 	1 	came 	VBD
+Pe2 	1 	18 	1 	6 	1 	from 	IN
+Pe2 	1 	18 	1 	7 	1 	heaven 	NN
+Pe2 	1 	18 	1 	8 	1 	we 	PRP
+Pe2 	1 	18 	1 	9 	1 	heard 	NN
+Pe2 	1 	18 	1 	10 	0 	,
+Pe2 	1 	18 	1 	11 	1 	when 	WRB
+Pe2 	1 	18 	1 	12 	1 	we 	PRP
+Pe2 	1 	18 	1 	13 	1 	were 	VBD
+Pe2 	1 	18 	1 	14 	1 	with 	IN
+Pe2 	1 	18 	1 	15 	1 	him 	PRP
+Pe2 	1 	18 	1 	16 	1 	in 	IN
+Pe2 	1 	18 	1 	17 	1 	the 	DT
+Pe2 	1 	18 	1 	18 	1 	holy 	NN
+Pe2 	1 	18 	1 	19 	1 	mount 	NN
+Pe2 	1 	18 	1 	20 	0 	.
+Pe2 	1 	19 	1 	1 	1 	We 	PRP
+Pe2 	1 	19 	1 	2 	1 	have 	VB
+Pe2 	1 	19 	1 	3 	1 	also 	RB
+Pe2 	1 	19 	1 	4 	1 	a 	DT
+Pe2 	1 	19 	1 	5 	1 	more 	RBR
+Pe2 	1 	19 	1 	6 	1 	sure 	NN
+Pe2 	1 	19 	1 	7 	1 	word 	NN
+Pe2 	1 	19 	1 	8 	1 	of 	IN
+Pe2 	1 	19 	1 	9 	1 	prophecy 	NN
+Pe2 	1 	19 	1 	10 	0 	;
+Pe2 	1 	19 	1 	11 	1 	whereunto 	NN
+Pe2 	1 	19 	1 	12 	1 	ye 	NN
+Pe2 	1 	19 	1 	13 	1 	do 	VB
+Pe2 	1 	19 	1 	14 	1 	well 	RB
+Pe2 	1 	19 	1 	15 	1 	that 	IN
+Pe2 	1 	19 	1 	16 	1 	ye 	NN
+Pe2 	1 	19 	1 	17 	1 	take 	VB
+Pe2 	1 	19 	1 	18 	1 	heed 	NN
+Pe2 	1 	19 	1 	19 	0 	,
+Pe2 	1 	19 	1 	20 	1 	as 	IN
+Pe2 	1 	19 	1 	21 	1 	unto 	NN
+Pe2 	1 	19 	1 	22 	1 	a 	DT
+Pe2 	1 	19 	1 	23 	1 	light 	NN
+Pe2 	1 	19 	1 	24 	1 	that 	IN
+Pe2 	1 	19 	1 	25 	1 	shineth 	NN
+Pe2 	1 	19 	1 	26 	1 	in 	IN
+Pe2 	1 	19 	1 	27 	1 	a 	DT
+Pe2 	1 	19 	1 	28 	1 	dark 	NN
+Pe2 	1 	19 	1 	29 	1 	place 	NN
+Pe2 	1 	19 	1 	30 	0 	,
+Pe2 	1 	19 	1 	31 	1 	until 	IN
+Pe2 	1 	19 	1 	32 	1 	the 	DT
+Pe2 	1 	19 	1 	33 	1 	day 	NN
+Pe2 	1 	19 	1 	34 	1 	dawn 	NN
+Pe2 	1 	19 	1 	35 	0 	,
+Pe2 	1 	19 	1 	36 	1 	and 	CC
+Pe2 	1 	19 	1 	37 	1 	the 	DT
+Pe2 	1 	19 	1 	38 	1 	day 	NN
+Pe2 	1 	19 	1 	39 	1 	star 	NN
+Pe2 	1 	19 	1 	40 	1 	arise 	NN
+Pe2 	1 	19 	1 	41 	1 	in 	IN
+Pe2 	1 	19 	1 	42 	1 	your 	PRP$
+Pe2 	1 	19 	1 	43 	1 	hearts 	NNS
+Pe2 	1 	19 	1 	44 	0 	:
+Pe2 	1 	20 	1 	1 	1 	Knowing 	VBG
+Pe2 	1 	20 	1 	2 	1 	this 	DT
+Pe2 	1 	20 	1 	3 	1 	first 	RB
+Pe2 	1 	20 	1 	4 	0 	,
+Pe2 	1 	20 	1 	5 	1 	that 	IN
+Pe2 	1 	20 	1 	6 	1 	no 	DT
+Pe2 	1 	20 	1 	7 	1 	prophecy 	NN
+Pe2 	1 	20 	1 	8 	1 	of 	IN
+Pe2 	1 	20 	1 	9 	1 	the 	DT
+Pe2 	1 	20 	1 	10 	1 	scripture 	NN
+Pe2 	1 	20 	1 	11 	1 	is 	VBZ
+Pe2 	1 	20 	1 	12 	1 	of 	IN
+Pe2 	1 	20 	1 	13 	1 	any 	DT
+Pe2 	1 	20 	1 	14 	1 	private 	JJ
+Pe2 	1 	20 	1 	15 	1 	interpretation 	NN
+Pe2 	1 	20 	1 	16 	0 	.
+Pe2 	1 	21 	1 	1 	1 	For 	IN
+Pe2 	1 	21 	1 	2 	1 	the 	DT
+Pe2 	1 	21 	1 	3 	1 	prophecy 	NN
+Pe2 	1 	21 	1 	4 	1 	came 	VBD
+Pe2 	1 	21 	1 	5 	1 	not 	RB
+Pe2 	1 	21 	1 	6 	1 	in 	IN
+Pe2 	1 	21 	1 	7 	1 	old 	JJ
+Pe2 	1 	21 	1 	8 	1 	time 	NN
+Pe2 	1 	21 	1 	9 	1 	by 	IN
+Pe2 	1 	21 	1 	10 	1 	the 	DT
+Pe2 	1 	21 	1 	11 	1 	will 	MD
+Pe2 	1 	21 	1 	12 	1 	of 	IN
+Pe2 	1 	21 	1 	13 	1 	man 	NN
+Pe2 	1 	21 	1 	14 	0 	:
+Pe2 	1 	21 	1 	15 	1 	but 	CC
+Pe2 	1 	21 	1 	16 	1 	holy 	NN
+Pe2 	1 	21 	1 	17 	1 	men 	NNS
+Pe2 	1 	21 	1 	18 	1 	of 	IN
+Pe2 	1 	21 	1 	19 	1 	God 	NNP
+Pe2 	1 	21 	1 	20 	1 	spake 	NN
+Pe2 	1 	21 	1 	21 	1 	as 	IN
+Pe2 	1 	21 	1 	22 	1 	they 	PRP
+Pe2 	1 	21 	1 	23 	1 	were 	VBD
+Pe2 	1 	21 	1 	24 	1 	moved 	VBN
+Pe2 	1 	21 	1 	25 	1 	by 	IN
+Pe2 	1 	21 	1 	26 	1 	the 	DT
+Pe2 	1 	21 	1 	27 	1 	Holy 	NNP
+Pe2 	1 	21 	1 	28 	1 	Ghost 	NN
+Pe2 	1 	21 	1 	29 	0 	.
+Pe2 	2 	1 	1 	1 	1 	But 	CC
+Pe2 	2 	1 	1 	2 	1 	there 	RB
+Pe2 	2 	1 	1 	3 	1 	were 	VBD
+Pe2 	2 	1 	1 	4 	1 	false 	JJ
+Pe2 	2 	1 	1 	5 	1 	prophets 	NNS
+Pe2 	2 	1 	1 	6 	1 	also 	RB
+Pe2 	2 	1 	1 	7 	1 	among 	IN
+Pe2 	2 	1 	1 	8 	1 	the 	DT
+Pe2 	2 	1 	1 	9 	1 	people 	NNS
+Pe2 	2 	1 	1 	10 	0 	,
+Pe2 	2 	1 	1 	11 	1 	even 	RB
+Pe2 	2 	1 	1 	12 	1 	as 	IN
+Pe2 	2 	1 	1 	13 	1 	there 	RB
+Pe2 	2 	1 	1 	14 	1 	shall 	MD
+Pe2 	2 	1 	1 	15 	1 	be 	VB
+Pe2 	2 	1 	1 	16 	1 	false 	JJ
+Pe2 	2 	1 	1 	17 	1 	teachers 	NNS
+Pe2 	2 	1 	1 	18 	1 	among 	IN
+Pe2 	2 	1 	1 	19 	1 	you 	PRP
+Pe2 	2 	1 	1 	20 	0 	,
+Pe2 	2 	1 	1 	21 	1 	who 	WP
+Pe2 	2 	1 	1 	22 	1 	privily 	RB
+Pe2 	2 	1 	1 	23 	1 	shall 	MD
+Pe2 	2 	1 	1 	24 	1 	bring 	NN
+Pe2 	2 	1 	1 	25 	1 	in 	IN
+Pe2 	2 	1 	1 	26 	1 	damnable 	JJ
+Pe2 	2 	1 	1 	27 	1 	heresies 	NNS
+Pe2 	2 	1 	1 	28 	0 	,
+Pe2 	2 	1 	1 	29 	1 	even 	RB
+Pe2 	2 	1 	1 	30 	1 	denying 	VBG
+Pe2 	2 	1 	1 	31 	1 	the 	DT
+Pe2 	2 	1 	1 	32 	1 	Lord 	NN
+Pe2 	2 	1 	1 	33 	1 	that 	IN
+Pe2 	2 	1 	1 	34 	1 	bought 	NN
+Pe2 	2 	1 	1 	35 	1 	them 	PRP
+Pe2 	2 	1 	1 	36 	0 	,
+Pe2 	2 	1 	1 	37 	1 	and 	CC
+Pe2 	2 	1 	1 	38 	1 	bring 	NN
+Pe2 	2 	1 	1 	39 	1 	upon 	IN
+Pe2 	2 	1 	1 	40 	1 	themselves 	PRP
+Pe2 	2 	1 	1 	41 	1 	swift 	NN
+Pe2 	2 	1 	1 	42 	1 	destruction 	NN
+Pe2 	2 	1 	1 	43 	0 	.
+Pe2 	2 	2 	1 	1 	1 	And 	CC
+Pe2 	2 	2 	1 	2 	1 	many 	JJ
+Pe2 	2 	2 	1 	3 	1 	shall 	MD
+Pe2 	2 	2 	1 	4 	1 	follow 	VB
+Pe2 	2 	2 	1 	5 	1 	their 	PRP$
+Pe2 	2 	2 	1 	6 	1 	pernicious 	JJ
+Pe2 	2 	2 	1 	7 	1 	ways 	NNS
+Pe2 	2 	2 	1 	8 	0 	;
+Pe2 	2 	2 	1 	9 	1 	by 	IN
+Pe2 	2 	2 	1 	10 	1 	reason 	NN
+Pe2 	2 	2 	1 	11 	1 	of 	IN
+Pe2 	2 	2 	1 	12 	1 	whom 	WP
+Pe2 	2 	2 	1 	13 	1 	the 	DT
+Pe2 	2 	2 	1 	14 	1 	way 	NN
+Pe2 	2 	2 	1 	15 	1 	of 	IN
+Pe2 	2 	2 	1 	16 	1 	truth 	NN
+Pe2 	2 	2 	1 	17 	1 	shall 	MD
+Pe2 	2 	2 	1 	18 	1 	be 	VB
+Pe2 	2 	2 	1 	19 	1 	evil 	NN
+Pe2 	2 	2 	1 	20 	1 	spoken 	NN
+Pe2 	2 	2 	1 	21 	1 	of 	IN
+Pe2 	2 	2 	1 	22 	0 	.
+Pe2 	2 	3 	1 	1 	1 	And 	CC
+Pe2 	2 	3 	1 	2 	1 	through 	IN
+Pe2 	2 	3 	1 	3 	1 	covetousness 	NN
+Pe2 	2 	3 	1 	4 	1 	shall 	MD
+Pe2 	2 	3 	1 	5 	1 	they 	PRP
+Pe2 	2 	3 	1 	6 	1 	with 	IN
+Pe2 	2 	3 	1 	7 	1 	feigned 	VBN
+Pe2 	2 	3 	1 	8 	1 	words 	NNS
+Pe2 	2 	3 	1 	9 	1 	make 	VB
+Pe2 	2 	3 	1 	10 	1 	merchandise 	NN
+Pe2 	2 	3 	1 	11 	1 	of 	IN
+Pe2 	2 	3 	1 	12 	1 	you 	PRP
+Pe2 	2 	3 	1 	13 	0 	:
+Pe2 	2 	3 	1 	14 	1 	whose 	WP$
+Pe2 	2 	3 	1 	15 	1 	judgment 	NN
+Pe2 	2 	3 	1 	16 	1 	now 	RB
+Pe2 	2 	3 	1 	17 	1 	of 	IN
+Pe2 	2 	3 	1 	18 	1 	a 	DT
+Pe2 	2 	3 	1 	19 	1 	long 	RB
+Pe2 	2 	3 	1 	20 	1 	time 	NN
+Pe2 	2 	3 	1 	21 	1 	lingereth 	NN
+Pe2 	2 	3 	1 	22 	1 	not 	RB
+Pe2 	2 	3 	1 	23 	0 	,
+Pe2 	2 	3 	1 	24 	1 	and 	CC
+Pe2 	2 	3 	1 	25 	1 	their 	PRP$
+Pe2 	2 	3 	1 	26 	1 	damnation 	NN
+Pe2 	2 	3 	1 	27 	1 	slumbereth 	NN
+Pe2 	2 	3 	1 	28 	1 	not 	RB
+Pe2 	2 	3 	1 	29 	0 	.
+Pe2 	2 	4 	1 	1 	1 	For 	IN
+Pe2 	2 	4 	1 	2 	1 	if 	IN
+Pe2 	2 	4 	1 	3 	1 	God 	NNP
+Pe2 	2 	4 	1 	4 	1 	spared 	VBN
+Pe2 	2 	4 	1 	5 	1 	not 	RB
+Pe2 	2 	4 	1 	6 	1 	the 	DT
+Pe2 	2 	4 	1 	7 	1 	angels 	NNS
+Pe2 	2 	4 	1 	8 	1 	that 	IN
+Pe2 	2 	4 	1 	9 	1 	sinned 	VBN
+Pe2 	2 	4 	1 	10 	0 	,
+Pe2 	2 	4 	1 	11 	1 	but 	CC
+Pe2 	2 	4 	1 	12 	1 	cast 	NN
+Pe2 	2 	4 	1 	13 	1 	them 	PRP
+Pe2 	2 	4 	1 	14 	1 	down 	RB
+Pe2 	2 	4 	1 	15 	1 	to 	TO
+Pe2 	2 	4 	1 	16 	1 	hell 	NN
+Pe2 	2 	4 	1 	17 	0 	,
+Pe2 	2 	4 	1 	18 	1 	and 	CC
+Pe2 	2 	4 	1 	19 	1 	delivered 	VBN
+Pe2 	2 	4 	1 	20 	1 	them 	PRP
+Pe2 	2 	4 	1 	21 	1 	into 	IN
+Pe2 	2 	4 	1 	22 	1 	chains 	NNS
+Pe2 	2 	4 	1 	23 	1 	of 	IN
+Pe2 	2 	4 	1 	24 	1 	darkness 	NN
+Pe2 	2 	4 	1 	25 	0 	,
+Pe2 	2 	4 	1 	26 	1 	to 	TO
+Pe2 	2 	4 	1 	27 	1 	be 	VB
+Pe2 	2 	4 	1 	28 	1 	reserved 	VBN
+Pe2 	2 	4 	1 	29 	1 	unto 	NN
+Pe2 	2 	4 	1 	30 	1 	judgment 	NN
+Pe2 	2 	4 	1 	31 	0 	;
+Pe2 	2 	5 	1 	1 	1 	And 	CC
+Pe2 	2 	5 	1 	2 	1 	spared 	VBN
+Pe2 	2 	5 	1 	3 	1 	not 	RB
+Pe2 	2 	5 	1 	4 	1 	the 	DT
+Pe2 	2 	5 	1 	5 	1 	old 	JJ
+Pe2 	2 	5 	1 	6 	1 	world 	NN
+Pe2 	2 	5 	1 	7 	0 	,
+Pe2 	2 	5 	1 	8 	1 	but 	CC
+Pe2 	2 	5 	1 	9 	1 	saved 	VBN
+Pe2 	2 	5 	1 	10 	1 	Noah 	NN
+Pe2 	2 	5 	1 	11 	1 	the 	DT
+Pe2 	2 	5 	1 	12 	1 	eighth 	NN
+Pe2 	2 	5 	1 	13 	1 	person 	NN
+Pe2 	2 	5 	1 	14 	0 	,
+Pe2 	2 	5 	1 	15 	1 	a 	DT
+Pe2 	2 	5 	1 	16 	1 	preacher 	NN
+Pe2 	2 	5 	1 	17 	1 	of 	IN
+Pe2 	2 	5 	1 	18 	1 	righteousness 	NN
+Pe2 	2 	5 	1 	19 	0 	,
+Pe2 	2 	5 	1 	20 	1 	bringing 	VBG
+Pe2 	2 	5 	1 	21 	1 	in 	IN
+Pe2 	2 	5 	1 	22 	1 	the 	DT
+Pe2 	2 	5 	1 	23 	1 	flood 	NN
+Pe2 	2 	5 	1 	24 	1 	upon 	IN
+Pe2 	2 	5 	1 	25 	1 	the 	DT
+Pe2 	2 	5 	1 	26 	1 	world 	NN
+Pe2 	2 	5 	1 	27 	1 	of 	IN
+Pe2 	2 	5 	1 	28 	1 	the 	DT
+Pe2 	2 	5 	1 	29 	1 	ungodly 	RB
+Pe2 	2 	5 	1 	30 	0 	;
+Pe2 	2 	6 	1 	1 	1 	And 	CC
+Pe2 	2 	6 	1 	2 	1 	turning 	VBG
+Pe2 	2 	6 	1 	3 	1 	the 	DT
+Pe2 	2 	6 	1 	4 	1 	cities 	NNS
+Pe2 	2 	6 	1 	5 	1 	of 	IN
+Pe2 	2 	6 	1 	6 	1 	Sodom 	NN
+Pe2 	2 	6 	1 	7 	1 	and 	CC
+Pe2 	2 	6 	1 	8 	1 	Gomorrha 	NN
+Pe2 	2 	6 	1 	9 	1 	into 	IN
+Pe2 	2 	6 	1 	10 	1 	ashes 	NNS
+Pe2 	2 	6 	1 	11 	1 	condemned 	VBN
+Pe2 	2 	6 	1 	12 	1 	them 	PRP
+Pe2 	2 	6 	1 	13 	1 	with 	IN
+Pe2 	2 	6 	1 	14 	1 	an 	DT
+Pe2 	2 	6 	1 	15 	1 	overthrow 	NN
+Pe2 	2 	6 	1 	16 	0 	,
+Pe2 	2 	6 	1 	17 	1 	making 	VBG
+Pe2 	2 	6 	1 	18 	1 	them 	PRP
+Pe2 	2 	6 	1 	19 	1 	an 	DT
+Pe2 	2 	6 	1 	20 	1 	ensample 	NN
+Pe2 	2 	6 	1 	21 	1 	unto 	NN
+Pe2 	2 	6 	1 	22 	1 	those 	DT
+Pe2 	2 	6 	1 	23 	1 	that 	IN
+Pe2 	2 	6 	1 	24 	1 	after 	IN
+Pe2 	2 	6 	1 	25 	1 	should 	MD
+Pe2 	2 	6 	1 	26 	1 	live 	JJ
+Pe2 	2 	6 	1 	27 	1 	ungodly 	RB
+Pe2 	2 	6 	1 	28 	0 	;
+Pe2 	2 	7 	1 	1 	1 	And 	CC
+Pe2 	2 	7 	1 	2 	1 	delivered 	VBN
+Pe2 	2 	7 	1 	3 	1 	just 	RB
+Pe2 	2 	7 	1 	4 	1 	Lot 	NN
+Pe2 	2 	7 	1 	5 	0 	,
+Pe2 	2 	7 	1 	6 	1 	vexed 	NN
+Pe2 	2 	7 	1 	7 	1 	with 	IN
+Pe2 	2 	7 	1 	8 	1 	the 	DT
+Pe2 	2 	7 	1 	9 	1 	filthy 	NN
+Pe2 	2 	7 	1 	10 	1 	conversation 	NN
+Pe2 	2 	7 	1 	11 	1 	of 	IN
+Pe2 	2 	7 	1 	12 	1 	the 	DT
+Pe2 	2 	7 	1 	13 	1 	wicked 	VBD
+Pe2 	2 	7 	1 	14 	0 	:
+Pe2 	2 	8 	1 	1 	0 	(
+Pe2 	2 	8 	1 	2 	1 	For 	IN
+Pe2 	2 	8 	1 	3 	1 	that 	IN
+Pe2 	2 	8 	1 	4 	1 	righteous 	JJ
+Pe2 	2 	8 	1 	5 	1 	man 	NN
+Pe2 	2 	8 	1 	6 	1 	dwelling 	VBG
+Pe2 	2 	8 	1 	7 	1 	among 	IN
+Pe2 	2 	8 	1 	8 	1 	them 	PRP
+Pe2 	2 	8 	1 	9 	0 	,
+Pe2 	2 	8 	1 	10 	1 	in 	IN
+Pe2 	2 	8 	1 	11 	1 	seeing 	VBG
+Pe2 	2 	8 	1 	12 	1 	and 	CC
+Pe2 	2 	8 	1 	13 	1 	hearing 	NN
+Pe2 	2 	8 	1 	14 	0 	,
+Pe2 	2 	8 	1 	15 	1 	vexed 	NN
+Pe2 	2 	8 	1 	16 	1 	his 	PRP$
+Pe2 	2 	8 	1 	17 	1 	righteous 	JJ
+Pe2 	2 	8 	1 	18 	1 	soul 	NN
+Pe2 	2 	8 	1 	19 	1 	from 	IN
+Pe2 	2 	8 	1 	20 	1 	day 	NN
+Pe2 	2 	8 	1 	21 	1 	to 	TO
+Pe2 	2 	8 	1 	22 	1 	day 	NN
+Pe2 	2 	8 	1 	23 	1 	with 	IN
+Pe2 	2 	8 	1 	24 	1 	their 	PRP$
+Pe2 	2 	8 	1 	25 	1 	unlawful 	JJ
+Pe2 	2 	8 	1 	26 	1 	deeds 	NNS
+Pe2 	2 	8 	1 	27 	0 	;
+Pe2 	2 	8 	1 	28 	0 	)
+Pe2 	2 	9 	1 	1 	1 	The 	DT
+Pe2 	2 	9 	1 	2 	1 	Lord 	NN
+Pe2 	2 	9 	1 	3 	1 	knoweth 	NNS
+Pe2 	2 	9 	1 	4 	1 	how 	WRB
+Pe2 	2 	9 	1 	5 	1 	to 	TO
+Pe2 	2 	9 	1 	6 	1 	deliver 	NN
+Pe2 	2 	9 	1 	7 	1 	the 	DT
+Pe2 	2 	9 	1 	8 	1 	godly 	RB
+Pe2 	2 	9 	1 	9 	1 	out 	IN
+Pe2 	2 	9 	1 	10 	1 	of 	IN
+Pe2 	2 	9 	1 	11 	1 	temptations 	NNS
+Pe2 	2 	9 	1 	12 	0 	,
+Pe2 	2 	9 	1 	13 	1 	and 	CC
+Pe2 	2 	9 	1 	14 	1 	to 	TO
+Pe2 	2 	9 	1 	15 	1 	reserve 	NN
+Pe2 	2 	9 	1 	16 	1 	the 	DT
+Pe2 	2 	9 	1 	17 	1 	unjust 	JJ
+Pe2 	2 	9 	1 	18 	1 	unto 	NN
+Pe2 	2 	9 	1 	19 	1 	the 	DT
+Pe2 	2 	9 	1 	20 	1 	day 	NN
+Pe2 	2 	9 	1 	21 	1 	of 	IN
+Pe2 	2 	9 	1 	22 	1 	judgment 	NN
+Pe2 	2 	9 	1 	23 	1 	to 	TO
+Pe2 	2 	9 	1 	24 	1 	be 	VB
+Pe2 	2 	9 	1 	25 	1 	punished 	VBN
+Pe2 	2 	9 	1 	26 	0 	:
+Pe2 	2 	10 	1 	1 	1 	But 	CC
+Pe2 	2 	10 	1 	2 	1 	chiefly 	NN
+Pe2 	2 	10 	1 	3 	1 	them 	PRP
+Pe2 	2 	10 	1 	4 	1 	that 	IN
+Pe2 	2 	10 	1 	5 	1 	walk 	NN
+Pe2 	2 	10 	1 	6 	1 	after 	IN
+Pe2 	2 	10 	1 	7 	1 	the 	DT
+Pe2 	2 	10 	1 	8 	1 	flesh 	NN
+Pe2 	2 	10 	1 	9 	1 	in 	IN
+Pe2 	2 	10 	1 	10 	1 	the 	DT
+Pe2 	2 	10 	1 	11 	1 	lust 	NN
+Pe2 	2 	10 	1 	12 	1 	of 	IN
+Pe2 	2 	10 	1 	13 	1 	uncleanness 	NN
+Pe2 	2 	10 	1 	14 	0 	,
+Pe2 	2 	10 	1 	15 	1 	and 	CC
+Pe2 	2 	10 	1 	16 	1 	despise 	NN
+Pe2 	2 	10 	1 	17 	1 	government 	NN
+Pe2 	2 	10 	1 	18 	0 	.
+Pe2 	2 	10 	2 	1 	1 	Presumptuous 	JJ
+Pe2 	2 	10 	2 	2 	1 	are 	VBP
+Pe2 	2 	10 	2 	3 	1 	they 	PRP
+Pe2 	2 	10 	2 	4 	0 	,
+Pe2 	2 	10 	2 	5 	1 	selfwilled 	VBN
+Pe2 	2 	10 	2 	6 	0 	,
+Pe2 	2 	10 	2 	7 	1 	they 	PRP
+Pe2 	2 	10 	2 	8 	1 	are 	VBP
+Pe2 	2 	10 	2 	9 	1 	not 	RB
+Pe2 	2 	10 	2 	10 	1 	afraid 	NN
+Pe2 	2 	10 	2 	11 	1 	to 	TO
+Pe2 	2 	10 	2 	12 	1 	speak 	NN
+Pe2 	2 	10 	2 	13 	1 	evil 	NN
+Pe2 	2 	10 	2 	14 	1 	of 	IN
+Pe2 	2 	10 	2 	15 	1 	dignities 	NNS
+Pe2 	2 	10 	2 	16 	0 	.
+Pe2 	2 	11 	1 	1 	1 	Whereas 	NNS
+Pe2 	2 	11 	1 	2 	1 	angels 	NNS
+Pe2 	2 	11 	1 	3 	0 	,
+Pe2 	2 	11 	1 	4 	1 	which 	WDT
+Pe2 	2 	11 	1 	5 	1 	are 	VBP
+Pe2 	2 	11 	1 	6 	1 	greater 	JJR
+Pe2 	2 	11 	1 	7 	1 	in 	IN
+Pe2 	2 	11 	1 	8 	1 	power 	NN
+Pe2 	2 	11 	1 	9 	1 	and 	CC
+Pe2 	2 	11 	1 	10 	1 	might 	MD
+Pe2 	2 	11 	1 	11 	0 	,
+Pe2 	2 	11 	1 	12 	1 	bring 	NN
+Pe2 	2 	11 	1 	13 	1 	not 	RB
+Pe2 	2 	11 	1 	14 	1 	railing 	VBG
+Pe2 	2 	11 	1 	15 	1 	accusation 	NN
+Pe2 	2 	11 	1 	16 	1 	against 	IN
+Pe2 	2 	11 	1 	17 	1 	them 	PRP
+Pe2 	2 	11 	1 	18 	1 	before 	IN
+Pe2 	2 	11 	1 	19 	1 	the 	DT
+Pe2 	2 	11 	1 	20 	1 	Lord 	NN
+Pe2 	2 	11 	1 	21 	0 	.
+Pe2 	2 	12 	1 	1 	1 	But 	CC
+Pe2 	2 	12 	1 	2 	1 	these 	DT
+Pe2 	2 	12 	1 	3 	0 	,
+Pe2 	2 	12 	1 	4 	1 	as 	IN
+Pe2 	2 	12 	1 	5 	1 	natural 	JJ
+Pe2 	2 	12 	1 	6 	1 	brute 	NN
+Pe2 	2 	12 	1 	7 	1 	beasts 	NNS
+Pe2 	2 	12 	1 	8 	0 	,
+Pe2 	2 	12 	1 	9 	1 	made 	VBN
+Pe2 	2 	12 	1 	10 	1 	to 	TO
+Pe2 	2 	12 	1 	11 	1 	be 	VB
+Pe2 	2 	12 	1 	12 	1 	taken 	VBN
+Pe2 	2 	12 	1 	13 	1 	and 	CC
+Pe2 	2 	12 	1 	14 	1 	destroyed 	NN
+Pe2 	2 	12 	1 	15 	0 	,
+Pe2 	2 	12 	1 	16 	1 	speak 	NN
+Pe2 	2 	12 	1 	17 	1 	evil 	NN
+Pe2 	2 	12 	1 	18 	1 	of 	IN
+Pe2 	2 	12 	1 	19 	1 	the 	DT
+Pe2 	2 	12 	1 	20 	1 	things 	NNS
+Pe2 	2 	12 	1 	21 	1 	that 	IN
+Pe2 	2 	12 	1 	22 	1 	they 	PRP
+Pe2 	2 	12 	1 	23 	1 	understand 	NN
+Pe2 	2 	12 	1 	24 	1 	not 	RB
+Pe2 	2 	12 	1 	25 	0 	;
+Pe2 	2 	12 	1 	26 	1 	and 	CC
+Pe2 	2 	12 	1 	27 	1 	shall 	MD
+Pe2 	2 	12 	1 	28 	1 	utterly 	RB
+Pe2 	2 	12 	1 	29 	1 	perish 	NN
+Pe2 	2 	12 	1 	30 	1 	in 	IN
+Pe2 	2 	12 	1 	31 	1 	their 	PRP$
+Pe2 	2 	12 	1 	32 	1 	own 	JJ
+Pe2 	2 	12 	1 	33 	1 	corruption 	NN
+Pe2 	2 	12 	1 	34 	0 	;
+Pe2 	2 	13 	1 	1 	1 	And 	CC
+Pe2 	2 	13 	1 	2 	1 	shall 	MD
+Pe2 	2 	13 	1 	3 	1 	receive 	NN
+Pe2 	2 	13 	1 	4 	1 	the 	DT
+Pe2 	2 	13 	1 	5 	1 	reward 	NN
+Pe2 	2 	13 	1 	6 	1 	of 	IN
+Pe2 	2 	13 	1 	7 	1 	unrighteousness 	NN
+Pe2 	2 	13 	1 	8 	0 	,
+Pe2 	2 	13 	1 	9 	1 	as 	IN
+Pe2 	2 	13 	1 	10 	1 	they 	PRP
+Pe2 	2 	13 	1 	11 	1 	that 	IN
+Pe2 	2 	13 	1 	12 	1 	count 	NN
+Pe2 	2 	13 	1 	13 	1 	it 	PRP
+Pe2 	2 	13 	1 	14 	1 	pleasure 	NN
+Pe2 	2 	13 	1 	15 	1 	to 	TO
+Pe2 	2 	13 	1 	16 	1 	riot 	NN
+Pe2 	2 	13 	1 	17 	1 	in 	IN
+Pe2 	2 	13 	1 	18 	1 	the 	DT
+Pe2 	2 	13 	1 	19 	1 	day 	NN
+Pe2 	2 	13 	1 	20 	1 	time 	NN
+Pe2 	2 	13 	1 	21 	0 	.
+Pe2 	2 	13 	2 	1 	1 	Spots 	NNS
+Pe2 	2 	13 	2 	2 	1 	they 	PRP
+Pe2 	2 	13 	2 	3 	1 	are 	VBP
+Pe2 	2 	13 	2 	4 	1 	and 	CC
+Pe2 	2 	13 	2 	5 	1 	blemishes 	NNS
+Pe2 	2 	13 	2 	6 	0 	,
+Pe2 	2 	13 	2 	7 	1 	sporting 	VBG
+Pe2 	2 	13 	2 	8 	1 	themselves 	PRP
+Pe2 	2 	13 	2 	9 	1 	with 	IN
+Pe2 	2 	13 	2 	10 	1 	their 	PRP$
+Pe2 	2 	13 	2 	11 	1 	own 	JJ
+Pe2 	2 	13 	2 	12 	1 	deceivings 	NNS
+Pe2 	2 	13 	2 	13 	1 	while 	IN
+Pe2 	2 	13 	2 	14 	1 	they 	PRP
+Pe2 	2 	13 	2 	15 	1 	feast 	NN
+Pe2 	2 	13 	2 	16 	1 	with 	IN
+Pe2 	2 	13 	2 	17 	1 	you 	PRP
+Pe2 	2 	13 	2 	18 	0 	;
+Pe2 	2 	14 	1 	1 	1 	Having 	VBG
+Pe2 	2 	14 	1 	2 	1 	eyes 	NNS
+Pe2 	2 	14 	1 	3 	1 	full 	JJ
+Pe2 	2 	14 	1 	4 	1 	of 	IN
+Pe2 	2 	14 	1 	5 	1 	adultery 	NN
+Pe2 	2 	14 	1 	6 	0 	,
+Pe2 	2 	14 	1 	7 	1 	and 	CC
+Pe2 	2 	14 	1 	8 	1 	that 	IN
+Pe2 	2 	14 	1 	9 	1 	can 	MD
+Pe2 	2 	14 	1 	10 	1 	not 	RB
+Pe2 	2 	14 	1 	11 	1 	cease 	NN
+Pe2 	2 	14 	1 	12 	1 	from 	IN
+Pe2 	2 	14 	1 	13 	1 	sin 	NN
+Pe2 	2 	14 	1 	14 	0 	;
+Pe2 	2 	14 	1 	15 	1 	beguiling 	NN
+Pe2 	2 	14 	1 	16 	1 	unstable 	JJ
+Pe2 	2 	14 	1 	17 	1 	souls 	NNS
+Pe2 	2 	14 	1 	18 	0 	:
+Pe2 	2 	14 	1 	19 	1 	an 	DT
+Pe2 	2 	14 	1 	20 	1 	heart 	NN
+Pe2 	2 	14 	1 	21 	1 	they 	PRP
+Pe2 	2 	14 	1 	22 	1 	have 	VB
+Pe2 	2 	14 	1 	23 	1 	exercised 	VBN
+Pe2 	2 	14 	1 	24 	1 	with 	IN
+Pe2 	2 	14 	1 	25 	1 	covetous 	JJ
+Pe2 	2 	14 	1 	26 	1 	practices 	NNS
+Pe2 	2 	14 	1 	27 	0 	;
+Pe2 	2 	14 	1 	28 	1 	cursed 	VBN
+Pe2 	2 	14 	1 	29 	1 	children 	NNS
+Pe2 	2 	14 	1 	30 	0 	:
+Pe2 	2 	15 	1 	1 	1 	Which 	WDT
+Pe2 	2 	15 	1 	2 	1 	have 	VB
+Pe2 	2 	15 	1 	3 	1 	forsaken 	NN
+Pe2 	2 	15 	1 	4 	1 	the 	DT
+Pe2 	2 	15 	1 	5 	1 	right 	NN
+Pe2 	2 	15 	1 	6 	1 	way 	NN
+Pe2 	2 	15 	1 	7 	0 	,
+Pe2 	2 	15 	1 	8 	1 	and 	CC
+Pe2 	2 	15 	1 	9 	1 	are 	VBP
+Pe2 	2 	15 	1 	10 	1 	gone 	VBN
+Pe2 	2 	15 	1 	11 	1 	astray 	NN
+Pe2 	2 	15 	1 	12 	0 	,
+Pe2 	2 	15 	1 	13 	1 	following 	VBG
+Pe2 	2 	15 	1 	14 	1 	the 	DT
+Pe2 	2 	15 	1 	15 	1 	way 	NN
+Pe2 	2 	15 	1 	16 	1 	of 	IN
+Pe2 	2 	15 	1 	17 	1 	Balaam 	NN
+Pe2 	2 	15 	1 	18 	1 	the 	DT
+Pe2 	2 	15 	1 	19 	1 	son 	NN
+Pe2 	2 	15 	1 	20 	1 	of 	IN
+Pe2 	2 	15 	1 	21 	1 	Bosor 	NN
+Pe2 	2 	15 	1 	22 	0 	,
+Pe2 	2 	15 	1 	23 	1 	who 	WP
+Pe2 	2 	15 	1 	24 	1 	loved 	VBN
+Pe2 	2 	15 	1 	25 	1 	the 	DT
+Pe2 	2 	15 	1 	26 	1 	wages 	NNS
+Pe2 	2 	15 	1 	27 	1 	of 	IN
+Pe2 	2 	15 	1 	28 	1 	unrighteousness 	NN
+Pe2 	2 	15 	1 	29 	0 	;
+Pe2 	2 	16 	1 	1 	1 	But 	CC
+Pe2 	2 	16 	1 	2 	1 	was 	VBD
+Pe2 	2 	16 	1 	3 	1 	rebuked 	VBN
+Pe2 	2 	16 	1 	4 	1 	for 	IN
+Pe2 	2 	16 	1 	5 	1 	his 	PRP$
+Pe2 	2 	16 	1 	6 	1 	iniquity 	NN
+Pe2 	2 	16 	1 	7 	0 	:
+Pe2 	2 	16 	1 	8 	1 	the 	DT
+Pe2 	2 	16 	1 	9 	1 	dumb 	NN
+Pe2 	2 	16 	1 	10 	1 	ass 	NN
+Pe2 	2 	16 	1 	11 	1 	speaking 	VBG
+Pe2 	2 	16 	1 	12 	1 	with 	IN
+Pe2 	2 	16 	1 	13 	1 	man 	NN
+Pe2 	2 	16 	1 	14 	0 	's
+Pe2 	2 	16 	1 	15 	1 	voice 	NN
+Pe2 	2 	16 	1 	16 	1 	forbad 	NN
+Pe2 	2 	16 	1 	17 	1 	the 	DT
+Pe2 	2 	16 	1 	18 	1 	madness 	NN
+Pe2 	2 	16 	1 	19 	1 	of 	IN
+Pe2 	2 	16 	1 	20 	1 	the 	DT
+Pe2 	2 	16 	1 	21 	1 	prophet 	NN
+Pe2 	2 	16 	1 	22 	0 	.
+Pe2 	2 	17 	1 	1 	1 	These 	DT
+Pe2 	2 	17 	1 	2 	1 	are 	VBP
+Pe2 	2 	17 	1 	3 	1 	wells 	NNS
+Pe2 	2 	17 	1 	4 	1 	without 	IN
+Pe2 	2 	17 	1 	5 	1 	water 	NN
+Pe2 	2 	17 	1 	6 	0 	,
+Pe2 	2 	17 	1 	7 	1 	clouds 	NNS
+Pe2 	2 	17 	1 	8 	1 	that 	IN
+Pe2 	2 	17 	1 	9 	1 	are 	VBP
+Pe2 	2 	17 	1 	10 	1 	carried 	VBN
+Pe2 	2 	17 	1 	11 	1 	with 	IN
+Pe2 	2 	17 	1 	12 	1 	a 	DT
+Pe2 	2 	17 	1 	13 	1 	tempest 	NN
+Pe2 	2 	17 	1 	14 	0 	;
+Pe2 	2 	17 	1 	15 	1 	to 	TO
+Pe2 	2 	17 	1 	16 	1 	whom 	WP
+Pe2 	2 	17 	1 	17 	1 	the 	DT
+Pe2 	2 	17 	1 	18 	1 	mist 	NN
+Pe2 	2 	17 	1 	19 	1 	of 	IN
+Pe2 	2 	17 	1 	20 	1 	darkness 	NN
+Pe2 	2 	17 	1 	21 	1 	is 	VBZ
+Pe2 	2 	17 	1 	22 	1 	reserved 	VBN
+Pe2 	2 	17 	1 	23 	1 	for 	IN
+Pe2 	2 	17 	1 	24 	1 	ever 	RB
+Pe2 	2 	17 	1 	25 	0 	.
+Pe2 	2 	18 	1 	1 	1 	For 	IN
+Pe2 	2 	18 	1 	2 	1 	when 	WRB
+Pe2 	2 	18 	1 	3 	1 	they 	PRP
+Pe2 	2 	18 	1 	4 	1 	speak 	NN
+Pe2 	2 	18 	1 	5 	1 	great 	JJ
+Pe2 	2 	18 	1 	6 	1 	swelling 	VBG
+Pe2 	2 	18 	1 	7 	1 	words 	NNS
+Pe2 	2 	18 	1 	8 	1 	of 	IN
+Pe2 	2 	18 	1 	9 	1 	vanity 	NN
+Pe2 	2 	18 	1 	10 	0 	,
+Pe2 	2 	18 	1 	11 	1 	they 	PRP
+Pe2 	2 	18 	1 	12 	1 	allure 	NN
+Pe2 	2 	18 	1 	13 	1 	through 	IN
+Pe2 	2 	18 	1 	14 	1 	the 	DT
+Pe2 	2 	18 	1 	15 	1 	lusts 	NNS
+Pe2 	2 	18 	1 	16 	1 	of 	IN
+Pe2 	2 	18 	1 	17 	1 	the 	DT
+Pe2 	2 	18 	1 	18 	1 	flesh 	NN
+Pe2 	2 	18 	1 	19 	0 	,
+Pe2 	2 	18 	1 	20 	1 	through 	IN
+Pe2 	2 	18 	1 	21 	1 	much 	JJ
+Pe2 	2 	18 	1 	22 	1 	wantonness 	NN
+Pe2 	2 	18 	1 	23 	0 	,
+Pe2 	2 	18 	1 	24 	1 	those 	DT
+Pe2 	2 	18 	1 	25 	1 	that 	IN
+Pe2 	2 	18 	1 	26 	1 	were 	VBD
+Pe2 	2 	18 	1 	27 	1 	clean 	NN
+Pe2 	2 	18 	1 	28 	1 	escaped 	VBD
+Pe2 	2 	18 	1 	29 	1 	from 	IN
+Pe2 	2 	18 	1 	30 	1 	them 	PRP
+Pe2 	2 	18 	1 	31 	1 	who 	WP
+Pe2 	2 	18 	1 	32 	1 	live 	JJ
+Pe2 	2 	18 	1 	33 	1 	in 	IN
+Pe2 	2 	18 	1 	34 	1 	error 	NN
+Pe2 	2 	18 	1 	35 	0 	.
+Pe2 	2 	19 	1 	1 	1 	While 	IN
+Pe2 	2 	19 	1 	2 	1 	they 	PRP
+Pe2 	2 	19 	1 	3 	1 	promise 	NN
+Pe2 	2 	19 	1 	4 	1 	them 	PRP
+Pe2 	2 	19 	1 	5 	1 	liberty 	NN
+Pe2 	2 	19 	1 	6 	0 	,
+Pe2 	2 	19 	1 	7 	1 	they 	PRP
+Pe2 	2 	19 	1 	8 	1 	themselves 	PRP
+Pe2 	2 	19 	1 	9 	1 	are 	VBP
+Pe2 	2 	19 	1 	10 	1 	the 	DT
+Pe2 	2 	19 	1 	11 	1 	servants 	NNS
+Pe2 	2 	19 	1 	12 	1 	of 	IN
+Pe2 	2 	19 	1 	13 	1 	corruption 	NN
+Pe2 	2 	19 	1 	14 	0 	:
+Pe2 	2 	19 	1 	15 	1 	for 	IN
+Pe2 	2 	19 	1 	16 	1 	of 	IN
+Pe2 	2 	19 	1 	17 	1 	whom 	WP
+Pe2 	2 	19 	1 	18 	1 	a 	DT
+Pe2 	2 	19 	1 	19 	1 	man 	NN
+Pe2 	2 	19 	1 	20 	1 	is 	VBZ
+Pe2 	2 	19 	1 	21 	1 	overcome 	NN
+Pe2 	2 	19 	1 	22 	0 	,
+Pe2 	2 	19 	1 	23 	1 	of 	IN
+Pe2 	2 	19 	1 	24 	1 	the 	DT
+Pe2 	2 	19 	1 	25 	1 	same 	JJ
+Pe2 	2 	19 	1 	26 	1 	is 	VBZ
+Pe2 	2 	19 	1 	27 	1 	he 	PRP
+Pe2 	2 	19 	1 	28 	1 	brought 	NN
+Pe2 	2 	19 	1 	29 	1 	in 	IN
+Pe2 	2 	19 	1 	30 	1 	bondage 	NN
+Pe2 	2 	19 	1 	31 	0 	.
+Pe2 	2 	20 	1 	1 	1 	For 	IN
+Pe2 	2 	20 	1 	2 	1 	if 	IN
+Pe2 	2 	20 	1 	3 	1 	after 	IN
+Pe2 	2 	20 	1 	4 	1 	they 	PRP
+Pe2 	2 	20 	1 	5 	1 	have 	VB
+Pe2 	2 	20 	1 	6 	1 	escaped 	VBD
+Pe2 	2 	20 	1 	7 	1 	the 	DT
+Pe2 	2 	20 	1 	8 	1 	pollutions 	NNS
+Pe2 	2 	20 	1 	9 	1 	of 	IN
+Pe2 	2 	20 	1 	10 	1 	the 	DT
+Pe2 	2 	20 	1 	11 	1 	world 	NN
+Pe2 	2 	20 	1 	12 	1 	through 	IN
+Pe2 	2 	20 	1 	13 	1 	the 	DT
+Pe2 	2 	20 	1 	14 	1 	knowledge 	NN
+Pe2 	2 	20 	1 	15 	1 	of 	IN
+Pe2 	2 	20 	1 	16 	1 	the 	DT
+Pe2 	2 	20 	1 	17 	1 	Lord 	NN
+Pe2 	2 	20 	1 	18 	1 	and 	CC
+Pe2 	2 	20 	1 	19 	1 	Saviour 	NN
+Pe2 	2 	20 	1 	20 	1 	Jesus 	NN
+Pe2 	2 	20 	1 	21 	1 	Christ 	NN
+Pe2 	2 	20 	1 	22 	0 	,
+Pe2 	2 	20 	1 	23 	1 	they 	PRP
+Pe2 	2 	20 	1 	24 	1 	are 	VBP
+Pe2 	2 	20 	1 	25 	1 	again 	RB
+Pe2 	2 	20 	1 	26 	1 	entangled 	VBN
+Pe2 	2 	20 	1 	27 	1 	therein 	NN
+Pe2 	2 	20 	1 	28 	0 	,
+Pe2 	2 	20 	1 	29 	1 	and 	CC
+Pe2 	2 	20 	1 	30 	1 	overcome 	NN
+Pe2 	2 	20 	1 	31 	0 	,
+Pe2 	2 	20 	1 	32 	1 	the 	DT
+Pe2 	2 	20 	1 	33 	1 	latter 	NN
+Pe2 	2 	20 	1 	34 	1 	end 	NN
+Pe2 	2 	20 	1 	35 	1 	is 	VBZ
+Pe2 	2 	20 	1 	36 	1 	worse 	JJR
+Pe2 	2 	20 	1 	37 	1 	with 	IN
+Pe2 	2 	20 	1 	38 	1 	them 	PRP
+Pe2 	2 	20 	1 	39 	1 	than 	IN
+Pe2 	2 	20 	1 	40 	1 	the 	DT
+Pe2 	2 	20 	1 	41 	1 	beginning 	VBG
+Pe2 	2 	20 	1 	42 	0 	.
+Pe2 	2 	21 	1 	1 	1 	For 	IN
+Pe2 	2 	21 	1 	2 	1 	it 	PRP
+Pe2 	2 	21 	1 	3 	1 	had 	VBD
+Pe2 	2 	21 	1 	4 	1 	been 	VBN
+Pe2 	2 	21 	1 	5 	1 	better 	RBR
+Pe2 	2 	21 	1 	6 	1 	for 	IN
+Pe2 	2 	21 	1 	7 	1 	them 	PRP
+Pe2 	2 	21 	1 	8 	1 	not 	RB
+Pe2 	2 	21 	1 	9 	1 	to 	TO
+Pe2 	2 	21 	1 	10 	1 	have 	VB
+Pe2 	2 	21 	1 	11 	1 	known 	VBN
+Pe2 	2 	21 	1 	12 	1 	the 	DT
+Pe2 	2 	21 	1 	13 	1 	way 	NN
+Pe2 	2 	21 	1 	14 	1 	of 	IN
+Pe2 	2 	21 	1 	15 	1 	righteousness 	NN
+Pe2 	2 	21 	1 	16 	0 	,
+Pe2 	2 	21 	1 	17 	1 	than 	IN
+Pe2 	2 	21 	1 	18 	0 	,
+Pe2 	2 	21 	1 	19 	1 	after 	IN
+Pe2 	2 	21 	1 	20 	1 	they 	PRP
+Pe2 	2 	21 	1 	21 	1 	have 	VB
+Pe2 	2 	21 	1 	22 	1 	known 	VBN
+Pe2 	2 	21 	1 	23 	1 	it 	PRP
+Pe2 	2 	21 	1 	24 	0 	,
+Pe2 	2 	21 	1 	25 	1 	to 	TO
+Pe2 	2 	21 	1 	26 	1 	turn 	NN
+Pe2 	2 	21 	1 	27 	1 	from 	IN
+Pe2 	2 	21 	1 	28 	1 	the 	DT
+Pe2 	2 	21 	1 	29 	1 	holy 	NN
+Pe2 	2 	21 	1 	30 	1 	commandment 	NN
+Pe2 	2 	21 	1 	31 	1 	delivered 	VBN
+Pe2 	2 	21 	1 	32 	1 	unto 	NN
+Pe2 	2 	21 	1 	33 	1 	them 	PRP
+Pe2 	2 	21 	1 	34 	0 	.
+Pe2 	2 	22 	1 	1 	1 	But 	CC
+Pe2 	2 	22 	1 	2 	1 	it 	PRP
+Pe2 	2 	22 	1 	3 	1 	is 	VBZ
+Pe2 	2 	22 	1 	4 	1 	happened 	VBD
+Pe2 	2 	22 	1 	5 	1 	unto 	NN
+Pe2 	2 	22 	1 	6 	1 	them 	PRP
+Pe2 	2 	22 	1 	7 	1 	according 	VBG
+Pe2 	2 	22 	1 	8 	1 	to 	TO
+Pe2 	2 	22 	1 	9 	1 	the 	DT
+Pe2 	2 	22 	1 	10 	1 	true 	JJ
+Pe2 	2 	22 	1 	11 	1 	proverb 	NN
+Pe2 	2 	22 	1 	12 	0 	,
+Pe2 	2 	22 	1 	13 	1 	The 	DT
+Pe2 	2 	22 	1 	14 	1 	dog 	NN
+Pe2 	2 	22 	1 	15 	1 	is 	VBZ
+Pe2 	2 	22 	1 	16 	1 	turned 	VBD
+Pe2 	2 	22 	1 	17 	1 	to 	TO
+Pe2 	2 	22 	1 	18 	1 	his 	PRP$
+Pe2 	2 	22 	1 	19 	1 	own 	JJ
+Pe2 	2 	22 	1 	20 	1 	vomit 	NN
+Pe2 	2 	22 	1 	21 	1 	again 	RB
+Pe2 	2 	22 	1 	22 	0 	;
+Pe2 	2 	22 	1 	23 	1 	and 	CC
+Pe2 	2 	22 	1 	24 	1 	the 	DT
+Pe2 	2 	22 	1 	25 	1 	sow 	NN
+Pe2 	2 	22 	1 	26 	1 	that 	IN
+Pe2 	2 	22 	1 	27 	1 	was 	VBD
+Pe2 	2 	22 	1 	28 	1 	washed 	VBN
+Pe2 	2 	22 	1 	29 	1 	to 	TO
+Pe2 	2 	22 	1 	30 	1 	her 	PRP$
+Pe2 	2 	22 	1 	31 	1 	wallowing 	VBG
+Pe2 	2 	22 	1 	32 	1 	in 	IN
+Pe2 	2 	22 	1 	33 	1 	the 	DT
+Pe2 	2 	22 	1 	34 	1 	mire 	NN
+Pe2 	2 	22 	1 	35 	0 	.
+Pe2 	3 	1 	1 	1 	1 	This 	DT
+Pe2 	3 	1 	1 	2 	1 	second 	JJ
+Pe2 	3 	1 	1 	3 	1 	epistle 	NN
+Pe2 	3 	1 	1 	4 	0 	,
+Pe2 	3 	1 	1 	5 	1 	beloved 	VBN
+Pe2 	3 	1 	1 	6 	0 	,
+Pe2 	3 	1 	1 	7 	1 	I 	PRP
+Pe2 	3 	1 	1 	8 	1 	now 	RB
+Pe2 	3 	1 	1 	9 	1 	write 	NN
+Pe2 	3 	1 	1 	10 	1 	unto 	NN
+Pe2 	3 	1 	1 	11 	1 	you 	PRP
+Pe2 	3 	1 	1 	12 	0 	;
+Pe2 	3 	1 	1 	13 	1 	in 	IN
+Pe2 	3 	1 	1 	14 	1 	both 	DT
+Pe2 	3 	1 	1 	15 	1 	which 	WDT
+Pe2 	3 	1 	1 	16 	1 	I 	PRP
+Pe2 	3 	1 	1 	17 	1 	stir 	NN
+Pe2 	3 	1 	1 	18 	1 	up 	RB
+Pe2 	3 	1 	1 	19 	1 	your 	PRP$
+Pe2 	3 	1 	1 	20 	1 	pure 	NN
+Pe2 	3 	1 	1 	21 	1 	minds 	NNS
+Pe2 	3 	1 	1 	22 	1 	by 	IN
+Pe2 	3 	1 	1 	23 	1 	way 	NN
+Pe2 	3 	1 	1 	24 	1 	of 	IN
+Pe2 	3 	1 	1 	25 	1 	remembrance 	NN
+Pe2 	3 	1 	1 	26 	0 	:
+Pe2 	3 	2 	1 	1 	1 	That 	DT
+Pe2 	3 	2 	1 	2 	1 	ye 	NN
+Pe2 	3 	2 	1 	3 	1 	may 	MD
+Pe2 	3 	2 	1 	4 	1 	be 	VB
+Pe2 	3 	2 	1 	5 	1 	mindful 	NN
+Pe2 	3 	2 	1 	6 	1 	of 	IN
+Pe2 	3 	2 	1 	7 	1 	the 	DT
+Pe2 	3 	2 	1 	8 	1 	words 	NNS
+Pe2 	3 	2 	1 	9 	1 	which 	WDT
+Pe2 	3 	2 	1 	10 	1 	were 	VBD
+Pe2 	3 	2 	1 	11 	1 	spoken 	NN
+Pe2 	3 	2 	1 	12 	1 	before 	IN
+Pe2 	3 	2 	1 	13 	1 	by 	IN
+Pe2 	3 	2 	1 	14 	1 	the 	DT
+Pe2 	3 	2 	1 	15 	1 	holy 	NN
+Pe2 	3 	2 	1 	16 	1 	prophets 	NNS
+Pe2 	3 	2 	1 	17 	0 	,
+Pe2 	3 	2 	1 	18 	1 	and 	CC
+Pe2 	3 	2 	1 	19 	1 	of 	IN
+Pe2 	3 	2 	1 	20 	1 	the 	DT
+Pe2 	3 	2 	1 	21 	1 	commandment 	NN
+Pe2 	3 	2 	1 	22 	1 	of 	IN
+Pe2 	3 	2 	1 	23 	1 	us 	PRP
+Pe2 	3 	2 	1 	24 	1 	the 	DT
+Pe2 	3 	2 	1 	25 	1 	apostles 	NNS
+Pe2 	3 	2 	1 	26 	1 	of 	IN
+Pe2 	3 	2 	1 	27 	1 	the 	DT
+Pe2 	3 	2 	1 	28 	1 	Lord 	NN
+Pe2 	3 	2 	1 	29 	1 	and 	CC
+Pe2 	3 	2 	1 	30 	1 	Saviour 	NN
+Pe2 	3 	2 	1 	31 	0 	:
+Pe2 	3 	3 	1 	1 	1 	Knowing 	VBG
+Pe2 	3 	3 	1 	2 	1 	this 	DT
+Pe2 	3 	3 	1 	3 	1 	first 	RB
+Pe2 	3 	3 	1 	4 	0 	,
+Pe2 	3 	3 	1 	5 	1 	that 	IN
+Pe2 	3 	3 	1 	6 	1 	there 	RB
+Pe2 	3 	3 	1 	7 	1 	shall 	MD
+Pe2 	3 	3 	1 	8 	1 	come 	VB
+Pe2 	3 	3 	1 	9 	1 	in 	IN
+Pe2 	3 	3 	1 	10 	1 	the 	DT
+Pe2 	3 	3 	1 	11 	1 	last 	JJ
+Pe2 	3 	3 	1 	12 	1 	days 	NNS
+Pe2 	3 	3 	1 	13 	1 	scoffers 	NNS
+Pe2 	3 	3 	1 	14 	0 	,
+Pe2 	3 	3 	1 	15 	1 	walking 	VBG
+Pe2 	3 	3 	1 	16 	1 	after 	IN
+Pe2 	3 	3 	1 	17 	1 	their 	PRP$
+Pe2 	3 	3 	1 	18 	1 	own 	JJ
+Pe2 	3 	3 	1 	19 	1 	lusts 	NNS
+Pe2 	3 	3 	1 	20 	0 	,
+Pe2 	3 	4 	1 	1 	1 	And 	CC
+Pe2 	3 	4 	1 	2 	1 	saying 	VBG
+Pe2 	3 	4 	1 	3 	0 	,
+Pe2 	3 	4 	1 	4 	1 	Where 	WRB
+Pe2 	3 	4 	1 	5 	1 	is 	VBZ
+Pe2 	3 	4 	1 	6 	1 	the 	DT
+Pe2 	3 	4 	1 	7 	1 	promise 	NN
+Pe2 	3 	4 	1 	8 	1 	of 	IN
+Pe2 	3 	4 	1 	9 	1 	his 	PRP$
+Pe2 	3 	4 	1 	10 	1 	coming 	VBG
+Pe2 	3 	4 	1 	11 	0 	?
+Pe2 	3 	4 	2 	1 	1 	for 	IN
+Pe2 	3 	4 	2 	2 	1 	since 	IN
+Pe2 	3 	4 	2 	3 	1 	the 	DT
+Pe2 	3 	4 	2 	4 	1 	fathers 	NNS
+Pe2 	3 	4 	2 	5 	1 	fell 	VBD
+Pe2 	3 	4 	2 	6 	1 	asleep 	NN
+Pe2 	3 	4 	2 	7 	0 	,
+Pe2 	3 	4 	2 	8 	1 	all 	DT
+Pe2 	3 	4 	2 	9 	1 	things 	NNS
+Pe2 	3 	4 	2 	10 	1 	continue 	NN
+Pe2 	3 	4 	2 	11 	1 	as 	IN
+Pe2 	3 	4 	2 	12 	1 	they 	PRP
+Pe2 	3 	4 	2 	13 	1 	were 	VBD
+Pe2 	3 	4 	2 	14 	1 	from 	IN
+Pe2 	3 	4 	2 	15 	1 	the 	DT
+Pe2 	3 	4 	2 	16 	1 	beginning 	VBG
+Pe2 	3 	4 	2 	17 	1 	of 	IN
+Pe2 	3 	4 	2 	18 	1 	the 	DT
+Pe2 	3 	4 	2 	19 	1 	creation 	NN
+Pe2 	3 	4 	2 	20 	0 	.
+Pe2 	3 	5 	1 	1 	1 	For 	IN
+Pe2 	3 	5 	1 	2 	1 	this 	DT
+Pe2 	3 	5 	1 	3 	1 	they 	PRP
+Pe2 	3 	5 	1 	4 	1 	willingly 	RB
+Pe2 	3 	5 	1 	5 	1 	are 	VBP
+Pe2 	3 	5 	1 	6 	1 	ignorant 	NN
+Pe2 	3 	5 	1 	7 	1 	of 	IN
+Pe2 	3 	5 	1 	8 	0 	,
+Pe2 	3 	5 	1 	9 	1 	that 	IN
+Pe2 	3 	5 	1 	10 	1 	by 	IN
+Pe2 	3 	5 	1 	11 	1 	the 	DT
+Pe2 	3 	5 	1 	12 	1 	word 	NN
+Pe2 	3 	5 	1 	13 	1 	of 	IN
+Pe2 	3 	5 	1 	14 	1 	God 	NNP
+Pe2 	3 	5 	1 	15 	1 	the 	DT
+Pe2 	3 	5 	1 	16 	1 	heavens 	NNS
+Pe2 	3 	5 	1 	17 	1 	were 	VBD
+Pe2 	3 	5 	1 	18 	1 	of 	IN
+Pe2 	3 	5 	1 	19 	1 	old 	JJ
+Pe2 	3 	5 	1 	20 	0 	,
+Pe2 	3 	5 	1 	21 	1 	and 	CC
+Pe2 	3 	5 	1 	22 	1 	the 	DT
+Pe2 	3 	5 	1 	23 	1 	earth 	NN
+Pe2 	3 	5 	1 	24 	1 	standing 	VBG
+Pe2 	3 	5 	1 	25 	1 	out 	IN
+Pe2 	3 	5 	1 	26 	1 	of 	IN
+Pe2 	3 	5 	1 	27 	1 	the 	DT
+Pe2 	3 	5 	1 	28 	1 	water 	NN
+Pe2 	3 	5 	1 	29 	1 	and 	CC
+Pe2 	3 	5 	1 	30 	1 	in 	IN
+Pe2 	3 	5 	1 	31 	1 	the 	DT
+Pe2 	3 	5 	1 	32 	1 	water 	NN
+Pe2 	3 	5 	1 	33 	0 	:
+Pe2 	3 	6 	1 	1 	1 	Whereby 	WRB
+Pe2 	3 	6 	1 	2 	1 	the 	DT
+Pe2 	3 	6 	1 	3 	1 	world 	NN
+Pe2 	3 	6 	1 	4 	1 	that 	IN
+Pe2 	3 	6 	1 	5 	1 	then 	RB
+Pe2 	3 	6 	1 	6 	1 	was 	VBD
+Pe2 	3 	6 	1 	7 	0 	,
+Pe2 	3 	6 	1 	8 	1 	being 	VBG
+Pe2 	3 	6 	1 	9 	1 	overflowed 	VBN
+Pe2 	3 	6 	1 	10 	1 	with 	IN
+Pe2 	3 	6 	1 	11 	1 	water 	NN
+Pe2 	3 	6 	1 	12 	0 	,
+Pe2 	3 	6 	1 	13 	1 	perished 	VBN
+Pe2 	3 	6 	1 	14 	0 	:
+Pe2 	3 	7 	1 	1 	1 	But 	CC
+Pe2 	3 	7 	1 	2 	1 	the 	DT
+Pe2 	3 	7 	1 	3 	1 	heavens 	NNS
+Pe2 	3 	7 	1 	4 	1 	and 	CC
+Pe2 	3 	7 	1 	5 	1 	the 	DT
+Pe2 	3 	7 	1 	6 	1 	earth 	NN
+Pe2 	3 	7 	1 	7 	0 	,
+Pe2 	3 	7 	1 	8 	1 	which 	WDT
+Pe2 	3 	7 	1 	9 	1 	are 	VBP
+Pe2 	3 	7 	1 	10 	1 	now 	RB
+Pe2 	3 	7 	1 	11 	0 	,
+Pe2 	3 	7 	1 	12 	1 	by 	IN
+Pe2 	3 	7 	1 	13 	1 	the 	DT
+Pe2 	3 	7 	1 	14 	1 	same 	JJ
+Pe2 	3 	7 	1 	15 	1 	word 	NN
+Pe2 	3 	7 	1 	16 	1 	are 	VBP
+Pe2 	3 	7 	1 	17 	1 	kept 	NN
+Pe2 	3 	7 	1 	18 	1 	in 	IN
+Pe2 	3 	7 	1 	19 	1 	store 	NN
+Pe2 	3 	7 	1 	20 	0 	,
+Pe2 	3 	7 	1 	21 	1 	reserved 	VBN
+Pe2 	3 	7 	1 	22 	1 	unto 	NN
+Pe2 	3 	7 	1 	23 	1 	fire 	NN
+Pe2 	3 	7 	1 	24 	1 	against 	IN
+Pe2 	3 	7 	1 	25 	1 	the 	DT
+Pe2 	3 	7 	1 	26 	1 	day 	NN
+Pe2 	3 	7 	1 	27 	1 	of 	IN
+Pe2 	3 	7 	1 	28 	1 	judgment 	NN
+Pe2 	3 	7 	1 	29 	1 	and 	CC
+Pe2 	3 	7 	1 	30 	1 	perdition 	NN
+Pe2 	3 	7 	1 	31 	1 	of 	IN
+Pe2 	3 	7 	1 	32 	1 	ungodly 	RB
+Pe2 	3 	7 	1 	33 	1 	men 	NNS
+Pe2 	3 	7 	1 	34 	0 	.
+Pe2 	3 	8 	1 	1 	1 	But 	CC
+Pe2 	3 	8 	1 	2 	0 	,
+Pe2 	3 	8 	1 	3 	1 	beloved 	VBN
+Pe2 	3 	8 	1 	4 	0 	,
+Pe2 	3 	8 	1 	5 	1 	be 	VB
+Pe2 	3 	8 	1 	6 	1 	not 	RB
+Pe2 	3 	8 	1 	7 	1 	ignorant 	NN
+Pe2 	3 	8 	1 	8 	1 	of 	IN
+Pe2 	3 	8 	1 	9 	1 	this 	DT
+Pe2 	3 	8 	1 	10 	1 	one 	CD
+Pe2 	3 	8 	1 	11 	1 	thing 	NN
+Pe2 	3 	8 	1 	12 	0 	,
+Pe2 	3 	8 	1 	13 	1 	that 	IN
+Pe2 	3 	8 	1 	14 	1 	one 	CD
+Pe2 	3 	8 	1 	15 	1 	day 	NN
+Pe2 	3 	8 	1 	16 	1 	is 	VBZ
+Pe2 	3 	8 	1 	17 	1 	with 	IN
+Pe2 	3 	8 	1 	18 	1 	the 	DT
+Pe2 	3 	8 	1 	19 	1 	Lord 	NN
+Pe2 	3 	8 	1 	20 	1 	as 	IN
+Pe2 	3 	8 	1 	21 	1 	a 	DT
+Pe2 	3 	8 	1 	22 	1 	thousand 	NN
+Pe2 	3 	8 	1 	23 	1 	years 	NNS
+Pe2 	3 	8 	1 	24 	0 	,
+Pe2 	3 	8 	1 	25 	1 	and 	CC
+Pe2 	3 	8 	1 	26 	1 	a 	DT
+Pe2 	3 	8 	1 	27 	1 	thousand 	NN
+Pe2 	3 	8 	1 	28 	1 	years 	NNS
+Pe2 	3 	8 	1 	29 	1 	as 	IN
+Pe2 	3 	8 	1 	30 	1 	one 	CD
+Pe2 	3 	8 	1 	31 	1 	day 	NN
+Pe2 	3 	8 	1 	32 	0 	.
+Pe2 	3 	9 	1 	1 	1 	The 	DT
+Pe2 	3 	9 	1 	2 	1 	Lord 	NN
+Pe2 	3 	9 	1 	3 	1 	is 	VBZ
+Pe2 	3 	9 	1 	4 	1 	not 	RB
+Pe2 	3 	9 	1 	5 	1 	slack 	NN
+Pe2 	3 	9 	1 	6 	1 	concerning 	VBG
+Pe2 	3 	9 	1 	7 	1 	his 	PRP$
+Pe2 	3 	9 	1 	8 	1 	promise 	NN
+Pe2 	3 	9 	1 	9 	0 	,
+Pe2 	3 	9 	1 	10 	1 	as 	IN
+Pe2 	3 	9 	1 	11 	1 	some 	DT
+Pe2 	3 	9 	1 	12 	1 	men 	NNS
+Pe2 	3 	9 	1 	13 	1 	count 	NN
+Pe2 	3 	9 	1 	14 	1 	slackness 	NN
+Pe2 	3 	9 	1 	15 	0 	;
+Pe2 	3 	9 	1 	16 	1 	but 	CC
+Pe2 	3 	9 	1 	17 	1 	is 	VBZ
+Pe2 	3 	9 	1 	18 	1 	longsuffering 	VBG
+Pe2 	3 	9 	1 	19 	1 	to 	TO
+Pe2 	3 	9 	1 	20 	1 	us-ward 	JJ
+Pe2 	3 	9 	1 	21 	0 	,
+Pe2 	3 	9 	1 	22 	1 	not 	RB
+Pe2 	3 	9 	1 	23 	1 	willing 	JJ
+Pe2 	3 	9 	1 	24 	1 	that 	IN
+Pe2 	3 	9 	1 	25 	1 	any 	DT
+Pe2 	3 	9 	1 	26 	1 	should 	MD
+Pe2 	3 	9 	1 	27 	1 	perish 	NN
+Pe2 	3 	9 	1 	28 	0 	,
+Pe2 	3 	9 	1 	29 	1 	but 	CC
+Pe2 	3 	9 	1 	30 	1 	that 	IN
+Pe2 	3 	9 	1 	31 	1 	all 	DT
+Pe2 	3 	9 	1 	32 	1 	should 	MD
+Pe2 	3 	9 	1 	33 	1 	come 	VB
+Pe2 	3 	9 	1 	34 	1 	to 	TO
+Pe2 	3 	9 	1 	35 	1 	repentance 	NN
+Pe2 	3 	9 	1 	36 	0 	.
+Pe2 	3 	10 	1 	1 	1 	But 	CC
+Pe2 	3 	10 	1 	2 	1 	the 	DT
+Pe2 	3 	10 	1 	3 	1 	day 	NN
+Pe2 	3 	10 	1 	4 	1 	of 	IN
+Pe2 	3 	10 	1 	5 	1 	the 	DT
+Pe2 	3 	10 	1 	6 	1 	Lord 	NN
+Pe2 	3 	10 	1 	7 	1 	will 	MD
+Pe2 	3 	10 	1 	8 	1 	come 	VB
+Pe2 	3 	10 	1 	9 	1 	as 	IN
+Pe2 	3 	10 	1 	10 	1 	a 	DT
+Pe2 	3 	10 	1 	11 	1 	thief 	NN
+Pe2 	3 	10 	1 	12 	1 	in 	IN
+Pe2 	3 	10 	1 	13 	1 	the 	DT
+Pe2 	3 	10 	1 	14 	1 	night 	NN
+Pe2 	3 	10 	1 	15 	0 	;
+Pe2 	3 	10 	1 	16 	1 	in 	IN
+Pe2 	3 	10 	1 	17 	1 	the 	DT
+Pe2 	3 	10 	1 	18 	1 	which 	WDT
+Pe2 	3 	10 	1 	19 	1 	the 	DT
+Pe2 	3 	10 	1 	20 	1 	heavens 	NNS
+Pe2 	3 	10 	1 	21 	1 	shall 	MD
+Pe2 	3 	10 	1 	22 	1 	pass 	NN
+Pe2 	3 	10 	1 	23 	1 	away 	RB
+Pe2 	3 	10 	1 	24 	1 	with 	IN
+Pe2 	3 	10 	1 	25 	1 	a 	DT
+Pe2 	3 	10 	1 	26 	1 	great 	JJ
+Pe2 	3 	10 	1 	27 	1 	noise 	NN
+Pe2 	3 	10 	1 	28 	0 	,
+Pe2 	3 	10 	1 	29 	1 	and 	CC
+Pe2 	3 	10 	1 	30 	1 	the 	DT
+Pe2 	3 	10 	1 	31 	1 	elements 	NNS
+Pe2 	3 	10 	1 	32 	1 	shall 	MD
+Pe2 	3 	10 	1 	33 	1 	melt 	NN
+Pe2 	3 	10 	1 	34 	1 	with 	IN
+Pe2 	3 	10 	1 	35 	1 	fervent 	NN
+Pe2 	3 	10 	1 	36 	1 	heat 	NN
+Pe2 	3 	10 	1 	37 	0 	,
+Pe2 	3 	10 	1 	38 	1 	the 	DT
+Pe2 	3 	10 	1 	39 	1 	earth 	NN
+Pe2 	3 	10 	1 	40 	1 	also 	RB
+Pe2 	3 	10 	1 	41 	1 	and 	CC
+Pe2 	3 	10 	1 	42 	1 	the 	DT
+Pe2 	3 	10 	1 	43 	1 	works 	NNS
+Pe2 	3 	10 	1 	44 	1 	that 	IN
+Pe2 	3 	10 	1 	45 	1 	are 	VBP
+Pe2 	3 	10 	1 	46 	1 	therein 	NN
+Pe2 	3 	10 	1 	47 	1 	shall 	MD
+Pe2 	3 	10 	1 	48 	1 	be 	VB
+Pe2 	3 	10 	1 	49 	1 	burned 	VBN
+Pe2 	3 	10 	1 	50 	1 	up 	RB
+Pe2 	3 	10 	1 	51 	0 	.
+Pe2 	3 	11 	1 	1 	1 	Seeing 	VBG
+Pe2 	3 	11 	1 	2 	1 	then 	RB
+Pe2 	3 	11 	1 	3 	1 	that 	IN
+Pe2 	3 	11 	1 	4 	1 	all 	DT
+Pe2 	3 	11 	1 	5 	1 	these 	DT
+Pe2 	3 	11 	1 	6 	1 	things 	NNS
+Pe2 	3 	11 	1 	7 	1 	shall 	MD
+Pe2 	3 	11 	1 	8 	1 	be 	VB
+Pe2 	3 	11 	1 	9 	1 	dissolved 	VBN
+Pe2 	3 	11 	1 	10 	0 	,
+Pe2 	3 	11 	1 	11 	1 	what 	WP
+Pe2 	3 	11 	1 	12 	1 	manner 	NN
+Pe2 	3 	11 	1 	13 	1 	of 	IN
+Pe2 	3 	11 	1 	14 	1 	persons 	NNS
+Pe2 	3 	11 	1 	15 	1 	ought 	MD
+Pe2 	3 	11 	1 	16 	1 	ye 	NN
+Pe2 	3 	11 	1 	17 	1 	to 	TO
+Pe2 	3 	11 	1 	18 	1 	be 	VB
+Pe2 	3 	11 	1 	19 	1 	in 	IN
+Pe2 	3 	11 	1 	20 	1 	all 	DT
+Pe2 	3 	11 	1 	21 	1 	holy 	NN
+Pe2 	3 	11 	1 	22 	1 	conversation 	NN
+Pe2 	3 	11 	1 	23 	1 	and 	CC
+Pe2 	3 	11 	1 	24 	1 	godliness 	NN
+Pe2 	3 	11 	1 	25 	0 	,
+Pe2 	3 	12 	1 	1 	1 	Looking 	VBG
+Pe2 	3 	12 	1 	2 	1 	for 	IN
+Pe2 	3 	12 	1 	3 	1 	and 	CC
+Pe2 	3 	12 	1 	4 	1 	hasting 	VBG
+Pe2 	3 	12 	1 	5 	1 	unto 	NN
+Pe2 	3 	12 	1 	6 	1 	the 	DT
+Pe2 	3 	12 	1 	7 	1 	coming 	VBG
+Pe2 	3 	12 	1 	8 	1 	of 	IN
+Pe2 	3 	12 	1 	9 	1 	the 	DT
+Pe2 	3 	12 	1 	10 	1 	day 	NN
+Pe2 	3 	12 	1 	11 	1 	of 	IN
+Pe2 	3 	12 	1 	12 	1 	God 	NNP
+Pe2 	3 	12 	1 	13 	0 	,
+Pe2 	3 	12 	1 	14 	1 	wherein 	NN
+Pe2 	3 	12 	1 	15 	1 	the 	DT
+Pe2 	3 	12 	1 	16 	1 	heavens 	NNS
+Pe2 	3 	12 	1 	17 	1 	being 	VBG
+Pe2 	3 	12 	1 	18 	1 	on 	IN
+Pe2 	3 	12 	1 	19 	1 	fire 	NN
+Pe2 	3 	12 	1 	20 	1 	shall 	MD
+Pe2 	3 	12 	1 	21 	1 	be 	VB
+Pe2 	3 	12 	1 	22 	1 	dissolved 	VBN
+Pe2 	3 	12 	1 	23 	0 	,
+Pe2 	3 	12 	1 	24 	1 	and 	CC
+Pe2 	3 	12 	1 	25 	1 	the 	DT
+Pe2 	3 	12 	1 	26 	1 	elements 	NNS
+Pe2 	3 	12 	1 	27 	1 	shall 	MD
+Pe2 	3 	12 	1 	28 	1 	melt 	NN
+Pe2 	3 	12 	1 	29 	1 	with 	IN
+Pe2 	3 	12 	1 	30 	1 	fervent 	NN
+Pe2 	3 	12 	1 	31 	1 	heat 	NN
+Pe2 	3 	12 	1 	32 	0 	?
+Pe2 	3 	13 	1 	1 	1 	Nevertheless 	RB
+Pe2 	3 	13 	1 	2 	1 	we 	PRP
+Pe2 	3 	13 	1 	3 	0 	,
+Pe2 	3 	13 	1 	4 	1 	according 	VBG
+Pe2 	3 	13 	1 	5 	1 	to 	TO
+Pe2 	3 	13 	1 	6 	1 	his 	PRP$
+Pe2 	3 	13 	1 	7 	1 	promise 	NN
+Pe2 	3 	13 	1 	8 	0 	,
+Pe2 	3 	13 	1 	9 	1 	look 	NN
+Pe2 	3 	13 	1 	10 	1 	for 	IN
+Pe2 	3 	13 	1 	11 	1 	new 	JJ
+Pe2 	3 	13 	1 	12 	1 	heavens 	NNS
+Pe2 	3 	13 	1 	13 	1 	and 	CC
+Pe2 	3 	13 	1 	14 	1 	a 	DT
+Pe2 	3 	13 	1 	15 	1 	new 	JJ
+Pe2 	3 	13 	1 	16 	1 	earth 	NN
+Pe2 	3 	13 	1 	17 	0 	,
+Pe2 	3 	13 	1 	18 	1 	wherein 	NN
+Pe2 	3 	13 	1 	19 	1 	dwelleth 	NN
+Pe2 	3 	13 	1 	20 	1 	righteousness 	NN
+Pe2 	3 	13 	1 	21 	0 	.
+Pe2 	3 	14 	1 	1 	1 	Wherefore 	IN
+Pe2 	3 	14 	1 	2 	0 	,
+Pe2 	3 	14 	1 	3 	1 	beloved 	VBN
+Pe2 	3 	14 	1 	4 	0 	,
+Pe2 	3 	14 	1 	5 	1 	seeing 	VBG
+Pe2 	3 	14 	1 	6 	1 	that 	IN
+Pe2 	3 	14 	1 	7 	1 	ye 	NN
+Pe2 	3 	14 	1 	8 	1 	look 	NN
+Pe2 	3 	14 	1 	9 	1 	for 	IN
+Pe2 	3 	14 	1 	10 	1 	such 	JJ
+Pe2 	3 	14 	1 	11 	1 	things 	NNS
+Pe2 	3 	14 	1 	12 	0 	,
+Pe2 	3 	14 	1 	13 	1 	be 	VB
+Pe2 	3 	14 	1 	14 	1 	diligent 	NN
+Pe2 	3 	14 	1 	15 	1 	that 	IN
+Pe2 	3 	14 	1 	16 	1 	ye 	NN
+Pe2 	3 	14 	1 	17 	1 	may 	MD
+Pe2 	3 	14 	1 	18 	1 	be 	VB
+Pe2 	3 	14 	1 	19 	1 	found 	NN
+Pe2 	3 	14 	1 	20 	1 	of 	IN
+Pe2 	3 	14 	1 	21 	1 	him 	PRP
+Pe2 	3 	14 	1 	22 	1 	in 	IN
+Pe2 	3 	14 	1 	23 	1 	peace 	NN
+Pe2 	3 	14 	1 	24 	0 	,
+Pe2 	3 	14 	1 	25 	1 	without 	IN
+Pe2 	3 	14 	1 	26 	1 	spot 	NN
+Pe2 	3 	14 	1 	27 	0 	,
+Pe2 	3 	14 	1 	28 	1 	and 	CC
+Pe2 	3 	14 	1 	29 	1 	blameless 	NN
+Pe2 	3 	14 	1 	30 	0 	.
+Pe2 	3 	15 	1 	1 	1 	And 	CC
+Pe2 	3 	15 	1 	2 	1 	account 	NN
+Pe2 	3 	15 	1 	3 	1 	that 	IN
+Pe2 	3 	15 	1 	4 	1 	the 	DT
+Pe2 	3 	15 	1 	5 	1 	longsuffering 	VBG
+Pe2 	3 	15 	1 	6 	1 	of 	IN
+Pe2 	3 	15 	1 	7 	1 	our 	PRP$
+Pe2 	3 	15 	1 	8 	1 	Lord 	NN
+Pe2 	3 	15 	1 	9 	1 	is 	VBZ
+Pe2 	3 	15 	1 	10 	1 	salvation 	NN
+Pe2 	3 	15 	1 	11 	0 	;
+Pe2 	3 	15 	1 	12 	1 	even 	RB
+Pe2 	3 	15 	1 	13 	1 	as 	IN
+Pe2 	3 	15 	1 	14 	1 	our 	PRP$
+Pe2 	3 	15 	1 	15 	1 	beloved 	VBN
+Pe2 	3 	15 	1 	16 	1 	brother 	NN
+Pe2 	3 	15 	1 	17 	1 	Paul 	NNP
+Pe2 	3 	15 	1 	18 	1 	also 	RB
+Pe2 	3 	15 	1 	19 	1 	according 	VBG
+Pe2 	3 	15 	1 	20 	1 	to 	TO
+Pe2 	3 	15 	1 	21 	1 	the 	DT
+Pe2 	3 	15 	1 	22 	1 	wisdom 	NN
+Pe2 	3 	15 	1 	23 	1 	given 	VBN
+Pe2 	3 	15 	1 	24 	1 	unto 	NN
+Pe2 	3 	15 	1 	25 	1 	him 	PRP
+Pe2 	3 	15 	1 	26 	1 	hath 	NN
+Pe2 	3 	15 	1 	27 	1 	written 	VBN
+Pe2 	3 	15 	1 	28 	1 	unto 	NN
+Pe2 	3 	15 	1 	29 	1 	you 	PRP
+Pe2 	3 	15 	1 	30 	0 	;
+Pe2 	3 	16 	1 	1 	1 	As 	IN
+Pe2 	3 	16 	1 	2 	1 	also 	RB
+Pe2 	3 	16 	1 	3 	1 	in 	IN
+Pe2 	3 	16 	1 	4 	1 	all 	DT
+Pe2 	3 	16 	1 	5 	1 	his 	PRP$
+Pe2 	3 	16 	1 	6 	1 	epistles 	NNS
+Pe2 	3 	16 	1 	7 	0 	,
+Pe2 	3 	16 	1 	8 	1 	speaking 	VBG
+Pe2 	3 	16 	1 	9 	1 	in 	IN
+Pe2 	3 	16 	1 	10 	1 	them 	PRP
+Pe2 	3 	16 	1 	11 	1 	of 	IN
+Pe2 	3 	16 	1 	12 	1 	these 	DT
+Pe2 	3 	16 	1 	13 	1 	things 	NNS
+Pe2 	3 	16 	1 	14 	0 	;
+Pe2 	3 	16 	1 	15 	1 	in 	IN
+Pe2 	3 	16 	1 	16 	1 	which 	WDT
+Pe2 	3 	16 	1 	17 	1 	are 	VBP
+Pe2 	3 	16 	1 	18 	1 	some 	DT
+Pe2 	3 	16 	1 	19 	1 	things 	NNS
+Pe2 	3 	16 	1 	20 	1 	hard 	JJ
+Pe2 	3 	16 	1 	21 	1 	to 	TO
+Pe2 	3 	16 	1 	22 	1 	be 	VB
+Pe2 	3 	16 	1 	23 	1 	understood 	NN
+Pe2 	3 	16 	1 	24 	0 	,
+Pe2 	3 	16 	1 	25 	1 	which 	WDT
+Pe2 	3 	16 	1 	26 	1 	they 	PRP
+Pe2 	3 	16 	1 	27 	1 	that 	IN
+Pe2 	3 	16 	1 	28 	1 	are 	VBP
+Pe2 	3 	16 	1 	29 	1 	unlearned 	JJ
+Pe2 	3 	16 	1 	30 	1 	and 	CC
+Pe2 	3 	16 	1 	31 	1 	unstable 	JJ
+Pe2 	3 	16 	1 	32 	1 	wrest 	JJS
+Pe2 	3 	16 	1 	33 	0 	,
+Pe2 	3 	16 	1 	34 	1 	as 	IN
+Pe2 	3 	16 	1 	35 	1 	they 	PRP
+Pe2 	3 	16 	1 	36 	1 	do 	VB
+Pe2 	3 	16 	1 	37 	1 	also 	RB
+Pe2 	3 	16 	1 	38 	1 	the 	DT
+Pe2 	3 	16 	1 	39 	1 	other 	JJ
+Pe2 	3 	16 	1 	40 	1 	scriptures 	NNS
+Pe2 	3 	16 	1 	41 	0 	,
+Pe2 	3 	16 	1 	42 	1 	unto 	NN
+Pe2 	3 	16 	1 	43 	1 	their 	PRP$
+Pe2 	3 	16 	1 	44 	1 	own 	JJ
+Pe2 	3 	16 	1 	45 	1 	destruction 	NN
+Pe2 	3 	16 	1 	46 	0 	.
+Pe2 	3 	17 	1 	1 	1 	Ye 	NN
+Pe2 	3 	17 	1 	2 	1 	therefore 	RB
+Pe2 	3 	17 	1 	3 	0 	,
+Pe2 	3 	17 	1 	4 	1 	beloved 	VBN
+Pe2 	3 	17 	1 	5 	0 	,
+Pe2 	3 	17 	1 	6 	1 	seeing 	VBG
+Pe2 	3 	17 	1 	7 	1 	ye 	NN
+Pe2 	3 	17 	1 	8 	1 	know 	VB
+Pe2 	3 	17 	1 	9 	1 	these 	DT
+Pe2 	3 	17 	1 	10 	1 	things 	NNS
+Pe2 	3 	17 	1 	11 	1 	before 	IN
+Pe2 	3 	17 	1 	12 	0 	,
+Pe2 	3 	17 	1 	13 	1 	beware 	NN
+Pe2 	3 	17 	1 	14 	1 	lest 	JJS
+Pe2 	3 	17 	1 	15 	1 	ye 	NN
+Pe2 	3 	17 	1 	16 	1 	also 	RB
+Pe2 	3 	17 	1 	17 	0 	,
+Pe2 	3 	17 	1 	18 	1 	being 	VBG
+Pe2 	3 	17 	1 	19 	1 	led 	VBN
+Pe2 	3 	17 	1 	20 	1 	away 	RB
+Pe2 	3 	17 	1 	21 	1 	with 	IN
+Pe2 	3 	17 	1 	22 	1 	the 	DT
+Pe2 	3 	17 	1 	23 	1 	error 	NN
+Pe2 	3 	17 	1 	24 	1 	of 	IN
+Pe2 	3 	17 	1 	25 	1 	the 	DT
+Pe2 	3 	17 	1 	26 	1 	wicked 	VBD
+Pe2 	3 	17 	1 	27 	0 	,
+Pe2 	3 	17 	1 	28 	1 	fall 	NN
+Pe2 	3 	17 	1 	29 	1 	from 	IN
+Pe2 	3 	17 	1 	30 	1 	your 	PRP$
+Pe2 	3 	17 	1 	31 	1 	own 	JJ
+Pe2 	3 	17 	1 	32 	1 	stedfastness 	NN
+Pe2 	3 	17 	1 	33 	0 	.
+Pe2 	3 	18 	1 	1 	1 	But 	CC
+Pe2 	3 	18 	1 	2 	1 	grow 	NN
+Pe2 	3 	18 	1 	3 	1 	in 	IN
+Pe2 	3 	18 	1 	4 	1 	grace 	NN
+Pe2 	3 	18 	1 	5 	0 	,
+Pe2 	3 	18 	1 	6 	1 	and 	CC
+Pe2 	3 	18 	1 	7 	1 	in 	IN
+Pe2 	3 	18 	1 	8 	1 	the 	DT
+Pe2 	3 	18 	1 	9 	1 	knowledge 	NN
+Pe2 	3 	18 	1 	10 	1 	of 	IN
+Pe2 	3 	18 	1 	11 	1 	our 	PRP$
+Pe2 	3 	18 	1 	12 	1 	Lord 	NN
+Pe2 	3 	18 	1 	13 	1 	and 	CC
+Pe2 	3 	18 	1 	14 	1 	Saviour 	NN
+Pe2 	3 	18 	1 	15 	1 	Jesus 	NN
+Pe2 	3 	18 	1 	16 	1 	Christ 	NN
+Pe2 	3 	18 	1 	17 	0 	.
+Pe2 	3 	18 	2 	1 	1 	To 	TO
+Pe2 	3 	18 	2 	2 	1 	him 	PRP
+Pe2 	3 	18 	2 	3 	1 	be 	VB
+Pe2 	3 	18 	2 	4 	1 	glory 	NN
+Pe2 	3 	18 	2 	5 	1 	both 	DT
+Pe2 	3 	18 	2 	6 	1 	now 	RB
+Pe2 	3 	18 	2 	7 	1 	and 	CC
+Pe2 	3 	18 	2 	8 	1 	for 	IN
+Pe2 	3 	18 	2 	9 	1 	ever 	RB
+Pe2 	3 	18 	2 	10 	0 	.
+Pe2 	3 	18 	3 	1 	1 	Amen 	NNS
+Pe2 	3 	18 	3 	2 	0 	.

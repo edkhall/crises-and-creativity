@@ -1,0 +1,345 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Jo3 	1 	1 	1 	1 	1 	The 	DT
+Jo3 	1 	1 	1 	2 	1 	elder 	NN
+Jo3 	1 	1 	1 	3 	1 	unto 	NN
+Jo3 	1 	1 	1 	4 	1 	the 	DT
+Jo3 	1 	1 	1 	5 	1 	well 	RB
+Jo3 	1 	1 	1 	6 	1 	beloved 	VBN
+Jo3 	1 	1 	1 	7 	1 	Gaius 	NN
+Jo3 	1 	1 	1 	8 	0 	,
+Jo3 	1 	1 	1 	9 	1 	whom 	WP
+Jo3 	1 	1 	1 	10 	1 	I 	PRP
+Jo3 	1 	1 	1 	11 	1 	love 	NN
+Jo3 	1 	1 	1 	12 	1 	in 	IN
+Jo3 	1 	1 	1 	13 	1 	the 	DT
+Jo3 	1 	1 	1 	14 	1 	truth 	NN
+Jo3 	1 	1 	1 	15 	0 	.
+Jo3 	1 	2 	1 	1 	1 	Beloved 	VBN
+Jo3 	1 	2 	1 	2 	0 	,
+Jo3 	1 	2 	1 	3 	1 	I 	PRP
+Jo3 	1 	2 	1 	4 	1 	wish 	NN
+Jo3 	1 	2 	1 	5 	1 	above 	IN
+Jo3 	1 	2 	1 	6 	1 	all 	DT
+Jo3 	1 	2 	1 	7 	1 	things 	NNS
+Jo3 	1 	2 	1 	8 	1 	that 	IN
+Jo3 	1 	2 	1 	9 	1 	thou 	NN
+Jo3 	1 	2 	1 	10 	1 	mayest 	JJS
+Jo3 	1 	2 	1 	11 	1 	prosper 	NN
+Jo3 	1 	2 	1 	12 	1 	and 	CC
+Jo3 	1 	2 	1 	13 	1 	be 	VB
+Jo3 	1 	2 	1 	14 	1 	in 	IN
+Jo3 	1 	2 	1 	15 	1 	health 	NN
+Jo3 	1 	2 	1 	16 	0 	,
+Jo3 	1 	2 	1 	17 	1 	even 	RB
+Jo3 	1 	2 	1 	18 	1 	as 	IN
+Jo3 	1 	2 	1 	19 	1 	thy 	NN
+Jo3 	1 	2 	1 	20 	1 	soul 	NN
+Jo3 	1 	2 	1 	21 	1 	prospereth 	NN
+Jo3 	1 	2 	1 	22 	0 	.
+Jo3 	1 	3 	1 	1 	1 	For 	IN
+Jo3 	1 	3 	1 	2 	1 	I 	PRP
+Jo3 	1 	3 	1 	3 	1 	rejoiced 	VBN
+Jo3 	1 	3 	1 	4 	1 	greatly 	RB
+Jo3 	1 	3 	1 	5 	0 	,
+Jo3 	1 	3 	1 	6 	1 	when 	WRB
+Jo3 	1 	3 	1 	7 	1 	the 	DT
+Jo3 	1 	3 	1 	8 	1 	brethren 	NNS
+Jo3 	1 	3 	1 	9 	1 	came 	VBD
+Jo3 	1 	3 	1 	10 	1 	and 	CC
+Jo3 	1 	3 	1 	11 	1 	testified 	VBN
+Jo3 	1 	3 	1 	12 	1 	of 	IN
+Jo3 	1 	3 	1 	13 	1 	the 	DT
+Jo3 	1 	3 	1 	14 	1 	truth 	NN
+Jo3 	1 	3 	1 	15 	1 	that 	IN
+Jo3 	1 	3 	1 	16 	1 	is 	VBZ
+Jo3 	1 	3 	1 	17 	1 	in 	IN
+Jo3 	1 	3 	1 	18 	1 	thee 	NN
+Jo3 	1 	3 	1 	19 	0 	,
+Jo3 	1 	3 	1 	20 	1 	even 	RB
+Jo3 	1 	3 	1 	21 	1 	as 	IN
+Jo3 	1 	3 	1 	22 	1 	thou 	NN
+Jo3 	1 	3 	1 	23 	1 	walkest 	JJS
+Jo3 	1 	3 	1 	24 	1 	in 	IN
+Jo3 	1 	3 	1 	25 	1 	the 	DT
+Jo3 	1 	3 	1 	26 	1 	truth 	NN
+Jo3 	1 	3 	1 	27 	0 	.
+Jo3 	1 	4 	1 	1 	1 	I 	PRP
+Jo3 	1 	4 	1 	2 	1 	have 	VB
+Jo3 	1 	4 	1 	3 	1 	no 	DT
+Jo3 	1 	4 	1 	4 	1 	greater 	JJR
+Jo3 	1 	4 	1 	5 	1 	joy 	NN
+Jo3 	1 	4 	1 	6 	1 	than 	IN
+Jo3 	1 	4 	1 	7 	1 	to 	TO
+Jo3 	1 	4 	1 	8 	1 	hear 	NN
+Jo3 	1 	4 	1 	9 	1 	that 	IN
+Jo3 	1 	4 	1 	10 	1 	my 	PRP$
+Jo3 	1 	4 	1 	11 	1 	children 	NNS
+Jo3 	1 	4 	1 	12 	1 	walk 	NN
+Jo3 	1 	4 	1 	13 	1 	in 	IN
+Jo3 	1 	4 	1 	14 	1 	truth 	NN
+Jo3 	1 	4 	1 	15 	0 	.
+Jo3 	1 	5 	1 	1 	1 	Beloved 	VBN
+Jo3 	1 	5 	1 	2 	0 	,
+Jo3 	1 	5 	1 	3 	1 	thou 	NN
+Jo3 	1 	5 	1 	4 	1 	doest 	NN
+Jo3 	1 	5 	1 	5 	1 	faithfully 	RB
+Jo3 	1 	5 	1 	6 	1 	whatsoever 	NN
+Jo3 	1 	5 	1 	7 	1 	thou 	NN
+Jo3 	1 	5 	1 	8 	1 	doest 	NN
+Jo3 	1 	5 	1 	9 	1 	to 	TO
+Jo3 	1 	5 	1 	10 	1 	the 	DT
+Jo3 	1 	5 	1 	11 	1 	brethren 	NNS
+Jo3 	1 	5 	1 	12 	0 	,
+Jo3 	1 	5 	1 	13 	1 	and 	CC
+Jo3 	1 	5 	1 	14 	1 	to 	TO
+Jo3 	1 	5 	1 	15 	1 	strangers 	NNS
+Jo3 	1 	5 	1 	16 	0 	;
+Jo3 	1 	6 	1 	1 	1 	Which 	WDT
+Jo3 	1 	6 	1 	2 	1 	have 	VB
+Jo3 	1 	6 	1 	3 	1 	borne 	NN
+Jo3 	1 	6 	1 	4 	1 	witness 	NN
+Jo3 	1 	6 	1 	5 	1 	of 	IN
+Jo3 	1 	6 	1 	6 	1 	thy 	NN
+Jo3 	1 	6 	1 	7 	1 	charity 	NN
+Jo3 	1 	6 	1 	8 	1 	before 	IN
+Jo3 	1 	6 	1 	9 	1 	the 	DT
+Jo3 	1 	6 	1 	10 	1 	church 	NN
+Jo3 	1 	6 	1 	11 	0 	:
+Jo3 	1 	6 	1 	12 	1 	whom 	WP
+Jo3 	1 	6 	1 	13 	1 	if 	IN
+Jo3 	1 	6 	1 	14 	1 	thou 	NN
+Jo3 	1 	6 	1 	15 	1 	bring 	NN
+Jo3 	1 	6 	1 	16 	1 	forward 	RB
+Jo3 	1 	6 	1 	17 	1 	on 	IN
+Jo3 	1 	6 	1 	18 	1 	their 	PRP$
+Jo3 	1 	6 	1 	19 	1 	journey 	NN
+Jo3 	1 	6 	1 	20 	1 	after 	IN
+Jo3 	1 	6 	1 	21 	1 	a 	DT
+Jo3 	1 	6 	1 	22 	1 	godly 	RB
+Jo3 	1 	6 	1 	23 	1 	sort 	NN
+Jo3 	1 	6 	1 	24 	0 	,
+Jo3 	1 	6 	1 	25 	1 	thou 	NN
+Jo3 	1 	6 	1 	26 	1 	shalt 	NN
+Jo3 	1 	6 	1 	27 	1 	do 	VB
+Jo3 	1 	6 	1 	28 	1 	well 	RB
+Jo3 	1 	6 	1 	29 	0 	:
+Jo3 	1 	7 	1 	1 	1 	Because 	IN
+Jo3 	1 	7 	1 	2 	1 	that 	IN
+Jo3 	1 	7 	1 	3 	1 	for 	IN
+Jo3 	1 	7 	1 	4 	1 	his 	PRP$
+Jo3 	1 	7 	1 	5 	1 	name 	NN
+Jo3 	1 	7 	1 	6 	0 	's
+Jo3 	1 	7 	1 	7 	1 	sake 	NN
+Jo3 	1 	7 	1 	8 	1 	they 	PRP
+Jo3 	1 	7 	1 	9 	1 	went 	VBD
+Jo3 	1 	7 	1 	10 	1 	forth 	NN
+Jo3 	1 	7 	1 	11 	0 	,
+Jo3 	1 	7 	1 	12 	1 	taking 	VBG
+Jo3 	1 	7 	1 	13 	1 	nothing 	NN
+Jo3 	1 	7 	1 	14 	1 	of 	IN
+Jo3 	1 	7 	1 	15 	1 	the 	DT
+Jo3 	1 	7 	1 	16 	1 	Gentiles 	NNS
+Jo3 	1 	7 	1 	17 	0 	.
+Jo3 	1 	8 	1 	1 	1 	We 	PRP
+Jo3 	1 	8 	1 	2 	1 	therefore 	RB
+Jo3 	1 	8 	1 	3 	1 	ought 	MD
+Jo3 	1 	8 	1 	4 	1 	to 	TO
+Jo3 	1 	8 	1 	5 	1 	receive 	NN
+Jo3 	1 	8 	1 	6 	1 	such 	JJ
+Jo3 	1 	8 	1 	7 	0 	,
+Jo3 	1 	8 	1 	8 	1 	that 	IN
+Jo3 	1 	8 	1 	9 	1 	we 	PRP
+Jo3 	1 	8 	1 	10 	1 	might 	MD
+Jo3 	1 	8 	1 	11 	1 	be 	VB
+Jo3 	1 	8 	1 	12 	1 	fellowhelpers 	NNS
+Jo3 	1 	8 	1 	13 	1 	to 	TO
+Jo3 	1 	8 	1 	14 	1 	the 	DT
+Jo3 	1 	8 	1 	15 	1 	truth 	NN
+Jo3 	1 	8 	1 	16 	0 	.
+Jo3 	1 	9 	1 	1 	1 	I 	PRP
+Jo3 	1 	9 	1 	2 	1 	wrote 	VBD
+Jo3 	1 	9 	1 	3 	1 	unto 	NN
+Jo3 	1 	9 	1 	4 	1 	the 	DT
+Jo3 	1 	9 	1 	5 	1 	church 	NN
+Jo3 	1 	9 	1 	6 	0 	:
+Jo3 	1 	9 	1 	7 	1 	but 	CC
+Jo3 	1 	9 	1 	8 	1 	Diotrephes 	NNS
+Jo3 	1 	9 	1 	9 	0 	,
+Jo3 	1 	9 	1 	10 	1 	who 	WP
+Jo3 	1 	9 	1 	11 	1 	loveth 	NN
+Jo3 	1 	9 	1 	12 	1 	to 	TO
+Jo3 	1 	9 	1 	13 	1 	have 	VB
+Jo3 	1 	9 	1 	14 	1 	the 	DT
+Jo3 	1 	9 	1 	15 	1 	preeminence 	NN
+Jo3 	1 	9 	1 	16 	1 	among 	IN
+Jo3 	1 	9 	1 	17 	1 	them 	PRP
+Jo3 	1 	9 	1 	18 	0 	,
+Jo3 	1 	9 	1 	19 	1 	receiveth 	NN
+Jo3 	1 	9 	1 	20 	1 	us 	PRP
+Jo3 	1 	9 	1 	21 	1 	not 	RB
+Jo3 	1 	9 	1 	22 	0 	.
+Jo3 	1 	10 	1 	1 	1 	Wherefore 	IN
+Jo3 	1 	10 	1 	2 	0 	,
+Jo3 	1 	10 	1 	3 	1 	if 	IN
+Jo3 	1 	10 	1 	4 	1 	I 	PRP
+Jo3 	1 	10 	1 	5 	1 	come 	VB
+Jo3 	1 	10 	1 	6 	0 	,
+Jo3 	1 	10 	1 	7 	1 	I 	PRP
+Jo3 	1 	10 	1 	8 	1 	will 	MD
+Jo3 	1 	10 	1 	9 	1 	remember 	VB
+Jo3 	1 	10 	1 	10 	1 	his 	PRP$
+Jo3 	1 	10 	1 	11 	1 	deeds 	NNS
+Jo3 	1 	10 	1 	12 	1 	which 	WDT
+Jo3 	1 	10 	1 	13 	1 	he 	PRP
+Jo3 	1 	10 	1 	14 	1 	doeth 	NN
+Jo3 	1 	10 	1 	15 	0 	,
+Jo3 	1 	10 	1 	16 	1 	prating 	VBG
+Jo3 	1 	10 	1 	17 	1 	against 	IN
+Jo3 	1 	10 	1 	18 	1 	us 	PRP
+Jo3 	1 	10 	1 	19 	1 	with 	IN
+Jo3 	1 	10 	1 	20 	1 	malicious 	JJ
+Jo3 	1 	10 	1 	21 	1 	words 	NNS
+Jo3 	1 	10 	1 	22 	0 	:
+Jo3 	1 	10 	1 	23 	1 	and 	CC
+Jo3 	1 	10 	1 	24 	1 	not 	RB
+Jo3 	1 	10 	1 	25 	1 	content 	NN
+Jo3 	1 	10 	1 	26 	1 	therewith 	NN
+Jo3 	1 	10 	1 	27 	0 	,
+Jo3 	1 	10 	1 	28 	1 	neither 	DT
+Jo3 	1 	10 	1 	29 	1 	doth 	NN
+Jo3 	1 	10 	1 	30 	1 	he 	PRP
+Jo3 	1 	10 	1 	31 	1 	himself 	PRP
+Jo3 	1 	10 	1 	32 	1 	receive 	NN
+Jo3 	1 	10 	1 	33 	1 	the 	DT
+Jo3 	1 	10 	1 	34 	1 	brethren 	NNS
+Jo3 	1 	10 	1 	35 	0 	,
+Jo3 	1 	10 	1 	36 	1 	and 	CC
+Jo3 	1 	10 	1 	37 	1 	forbiddeth 	NNS
+Jo3 	1 	10 	1 	38 	1 	them 	PRP
+Jo3 	1 	10 	1 	39 	1 	that 	IN
+Jo3 	1 	10 	1 	40 	1 	would 	MD
+Jo3 	1 	10 	1 	41 	0 	,
+Jo3 	1 	10 	1 	42 	1 	and 	CC
+Jo3 	1 	10 	1 	43 	1 	casteth 	NNS
+Jo3 	1 	10 	1 	44 	1 	them 	PRP
+Jo3 	1 	10 	1 	45 	1 	out 	IN
+Jo3 	1 	10 	1 	46 	1 	of 	IN
+Jo3 	1 	10 	1 	47 	1 	the 	DT
+Jo3 	1 	10 	1 	48 	1 	church 	NN
+Jo3 	1 	10 	1 	49 	0 	.
+Jo3 	1 	11 	1 	1 	1 	Beloved 	VBN
+Jo3 	1 	11 	1 	2 	0 	,
+Jo3 	1 	11 	1 	3 	1 	follow 	VB
+Jo3 	1 	11 	1 	4 	1 	not 	RB
+Jo3 	1 	11 	1 	5 	1 	that 	IN
+Jo3 	1 	11 	1 	6 	1 	which 	WDT
+Jo3 	1 	11 	1 	7 	1 	is 	VBZ
+Jo3 	1 	11 	1 	8 	1 	evil 	NN
+Jo3 	1 	11 	1 	9 	0 	,
+Jo3 	1 	11 	1 	10 	1 	but 	CC
+Jo3 	1 	11 	1 	11 	1 	that 	IN
+Jo3 	1 	11 	1 	12 	1 	which 	WDT
+Jo3 	1 	11 	1 	13 	1 	is 	VBZ
+Jo3 	1 	11 	1 	14 	1 	good 	JJ
+Jo3 	1 	11 	1 	15 	0 	.
+Jo3 	1 	11 	2 	1 	1 	He 	PRP
+Jo3 	1 	11 	2 	2 	1 	that 	IN
+Jo3 	1 	11 	2 	3 	1 	doeth 	NN
+Jo3 	1 	11 	2 	4 	1 	good 	JJ
+Jo3 	1 	11 	2 	5 	1 	is 	VBZ
+Jo3 	1 	11 	2 	6 	1 	of 	IN
+Jo3 	1 	11 	2 	7 	1 	God 	NNP
+Jo3 	1 	11 	2 	8 	0 	:
+Jo3 	1 	11 	2 	9 	1 	but 	CC
+Jo3 	1 	11 	2 	10 	1 	he 	PRP
+Jo3 	1 	11 	2 	11 	1 	that 	IN
+Jo3 	1 	11 	2 	12 	1 	doeth 	NN
+Jo3 	1 	11 	2 	13 	1 	evil 	NN
+Jo3 	1 	11 	2 	14 	1 	hath 	NN
+Jo3 	1 	11 	2 	15 	1 	not 	RB
+Jo3 	1 	11 	2 	16 	1 	seen 	VBN
+Jo3 	1 	11 	2 	17 	1 	God 	NNP
+Jo3 	1 	11 	2 	18 	0 	.
+Jo3 	1 	12 	1 	1 	1 	Demetrius 	NN
+Jo3 	1 	12 	1 	2 	1 	hath 	NN
+Jo3 	1 	12 	1 	3 	1 	good 	JJ
+Jo3 	1 	12 	1 	4 	1 	report 	NN
+Jo3 	1 	12 	1 	5 	1 	of 	IN
+Jo3 	1 	12 	1 	6 	1 	all 	DT
+Jo3 	1 	12 	1 	7 	1 	men 	NNS
+Jo3 	1 	12 	1 	8 	0 	,
+Jo3 	1 	12 	1 	9 	1 	and 	CC
+Jo3 	1 	12 	1 	10 	1 	of 	IN
+Jo3 	1 	12 	1 	11 	1 	the 	DT
+Jo3 	1 	12 	1 	12 	1 	truth 	NN
+Jo3 	1 	12 	1 	13 	1 	itself 	PRP
+Jo3 	1 	12 	1 	14 	0 	:
+Jo3 	1 	12 	1 	15 	1 	yea 	NN
+Jo3 	1 	12 	1 	16 	0 	,
+Jo3 	1 	12 	1 	17 	1 	and 	CC
+Jo3 	1 	12 	1 	18 	1 	we 	PRP
+Jo3 	1 	12 	1 	19 	1 	also 	RB
+Jo3 	1 	12 	1 	20 	1 	bear 	NN
+Jo3 	1 	12 	1 	21 	1 	record 	NN
+Jo3 	1 	12 	1 	22 	0 	;
+Jo3 	1 	12 	1 	23 	1 	and 	CC
+Jo3 	1 	12 	1 	24 	1 	ye 	NN
+Jo3 	1 	12 	1 	25 	1 	know 	VB
+Jo3 	1 	12 	1 	26 	1 	that 	IN
+Jo3 	1 	12 	1 	27 	1 	our 	PRP$
+Jo3 	1 	12 	1 	28 	1 	record 	NN
+Jo3 	1 	12 	1 	29 	1 	is 	VBZ
+Jo3 	1 	12 	1 	30 	1 	true 	JJ
+Jo3 	1 	12 	1 	31 	0 	.
+Jo3 	1 	13 	1 	1 	1 	I 	PRP
+Jo3 	1 	13 	1 	2 	1 	had 	VBD
+Jo3 	1 	13 	1 	3 	1 	many 	JJ
+Jo3 	1 	13 	1 	4 	1 	things 	NNS
+Jo3 	1 	13 	1 	5 	1 	to 	TO
+Jo3 	1 	13 	1 	6 	1 	write 	NN
+Jo3 	1 	13 	1 	7 	0 	,
+Jo3 	1 	13 	1 	8 	1 	but 	CC
+Jo3 	1 	13 	1 	9 	1 	I 	PRP
+Jo3 	1 	13 	1 	10 	1 	will 	MD
+Jo3 	1 	13 	1 	11 	1 	not 	RB
+Jo3 	1 	13 	1 	12 	1 	with 	IN
+Jo3 	1 	13 	1 	13 	1 	ink 	NN
+Jo3 	1 	13 	1 	14 	1 	and 	CC
+Jo3 	1 	13 	1 	15 	1 	pen 	VB
+Jo3 	1 	13 	1 	16 	1 	write 	NN
+Jo3 	1 	13 	1 	17 	1 	unto 	NN
+Jo3 	1 	13 	1 	18 	1 	thee 	NN
+Jo3 	1 	13 	1 	19 	0 	:
+Jo3 	1 	14 	1 	1 	1 	But 	CC
+Jo3 	1 	14 	1 	2 	1 	I 	PRP
+Jo3 	1 	14 	1 	3 	1 	trust 	NN
+Jo3 	1 	14 	1 	4 	1 	I 	PRP
+Jo3 	1 	14 	1 	5 	1 	shall 	MD
+Jo3 	1 	14 	1 	6 	1 	shortly 	RB
+Jo3 	1 	14 	1 	7 	1 	see 	VB
+Jo3 	1 	14 	1 	8 	1 	thee 	NN
+Jo3 	1 	14 	1 	9 	0 	,
+Jo3 	1 	14 	1 	10 	1 	and 	CC
+Jo3 	1 	14 	1 	11 	1 	we 	PRP
+Jo3 	1 	14 	1 	12 	1 	shall 	MD
+Jo3 	1 	14 	1 	13 	1 	speak 	NN
+Jo3 	1 	14 	1 	14 	1 	face 	NN
+Jo3 	1 	14 	1 	15 	1 	to 	TO
+Jo3 	1 	14 	1 	16 	1 	face 	NN
+Jo3 	1 	14 	1 	17 	0 	.
+Jo3 	1 	14 	2 	1 	1 	Peace 	NN
+Jo3 	1 	14 	2 	2 	1 	be 	VB
+Jo3 	1 	14 	2 	3 	1 	to 	TO
+Jo3 	1 	14 	2 	4 	1 	thee 	NN
+Jo3 	1 	14 	2 	5 	0 	.
+Jo3 	1 	14 	3 	1 	1 	Our 	PRP$
+Jo3 	1 	14 	3 	2 	1 	friends 	NNS
+Jo3 	1 	14 	3 	3 	1 	salute 	NN
+Jo3 	1 	14 	3 	4 	1 	thee 	NN
+Jo3 	1 	14 	3 	5 	0 	.
+Jo3 	1 	14 	4 	1 	1 	Greet 	NN
+Jo3 	1 	14 	4 	2 	1 	the 	DT
+Jo3 	1 	14 	4 	3 	1 	friends 	NNS
+Jo3 	1 	14 	4 	4 	1 	by 	IN
+Jo3 	1 	14 	4 	5 	1 	name 	NN
+Jo3 	1 	14 	4 	6 	0 	.

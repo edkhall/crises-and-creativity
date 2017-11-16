@@ -1,0 +1,4875 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Amo 	1 	1 	1 	1 	1 	The 	DT
+Amo 	1 	1 	1 	2 	1 	words 	NNS
+Amo 	1 	1 	1 	3 	1 	of 	IN
+Amo 	1 	1 	1 	4 	1 	Amos 	NNS
+Amo 	1 	1 	1 	5 	0 	,
+Amo 	1 	1 	1 	6 	1 	who 	WP
+Amo 	1 	1 	1 	7 	1 	was 	VBD
+Amo 	1 	1 	1 	8 	1 	among 	IN
+Amo 	1 	1 	1 	9 	1 	the 	DT
+Amo 	1 	1 	1 	10 	1 	herdmen 	NNS
+Amo 	1 	1 	1 	11 	1 	of 	IN
+Amo 	1 	1 	1 	12 	1 	Tekoa 	NN
+Amo 	1 	1 	1 	13 	0 	,
+Amo 	1 	1 	1 	14 	1 	which 	WDT
+Amo 	1 	1 	1 	15 	1 	he 	PRP
+Amo 	1 	1 	1 	16 	1 	saw 	NN
+Amo 	1 	1 	1 	17 	1 	concerning 	VBG
+Amo 	1 	1 	1 	18 	1 	Israel 	NNP
+Amo 	1 	1 	1 	19 	1 	in 	IN
+Amo 	1 	1 	1 	20 	1 	the 	DT
+Amo 	1 	1 	1 	21 	1 	days 	NNS
+Amo 	1 	1 	1 	22 	1 	of 	IN
+Amo 	1 	1 	1 	23 	1 	Uzziah 	NN
+Amo 	1 	1 	1 	24 	1 	king 	NN
+Amo 	1 	1 	1 	25 	1 	of 	IN
+Amo 	1 	1 	1 	26 	1 	Judah 	NN
+Amo 	1 	1 	1 	27 	0 	,
+Amo 	1 	1 	1 	28 	1 	and 	CC
+Amo 	1 	1 	1 	29 	1 	in 	IN
+Amo 	1 	1 	1 	30 	1 	the 	DT
+Amo 	1 	1 	1 	31 	1 	days 	NNS
+Amo 	1 	1 	1 	32 	1 	of 	IN
+Amo 	1 	1 	1 	33 	1 	Jeroboam 	NN
+Amo 	1 	1 	1 	34 	1 	the 	DT
+Amo 	1 	1 	1 	35 	1 	son 	NN
+Amo 	1 	1 	1 	36 	1 	of 	IN
+Amo 	1 	1 	1 	37 	1 	Joash 	NN
+Amo 	1 	1 	1 	38 	1 	king 	NN
+Amo 	1 	1 	1 	39 	1 	of 	IN
+Amo 	1 	1 	1 	40 	1 	Israel 	NNP
+Amo 	1 	1 	1 	41 	0 	,
+Amo 	1 	1 	1 	42 	1 	two 	CD
+Amo 	1 	1 	1 	43 	1 	years 	NNS
+Amo 	1 	1 	1 	44 	1 	before 	IN
+Amo 	1 	1 	1 	45 	1 	the 	DT
+Amo 	1 	1 	1 	46 	1 	earthquake 	NN
+Amo 	1 	1 	1 	47 	0 	.
+Amo 	1 	2 	1 	1 	1 	nd 	NN
+Amo 	1 	2 	1 	2 	1 	he 	PRP
+Amo 	1 	2 	1 	3 	1 	said 	VBD
+Amo 	1 	2 	1 	4 	0 	,
+Amo 	1 	2 	1 	5 	1 	The 	DT
+Amo 	1 	2 	1 	6 	1 	LORD 	NN
+Amo 	1 	2 	1 	7 	1 	will 	MD
+Amo 	1 	2 	1 	8 	1 	roar 	NN
+Amo 	1 	2 	1 	9 	1 	from 	IN
+Amo 	1 	2 	1 	10 	1 	Zion 	NN
+Amo 	1 	2 	1 	11 	0 	,
+Amo 	1 	2 	1 	12 	1 	and 	CC
+Amo 	1 	2 	1 	13 	1 	utter 	NN
+Amo 	1 	2 	1 	14 	1 	his 	PRP$
+Amo 	1 	2 	1 	15 	1 	voice 	NN
+Amo 	1 	2 	1 	16 	1 	from 	IN
+Amo 	1 	2 	1 	17 	1 	Jerusalem 	NN
+Amo 	1 	2 	1 	18 	0 	;
+Amo 	1 	2 	1 	19 	1 	and 	CC
+Amo 	1 	2 	1 	20 	1 	the 	DT
+Amo 	1 	2 	1 	21 	1 	habitations 	NNS
+Amo 	1 	2 	1 	22 	1 	of 	IN
+Amo 	1 	2 	1 	23 	1 	the 	DT
+Amo 	1 	2 	1 	24 	1 	shepherds 	NNS
+Amo 	1 	2 	1 	25 	1 	shall 	MD
+Amo 	1 	2 	1 	26 	1 	mourn 	NN
+Amo 	1 	2 	1 	27 	0 	,
+Amo 	1 	2 	1 	28 	1 	and 	CC
+Amo 	1 	2 	1 	29 	1 	the 	DT
+Amo 	1 	2 	1 	30 	1 	top 	NN
+Amo 	1 	2 	1 	31 	1 	of 	IN
+Amo 	1 	2 	1 	32 	1 	Carmel 	NN
+Amo 	1 	2 	1 	33 	1 	shall 	MD
+Amo 	1 	2 	1 	34 	1 	wither 	NN
+Amo 	1 	2 	1 	35 	0 	.
+Amo 	1 	3 	1 	1 	1 	Thus 	RB
+Amo 	1 	3 	1 	2 	1 	saith 	NN
+Amo 	1 	3 	1 	3 	1 	the 	DT
+Amo 	1 	3 	1 	4 	1 	LORD 	NN
+Amo 	1 	3 	1 	5 	0 	;
+Amo 	1 	3 	1 	6 	1 	For 	IN
+Amo 	1 	3 	1 	7 	1 	three 	CD
+Amo 	1 	3 	1 	8 	1 	transgressions 	NNS
+Amo 	1 	3 	1 	9 	1 	of 	IN
+Amo 	1 	3 	1 	10 	1 	Damascus 	NN
+Amo 	1 	3 	1 	11 	0 	,
+Amo 	1 	3 	1 	12 	1 	and 	CC
+Amo 	1 	3 	1 	13 	1 	for 	IN
+Amo 	1 	3 	1 	14 	1 	four 	CD
+Amo 	1 	3 	1 	15 	0 	,
+Amo 	1 	3 	1 	16 	1 	I 	PRP
+Amo 	1 	3 	1 	17 	1 	will 	MD
+Amo 	1 	3 	1 	18 	1 	not 	RB
+Amo 	1 	3 	1 	19 	1 	turn 	NN
+Amo 	1 	3 	1 	20 	1 	away 	RB
+Amo 	1 	3 	1 	21 	1 	the 	DT
+Amo 	1 	3 	1 	22 	1 	punishment 	NN
+Amo 	1 	3 	1 	23 	1 	thereof 	NN
+Amo 	1 	3 	1 	24 	0 	;
+Amo 	1 	3 	1 	25 	1 	because 	IN
+Amo 	1 	3 	1 	26 	1 	they 	PRP
+Amo 	1 	3 	1 	27 	1 	have 	VB
+Amo 	1 	3 	1 	28 	1 	threshed 	VBN
+Amo 	1 	3 	1 	29 	1 	Gilead 	NN
+Amo 	1 	3 	1 	30 	1 	with 	IN
+Amo 	1 	3 	1 	31 	1 	threshing 	VBG
+Amo 	1 	3 	1 	32 	1 	instruments 	NNS
+Amo 	1 	3 	1 	33 	1 	of 	IN
+Amo 	1 	3 	1 	34 	1 	iron 	NN
+Amo 	1 	3 	1 	35 	0 	:
+Amo 	1 	4 	1 	1 	1 	But 	CC
+Amo 	1 	4 	1 	2 	1 	I 	PRP
+Amo 	1 	4 	1 	3 	1 	will 	MD
+Amo 	1 	4 	1 	4 	1 	send 	NN
+Amo 	1 	4 	1 	5 	1 	a 	DT
+Amo 	1 	4 	1 	6 	1 	fire 	NN
+Amo 	1 	4 	1 	7 	1 	into 	IN
+Amo 	1 	4 	1 	8 	1 	the 	DT
+Amo 	1 	4 	1 	9 	1 	house 	NN
+Amo 	1 	4 	1 	10 	1 	of 	IN
+Amo 	1 	4 	1 	11 	1 	Hazael 	NN
+Amo 	1 	4 	1 	12 	0 	,
+Amo 	1 	4 	1 	13 	1 	which 	WDT
+Amo 	1 	4 	1 	14 	1 	shall 	MD
+Amo 	1 	4 	1 	15 	1 	devour 	NN
+Amo 	1 	4 	1 	16 	1 	the 	DT
+Amo 	1 	4 	1 	17 	1 	palaces 	NNS
+Amo 	1 	4 	1 	18 	1 	of 	IN
+Amo 	1 	4 	1 	19 	1 	Benhadad 	NN
+Amo 	1 	4 	1 	20 	0 	.
+Amo 	1 	5 	1 	1 	1 	I 	PRP
+Amo 	1 	5 	1 	2 	1 	will 	MD
+Amo 	1 	5 	1 	3 	1 	break 	NN
+Amo 	1 	5 	1 	4 	1 	also 	RB
+Amo 	1 	5 	1 	5 	1 	the 	DT
+Amo 	1 	5 	1 	6 	1 	bar 	NN
+Amo 	1 	5 	1 	7 	1 	of 	IN
+Amo 	1 	5 	1 	8 	1 	Damascus 	NN
+Amo 	1 	5 	1 	9 	0 	,
+Amo 	1 	5 	1 	10 	1 	and 	CC
+Amo 	1 	5 	1 	11 	1 	cut 	NN
+Amo 	1 	5 	1 	12 	1 	off 	IN
+Amo 	1 	5 	1 	13 	1 	the 	DT
+Amo 	1 	5 	1 	14 	1 	inhabitant 	NN
+Amo 	1 	5 	1 	15 	1 	from 	IN
+Amo 	1 	5 	1 	16 	1 	the 	DT
+Amo 	1 	5 	1 	17 	1 	plain 	NN
+Amo 	1 	5 	1 	18 	1 	of 	IN
+Amo 	1 	5 	1 	19 	1 	Aven 	RB
+Amo 	1 	5 	1 	20 	0 	,
+Amo 	1 	5 	1 	21 	1 	and 	CC
+Amo 	1 	5 	1 	22 	1 	him 	PRP
+Amo 	1 	5 	1 	23 	1 	that 	IN
+Amo 	1 	5 	1 	24 	1 	holdeth 	NN
+Amo 	1 	5 	1 	25 	1 	the 	DT
+Amo 	1 	5 	1 	26 	1 	sceptre 	NN
+Amo 	1 	5 	1 	27 	1 	from 	IN
+Amo 	1 	5 	1 	28 	1 	the 	DT
+Amo 	1 	5 	1 	29 	1 	house 	NN
+Amo 	1 	5 	1 	30 	1 	of 	IN
+Amo 	1 	5 	1 	31 	1 	Eden 	NN
+Amo 	1 	5 	1 	32 	0 	:
+Amo 	1 	5 	1 	33 	1 	and 	CC
+Amo 	1 	5 	1 	34 	1 	the 	DT
+Amo 	1 	5 	1 	35 	1 	people 	NNS
+Amo 	1 	5 	1 	36 	1 	of 	IN
+Amo 	1 	5 	1 	37 	1 	Syria 	NNS
+Amo 	1 	5 	1 	38 	1 	shall 	MD
+Amo 	1 	5 	1 	39 	1 	go 	VB
+Amo 	1 	5 	1 	40 	1 	into 	IN
+Amo 	1 	5 	1 	41 	1 	captivity 	NN
+Amo 	1 	5 	1 	42 	1 	unto 	NN
+Amo 	1 	5 	1 	43 	1 	Kir 	NNP
+Amo 	1 	5 	1 	44 	0 	,
+Amo 	1 	5 	1 	45 	1 	saith 	NN
+Amo 	1 	5 	1 	46 	1 	the 	DT
+Amo 	1 	5 	1 	47 	1 	LORD 	NN
+Amo 	1 	5 	1 	48 	0 	.
+Amo 	1 	6 	1 	1 	1 	Thus 	RB
+Amo 	1 	6 	1 	2 	1 	saith 	NN
+Amo 	1 	6 	1 	3 	1 	the 	DT
+Amo 	1 	6 	1 	4 	1 	LORD 	NN
+Amo 	1 	6 	1 	5 	0 	;
+Amo 	1 	6 	1 	6 	1 	For 	IN
+Amo 	1 	6 	1 	7 	1 	three 	CD
+Amo 	1 	6 	1 	8 	1 	transgressions 	NNS
+Amo 	1 	6 	1 	9 	1 	of 	IN
+Amo 	1 	6 	1 	10 	1 	Gaza 	NN
+Amo 	1 	6 	1 	11 	0 	,
+Amo 	1 	6 	1 	12 	1 	and 	CC
+Amo 	1 	6 	1 	13 	1 	for 	IN
+Amo 	1 	6 	1 	14 	1 	four 	CD
+Amo 	1 	6 	1 	15 	0 	,
+Amo 	1 	6 	1 	16 	1 	I 	PRP
+Amo 	1 	6 	1 	17 	1 	will 	MD
+Amo 	1 	6 	1 	18 	1 	not 	RB
+Amo 	1 	6 	1 	19 	1 	turn 	NN
+Amo 	1 	6 	1 	20 	1 	away 	RB
+Amo 	1 	6 	1 	21 	1 	the 	DT
+Amo 	1 	6 	1 	22 	1 	punishment 	NN
+Amo 	1 	6 	1 	23 	1 	thereof 	NN
+Amo 	1 	6 	1 	24 	0 	;
+Amo 	1 	6 	1 	25 	1 	because 	IN
+Amo 	1 	6 	1 	26 	1 	they 	PRP
+Amo 	1 	6 	1 	27 	1 	carried 	VBN
+Amo 	1 	6 	1 	28 	1 	away 	RB
+Amo 	1 	6 	1 	29 	1 	captive 	NN
+Amo 	1 	6 	1 	30 	1 	the 	DT
+Amo 	1 	6 	1 	31 	1 	whole 	JJ
+Amo 	1 	6 	1 	32 	1 	captivity 	NN
+Amo 	1 	6 	1 	33 	0 	,
+Amo 	1 	6 	1 	34 	1 	to 	TO
+Amo 	1 	6 	1 	35 	1 	deliver 	NN
+Amo 	1 	6 	1 	36 	1 	them 	PRP
+Amo 	1 	6 	1 	37 	1 	up 	RB
+Amo 	1 	6 	1 	38 	1 	to 	TO
+Amo 	1 	6 	1 	39 	1 	Edom 	NN
+Amo 	1 	6 	1 	40 	0 	:
+Amo 	1 	7 	1 	1 	1 	But 	CC
+Amo 	1 	7 	1 	2 	1 	I 	PRP
+Amo 	1 	7 	1 	3 	1 	will 	MD
+Amo 	1 	7 	1 	4 	1 	send 	NN
+Amo 	1 	7 	1 	5 	1 	a 	DT
+Amo 	1 	7 	1 	6 	1 	fire 	NN
+Amo 	1 	7 	1 	7 	1 	on 	IN
+Amo 	1 	7 	1 	8 	1 	the 	DT
+Amo 	1 	7 	1 	9 	1 	wall 	NN
+Amo 	1 	7 	1 	10 	1 	of 	IN
+Amo 	1 	7 	1 	11 	1 	Gaza 	NN
+Amo 	1 	7 	1 	12 	0 	,
+Amo 	1 	7 	1 	13 	1 	which 	WDT
+Amo 	1 	7 	1 	14 	1 	shall 	MD
+Amo 	1 	7 	1 	15 	1 	devour 	NN
+Amo 	1 	7 	1 	16 	1 	the 	DT
+Amo 	1 	7 	1 	17 	1 	palaces 	NNS
+Amo 	1 	7 	1 	18 	1 	thereof 	NN
+Amo 	1 	7 	1 	19 	0 	:
+Amo 	1 	8 	1 	1 	1 	nd 	NN
+Amo 	1 	8 	1 	2 	1 	I 	PRP
+Amo 	1 	8 	1 	3 	1 	will 	MD
+Amo 	1 	8 	1 	4 	1 	cut 	NN
+Amo 	1 	8 	1 	5 	1 	off 	IN
+Amo 	1 	8 	1 	6 	1 	the 	DT
+Amo 	1 	8 	1 	7 	1 	inhabitant 	NN
+Amo 	1 	8 	1 	8 	1 	from 	IN
+Amo 	1 	8 	1 	9 	1 	Ashdod 	NN
+Amo 	1 	8 	1 	10 	0 	,
+Amo 	1 	8 	1 	11 	1 	and 	CC
+Amo 	1 	8 	1 	12 	1 	him 	PRP
+Amo 	1 	8 	1 	13 	1 	that 	IN
+Amo 	1 	8 	1 	14 	1 	holdeth 	NN
+Amo 	1 	8 	1 	15 	1 	the 	DT
+Amo 	1 	8 	1 	16 	1 	sceptre 	NN
+Amo 	1 	8 	1 	17 	1 	from 	IN
+Amo 	1 	8 	1 	18 	1 	Ashkelon 	NN
+Amo 	1 	8 	1 	19 	0 	,
+Amo 	1 	8 	1 	20 	1 	and 	CC
+Amo 	1 	8 	1 	21 	1 	I 	PRP
+Amo 	1 	8 	1 	22 	1 	will 	MD
+Amo 	1 	8 	1 	23 	1 	turn 	NN
+Amo 	1 	8 	1 	24 	1 	mine 	NN
+Amo 	1 	8 	1 	25 	1 	hand 	NN
+Amo 	1 	8 	1 	26 	1 	against 	IN
+Amo 	1 	8 	1 	27 	1 	Ekron 	NN
+Amo 	1 	8 	1 	28 	0 	:
+Amo 	1 	8 	1 	29 	1 	and 	CC
+Amo 	1 	8 	1 	30 	1 	the 	DT
+Amo 	1 	8 	1 	31 	1 	remnant 	NN
+Amo 	1 	8 	1 	32 	1 	of 	IN
+Amo 	1 	8 	1 	33 	1 	the 	DT
+Amo 	1 	8 	1 	34 	1 	Philistines 	NNS
+Amo 	1 	8 	1 	35 	1 	shall 	MD
+Amo 	1 	8 	1 	36 	1 	perish 	NN
+Amo 	1 	8 	1 	37 	0 	,
+Amo 	1 	8 	1 	38 	1 	saith 	NN
+Amo 	1 	8 	1 	39 	1 	the 	DT
+Amo 	1 	8 	1 	40 	1 	Lord 	NN
+Amo 	1 	8 	1 	41 	1 	GOD 	NNP
+Amo 	1 	8 	1 	42 	0 	.
+Amo 	1 	9 	1 	1 	1 	Thus 	RB
+Amo 	1 	9 	1 	2 	1 	saith 	NN
+Amo 	1 	9 	1 	3 	1 	the 	DT
+Amo 	1 	9 	1 	4 	1 	LORD 	NN
+Amo 	1 	9 	1 	5 	0 	;
+Amo 	1 	9 	1 	6 	1 	For 	IN
+Amo 	1 	9 	1 	7 	1 	three 	CD
+Amo 	1 	9 	1 	8 	1 	transgressions 	NNS
+Amo 	1 	9 	1 	9 	1 	of 	IN
+Amo 	1 	9 	1 	10 	1 	Tyrus 	NN
+Amo 	1 	9 	1 	11 	0 	,
+Amo 	1 	9 	1 	12 	1 	and 	CC
+Amo 	1 	9 	1 	13 	1 	for 	IN
+Amo 	1 	9 	1 	14 	1 	four 	CD
+Amo 	1 	9 	1 	15 	0 	,
+Amo 	1 	9 	1 	16 	1 	I 	PRP
+Amo 	1 	9 	1 	17 	1 	will 	MD
+Amo 	1 	9 	1 	18 	1 	not 	RB
+Amo 	1 	9 	1 	19 	1 	turn 	NN
+Amo 	1 	9 	1 	20 	1 	away 	RB
+Amo 	1 	9 	1 	21 	1 	the 	DT
+Amo 	1 	9 	1 	22 	1 	punishment 	NN
+Amo 	1 	9 	1 	23 	1 	thereof 	NN
+Amo 	1 	9 	1 	24 	0 	;
+Amo 	1 	9 	1 	25 	1 	because 	IN
+Amo 	1 	9 	1 	26 	1 	they 	PRP
+Amo 	1 	9 	1 	27 	1 	delivered 	VBN
+Amo 	1 	9 	1 	28 	1 	up 	RB
+Amo 	1 	9 	1 	29 	1 	the 	DT
+Amo 	1 	9 	1 	30 	1 	whole 	JJ
+Amo 	1 	9 	1 	31 	1 	captivity 	NN
+Amo 	1 	9 	1 	32 	1 	to 	TO
+Amo 	1 	9 	1 	33 	1 	Edom 	NN
+Amo 	1 	9 	1 	34 	0 	,
+Amo 	1 	9 	1 	35 	1 	and 	CC
+Amo 	1 	9 	1 	36 	1 	remembered 	VBN
+Amo 	1 	9 	1 	37 	1 	not 	RB
+Amo 	1 	9 	1 	38 	1 	the 	DT
+Amo 	1 	9 	1 	39 	1 	brotherly 	RB
+Amo 	1 	9 	1 	40 	1 	covenant 	NN
+Amo 	1 	9 	1 	41 	0 	:
+Amo 	1 	10 	1 	1 	1 	But 	CC
+Amo 	1 	10 	1 	2 	1 	I 	PRP
+Amo 	1 	10 	1 	3 	1 	will 	MD
+Amo 	1 	10 	1 	4 	1 	send 	NN
+Amo 	1 	10 	1 	5 	1 	a 	DT
+Amo 	1 	10 	1 	6 	1 	fire 	NN
+Amo 	1 	10 	1 	7 	1 	on 	IN
+Amo 	1 	10 	1 	8 	1 	the 	DT
+Amo 	1 	10 	1 	9 	1 	wall 	NN
+Amo 	1 	10 	1 	10 	1 	of 	IN
+Amo 	1 	10 	1 	11 	1 	Tyrus 	NN
+Amo 	1 	10 	1 	12 	0 	,
+Amo 	1 	10 	1 	13 	1 	which 	WDT
+Amo 	1 	10 	1 	14 	1 	shall 	MD
+Amo 	1 	10 	1 	15 	1 	devour 	NN
+Amo 	1 	10 	1 	16 	1 	the 	DT
+Amo 	1 	10 	1 	17 	1 	palaces 	NNS
+Amo 	1 	10 	1 	18 	1 	thereof 	NN
+Amo 	1 	10 	1 	19 	0 	.
+Amo 	1 	11 	1 	1 	1 	Thus 	RB
+Amo 	1 	11 	1 	2 	1 	saith 	NN
+Amo 	1 	11 	1 	3 	1 	the 	DT
+Amo 	1 	11 	1 	4 	1 	LORD 	NN
+Amo 	1 	11 	1 	5 	0 	;
+Amo 	1 	11 	1 	6 	1 	For 	IN
+Amo 	1 	11 	1 	7 	1 	three 	CD
+Amo 	1 	11 	1 	8 	1 	transgressions 	NNS
+Amo 	1 	11 	1 	9 	1 	of 	IN
+Amo 	1 	11 	1 	10 	1 	Edom 	NN
+Amo 	1 	11 	1 	11 	0 	,
+Amo 	1 	11 	1 	12 	1 	and 	CC
+Amo 	1 	11 	1 	13 	1 	for 	IN
+Amo 	1 	11 	1 	14 	1 	four 	CD
+Amo 	1 	11 	1 	15 	0 	,
+Amo 	1 	11 	1 	16 	1 	I 	PRP
+Amo 	1 	11 	1 	17 	1 	will 	MD
+Amo 	1 	11 	1 	18 	1 	not 	RB
+Amo 	1 	11 	1 	19 	1 	turn 	NN
+Amo 	1 	11 	1 	20 	1 	away 	RB
+Amo 	1 	11 	1 	21 	1 	the 	DT
+Amo 	1 	11 	1 	22 	1 	punishment 	NN
+Amo 	1 	11 	1 	23 	1 	thereof 	NN
+Amo 	1 	11 	1 	24 	0 	;
+Amo 	1 	11 	1 	25 	1 	because 	IN
+Amo 	1 	11 	1 	26 	1 	he 	PRP
+Amo 	1 	11 	1 	27 	1 	did 	VBD
+Amo 	1 	11 	1 	28 	1 	pursue 	NN
+Amo 	1 	11 	1 	29 	1 	his 	PRP$
+Amo 	1 	11 	1 	30 	1 	brother 	NN
+Amo 	1 	11 	1 	31 	1 	with 	IN
+Amo 	1 	11 	1 	32 	1 	the 	DT
+Amo 	1 	11 	1 	33 	1 	sword 	NN
+Amo 	1 	11 	1 	34 	0 	,
+Amo 	1 	11 	1 	35 	1 	and 	CC
+Amo 	1 	11 	1 	36 	1 	did 	VBD
+Amo 	1 	11 	1 	37 	1 	cast 	NN
+Amo 	1 	11 	1 	38 	1 	off 	IN
+Amo 	1 	11 	1 	39 	1 	all 	DT
+Amo 	1 	11 	1 	40 	1 	pity 	NN
+Amo 	1 	11 	1 	41 	0 	,
+Amo 	1 	11 	1 	42 	1 	and 	CC
+Amo 	1 	11 	1 	43 	1 	his 	PRP$
+Amo 	1 	11 	1 	44 	1 	anger 	NN
+Amo 	1 	11 	1 	45 	1 	did 	VBD
+Amo 	1 	11 	1 	46 	1 	tear 	NN
+Amo 	1 	11 	1 	47 	1 	perpetually 	RB
+Amo 	1 	11 	1 	48 	0 	,
+Amo 	1 	11 	1 	49 	1 	and 	CC
+Amo 	1 	11 	1 	50 	1 	he 	PRP
+Amo 	1 	11 	1 	51 	1 	kept 	NN
+Amo 	1 	11 	1 	52 	1 	his 	PRP$
+Amo 	1 	11 	1 	53 	1 	wrath 	NN
+Amo 	1 	11 	1 	54 	1 	for 	IN
+Amo 	1 	11 	1 	55 	1 	ever 	RB
+Amo 	1 	11 	1 	56 	0 	:
+Amo 	1 	12 	1 	1 	1 	But 	CC
+Amo 	1 	12 	1 	2 	1 	I 	PRP
+Amo 	1 	12 	1 	3 	1 	will 	MD
+Amo 	1 	12 	1 	4 	1 	send 	NN
+Amo 	1 	12 	1 	5 	1 	a 	DT
+Amo 	1 	12 	1 	6 	1 	fire 	NN
+Amo 	1 	12 	1 	7 	1 	upon 	IN
+Amo 	1 	12 	1 	8 	1 	Teman 	NN
+Amo 	1 	12 	1 	9 	0 	,
+Amo 	1 	12 	1 	10 	1 	which 	WDT
+Amo 	1 	12 	1 	11 	1 	shall 	MD
+Amo 	1 	12 	1 	12 	1 	devour 	NN
+Amo 	1 	12 	1 	13 	1 	the 	DT
+Amo 	1 	12 	1 	14 	1 	palaces 	NNS
+Amo 	1 	12 	1 	15 	1 	of 	IN
+Amo 	1 	12 	1 	16 	1 	Bozrah 	NN
+Amo 	1 	12 	1 	17 	0 	.
+Amo 	1 	13 	1 	1 	1 	Thus 	RB
+Amo 	1 	13 	1 	2 	1 	saith 	NN
+Amo 	1 	13 	1 	3 	1 	the 	DT
+Amo 	1 	13 	1 	4 	1 	LORD 	NN
+Amo 	1 	13 	1 	5 	0 	;
+Amo 	1 	13 	1 	6 	1 	For 	IN
+Amo 	1 	13 	1 	7 	1 	three 	CD
+Amo 	1 	13 	1 	8 	1 	transgressions 	NNS
+Amo 	1 	13 	1 	9 	1 	of 	IN
+Amo 	1 	13 	1 	10 	1 	the 	DT
+Amo 	1 	13 	1 	11 	1 	children 	NNS
+Amo 	1 	13 	1 	12 	1 	of 	IN
+Amo 	1 	13 	1 	13 	1 	Ammon 	NN
+Amo 	1 	13 	1 	14 	0 	,
+Amo 	1 	13 	1 	15 	1 	and 	CC
+Amo 	1 	13 	1 	16 	1 	for 	IN
+Amo 	1 	13 	1 	17 	1 	four 	CD
+Amo 	1 	13 	1 	18 	0 	,
+Amo 	1 	13 	1 	19 	1 	I 	PRP
+Amo 	1 	13 	1 	20 	1 	will 	MD
+Amo 	1 	13 	1 	21 	1 	not 	RB
+Amo 	1 	13 	1 	22 	1 	turn 	NN
+Amo 	1 	13 	1 	23 	1 	away 	RB
+Amo 	1 	13 	1 	24 	1 	the 	DT
+Amo 	1 	13 	1 	25 	1 	punishment 	NN
+Amo 	1 	13 	1 	26 	1 	thereof 	NN
+Amo 	1 	13 	1 	27 	0 	;
+Amo 	1 	13 	1 	28 	1 	because 	IN
+Amo 	1 	13 	1 	29 	1 	they 	PRP
+Amo 	1 	13 	1 	30 	1 	have 	VB
+Amo 	1 	13 	1 	31 	1 	ripped 	NN
+Amo 	1 	13 	1 	32 	1 	up 	RB
+Amo 	1 	13 	1 	33 	1 	the 	DT
+Amo 	1 	13 	1 	34 	1 	women 	NNS
+Amo 	1 	13 	1 	35 	1 	with 	IN
+Amo 	1 	13 	1 	36 	1 	child 	NN
+Amo 	1 	13 	1 	37 	1 	of 	IN
+Amo 	1 	13 	1 	38 	1 	Gilead 	NN
+Amo 	1 	13 	1 	39 	0 	,
+Amo 	1 	13 	1 	40 	1 	that 	IN
+Amo 	1 	13 	1 	41 	1 	they 	PRP
+Amo 	1 	13 	1 	42 	1 	might 	MD
+Amo 	1 	13 	1 	43 	1 	enlarge 	NN
+Amo 	1 	13 	1 	44 	1 	their 	PRP$
+Amo 	1 	13 	1 	45 	1 	border 	NN
+Amo 	1 	13 	1 	46 	0 	:
+Amo 	1 	14 	1 	1 	1 	But 	CC
+Amo 	1 	14 	1 	2 	1 	I 	PRP
+Amo 	1 	14 	1 	3 	1 	will 	MD
+Amo 	1 	14 	1 	4 	1 	kindle 	VB
+Amo 	1 	14 	1 	5 	1 	a 	DT
+Amo 	1 	14 	1 	6 	1 	fire 	NN
+Amo 	1 	14 	1 	7 	1 	in 	IN
+Amo 	1 	14 	1 	8 	1 	the 	DT
+Amo 	1 	14 	1 	9 	1 	wall 	NN
+Amo 	1 	14 	1 	10 	1 	of 	IN
+Amo 	1 	14 	1 	11 	1 	Rabbah 	NN
+Amo 	1 	14 	1 	12 	0 	,
+Amo 	1 	14 	1 	13 	1 	and 	CC
+Amo 	1 	14 	1 	14 	1 	it 	PRP
+Amo 	1 	14 	1 	15 	1 	shall 	MD
+Amo 	1 	14 	1 	16 	1 	devour 	NN
+Amo 	1 	14 	1 	17 	1 	the 	DT
+Amo 	1 	14 	1 	18 	1 	palaces 	NNS
+Amo 	1 	14 	1 	19 	1 	thereof 	NN
+Amo 	1 	14 	1 	20 	0 	,
+Amo 	1 	14 	1 	21 	1 	with 	IN
+Amo 	1 	14 	1 	22 	1 	shouting 	VBG
+Amo 	1 	14 	1 	23 	1 	in 	IN
+Amo 	1 	14 	1 	24 	1 	the 	DT
+Amo 	1 	14 	1 	25 	1 	day 	NN
+Amo 	1 	14 	1 	26 	1 	of 	IN
+Amo 	1 	14 	1 	27 	1 	battle 	NN
+Amo 	1 	14 	1 	28 	0 	,
+Amo 	1 	14 	1 	29 	1 	with 	IN
+Amo 	1 	14 	1 	30 	1 	a 	DT
+Amo 	1 	14 	1 	31 	1 	tempest 	NN
+Amo 	1 	14 	1 	32 	1 	in 	IN
+Amo 	1 	14 	1 	33 	1 	the 	DT
+Amo 	1 	14 	1 	34 	1 	day 	NN
+Amo 	1 	14 	1 	35 	1 	of 	IN
+Amo 	1 	14 	1 	36 	1 	the 	DT
+Amo 	1 	14 	1 	37 	1 	whirlwind 	NN
+Amo 	1 	14 	1 	38 	0 	:
+Amo 	1 	15 	1 	1 	1 	nd 	NN
+Amo 	1 	15 	1 	2 	1 	their 	PRP$
+Amo 	1 	15 	1 	3 	1 	king 	NN
+Amo 	1 	15 	1 	4 	1 	shall 	MD
+Amo 	1 	15 	1 	5 	1 	go 	VB
+Amo 	1 	15 	1 	6 	1 	into 	IN
+Amo 	1 	15 	1 	7 	1 	captivity 	NN
+Amo 	1 	15 	1 	8 	0 	,
+Amo 	1 	15 	1 	9 	1 	he 	PRP
+Amo 	1 	15 	1 	10 	1 	and 	CC
+Amo 	1 	15 	1 	11 	1 	his 	PRP$
+Amo 	1 	15 	1 	12 	1 	princes 	NNS
+Amo 	1 	15 	1 	13 	1 	together 	RB
+Amo 	1 	15 	1 	14 	0 	,
+Amo 	1 	15 	1 	15 	1 	saith 	NN
+Amo 	1 	15 	1 	16 	1 	the 	DT
+Amo 	1 	15 	1 	17 	1 	LORD 	NN
+Amo 	1 	15 	1 	18 	0 	.
+Amo 	2 	1 	1 	1 	1 	Thus 	RB
+Amo 	2 	1 	1 	2 	1 	saith 	NN
+Amo 	2 	1 	1 	3 	1 	the 	DT
+Amo 	2 	1 	1 	4 	1 	LORD 	NN
+Amo 	2 	1 	1 	5 	0 	;
+Amo 	2 	1 	1 	6 	1 	For 	IN
+Amo 	2 	1 	1 	7 	1 	three 	CD
+Amo 	2 	1 	1 	8 	1 	transgressions 	NNS
+Amo 	2 	1 	1 	9 	1 	of 	IN
+Amo 	2 	1 	1 	10 	1 	Moab 	NN
+Amo 	2 	1 	1 	11 	0 	,
+Amo 	2 	1 	1 	12 	1 	and 	CC
+Amo 	2 	1 	1 	13 	1 	for 	IN
+Amo 	2 	1 	1 	14 	1 	four 	CD
+Amo 	2 	1 	1 	15 	0 	,
+Amo 	2 	1 	1 	16 	1 	I 	PRP
+Amo 	2 	1 	1 	17 	1 	will 	MD
+Amo 	2 	1 	1 	18 	1 	not 	RB
+Amo 	2 	1 	1 	19 	1 	turn 	NN
+Amo 	2 	1 	1 	20 	1 	away 	RB
+Amo 	2 	1 	1 	21 	1 	the 	DT
+Amo 	2 	1 	1 	22 	1 	punishment 	NN
+Amo 	2 	1 	1 	23 	1 	thereof 	NN
+Amo 	2 	1 	1 	24 	0 	;
+Amo 	2 	1 	1 	25 	1 	because 	IN
+Amo 	2 	1 	1 	26 	1 	he 	PRP
+Amo 	2 	1 	1 	27 	1 	burned 	VBN
+Amo 	2 	1 	1 	28 	1 	the 	DT
+Amo 	2 	1 	1 	29 	1 	bones 	NNS
+Amo 	2 	1 	1 	30 	1 	of 	IN
+Amo 	2 	1 	1 	31 	1 	the 	DT
+Amo 	2 	1 	1 	32 	1 	king 	NN
+Amo 	2 	1 	1 	33 	1 	of 	IN
+Amo 	2 	1 	1 	34 	1 	Edom 	NN
+Amo 	2 	1 	1 	35 	1 	into 	IN
+Amo 	2 	1 	1 	36 	1 	lime 	NN
+Amo 	2 	1 	1 	37 	0 	:
+Amo 	2 	2 	1 	1 	1 	But 	CC
+Amo 	2 	2 	1 	2 	1 	I 	PRP
+Amo 	2 	2 	1 	3 	1 	will 	MD
+Amo 	2 	2 	1 	4 	1 	send 	NN
+Amo 	2 	2 	1 	5 	1 	a 	DT
+Amo 	2 	2 	1 	6 	1 	fire 	NN
+Amo 	2 	2 	1 	7 	1 	upon 	IN
+Amo 	2 	2 	1 	8 	1 	Moab 	NN
+Amo 	2 	2 	1 	9 	0 	,
+Amo 	2 	2 	1 	10 	1 	and 	CC
+Amo 	2 	2 	1 	11 	1 	it 	PRP
+Amo 	2 	2 	1 	12 	1 	shall 	MD
+Amo 	2 	2 	1 	13 	1 	devour 	NN
+Amo 	2 	2 	1 	14 	1 	the 	DT
+Amo 	2 	2 	1 	15 	1 	palaces 	NNS
+Amo 	2 	2 	1 	16 	1 	of 	IN
+Amo 	2 	2 	1 	17 	1 	Kirioth 	NNP
+Amo 	2 	2 	1 	18 	0 	:
+Amo 	2 	2 	1 	19 	1 	and 	CC
+Amo 	2 	2 	1 	20 	1 	Moab 	NN
+Amo 	2 	2 	1 	21 	1 	shall 	MD
+Amo 	2 	2 	1 	22 	1 	die 	NN
+Amo 	2 	2 	1 	23 	1 	with 	IN
+Amo 	2 	2 	1 	24 	1 	tumult 	NN
+Amo 	2 	2 	1 	25 	0 	,
+Amo 	2 	2 	1 	26 	1 	with 	IN
+Amo 	2 	2 	1 	27 	1 	shouting 	VBG
+Amo 	2 	2 	1 	28 	0 	,
+Amo 	2 	2 	1 	29 	1 	and 	CC
+Amo 	2 	2 	1 	30 	1 	with 	IN
+Amo 	2 	2 	1 	31 	1 	the 	DT
+Amo 	2 	2 	1 	32 	1 	sound 	NN
+Amo 	2 	2 	1 	33 	1 	of 	IN
+Amo 	2 	2 	1 	34 	1 	the 	DT
+Amo 	2 	2 	1 	35 	1 	trumpet 	NN
+Amo 	2 	2 	1 	36 	0 	:
+Amo 	2 	3 	1 	1 	1 	nd 	NN
+Amo 	2 	3 	1 	2 	1 	I 	PRP
+Amo 	2 	3 	1 	3 	1 	will 	MD
+Amo 	2 	3 	1 	4 	1 	cut 	NN
+Amo 	2 	3 	1 	5 	1 	off 	IN
+Amo 	2 	3 	1 	6 	1 	the 	DT
+Amo 	2 	3 	1 	7 	1 	judge 	NN
+Amo 	2 	3 	1 	8 	1 	from 	IN
+Amo 	2 	3 	1 	9 	1 	the 	DT
+Amo 	2 	3 	1 	10 	1 	midst 	NN
+Amo 	2 	3 	1 	11 	1 	thereof 	NN
+Amo 	2 	3 	1 	12 	0 	,
+Amo 	2 	3 	1 	13 	1 	and 	CC
+Amo 	2 	3 	1 	14 	1 	will 	MD
+Amo 	2 	3 	1 	15 	1 	slay 	NN
+Amo 	2 	3 	1 	16 	1 	all 	DT
+Amo 	2 	3 	1 	17 	1 	the 	DT
+Amo 	2 	3 	1 	18 	1 	princes 	NNS
+Amo 	2 	3 	1 	19 	1 	thereof 	NN
+Amo 	2 	3 	1 	20 	1 	with 	IN
+Amo 	2 	3 	1 	21 	1 	him 	PRP
+Amo 	2 	3 	1 	22 	0 	,
+Amo 	2 	3 	1 	23 	1 	saith 	NN
+Amo 	2 	3 	1 	24 	1 	the 	DT
+Amo 	2 	3 	1 	25 	1 	LORD 	NN
+Amo 	2 	3 	1 	26 	0 	.
+Amo 	2 	4 	1 	1 	1 	Thus 	RB
+Amo 	2 	4 	1 	2 	1 	saith 	NN
+Amo 	2 	4 	1 	3 	1 	the 	DT
+Amo 	2 	4 	1 	4 	1 	LORD 	NN
+Amo 	2 	4 	1 	5 	0 	;
+Amo 	2 	4 	1 	6 	1 	For 	IN
+Amo 	2 	4 	1 	7 	1 	three 	CD
+Amo 	2 	4 	1 	8 	1 	transgressions 	NNS
+Amo 	2 	4 	1 	9 	1 	of 	IN
+Amo 	2 	4 	1 	10 	1 	Judah 	NN
+Amo 	2 	4 	1 	11 	0 	,
+Amo 	2 	4 	1 	12 	1 	and 	CC
+Amo 	2 	4 	1 	13 	1 	for 	IN
+Amo 	2 	4 	1 	14 	1 	four 	CD
+Amo 	2 	4 	1 	15 	0 	,
+Amo 	2 	4 	1 	16 	1 	I 	PRP
+Amo 	2 	4 	1 	17 	1 	will 	MD
+Amo 	2 	4 	1 	18 	1 	not 	RB
+Amo 	2 	4 	1 	19 	1 	turn 	NN
+Amo 	2 	4 	1 	20 	1 	away 	RB
+Amo 	2 	4 	1 	21 	1 	the 	DT
+Amo 	2 	4 	1 	22 	1 	punishment 	NN
+Amo 	2 	4 	1 	23 	1 	thereof 	NN
+Amo 	2 	4 	1 	24 	0 	;
+Amo 	2 	4 	1 	25 	1 	because 	IN
+Amo 	2 	4 	1 	26 	1 	they 	PRP
+Amo 	2 	4 	1 	27 	1 	have 	VB
+Amo 	2 	4 	1 	28 	1 	despised 	VBN
+Amo 	2 	4 	1 	29 	1 	the 	DT
+Amo 	2 	4 	1 	30 	1 	law 	NN
+Amo 	2 	4 	1 	31 	1 	of 	IN
+Amo 	2 	4 	1 	32 	1 	the 	DT
+Amo 	2 	4 	1 	33 	1 	LORD 	NN
+Amo 	2 	4 	1 	34 	0 	,
+Amo 	2 	4 	1 	35 	1 	and 	CC
+Amo 	2 	4 	1 	36 	1 	have 	VB
+Amo 	2 	4 	1 	37 	1 	not 	RB
+Amo 	2 	4 	1 	38 	1 	kept 	NN
+Amo 	2 	4 	1 	39 	1 	his 	PRP$
+Amo 	2 	4 	1 	40 	1 	commandments 	NNS
+Amo 	2 	4 	1 	41 	0 	,
+Amo 	2 	4 	1 	42 	1 	and 	CC
+Amo 	2 	4 	1 	43 	1 	their 	PRP$
+Amo 	2 	4 	1 	44 	1 	lies 	NNS
+Amo 	2 	4 	1 	45 	1 	caused 	VBN
+Amo 	2 	4 	1 	46 	1 	them 	PRP
+Amo 	2 	4 	1 	47 	1 	to 	TO
+Amo 	2 	4 	1 	48 	1 	err 	NN
+Amo 	2 	4 	1 	49 	0 	,
+Amo 	2 	4 	1 	50 	1 	after 	IN
+Amo 	2 	4 	1 	51 	1 	the 	DT
+Amo 	2 	4 	1 	52 	1 	which 	WDT
+Amo 	2 	4 	1 	53 	1 	their 	PRP$
+Amo 	2 	4 	1 	54 	1 	fathers 	NNS
+Amo 	2 	4 	1 	55 	1 	have 	VB
+Amo 	2 	4 	1 	56 	1 	walked 	VBD
+Amo 	2 	4 	1 	57 	0 	:
+Amo 	2 	5 	1 	1 	1 	But 	CC
+Amo 	2 	5 	1 	2 	1 	I 	PRP
+Amo 	2 	5 	1 	3 	1 	will 	MD
+Amo 	2 	5 	1 	4 	1 	send 	NN
+Amo 	2 	5 	1 	5 	1 	a 	DT
+Amo 	2 	5 	1 	6 	1 	fire 	NN
+Amo 	2 	5 	1 	7 	1 	upon 	IN
+Amo 	2 	5 	1 	8 	1 	Judah 	NN
+Amo 	2 	5 	1 	9 	0 	,
+Amo 	2 	5 	1 	10 	1 	and 	CC
+Amo 	2 	5 	1 	11 	1 	it 	PRP
+Amo 	2 	5 	1 	12 	1 	shall 	MD
+Amo 	2 	5 	1 	13 	1 	devour 	NN
+Amo 	2 	5 	1 	14 	1 	the 	DT
+Amo 	2 	5 	1 	15 	1 	palaces 	NNS
+Amo 	2 	5 	1 	16 	1 	of 	IN
+Amo 	2 	5 	1 	17 	1 	Jerusalem 	NN
+Amo 	2 	5 	1 	18 	0 	.
+Amo 	2 	6 	1 	1 	1 	Thus 	RB
+Amo 	2 	6 	1 	2 	1 	saith 	NN
+Amo 	2 	6 	1 	3 	1 	the 	DT
+Amo 	2 	6 	1 	4 	1 	LORD 	NN
+Amo 	2 	6 	1 	5 	0 	;
+Amo 	2 	6 	1 	6 	1 	For 	IN
+Amo 	2 	6 	1 	7 	1 	three 	CD
+Amo 	2 	6 	1 	8 	1 	transgressions 	NNS
+Amo 	2 	6 	1 	9 	1 	of 	IN
+Amo 	2 	6 	1 	10 	1 	Israel 	NNP
+Amo 	2 	6 	1 	11 	0 	,
+Amo 	2 	6 	1 	12 	1 	and 	CC
+Amo 	2 	6 	1 	13 	1 	for 	IN
+Amo 	2 	6 	1 	14 	1 	four 	CD
+Amo 	2 	6 	1 	15 	0 	,
+Amo 	2 	6 	1 	16 	1 	I 	PRP
+Amo 	2 	6 	1 	17 	1 	will 	MD
+Amo 	2 	6 	1 	18 	1 	not 	RB
+Amo 	2 	6 	1 	19 	1 	turn 	NN
+Amo 	2 	6 	1 	20 	1 	away 	RB
+Amo 	2 	6 	1 	21 	1 	the 	DT
+Amo 	2 	6 	1 	22 	1 	punishment 	NN
+Amo 	2 	6 	1 	23 	1 	thereof 	NN
+Amo 	2 	6 	1 	24 	0 	;
+Amo 	2 	6 	1 	25 	1 	because 	IN
+Amo 	2 	6 	1 	26 	1 	they 	PRP
+Amo 	2 	6 	1 	27 	1 	sold 	VBN
+Amo 	2 	6 	1 	28 	1 	the 	DT
+Amo 	2 	6 	1 	29 	1 	righteous 	JJ
+Amo 	2 	6 	1 	30 	1 	for 	IN
+Amo 	2 	6 	1 	31 	1 	silver 	NN
+Amo 	2 	6 	1 	32 	0 	,
+Amo 	2 	6 	1 	33 	1 	and 	CC
+Amo 	2 	6 	1 	34 	1 	the 	DT
+Amo 	2 	6 	1 	35 	1 	poor 	JJ
+Amo 	2 	6 	1 	36 	1 	for 	IN
+Amo 	2 	6 	1 	37 	1 	a 	DT
+Amo 	2 	6 	1 	38 	1 	pair 	NN
+Amo 	2 	6 	1 	39 	1 	of 	IN
+Amo 	2 	6 	1 	40 	1 	shoes 	NNS
+Amo 	2 	6 	1 	41 	0 	;
+Amo 	2 	7 	1 	1 	1 	That 	DT
+Amo 	2 	7 	1 	2 	1 	pant 	NN
+Amo 	2 	7 	1 	3 	1 	after 	IN
+Amo 	2 	7 	1 	4 	1 	the 	DT
+Amo 	2 	7 	1 	5 	1 	dust 	NN
+Amo 	2 	7 	1 	6 	1 	of 	IN
+Amo 	2 	7 	1 	7 	1 	the 	DT
+Amo 	2 	7 	1 	8 	1 	earth 	NN
+Amo 	2 	7 	1 	9 	1 	on 	IN
+Amo 	2 	7 	1 	10 	1 	the 	DT
+Amo 	2 	7 	1 	11 	1 	head 	NN
+Amo 	2 	7 	1 	12 	1 	of 	IN
+Amo 	2 	7 	1 	13 	1 	the 	DT
+Amo 	2 	7 	1 	14 	1 	poor 	JJ
+Amo 	2 	7 	1 	15 	0 	,
+Amo 	2 	7 	1 	16 	1 	and 	CC
+Amo 	2 	7 	1 	17 	1 	turn 	NN
+Amo 	2 	7 	1 	18 	1 	aside 	RB
+Amo 	2 	7 	1 	19 	1 	the 	DT
+Amo 	2 	7 	1 	20 	1 	way 	NN
+Amo 	2 	7 	1 	21 	1 	of 	IN
+Amo 	2 	7 	1 	22 	1 	the 	DT
+Amo 	2 	7 	1 	23 	1 	meek 	NN
+Amo 	2 	7 	1 	24 	0 	:
+Amo 	2 	7 	1 	25 	1 	and 	CC
+Amo 	2 	7 	1 	26 	1 	a 	DT
+Amo 	2 	7 	1 	27 	1 	man 	NN
+Amo 	2 	7 	1 	28 	1 	and 	CC
+Amo 	2 	7 	1 	29 	1 	his 	PRP$
+Amo 	2 	7 	1 	30 	1 	father 	NN
+Amo 	2 	7 	1 	31 	1 	will 	MD
+Amo 	2 	7 	1 	32 	1 	go 	VB
+Amo 	2 	7 	1 	33 	1 	in 	IN
+Amo 	2 	7 	1 	34 	1 	unto 	NN
+Amo 	2 	7 	1 	35 	1 	the 	DT
+Amo 	2 	7 	1 	36 	1 	same 	JJ
+Amo 	2 	7 	1 	37 	1 	maid 	NN
+Amo 	2 	7 	1 	38 	0 	,
+Amo 	2 	7 	1 	39 	1 	to 	TO
+Amo 	2 	7 	1 	40 	1 	profane 	NN
+Amo 	2 	7 	1 	41 	1 	my 	PRP$
+Amo 	2 	7 	1 	42 	1 	holy 	NN
+Amo 	2 	7 	1 	43 	1 	name 	NN
+Amo 	2 	7 	1 	44 	0 	:
+Amo 	2 	8 	1 	1 	1 	nd 	NN
+Amo 	2 	8 	1 	2 	1 	they 	PRP
+Amo 	2 	8 	1 	3 	1 	lay 	NN
+Amo 	2 	8 	1 	4 	1 	themselves 	PRP
+Amo 	2 	8 	1 	5 	1 	down 	RB
+Amo 	2 	8 	1 	6 	1 	upon 	IN
+Amo 	2 	8 	1 	7 	1 	clothes 	NNS
+Amo 	2 	8 	1 	8 	1 	laid 	NN
+Amo 	2 	8 	1 	9 	1 	to 	TO
+Amo 	2 	8 	1 	10 	1 	pledge 	NN
+Amo 	2 	8 	1 	11 	1 	by 	IN
+Amo 	2 	8 	1 	12 	1 	every 	DT
+Amo 	2 	8 	1 	13 	1 	altar 	NN
+Amo 	2 	8 	1 	14 	0 	,
+Amo 	2 	8 	1 	15 	1 	and 	CC
+Amo 	2 	8 	1 	16 	1 	they 	PRP
+Amo 	2 	8 	1 	17 	1 	drink 	NN
+Amo 	2 	8 	1 	18 	1 	the 	DT
+Amo 	2 	8 	1 	19 	1 	wine 	NN
+Amo 	2 	8 	1 	20 	1 	of 	IN
+Amo 	2 	8 	1 	21 	1 	the 	DT
+Amo 	2 	8 	1 	22 	1 	condemned 	VBN
+Amo 	2 	8 	1 	23 	1 	in 	IN
+Amo 	2 	8 	1 	24 	1 	the 	DT
+Amo 	2 	8 	1 	25 	1 	house 	NN
+Amo 	2 	8 	1 	26 	1 	of 	IN
+Amo 	2 	8 	1 	27 	1 	their 	PRP$
+Amo 	2 	8 	1 	28 	1 	god 	NN
+Amo 	2 	8 	1 	29 	0 	.
+Amo 	2 	9 	1 	1 	1 	Yet 	RB
+Amo 	2 	9 	1 	2 	1 	destroyed 	NN
+Amo 	2 	9 	1 	3 	1 	I 	PRP
+Amo 	2 	9 	1 	4 	1 	the 	DT
+Amo 	2 	9 	1 	5 	1 	Amorite 	NNP
+Amo 	2 	9 	1 	6 	1 	before 	IN
+Amo 	2 	9 	1 	7 	1 	them 	PRP
+Amo 	2 	9 	1 	8 	0 	,
+Amo 	2 	9 	1 	9 	1 	whose 	WP$
+Amo 	2 	9 	1 	10 	1 	height 	NN
+Amo 	2 	9 	1 	11 	1 	was 	VBD
+Amo 	2 	9 	1 	12 	1 	like 	IN
+Amo 	2 	9 	1 	13 	1 	the 	DT
+Amo 	2 	9 	1 	14 	1 	height 	NN
+Amo 	2 	9 	1 	15 	1 	of 	IN
+Amo 	2 	9 	1 	16 	1 	the 	DT
+Amo 	2 	9 	1 	17 	1 	cedars 	NNS
+Amo 	2 	9 	1 	18 	0 	,
+Amo 	2 	9 	1 	19 	1 	and 	CC
+Amo 	2 	9 	1 	20 	1 	he 	PRP
+Amo 	2 	9 	1 	21 	1 	was 	VBD
+Amo 	2 	9 	1 	22 	1 	strong 	JJ
+Amo 	2 	9 	1 	23 	1 	as 	IN
+Amo 	2 	9 	1 	24 	1 	the 	DT
+Amo 	2 	9 	1 	25 	1 	oaks 	NNS
+Amo 	2 	9 	1 	26 	0 	;
+Amo 	2 	9 	1 	27 	1 	yet 	RB
+Amo 	2 	9 	1 	28 	1 	I 	PRP
+Amo 	2 	9 	1 	29 	1 	destroyed 	NN
+Amo 	2 	9 	1 	30 	1 	his 	PRP$
+Amo 	2 	9 	1 	31 	1 	fruit 	NN
+Amo 	2 	9 	1 	32 	1 	from 	IN
+Amo 	2 	9 	1 	33 	1 	above 	IN
+Amo 	2 	9 	1 	34 	0 	,
+Amo 	2 	9 	1 	35 	1 	and 	CC
+Amo 	2 	9 	1 	36 	1 	his 	PRP$
+Amo 	2 	9 	1 	37 	1 	roots 	NNS
+Amo 	2 	9 	1 	38 	1 	from 	IN
+Amo 	2 	9 	1 	39 	1 	beneath 	NN
+Amo 	2 	9 	1 	40 	0 	.
+Amo 	2 	10 	1 	1 	1 	lso 	NN
+Amo 	2 	10 	1 	2 	1 	I 	PRP
+Amo 	2 	10 	1 	3 	1 	brought 	NN
+Amo 	2 	10 	1 	4 	1 	you 	PRP
+Amo 	2 	10 	1 	5 	1 	up 	RB
+Amo 	2 	10 	1 	6 	1 	from 	IN
+Amo 	2 	10 	1 	7 	1 	the 	DT
+Amo 	2 	10 	1 	8 	1 	land 	NN
+Amo 	2 	10 	1 	9 	1 	of 	IN
+Amo 	2 	10 	1 	10 	1 	Egypt 	NN
+Amo 	2 	10 	1 	11 	0 	,
+Amo 	2 	10 	1 	12 	1 	and 	CC
+Amo 	2 	10 	1 	13 	1 	led 	VBN
+Amo 	2 	10 	1 	14 	1 	you 	PRP
+Amo 	2 	10 	1 	15 	1 	forty 	NN
+Amo 	2 	10 	1 	16 	1 	years 	NNS
+Amo 	2 	10 	1 	17 	1 	through 	IN
+Amo 	2 	10 	1 	18 	1 	the 	DT
+Amo 	2 	10 	1 	19 	1 	wilderness 	NN
+Amo 	2 	10 	1 	20 	0 	,
+Amo 	2 	10 	1 	21 	1 	to 	TO
+Amo 	2 	10 	1 	22 	1 	possess 	NN
+Amo 	2 	10 	1 	23 	1 	the 	DT
+Amo 	2 	10 	1 	24 	1 	land 	NN
+Amo 	2 	10 	1 	25 	1 	of 	IN
+Amo 	2 	10 	1 	26 	1 	the 	DT
+Amo 	2 	10 	1 	27 	1 	Amorite 	NNP
+Amo 	2 	10 	1 	28 	0 	.
+Amo 	2 	11 	1 	1 	1 	nd 	NN
+Amo 	2 	11 	1 	2 	1 	I 	PRP
+Amo 	2 	11 	1 	3 	1 	raised 	VBN
+Amo 	2 	11 	1 	4 	1 	up 	RB
+Amo 	2 	11 	1 	5 	1 	of 	IN
+Amo 	2 	11 	1 	6 	1 	your 	PRP$
+Amo 	2 	11 	1 	7 	1 	sons 	NNS
+Amo 	2 	11 	1 	8 	1 	for 	IN
+Amo 	2 	11 	1 	9 	1 	prophets 	NNS
+Amo 	2 	11 	1 	10 	0 	,
+Amo 	2 	11 	1 	11 	1 	and 	CC
+Amo 	2 	11 	1 	12 	1 	of 	IN
+Amo 	2 	11 	1 	13 	1 	your 	PRP$
+Amo 	2 	11 	1 	14 	1 	young 	JJ
+Amo 	2 	11 	1 	15 	1 	men 	NNS
+Amo 	2 	11 	1 	16 	1 	for 	IN
+Amo 	2 	11 	1 	17 	1 	Nazarites 	NNS
+Amo 	2 	11 	1 	18 	0 	.
+Amo 	2 	11 	2 	1 	1 	Is 	NN
+Amo 	2 	11 	2 	2 	1 	it 	PRP
+Amo 	2 	11 	2 	3 	1 	not 	RB
+Amo 	2 	11 	2 	4 	1 	even 	RB
+Amo 	2 	11 	2 	5 	1 	thus 	RB
+Amo 	2 	11 	2 	6 	0 	,
+Amo 	2 	11 	2 	7 	1 	O 	NN
+Amo 	2 	11 	2 	8 	1 	ye 	NN
+Amo 	2 	11 	2 	9 	1 	children 	NNS
+Amo 	2 	11 	2 	10 	1 	of 	IN
+Amo 	2 	11 	2 	11 	1 	Israel 	NNP
+Amo 	2 	11 	2 	12 	0 	?
+Amo 	2 	11 	3 	1 	1 	saith 	NN
+Amo 	2 	11 	3 	2 	1 	the 	DT
+Amo 	2 	11 	3 	3 	1 	LORD 	NN
+Amo 	2 	11 	3 	4 	0 	.
+Amo 	2 	12 	1 	1 	1 	But 	CC
+Amo 	2 	12 	1 	2 	1 	ye 	NN
+Amo 	2 	12 	1 	3 	1 	gave 	VBD
+Amo 	2 	12 	1 	4 	1 	the 	DT
+Amo 	2 	12 	1 	5 	1 	Nazarites 	NNS
+Amo 	2 	12 	1 	6 	1 	wine 	NN
+Amo 	2 	12 	1 	7 	1 	to 	TO
+Amo 	2 	12 	1 	8 	1 	drink 	NN
+Amo 	2 	12 	1 	9 	0 	;
+Amo 	2 	12 	1 	10 	1 	and 	CC
+Amo 	2 	12 	1 	11 	1 	commanded 	VBN
+Amo 	2 	12 	1 	12 	1 	the 	DT
+Amo 	2 	12 	1 	13 	1 	prophets 	NNS
+Amo 	2 	12 	1 	14 	0 	,
+Amo 	2 	12 	1 	15 	1 	saying 	VBG
+Amo 	2 	12 	1 	16 	0 	,
+Amo 	2 	12 	1 	17 	1 	Prophesy 	NN
+Amo 	2 	12 	1 	18 	1 	not 	RB
+Amo 	2 	12 	1 	19 	0 	.
+Amo 	2 	13 	1 	1 	1 	Behold 	NN
+Amo 	2 	13 	1 	2 	0 	,
+Amo 	2 	13 	1 	3 	1 	I 	PRP
+Amo 	2 	13 	1 	4 	1 	am 	VBP
+Amo 	2 	13 	1 	5 	1 	pressed 	VBN
+Amo 	2 	13 	1 	6 	1 	under 	IN
+Amo 	2 	13 	1 	7 	1 	you 	PRP
+Amo 	2 	13 	1 	8 	0 	,
+Amo 	2 	13 	1 	9 	1 	as 	IN
+Amo 	2 	13 	1 	10 	1 	a 	DT
+Amo 	2 	13 	1 	11 	1 	cart 	NN
+Amo 	2 	13 	1 	12 	1 	is 	VBZ
+Amo 	2 	13 	1 	13 	1 	pressed 	VBN
+Amo 	2 	13 	1 	14 	1 	that 	IN
+Amo 	2 	13 	1 	15 	1 	is 	VBZ
+Amo 	2 	13 	1 	16 	1 	full 	JJ
+Amo 	2 	13 	1 	17 	1 	of 	IN
+Amo 	2 	13 	1 	18 	1 	sheaves 	NNS
+Amo 	2 	13 	1 	19 	0 	.
+Amo 	2 	14 	1 	1 	1 	Therefore 	RB
+Amo 	2 	14 	1 	2 	1 	the 	DT
+Amo 	2 	14 	1 	3 	1 	flight 	NN
+Amo 	2 	14 	1 	4 	1 	shall 	MD
+Amo 	2 	14 	1 	5 	1 	perish 	NN
+Amo 	2 	14 	1 	6 	1 	from 	IN
+Amo 	2 	14 	1 	7 	1 	the 	DT
+Amo 	2 	14 	1 	8 	1 	swift 	NN
+Amo 	2 	14 	1 	9 	0 	,
+Amo 	2 	14 	1 	10 	1 	and 	CC
+Amo 	2 	14 	1 	11 	1 	the 	DT
+Amo 	2 	14 	1 	12 	1 	strong 	JJ
+Amo 	2 	14 	1 	13 	1 	shall 	MD
+Amo 	2 	14 	1 	14 	1 	not 	RB
+Amo 	2 	14 	1 	15 	1 	strengthen 	NN
+Amo 	2 	14 	1 	16 	1 	his 	PRP$
+Amo 	2 	14 	1 	17 	1 	force 	NN
+Amo 	2 	14 	1 	18 	0 	,
+Amo 	2 	14 	1 	19 	1 	neither 	DT
+Amo 	2 	14 	1 	20 	1 	shall 	MD
+Amo 	2 	14 	1 	21 	1 	the 	DT
+Amo 	2 	14 	1 	22 	1 	mighty 	NN
+Amo 	2 	14 	1 	23 	1 	deliver 	NN
+Amo 	2 	14 	1 	24 	1 	himself 	PRP
+Amo 	2 	14 	1 	25 	0 	:
+Amo 	2 	15 	1 	1 	1 	Neither 	CC
+Amo 	2 	15 	1 	2 	1 	shall 	MD
+Amo 	2 	15 	1 	3 	1 	he 	PRP
+Amo 	2 	15 	1 	4 	1 	stand 	NN
+Amo 	2 	15 	1 	5 	1 	that 	IN
+Amo 	2 	15 	1 	6 	1 	handleth 	NN
+Amo 	2 	15 	1 	7 	1 	the 	DT
+Amo 	2 	15 	1 	8 	1 	bow 	NN
+Amo 	2 	15 	1 	9 	0 	;
+Amo 	2 	15 	1 	10 	1 	and 	CC
+Amo 	2 	15 	1 	11 	1 	he 	PRP
+Amo 	2 	15 	1 	12 	1 	that 	IN
+Amo 	2 	15 	1 	13 	1 	is 	VBZ
+Amo 	2 	15 	1 	14 	1 	swift 	NN
+Amo 	2 	15 	1 	15 	1 	of 	IN
+Amo 	2 	15 	1 	16 	1 	foot 	NN
+Amo 	2 	15 	1 	17 	1 	shall 	MD
+Amo 	2 	15 	1 	18 	1 	not 	RB
+Amo 	2 	15 	1 	19 	1 	deliver 	NN
+Amo 	2 	15 	1 	20 	1 	himself 	PRP
+Amo 	2 	15 	1 	21 	0 	:
+Amo 	2 	15 	1 	22 	1 	neither 	DT
+Amo 	2 	15 	1 	23 	1 	shall 	MD
+Amo 	2 	15 	1 	24 	1 	he 	PRP
+Amo 	2 	15 	1 	25 	1 	that 	IN
+Amo 	2 	15 	1 	26 	1 	rideth 	NN
+Amo 	2 	15 	1 	27 	1 	the 	DT
+Amo 	2 	15 	1 	28 	1 	horse 	NN
+Amo 	2 	15 	1 	29 	1 	deliver 	NN
+Amo 	2 	15 	1 	30 	1 	himself 	PRP
+Amo 	2 	15 	1 	31 	0 	.
+Amo 	2 	16 	1 	1 	1 	nd 	NN
+Amo 	2 	16 	1 	2 	1 	he 	PRP
+Amo 	2 	16 	1 	3 	1 	that 	IN
+Amo 	2 	16 	1 	4 	1 	is 	VBZ
+Amo 	2 	16 	1 	5 	1 	courageous 	JJ
+Amo 	2 	16 	1 	6 	1 	among 	IN
+Amo 	2 	16 	1 	7 	1 	the 	DT
+Amo 	2 	16 	1 	8 	1 	mighty 	NN
+Amo 	2 	16 	1 	9 	1 	shall 	MD
+Amo 	2 	16 	1 	10 	1 	flee 	NN
+Amo 	2 	16 	1 	11 	1 	away 	RB
+Amo 	2 	16 	1 	12 	1 	naked 	JJ
+Amo 	2 	16 	1 	13 	1 	in 	IN
+Amo 	2 	16 	1 	14 	1 	that 	IN
+Amo 	2 	16 	1 	15 	1 	day 	NN
+Amo 	2 	16 	1 	16 	0 	,
+Amo 	2 	16 	1 	17 	1 	saith 	NN
+Amo 	2 	16 	1 	18 	1 	the 	DT
+Amo 	2 	16 	1 	19 	1 	LORD 	NN
+Amo 	2 	16 	1 	20 	0 	.
+Amo 	3 	1 	1 	1 	1 	Hear 	NN
+Amo 	3 	1 	1 	2 	1 	this 	DT
+Amo 	3 	1 	1 	3 	1 	word 	NN
+Amo 	3 	1 	1 	4 	1 	that 	IN
+Amo 	3 	1 	1 	5 	1 	the 	DT
+Amo 	3 	1 	1 	6 	1 	LORD 	NN
+Amo 	3 	1 	1 	7 	1 	hath 	NN
+Amo 	3 	1 	1 	8 	1 	spoken 	NN
+Amo 	3 	1 	1 	9 	1 	against 	IN
+Amo 	3 	1 	1 	10 	1 	you 	PRP
+Amo 	3 	1 	1 	11 	0 	,
+Amo 	3 	1 	1 	12 	1 	O 	NN
+Amo 	3 	1 	1 	13 	1 	children 	NNS
+Amo 	3 	1 	1 	14 	1 	of 	IN
+Amo 	3 	1 	1 	15 	1 	Israel 	NNP
+Amo 	3 	1 	1 	16 	0 	,
+Amo 	3 	1 	1 	17 	1 	against 	IN
+Amo 	3 	1 	1 	18 	1 	the 	DT
+Amo 	3 	1 	1 	19 	1 	whole 	JJ
+Amo 	3 	1 	1 	20 	1 	family 	NN
+Amo 	3 	1 	1 	21 	1 	which 	WDT
+Amo 	3 	1 	1 	22 	1 	I 	PRP
+Amo 	3 	1 	1 	23 	1 	brought 	NN
+Amo 	3 	1 	1 	24 	1 	up 	RB
+Amo 	3 	1 	1 	25 	1 	from 	IN
+Amo 	3 	1 	1 	26 	1 	the 	DT
+Amo 	3 	1 	1 	27 	1 	land 	NN
+Amo 	3 	1 	1 	28 	1 	of 	IN
+Amo 	3 	1 	1 	29 	1 	Egypt 	NN
+Amo 	3 	1 	1 	30 	0 	,
+Amo 	3 	1 	1 	31 	1 	saying 	VBG
+Amo 	3 	1 	1 	32 	0 	,
+Amo 	3 	2 	1 	1 	1 	You 	PRP
+Amo 	3 	2 	1 	2 	1 	only 	RB
+Amo 	3 	2 	1 	3 	1 	have 	VB
+Amo 	3 	2 	1 	4 	1 	I 	PRP
+Amo 	3 	2 	1 	5 	1 	known 	VBN
+Amo 	3 	2 	1 	6 	1 	of 	IN
+Amo 	3 	2 	1 	7 	1 	all 	DT
+Amo 	3 	2 	1 	8 	1 	the 	DT
+Amo 	3 	2 	1 	9 	1 	families 	NNS
+Amo 	3 	2 	1 	10 	1 	of 	IN
+Amo 	3 	2 	1 	11 	1 	the 	DT
+Amo 	3 	2 	1 	12 	1 	earth 	NN
+Amo 	3 	2 	1 	13 	0 	:
+Amo 	3 	2 	1 	14 	1 	therefore 	RB
+Amo 	3 	2 	1 	15 	1 	I 	PRP
+Amo 	3 	2 	1 	16 	1 	will 	MD
+Amo 	3 	2 	1 	17 	1 	punish 	NN
+Amo 	3 	2 	1 	18 	1 	you 	PRP
+Amo 	3 	2 	1 	19 	1 	for 	IN
+Amo 	3 	2 	1 	20 	1 	all 	DT
+Amo 	3 	2 	1 	21 	1 	your 	PRP$
+Amo 	3 	2 	1 	22 	1 	iniquities 	NNS
+Amo 	3 	2 	1 	23 	0 	.
+Amo 	3 	3 	1 	1 	1 	Can 	MD
+Amo 	3 	3 	1 	2 	1 	two 	CD
+Amo 	3 	3 	1 	3 	1 	walk 	NN
+Amo 	3 	3 	1 	4 	1 	together 	RB
+Amo 	3 	3 	1 	5 	0 	,
+Amo 	3 	3 	1 	6 	1 	except 	IN
+Amo 	3 	3 	1 	7 	1 	they 	PRP
+Amo 	3 	3 	1 	8 	1 	be 	VB
+Amo 	3 	3 	1 	9 	1 	agreed 	VBD
+Amo 	3 	3 	1 	10 	0 	?
+Amo 	3 	4 	1 	1 	1 	Will 	MD
+Amo 	3 	4 	1 	2 	1 	a 	DT
+Amo 	3 	4 	1 	3 	1 	lion 	NN
+Amo 	3 	4 	1 	4 	1 	roar 	NN
+Amo 	3 	4 	1 	5 	1 	in 	IN
+Amo 	3 	4 	1 	6 	1 	the 	DT
+Amo 	3 	4 	1 	7 	1 	forest 	NN
+Amo 	3 	4 	1 	8 	0 	,
+Amo 	3 	4 	1 	9 	1 	when 	WRB
+Amo 	3 	4 	1 	10 	1 	he 	PRP
+Amo 	3 	4 	1 	11 	1 	hath 	NN
+Amo 	3 	4 	1 	12 	1 	no 	DT
+Amo 	3 	4 	1 	13 	1 	prey 	NN
+Amo 	3 	4 	1 	14 	0 	?
+Amo 	3 	4 	2 	1 	1 	will 	MD
+Amo 	3 	4 	2 	2 	1 	a 	DT
+Amo 	3 	4 	2 	3 	1 	young 	JJ
+Amo 	3 	4 	2 	4 	1 	lion 	NN
+Amo 	3 	4 	2 	5 	1 	cry 	NN
+Amo 	3 	4 	2 	6 	1 	out 	IN
+Amo 	3 	4 	2 	7 	1 	of 	IN
+Amo 	3 	4 	2 	8 	1 	his 	PRP$
+Amo 	3 	4 	2 	9 	1 	den 	NN
+Amo 	3 	4 	2 	10 	0 	,
+Amo 	3 	4 	2 	11 	1 	if 	IN
+Amo 	3 	4 	2 	12 	1 	he 	PRP
+Amo 	3 	4 	2 	13 	1 	have 	VB
+Amo 	3 	4 	2 	14 	1 	taken 	VBN
+Amo 	3 	4 	2 	15 	1 	nothing 	NN
+Amo 	3 	4 	2 	16 	0 	?
+Amo 	3 	5 	1 	1 	1 	Can 	MD
+Amo 	3 	5 	1 	2 	1 	a 	DT
+Amo 	3 	5 	1 	3 	1 	bird 	NN
+Amo 	3 	5 	1 	4 	1 	fall 	NN
+Amo 	3 	5 	1 	5 	1 	in 	IN
+Amo 	3 	5 	1 	6 	1 	a 	DT
+Amo 	3 	5 	1 	7 	1 	snare 	NN
+Amo 	3 	5 	1 	8 	1 	upon 	IN
+Amo 	3 	5 	1 	9 	1 	the 	DT
+Amo 	3 	5 	1 	10 	1 	earth 	NN
+Amo 	3 	5 	1 	11 	0 	,
+Amo 	3 	5 	1 	12 	1 	where 	WRB
+Amo 	3 	5 	1 	13 	1 	no 	DT
+Amo 	3 	5 	1 	14 	1 	gin 	NN
+Amo 	3 	5 	1 	15 	1 	is 	VBZ
+Amo 	3 	5 	1 	16 	1 	for 	IN
+Amo 	3 	5 	1 	17 	1 	him 	PRP
+Amo 	3 	5 	1 	18 	0 	?
+Amo 	3 	5 	2 	1 	1 	shall 	MD
+Amo 	3 	5 	2 	2 	1 	one 	CD
+Amo 	3 	5 	2 	3 	1 	take 	VB
+Amo 	3 	5 	2 	4 	1 	up 	RB
+Amo 	3 	5 	2 	5 	1 	a 	DT
+Amo 	3 	5 	2 	6 	1 	snare 	NN
+Amo 	3 	5 	2 	7 	1 	from 	IN
+Amo 	3 	5 	2 	8 	1 	the 	DT
+Amo 	3 	5 	2 	9 	1 	earth 	NN
+Amo 	3 	5 	2 	10 	0 	,
+Amo 	3 	5 	2 	11 	1 	and 	CC
+Amo 	3 	5 	2 	12 	1 	have 	VB
+Amo 	3 	5 	2 	13 	1 	taken 	VBN
+Amo 	3 	5 	2 	14 	1 	nothing 	NN
+Amo 	3 	5 	2 	15 	1 	at 	IN
+Amo 	3 	5 	2 	16 	1 	all 	DT
+Amo 	3 	5 	2 	17 	0 	?
+Amo 	3 	6 	1 	1 	1 	Shall 	NN
+Amo 	3 	6 	1 	2 	1 	a 	DT
+Amo 	3 	6 	1 	3 	1 	trumpet 	NN
+Amo 	3 	6 	1 	4 	1 	be 	VB
+Amo 	3 	6 	1 	5 	1 	blown 	NN
+Amo 	3 	6 	1 	6 	1 	in 	IN
+Amo 	3 	6 	1 	7 	1 	the 	DT
+Amo 	3 	6 	1 	8 	1 	city 	NN
+Amo 	3 	6 	1 	9 	0 	,
+Amo 	3 	6 	1 	10 	1 	and 	CC
+Amo 	3 	6 	1 	11 	1 	the 	DT
+Amo 	3 	6 	1 	12 	1 	people 	NNS
+Amo 	3 	6 	1 	13 	1 	not 	RB
+Amo 	3 	6 	1 	14 	1 	be 	VB
+Amo 	3 	6 	1 	15 	1 	afraid 	NN
+Amo 	3 	6 	1 	16 	0 	?
+Amo 	3 	6 	2 	1 	1 	shall 	MD
+Amo 	3 	6 	2 	2 	1 	there 	RB
+Amo 	3 	6 	2 	3 	1 	be 	VB
+Amo 	3 	6 	2 	4 	1 	evil 	NN
+Amo 	3 	6 	2 	5 	1 	in 	IN
+Amo 	3 	6 	2 	6 	1 	a 	DT
+Amo 	3 	6 	2 	7 	1 	city 	NN
+Amo 	3 	6 	2 	8 	0 	,
+Amo 	3 	6 	2 	9 	1 	and 	CC
+Amo 	3 	6 	2 	10 	1 	the 	DT
+Amo 	3 	6 	2 	11 	1 	LORD 	NN
+Amo 	3 	6 	2 	12 	1 	hath 	NN
+Amo 	3 	6 	2 	13 	1 	not 	RB
+Amo 	3 	6 	2 	14 	1 	done 	VBN
+Amo 	3 	6 	2 	15 	1 	it 	PRP
+Amo 	3 	6 	2 	16 	0 	?
+Amo 	3 	7 	1 	1 	1 	Surely 	RB
+Amo 	3 	7 	1 	2 	1 	the 	DT
+Amo 	3 	7 	1 	3 	1 	Lord 	NN
+Amo 	3 	7 	1 	4 	1 	GOD 	NNP
+Amo 	3 	7 	1 	5 	1 	will 	MD
+Amo 	3 	7 	1 	6 	1 	do 	VB
+Amo 	3 	7 	1 	7 	1 	nothing 	NN
+Amo 	3 	7 	1 	8 	0 	,
+Amo 	3 	7 	1 	9 	1 	but 	CC
+Amo 	3 	7 	1 	10 	1 	he 	PRP
+Amo 	3 	7 	1 	11 	1 	revealeth 	NN
+Amo 	3 	7 	1 	12 	1 	his 	PRP$
+Amo 	3 	7 	1 	13 	1 	secret 	NN
+Amo 	3 	7 	1 	14 	1 	unto 	NN
+Amo 	3 	7 	1 	15 	1 	his 	PRP$
+Amo 	3 	7 	1 	16 	1 	servants 	NNS
+Amo 	3 	7 	1 	17 	1 	the 	DT
+Amo 	3 	7 	1 	18 	1 	prophets 	NNS
+Amo 	3 	7 	1 	19 	0 	.
+Amo 	3 	8 	1 	1 	1 	The 	DT
+Amo 	3 	8 	1 	2 	1 	lion 	NN
+Amo 	3 	8 	1 	3 	1 	hath 	NN
+Amo 	3 	8 	1 	4 	1 	roared 	VBN
+Amo 	3 	8 	1 	5 	0 	,
+Amo 	3 	8 	1 	6 	1 	who 	WP
+Amo 	3 	8 	1 	7 	1 	will 	MD
+Amo 	3 	8 	1 	8 	1 	not 	RB
+Amo 	3 	8 	1 	9 	1 	fear 	NN
+Amo 	3 	8 	1 	10 	0 	?
+Amo 	3 	8 	2 	1 	1 	the 	DT
+Amo 	3 	8 	2 	2 	1 	Lord 	NN
+Amo 	3 	8 	2 	3 	1 	GOD 	NNP
+Amo 	3 	8 	2 	4 	1 	hath 	NN
+Amo 	3 	8 	2 	5 	1 	spoken 	NN
+Amo 	3 	8 	2 	6 	0 	,
+Amo 	3 	8 	2 	7 	1 	who 	WP
+Amo 	3 	8 	2 	8 	1 	can 	MD
+Amo 	3 	8 	2 	9 	1 	but 	CC
+Amo 	3 	8 	2 	10 	1 	prophesy 	NN
+Amo 	3 	8 	2 	11 	0 	?
+Amo 	3 	9 	1 	1 	1 	Publish 	VB
+Amo 	3 	9 	1 	2 	1 	in 	IN
+Amo 	3 	9 	1 	3 	1 	the 	DT
+Amo 	3 	9 	1 	4 	1 	palaces 	NNS
+Amo 	3 	9 	1 	5 	1 	at 	IN
+Amo 	3 	9 	1 	6 	1 	Ashdod 	NN
+Amo 	3 	9 	1 	7 	0 	,
+Amo 	3 	9 	1 	8 	1 	and 	CC
+Amo 	3 	9 	1 	9 	1 	in 	IN
+Amo 	3 	9 	1 	10 	1 	the 	DT
+Amo 	3 	9 	1 	11 	1 	palaces 	NNS
+Amo 	3 	9 	1 	12 	1 	in 	IN
+Amo 	3 	9 	1 	13 	1 	the 	DT
+Amo 	3 	9 	1 	14 	1 	land 	NN
+Amo 	3 	9 	1 	15 	1 	of 	IN
+Amo 	3 	9 	1 	16 	1 	Egypt 	NN
+Amo 	3 	9 	1 	17 	0 	,
+Amo 	3 	9 	1 	18 	1 	and 	CC
+Amo 	3 	9 	1 	19 	1 	say 	VB
+Amo 	3 	9 	1 	20 	0 	,
+Amo 	3 	9 	1 	21 	1 	Assemble 	JJ
+Amo 	3 	9 	1 	22 	1 	yourselves 	NNS
+Amo 	3 	9 	1 	23 	1 	upon 	IN
+Amo 	3 	9 	1 	24 	1 	the 	DT
+Amo 	3 	9 	1 	25 	1 	mountains 	NNS
+Amo 	3 	9 	1 	26 	1 	of 	IN
+Amo 	3 	9 	1 	27 	1 	Samaria 	NNS
+Amo 	3 	9 	1 	28 	0 	,
+Amo 	3 	9 	1 	29 	1 	and 	CC
+Amo 	3 	9 	1 	30 	1 	behold 	NN
+Amo 	3 	9 	1 	31 	1 	the 	DT
+Amo 	3 	9 	1 	32 	1 	great 	JJ
+Amo 	3 	9 	1 	33 	1 	tumults 	NNS
+Amo 	3 	9 	1 	34 	1 	in 	IN
+Amo 	3 	9 	1 	35 	1 	the 	DT
+Amo 	3 	9 	1 	36 	1 	midst 	NN
+Amo 	3 	9 	1 	37 	1 	thereof 	NN
+Amo 	3 	9 	1 	38 	0 	,
+Amo 	3 	9 	1 	39 	1 	and 	CC
+Amo 	3 	9 	1 	40 	1 	the 	DT
+Amo 	3 	9 	1 	41 	1 	oppressed 	VBN
+Amo 	3 	9 	1 	42 	1 	in 	IN
+Amo 	3 	9 	1 	43 	1 	the 	DT
+Amo 	3 	9 	1 	44 	1 	midst 	NN
+Amo 	3 	9 	1 	45 	1 	thereof 	NN
+Amo 	3 	9 	1 	46 	0 	.
+Amo 	3 	10 	1 	1 	1 	For 	IN
+Amo 	3 	10 	1 	2 	1 	they 	PRP
+Amo 	3 	10 	1 	3 	1 	know 	VB
+Amo 	3 	10 	1 	4 	1 	not 	RB
+Amo 	3 	10 	1 	5 	1 	to 	TO
+Amo 	3 	10 	1 	6 	1 	do 	VB
+Amo 	3 	10 	1 	7 	1 	right 	NN
+Amo 	3 	10 	1 	8 	0 	,
+Amo 	3 	10 	1 	9 	1 	saith 	NN
+Amo 	3 	10 	1 	10 	1 	the 	DT
+Amo 	3 	10 	1 	11 	1 	LORD 	NN
+Amo 	3 	10 	1 	12 	0 	,
+Amo 	3 	10 	1 	13 	1 	who 	WP
+Amo 	3 	10 	1 	14 	1 	store 	NN
+Amo 	3 	10 	1 	15 	1 	up 	RB
+Amo 	3 	10 	1 	16 	1 	violence 	NN
+Amo 	3 	10 	1 	17 	1 	and 	CC
+Amo 	3 	10 	1 	18 	1 	robbery 	NN
+Amo 	3 	10 	1 	19 	1 	in 	IN
+Amo 	3 	10 	1 	20 	1 	their 	PRP$
+Amo 	3 	10 	1 	21 	1 	palaces 	NNS
+Amo 	3 	10 	1 	22 	0 	.
+Amo 	3 	11 	1 	1 	1 	Therefore 	RB
+Amo 	3 	11 	1 	2 	1 	thus 	RB
+Amo 	3 	11 	1 	3 	1 	saith 	NN
+Amo 	3 	11 	1 	4 	1 	the 	DT
+Amo 	3 	11 	1 	5 	1 	Lord 	NN
+Amo 	3 	11 	1 	6 	1 	GOD 	NNP
+Amo 	3 	11 	1 	7 	0 	;
+Amo 	3 	11 	1 	8 	1 	An 	DT
+Amo 	3 	11 	1 	9 	1 	adversary 	NN
+Amo 	3 	11 	1 	10 	1 	there 	RB
+Amo 	3 	11 	1 	11 	1 	shall 	MD
+Amo 	3 	11 	1 	12 	1 	be 	VB
+Amo 	3 	11 	1 	13 	1 	even 	RB
+Amo 	3 	11 	1 	14 	1 	round 	NN
+Amo 	3 	11 	1 	15 	1 	about 	IN
+Amo 	3 	11 	1 	16 	1 	the 	DT
+Amo 	3 	11 	1 	17 	1 	land 	NN
+Amo 	3 	11 	1 	18 	0 	;
+Amo 	3 	11 	1 	19 	1 	and 	CC
+Amo 	3 	11 	1 	20 	1 	he 	PRP
+Amo 	3 	11 	1 	21 	1 	shall 	MD
+Amo 	3 	11 	1 	22 	1 	bring 	NN
+Amo 	3 	11 	1 	23 	1 	down 	RB
+Amo 	3 	11 	1 	24 	1 	thy 	NN
+Amo 	3 	11 	1 	25 	1 	strength 	NN
+Amo 	3 	11 	1 	26 	1 	from 	IN
+Amo 	3 	11 	1 	27 	1 	thee 	NN
+Amo 	3 	11 	1 	28 	0 	,
+Amo 	3 	11 	1 	29 	1 	and 	CC
+Amo 	3 	11 	1 	30 	1 	thy 	NN
+Amo 	3 	11 	1 	31 	1 	palaces 	NNS
+Amo 	3 	11 	1 	32 	1 	shall 	MD
+Amo 	3 	11 	1 	33 	1 	be 	VB
+Amo 	3 	11 	1 	34 	1 	spoiled 	VBN
+Amo 	3 	11 	1 	35 	0 	.
+Amo 	3 	12 	1 	1 	1 	Thus 	RB
+Amo 	3 	12 	1 	2 	1 	saith 	NN
+Amo 	3 	12 	1 	3 	1 	the 	DT
+Amo 	3 	12 	1 	4 	1 	LORD 	NN
+Amo 	3 	12 	1 	5 	0 	;
+Amo 	3 	12 	1 	6 	1 	As 	IN
+Amo 	3 	12 	1 	7 	1 	the 	DT
+Amo 	3 	12 	1 	8 	1 	shepherd 	NN
+Amo 	3 	12 	1 	9 	1 	taketh 	NNS
+Amo 	3 	12 	1 	10 	1 	out 	IN
+Amo 	3 	12 	1 	11 	1 	of 	IN
+Amo 	3 	12 	1 	12 	1 	the 	DT
+Amo 	3 	12 	1 	13 	1 	mouth 	NN
+Amo 	3 	12 	1 	14 	1 	of 	IN
+Amo 	3 	12 	1 	15 	1 	the 	DT
+Amo 	3 	12 	1 	16 	1 	lion 	NN
+Amo 	3 	12 	1 	17 	1 	two 	CD
+Amo 	3 	12 	1 	18 	1 	legs 	NNS
+Amo 	3 	12 	1 	19 	0 	,
+Amo 	3 	12 	1 	20 	1 	or 	CC
+Amo 	3 	12 	1 	21 	1 	a 	DT
+Amo 	3 	12 	1 	22 	1 	piece 	NN
+Amo 	3 	12 	1 	23 	1 	of 	IN
+Amo 	3 	12 	1 	24 	1 	an 	DT
+Amo 	3 	12 	1 	25 	1 	ear 	NN
+Amo 	3 	12 	1 	26 	0 	;
+Amo 	3 	12 	1 	27 	1 	so 	RB
+Amo 	3 	12 	1 	28 	1 	shall 	MD
+Amo 	3 	12 	1 	29 	1 	the 	DT
+Amo 	3 	12 	1 	30 	1 	children 	NNS
+Amo 	3 	12 	1 	31 	1 	of 	IN
+Amo 	3 	12 	1 	32 	1 	Israel 	NNP
+Amo 	3 	12 	1 	33 	1 	be 	VB
+Amo 	3 	12 	1 	34 	1 	taken 	VBN
+Amo 	3 	12 	1 	35 	1 	out 	IN
+Amo 	3 	12 	1 	36 	1 	that 	IN
+Amo 	3 	12 	1 	37 	1 	dwell 	NN
+Amo 	3 	12 	1 	38 	1 	in 	IN
+Amo 	3 	12 	1 	39 	1 	Samaria 	NNS
+Amo 	3 	12 	1 	40 	1 	in 	IN
+Amo 	3 	12 	1 	41 	1 	the 	DT
+Amo 	3 	12 	1 	42 	1 	corner 	NN
+Amo 	3 	12 	1 	43 	1 	of 	IN
+Amo 	3 	12 	1 	44 	1 	a 	DT
+Amo 	3 	12 	1 	45 	1 	bed 	NN
+Amo 	3 	12 	1 	46 	0 	,
+Amo 	3 	12 	1 	47 	1 	and 	CC
+Amo 	3 	12 	1 	48 	1 	in 	IN
+Amo 	3 	12 	1 	49 	1 	Damascus 	NN
+Amo 	3 	12 	1 	50 	1 	in 	IN
+Amo 	3 	12 	1 	51 	1 	a 	DT
+Amo 	3 	12 	1 	52 	1 	couch 	NN
+Amo 	3 	12 	1 	53 	0 	.
+Amo 	3 	13 	1 	1 	1 	Hear 	NN
+Amo 	3 	13 	1 	2 	1 	ye 	NN
+Amo 	3 	13 	1 	3 	0 	,
+Amo 	3 	13 	1 	4 	1 	and 	CC
+Amo 	3 	13 	1 	5 	1 	testify 	NN
+Amo 	3 	13 	1 	6 	1 	in 	IN
+Amo 	3 	13 	1 	7 	1 	the 	DT
+Amo 	3 	13 	1 	8 	1 	house 	NN
+Amo 	3 	13 	1 	9 	1 	of 	IN
+Amo 	3 	13 	1 	10 	1 	Jacob 	NN
+Amo 	3 	13 	1 	11 	0 	,
+Amo 	3 	13 	1 	12 	1 	saith 	NN
+Amo 	3 	13 	1 	13 	1 	the 	DT
+Amo 	3 	13 	1 	14 	1 	Lord 	NN
+Amo 	3 	13 	1 	15 	1 	GOD 	NNP
+Amo 	3 	13 	1 	16 	0 	,
+Amo 	3 	13 	1 	17 	1 	the 	DT
+Amo 	3 	13 	1 	18 	1 	God 	NNP
+Amo 	3 	13 	1 	19 	1 	of 	IN
+Amo 	3 	13 	1 	20 	1 	hosts 	NNS
+Amo 	3 	13 	1 	21 	0 	,
+Amo 	3 	14 	1 	1 	1 	That 	DT
+Amo 	3 	14 	1 	2 	1 	in 	IN
+Amo 	3 	14 	1 	3 	1 	the 	DT
+Amo 	3 	14 	1 	4 	1 	day 	NN
+Amo 	3 	14 	1 	5 	1 	that 	IN
+Amo 	3 	14 	1 	6 	1 	I 	PRP
+Amo 	3 	14 	1 	7 	1 	shall 	MD
+Amo 	3 	14 	1 	8 	1 	visit 	NN
+Amo 	3 	14 	1 	9 	1 	the 	DT
+Amo 	3 	14 	1 	10 	1 	transgressions 	NNS
+Amo 	3 	14 	1 	11 	1 	of 	IN
+Amo 	3 	14 	1 	12 	1 	Israel 	NNP
+Amo 	3 	14 	1 	13 	1 	upon 	IN
+Amo 	3 	14 	1 	14 	1 	him 	PRP
+Amo 	3 	14 	1 	15 	1 	I 	PRP
+Amo 	3 	14 	1 	16 	1 	will 	MD
+Amo 	3 	14 	1 	17 	1 	also 	RB
+Amo 	3 	14 	1 	18 	1 	visit 	NN
+Amo 	3 	14 	1 	19 	1 	the 	DT
+Amo 	3 	14 	1 	20 	1 	altars 	NNS
+Amo 	3 	14 	1 	21 	1 	of 	IN
+Amo 	3 	14 	1 	22 	1 	Bethel 	NN
+Amo 	3 	14 	1 	23 	0 	:
+Amo 	3 	14 	1 	24 	1 	and 	CC
+Amo 	3 	14 	1 	25 	1 	the 	DT
+Amo 	3 	14 	1 	26 	1 	horns 	NNS
+Amo 	3 	14 	1 	27 	1 	of 	IN
+Amo 	3 	14 	1 	28 	1 	the 	DT
+Amo 	3 	14 	1 	29 	1 	altar 	NN
+Amo 	3 	14 	1 	30 	1 	shall 	MD
+Amo 	3 	14 	1 	31 	1 	be 	VB
+Amo 	3 	14 	1 	32 	1 	cut 	NN
+Amo 	3 	14 	1 	33 	1 	off 	IN
+Amo 	3 	14 	1 	34 	0 	,
+Amo 	3 	14 	1 	35 	1 	and 	CC
+Amo 	3 	14 	1 	36 	1 	fall 	NN
+Amo 	3 	14 	1 	37 	1 	to 	TO
+Amo 	3 	14 	1 	38 	1 	the 	DT
+Amo 	3 	14 	1 	39 	1 	ground 	NN
+Amo 	3 	14 	1 	40 	0 	.
+Amo 	3 	15 	1 	1 	1 	nd 	NN
+Amo 	3 	15 	1 	2 	1 	I 	PRP
+Amo 	3 	15 	1 	3 	1 	will 	MD
+Amo 	3 	15 	1 	4 	1 	smite 	NN
+Amo 	3 	15 	1 	5 	1 	the 	DT
+Amo 	3 	15 	1 	6 	1 	winter 	NN
+Amo 	3 	15 	1 	7 	1 	house 	NN
+Amo 	3 	15 	1 	8 	1 	with 	IN
+Amo 	3 	15 	1 	9 	1 	the 	DT
+Amo 	3 	15 	1 	10 	1 	summer 	NN
+Amo 	3 	15 	1 	11 	1 	house 	NN
+Amo 	3 	15 	1 	12 	0 	;
+Amo 	3 	15 	1 	13 	1 	and 	CC
+Amo 	3 	15 	1 	14 	1 	the 	DT
+Amo 	3 	15 	1 	15 	1 	houses 	NNS
+Amo 	3 	15 	1 	16 	1 	of 	IN
+Amo 	3 	15 	1 	17 	1 	ivory 	NN
+Amo 	3 	15 	1 	18 	1 	shall 	MD
+Amo 	3 	15 	1 	19 	1 	perish 	NN
+Amo 	3 	15 	1 	20 	0 	,
+Amo 	3 	15 	1 	21 	1 	and 	CC
+Amo 	3 	15 	1 	22 	1 	the 	DT
+Amo 	3 	15 	1 	23 	1 	great 	JJ
+Amo 	3 	15 	1 	24 	1 	houses 	NNS
+Amo 	3 	15 	1 	25 	1 	shall 	MD
+Amo 	3 	15 	1 	26 	1 	have 	VB
+Amo 	3 	15 	1 	27 	1 	an 	DT
+Amo 	3 	15 	1 	28 	1 	end 	NN
+Amo 	3 	15 	1 	29 	0 	,
+Amo 	3 	15 	1 	30 	1 	saith 	NN
+Amo 	3 	15 	1 	31 	1 	the 	DT
+Amo 	3 	15 	1 	32 	1 	LORD 	NN
+Amo 	3 	15 	1 	33 	0 	.
+Amo 	4 	1 	1 	1 	1 	Hear 	NN
+Amo 	4 	1 	1 	2 	1 	this 	DT
+Amo 	4 	1 	1 	3 	1 	word 	NN
+Amo 	4 	1 	1 	4 	0 	,
+Amo 	4 	1 	1 	5 	1 	ye 	NN
+Amo 	4 	1 	1 	6 	1 	kine 	NN
+Amo 	4 	1 	1 	7 	1 	of 	IN
+Amo 	4 	1 	1 	8 	1 	Bashan 	NNP
+Amo 	4 	1 	1 	9 	0 	,
+Amo 	4 	1 	1 	10 	1 	that 	IN
+Amo 	4 	1 	1 	11 	1 	are 	VBP
+Amo 	4 	1 	1 	12 	1 	in 	IN
+Amo 	4 	1 	1 	13 	1 	the 	DT
+Amo 	4 	1 	1 	14 	1 	mountain 	NN
+Amo 	4 	1 	1 	15 	1 	of 	IN
+Amo 	4 	1 	1 	16 	1 	Samaria 	NNS
+Amo 	4 	1 	1 	17 	0 	,
+Amo 	4 	1 	1 	18 	1 	which 	WDT
+Amo 	4 	1 	1 	19 	1 	oppress 	NN
+Amo 	4 	1 	1 	20 	1 	the 	DT
+Amo 	4 	1 	1 	21 	1 	poor 	JJ
+Amo 	4 	1 	1 	22 	0 	,
+Amo 	4 	1 	1 	23 	1 	which 	WDT
+Amo 	4 	1 	1 	24 	1 	crush 	NN
+Amo 	4 	1 	1 	25 	1 	the 	DT
+Amo 	4 	1 	1 	26 	1 	needy 	NN
+Amo 	4 	1 	1 	27 	0 	,
+Amo 	4 	1 	1 	28 	1 	which 	WDT
+Amo 	4 	1 	1 	29 	1 	say 	VB
+Amo 	4 	1 	1 	30 	1 	to 	TO
+Amo 	4 	1 	1 	31 	1 	their 	PRP$
+Amo 	4 	1 	1 	32 	1 	masters 	NNS
+Amo 	4 	1 	1 	33 	0 	,
+Amo 	4 	1 	1 	34 	1 	Bring 	VB
+Amo 	4 	1 	1 	35 	0 	,
+Amo 	4 	1 	1 	36 	1 	and 	CC
+Amo 	4 	1 	1 	37 	1 	let 	VB
+Amo 	4 	1 	1 	38 	1 	us 	PRP
+Amo 	4 	1 	1 	39 	1 	drink 	NN
+Amo 	4 	1 	1 	40 	0 	.
+Amo 	4 	2 	1 	1 	1 	The 	DT
+Amo 	4 	2 	1 	2 	1 	Lord 	NN
+Amo 	4 	2 	1 	3 	1 	GOD 	NNP
+Amo 	4 	2 	1 	4 	1 	hath 	NN
+Amo 	4 	2 	1 	5 	1 	sworn 	NN
+Amo 	4 	2 	1 	6 	1 	by 	IN
+Amo 	4 	2 	1 	7 	1 	his 	PRP$
+Amo 	4 	2 	1 	8 	1 	holiness 	NN
+Amo 	4 	2 	1 	9 	0 	,
+Amo 	4 	2 	1 	10 	1 	that 	IN
+Amo 	4 	2 	1 	11 	0 	,
+Amo 	4 	2 	1 	12 	1 	lo 	NN
+Amo 	4 	2 	1 	13 	0 	,
+Amo 	4 	2 	1 	14 	1 	the 	DT
+Amo 	4 	2 	1 	15 	1 	days 	NNS
+Amo 	4 	2 	1 	16 	1 	shall 	MD
+Amo 	4 	2 	1 	17 	1 	come 	VB
+Amo 	4 	2 	1 	18 	1 	upon 	IN
+Amo 	4 	2 	1 	19 	1 	you 	PRP
+Amo 	4 	2 	1 	20 	0 	,
+Amo 	4 	2 	1 	21 	1 	that 	IN
+Amo 	4 	2 	1 	22 	1 	he 	PRP
+Amo 	4 	2 	1 	23 	1 	will 	MD
+Amo 	4 	2 	1 	24 	1 	take 	VB
+Amo 	4 	2 	1 	25 	1 	you 	PRP
+Amo 	4 	2 	1 	26 	1 	away 	RB
+Amo 	4 	2 	1 	27 	1 	with 	IN
+Amo 	4 	2 	1 	28 	1 	hooks 	NNS
+Amo 	4 	2 	1 	29 	0 	,
+Amo 	4 	2 	1 	30 	1 	and 	CC
+Amo 	4 	2 	1 	31 	1 	your 	PRP$
+Amo 	4 	2 	1 	32 	1 	posterity 	NN
+Amo 	4 	2 	1 	33 	1 	with 	IN
+Amo 	4 	2 	1 	34 	1 	fishhooks 	NNS
+Amo 	4 	2 	1 	35 	0 	.
+Amo 	4 	3 	1 	1 	1 	nd 	NN
+Amo 	4 	3 	1 	2 	1 	ye 	NN
+Amo 	4 	3 	1 	3 	1 	shall 	MD
+Amo 	4 	3 	1 	4 	1 	go 	VB
+Amo 	4 	3 	1 	5 	1 	out 	IN
+Amo 	4 	3 	1 	6 	1 	at 	IN
+Amo 	4 	3 	1 	7 	1 	the 	DT
+Amo 	4 	3 	1 	8 	1 	breaches 	NNS
+Amo 	4 	3 	1 	9 	0 	,
+Amo 	4 	3 	1 	10 	1 	every 	DT
+Amo 	4 	3 	1 	11 	1 	cow 	NN
+Amo 	4 	3 	1 	12 	1 	at 	IN
+Amo 	4 	3 	1 	13 	1 	that 	IN
+Amo 	4 	3 	1 	14 	1 	which 	WDT
+Amo 	4 	3 	1 	15 	1 	is 	VBZ
+Amo 	4 	3 	1 	16 	1 	before 	IN
+Amo 	4 	3 	1 	17 	1 	her 	PRP$
+Amo 	4 	3 	1 	18 	0 	;
+Amo 	4 	3 	1 	19 	1 	and 	CC
+Amo 	4 	3 	1 	20 	1 	ye 	NN
+Amo 	4 	3 	1 	21 	1 	shall 	MD
+Amo 	4 	3 	1 	22 	1 	cast 	NN
+Amo 	4 	3 	1 	23 	1 	them 	PRP
+Amo 	4 	3 	1 	24 	1 	into 	IN
+Amo 	4 	3 	1 	25 	1 	the 	DT
+Amo 	4 	3 	1 	26 	1 	palace 	NN
+Amo 	4 	3 	1 	27 	0 	,
+Amo 	4 	3 	1 	28 	1 	saith 	NN
+Amo 	4 	3 	1 	29 	1 	the 	DT
+Amo 	4 	3 	1 	30 	1 	LORD 	NN
+Amo 	4 	3 	1 	31 	0 	.
+Amo 	4 	4 	1 	1 	1 	Come 	VB
+Amo 	4 	4 	1 	2 	1 	to 	TO
+Amo 	4 	4 	1 	3 	1 	Bethel 	NN
+Amo 	4 	4 	1 	4 	0 	,
+Amo 	4 	4 	1 	5 	1 	and 	CC
+Amo 	4 	4 	1 	6 	1 	transgress 	NN
+Amo 	4 	4 	1 	7 	0 	;
+Amo 	4 	4 	1 	8 	1 	at 	IN
+Amo 	4 	4 	1 	9 	1 	Gilgal 	NNP
+Amo 	4 	4 	1 	10 	1 	multiply 	NN
+Amo 	4 	4 	1 	11 	1 	transgression 	NN
+Amo 	4 	4 	1 	12 	0 	;
+Amo 	4 	4 	1 	13 	1 	and 	CC
+Amo 	4 	4 	1 	14 	1 	bring 	NN
+Amo 	4 	4 	1 	15 	1 	your 	PRP$
+Amo 	4 	4 	1 	16 	1 	sacrifices 	NNS
+Amo 	4 	4 	1 	17 	1 	every 	DT
+Amo 	4 	4 	1 	18 	1 	morning 	NN
+Amo 	4 	4 	1 	19 	0 	,
+Amo 	4 	4 	1 	20 	1 	and 	CC
+Amo 	4 	4 	1 	21 	1 	your 	PRP$
+Amo 	4 	4 	1 	22 	1 	tithes 	NNS
+Amo 	4 	4 	1 	23 	1 	after 	IN
+Amo 	4 	4 	1 	24 	1 	three 	CD
+Amo 	4 	4 	1 	25 	1 	years 	NNS
+Amo 	4 	4 	1 	26 	0 	:
+Amo 	4 	5 	1 	1 	1 	nd 	NN
+Amo 	4 	5 	1 	2 	1 	offer 	NN
+Amo 	4 	5 	1 	3 	1 	a 	DT
+Amo 	4 	5 	1 	4 	1 	sacrifice 	NN
+Amo 	4 	5 	1 	5 	1 	of 	IN
+Amo 	4 	5 	1 	6 	1 	thanksgiving 	VBG
+Amo 	4 	5 	1 	7 	1 	with 	IN
+Amo 	4 	5 	1 	8 	1 	leaven 	RB
+Amo 	4 	5 	1 	9 	0 	,
+Amo 	4 	5 	1 	10 	1 	and 	CC
+Amo 	4 	5 	1 	11 	1 	proclaim 	NN
+Amo 	4 	5 	1 	12 	1 	and 	CC
+Amo 	4 	5 	1 	13 	1 	publish 	NN
+Amo 	4 	5 	1 	14 	1 	the 	DT
+Amo 	4 	5 	1 	15 	1 	free 	JJ
+Amo 	4 	5 	1 	16 	1 	offerings 	NNS
+Amo 	4 	5 	1 	17 	0 	:
+Amo 	4 	5 	1 	18 	1 	for 	IN
+Amo 	4 	5 	1 	19 	1 	this 	DT
+Amo 	4 	5 	1 	20 	1 	liketh 	NN
+Amo 	4 	5 	1 	21 	1 	you 	PRP
+Amo 	4 	5 	1 	22 	0 	,
+Amo 	4 	5 	1 	23 	1 	O 	NN
+Amo 	4 	5 	1 	24 	1 	ye 	NN
+Amo 	4 	5 	1 	25 	1 	children 	NNS
+Amo 	4 	5 	1 	26 	1 	of 	IN
+Amo 	4 	5 	1 	27 	1 	Israel 	NNP
+Amo 	4 	5 	1 	28 	0 	,
+Amo 	4 	5 	1 	29 	1 	saith 	NN
+Amo 	4 	5 	1 	30 	1 	the 	DT
+Amo 	4 	5 	1 	31 	1 	Lord 	NN
+Amo 	4 	5 	1 	32 	1 	GOD 	NNP
+Amo 	4 	5 	1 	33 	0 	.
+Amo 	4 	6 	1 	1 	1 	nd 	NN
+Amo 	4 	6 	1 	2 	1 	I 	PRP
+Amo 	4 	6 	1 	3 	1 	also 	RB
+Amo 	4 	6 	1 	4 	1 	have 	VB
+Amo 	4 	6 	1 	5 	1 	given 	VBN
+Amo 	4 	6 	1 	6 	1 	you 	PRP
+Amo 	4 	6 	1 	7 	1 	cleanness 	NN
+Amo 	4 	6 	1 	8 	1 	of 	IN
+Amo 	4 	6 	1 	9 	1 	teeth 	NNS
+Amo 	4 	6 	1 	10 	1 	in 	IN
+Amo 	4 	6 	1 	11 	1 	all 	DT
+Amo 	4 	6 	1 	12 	1 	your 	PRP$
+Amo 	4 	6 	1 	13 	1 	cities 	NNS
+Amo 	4 	6 	1 	14 	0 	,
+Amo 	4 	6 	1 	15 	1 	and 	CC
+Amo 	4 	6 	1 	16 	1 	want 	NN
+Amo 	4 	6 	1 	17 	1 	of 	IN
+Amo 	4 	6 	1 	18 	1 	bread 	NN
+Amo 	4 	6 	1 	19 	1 	in 	IN
+Amo 	4 	6 	1 	20 	1 	all 	DT
+Amo 	4 	6 	1 	21 	1 	your 	PRP$
+Amo 	4 	6 	1 	22 	1 	places 	NNS
+Amo 	4 	6 	1 	23 	0 	:
+Amo 	4 	6 	1 	24 	1 	yet 	RB
+Amo 	4 	6 	1 	25 	1 	have 	VB
+Amo 	4 	6 	1 	26 	1 	ye 	NN
+Amo 	4 	6 	1 	27 	1 	not 	RB
+Amo 	4 	6 	1 	28 	1 	returned 	VBN
+Amo 	4 	6 	1 	29 	1 	unto 	NN
+Amo 	4 	6 	1 	30 	1 	me 	PRP
+Amo 	4 	6 	1 	31 	0 	,
+Amo 	4 	6 	1 	32 	1 	saith 	NN
+Amo 	4 	6 	1 	33 	1 	the 	DT
+Amo 	4 	6 	1 	34 	1 	LORD 	NN
+Amo 	4 	6 	1 	35 	0 	.
+Amo 	4 	7 	1 	1 	1 	nd 	NN
+Amo 	4 	7 	1 	2 	1 	also 	RB
+Amo 	4 	7 	1 	3 	1 	I 	PRP
+Amo 	4 	7 	1 	4 	1 	have 	VB
+Amo 	4 	7 	1 	5 	1 	withholden 	NN
+Amo 	4 	7 	1 	6 	1 	the 	DT
+Amo 	4 	7 	1 	7 	1 	rain 	NN
+Amo 	4 	7 	1 	8 	1 	from 	IN
+Amo 	4 	7 	1 	9 	1 	you 	PRP
+Amo 	4 	7 	1 	10 	0 	,
+Amo 	4 	7 	1 	11 	1 	when 	WRB
+Amo 	4 	7 	1 	12 	1 	there 	RB
+Amo 	4 	7 	1 	13 	1 	were 	VBD
+Amo 	4 	7 	1 	14 	1 	yet 	RB
+Amo 	4 	7 	1 	15 	1 	three 	CD
+Amo 	4 	7 	1 	16 	1 	months 	NNS
+Amo 	4 	7 	1 	17 	1 	to 	TO
+Amo 	4 	7 	1 	18 	1 	the 	DT
+Amo 	4 	7 	1 	19 	1 	harvest 	NN
+Amo 	4 	7 	1 	20 	0 	:
+Amo 	4 	7 	1 	21 	1 	and 	CC
+Amo 	4 	7 	1 	22 	1 	I 	PRP
+Amo 	4 	7 	1 	23 	1 	caused 	VBN
+Amo 	4 	7 	1 	24 	1 	it 	PRP
+Amo 	4 	7 	1 	25 	1 	to 	TO
+Amo 	4 	7 	1 	26 	1 	rain 	NN
+Amo 	4 	7 	1 	27 	1 	upon 	IN
+Amo 	4 	7 	1 	28 	1 	one 	CD
+Amo 	4 	7 	1 	29 	1 	city 	NN
+Amo 	4 	7 	1 	30 	0 	,
+Amo 	4 	7 	1 	31 	1 	and 	CC
+Amo 	4 	7 	1 	32 	1 	caused 	VBN
+Amo 	4 	7 	1 	33 	1 	it 	PRP
+Amo 	4 	7 	1 	34 	1 	not 	RB
+Amo 	4 	7 	1 	35 	1 	to 	TO
+Amo 	4 	7 	1 	36 	1 	rain 	NN
+Amo 	4 	7 	1 	37 	1 	upon 	IN
+Amo 	4 	7 	1 	38 	1 	another 	DT
+Amo 	4 	7 	1 	39 	1 	city 	NN
+Amo 	4 	7 	1 	40 	0 	:
+Amo 	4 	7 	1 	41 	1 	one 	CD
+Amo 	4 	7 	1 	42 	1 	piece 	NN
+Amo 	4 	7 	1 	43 	1 	was 	VBD
+Amo 	4 	7 	1 	44 	1 	rained 	VBN
+Amo 	4 	7 	1 	45 	1 	upon 	IN
+Amo 	4 	7 	1 	46 	0 	,
+Amo 	4 	7 	1 	47 	1 	and 	CC
+Amo 	4 	7 	1 	48 	1 	the 	DT
+Amo 	4 	7 	1 	49 	1 	piece 	NN
+Amo 	4 	7 	1 	50 	1 	whereupon 	NN
+Amo 	4 	7 	1 	51 	1 	it 	PRP
+Amo 	4 	7 	1 	52 	1 	rained 	VBN
+Amo 	4 	7 	1 	53 	1 	not 	RB
+Amo 	4 	7 	1 	54 	1 	withered 	VBD
+Amo 	4 	7 	1 	55 	0 	.
+Amo 	4 	8 	1 	1 	1 	So 	RB
+Amo 	4 	8 	1 	2 	1 	two 	CD
+Amo 	4 	8 	1 	3 	1 	or 	CC
+Amo 	4 	8 	1 	4 	1 	three 	CD
+Amo 	4 	8 	1 	5 	1 	cities 	NNS
+Amo 	4 	8 	1 	6 	1 	wandered 	VBD
+Amo 	4 	8 	1 	7 	1 	unto 	NN
+Amo 	4 	8 	1 	8 	1 	one 	CD
+Amo 	4 	8 	1 	9 	1 	city 	NN
+Amo 	4 	8 	1 	10 	0 	,
+Amo 	4 	8 	1 	11 	1 	to 	TO
+Amo 	4 	8 	1 	12 	1 	drink 	NN
+Amo 	4 	8 	1 	13 	1 	water 	NN
+Amo 	4 	8 	1 	14 	0 	;
+Amo 	4 	8 	1 	15 	1 	but 	CC
+Amo 	4 	8 	1 	16 	1 	they 	PRP
+Amo 	4 	8 	1 	17 	1 	were 	VBD
+Amo 	4 	8 	1 	18 	1 	not 	RB
+Amo 	4 	8 	1 	19 	1 	satisfied 	JJ
+Amo 	4 	8 	1 	20 	0 	:
+Amo 	4 	8 	1 	21 	1 	yet 	RB
+Amo 	4 	8 	1 	22 	1 	have 	VB
+Amo 	4 	8 	1 	23 	1 	ye 	NN
+Amo 	4 	8 	1 	24 	1 	not 	RB
+Amo 	4 	8 	1 	25 	1 	returned 	VBN
+Amo 	4 	8 	1 	26 	1 	unto 	NN
+Amo 	4 	8 	1 	27 	1 	me 	PRP
+Amo 	4 	8 	1 	28 	0 	,
+Amo 	4 	8 	1 	29 	1 	saith 	NN
+Amo 	4 	8 	1 	30 	1 	the 	DT
+Amo 	4 	8 	1 	31 	1 	LORD 	NN
+Amo 	4 	8 	1 	32 	0 	.
+Amo 	4 	9 	1 	1 	1 	I 	PRP
+Amo 	4 	9 	1 	2 	1 	have 	VB
+Amo 	4 	9 	1 	3 	1 	smitten 	NN
+Amo 	4 	9 	1 	4 	1 	you 	PRP
+Amo 	4 	9 	1 	5 	1 	with 	IN
+Amo 	4 	9 	1 	6 	1 	blasting 	NN
+Amo 	4 	9 	1 	7 	1 	and 	CC
+Amo 	4 	9 	1 	8 	1 	mildew 	NN
+Amo 	4 	9 	1 	9 	0 	:
+Amo 	4 	9 	1 	10 	1 	when 	WRB
+Amo 	4 	9 	1 	11 	1 	your 	PRP$
+Amo 	4 	9 	1 	12 	1 	gardens 	NNS
+Amo 	4 	9 	1 	13 	1 	and 	CC
+Amo 	4 	9 	1 	14 	1 	your 	PRP$
+Amo 	4 	9 	1 	15 	1 	vineyards 	NNS
+Amo 	4 	9 	1 	16 	1 	and 	CC
+Amo 	4 	9 	1 	17 	1 	your 	PRP$
+Amo 	4 	9 	1 	18 	1 	fig 	NN
+Amo 	4 	9 	1 	19 	1 	trees 	NNS
+Amo 	4 	9 	1 	20 	1 	and 	CC
+Amo 	4 	9 	1 	21 	1 	your 	PRP$
+Amo 	4 	9 	1 	22 	1 	olive 	JJ
+Amo 	4 	9 	1 	23 	1 	trees 	NNS
+Amo 	4 	9 	1 	24 	1 	increased 	VBN
+Amo 	4 	9 	1 	25 	0 	,
+Amo 	4 	9 	1 	26 	1 	the 	DT
+Amo 	4 	9 	1 	27 	1 	palmerworm 	NN
+Amo 	4 	9 	1 	28 	1 	devoured 	VBN
+Amo 	4 	9 	1 	29 	1 	them 	PRP
+Amo 	4 	9 	1 	30 	0 	:
+Amo 	4 	9 	1 	31 	1 	yet 	RB
+Amo 	4 	9 	1 	32 	1 	have 	VB
+Amo 	4 	9 	1 	33 	1 	ye 	NN
+Amo 	4 	9 	1 	34 	1 	not 	RB
+Amo 	4 	9 	1 	35 	1 	returned 	VBN
+Amo 	4 	9 	1 	36 	1 	unto 	NN
+Amo 	4 	9 	1 	37 	1 	me 	PRP
+Amo 	4 	9 	1 	38 	0 	,
+Amo 	4 	9 	1 	39 	1 	saith 	NN
+Amo 	4 	9 	1 	40 	1 	the 	DT
+Amo 	4 	9 	1 	41 	1 	LORD 	NN
+Amo 	4 	9 	1 	42 	0 	.
+Amo 	4 	10 	1 	1 	1 	I 	PRP
+Amo 	4 	10 	1 	2 	1 	have 	VB
+Amo 	4 	10 	1 	3 	1 	sent 	NN
+Amo 	4 	10 	1 	4 	1 	among 	IN
+Amo 	4 	10 	1 	5 	1 	you 	PRP
+Amo 	4 	10 	1 	6 	1 	the 	DT
+Amo 	4 	10 	1 	7 	1 	pestilence 	NN
+Amo 	4 	10 	1 	8 	1 	after 	IN
+Amo 	4 	10 	1 	9 	1 	the 	DT
+Amo 	4 	10 	1 	10 	1 	manner 	NN
+Amo 	4 	10 	1 	11 	1 	of 	IN
+Amo 	4 	10 	1 	12 	1 	Egypt 	NN
+Amo 	4 	10 	1 	13 	0 	:
+Amo 	4 	10 	1 	14 	1 	your 	PRP$
+Amo 	4 	10 	1 	15 	1 	young 	JJ
+Amo 	4 	10 	1 	16 	1 	men 	NNS
+Amo 	4 	10 	1 	17 	1 	have 	VB
+Amo 	4 	10 	1 	18 	1 	I 	PRP
+Amo 	4 	10 	1 	19 	1 	slain 	NN
+Amo 	4 	10 	1 	20 	1 	with 	IN
+Amo 	4 	10 	1 	21 	1 	the 	DT
+Amo 	4 	10 	1 	22 	1 	sword 	NN
+Amo 	4 	10 	1 	23 	0 	,
+Amo 	4 	10 	1 	24 	1 	and 	CC
+Amo 	4 	10 	1 	25 	1 	have 	VB
+Amo 	4 	10 	1 	26 	1 	taken 	VBN
+Amo 	4 	10 	1 	27 	1 	away 	RB
+Amo 	4 	10 	1 	28 	1 	your 	PRP$
+Amo 	4 	10 	1 	29 	1 	horses 	NNS
+Amo 	4 	10 	1 	30 	0 	;
+Amo 	4 	10 	1 	31 	1 	and 	CC
+Amo 	4 	10 	1 	32 	1 	I 	PRP
+Amo 	4 	10 	1 	33 	1 	have 	VB
+Amo 	4 	10 	1 	34 	1 	made 	VBN
+Amo 	4 	10 	1 	35 	1 	the 	DT
+Amo 	4 	10 	1 	36 	1 	stink 	NN
+Amo 	4 	10 	1 	37 	1 	of 	IN
+Amo 	4 	10 	1 	38 	1 	your 	PRP$
+Amo 	4 	10 	1 	39 	1 	camps 	NNS
+Amo 	4 	10 	1 	40 	1 	to 	TO
+Amo 	4 	10 	1 	41 	1 	come 	VB
+Amo 	4 	10 	1 	42 	1 	up 	RB
+Amo 	4 	10 	1 	43 	1 	unto 	NN
+Amo 	4 	10 	1 	44 	1 	your 	PRP$
+Amo 	4 	10 	1 	45 	1 	nostrils 	NNS
+Amo 	4 	10 	1 	46 	0 	:
+Amo 	4 	10 	1 	47 	1 	yet 	RB
+Amo 	4 	10 	1 	48 	1 	have 	VB
+Amo 	4 	10 	1 	49 	1 	ye 	NN
+Amo 	4 	10 	1 	50 	1 	not 	RB
+Amo 	4 	10 	1 	51 	1 	returned 	VBN
+Amo 	4 	10 	1 	52 	1 	unto 	NN
+Amo 	4 	10 	1 	53 	1 	me 	PRP
+Amo 	4 	10 	1 	54 	0 	,
+Amo 	4 	10 	1 	55 	1 	saith 	NN
+Amo 	4 	10 	1 	56 	1 	the 	DT
+Amo 	4 	10 	1 	57 	1 	LORD 	NN
+Amo 	4 	10 	1 	58 	0 	.
+Amo 	4 	11 	1 	1 	1 	I 	PRP
+Amo 	4 	11 	1 	2 	1 	have 	VB
+Amo 	4 	11 	1 	3 	1 	overthrown 	IN
+Amo 	4 	11 	1 	4 	1 	some 	DT
+Amo 	4 	11 	1 	5 	1 	of 	IN
+Amo 	4 	11 	1 	6 	1 	you 	PRP
+Amo 	4 	11 	1 	7 	0 	,
+Amo 	4 	11 	1 	8 	1 	as 	IN
+Amo 	4 	11 	1 	9 	1 	God 	NNP
+Amo 	4 	11 	1 	10 	1 	overthrew 	NN
+Amo 	4 	11 	1 	11 	1 	Sodom 	NN
+Amo 	4 	11 	1 	12 	1 	and 	CC
+Amo 	4 	11 	1 	13 	1 	Gomorrah 	NN
+Amo 	4 	11 	1 	14 	0 	,
+Amo 	4 	11 	1 	15 	1 	and 	CC
+Amo 	4 	11 	1 	16 	1 	ye 	NN
+Amo 	4 	11 	1 	17 	1 	were 	VBD
+Amo 	4 	11 	1 	18 	1 	as 	IN
+Amo 	4 	11 	1 	19 	1 	a 	DT
+Amo 	4 	11 	1 	20 	1 	firebrand 	NN
+Amo 	4 	11 	1 	21 	1 	plucked 	NNS
+Amo 	4 	11 	1 	22 	1 	out 	IN
+Amo 	4 	11 	1 	23 	1 	of 	IN
+Amo 	4 	11 	1 	24 	1 	the 	DT
+Amo 	4 	11 	1 	25 	1 	burning 	NN
+Amo 	4 	11 	1 	26 	0 	:
+Amo 	4 	11 	1 	27 	1 	yet 	RB
+Amo 	4 	11 	1 	28 	1 	have 	VB
+Amo 	4 	11 	1 	29 	1 	ye 	NN
+Amo 	4 	11 	1 	30 	1 	not 	RB
+Amo 	4 	11 	1 	31 	1 	returned 	VBN
+Amo 	4 	11 	1 	32 	1 	unto 	NN
+Amo 	4 	11 	1 	33 	1 	me 	PRP
+Amo 	4 	11 	1 	34 	0 	,
+Amo 	4 	11 	1 	35 	1 	saith 	NN
+Amo 	4 	11 	1 	36 	1 	the 	DT
+Amo 	4 	11 	1 	37 	1 	LORD 	NN
+Amo 	4 	11 	1 	38 	0 	.
+Amo 	4 	12 	1 	1 	1 	Therefore 	RB
+Amo 	4 	12 	1 	2 	1 	thus 	RB
+Amo 	4 	12 	1 	3 	1 	will 	MD
+Amo 	4 	12 	1 	4 	1 	I 	PRP
+Amo 	4 	12 	1 	5 	1 	do 	VB
+Amo 	4 	12 	1 	6 	1 	unto 	NN
+Amo 	4 	12 	1 	7 	1 	thee 	NN
+Amo 	4 	12 	1 	8 	0 	,
+Amo 	4 	12 	1 	9 	1 	O 	NN
+Amo 	4 	12 	1 	10 	1 	Israel 	NNP
+Amo 	4 	12 	1 	11 	0 	:
+Amo 	4 	12 	1 	12 	1 	and 	CC
+Amo 	4 	12 	1 	13 	1 	because 	IN
+Amo 	4 	12 	1 	14 	1 	I 	PRP
+Amo 	4 	12 	1 	15 	1 	will 	MD
+Amo 	4 	12 	1 	16 	1 	do 	VB
+Amo 	4 	12 	1 	17 	1 	this 	DT
+Amo 	4 	12 	1 	18 	1 	unto 	NN
+Amo 	4 	12 	1 	19 	1 	thee 	NN
+Amo 	4 	12 	1 	20 	0 	,
+Amo 	4 	12 	1 	21 	1 	prepare 	NN
+Amo 	4 	12 	1 	22 	1 	to 	TO
+Amo 	4 	12 	1 	23 	1 	meet 	NN
+Amo 	4 	12 	1 	24 	1 	thy 	NN
+Amo 	4 	12 	1 	25 	1 	God 	NNP
+Amo 	4 	12 	1 	26 	0 	,
+Amo 	4 	12 	1 	27 	1 	O 	NN
+Amo 	4 	12 	1 	28 	1 	Israel 	NNP
+Amo 	4 	12 	1 	29 	0 	.
+Amo 	4 	13 	1 	1 	1 	For 	IN
+Amo 	4 	13 	1 	2 	0 	,
+Amo 	4 	13 	1 	3 	1 	lo 	NN
+Amo 	4 	13 	1 	4 	0 	,
+Amo 	4 	13 	1 	5 	1 	he 	PRP
+Amo 	4 	13 	1 	6 	1 	that 	IN
+Amo 	4 	13 	1 	7 	1 	formeth 	NNS
+Amo 	4 	13 	1 	8 	1 	the 	DT
+Amo 	4 	13 	1 	9 	1 	mountains 	NNS
+Amo 	4 	13 	1 	10 	0 	,
+Amo 	4 	13 	1 	11 	1 	and 	CC
+Amo 	4 	13 	1 	12 	1 	createth 	NNS
+Amo 	4 	13 	1 	13 	1 	the 	DT
+Amo 	4 	13 	1 	14 	1 	wind 	NN
+Amo 	4 	13 	1 	15 	0 	,
+Amo 	4 	13 	1 	16 	1 	and 	CC
+Amo 	4 	13 	1 	17 	1 	declareth 	NN
+Amo 	4 	13 	1 	18 	1 	unto 	NN
+Amo 	4 	13 	1 	19 	1 	man 	NN
+Amo 	4 	13 	1 	20 	1 	what 	WP
+Amo 	4 	13 	1 	21 	1 	is 	VBZ
+Amo 	4 	13 	1 	22 	1 	his 	PRP$
+Amo 	4 	13 	1 	23 	1 	thought 	NN
+Amo 	4 	13 	1 	24 	0 	,
+Amo 	4 	13 	1 	25 	1 	that 	IN
+Amo 	4 	13 	1 	26 	1 	maketh 	NNS
+Amo 	4 	13 	1 	27 	1 	the 	DT
+Amo 	4 	13 	1 	28 	1 	morning 	NN
+Amo 	4 	13 	1 	29 	1 	darkness 	NN
+Amo 	4 	13 	1 	30 	0 	,
+Amo 	4 	13 	1 	31 	1 	and 	CC
+Amo 	4 	13 	1 	32 	1 	treadeth 	NNS
+Amo 	4 	13 	1 	33 	1 	upon 	IN
+Amo 	4 	13 	1 	34 	1 	the 	DT
+Amo 	4 	13 	1 	35 	1 	high 	JJ
+Amo 	4 	13 	1 	36 	1 	places 	NNS
+Amo 	4 	13 	1 	37 	1 	of 	IN
+Amo 	4 	13 	1 	38 	1 	the 	DT
+Amo 	4 	13 	1 	39 	1 	earth 	NN
+Amo 	4 	13 	1 	40 	0 	,
+Amo 	4 	13 	1 	41 	1 	The 	DT
+Amo 	4 	13 	1 	42 	1 	LORD 	NN
+Amo 	4 	13 	1 	43 	0 	,
+Amo 	4 	13 	1 	44 	1 	The 	DT
+Amo 	4 	13 	1 	45 	1 	God 	NNP
+Amo 	4 	13 	1 	46 	1 	of 	IN
+Amo 	4 	13 	1 	47 	1 	hosts 	NNS
+Amo 	4 	13 	1 	48 	0 	,
+Amo 	4 	13 	1 	49 	1 	is 	VBZ
+Amo 	4 	13 	1 	50 	1 	his 	PRP$
+Amo 	4 	13 	1 	51 	1 	name 	NN
+Amo 	4 	13 	1 	52 	0 	.
+Amo 	5 	1 	1 	1 	1 	Hear 	NN
+Amo 	5 	1 	1 	2 	1 	ye 	NN
+Amo 	5 	1 	1 	3 	1 	this 	DT
+Amo 	5 	1 	1 	4 	1 	word 	NN
+Amo 	5 	1 	1 	5 	1 	which 	WDT
+Amo 	5 	1 	1 	6 	1 	I 	PRP
+Amo 	5 	1 	1 	7 	1 	take 	VB
+Amo 	5 	1 	1 	8 	1 	up 	RB
+Amo 	5 	1 	1 	9 	1 	against 	IN
+Amo 	5 	1 	1 	10 	1 	you 	PRP
+Amo 	5 	1 	1 	11 	0 	,
+Amo 	5 	1 	1 	12 	1 	even 	RB
+Amo 	5 	1 	1 	13 	1 	a 	DT
+Amo 	5 	1 	1 	14 	1 	lamentation 	NN
+Amo 	5 	1 	1 	15 	0 	,
+Amo 	5 	1 	1 	16 	1 	O 	NN
+Amo 	5 	1 	1 	17 	1 	house 	NN
+Amo 	5 	1 	1 	18 	1 	of 	IN
+Amo 	5 	1 	1 	19 	1 	Israel 	NNP
+Amo 	5 	1 	1 	20 	0 	.
+Amo 	5 	2 	1 	1 	1 	The 	DT
+Amo 	5 	2 	1 	2 	1 	virgin 	NN
+Amo 	5 	2 	1 	3 	1 	of 	IN
+Amo 	5 	2 	1 	4 	1 	Israel 	NNP
+Amo 	5 	2 	1 	5 	1 	is 	VBZ
+Amo 	5 	2 	1 	6 	1 	fallen 	VBN
+Amo 	5 	2 	1 	7 	0 	;
+Amo 	5 	2 	1 	8 	1 	she 	PRP
+Amo 	5 	2 	1 	9 	1 	shall 	MD
+Amo 	5 	2 	1 	10 	1 	no 	DT
+Amo 	5 	2 	1 	11 	1 	more 	RBR
+Amo 	5 	2 	1 	12 	1 	rise 	NN
+Amo 	5 	2 	1 	13 	0 	:
+Amo 	5 	2 	1 	14 	1 	she 	PRP
+Amo 	5 	2 	1 	15 	1 	is 	VBZ
+Amo 	5 	2 	1 	16 	1 	forsaken 	NN
+Amo 	5 	2 	1 	17 	1 	upon 	IN
+Amo 	5 	2 	1 	18 	1 	her 	PRP$
+Amo 	5 	2 	1 	19 	1 	land 	NN
+Amo 	5 	2 	1 	20 	0 	;
+Amo 	5 	2 	1 	21 	1 	there 	RB
+Amo 	5 	2 	1 	22 	1 	is 	VBZ
+Amo 	5 	2 	1 	23 	1 	none 	NN
+Amo 	5 	2 	1 	24 	1 	to 	TO
+Amo 	5 	2 	1 	25 	1 	raise 	NN
+Amo 	5 	2 	1 	26 	1 	her 	PRP$
+Amo 	5 	2 	1 	27 	1 	up 	RB
+Amo 	5 	2 	1 	28 	0 	.
+Amo 	5 	3 	1 	1 	1 	For 	IN
+Amo 	5 	3 	1 	2 	1 	thus 	RB
+Amo 	5 	3 	1 	3 	1 	saith 	NN
+Amo 	5 	3 	1 	4 	1 	the 	DT
+Amo 	5 	3 	1 	5 	1 	Lord 	NN
+Amo 	5 	3 	1 	6 	1 	GOD 	NNP
+Amo 	5 	3 	1 	7 	0 	;
+Amo 	5 	3 	1 	8 	1 	The 	DT
+Amo 	5 	3 	1 	9 	1 	city 	NN
+Amo 	5 	3 	1 	10 	1 	that 	IN
+Amo 	5 	3 	1 	11 	1 	went 	VBD
+Amo 	5 	3 	1 	12 	1 	out 	IN
+Amo 	5 	3 	1 	13 	1 	by 	IN
+Amo 	5 	3 	1 	14 	1 	a 	DT
+Amo 	5 	3 	1 	15 	1 	thousand 	NN
+Amo 	5 	3 	1 	16 	1 	shall 	MD
+Amo 	5 	3 	1 	17 	1 	leave 	VB
+Amo 	5 	3 	1 	18 	1 	an 	DT
+Amo 	5 	3 	1 	19 	1 	hundred 	VBN
+Amo 	5 	3 	1 	20 	0 	,
+Amo 	5 	3 	1 	21 	1 	and 	CC
+Amo 	5 	3 	1 	22 	1 	that 	IN
+Amo 	5 	3 	1 	23 	1 	which 	WDT
+Amo 	5 	3 	1 	24 	1 	went 	VBD
+Amo 	5 	3 	1 	25 	1 	forth 	NN
+Amo 	5 	3 	1 	26 	1 	by 	IN
+Amo 	5 	3 	1 	27 	1 	an 	DT
+Amo 	5 	3 	1 	28 	1 	hundred 	VBN
+Amo 	5 	3 	1 	29 	1 	shall 	MD
+Amo 	5 	3 	1 	30 	1 	leave 	VB
+Amo 	5 	3 	1 	31 	1 	ten 	NNS
+Amo 	5 	3 	1 	32 	0 	,
+Amo 	5 	3 	1 	33 	1 	to 	TO
+Amo 	5 	3 	1 	34 	1 	the 	DT
+Amo 	5 	3 	1 	35 	1 	house 	NN
+Amo 	5 	3 	1 	36 	1 	of 	IN
+Amo 	5 	3 	1 	37 	1 	Israel 	NNP
+Amo 	5 	3 	1 	38 	0 	.
+Amo 	5 	4 	1 	1 	1 	For 	IN
+Amo 	5 	4 	1 	2 	1 	thus 	RB
+Amo 	5 	4 	1 	3 	1 	saith 	NN
+Amo 	5 	4 	1 	4 	1 	the 	DT
+Amo 	5 	4 	1 	5 	1 	LORD 	NN
+Amo 	5 	4 	1 	6 	1 	unto 	NN
+Amo 	5 	4 	1 	7 	1 	the 	DT
+Amo 	5 	4 	1 	8 	1 	house 	NN
+Amo 	5 	4 	1 	9 	1 	of 	IN
+Amo 	5 	4 	1 	10 	1 	Israel 	NNP
+Amo 	5 	4 	1 	11 	0 	,
+Amo 	5 	4 	1 	12 	1 	Seek 	NN
+Amo 	5 	4 	1 	13 	1 	ye 	NN
+Amo 	5 	4 	1 	14 	1 	me 	PRP
+Amo 	5 	4 	1 	15 	0 	,
+Amo 	5 	4 	1 	16 	1 	and 	CC
+Amo 	5 	4 	1 	17 	1 	ye 	NN
+Amo 	5 	4 	1 	18 	1 	shall 	MD
+Amo 	5 	4 	1 	19 	1 	live 	JJ
+Amo 	5 	4 	1 	20 	0 	:
+Amo 	5 	5 	1 	1 	1 	But 	CC
+Amo 	5 	5 	1 	2 	1 	seek 	NN
+Amo 	5 	5 	1 	3 	1 	not 	RB
+Amo 	5 	5 	1 	4 	1 	Bethel 	NN
+Amo 	5 	5 	1 	5 	0 	,
+Amo 	5 	5 	1 	6 	1 	nor 	CC
+Amo 	5 	5 	1 	7 	1 	enter 	NN
+Amo 	5 	5 	1 	8 	1 	into 	IN
+Amo 	5 	5 	1 	9 	1 	Gilgal 	NNP
+Amo 	5 	5 	1 	10 	0 	,
+Amo 	5 	5 	1 	11 	1 	and 	CC
+Amo 	5 	5 	1 	12 	1 	pass 	NN
+Amo 	5 	5 	1 	13 	1 	not 	RB
+Amo 	5 	5 	1 	14 	1 	to 	TO
+Amo 	5 	5 	1 	15 	1 	Beersheba 	NN
+Amo 	5 	5 	1 	16 	0 	:
+Amo 	5 	5 	1 	17 	1 	for 	IN
+Amo 	5 	5 	1 	18 	1 	Gilgal 	NNP
+Amo 	5 	5 	1 	19 	1 	shall 	MD
+Amo 	5 	5 	1 	20 	1 	surely 	RB
+Amo 	5 	5 	1 	21 	1 	go 	VB
+Amo 	5 	5 	1 	22 	1 	into 	IN
+Amo 	5 	5 	1 	23 	1 	captivity 	NN
+Amo 	5 	5 	1 	24 	0 	,
+Amo 	5 	5 	1 	25 	1 	and 	CC
+Amo 	5 	5 	1 	26 	1 	Bethel 	NN
+Amo 	5 	5 	1 	27 	1 	shall 	MD
+Amo 	5 	5 	1 	28 	1 	come 	VB
+Amo 	5 	5 	1 	29 	1 	to 	TO
+Amo 	5 	5 	1 	30 	1 	nought 	NN
+Amo 	5 	5 	1 	31 	0 	.
+Amo 	5 	6 	1 	1 	1 	Seek 	NN
+Amo 	5 	6 	1 	2 	1 	the 	DT
+Amo 	5 	6 	1 	3 	1 	LORD 	NN
+Amo 	5 	6 	1 	4 	0 	,
+Amo 	5 	6 	1 	5 	1 	and 	CC
+Amo 	5 	6 	1 	6 	1 	ye 	NN
+Amo 	5 	6 	1 	7 	1 	shall 	MD
+Amo 	5 	6 	1 	8 	1 	live 	JJ
+Amo 	5 	6 	1 	9 	0 	;
+Amo 	5 	6 	1 	10 	1 	lest 	JJS
+Amo 	5 	6 	1 	11 	1 	he 	PRP
+Amo 	5 	6 	1 	12 	1 	break 	NN
+Amo 	5 	6 	1 	13 	1 	out 	IN
+Amo 	5 	6 	1 	14 	1 	like 	IN
+Amo 	5 	6 	1 	15 	1 	fire 	NN
+Amo 	5 	6 	1 	16 	1 	in 	IN
+Amo 	5 	6 	1 	17 	1 	the 	DT
+Amo 	5 	6 	1 	18 	1 	house 	NN
+Amo 	5 	6 	1 	19 	1 	of 	IN
+Amo 	5 	6 	1 	20 	1 	Joseph 	NNP
+Amo 	5 	6 	1 	21 	0 	,
+Amo 	5 	6 	1 	22 	1 	and 	CC
+Amo 	5 	6 	1 	23 	1 	devour 	NN
+Amo 	5 	6 	1 	24 	1 	it 	PRP
+Amo 	5 	6 	1 	25 	0 	,
+Amo 	5 	6 	1 	26 	1 	and 	CC
+Amo 	5 	6 	1 	27 	1 	there 	RB
+Amo 	5 	6 	1 	28 	1 	be 	VB
+Amo 	5 	6 	1 	29 	1 	none 	NN
+Amo 	5 	6 	1 	30 	1 	to 	TO
+Amo 	5 	6 	1 	31 	1 	quench 	NN
+Amo 	5 	6 	1 	32 	1 	it 	PRP
+Amo 	5 	6 	1 	33 	1 	in 	IN
+Amo 	5 	6 	1 	34 	1 	Bethel 	NN
+Amo 	5 	6 	1 	35 	0 	.
+Amo 	5 	7 	1 	1 	1 	Ye 	NN
+Amo 	5 	7 	1 	2 	1 	who 	WP
+Amo 	5 	7 	1 	3 	1 	turn 	NN
+Amo 	5 	7 	1 	4 	1 	judgment 	NN
+Amo 	5 	7 	1 	5 	1 	to 	TO
+Amo 	5 	7 	1 	6 	1 	wormwood 	NN
+Amo 	5 	7 	1 	7 	0 	,
+Amo 	5 	7 	1 	8 	1 	and 	CC
+Amo 	5 	7 	1 	9 	1 	leave 	VB
+Amo 	5 	7 	1 	10 	1 	off 	IN
+Amo 	5 	7 	1 	11 	1 	righteousness 	NN
+Amo 	5 	7 	1 	12 	1 	in 	IN
+Amo 	5 	7 	1 	13 	1 	the 	DT
+Amo 	5 	7 	1 	14 	1 	earth 	NN
+Amo 	5 	7 	1 	15 	0 	,
+Amo 	5 	8 	1 	1 	1 	Seek 	NN
+Amo 	5 	8 	1 	2 	1 	him 	PRP
+Amo 	5 	8 	1 	3 	1 	that 	IN
+Amo 	5 	8 	1 	4 	1 	maketh 	NNS
+Amo 	5 	8 	1 	5 	1 	the 	DT
+Amo 	5 	8 	1 	6 	1 	seven 	CD
+Amo 	5 	8 	1 	7 	1 	stars 	NNS
+Amo 	5 	8 	1 	8 	1 	and 	CC
+Amo 	5 	8 	1 	9 	1 	Orion 	NN
+Amo 	5 	8 	1 	10 	0 	,
+Amo 	5 	8 	1 	11 	1 	and 	CC
+Amo 	5 	8 	1 	12 	1 	turneth 	NNS
+Amo 	5 	8 	1 	13 	1 	the 	DT
+Amo 	5 	8 	1 	14 	1 	shadow 	NN
+Amo 	5 	8 	1 	15 	1 	of 	IN
+Amo 	5 	8 	1 	16 	1 	death 	NN
+Amo 	5 	8 	1 	17 	1 	into 	IN
+Amo 	5 	8 	1 	18 	1 	the 	DT
+Amo 	5 	8 	1 	19 	1 	morning 	NN
+Amo 	5 	8 	1 	20 	0 	,
+Amo 	5 	8 	1 	21 	1 	and 	CC
+Amo 	5 	8 	1 	22 	1 	maketh 	NNS
+Amo 	5 	8 	1 	23 	1 	the 	DT
+Amo 	5 	8 	1 	24 	1 	day 	NN
+Amo 	5 	8 	1 	25 	1 	dark 	NN
+Amo 	5 	8 	1 	26 	1 	with 	IN
+Amo 	5 	8 	1 	27 	1 	night 	NN
+Amo 	5 	8 	1 	28 	0 	:
+Amo 	5 	8 	1 	29 	1 	that 	IN
+Amo 	5 	8 	1 	30 	1 	calleth 	NNS
+Amo 	5 	8 	1 	31 	1 	for 	IN
+Amo 	5 	8 	1 	32 	1 	the 	DT
+Amo 	5 	8 	1 	33 	1 	waters 	NNS
+Amo 	5 	8 	1 	34 	1 	of 	IN
+Amo 	5 	8 	1 	35 	1 	the 	DT
+Amo 	5 	8 	1 	36 	1 	sea 	NN
+Amo 	5 	8 	1 	37 	0 	,
+Amo 	5 	8 	1 	38 	1 	and 	CC
+Amo 	5 	8 	1 	39 	1 	poureth 	NN
+Amo 	5 	8 	1 	40 	1 	them 	PRP
+Amo 	5 	8 	1 	41 	1 	out 	IN
+Amo 	5 	8 	1 	42 	1 	upon 	IN
+Amo 	5 	8 	1 	43 	1 	the 	DT
+Amo 	5 	8 	1 	44 	1 	face 	NN
+Amo 	5 	8 	1 	45 	1 	of 	IN
+Amo 	5 	8 	1 	46 	1 	the 	DT
+Amo 	5 	8 	1 	47 	1 	earth 	NN
+Amo 	5 	8 	1 	48 	0 	:
+Amo 	5 	8 	1 	49 	1 	The 	DT
+Amo 	5 	8 	1 	50 	1 	LORD 	NN
+Amo 	5 	8 	1 	51 	1 	is 	VBZ
+Amo 	5 	8 	1 	52 	1 	his 	PRP$
+Amo 	5 	8 	1 	53 	1 	name 	NN
+Amo 	5 	8 	1 	54 	0 	:
+Amo 	5 	9 	1 	1 	1 	That 	DT
+Amo 	5 	9 	1 	2 	1 	strengtheneth 	NN
+Amo 	5 	9 	1 	3 	1 	the 	DT
+Amo 	5 	9 	1 	4 	1 	spoiled 	VBN
+Amo 	5 	9 	1 	5 	1 	against 	IN
+Amo 	5 	9 	1 	6 	1 	the 	DT
+Amo 	5 	9 	1 	7 	1 	strong 	JJ
+Amo 	5 	9 	1 	8 	0 	,
+Amo 	5 	9 	1 	9 	1 	so 	RB
+Amo 	5 	9 	1 	10 	1 	that 	IN
+Amo 	5 	9 	1 	11 	1 	the 	DT
+Amo 	5 	9 	1 	12 	1 	spoiled 	VBN
+Amo 	5 	9 	1 	13 	1 	shall 	MD
+Amo 	5 	9 	1 	14 	1 	come 	VB
+Amo 	5 	9 	1 	15 	1 	against 	IN
+Amo 	5 	9 	1 	16 	1 	the 	DT
+Amo 	5 	9 	1 	17 	1 	fortress 	NN
+Amo 	5 	9 	1 	18 	0 	.
+Amo 	5 	10 	1 	1 	1 	They 	PRP
+Amo 	5 	10 	1 	2 	1 	hate 	NN
+Amo 	5 	10 	1 	3 	1 	him 	PRP
+Amo 	5 	10 	1 	4 	1 	that 	IN
+Amo 	5 	10 	1 	5 	1 	rebuketh 	NN
+Amo 	5 	10 	1 	6 	1 	in 	IN
+Amo 	5 	10 	1 	7 	1 	the 	DT
+Amo 	5 	10 	1 	8 	1 	gate 	NN
+Amo 	5 	10 	1 	9 	0 	,
+Amo 	5 	10 	1 	10 	1 	and 	CC
+Amo 	5 	10 	1 	11 	1 	they 	PRP
+Amo 	5 	10 	1 	12 	1 	abhor 	NN
+Amo 	5 	10 	1 	13 	1 	him 	PRP
+Amo 	5 	10 	1 	14 	1 	that 	IN
+Amo 	5 	10 	1 	15 	1 	speaketh 	NN
+Amo 	5 	10 	1 	16 	1 	uprightly 	RB
+Amo 	5 	10 	1 	17 	0 	.
+Amo 	5 	11 	1 	1 	1 	Forasmuch 	JJ
+Amo 	5 	11 	1 	2 	1 	therefore 	RB
+Amo 	5 	11 	1 	3 	1 	as 	IN
+Amo 	5 	11 	1 	4 	1 	your 	PRP$
+Amo 	5 	11 	1 	5 	1 	treading 	VBG
+Amo 	5 	11 	1 	6 	1 	is 	VBZ
+Amo 	5 	11 	1 	7 	1 	upon 	IN
+Amo 	5 	11 	1 	8 	1 	the 	DT
+Amo 	5 	11 	1 	9 	1 	poor 	JJ
+Amo 	5 	11 	1 	10 	0 	,
+Amo 	5 	11 	1 	11 	1 	and 	CC
+Amo 	5 	11 	1 	12 	1 	ye 	NN
+Amo 	5 	11 	1 	13 	1 	take 	VB
+Amo 	5 	11 	1 	14 	1 	from 	IN
+Amo 	5 	11 	1 	15 	1 	him 	PRP
+Amo 	5 	11 	1 	16 	1 	burdens 	NNS
+Amo 	5 	11 	1 	17 	1 	of 	IN
+Amo 	5 	11 	1 	18 	1 	wheat 	NN
+Amo 	5 	11 	1 	19 	0 	:
+Amo 	5 	11 	1 	20 	1 	ye 	NN
+Amo 	5 	11 	1 	21 	1 	have 	VB
+Amo 	5 	11 	1 	22 	1 	built 	NN
+Amo 	5 	11 	1 	23 	1 	houses 	NNS
+Amo 	5 	11 	1 	24 	1 	of 	IN
+Amo 	5 	11 	1 	25 	1 	hewn 	NN
+Amo 	5 	11 	1 	26 	1 	stone 	NN
+Amo 	5 	11 	1 	27 	0 	,
+Amo 	5 	11 	1 	28 	1 	but 	CC
+Amo 	5 	11 	1 	29 	1 	ye 	NN
+Amo 	5 	11 	1 	30 	1 	shall 	MD
+Amo 	5 	11 	1 	31 	1 	not 	RB
+Amo 	5 	11 	1 	32 	1 	dwell 	NN
+Amo 	5 	11 	1 	33 	1 	in 	IN
+Amo 	5 	11 	1 	34 	1 	them 	PRP
+Amo 	5 	11 	1 	35 	0 	;
+Amo 	5 	11 	1 	36 	1 	ye 	NN
+Amo 	5 	11 	1 	37 	1 	have 	VB
+Amo 	5 	11 	1 	38 	1 	planted 	VBN
+Amo 	5 	11 	1 	39 	1 	pleasant 	NN
+Amo 	5 	11 	1 	40 	1 	vineyards 	NNS
+Amo 	5 	11 	1 	41 	0 	,
+Amo 	5 	11 	1 	42 	1 	but 	CC
+Amo 	5 	11 	1 	43 	1 	ye 	NN
+Amo 	5 	11 	1 	44 	1 	shall 	MD
+Amo 	5 	11 	1 	45 	1 	not 	RB
+Amo 	5 	11 	1 	46 	1 	drink 	NN
+Amo 	5 	11 	1 	47 	1 	wine 	NN
+Amo 	5 	11 	1 	48 	1 	of 	IN
+Amo 	5 	11 	1 	49 	1 	them 	PRP
+Amo 	5 	11 	1 	50 	0 	.
+Amo 	5 	12 	1 	1 	1 	For 	IN
+Amo 	5 	12 	1 	2 	1 	I 	PRP
+Amo 	5 	12 	1 	3 	1 	know 	VB
+Amo 	5 	12 	1 	4 	1 	your 	PRP$
+Amo 	5 	12 	1 	5 	1 	manifold 	NN
+Amo 	5 	12 	1 	6 	1 	transgressions 	NNS
+Amo 	5 	12 	1 	7 	1 	and 	CC
+Amo 	5 	12 	1 	8 	1 	your 	PRP$
+Amo 	5 	12 	1 	9 	1 	mighty 	NN
+Amo 	5 	12 	1 	10 	1 	sins 	NNS
+Amo 	5 	12 	1 	11 	0 	:
+Amo 	5 	12 	1 	12 	1 	they 	PRP
+Amo 	5 	12 	1 	13 	1 	afflict 	NN
+Amo 	5 	12 	1 	14 	1 	the 	DT
+Amo 	5 	12 	1 	15 	1 	just 	RB
+Amo 	5 	12 	1 	16 	0 	,
+Amo 	5 	12 	1 	17 	1 	they 	PRP
+Amo 	5 	12 	1 	18 	1 	take 	VB
+Amo 	5 	12 	1 	19 	1 	a 	DT
+Amo 	5 	12 	1 	20 	1 	bribe 	NN
+Amo 	5 	12 	1 	21 	0 	,
+Amo 	5 	12 	1 	22 	1 	and 	CC
+Amo 	5 	12 	1 	23 	1 	they 	PRP
+Amo 	5 	12 	1 	24 	1 	turn 	NN
+Amo 	5 	12 	1 	25 	1 	aside 	RB
+Amo 	5 	12 	1 	26 	1 	the 	DT
+Amo 	5 	12 	1 	27 	1 	poor 	JJ
+Amo 	5 	12 	1 	28 	1 	in 	IN
+Amo 	5 	12 	1 	29 	1 	the 	DT
+Amo 	5 	12 	1 	30 	1 	gate 	NN
+Amo 	5 	12 	1 	31 	1 	from 	IN
+Amo 	5 	12 	1 	32 	1 	their 	PRP$
+Amo 	5 	12 	1 	33 	1 	right 	NN
+Amo 	5 	12 	1 	34 	0 	.
+Amo 	5 	13 	1 	1 	1 	Therefore 	RB
+Amo 	5 	13 	1 	2 	1 	the 	DT
+Amo 	5 	13 	1 	3 	1 	prudent 	NN
+Amo 	5 	13 	1 	4 	1 	shall 	MD
+Amo 	5 	13 	1 	5 	1 	keep 	VB
+Amo 	5 	13 	1 	6 	1 	silence 	NN
+Amo 	5 	13 	1 	7 	1 	in 	IN
+Amo 	5 	13 	1 	8 	1 	that 	IN
+Amo 	5 	13 	1 	9 	1 	time 	NN
+Amo 	5 	13 	1 	10 	0 	;
+Amo 	5 	13 	1 	11 	1 	for 	IN
+Amo 	5 	13 	1 	12 	1 	it 	PRP
+Amo 	5 	13 	1 	13 	1 	is 	VBZ
+Amo 	5 	13 	1 	14 	1 	an 	DT
+Amo 	5 	13 	1 	15 	1 	evil 	NN
+Amo 	5 	13 	1 	16 	1 	time 	NN
+Amo 	5 	13 	1 	17 	0 	.
+Amo 	5 	14 	1 	1 	1 	Seek 	NN
+Amo 	5 	14 	1 	2 	1 	good 	JJ
+Amo 	5 	14 	1 	3 	0 	,
+Amo 	5 	14 	1 	4 	1 	and 	CC
+Amo 	5 	14 	1 	5 	1 	not 	RB
+Amo 	5 	14 	1 	6 	1 	evil 	NN
+Amo 	5 	14 	1 	7 	0 	,
+Amo 	5 	14 	1 	8 	1 	that 	IN
+Amo 	5 	14 	1 	9 	1 	ye 	NN
+Amo 	5 	14 	1 	10 	1 	may 	MD
+Amo 	5 	14 	1 	11 	1 	live 	JJ
+Amo 	5 	14 	1 	12 	0 	:
+Amo 	5 	14 	1 	13 	1 	and 	CC
+Amo 	5 	14 	1 	14 	1 	so 	RB
+Amo 	5 	14 	1 	15 	1 	the 	DT
+Amo 	5 	14 	1 	16 	1 	LORD 	NN
+Amo 	5 	14 	1 	17 	0 	,
+Amo 	5 	14 	1 	18 	1 	the 	DT
+Amo 	5 	14 	1 	19 	1 	God 	NNP
+Amo 	5 	14 	1 	20 	1 	of 	IN
+Amo 	5 	14 	1 	21 	1 	hosts 	NNS
+Amo 	5 	14 	1 	22 	0 	,
+Amo 	5 	14 	1 	23 	1 	shall 	MD
+Amo 	5 	14 	1 	24 	1 	be 	VB
+Amo 	5 	14 	1 	25 	1 	with 	IN
+Amo 	5 	14 	1 	26 	1 	you 	PRP
+Amo 	5 	14 	1 	27 	0 	,
+Amo 	5 	14 	1 	28 	1 	as 	IN
+Amo 	5 	14 	1 	29 	1 	ye 	NN
+Amo 	5 	14 	1 	30 	1 	have 	VB
+Amo 	5 	14 	1 	31 	1 	spoken 	NN
+Amo 	5 	14 	1 	32 	0 	.
+Amo 	5 	15 	1 	1 	1 	Hate 	NN
+Amo 	5 	15 	1 	2 	1 	the 	DT
+Amo 	5 	15 	1 	3 	1 	evil 	NN
+Amo 	5 	15 	1 	4 	0 	,
+Amo 	5 	15 	1 	5 	1 	and 	CC
+Amo 	5 	15 	1 	6 	1 	love 	NN
+Amo 	5 	15 	1 	7 	1 	the 	DT
+Amo 	5 	15 	1 	8 	1 	good 	JJ
+Amo 	5 	15 	1 	9 	0 	,
+Amo 	5 	15 	1 	10 	1 	and 	CC
+Amo 	5 	15 	1 	11 	1 	establish 	VB
+Amo 	5 	15 	1 	12 	1 	judgment 	NN
+Amo 	5 	15 	1 	13 	1 	in 	IN
+Amo 	5 	15 	1 	14 	1 	the 	DT
+Amo 	5 	15 	1 	15 	1 	gate 	NN
+Amo 	5 	15 	1 	16 	0 	:
+Amo 	5 	15 	1 	17 	1 	it 	PRP
+Amo 	5 	15 	1 	18 	1 	may 	MD
+Amo 	5 	15 	1 	19 	1 	be 	VB
+Amo 	5 	15 	1 	20 	1 	that 	IN
+Amo 	5 	15 	1 	21 	1 	the 	DT
+Amo 	5 	15 	1 	22 	1 	LORD 	NN
+Amo 	5 	15 	1 	23 	1 	God 	NNP
+Amo 	5 	15 	1 	24 	1 	of 	IN
+Amo 	5 	15 	1 	25 	1 	hosts 	NNS
+Amo 	5 	15 	1 	26 	1 	will 	MD
+Amo 	5 	15 	1 	27 	1 	be 	VB
+Amo 	5 	15 	1 	28 	1 	gracious 	JJ
+Amo 	5 	15 	1 	29 	1 	unto 	NN
+Amo 	5 	15 	1 	30 	1 	the 	DT
+Amo 	5 	15 	1 	31 	1 	remnant 	NN
+Amo 	5 	15 	1 	32 	1 	of 	IN
+Amo 	5 	15 	1 	33 	1 	Joseph 	NNP
+Amo 	5 	15 	1 	34 	0 	.
+Amo 	5 	16 	1 	1 	1 	Therefore 	RB
+Amo 	5 	16 	1 	2 	1 	the 	DT
+Amo 	5 	16 	1 	3 	1 	LORD 	NN
+Amo 	5 	16 	1 	4 	0 	,
+Amo 	5 	16 	1 	5 	1 	the 	DT
+Amo 	5 	16 	1 	6 	1 	God 	NNP
+Amo 	5 	16 	1 	7 	1 	of 	IN
+Amo 	5 	16 	1 	8 	1 	hosts 	NNS
+Amo 	5 	16 	1 	9 	0 	,
+Amo 	5 	16 	1 	10 	1 	the 	DT
+Amo 	5 	16 	1 	11 	1 	LORD 	NN
+Amo 	5 	16 	1 	12 	0 	,
+Amo 	5 	16 	1 	13 	1 	saith 	NN
+Amo 	5 	16 	1 	14 	1 	thus 	RB
+Amo 	5 	16 	1 	15 	0 	;
+Amo 	5 	16 	1 	16 	1 	Wailing 	VBG
+Amo 	5 	16 	1 	17 	1 	shall 	MD
+Amo 	5 	16 	1 	18 	1 	be 	VB
+Amo 	5 	16 	1 	19 	1 	in 	IN
+Amo 	5 	16 	1 	20 	1 	all 	DT
+Amo 	5 	16 	1 	21 	1 	streets 	NNS
+Amo 	5 	16 	1 	22 	0 	;
+Amo 	5 	16 	1 	23 	1 	and 	CC
+Amo 	5 	16 	1 	24 	1 	they 	PRP
+Amo 	5 	16 	1 	25 	1 	shall 	MD
+Amo 	5 	16 	1 	26 	1 	say 	VB
+Amo 	5 	16 	1 	27 	1 	in 	IN
+Amo 	5 	16 	1 	28 	1 	all 	DT
+Amo 	5 	16 	1 	29 	1 	the 	DT
+Amo 	5 	16 	1 	30 	1 	highways 	NNS
+Amo 	5 	16 	1 	31 	0 	,
+Amo 	5 	16 	1 	32 	1 	Alas 	NNS
+Amo 	5 	16 	1 	33 	0 	!
+Amo 	5 	16 	2 	1 	1 	alas 	NNS
+Amo 	5 	16 	2 	2 	0 	!
+Amo 	5 	16 	3 	1 	1 	and 	CC
+Amo 	5 	16 	3 	2 	1 	they 	PRP
+Amo 	5 	16 	3 	3 	1 	shall 	MD
+Amo 	5 	16 	3 	4 	1 	call 	NN
+Amo 	5 	16 	3 	5 	1 	the 	DT
+Amo 	5 	16 	3 	6 	1 	husbandman 	NN
+Amo 	5 	16 	3 	7 	1 	to 	TO
+Amo 	5 	16 	3 	8 	1 	mourning 	VBG
+Amo 	5 	16 	3 	9 	0 	,
+Amo 	5 	16 	3 	10 	1 	and 	CC
+Amo 	5 	16 	3 	11 	1 	such 	JJ
+Amo 	5 	16 	3 	12 	1 	as 	IN
+Amo 	5 	16 	3 	13 	1 	are 	VBP
+Amo 	5 	16 	3 	14 	1 	skilful 	NN
+Amo 	5 	16 	3 	15 	1 	of 	IN
+Amo 	5 	16 	3 	16 	1 	lamentation 	NN
+Amo 	5 	16 	3 	17 	1 	to 	TO
+Amo 	5 	16 	3 	18 	1 	wailing 	VBG
+Amo 	5 	16 	3 	19 	0 	.
+Amo 	5 	17 	1 	1 	1 	nd 	NN
+Amo 	5 	17 	1 	2 	1 	in 	IN
+Amo 	5 	17 	1 	3 	1 	all 	DT
+Amo 	5 	17 	1 	4 	1 	vineyards 	NNS
+Amo 	5 	17 	1 	5 	1 	shall 	MD
+Amo 	5 	17 	1 	6 	1 	be 	VB
+Amo 	5 	17 	1 	7 	1 	wailing 	VBG
+Amo 	5 	17 	1 	8 	0 	:
+Amo 	5 	17 	1 	9 	1 	for 	IN
+Amo 	5 	17 	1 	10 	1 	I 	PRP
+Amo 	5 	17 	1 	11 	1 	will 	MD
+Amo 	5 	17 	1 	12 	1 	pass 	NN
+Amo 	5 	17 	1 	13 	1 	through 	IN
+Amo 	5 	17 	1 	14 	1 	thee 	NN
+Amo 	5 	17 	1 	15 	0 	,
+Amo 	5 	17 	1 	16 	1 	saith 	NN
+Amo 	5 	17 	1 	17 	1 	the 	DT
+Amo 	5 	17 	1 	18 	1 	LORD 	NN
+Amo 	5 	17 	1 	19 	0 	.
+Amo 	5 	18 	1 	1 	1 	Woe 	NN
+Amo 	5 	18 	1 	2 	1 	unto 	NN
+Amo 	5 	18 	1 	3 	1 	you 	PRP
+Amo 	5 	18 	1 	4 	1 	that 	IN
+Amo 	5 	18 	1 	5 	1 	desire 	NN
+Amo 	5 	18 	1 	6 	1 	the 	DT
+Amo 	5 	18 	1 	7 	1 	day 	NN
+Amo 	5 	18 	1 	8 	1 	of 	IN
+Amo 	5 	18 	1 	9 	1 	the 	DT
+Amo 	5 	18 	1 	10 	1 	LORD 	NN
+Amo 	5 	18 	1 	11 	0 	!
+Amo 	5 	18 	2 	1 	1 	to 	TO
+Amo 	5 	18 	2 	2 	1 	what 	WP
+Amo 	5 	18 	2 	3 	1 	end 	NN
+Amo 	5 	18 	2 	4 	1 	is 	VBZ
+Amo 	5 	18 	2 	5 	1 	it 	PRP
+Amo 	5 	18 	2 	6 	1 	for 	IN
+Amo 	5 	18 	2 	7 	1 	you 	PRP
+Amo 	5 	18 	2 	8 	0 	?
+Amo 	5 	18 	3 	1 	1 	the 	DT
+Amo 	5 	18 	3 	2 	1 	day 	NN
+Amo 	5 	18 	3 	3 	1 	of 	IN
+Amo 	5 	18 	3 	4 	1 	the 	DT
+Amo 	5 	18 	3 	5 	1 	LORD 	NN
+Amo 	5 	18 	3 	6 	1 	is 	VBZ
+Amo 	5 	18 	3 	7 	1 	darkness 	NN
+Amo 	5 	18 	3 	8 	0 	,
+Amo 	5 	18 	3 	9 	1 	and 	CC
+Amo 	5 	18 	3 	10 	1 	not 	RB
+Amo 	5 	18 	3 	11 	1 	light 	NN
+Amo 	5 	18 	3 	12 	0 	.
+Amo 	5 	19 	1 	1 	1 	s 	NN
+Amo 	5 	19 	1 	2 	1 	if 	IN
+Amo 	5 	19 	1 	3 	1 	a 	DT
+Amo 	5 	19 	1 	4 	1 	man 	NN
+Amo 	5 	19 	1 	5 	1 	did 	VBD
+Amo 	5 	19 	1 	6 	1 	flee 	NN
+Amo 	5 	19 	1 	7 	1 	from 	IN
+Amo 	5 	19 	1 	8 	1 	a 	DT
+Amo 	5 	19 	1 	9 	1 	lion 	NN
+Amo 	5 	19 	1 	10 	0 	,
+Amo 	5 	19 	1 	11 	1 	and 	CC
+Amo 	5 	19 	1 	12 	1 	a 	DT
+Amo 	5 	19 	1 	13 	1 	bear 	NN
+Amo 	5 	19 	1 	14 	1 	met 	NN
+Amo 	5 	19 	1 	15 	1 	him 	PRP
+Amo 	5 	19 	1 	16 	0 	;
+Amo 	5 	19 	1 	17 	1 	or 	CC
+Amo 	5 	19 	1 	18 	1 	went 	VBD
+Amo 	5 	19 	1 	19 	1 	into 	IN
+Amo 	5 	19 	1 	20 	1 	the 	DT
+Amo 	5 	19 	1 	21 	1 	house 	NN
+Amo 	5 	19 	1 	22 	0 	,
+Amo 	5 	19 	1 	23 	1 	and 	CC
+Amo 	5 	19 	1 	24 	1 	leaned 	VBN
+Amo 	5 	19 	1 	25 	1 	his 	PRP$
+Amo 	5 	19 	1 	26 	1 	hand 	NN
+Amo 	5 	19 	1 	27 	1 	on 	IN
+Amo 	5 	19 	1 	28 	1 	the 	DT
+Amo 	5 	19 	1 	29 	1 	wall 	NN
+Amo 	5 	19 	1 	30 	0 	,
+Amo 	5 	19 	1 	31 	1 	and 	CC
+Amo 	5 	19 	1 	32 	1 	a 	DT
+Amo 	5 	19 	1 	33 	1 	serpent 	NN
+Amo 	5 	19 	1 	34 	1 	bit 	NN
+Amo 	5 	19 	1 	35 	1 	him 	PRP
+Amo 	5 	19 	1 	36 	0 	.
+Amo 	5 	20 	1 	1 	1 	Shall 	NN
+Amo 	5 	20 	1 	2 	1 	not 	RB
+Amo 	5 	20 	1 	3 	1 	the 	DT
+Amo 	5 	20 	1 	4 	1 	day 	NN
+Amo 	5 	20 	1 	5 	1 	of 	IN
+Amo 	5 	20 	1 	6 	1 	the 	DT
+Amo 	5 	20 	1 	7 	1 	LORD 	NN
+Amo 	5 	20 	1 	8 	1 	be 	VB
+Amo 	5 	20 	1 	9 	1 	darkness 	NN
+Amo 	5 	20 	1 	10 	0 	,
+Amo 	5 	20 	1 	11 	1 	and 	CC
+Amo 	5 	20 	1 	12 	1 	not 	RB
+Amo 	5 	20 	1 	13 	1 	light 	NN
+Amo 	5 	20 	1 	14 	0 	?
+Amo 	5 	20 	2 	1 	1 	even 	RB
+Amo 	5 	20 	2 	2 	1 	very 	RB
+Amo 	5 	20 	2 	3 	1 	dark 	NN
+Amo 	5 	20 	2 	4 	0 	,
+Amo 	5 	20 	2 	5 	1 	and 	CC
+Amo 	5 	20 	2 	6 	1 	no 	DT
+Amo 	5 	20 	2 	7 	1 	brightness 	NN
+Amo 	5 	20 	2 	8 	1 	in 	IN
+Amo 	5 	20 	2 	9 	1 	it 	PRP
+Amo 	5 	20 	2 	10 	0 	?
+Amo 	5 	21 	1 	1 	1 	I 	PRP
+Amo 	5 	21 	1 	2 	1 	hate 	NN
+Amo 	5 	21 	1 	3 	0 	,
+Amo 	5 	21 	1 	4 	1 	I 	PRP
+Amo 	5 	21 	1 	5 	1 	despise 	NN
+Amo 	5 	21 	1 	6 	1 	your 	PRP$
+Amo 	5 	21 	1 	7 	1 	feast 	NN
+Amo 	5 	21 	1 	8 	1 	days 	NNS
+Amo 	5 	21 	1 	9 	0 	,
+Amo 	5 	21 	1 	10 	1 	and 	CC
+Amo 	5 	21 	1 	11 	1 	I 	PRP
+Amo 	5 	21 	1 	12 	1 	will 	MD
+Amo 	5 	21 	1 	13 	1 	not 	RB
+Amo 	5 	21 	1 	14 	1 	smell 	NN
+Amo 	5 	21 	1 	15 	1 	in 	IN
+Amo 	5 	21 	1 	16 	1 	your 	PRP$
+Amo 	5 	21 	1 	17 	1 	solemn 	NN
+Amo 	5 	21 	1 	18 	1 	assemblies 	NNS
+Amo 	5 	21 	1 	19 	0 	.
+Amo 	5 	22 	1 	1 	1 	Though 	IN
+Amo 	5 	22 	1 	2 	1 	ye 	NN
+Amo 	5 	22 	1 	3 	1 	offer 	NN
+Amo 	5 	22 	1 	4 	1 	me 	PRP
+Amo 	5 	22 	1 	5 	1 	burnt 	NN
+Amo 	5 	22 	1 	6 	1 	offerings 	NNS
+Amo 	5 	22 	1 	7 	1 	and 	CC
+Amo 	5 	22 	1 	8 	1 	your 	PRP$
+Amo 	5 	22 	1 	9 	1 	meat 	NN
+Amo 	5 	22 	1 	10 	1 	offerings 	NNS
+Amo 	5 	22 	1 	11 	0 	,
+Amo 	5 	22 	1 	12 	1 	I 	PRP
+Amo 	5 	22 	1 	13 	1 	will 	MD
+Amo 	5 	22 	1 	14 	1 	not 	RB
+Amo 	5 	22 	1 	15 	1 	accept 	NN
+Amo 	5 	22 	1 	16 	1 	them 	PRP
+Amo 	5 	22 	1 	17 	0 	:
+Amo 	5 	22 	1 	18 	1 	neither 	DT
+Amo 	5 	22 	1 	19 	1 	will 	MD
+Amo 	5 	22 	1 	20 	1 	I 	PRP
+Amo 	5 	22 	1 	21 	1 	regard 	NN
+Amo 	5 	22 	1 	22 	1 	the 	DT
+Amo 	5 	22 	1 	23 	1 	peace 	NN
+Amo 	5 	22 	1 	24 	1 	offerings 	NNS
+Amo 	5 	22 	1 	25 	1 	of 	IN
+Amo 	5 	22 	1 	26 	1 	your 	PRP$
+Amo 	5 	22 	1 	27 	1 	fat 	NN
+Amo 	5 	22 	1 	28 	1 	beasts 	NNS
+Amo 	5 	22 	1 	29 	0 	.
+Amo 	5 	23 	1 	1 	1 	Take 	VB
+Amo 	5 	23 	1 	2 	1 	thou 	NN
+Amo 	5 	23 	1 	3 	1 	away 	RB
+Amo 	5 	23 	1 	4 	1 	from 	IN
+Amo 	5 	23 	1 	5 	1 	me 	PRP
+Amo 	5 	23 	1 	6 	1 	the 	DT
+Amo 	5 	23 	1 	7 	1 	noise 	NN
+Amo 	5 	23 	1 	8 	1 	of 	IN
+Amo 	5 	23 	1 	9 	1 	thy 	NN
+Amo 	5 	23 	1 	10 	1 	songs 	NNS
+Amo 	5 	23 	1 	11 	0 	;
+Amo 	5 	23 	1 	12 	1 	for 	IN
+Amo 	5 	23 	1 	13 	1 	I 	PRP
+Amo 	5 	23 	1 	14 	1 	will 	MD
+Amo 	5 	23 	1 	15 	1 	not 	RB
+Amo 	5 	23 	1 	16 	1 	hear 	NN
+Amo 	5 	23 	1 	17 	1 	the 	DT
+Amo 	5 	23 	1 	18 	1 	melody 	NN
+Amo 	5 	23 	1 	19 	1 	of 	IN
+Amo 	5 	23 	1 	20 	1 	thy 	NN
+Amo 	5 	23 	1 	21 	1 	viols 	NNS
+Amo 	5 	23 	1 	22 	0 	.
+Amo 	5 	24 	1 	1 	1 	But 	CC
+Amo 	5 	24 	1 	2 	1 	let 	VB
+Amo 	5 	24 	1 	3 	1 	judgment 	NN
+Amo 	5 	24 	1 	4 	1 	run 	VB
+Amo 	5 	24 	1 	5 	1 	down 	RB
+Amo 	5 	24 	1 	6 	1 	as 	IN
+Amo 	5 	24 	1 	7 	1 	waters 	NNS
+Amo 	5 	24 	1 	8 	0 	,
+Amo 	5 	24 	1 	9 	1 	and 	CC
+Amo 	5 	24 	1 	10 	1 	righteousness 	NN
+Amo 	5 	24 	1 	11 	1 	as 	IN
+Amo 	5 	24 	1 	12 	1 	a 	DT
+Amo 	5 	24 	1 	13 	1 	mighty 	NN
+Amo 	5 	24 	1 	14 	1 	stream 	NN
+Amo 	5 	24 	1 	15 	0 	.
+Amo 	5 	25 	1 	1 	1 	Have 	VB
+Amo 	5 	25 	1 	2 	1 	ye 	NN
+Amo 	5 	25 	1 	3 	1 	offered 	VBN
+Amo 	5 	25 	1 	4 	1 	unto 	NN
+Amo 	5 	25 	1 	5 	1 	me 	PRP
+Amo 	5 	25 	1 	6 	1 	sacrifices 	NNS
+Amo 	5 	25 	1 	7 	1 	and 	CC
+Amo 	5 	25 	1 	8 	1 	offerings 	NNS
+Amo 	5 	25 	1 	9 	1 	in 	IN
+Amo 	5 	25 	1 	10 	1 	the 	DT
+Amo 	5 	25 	1 	11 	1 	wilderness 	NN
+Amo 	5 	25 	1 	12 	1 	forty 	NN
+Amo 	5 	25 	1 	13 	1 	years 	NNS
+Amo 	5 	25 	1 	14 	0 	,
+Amo 	5 	25 	1 	15 	1 	O 	NN
+Amo 	5 	25 	1 	16 	1 	house 	NN
+Amo 	5 	25 	1 	17 	1 	of 	IN
+Amo 	5 	25 	1 	18 	1 	Israel 	NNP
+Amo 	5 	25 	1 	19 	0 	?
+Amo 	5 	26 	1 	1 	1 	But 	CC
+Amo 	5 	26 	1 	2 	1 	ye 	NN
+Amo 	5 	26 	1 	3 	1 	have 	VB
+Amo 	5 	26 	1 	4 	1 	borne 	NN
+Amo 	5 	26 	1 	5 	1 	the 	DT
+Amo 	5 	26 	1 	6 	1 	tabernacle 	NN
+Amo 	5 	26 	1 	7 	1 	of 	IN
+Amo 	5 	26 	1 	8 	1 	your 	PRP$
+Amo 	5 	26 	1 	9 	1 	Moloch 	NN
+Amo 	5 	26 	1 	10 	1 	and 	CC
+Amo 	5 	26 	1 	11 	1 	Chiun 	NN
+Amo 	5 	26 	1 	12 	1 	your 	PRP$
+Amo 	5 	26 	1 	13 	1 	images 	NNS
+Amo 	5 	26 	1 	14 	0 	,
+Amo 	5 	26 	1 	15 	1 	the 	DT
+Amo 	5 	26 	1 	16 	1 	star 	NN
+Amo 	5 	26 	1 	17 	1 	of 	IN
+Amo 	5 	26 	1 	18 	1 	your 	PRP$
+Amo 	5 	26 	1 	19 	1 	god 	NN
+Amo 	5 	26 	1 	20 	0 	,
+Amo 	5 	26 	1 	21 	1 	which 	WDT
+Amo 	5 	26 	1 	22 	1 	ye 	NN
+Amo 	5 	26 	1 	23 	1 	made 	VBN
+Amo 	5 	26 	1 	24 	1 	to 	TO
+Amo 	5 	26 	1 	25 	1 	yourselves 	NNS
+Amo 	5 	26 	1 	26 	0 	.
+Amo 	5 	27 	1 	1 	1 	Therefore 	RB
+Amo 	5 	27 	1 	2 	1 	will 	MD
+Amo 	5 	27 	1 	3 	1 	I 	PRP
+Amo 	5 	27 	1 	4 	1 	cause 	NN
+Amo 	5 	27 	1 	5 	1 	you 	PRP
+Amo 	5 	27 	1 	6 	1 	to 	TO
+Amo 	5 	27 	1 	7 	1 	go 	VB
+Amo 	5 	27 	1 	8 	1 	into 	IN
+Amo 	5 	27 	1 	9 	1 	captivity 	NN
+Amo 	5 	27 	1 	10 	1 	beyond 	IN
+Amo 	5 	27 	1 	11 	1 	Damascus 	NN
+Amo 	5 	27 	1 	12 	0 	,
+Amo 	5 	27 	1 	13 	1 	saith 	NN
+Amo 	5 	27 	1 	14 	1 	the 	DT
+Amo 	5 	27 	1 	15 	1 	LORD 	NN
+Amo 	5 	27 	1 	16 	0 	,
+Amo 	5 	27 	1 	17 	1 	whose 	WP$
+Amo 	5 	27 	1 	18 	1 	name 	NN
+Amo 	5 	27 	1 	19 	1 	is 	VBZ
+Amo 	5 	27 	1 	20 	1 	The 	DT
+Amo 	5 	27 	1 	21 	1 	God 	NNP
+Amo 	5 	27 	1 	22 	1 	of 	IN
+Amo 	5 	27 	1 	23 	1 	hosts 	NNS
+Amo 	5 	27 	1 	24 	0 	.
+Amo 	6 	1 	1 	1 	1 	Woe 	NN
+Amo 	6 	1 	1 	2 	1 	to 	TO
+Amo 	6 	1 	1 	3 	1 	them 	PRP
+Amo 	6 	1 	1 	4 	1 	that 	IN
+Amo 	6 	1 	1 	5 	1 	are 	VBP
+Amo 	6 	1 	1 	6 	1 	at 	IN
+Amo 	6 	1 	1 	7 	1 	ease 	NN
+Amo 	6 	1 	1 	8 	1 	in 	IN
+Amo 	6 	1 	1 	9 	1 	Zion 	NN
+Amo 	6 	1 	1 	10 	0 	,
+Amo 	6 	1 	1 	11 	1 	and 	CC
+Amo 	6 	1 	1 	12 	1 	trust 	NN
+Amo 	6 	1 	1 	13 	1 	in 	IN
+Amo 	6 	1 	1 	14 	1 	the 	DT
+Amo 	6 	1 	1 	15 	1 	mountain 	NN
+Amo 	6 	1 	1 	16 	1 	of 	IN
+Amo 	6 	1 	1 	17 	1 	Samaria 	NNS
+Amo 	6 	1 	1 	18 	0 	,
+Amo 	6 	1 	1 	19 	1 	which 	WDT
+Amo 	6 	1 	1 	20 	1 	are 	VBP
+Amo 	6 	1 	1 	21 	1 	named 	VBN
+Amo 	6 	1 	1 	22 	1 	chief 	NN
+Amo 	6 	1 	1 	23 	1 	of 	IN
+Amo 	6 	1 	1 	24 	1 	the 	DT
+Amo 	6 	1 	1 	25 	1 	nations 	NNS
+Amo 	6 	1 	1 	26 	0 	,
+Amo 	6 	1 	1 	27 	1 	to 	TO
+Amo 	6 	1 	1 	28 	1 	whom 	WP
+Amo 	6 	1 	1 	29 	1 	the 	DT
+Amo 	6 	1 	1 	30 	1 	house 	NN
+Amo 	6 	1 	1 	31 	1 	of 	IN
+Amo 	6 	1 	1 	32 	1 	Israel 	NNP
+Amo 	6 	1 	1 	33 	1 	came 	VBD
+Amo 	6 	1 	1 	34 	0 	!
+Amo 	6 	2 	1 	1 	1 	Pass 	NN
+Amo 	6 	2 	1 	2 	1 	ye 	NN
+Amo 	6 	2 	1 	3 	1 	unto 	NN
+Amo 	6 	2 	1 	4 	1 	Calneh 	NN
+Amo 	6 	2 	1 	5 	0 	,
+Amo 	6 	2 	1 	6 	1 	and 	CC
+Amo 	6 	2 	1 	7 	1 	see 	VB
+Amo 	6 	2 	1 	8 	0 	;
+Amo 	6 	2 	1 	9 	1 	and 	CC
+Amo 	6 	2 	1 	10 	1 	from 	IN
+Amo 	6 	2 	1 	11 	1 	thence 	NN
+Amo 	6 	2 	1 	12 	1 	go 	VB
+Amo 	6 	2 	1 	13 	1 	ye 	NN
+Amo 	6 	2 	1 	14 	1 	to 	TO
+Amo 	6 	2 	1 	15 	1 	Hamath 	NN
+Amo 	6 	2 	1 	16 	1 	the 	DT
+Amo 	6 	2 	1 	17 	1 	great 	JJ
+Amo 	6 	2 	1 	18 	0 	:
+Amo 	6 	2 	1 	19 	1 	then 	RB
+Amo 	6 	2 	1 	20 	1 	go 	VB
+Amo 	6 	2 	1 	21 	1 	down 	RB
+Amo 	6 	2 	1 	22 	1 	to 	TO
+Amo 	6 	2 	1 	23 	1 	Gath 	NN
+Amo 	6 	2 	1 	24 	1 	of 	IN
+Amo 	6 	2 	1 	25 	1 	the 	DT
+Amo 	6 	2 	1 	26 	1 	Philistines 	NNS
+Amo 	6 	2 	1 	27 	0 	:
+Amo 	6 	2 	1 	28 	1 	be 	VB
+Amo 	6 	2 	1 	29 	1 	they 	PRP
+Amo 	6 	2 	1 	30 	1 	better 	RBR
+Amo 	6 	2 	1 	31 	1 	than 	IN
+Amo 	6 	2 	1 	32 	1 	these 	DT
+Amo 	6 	2 	1 	33 	1 	kingdoms 	NNS
+Amo 	6 	2 	1 	34 	0 	?
+Amo 	6 	2 	2 	1 	1 	or 	CC
+Amo 	6 	2 	2 	2 	1 	their 	PRP$
+Amo 	6 	2 	2 	3 	1 	border 	NN
+Amo 	6 	2 	2 	4 	1 	greater 	JJR
+Amo 	6 	2 	2 	5 	1 	than 	IN
+Amo 	6 	2 	2 	6 	1 	your 	PRP$
+Amo 	6 	2 	2 	7 	1 	border 	NN
+Amo 	6 	2 	2 	8 	0 	?
+Amo 	6 	3 	1 	1 	1 	Ye 	NN
+Amo 	6 	3 	1 	2 	1 	that 	IN
+Amo 	6 	3 	1 	3 	1 	put 	NN
+Amo 	6 	3 	1 	4 	1 	far 	RB
+Amo 	6 	3 	1 	5 	1 	away 	RB
+Amo 	6 	3 	1 	6 	1 	the 	DT
+Amo 	6 	3 	1 	7 	1 	evil 	NN
+Amo 	6 	3 	1 	8 	1 	day 	NN
+Amo 	6 	3 	1 	9 	0 	,
+Amo 	6 	3 	1 	10 	1 	and 	CC
+Amo 	6 	3 	1 	11 	1 	cause 	NN
+Amo 	6 	3 	1 	12 	1 	the 	DT
+Amo 	6 	3 	1 	13 	1 	seat 	NN
+Amo 	6 	3 	1 	14 	1 	of 	IN
+Amo 	6 	3 	1 	15 	1 	violence 	NN
+Amo 	6 	3 	1 	16 	1 	to 	TO
+Amo 	6 	3 	1 	17 	1 	come 	VB
+Amo 	6 	3 	1 	18 	1 	near 	IN
+Amo 	6 	3 	1 	19 	0 	;
+Amo 	6 	4 	1 	1 	1 	That 	DT
+Amo 	6 	4 	1 	2 	1 	lie 	NN
+Amo 	6 	4 	1 	3 	1 	upon 	IN
+Amo 	6 	4 	1 	4 	1 	beds 	NNS
+Amo 	6 	4 	1 	5 	1 	of 	IN
+Amo 	6 	4 	1 	6 	1 	ivory 	NN
+Amo 	6 	4 	1 	7 	0 	,
+Amo 	6 	4 	1 	8 	1 	and 	CC
+Amo 	6 	4 	1 	9 	1 	stretch 	NN
+Amo 	6 	4 	1 	10 	1 	themselves 	PRP
+Amo 	6 	4 	1 	11 	1 	upon 	IN
+Amo 	6 	4 	1 	12 	1 	their 	PRP$
+Amo 	6 	4 	1 	13 	1 	couches 	NNS
+Amo 	6 	4 	1 	14 	0 	,
+Amo 	6 	4 	1 	15 	1 	and 	CC
+Amo 	6 	4 	1 	16 	1 	eat 	NN
+Amo 	6 	4 	1 	17 	1 	the 	DT
+Amo 	6 	4 	1 	18 	1 	lambs 	NNS
+Amo 	6 	4 	1 	19 	1 	out 	IN
+Amo 	6 	4 	1 	20 	1 	of 	IN
+Amo 	6 	4 	1 	21 	1 	the 	DT
+Amo 	6 	4 	1 	22 	1 	flock 	NN
+Amo 	6 	4 	1 	23 	0 	,
+Amo 	6 	4 	1 	24 	1 	and 	CC
+Amo 	6 	4 	1 	25 	1 	the 	DT
+Amo 	6 	4 	1 	26 	1 	calves 	NNS
+Amo 	6 	4 	1 	27 	1 	out 	IN
+Amo 	6 	4 	1 	28 	1 	of 	IN
+Amo 	6 	4 	1 	29 	1 	the 	DT
+Amo 	6 	4 	1 	30 	1 	midst 	NN
+Amo 	6 	4 	1 	31 	1 	of 	IN
+Amo 	6 	4 	1 	32 	1 	the 	DT
+Amo 	6 	4 	1 	33 	1 	stall 	NN
+Amo 	6 	4 	1 	34 	0 	;
+Amo 	6 	5 	1 	1 	1 	That 	DT
+Amo 	6 	5 	1 	2 	1 	chant 	NN
+Amo 	6 	5 	1 	3 	1 	to 	TO
+Amo 	6 	5 	1 	4 	1 	the 	DT
+Amo 	6 	5 	1 	5 	1 	sound 	NN
+Amo 	6 	5 	1 	6 	1 	of 	IN
+Amo 	6 	5 	1 	7 	1 	the 	DT
+Amo 	6 	5 	1 	8 	1 	viol 	NN
+Amo 	6 	5 	1 	9 	0 	,
+Amo 	6 	5 	1 	10 	1 	and 	CC
+Amo 	6 	5 	1 	11 	1 	invent 	NN
+Amo 	6 	5 	1 	12 	1 	to 	TO
+Amo 	6 	5 	1 	13 	1 	themselves 	PRP
+Amo 	6 	5 	1 	14 	1 	instruments 	NNS
+Amo 	6 	5 	1 	15 	1 	of 	IN
+Amo 	6 	5 	1 	16 	1 	musick 	NN
+Amo 	6 	5 	1 	17 	0 	,
+Amo 	6 	5 	1 	18 	1 	like 	IN
+Amo 	6 	5 	1 	19 	1 	David 	NNP
+Amo 	6 	5 	1 	20 	0 	;
+Amo 	6 	6 	1 	1 	1 	That 	DT
+Amo 	6 	6 	1 	2 	1 	drink 	NN
+Amo 	6 	6 	1 	3 	1 	wine 	NN
+Amo 	6 	6 	1 	4 	1 	in 	IN
+Amo 	6 	6 	1 	5 	1 	bowls 	NN
+Amo 	6 	6 	1 	6 	0 	,
+Amo 	6 	6 	1 	7 	1 	and 	CC
+Amo 	6 	6 	1 	8 	1 	anoint 	NN
+Amo 	6 	6 	1 	9 	1 	themselves 	PRP
+Amo 	6 	6 	1 	10 	1 	with 	IN
+Amo 	6 	6 	1 	11 	1 	the 	DT
+Amo 	6 	6 	1 	12 	1 	chief 	NN
+Amo 	6 	6 	1 	13 	1 	ointments 	NNS
+Amo 	6 	6 	1 	14 	0 	:
+Amo 	6 	6 	1 	15 	1 	but 	CC
+Amo 	6 	6 	1 	16 	1 	they 	PRP
+Amo 	6 	6 	1 	17 	1 	are 	VBP
+Amo 	6 	6 	1 	18 	1 	not 	RB
+Amo 	6 	6 	1 	19 	1 	grieved 	VBN
+Amo 	6 	6 	1 	20 	1 	for 	IN
+Amo 	6 	6 	1 	21 	1 	the 	DT
+Amo 	6 	6 	1 	22 	1 	affliction 	NN
+Amo 	6 	6 	1 	23 	1 	of 	IN
+Amo 	6 	6 	1 	24 	1 	Joseph 	NNP
+Amo 	6 	6 	1 	25 	0 	.
+Amo 	6 	7 	1 	1 	1 	Therefore 	RB
+Amo 	6 	7 	1 	2 	1 	now 	RB
+Amo 	6 	7 	1 	3 	1 	shall 	MD
+Amo 	6 	7 	1 	4 	1 	they 	PRP
+Amo 	6 	7 	1 	5 	1 	go 	VB
+Amo 	6 	7 	1 	6 	1 	captive 	NN
+Amo 	6 	7 	1 	7 	1 	with 	IN
+Amo 	6 	7 	1 	8 	1 	the 	DT
+Amo 	6 	7 	1 	9 	1 	first 	RB
+Amo 	6 	7 	1 	10 	1 	that 	IN
+Amo 	6 	7 	1 	11 	1 	go 	VB
+Amo 	6 	7 	1 	12 	1 	captive 	NN
+Amo 	6 	7 	1 	13 	0 	,
+Amo 	6 	7 	1 	14 	1 	and 	CC
+Amo 	6 	7 	1 	15 	1 	the 	DT
+Amo 	6 	7 	1 	16 	1 	banquet 	NN
+Amo 	6 	7 	1 	17 	1 	of 	IN
+Amo 	6 	7 	1 	18 	1 	them 	PRP
+Amo 	6 	7 	1 	19 	1 	that 	IN
+Amo 	6 	7 	1 	20 	1 	stretched 	VBN
+Amo 	6 	7 	1 	21 	1 	themselves 	PRP
+Amo 	6 	7 	1 	22 	1 	shall 	MD
+Amo 	6 	7 	1 	23 	1 	be 	VB
+Amo 	6 	7 	1 	24 	1 	removed 	VBN
+Amo 	6 	7 	1 	25 	0 	.
+Amo 	6 	8 	1 	1 	1 	The 	DT
+Amo 	6 	8 	1 	2 	1 	Lord 	NN
+Amo 	6 	8 	1 	3 	1 	GOD 	NNP
+Amo 	6 	8 	1 	4 	1 	hath 	NN
+Amo 	6 	8 	1 	5 	1 	sworn 	NN
+Amo 	6 	8 	1 	6 	1 	by 	IN
+Amo 	6 	8 	1 	7 	1 	himself 	PRP
+Amo 	6 	8 	1 	8 	0 	,
+Amo 	6 	8 	1 	9 	1 	saith 	NN
+Amo 	6 	8 	1 	10 	1 	the 	DT
+Amo 	6 	8 	1 	11 	1 	LORD 	NN
+Amo 	6 	8 	1 	12 	1 	the 	DT
+Amo 	6 	8 	1 	13 	1 	God 	NNP
+Amo 	6 	8 	1 	14 	1 	of 	IN
+Amo 	6 	8 	1 	15 	1 	hosts 	NNS
+Amo 	6 	8 	1 	16 	0 	,
+Amo 	6 	8 	1 	17 	1 	I 	PRP
+Amo 	6 	8 	1 	18 	1 	abhor 	NN
+Amo 	6 	8 	1 	19 	1 	the 	DT
+Amo 	6 	8 	1 	20 	1 	excellency 	NN
+Amo 	6 	8 	1 	21 	1 	of 	IN
+Amo 	6 	8 	1 	22 	1 	Jacob 	NN
+Amo 	6 	8 	1 	23 	0 	,
+Amo 	6 	8 	1 	24 	1 	and 	CC
+Amo 	6 	8 	1 	25 	1 	hate 	NN
+Amo 	6 	8 	1 	26 	1 	his 	PRP$
+Amo 	6 	8 	1 	27 	1 	palaces 	NNS
+Amo 	6 	8 	1 	28 	0 	:
+Amo 	6 	8 	1 	29 	1 	therefore 	RB
+Amo 	6 	8 	1 	30 	1 	will 	MD
+Amo 	6 	8 	1 	31 	1 	I 	PRP
+Amo 	6 	8 	1 	32 	1 	deliver 	NN
+Amo 	6 	8 	1 	33 	1 	up 	RB
+Amo 	6 	8 	1 	34 	1 	the 	DT
+Amo 	6 	8 	1 	35 	1 	city 	NN
+Amo 	6 	8 	1 	36 	1 	with 	IN
+Amo 	6 	8 	1 	37 	1 	all 	DT
+Amo 	6 	8 	1 	38 	1 	that 	IN
+Amo 	6 	8 	1 	39 	1 	is 	VBZ
+Amo 	6 	8 	1 	40 	1 	therein 	NN
+Amo 	6 	8 	1 	41 	0 	.
+Amo 	6 	9 	1 	1 	1 	nd 	NN
+Amo 	6 	9 	1 	2 	1 	it 	PRP
+Amo 	6 	9 	1 	3 	1 	shall 	MD
+Amo 	6 	9 	1 	4 	1 	come 	VB
+Amo 	6 	9 	1 	5 	1 	to 	TO
+Amo 	6 	9 	1 	6 	1 	pass 	NN
+Amo 	6 	9 	1 	7 	0 	,
+Amo 	6 	9 	1 	8 	1 	if 	IN
+Amo 	6 	9 	1 	9 	1 	there 	RB
+Amo 	6 	9 	1 	10 	1 	remain 	NN
+Amo 	6 	9 	1 	11 	1 	ten 	NNS
+Amo 	6 	9 	1 	12 	1 	men 	NNS
+Amo 	6 	9 	1 	13 	1 	in 	IN
+Amo 	6 	9 	1 	14 	1 	one 	CD
+Amo 	6 	9 	1 	15 	1 	house 	NN
+Amo 	6 	9 	1 	16 	0 	,
+Amo 	6 	9 	1 	17 	1 	that 	IN
+Amo 	6 	9 	1 	18 	1 	they 	PRP
+Amo 	6 	9 	1 	19 	1 	shall 	MD
+Amo 	6 	9 	1 	20 	1 	die 	NN
+Amo 	6 	9 	1 	21 	0 	.
+Amo 	6 	10 	1 	1 	1 	nd 	NN
+Amo 	6 	10 	1 	2 	1 	a 	DT
+Amo 	6 	10 	1 	3 	1 	man 	NN
+Amo 	6 	10 	1 	4 	0 	's
+Amo 	6 	10 	1 	5 	1 	uncle 	NN
+Amo 	6 	10 	1 	6 	1 	shall 	MD
+Amo 	6 	10 	1 	7 	1 	take 	VB
+Amo 	6 	10 	1 	8 	1 	him 	PRP
+Amo 	6 	10 	1 	9 	1 	up 	RB
+Amo 	6 	10 	1 	10 	0 	,
+Amo 	6 	10 	1 	11 	1 	and 	CC
+Amo 	6 	10 	1 	12 	1 	he 	PRP
+Amo 	6 	10 	1 	13 	1 	that 	IN
+Amo 	6 	10 	1 	14 	1 	burneth 	NN
+Amo 	6 	10 	1 	15 	1 	him 	PRP
+Amo 	6 	10 	1 	16 	0 	,
+Amo 	6 	10 	1 	17 	1 	to 	TO
+Amo 	6 	10 	1 	18 	1 	bring 	NN
+Amo 	6 	10 	1 	19 	1 	out 	IN
+Amo 	6 	10 	1 	20 	1 	the 	DT
+Amo 	6 	10 	1 	21 	1 	bones 	NNS
+Amo 	6 	10 	1 	22 	1 	out 	IN
+Amo 	6 	10 	1 	23 	1 	of 	IN
+Amo 	6 	10 	1 	24 	1 	the 	DT
+Amo 	6 	10 	1 	25 	1 	house 	NN
+Amo 	6 	10 	1 	26 	0 	,
+Amo 	6 	10 	1 	27 	1 	and 	CC
+Amo 	6 	10 	1 	28 	1 	shall 	MD
+Amo 	6 	10 	1 	29 	1 	say 	VB
+Amo 	6 	10 	1 	30 	1 	unto 	NN
+Amo 	6 	10 	1 	31 	1 	him 	PRP
+Amo 	6 	10 	1 	32 	1 	that 	IN
+Amo 	6 	10 	1 	33 	1 	is 	VBZ
+Amo 	6 	10 	1 	34 	1 	by 	IN
+Amo 	6 	10 	1 	35 	1 	the 	DT
+Amo 	6 	10 	1 	36 	1 	sides 	NNS
+Amo 	6 	10 	1 	37 	1 	of 	IN
+Amo 	6 	10 	1 	38 	1 	the 	DT
+Amo 	6 	10 	1 	39 	1 	house 	NN
+Amo 	6 	10 	1 	40 	0 	,
+Amo 	6 	10 	1 	41 	1 	Is 	NN
+Amo 	6 	10 	1 	42 	1 	there 	RB
+Amo 	6 	10 	1 	43 	1 	yet 	RB
+Amo 	6 	10 	1 	44 	1 	any 	DT
+Amo 	6 	10 	1 	45 	1 	with 	IN
+Amo 	6 	10 	1 	46 	1 	thee 	NN
+Amo 	6 	10 	1 	47 	0 	?
+Amo 	6 	10 	2 	1 	1 	and 	CC
+Amo 	6 	10 	2 	2 	1 	he 	PRP
+Amo 	6 	10 	2 	3 	1 	shall 	MD
+Amo 	6 	10 	2 	4 	1 	say 	VB
+Amo 	6 	10 	2 	5 	0 	,
+Amo 	6 	10 	2 	6 	1 	No 	DT
+Amo 	6 	10 	2 	7 	0 	.
+Amo 	6 	10 	3 	1 	1 	Then 	RB
+Amo 	6 	10 	3 	2 	1 	shall 	MD
+Amo 	6 	10 	3 	3 	1 	he 	PRP
+Amo 	6 	10 	3 	4 	1 	say 	VB
+Amo 	6 	10 	3 	5 	0 	,
+Amo 	6 	10 	3 	6 	1 	Hold 	VB
+Amo 	6 	10 	3 	7 	1 	thy 	NN
+Amo 	6 	10 	3 	8 	1 	tongue 	NN
+Amo 	6 	10 	3 	9 	0 	:
+Amo 	6 	10 	3 	10 	1 	for 	IN
+Amo 	6 	10 	3 	11 	1 	we 	PRP
+Amo 	6 	10 	3 	12 	1 	may 	MD
+Amo 	6 	10 	3 	13 	1 	not 	RB
+Amo 	6 	10 	3 	14 	1 	make 	VB
+Amo 	6 	10 	3 	15 	1 	mention 	NN
+Amo 	6 	10 	3 	16 	1 	of 	IN
+Amo 	6 	10 	3 	17 	1 	the 	DT
+Amo 	6 	10 	3 	18 	1 	name 	NN
+Amo 	6 	10 	3 	19 	1 	of 	IN
+Amo 	6 	10 	3 	20 	1 	the 	DT
+Amo 	6 	10 	3 	21 	1 	LORD 	NN
+Amo 	6 	10 	3 	22 	0 	.
+Amo 	6 	11 	1 	1 	1 	For 	IN
+Amo 	6 	11 	1 	2 	0 	,
+Amo 	6 	11 	1 	3 	1 	behold 	NN
+Amo 	6 	11 	1 	4 	0 	,
+Amo 	6 	11 	1 	5 	1 	the 	DT
+Amo 	6 	11 	1 	6 	1 	LORD 	NN
+Amo 	6 	11 	1 	7 	1 	commandeth 	NNS
+Amo 	6 	11 	1 	8 	0 	,
+Amo 	6 	11 	1 	9 	1 	and 	CC
+Amo 	6 	11 	1 	10 	1 	he 	PRP
+Amo 	6 	11 	1 	11 	1 	will 	MD
+Amo 	6 	11 	1 	12 	1 	smite 	NN
+Amo 	6 	11 	1 	13 	1 	the 	DT
+Amo 	6 	11 	1 	14 	1 	great 	JJ
+Amo 	6 	11 	1 	15 	1 	house 	NN
+Amo 	6 	11 	1 	16 	1 	with 	IN
+Amo 	6 	11 	1 	17 	1 	breaches 	NNS
+Amo 	6 	11 	1 	18 	0 	,
+Amo 	6 	11 	1 	19 	1 	and 	CC
+Amo 	6 	11 	1 	20 	1 	the 	DT
+Amo 	6 	11 	1 	21 	1 	little 	JJ
+Amo 	6 	11 	1 	22 	1 	house 	NN
+Amo 	6 	11 	1 	23 	1 	with 	IN
+Amo 	6 	11 	1 	24 	1 	clefts 	NNS
+Amo 	6 	11 	1 	25 	0 	.
+Amo 	6 	12 	1 	1 	1 	Shall 	NN
+Amo 	6 	12 	1 	2 	1 	horses 	NNS
+Amo 	6 	12 	1 	3 	1 	run 	VB
+Amo 	6 	12 	1 	4 	1 	upon 	IN
+Amo 	6 	12 	1 	5 	1 	the 	DT
+Amo 	6 	12 	1 	6 	1 	rock 	NN
+Amo 	6 	12 	1 	7 	0 	?
+Amo 	6 	12 	2 	1 	1 	will 	MD
+Amo 	6 	12 	2 	2 	1 	one 	CD
+Amo 	6 	12 	2 	3 	1 	plow 	NN
+Amo 	6 	12 	2 	4 	1 	there 	RB
+Amo 	6 	12 	2 	5 	1 	with 	IN
+Amo 	6 	12 	2 	6 	1 	oxen 	NN
+Amo 	6 	12 	2 	7 	0 	?
+Amo 	6 	12 	3 	1 	1 	for 	IN
+Amo 	6 	12 	3 	2 	1 	ye 	NN
+Amo 	6 	12 	3 	3 	1 	have 	VB
+Amo 	6 	12 	3 	4 	1 	turned 	VBD
+Amo 	6 	12 	3 	5 	1 	judgment 	NN
+Amo 	6 	12 	3 	6 	1 	into 	IN
+Amo 	6 	12 	3 	7 	1 	gall 	NN
+Amo 	6 	12 	3 	8 	0 	,
+Amo 	6 	12 	3 	9 	1 	and 	CC
+Amo 	6 	12 	3 	10 	1 	the 	DT
+Amo 	6 	12 	3 	11 	1 	fruit 	NN
+Amo 	6 	12 	3 	12 	1 	of 	IN
+Amo 	6 	12 	3 	13 	1 	righteousness 	NN
+Amo 	6 	12 	3 	14 	1 	into 	IN
+Amo 	6 	12 	3 	15 	1 	hemlock 	NN
+Amo 	6 	12 	3 	16 	0 	:
+Amo 	6 	13 	1 	1 	1 	Ye 	NN
+Amo 	6 	13 	1 	2 	1 	which 	WDT
+Amo 	6 	13 	1 	3 	1 	rejoice 	NN
+Amo 	6 	13 	1 	4 	1 	in 	IN
+Amo 	6 	13 	1 	5 	1 	a 	DT
+Amo 	6 	13 	1 	6 	1 	thing 	NN
+Amo 	6 	13 	1 	7 	1 	of 	IN
+Amo 	6 	13 	1 	8 	1 	nought 	NN
+Amo 	6 	13 	1 	9 	0 	,
+Amo 	6 	13 	1 	10 	1 	which 	WDT
+Amo 	6 	13 	1 	11 	1 	say 	VB
+Amo 	6 	13 	1 	12 	0 	,
+Amo 	6 	13 	1 	13 	1 	Have 	VB
+Amo 	6 	13 	1 	14 	1 	we 	PRP
+Amo 	6 	13 	1 	15 	1 	not 	RB
+Amo 	6 	13 	1 	16 	1 	taken 	VBN
+Amo 	6 	13 	1 	17 	1 	to 	TO
+Amo 	6 	13 	1 	18 	1 	us 	PRP
+Amo 	6 	13 	1 	19 	1 	horns 	NNS
+Amo 	6 	13 	1 	20 	1 	by 	IN
+Amo 	6 	13 	1 	21 	1 	our 	PRP$
+Amo 	6 	13 	1 	22 	1 	own 	JJ
+Amo 	6 	13 	1 	23 	1 	strength 	NN
+Amo 	6 	13 	1 	24 	0 	?
+Amo 	6 	14 	1 	1 	1 	But 	CC
+Amo 	6 	14 	1 	2 	0 	,
+Amo 	6 	14 	1 	3 	1 	behold 	NN
+Amo 	6 	14 	1 	4 	0 	,
+Amo 	6 	14 	1 	5 	1 	I 	PRP
+Amo 	6 	14 	1 	6 	1 	will 	MD
+Amo 	6 	14 	1 	7 	1 	raise 	NN
+Amo 	6 	14 	1 	8 	1 	up 	RB
+Amo 	6 	14 	1 	9 	1 	against 	IN
+Amo 	6 	14 	1 	10 	1 	you 	PRP
+Amo 	6 	14 	1 	11 	1 	a 	DT
+Amo 	6 	14 	1 	12 	1 	nation 	NN
+Amo 	6 	14 	1 	13 	0 	,
+Amo 	6 	14 	1 	14 	1 	O 	NN
+Amo 	6 	14 	1 	15 	1 	house 	NN
+Amo 	6 	14 	1 	16 	1 	of 	IN
+Amo 	6 	14 	1 	17 	1 	Israel 	NNP
+Amo 	6 	14 	1 	18 	0 	,
+Amo 	6 	14 	1 	19 	1 	saith 	NN
+Amo 	6 	14 	1 	20 	1 	the 	DT
+Amo 	6 	14 	1 	21 	1 	LORD 	NN
+Amo 	6 	14 	1 	22 	1 	the 	DT
+Amo 	6 	14 	1 	23 	1 	God 	NNP
+Amo 	6 	14 	1 	24 	1 	of 	IN
+Amo 	6 	14 	1 	25 	1 	hosts 	NNS
+Amo 	6 	14 	1 	26 	0 	;
+Amo 	6 	14 	1 	27 	1 	and 	CC
+Amo 	6 	14 	1 	28 	1 	they 	PRP
+Amo 	6 	14 	1 	29 	1 	shall 	MD
+Amo 	6 	14 	1 	30 	1 	afflict 	NN
+Amo 	6 	14 	1 	31 	1 	you 	PRP
+Amo 	6 	14 	1 	32 	1 	from 	IN
+Amo 	6 	14 	1 	33 	1 	the 	DT
+Amo 	6 	14 	1 	34 	1 	entering 	VBG
+Amo 	6 	14 	1 	35 	1 	in 	IN
+Amo 	6 	14 	1 	36 	1 	of 	IN
+Amo 	6 	14 	1 	37 	1 	Hemath 	NN
+Amo 	6 	14 	1 	38 	1 	unto 	NN
+Amo 	6 	14 	1 	39 	1 	the 	DT
+Amo 	6 	14 	1 	40 	1 	river 	NN
+Amo 	6 	14 	1 	41 	1 	of 	IN
+Amo 	6 	14 	1 	42 	1 	the 	DT
+Amo 	6 	14 	1 	43 	1 	wilderness 	NN
+Amo 	6 	14 	1 	44 	0 	.
+Amo 	7 	1 	1 	1 	1 	Thus 	RB
+Amo 	7 	1 	1 	2 	1 	hath 	NN
+Amo 	7 	1 	1 	3 	1 	the 	DT
+Amo 	7 	1 	1 	4 	1 	Lord 	NN
+Amo 	7 	1 	1 	5 	1 	GOD 	NNP
+Amo 	7 	1 	1 	6 	1 	shewed 	VBN
+Amo 	7 	1 	1 	7 	1 	unto 	NN
+Amo 	7 	1 	1 	8 	1 	me 	PRP
+Amo 	7 	1 	1 	9 	0 	;
+Amo 	7 	1 	1 	10 	1 	and 	CC
+Amo 	7 	1 	1 	11 	0 	,
+Amo 	7 	1 	1 	12 	1 	behold 	NN
+Amo 	7 	1 	1 	13 	0 	,
+Amo 	7 	1 	1 	14 	1 	he 	PRP
+Amo 	7 	1 	1 	15 	1 	formed 	VBN
+Amo 	7 	1 	1 	16 	1 	grasshoppers 	NNS
+Amo 	7 	1 	1 	17 	1 	in 	IN
+Amo 	7 	1 	1 	18 	1 	the 	DT
+Amo 	7 	1 	1 	19 	1 	beginning 	VBG
+Amo 	7 	1 	1 	20 	1 	of 	IN
+Amo 	7 	1 	1 	21 	1 	the 	DT
+Amo 	7 	1 	1 	22 	1 	shooting 	VBG
+Amo 	7 	1 	1 	23 	1 	up 	RB
+Amo 	7 	1 	1 	24 	1 	of 	IN
+Amo 	7 	1 	1 	25 	1 	the 	DT
+Amo 	7 	1 	1 	26 	1 	latter 	NN
+Amo 	7 	1 	1 	27 	1 	growth 	NN
+Amo 	7 	1 	1 	28 	0 	;
+Amo 	7 	1 	1 	29 	1 	and 	CC
+Amo 	7 	1 	1 	30 	0 	,
+Amo 	7 	1 	1 	31 	1 	lo 	NN
+Amo 	7 	1 	1 	32 	0 	,
+Amo 	7 	1 	1 	33 	1 	it 	PRP
+Amo 	7 	1 	1 	34 	1 	was 	VBD
+Amo 	7 	1 	1 	35 	1 	the 	DT
+Amo 	7 	1 	1 	36 	1 	latter 	NN
+Amo 	7 	1 	1 	37 	1 	growth 	NN
+Amo 	7 	1 	1 	38 	1 	after 	IN
+Amo 	7 	1 	1 	39 	1 	the 	DT
+Amo 	7 	1 	1 	40 	1 	king 	NN
+Amo 	7 	1 	1 	41 	0 	's
+Amo 	7 	1 	1 	42 	1 	mowings 	NNS
+Amo 	7 	1 	1 	43 	0 	.
+Amo 	7 	2 	1 	1 	1 	nd 	NN
+Amo 	7 	2 	1 	2 	1 	it 	PRP
+Amo 	7 	2 	1 	3 	1 	came 	VBD
+Amo 	7 	2 	1 	4 	1 	to 	TO
+Amo 	7 	2 	1 	5 	1 	pass 	NN
+Amo 	7 	2 	1 	6 	0 	,
+Amo 	7 	2 	1 	7 	1 	that 	IN
+Amo 	7 	2 	1 	8 	1 	when 	WRB
+Amo 	7 	2 	1 	9 	1 	they 	PRP
+Amo 	7 	2 	1 	10 	1 	had 	VBD
+Amo 	7 	2 	1 	11 	1 	made 	VBN
+Amo 	7 	2 	1 	12 	1 	an 	DT
+Amo 	7 	2 	1 	13 	1 	end 	NN
+Amo 	7 	2 	1 	14 	1 	of 	IN
+Amo 	7 	2 	1 	15 	1 	eating 	VBG
+Amo 	7 	2 	1 	16 	1 	the 	DT
+Amo 	7 	2 	1 	17 	1 	grass 	NN
+Amo 	7 	2 	1 	18 	1 	of 	IN
+Amo 	7 	2 	1 	19 	1 	the 	DT
+Amo 	7 	2 	1 	20 	1 	land 	NN
+Amo 	7 	2 	1 	21 	0 	,
+Amo 	7 	2 	1 	22 	1 	then 	RB
+Amo 	7 	2 	1 	23 	1 	I 	PRP
+Amo 	7 	2 	1 	24 	1 	said 	VBD
+Amo 	7 	2 	1 	25 	0 	,
+Amo 	7 	2 	1 	26 	1 	O 	NN
+Amo 	7 	2 	1 	27 	1 	Lord 	NN
+Amo 	7 	2 	1 	28 	1 	GOD 	NNP
+Amo 	7 	2 	1 	29 	0 	,
+Amo 	7 	2 	1 	30 	1 	forgive 	JJ
+Amo 	7 	2 	1 	31 	0 	,
+Amo 	7 	2 	1 	32 	1 	I 	PRP
+Amo 	7 	2 	1 	33 	1 	beseech 	NN
+Amo 	7 	2 	1 	34 	1 	thee 	NN
+Amo 	7 	2 	1 	35 	0 	:
+Amo 	7 	2 	1 	36 	1 	by 	IN
+Amo 	7 	2 	1 	37 	1 	whom 	WP
+Amo 	7 	2 	1 	38 	1 	shall 	MD
+Amo 	7 	2 	1 	39 	1 	Jacob 	NN
+Amo 	7 	2 	1 	40 	1 	arise 	NN
+Amo 	7 	2 	1 	41 	0 	?
+Amo 	7 	2 	2 	1 	1 	for 	IN
+Amo 	7 	2 	2 	2 	1 	he 	PRP
+Amo 	7 	2 	2 	3 	1 	is 	VBZ
+Amo 	7 	2 	2 	4 	1 	small 	JJ
+Amo 	7 	2 	2 	5 	0 	.
+Amo 	7 	3 	1 	1 	1 	The 	DT
+Amo 	7 	3 	1 	2 	1 	LORD 	NN
+Amo 	7 	3 	1 	3 	1 	repented 	VBN
+Amo 	7 	3 	1 	4 	1 	for 	IN
+Amo 	7 	3 	1 	5 	1 	this 	DT
+Amo 	7 	3 	1 	6 	0 	:
+Amo 	7 	3 	1 	7 	1 	It 	PRP
+Amo 	7 	3 	1 	8 	1 	shall 	MD
+Amo 	7 	3 	1 	9 	1 	not 	RB
+Amo 	7 	3 	1 	10 	1 	be 	VB
+Amo 	7 	3 	1 	11 	0 	,
+Amo 	7 	3 	1 	12 	1 	saith 	NN
+Amo 	7 	3 	1 	13 	1 	the 	DT
+Amo 	7 	3 	1 	14 	1 	LORD 	NN
+Amo 	7 	3 	1 	15 	0 	.
+Amo 	7 	4 	1 	1 	1 	Thus 	RB
+Amo 	7 	4 	1 	2 	1 	hath 	NN
+Amo 	7 	4 	1 	3 	1 	the 	DT
+Amo 	7 	4 	1 	4 	1 	Lord 	NN
+Amo 	7 	4 	1 	5 	1 	GOD 	NNP
+Amo 	7 	4 	1 	6 	1 	shewed 	VBN
+Amo 	7 	4 	1 	7 	1 	unto 	NN
+Amo 	7 	4 	1 	8 	1 	me 	PRP
+Amo 	7 	4 	1 	9 	0 	:
+Amo 	7 	4 	1 	10 	1 	and 	CC
+Amo 	7 	4 	1 	11 	0 	,
+Amo 	7 	4 	1 	12 	1 	behold 	NN
+Amo 	7 	4 	1 	13 	0 	,
+Amo 	7 	4 	1 	14 	1 	the 	DT
+Amo 	7 	4 	1 	15 	1 	Lord 	NN
+Amo 	7 	4 	1 	16 	1 	GOD 	NNP
+Amo 	7 	4 	1 	17 	1 	called 	VBN
+Amo 	7 	4 	1 	18 	1 	to 	TO
+Amo 	7 	4 	1 	19 	1 	contend 	NN
+Amo 	7 	4 	1 	20 	1 	by 	IN
+Amo 	7 	4 	1 	21 	1 	fire 	NN
+Amo 	7 	4 	1 	22 	0 	,
+Amo 	7 	4 	1 	23 	1 	and 	CC
+Amo 	7 	4 	1 	24 	1 	it 	PRP
+Amo 	7 	4 	1 	25 	1 	devoured 	VBN
+Amo 	7 	4 	1 	26 	1 	the 	DT
+Amo 	7 	4 	1 	27 	1 	great 	JJ
+Amo 	7 	4 	1 	28 	1 	deep 	NN
+Amo 	7 	4 	1 	29 	0 	,
+Amo 	7 	4 	1 	30 	1 	and 	CC
+Amo 	7 	4 	1 	31 	1 	did 	VBD
+Amo 	7 	4 	1 	32 	1 	eat 	NN
+Amo 	7 	4 	1 	33 	1 	up 	RB
+Amo 	7 	4 	1 	34 	1 	a 	DT
+Amo 	7 	4 	1 	35 	1 	part 	NN
+Amo 	7 	4 	1 	36 	0 	.
+Amo 	7 	5 	1 	1 	1 	Then 	RB
+Amo 	7 	5 	1 	2 	1 	said 	VBD
+Amo 	7 	5 	1 	3 	1 	I 	PRP
+Amo 	7 	5 	1 	4 	0 	,
+Amo 	7 	5 	1 	5 	1 	O 	NN
+Amo 	7 	5 	1 	6 	1 	Lord 	NN
+Amo 	7 	5 	1 	7 	1 	GOD 	NNP
+Amo 	7 	5 	1 	8 	0 	,
+Amo 	7 	5 	1 	9 	1 	cease 	NN
+Amo 	7 	5 	1 	10 	0 	,
+Amo 	7 	5 	1 	11 	1 	I 	PRP
+Amo 	7 	5 	1 	12 	1 	beseech 	NN
+Amo 	7 	5 	1 	13 	1 	thee 	NN
+Amo 	7 	5 	1 	14 	0 	:
+Amo 	7 	5 	1 	15 	1 	by 	IN
+Amo 	7 	5 	1 	16 	1 	whom 	WP
+Amo 	7 	5 	1 	17 	1 	shall 	MD
+Amo 	7 	5 	1 	18 	1 	Jacob 	NN
+Amo 	7 	5 	1 	19 	1 	arise 	NN
+Amo 	7 	5 	1 	20 	0 	?
+Amo 	7 	5 	2 	1 	1 	for 	IN
+Amo 	7 	5 	2 	2 	1 	he 	PRP
+Amo 	7 	5 	2 	3 	1 	is 	VBZ
+Amo 	7 	5 	2 	4 	1 	small 	JJ
+Amo 	7 	5 	2 	5 	0 	.
+Amo 	7 	6 	1 	1 	1 	The 	DT
+Amo 	7 	6 	1 	2 	1 	LORD 	NN
+Amo 	7 	6 	1 	3 	1 	repented 	VBN
+Amo 	7 	6 	1 	4 	1 	for 	IN
+Amo 	7 	6 	1 	5 	1 	this 	DT
+Amo 	7 	6 	1 	6 	0 	:
+Amo 	7 	6 	1 	7 	1 	This 	DT
+Amo 	7 	6 	1 	8 	1 	also 	RB
+Amo 	7 	6 	1 	9 	1 	shall 	MD
+Amo 	7 	6 	1 	10 	1 	not 	RB
+Amo 	7 	6 	1 	11 	1 	be 	VB
+Amo 	7 	6 	1 	12 	0 	,
+Amo 	7 	6 	1 	13 	1 	saith 	NN
+Amo 	7 	6 	1 	14 	1 	the 	DT
+Amo 	7 	6 	1 	15 	1 	Lord 	NN
+Amo 	7 	6 	1 	16 	1 	GOD 	NNP
+Amo 	7 	6 	1 	17 	0 	.
+Amo 	7 	7 	1 	1 	1 	Thus 	RB
+Amo 	7 	7 	1 	2 	1 	he 	PRP
+Amo 	7 	7 	1 	3 	1 	shewed 	VBN
+Amo 	7 	7 	1 	4 	1 	me 	PRP
+Amo 	7 	7 	1 	5 	0 	:
+Amo 	7 	7 	1 	6 	1 	and 	CC
+Amo 	7 	7 	1 	7 	0 	,
+Amo 	7 	7 	1 	8 	1 	behold 	NN
+Amo 	7 	7 	1 	9 	0 	,
+Amo 	7 	7 	1 	10 	1 	the 	DT
+Amo 	7 	7 	1 	11 	1 	LORD 	NN
+Amo 	7 	7 	1 	12 	1 	stood 	NN
+Amo 	7 	7 	1 	13 	1 	upon 	IN
+Amo 	7 	7 	1 	14 	1 	a 	DT
+Amo 	7 	7 	1 	15 	1 	wall 	NN
+Amo 	7 	7 	1 	16 	1 	made 	VBN
+Amo 	7 	7 	1 	17 	1 	by 	IN
+Amo 	7 	7 	1 	18 	1 	a 	DT
+Amo 	7 	7 	1 	19 	1 	plumbline 	NN
+Amo 	7 	7 	1 	20 	0 	,
+Amo 	7 	7 	1 	21 	1 	with 	IN
+Amo 	7 	7 	1 	22 	1 	a 	DT
+Amo 	7 	7 	1 	23 	1 	plumbline 	NN
+Amo 	7 	7 	1 	24 	1 	in 	IN
+Amo 	7 	7 	1 	25 	1 	his 	PRP$
+Amo 	7 	7 	1 	26 	1 	hand 	NN
+Amo 	7 	7 	1 	27 	0 	.
+Amo 	7 	8 	1 	1 	1 	nd 	NN
+Amo 	7 	8 	1 	2 	1 	the 	DT
+Amo 	7 	8 	1 	3 	1 	LORD 	NN
+Amo 	7 	8 	1 	4 	1 	said 	VBD
+Amo 	7 	8 	1 	5 	1 	unto 	NN
+Amo 	7 	8 	1 	6 	1 	me 	PRP
+Amo 	7 	8 	1 	7 	0 	,
+Amo 	7 	8 	1 	8 	1 	Amos 	NNS
+Amo 	7 	8 	1 	9 	0 	,
+Amo 	7 	8 	1 	10 	1 	what 	WP
+Amo 	7 	8 	1 	11 	1 	seest 	NN
+Amo 	7 	8 	1 	12 	1 	thou 	NN
+Amo 	7 	8 	1 	13 	0 	?
+Amo 	7 	8 	2 	1 	1 	And 	CC
+Amo 	7 	8 	2 	2 	1 	I 	PRP
+Amo 	7 	8 	2 	3 	1 	said 	VBD
+Amo 	7 	8 	2 	4 	0 	,
+Amo 	7 	8 	2 	5 	1 	A 	DT
+Amo 	7 	8 	2 	6 	1 	plumbline 	NN
+Amo 	7 	8 	2 	7 	0 	.
+Amo 	7 	8 	3 	1 	1 	Then 	RB
+Amo 	7 	8 	3 	2 	1 	said 	VBD
+Amo 	7 	8 	3 	3 	1 	the 	DT
+Amo 	7 	8 	3 	4 	1 	LORD 	NN
+Amo 	7 	8 	3 	5 	0 	,
+Amo 	7 	8 	3 	6 	1 	Behold 	NN
+Amo 	7 	8 	3 	7 	0 	,
+Amo 	7 	8 	3 	8 	1 	I 	PRP
+Amo 	7 	8 	3 	9 	1 	will 	MD
+Amo 	7 	8 	3 	10 	1 	set 	NN
+Amo 	7 	8 	3 	11 	1 	a 	DT
+Amo 	7 	8 	3 	12 	1 	plumbline 	NN
+Amo 	7 	8 	3 	13 	1 	in 	IN
+Amo 	7 	8 	3 	14 	1 	the 	DT
+Amo 	7 	8 	3 	15 	1 	midst 	NN
+Amo 	7 	8 	3 	16 	1 	of 	IN
+Amo 	7 	8 	3 	17 	1 	my 	PRP$
+Amo 	7 	8 	3 	18 	1 	people 	NNS
+Amo 	7 	8 	3 	19 	1 	Israel 	NNP
+Amo 	7 	8 	3 	20 	0 	:
+Amo 	7 	8 	3 	21 	1 	I 	PRP
+Amo 	7 	8 	3 	22 	1 	will 	MD
+Amo 	7 	8 	3 	23 	1 	not 	RB
+Amo 	7 	8 	3 	24 	1 	again 	RB
+Amo 	7 	8 	3 	25 	1 	pass 	NN
+Amo 	7 	8 	3 	26 	1 	by 	IN
+Amo 	7 	8 	3 	27 	1 	them 	PRP
+Amo 	7 	8 	3 	28 	1 	any 	DT
+Amo 	7 	8 	3 	29 	1 	more 	RBR
+Amo 	7 	8 	3 	30 	0 	:
+Amo 	7 	9 	1 	1 	1 	nd 	NN
+Amo 	7 	9 	1 	2 	1 	the 	DT
+Amo 	7 	9 	1 	3 	1 	high 	JJ
+Amo 	7 	9 	1 	4 	1 	places 	NNS
+Amo 	7 	9 	1 	5 	1 	of 	IN
+Amo 	7 	9 	1 	6 	1 	Isaac 	NN
+Amo 	7 	9 	1 	7 	1 	shall 	MD
+Amo 	7 	9 	1 	8 	1 	be 	VB
+Amo 	7 	9 	1 	9 	1 	desolate 	NN
+Amo 	7 	9 	1 	10 	0 	,
+Amo 	7 	9 	1 	11 	1 	and 	CC
+Amo 	7 	9 	1 	12 	1 	the 	DT
+Amo 	7 	9 	1 	13 	1 	sanctuaries 	NNS
+Amo 	7 	9 	1 	14 	1 	of 	IN
+Amo 	7 	9 	1 	15 	1 	Israel 	NNP
+Amo 	7 	9 	1 	16 	1 	shall 	MD
+Amo 	7 	9 	1 	17 	1 	be 	VB
+Amo 	7 	9 	1 	18 	1 	laid 	NN
+Amo 	7 	9 	1 	19 	1 	waste 	NN
+Amo 	7 	9 	1 	20 	0 	;
+Amo 	7 	9 	1 	21 	1 	and 	CC
+Amo 	7 	9 	1 	22 	1 	I 	PRP
+Amo 	7 	9 	1 	23 	1 	will 	MD
+Amo 	7 	9 	1 	24 	1 	rise 	NN
+Amo 	7 	9 	1 	25 	1 	against 	IN
+Amo 	7 	9 	1 	26 	1 	the 	DT
+Amo 	7 	9 	1 	27 	1 	house 	NN
+Amo 	7 	9 	1 	28 	1 	of 	IN
+Amo 	7 	9 	1 	29 	1 	Jeroboam 	NN
+Amo 	7 	9 	1 	30 	1 	with 	IN
+Amo 	7 	9 	1 	31 	1 	the 	DT
+Amo 	7 	9 	1 	32 	1 	sword 	NN
+Amo 	7 	9 	1 	33 	0 	.
+Amo 	7 	10 	1 	1 	1 	Then 	RB
+Amo 	7 	10 	1 	2 	1 	Amaziah 	NN
+Amo 	7 	10 	1 	3 	1 	the 	DT
+Amo 	7 	10 	1 	4 	1 	priest 	NN
+Amo 	7 	10 	1 	5 	1 	of 	IN
+Amo 	7 	10 	1 	6 	1 	Bethel 	NN
+Amo 	7 	10 	1 	7 	1 	sent 	NN
+Amo 	7 	10 	1 	8 	1 	to 	TO
+Amo 	7 	10 	1 	9 	1 	Jeroboam 	NN
+Amo 	7 	10 	1 	10 	1 	king 	NN
+Amo 	7 	10 	1 	11 	1 	of 	IN
+Amo 	7 	10 	1 	12 	1 	Israel 	NNP
+Amo 	7 	10 	1 	13 	0 	,
+Amo 	7 	10 	1 	14 	1 	saying 	VBG
+Amo 	7 	10 	1 	15 	0 	,
+Amo 	7 	10 	1 	16 	1 	Amos 	NNS
+Amo 	7 	10 	1 	17 	1 	hath 	NN
+Amo 	7 	10 	1 	18 	1 	conspired 	VBN
+Amo 	7 	10 	1 	19 	1 	against 	IN
+Amo 	7 	10 	1 	20 	1 	thee 	NN
+Amo 	7 	10 	1 	21 	1 	in 	IN
+Amo 	7 	10 	1 	22 	1 	the 	DT
+Amo 	7 	10 	1 	23 	1 	midst 	NN
+Amo 	7 	10 	1 	24 	1 	of 	IN
+Amo 	7 	10 	1 	25 	1 	the 	DT
+Amo 	7 	10 	1 	26 	1 	house 	NN
+Amo 	7 	10 	1 	27 	1 	of 	IN
+Amo 	7 	10 	1 	28 	1 	Israel 	NNP
+Amo 	7 	10 	1 	29 	0 	:
+Amo 	7 	10 	1 	30 	1 	the 	DT
+Amo 	7 	10 	1 	31 	1 	land 	NN
+Amo 	7 	10 	1 	32 	1 	is 	VBZ
+Amo 	7 	10 	1 	33 	1 	not 	RB
+Amo 	7 	10 	1 	34 	1 	able 	JJ
+Amo 	7 	10 	1 	35 	1 	to 	TO
+Amo 	7 	10 	1 	36 	1 	bear 	NN
+Amo 	7 	10 	1 	37 	1 	all 	DT
+Amo 	7 	10 	1 	38 	1 	his 	PRP$
+Amo 	7 	10 	1 	39 	1 	words 	NNS
+Amo 	7 	10 	1 	40 	0 	.
+Amo 	7 	11 	1 	1 	1 	For 	IN
+Amo 	7 	11 	1 	2 	1 	thus 	RB
+Amo 	7 	11 	1 	3 	1 	Amos 	NNS
+Amo 	7 	11 	1 	4 	1 	saith 	NN
+Amo 	7 	11 	1 	5 	0 	,
+Amo 	7 	11 	1 	6 	1 	Jeroboam 	NN
+Amo 	7 	11 	1 	7 	1 	shall 	MD
+Amo 	7 	11 	1 	8 	1 	die 	NN
+Amo 	7 	11 	1 	9 	1 	by 	IN
+Amo 	7 	11 	1 	10 	1 	the 	DT
+Amo 	7 	11 	1 	11 	1 	sword 	NN
+Amo 	7 	11 	1 	12 	0 	,
+Amo 	7 	11 	1 	13 	1 	and 	CC
+Amo 	7 	11 	1 	14 	1 	Israel 	NNP
+Amo 	7 	11 	1 	15 	1 	shall 	MD
+Amo 	7 	11 	1 	16 	1 	surely 	RB
+Amo 	7 	11 	1 	17 	1 	be 	VB
+Amo 	7 	11 	1 	18 	1 	led 	VBN
+Amo 	7 	11 	1 	19 	1 	away 	RB
+Amo 	7 	11 	1 	20 	1 	captive 	NN
+Amo 	7 	11 	1 	21 	1 	out 	IN
+Amo 	7 	11 	1 	22 	1 	of 	IN
+Amo 	7 	11 	1 	23 	1 	their 	PRP$
+Amo 	7 	11 	1 	24 	1 	own 	JJ
+Amo 	7 	11 	1 	25 	1 	land 	NN
+Amo 	7 	11 	1 	26 	0 	.
+Amo 	7 	12 	1 	1 	1 	lso 	NN
+Amo 	7 	12 	1 	2 	1 	Amaziah 	NN
+Amo 	7 	12 	1 	3 	1 	said 	VBD
+Amo 	7 	12 	1 	4 	1 	unto 	NN
+Amo 	7 	12 	1 	5 	1 	Amos 	NNS
+Amo 	7 	12 	1 	6 	0 	,
+Amo 	7 	12 	1 	7 	1 	O 	NN
+Amo 	7 	12 	1 	8 	1 	thou 	NN
+Amo 	7 	12 	1 	9 	1 	seer 	NN
+Amo 	7 	12 	1 	10 	0 	,
+Amo 	7 	12 	1 	11 	1 	go 	VB
+Amo 	7 	12 	1 	12 	0 	,
+Amo 	7 	12 	1 	13 	1 	flee 	NN
+Amo 	7 	12 	1 	14 	1 	thee 	NN
+Amo 	7 	12 	1 	15 	1 	away 	RB
+Amo 	7 	12 	1 	16 	1 	into 	IN
+Amo 	7 	12 	1 	17 	1 	the 	DT
+Amo 	7 	12 	1 	18 	1 	land 	NN
+Amo 	7 	12 	1 	19 	1 	of 	IN
+Amo 	7 	12 	1 	20 	1 	Judah 	NN
+Amo 	7 	12 	1 	21 	0 	,
+Amo 	7 	12 	1 	22 	1 	and 	CC
+Amo 	7 	12 	1 	23 	1 	there 	RB
+Amo 	7 	12 	1 	24 	1 	eat 	NN
+Amo 	7 	12 	1 	25 	1 	bread 	NN
+Amo 	7 	12 	1 	26 	0 	,
+Amo 	7 	12 	1 	27 	1 	and 	CC
+Amo 	7 	12 	1 	28 	1 	prophesy 	NN
+Amo 	7 	12 	1 	29 	1 	there 	RB
+Amo 	7 	12 	1 	30 	0 	:
+Amo 	7 	13 	1 	1 	1 	But 	CC
+Amo 	7 	13 	1 	2 	1 	prophesy 	NN
+Amo 	7 	13 	1 	3 	1 	not 	RB
+Amo 	7 	13 	1 	4 	1 	again 	RB
+Amo 	7 	13 	1 	5 	1 	any 	DT
+Amo 	7 	13 	1 	6 	1 	more 	RBR
+Amo 	7 	13 	1 	7 	1 	at 	IN
+Amo 	7 	13 	1 	8 	1 	Bethel 	NN
+Amo 	7 	13 	1 	9 	0 	:
+Amo 	7 	13 	1 	10 	1 	for 	IN
+Amo 	7 	13 	1 	11 	1 	it 	PRP
+Amo 	7 	13 	1 	12 	1 	is 	VBZ
+Amo 	7 	13 	1 	13 	1 	the 	DT
+Amo 	7 	13 	1 	14 	1 	king 	NN
+Amo 	7 	13 	1 	15 	0 	's
+Amo 	7 	13 	1 	16 	1 	chapel 	NN
+Amo 	7 	13 	1 	17 	0 	,
+Amo 	7 	13 	1 	18 	1 	and 	CC
+Amo 	7 	13 	1 	19 	1 	it 	PRP
+Amo 	7 	13 	1 	20 	1 	is 	VBZ
+Amo 	7 	13 	1 	21 	1 	the 	DT
+Amo 	7 	13 	1 	22 	1 	king 	NN
+Amo 	7 	13 	1 	23 	0 	's
+Amo 	7 	13 	1 	24 	1 	court 	NN
+Amo 	7 	13 	1 	25 	0 	.
+Amo 	7 	14 	1 	1 	1 	Then 	RB
+Amo 	7 	14 	1 	2 	1 	answered 	VBN
+Amo 	7 	14 	1 	3 	1 	Amos 	NNS
+Amo 	7 	14 	1 	4 	0 	,
+Amo 	7 	14 	1 	5 	1 	and 	CC
+Amo 	7 	14 	1 	6 	1 	said 	VBD
+Amo 	7 	14 	1 	7 	1 	to 	TO
+Amo 	7 	14 	1 	8 	1 	Amaziah 	NN
+Amo 	7 	14 	1 	9 	0 	,
+Amo 	7 	14 	1 	10 	1 	I 	PRP
+Amo 	7 	14 	1 	11 	1 	was 	VBD
+Amo 	7 	14 	1 	12 	1 	no 	DT
+Amo 	7 	14 	1 	13 	1 	prophet 	NN
+Amo 	7 	14 	1 	14 	0 	,
+Amo 	7 	14 	1 	15 	1 	neither 	DT
+Amo 	7 	14 	1 	16 	1 	was 	VBD
+Amo 	7 	14 	1 	17 	1 	I 	PRP
+Amo 	7 	14 	1 	18 	1 	a 	DT
+Amo 	7 	14 	1 	19 	1 	prophet 	NN
+Amo 	7 	14 	1 	20 	0 	's
+Amo 	7 	14 	1 	21 	1 	son 	NN
+Amo 	7 	14 	1 	22 	0 	;
+Amo 	7 	14 	1 	23 	1 	but 	CC
+Amo 	7 	14 	1 	24 	1 	I 	PRP
+Amo 	7 	14 	1 	25 	1 	was 	VBD
+Amo 	7 	14 	1 	26 	1 	an 	DT
+Amo 	7 	14 	1 	27 	1 	herdman 	NN
+Amo 	7 	14 	1 	28 	0 	,
+Amo 	7 	14 	1 	29 	1 	and 	CC
+Amo 	7 	14 	1 	30 	1 	a 	DT
+Amo 	7 	14 	1 	31 	1 	gatherer 	NN
+Amo 	7 	14 	1 	32 	1 	of 	IN
+Amo 	7 	14 	1 	33 	1 	sycomore 	NN
+Amo 	7 	14 	1 	34 	1 	fruit 	NN
+Amo 	7 	14 	1 	35 	0 	:
+Amo 	7 	15 	1 	1 	1 	nd 	NN
+Amo 	7 	15 	1 	2 	1 	the 	DT
+Amo 	7 	15 	1 	3 	1 	LORD 	NN
+Amo 	7 	15 	1 	4 	1 	took 	VBD
+Amo 	7 	15 	1 	5 	1 	me 	PRP
+Amo 	7 	15 	1 	6 	1 	as 	IN
+Amo 	7 	15 	1 	7 	1 	I 	PRP
+Amo 	7 	15 	1 	8 	1 	followed 	VBD
+Amo 	7 	15 	1 	9 	1 	the 	DT
+Amo 	7 	15 	1 	10 	1 	flock 	NN
+Amo 	7 	15 	1 	11 	0 	,
+Amo 	7 	15 	1 	12 	1 	and 	CC
+Amo 	7 	15 	1 	13 	1 	the 	DT
+Amo 	7 	15 	1 	14 	1 	LORD 	NN
+Amo 	7 	15 	1 	15 	1 	said 	VBD
+Amo 	7 	15 	1 	16 	1 	unto 	NN
+Amo 	7 	15 	1 	17 	1 	me 	PRP
+Amo 	7 	15 	1 	18 	0 	,
+Amo 	7 	15 	1 	19 	1 	Go 	VB
+Amo 	7 	15 	1 	20 	0 	,
+Amo 	7 	15 	1 	21 	1 	prophesy 	NN
+Amo 	7 	15 	1 	22 	1 	unto 	NN
+Amo 	7 	15 	1 	23 	1 	my 	PRP$
+Amo 	7 	15 	1 	24 	1 	people 	NNS
+Amo 	7 	15 	1 	25 	1 	Israel 	NNP
+Amo 	7 	15 	1 	26 	0 	.
+Amo 	7 	16 	1 	1 	1 	Now 	RB
+Amo 	7 	16 	1 	2 	1 	therefore 	RB
+Amo 	7 	16 	1 	3 	1 	hear 	NN
+Amo 	7 	16 	1 	4 	1 	thou 	NN
+Amo 	7 	16 	1 	5 	1 	the 	DT
+Amo 	7 	16 	1 	6 	1 	word 	NN
+Amo 	7 	16 	1 	7 	1 	of 	IN
+Amo 	7 	16 	1 	8 	1 	the 	DT
+Amo 	7 	16 	1 	9 	1 	LORD 	NN
+Amo 	7 	16 	1 	10 	0 	:
+Amo 	7 	16 	1 	11 	1 	Thou 	NN
+Amo 	7 	16 	1 	12 	1 	sayest 	NN
+Amo 	7 	16 	1 	13 	0 	,
+Amo 	7 	16 	1 	14 	1 	Prophesy 	NN
+Amo 	7 	16 	1 	15 	1 	not 	RB
+Amo 	7 	16 	1 	16 	1 	against 	IN
+Amo 	7 	16 	1 	17 	1 	Israel 	NNP
+Amo 	7 	16 	1 	18 	0 	,
+Amo 	7 	16 	1 	19 	1 	and 	CC
+Amo 	7 	16 	1 	20 	1 	drop 	NN
+Amo 	7 	16 	1 	21 	1 	not 	RB
+Amo 	7 	16 	1 	22 	1 	thy 	NN
+Amo 	7 	16 	1 	23 	1 	word 	NN
+Amo 	7 	16 	1 	24 	1 	against 	IN
+Amo 	7 	16 	1 	25 	1 	the 	DT
+Amo 	7 	16 	1 	26 	1 	house 	NN
+Amo 	7 	16 	1 	27 	1 	of 	IN
+Amo 	7 	16 	1 	28 	1 	Isaac 	NN
+Amo 	7 	16 	1 	29 	0 	.
+Amo 	7 	17 	1 	1 	1 	Therefore 	RB
+Amo 	7 	17 	1 	2 	1 	thus 	RB
+Amo 	7 	17 	1 	3 	1 	saith 	NN
+Amo 	7 	17 	1 	4 	1 	the 	DT
+Amo 	7 	17 	1 	5 	1 	LORD 	NN
+Amo 	7 	17 	1 	6 	0 	;
+Amo 	7 	17 	1 	7 	1 	Thy 	NN
+Amo 	7 	17 	1 	8 	1 	wife 	NN
+Amo 	7 	17 	1 	9 	1 	shall 	MD
+Amo 	7 	17 	1 	10 	1 	be 	VB
+Amo 	7 	17 	1 	11 	1 	an 	DT
+Amo 	7 	17 	1 	12 	1 	harlot 	NN
+Amo 	7 	17 	1 	13 	1 	in 	IN
+Amo 	7 	17 	1 	14 	1 	the 	DT
+Amo 	7 	17 	1 	15 	1 	city 	NN
+Amo 	7 	17 	1 	16 	0 	,
+Amo 	7 	17 	1 	17 	1 	and 	CC
+Amo 	7 	17 	1 	18 	1 	thy 	NN
+Amo 	7 	17 	1 	19 	1 	sons 	NNS
+Amo 	7 	17 	1 	20 	1 	and 	CC
+Amo 	7 	17 	1 	21 	1 	thy 	NN
+Amo 	7 	17 	1 	22 	1 	daughters 	NNS
+Amo 	7 	17 	1 	23 	1 	shall 	MD
+Amo 	7 	17 	1 	24 	1 	fall 	NN
+Amo 	7 	17 	1 	25 	1 	by 	IN
+Amo 	7 	17 	1 	26 	1 	the 	DT
+Amo 	7 	17 	1 	27 	1 	sword 	NN
+Amo 	7 	17 	1 	28 	0 	,
+Amo 	7 	17 	1 	29 	1 	and 	CC
+Amo 	7 	17 	1 	30 	1 	thy 	NN
+Amo 	7 	17 	1 	31 	1 	land 	NN
+Amo 	7 	17 	1 	32 	1 	shall 	MD
+Amo 	7 	17 	1 	33 	1 	be 	VB
+Amo 	7 	17 	1 	34 	1 	divided 	VBN
+Amo 	7 	17 	1 	35 	1 	by 	IN
+Amo 	7 	17 	1 	36 	1 	line 	NN
+Amo 	7 	17 	1 	37 	0 	;
+Amo 	7 	17 	1 	38 	1 	and 	CC
+Amo 	7 	17 	1 	39 	1 	thou 	NN
+Amo 	7 	17 	1 	40 	1 	shalt 	NN
+Amo 	7 	17 	1 	41 	1 	die 	NN
+Amo 	7 	17 	1 	42 	1 	in 	IN
+Amo 	7 	17 	1 	43 	1 	a 	DT
+Amo 	7 	17 	1 	44 	1 	polluted 	VBN
+Amo 	7 	17 	1 	45 	1 	land 	NN
+Amo 	7 	17 	1 	46 	0 	:
+Amo 	7 	17 	1 	47 	1 	and 	CC
+Amo 	7 	17 	1 	48 	1 	Israel 	NNP
+Amo 	7 	17 	1 	49 	1 	shall 	MD
+Amo 	7 	17 	1 	50 	1 	surely 	RB
+Amo 	7 	17 	1 	51 	1 	go 	VB
+Amo 	7 	17 	1 	52 	1 	into 	IN
+Amo 	7 	17 	1 	53 	1 	captivity 	NN
+Amo 	7 	17 	1 	54 	1 	forth 	NN
+Amo 	7 	17 	1 	55 	1 	of 	IN
+Amo 	7 	17 	1 	56 	1 	his 	PRP$
+Amo 	7 	17 	1 	57 	1 	land 	NN
+Amo 	7 	17 	1 	58 	0 	.
+Amo 	8 	1 	1 	1 	1 	Thus 	RB
+Amo 	8 	1 	1 	2 	1 	hath 	NN
+Amo 	8 	1 	1 	3 	1 	the 	DT
+Amo 	8 	1 	1 	4 	1 	Lord 	NN
+Amo 	8 	1 	1 	5 	1 	GOD 	NNP
+Amo 	8 	1 	1 	6 	1 	shewed 	VBN
+Amo 	8 	1 	1 	7 	1 	unto 	NN
+Amo 	8 	1 	1 	8 	1 	me 	PRP
+Amo 	8 	1 	1 	9 	0 	:
+Amo 	8 	1 	1 	10 	1 	and 	CC
+Amo 	8 	1 	1 	11 	1 	behold 	NN
+Amo 	8 	1 	1 	12 	1 	a 	DT
+Amo 	8 	1 	1 	13 	1 	basket 	NN
+Amo 	8 	1 	1 	14 	1 	of 	IN
+Amo 	8 	1 	1 	15 	1 	summer 	NN
+Amo 	8 	1 	1 	16 	1 	fruit 	NN
+Amo 	8 	1 	1 	17 	0 	.
+Amo 	8 	2 	1 	1 	1 	nd 	NN
+Amo 	8 	2 	1 	2 	1 	he 	PRP
+Amo 	8 	2 	1 	3 	1 	said 	VBD
+Amo 	8 	2 	1 	4 	0 	,
+Amo 	8 	2 	1 	5 	1 	Amos 	NNS
+Amo 	8 	2 	1 	6 	0 	,
+Amo 	8 	2 	1 	7 	1 	what 	WP
+Amo 	8 	2 	1 	8 	1 	seest 	NN
+Amo 	8 	2 	1 	9 	1 	thou 	NN
+Amo 	8 	2 	1 	10 	0 	?
+Amo 	8 	2 	2 	1 	1 	And 	CC
+Amo 	8 	2 	2 	2 	1 	I 	PRP
+Amo 	8 	2 	2 	3 	1 	said 	VBD
+Amo 	8 	2 	2 	4 	0 	,
+Amo 	8 	2 	2 	5 	1 	A 	DT
+Amo 	8 	2 	2 	6 	1 	basket 	NN
+Amo 	8 	2 	2 	7 	1 	of 	IN
+Amo 	8 	2 	2 	8 	1 	summer 	NN
+Amo 	8 	2 	2 	9 	1 	fruit 	NN
+Amo 	8 	2 	2 	10 	0 	.
+Amo 	8 	2 	3 	1 	1 	Then 	RB
+Amo 	8 	2 	3 	2 	1 	said 	VBD
+Amo 	8 	2 	3 	3 	1 	the 	DT
+Amo 	8 	2 	3 	4 	1 	LORD 	NN
+Amo 	8 	2 	3 	5 	1 	unto 	NN
+Amo 	8 	2 	3 	6 	1 	me 	PRP
+Amo 	8 	2 	3 	7 	0 	,
+Amo 	8 	2 	3 	8 	1 	The 	DT
+Amo 	8 	2 	3 	9 	1 	end 	NN
+Amo 	8 	2 	3 	10 	1 	is 	VBZ
+Amo 	8 	2 	3 	11 	1 	come 	VB
+Amo 	8 	2 	3 	12 	1 	upon 	IN
+Amo 	8 	2 	3 	13 	1 	my 	PRP$
+Amo 	8 	2 	3 	14 	1 	people 	NNS
+Amo 	8 	2 	3 	15 	1 	of 	IN
+Amo 	8 	2 	3 	16 	1 	Israel 	NNP
+Amo 	8 	2 	3 	17 	0 	;
+Amo 	8 	2 	3 	18 	1 	I 	PRP
+Amo 	8 	2 	3 	19 	1 	will 	MD
+Amo 	8 	2 	3 	20 	1 	not 	RB
+Amo 	8 	2 	3 	21 	1 	again 	RB
+Amo 	8 	2 	3 	22 	1 	pass 	NN
+Amo 	8 	2 	3 	23 	1 	by 	IN
+Amo 	8 	2 	3 	24 	1 	them 	PRP
+Amo 	8 	2 	3 	25 	1 	any 	DT
+Amo 	8 	2 	3 	26 	1 	more 	RBR
+Amo 	8 	2 	3 	27 	0 	.
+Amo 	8 	3 	1 	1 	1 	nd 	NN
+Amo 	8 	3 	1 	2 	1 	the 	DT
+Amo 	8 	3 	1 	3 	1 	songs 	NNS
+Amo 	8 	3 	1 	4 	1 	of 	IN
+Amo 	8 	3 	1 	5 	1 	the 	DT
+Amo 	8 	3 	1 	6 	1 	temple 	NN
+Amo 	8 	3 	1 	7 	1 	shall 	MD
+Amo 	8 	3 	1 	8 	1 	be 	VB
+Amo 	8 	3 	1 	9 	1 	howlings 	NNS
+Amo 	8 	3 	1 	10 	1 	in 	IN
+Amo 	8 	3 	1 	11 	1 	that 	IN
+Amo 	8 	3 	1 	12 	1 	day 	NN
+Amo 	8 	3 	1 	13 	0 	,
+Amo 	8 	3 	1 	14 	1 	saith 	NN
+Amo 	8 	3 	1 	15 	1 	the 	DT
+Amo 	8 	3 	1 	16 	1 	Lord 	NN
+Amo 	8 	3 	1 	17 	1 	GOD 	NNP
+Amo 	8 	3 	1 	18 	0 	:
+Amo 	8 	3 	1 	19 	1 	there 	RB
+Amo 	8 	3 	1 	20 	1 	shall 	MD
+Amo 	8 	3 	1 	21 	1 	be 	VB
+Amo 	8 	3 	1 	22 	1 	many 	JJ
+Amo 	8 	3 	1 	23 	1 	dead 	JJ
+Amo 	8 	3 	1 	24 	1 	bodies 	NNS
+Amo 	8 	3 	1 	25 	1 	in 	IN
+Amo 	8 	3 	1 	26 	1 	every 	DT
+Amo 	8 	3 	1 	27 	1 	place 	NN
+Amo 	8 	3 	1 	28 	0 	;
+Amo 	8 	3 	1 	29 	1 	they 	PRP
+Amo 	8 	3 	1 	30 	1 	shall 	MD
+Amo 	8 	3 	1 	31 	1 	cast 	NN
+Amo 	8 	3 	1 	32 	1 	them 	PRP
+Amo 	8 	3 	1 	33 	1 	forth 	NN
+Amo 	8 	3 	1 	34 	1 	with 	IN
+Amo 	8 	3 	1 	35 	1 	silence 	NN
+Amo 	8 	3 	1 	36 	0 	.
+Amo 	8 	4 	1 	1 	1 	Hear 	NN
+Amo 	8 	4 	1 	2 	1 	this 	DT
+Amo 	8 	4 	1 	3 	0 	,
+Amo 	8 	4 	1 	4 	1 	O 	NN
+Amo 	8 	4 	1 	5 	1 	ye 	NN
+Amo 	8 	4 	1 	6 	1 	that 	IN
+Amo 	8 	4 	1 	7 	1 	swallow 	NN
+Amo 	8 	4 	1 	8 	1 	up 	RB
+Amo 	8 	4 	1 	9 	1 	the 	DT
+Amo 	8 	4 	1 	10 	1 	needy 	NN
+Amo 	8 	4 	1 	11 	0 	,
+Amo 	8 	4 	1 	12 	1 	even 	RB
+Amo 	8 	4 	1 	13 	1 	to 	TO
+Amo 	8 	4 	1 	14 	1 	make 	VB
+Amo 	8 	4 	1 	15 	1 	the 	DT
+Amo 	8 	4 	1 	16 	1 	poor 	JJ
+Amo 	8 	4 	1 	17 	1 	of 	IN
+Amo 	8 	4 	1 	18 	1 	the 	DT
+Amo 	8 	4 	1 	19 	1 	land 	NN
+Amo 	8 	4 	1 	20 	1 	to 	TO
+Amo 	8 	4 	1 	21 	1 	fail 	NN
+Amo 	8 	4 	1 	22 	0 	,
+Amo 	8 	5 	1 	1 	1 	Saying 	VBG
+Amo 	8 	5 	1 	2 	0 	,
+Amo 	8 	5 	1 	3 	1 	When 	WRB
+Amo 	8 	5 	1 	4 	1 	will 	MD
+Amo 	8 	5 	1 	5 	1 	the 	DT
+Amo 	8 	5 	1 	6 	1 	new 	JJ
+Amo 	8 	5 	1 	7 	1 	moon 	NN
+Amo 	8 	5 	1 	8 	1 	be 	VB
+Amo 	8 	5 	1 	9 	1 	gone 	VBN
+Amo 	8 	5 	1 	10 	0 	,
+Amo 	8 	5 	1 	11 	1 	that 	IN
+Amo 	8 	5 	1 	12 	1 	we 	PRP
+Amo 	8 	5 	1 	13 	1 	may 	MD
+Amo 	8 	5 	1 	14 	1 	sell 	NN
+Amo 	8 	5 	1 	15 	1 	corn 	NN
+Amo 	8 	5 	1 	16 	0 	?
+Amo 	8 	5 	2 	1 	1 	and 	CC
+Amo 	8 	5 	2 	2 	1 	the 	DT
+Amo 	8 	5 	2 	3 	1 	sabbath 	NN
+Amo 	8 	5 	2 	4 	0 	,
+Amo 	8 	5 	2 	5 	1 	that 	IN
+Amo 	8 	5 	2 	6 	1 	we 	PRP
+Amo 	8 	5 	2 	7 	1 	may 	MD
+Amo 	8 	5 	2 	8 	1 	set 	NN
+Amo 	8 	5 	2 	9 	1 	forth 	NN
+Amo 	8 	5 	2 	10 	1 	wheat 	NN
+Amo 	8 	5 	2 	11 	0 	,
+Amo 	8 	5 	2 	12 	1 	making 	VBG
+Amo 	8 	5 	2 	13 	1 	the 	DT
+Amo 	8 	5 	2 	14 	1 	ephah 	NN
+Amo 	8 	5 	2 	15 	1 	small 	JJ
+Amo 	8 	5 	2 	16 	0 	,
+Amo 	8 	5 	2 	17 	1 	and 	CC
+Amo 	8 	5 	2 	18 	1 	the 	DT
+Amo 	8 	5 	2 	19 	1 	shekel 	NN
+Amo 	8 	5 	2 	20 	1 	great 	JJ
+Amo 	8 	5 	2 	21 	0 	,
+Amo 	8 	5 	2 	22 	1 	and 	CC
+Amo 	8 	5 	2 	23 	1 	falsifying 	VBG
+Amo 	8 	5 	2 	24 	1 	the 	DT
+Amo 	8 	5 	2 	25 	1 	balances 	NNS
+Amo 	8 	5 	2 	26 	1 	by 	IN
+Amo 	8 	5 	2 	27 	1 	deceit 	NN
+Amo 	8 	5 	2 	28 	0 	?
+Amo 	8 	6 	1 	1 	1 	That 	DT
+Amo 	8 	6 	1 	2 	1 	we 	PRP
+Amo 	8 	6 	1 	3 	1 	may 	MD
+Amo 	8 	6 	1 	4 	1 	buy 	VB
+Amo 	8 	6 	1 	5 	1 	the 	DT
+Amo 	8 	6 	1 	6 	1 	poor 	JJ
+Amo 	8 	6 	1 	7 	1 	for 	IN
+Amo 	8 	6 	1 	8 	1 	silver 	NN
+Amo 	8 	6 	1 	9 	0 	,
+Amo 	8 	6 	1 	10 	1 	and 	CC
+Amo 	8 	6 	1 	11 	1 	the 	DT
+Amo 	8 	6 	1 	12 	1 	needy 	NN
+Amo 	8 	6 	1 	13 	1 	for 	IN
+Amo 	8 	6 	1 	14 	1 	a 	DT
+Amo 	8 	6 	1 	15 	1 	pair 	NN
+Amo 	8 	6 	1 	16 	1 	of 	IN
+Amo 	8 	6 	1 	17 	1 	shoes 	NNS
+Amo 	8 	6 	1 	18 	0 	;
+Amo 	8 	6 	1 	19 	1 	yea 	NN
+Amo 	8 	6 	1 	20 	0 	,
+Amo 	8 	6 	1 	21 	1 	and 	CC
+Amo 	8 	6 	1 	22 	1 	sell 	NN
+Amo 	8 	6 	1 	23 	1 	the 	DT
+Amo 	8 	6 	1 	24 	1 	refuse 	NN
+Amo 	8 	6 	1 	25 	1 	of 	IN
+Amo 	8 	6 	1 	26 	1 	the 	DT
+Amo 	8 	6 	1 	27 	1 	wheat 	NN
+Amo 	8 	6 	1 	28 	0 	?
+Amo 	8 	7 	1 	1 	1 	The 	DT
+Amo 	8 	7 	1 	2 	1 	LORD 	NN
+Amo 	8 	7 	1 	3 	1 	hath 	NN
+Amo 	8 	7 	1 	4 	1 	sworn 	NN
+Amo 	8 	7 	1 	5 	1 	by 	IN
+Amo 	8 	7 	1 	6 	1 	the 	DT
+Amo 	8 	7 	1 	7 	1 	excellency 	NN
+Amo 	8 	7 	1 	8 	1 	of 	IN
+Amo 	8 	7 	1 	9 	1 	Jacob 	NN
+Amo 	8 	7 	1 	10 	0 	,
+Amo 	8 	7 	1 	11 	1 	Surely 	RB
+Amo 	8 	7 	1 	12 	1 	I 	PRP
+Amo 	8 	7 	1 	13 	1 	will 	MD
+Amo 	8 	7 	1 	14 	1 	never 	RB
+Amo 	8 	7 	1 	15 	1 	forget 	NN
+Amo 	8 	7 	1 	16 	1 	any 	DT
+Amo 	8 	7 	1 	17 	1 	of 	IN
+Amo 	8 	7 	1 	18 	1 	their 	PRP$
+Amo 	8 	7 	1 	19 	1 	works 	NNS
+Amo 	8 	7 	1 	20 	0 	.
+Amo 	8 	8 	1 	1 	1 	Shall 	NN
+Amo 	8 	8 	1 	2 	1 	not 	RB
+Amo 	8 	8 	1 	3 	1 	the 	DT
+Amo 	8 	8 	1 	4 	1 	land 	NN
+Amo 	8 	8 	1 	5 	1 	tremble 	JJ
+Amo 	8 	8 	1 	6 	1 	for 	IN
+Amo 	8 	8 	1 	7 	1 	this 	DT
+Amo 	8 	8 	1 	8 	0 	,
+Amo 	8 	8 	1 	9 	1 	and 	CC
+Amo 	8 	8 	1 	10 	1 	every 	DT
+Amo 	8 	8 	1 	11 	1 	one 	CD
+Amo 	8 	8 	1 	12 	1 	mourn 	NN
+Amo 	8 	8 	1 	13 	1 	that 	IN
+Amo 	8 	8 	1 	14 	1 	dwelleth 	NN
+Amo 	8 	8 	1 	15 	1 	therein 	NN
+Amo 	8 	8 	1 	16 	0 	?
+Amo 	8 	8 	2 	1 	1 	and 	CC
+Amo 	8 	8 	2 	2 	1 	it 	PRP
+Amo 	8 	8 	2 	3 	1 	shall 	MD
+Amo 	8 	8 	2 	4 	1 	rise 	NN
+Amo 	8 	8 	2 	5 	1 	up 	RB
+Amo 	8 	8 	2 	6 	1 	wholly 	RB
+Amo 	8 	8 	2 	7 	1 	as 	IN
+Amo 	8 	8 	2 	8 	1 	a 	DT
+Amo 	8 	8 	2 	9 	1 	flood 	NN
+Amo 	8 	8 	2 	10 	0 	;
+Amo 	8 	8 	2 	11 	1 	and 	CC
+Amo 	8 	8 	2 	12 	1 	it 	PRP
+Amo 	8 	8 	2 	13 	1 	shall 	MD
+Amo 	8 	8 	2 	14 	1 	be 	VB
+Amo 	8 	8 	2 	15 	1 	cast 	NN
+Amo 	8 	8 	2 	16 	1 	out 	IN
+Amo 	8 	8 	2 	17 	1 	and 	CC
+Amo 	8 	8 	2 	18 	1 	drowned 	VBN
+Amo 	8 	8 	2 	19 	0 	,
+Amo 	8 	8 	2 	20 	1 	as 	IN
+Amo 	8 	8 	2 	21 	1 	by 	IN
+Amo 	8 	8 	2 	22 	1 	the 	DT
+Amo 	8 	8 	2 	23 	1 	flood 	NN
+Amo 	8 	8 	2 	24 	1 	of 	IN
+Amo 	8 	8 	2 	25 	1 	Egypt 	NN
+Amo 	8 	8 	2 	26 	0 	.
+Amo 	8 	9 	1 	1 	1 	nd 	NN
+Amo 	8 	9 	1 	2 	1 	it 	PRP
+Amo 	8 	9 	1 	3 	1 	shall 	MD
+Amo 	8 	9 	1 	4 	1 	come 	VB
+Amo 	8 	9 	1 	5 	1 	to 	TO
+Amo 	8 	9 	1 	6 	1 	pass 	NN
+Amo 	8 	9 	1 	7 	1 	in 	IN
+Amo 	8 	9 	1 	8 	1 	that 	IN
+Amo 	8 	9 	1 	9 	1 	day 	NN
+Amo 	8 	9 	1 	10 	0 	,
+Amo 	8 	9 	1 	11 	1 	saith 	NN
+Amo 	8 	9 	1 	12 	1 	the 	DT
+Amo 	8 	9 	1 	13 	1 	Lord 	NN
+Amo 	8 	9 	1 	14 	1 	GOD 	NNP
+Amo 	8 	9 	1 	15 	0 	,
+Amo 	8 	9 	1 	16 	1 	that 	IN
+Amo 	8 	9 	1 	17 	1 	I 	PRP
+Amo 	8 	9 	1 	18 	1 	will 	MD
+Amo 	8 	9 	1 	19 	1 	cause 	NN
+Amo 	8 	9 	1 	20 	1 	the 	DT
+Amo 	8 	9 	1 	21 	1 	sun 	NN
+Amo 	8 	9 	1 	22 	1 	to 	TO
+Amo 	8 	9 	1 	23 	1 	go 	VB
+Amo 	8 	9 	1 	24 	1 	down 	RB
+Amo 	8 	9 	1 	25 	1 	at 	IN
+Amo 	8 	9 	1 	26 	1 	noon 	NN
+Amo 	8 	9 	1 	27 	0 	,
+Amo 	8 	9 	1 	28 	1 	and 	CC
+Amo 	8 	9 	1 	29 	1 	I 	PRP
+Amo 	8 	9 	1 	30 	1 	will 	MD
+Amo 	8 	9 	1 	31 	1 	darken 	NN
+Amo 	8 	9 	1 	32 	1 	the 	DT
+Amo 	8 	9 	1 	33 	1 	earth 	NN
+Amo 	8 	9 	1 	34 	1 	in 	IN
+Amo 	8 	9 	1 	35 	1 	the 	DT
+Amo 	8 	9 	1 	36 	1 	clear 	JJ
+Amo 	8 	9 	1 	37 	1 	day 	NN
+Amo 	8 	9 	1 	38 	0 	:
+Amo 	8 	10 	1 	1 	1 	nd 	NN
+Amo 	8 	10 	1 	2 	1 	I 	PRP
+Amo 	8 	10 	1 	3 	1 	will 	MD
+Amo 	8 	10 	1 	4 	1 	turn 	NN
+Amo 	8 	10 	1 	5 	1 	your 	PRP$
+Amo 	8 	10 	1 	6 	1 	feasts 	NNS
+Amo 	8 	10 	1 	7 	1 	into 	IN
+Amo 	8 	10 	1 	8 	1 	mourning 	VBG
+Amo 	8 	10 	1 	9 	0 	,
+Amo 	8 	10 	1 	10 	1 	and 	CC
+Amo 	8 	10 	1 	11 	1 	all 	DT
+Amo 	8 	10 	1 	12 	1 	your 	PRP$
+Amo 	8 	10 	1 	13 	1 	songs 	NNS
+Amo 	8 	10 	1 	14 	1 	into 	IN
+Amo 	8 	10 	1 	15 	1 	lamentation 	NN
+Amo 	8 	10 	1 	16 	0 	;
+Amo 	8 	10 	1 	17 	1 	and 	CC
+Amo 	8 	10 	1 	18 	1 	I 	PRP
+Amo 	8 	10 	1 	19 	1 	will 	MD
+Amo 	8 	10 	1 	20 	1 	bring 	NN
+Amo 	8 	10 	1 	21 	1 	up 	RB
+Amo 	8 	10 	1 	22 	1 	sackcloth 	NN
+Amo 	8 	10 	1 	23 	1 	upon 	IN
+Amo 	8 	10 	1 	24 	1 	all 	DT
+Amo 	8 	10 	1 	25 	1 	loins 	NNS
+Amo 	8 	10 	1 	26 	0 	,
+Amo 	8 	10 	1 	27 	1 	and 	CC
+Amo 	8 	10 	1 	28 	1 	baldness 	NN
+Amo 	8 	10 	1 	29 	1 	upon 	IN
+Amo 	8 	10 	1 	30 	1 	every 	DT
+Amo 	8 	10 	1 	31 	1 	head 	NN
+Amo 	8 	10 	1 	32 	0 	;
+Amo 	8 	10 	1 	33 	1 	and 	CC
+Amo 	8 	10 	1 	34 	1 	I 	PRP
+Amo 	8 	10 	1 	35 	1 	will 	MD
+Amo 	8 	10 	1 	36 	1 	make 	VB
+Amo 	8 	10 	1 	37 	1 	it 	PRP
+Amo 	8 	10 	1 	38 	1 	as 	IN
+Amo 	8 	10 	1 	39 	1 	the 	DT
+Amo 	8 	10 	1 	40 	1 	mourning 	VBG
+Amo 	8 	10 	1 	41 	1 	of 	IN
+Amo 	8 	10 	1 	42 	1 	an 	DT
+Amo 	8 	10 	1 	43 	1 	only 	RB
+Amo 	8 	10 	1 	44 	1 	son 	NN
+Amo 	8 	10 	1 	45 	0 	,
+Amo 	8 	10 	1 	46 	1 	and 	CC
+Amo 	8 	10 	1 	47 	1 	the 	DT
+Amo 	8 	10 	1 	48 	1 	end 	NN
+Amo 	8 	10 	1 	49 	1 	thereof 	NN
+Amo 	8 	10 	1 	50 	1 	as 	IN
+Amo 	8 	10 	1 	51 	1 	a 	DT
+Amo 	8 	10 	1 	52 	1 	bitter 	NN
+Amo 	8 	10 	1 	53 	1 	day 	NN
+Amo 	8 	10 	1 	54 	0 	.
+Amo 	8 	11 	1 	1 	1 	Behold 	NN
+Amo 	8 	11 	1 	2 	0 	,
+Amo 	8 	11 	1 	3 	1 	the 	DT
+Amo 	8 	11 	1 	4 	1 	days 	NNS
+Amo 	8 	11 	1 	5 	1 	come 	VB
+Amo 	8 	11 	1 	6 	0 	,
+Amo 	8 	11 	1 	7 	1 	saith 	NN
+Amo 	8 	11 	1 	8 	1 	the 	DT
+Amo 	8 	11 	1 	9 	1 	Lord 	NN
+Amo 	8 	11 	1 	10 	1 	GOD 	NNP
+Amo 	8 	11 	1 	11 	0 	,
+Amo 	8 	11 	1 	12 	1 	that 	IN
+Amo 	8 	11 	1 	13 	1 	I 	PRP
+Amo 	8 	11 	1 	14 	1 	will 	MD
+Amo 	8 	11 	1 	15 	1 	send 	NN
+Amo 	8 	11 	1 	16 	1 	a 	DT
+Amo 	8 	11 	1 	17 	1 	famine 	NN
+Amo 	8 	11 	1 	18 	1 	in 	IN
+Amo 	8 	11 	1 	19 	1 	the 	DT
+Amo 	8 	11 	1 	20 	1 	land 	NN
+Amo 	8 	11 	1 	21 	0 	,
+Amo 	8 	11 	1 	22 	1 	not 	RB
+Amo 	8 	11 	1 	23 	1 	a 	DT
+Amo 	8 	11 	1 	24 	1 	famine 	NN
+Amo 	8 	11 	1 	25 	1 	of 	IN
+Amo 	8 	11 	1 	26 	1 	bread 	NN
+Amo 	8 	11 	1 	27 	0 	,
+Amo 	8 	11 	1 	28 	1 	nor 	CC
+Amo 	8 	11 	1 	29 	1 	a 	DT
+Amo 	8 	11 	1 	30 	1 	thirst 	NN
+Amo 	8 	11 	1 	31 	1 	for 	IN
+Amo 	8 	11 	1 	32 	1 	water 	NN
+Amo 	8 	11 	1 	33 	0 	,
+Amo 	8 	11 	1 	34 	1 	but 	CC
+Amo 	8 	11 	1 	35 	1 	of 	IN
+Amo 	8 	11 	1 	36 	1 	hearing 	NN
+Amo 	8 	11 	1 	37 	1 	the 	DT
+Amo 	8 	11 	1 	38 	1 	words 	NNS
+Amo 	8 	11 	1 	39 	1 	of 	IN
+Amo 	8 	11 	1 	40 	1 	the 	DT
+Amo 	8 	11 	1 	41 	1 	LORD 	NN
+Amo 	8 	11 	1 	42 	0 	:
+Amo 	8 	12 	1 	1 	1 	nd 	NN
+Amo 	8 	12 	1 	2 	1 	they 	PRP
+Amo 	8 	12 	1 	3 	1 	shall 	MD
+Amo 	8 	12 	1 	4 	1 	wander 	NN
+Amo 	8 	12 	1 	5 	1 	from 	IN
+Amo 	8 	12 	1 	6 	1 	sea 	NN
+Amo 	8 	12 	1 	7 	1 	to 	TO
+Amo 	8 	12 	1 	8 	1 	sea 	NN
+Amo 	8 	12 	1 	9 	0 	,
+Amo 	8 	12 	1 	10 	1 	and 	CC
+Amo 	8 	12 	1 	11 	1 	from 	IN
+Amo 	8 	12 	1 	12 	1 	the 	DT
+Amo 	8 	12 	1 	13 	1 	north 	NN
+Amo 	8 	12 	1 	14 	1 	even 	RB
+Amo 	8 	12 	1 	15 	1 	to 	TO
+Amo 	8 	12 	1 	16 	1 	the 	DT
+Amo 	8 	12 	1 	17 	1 	east 	NN
+Amo 	8 	12 	1 	18 	0 	,
+Amo 	8 	12 	1 	19 	1 	they 	PRP
+Amo 	8 	12 	1 	20 	1 	shall 	MD
+Amo 	8 	12 	1 	21 	1 	run 	VB
+Amo 	8 	12 	1 	22 	1 	to 	TO
+Amo 	8 	12 	1 	23 	1 	and 	CC
+Amo 	8 	12 	1 	24 	1 	fro 	NN
+Amo 	8 	12 	1 	25 	1 	to 	TO
+Amo 	8 	12 	1 	26 	1 	seek 	NN
+Amo 	8 	12 	1 	27 	1 	the 	DT
+Amo 	8 	12 	1 	28 	1 	word 	NN
+Amo 	8 	12 	1 	29 	1 	of 	IN
+Amo 	8 	12 	1 	30 	1 	the 	DT
+Amo 	8 	12 	1 	31 	1 	LORD 	NN
+Amo 	8 	12 	1 	32 	0 	,
+Amo 	8 	12 	1 	33 	1 	and 	CC
+Amo 	8 	12 	1 	34 	1 	shall 	MD
+Amo 	8 	12 	1 	35 	1 	not 	RB
+Amo 	8 	12 	1 	36 	1 	find 	VB
+Amo 	8 	12 	1 	37 	1 	it 	PRP
+Amo 	8 	12 	1 	38 	0 	.
+Amo 	8 	13 	1 	1 	1 	In 	IN
+Amo 	8 	13 	1 	2 	1 	that 	IN
+Amo 	8 	13 	1 	3 	1 	day 	NN
+Amo 	8 	13 	1 	4 	1 	shall 	MD
+Amo 	8 	13 	1 	5 	1 	the 	DT
+Amo 	8 	13 	1 	6 	1 	fair 	NN
+Amo 	8 	13 	1 	7 	1 	virgins 	NNS
+Amo 	8 	13 	1 	8 	1 	and 	CC
+Amo 	8 	13 	1 	9 	1 	young 	JJ
+Amo 	8 	13 	1 	10 	1 	men 	NNS
+Amo 	8 	13 	1 	11 	1 	faint 	NN
+Amo 	8 	13 	1 	12 	1 	for 	IN
+Amo 	8 	13 	1 	13 	1 	thirst 	NN
+Amo 	8 	13 	1 	14 	0 	.
+Amo 	8 	14 	1 	1 	1 	They 	PRP
+Amo 	8 	14 	1 	2 	1 	that 	IN
+Amo 	8 	14 	1 	3 	1 	swear 	NN
+Amo 	8 	14 	1 	4 	1 	by 	IN
+Amo 	8 	14 	1 	5 	1 	the 	DT
+Amo 	8 	14 	1 	6 	1 	sin 	NN
+Amo 	8 	14 	1 	7 	1 	of 	IN
+Amo 	8 	14 	1 	8 	1 	Samaria 	NNS
+Amo 	8 	14 	1 	9 	0 	,
+Amo 	8 	14 	1 	10 	1 	and 	CC
+Amo 	8 	14 	1 	11 	1 	say 	VB
+Amo 	8 	14 	1 	12 	0 	,
+Amo 	8 	14 	1 	13 	1 	Thy 	NN
+Amo 	8 	14 	1 	14 	1 	god 	NN
+Amo 	8 	14 	1 	15 	0 	,
+Amo 	8 	14 	1 	16 	1 	O 	NN
+Amo 	8 	14 	1 	17 	1 	Dan 	NNP
+Amo 	8 	14 	1 	18 	0 	,
+Amo 	8 	14 	1 	19 	1 	liveth 	NN
+Amo 	8 	14 	1 	20 	0 	;
+Amo 	8 	14 	1 	21 	1 	and 	CC
+Amo 	8 	14 	1 	22 	0 	,
+Amo 	8 	14 	1 	23 	1 	The 	DT
+Amo 	8 	14 	1 	24 	1 	manner 	NN
+Amo 	8 	14 	1 	25 	1 	of 	IN
+Amo 	8 	14 	1 	26 	1 	Beersheba 	NN
+Amo 	8 	14 	1 	27 	1 	liveth 	NN
+Amo 	8 	14 	1 	28 	0 	;
+Amo 	8 	14 	1 	29 	1 	even 	RB
+Amo 	8 	14 	1 	30 	1 	they 	PRP
+Amo 	8 	14 	1 	31 	1 	shall 	MD
+Amo 	8 	14 	1 	32 	1 	fall 	NN
+Amo 	8 	14 	1 	33 	0 	,
+Amo 	8 	14 	1 	34 	1 	and 	CC
+Amo 	8 	14 	1 	35 	1 	never 	RB
+Amo 	8 	14 	1 	36 	1 	rise 	NN
+Amo 	8 	14 	1 	37 	1 	up 	RB
+Amo 	8 	14 	1 	38 	1 	again 	RB
+Amo 	8 	14 	1 	39 	0 	.
+Amo 	9 	1 	1 	1 	1 	I 	PRP
+Amo 	9 	1 	1 	2 	1 	saw 	NN
+Amo 	9 	1 	1 	3 	1 	the 	DT
+Amo 	9 	1 	1 	4 	1 	LORD 	NN
+Amo 	9 	1 	1 	5 	1 	standing 	VBG
+Amo 	9 	1 	1 	6 	1 	upon 	IN
+Amo 	9 	1 	1 	7 	1 	the 	DT
+Amo 	9 	1 	1 	8 	1 	altar 	NN
+Amo 	9 	1 	1 	9 	0 	:
+Amo 	9 	1 	1 	10 	1 	and 	CC
+Amo 	9 	1 	1 	11 	1 	he 	PRP
+Amo 	9 	1 	1 	12 	1 	said 	VBD
+Amo 	9 	1 	1 	13 	0 	,
+Amo 	9 	1 	1 	14 	1 	Smite 	NN
+Amo 	9 	1 	1 	15 	1 	the 	DT
+Amo 	9 	1 	1 	16 	1 	lintel 	NN
+Amo 	9 	1 	1 	17 	1 	of 	IN
+Amo 	9 	1 	1 	18 	1 	the 	DT
+Amo 	9 	1 	1 	19 	1 	door 	NN
+Amo 	9 	1 	1 	20 	0 	,
+Amo 	9 	1 	1 	21 	1 	that 	IN
+Amo 	9 	1 	1 	22 	1 	the 	DT
+Amo 	9 	1 	1 	23 	1 	posts 	NNS
+Amo 	9 	1 	1 	24 	1 	may 	MD
+Amo 	9 	1 	1 	25 	1 	shake 	NN
+Amo 	9 	1 	1 	26 	0 	:
+Amo 	9 	1 	1 	27 	1 	and 	CC
+Amo 	9 	1 	1 	28 	1 	cut 	NN
+Amo 	9 	1 	1 	29 	1 	them 	PRP
+Amo 	9 	1 	1 	30 	1 	in 	IN
+Amo 	9 	1 	1 	31 	1 	the 	DT
+Amo 	9 	1 	1 	32 	1 	head 	NN
+Amo 	9 	1 	1 	33 	0 	,
+Amo 	9 	1 	1 	34 	1 	all 	DT
+Amo 	9 	1 	1 	35 	1 	of 	IN
+Amo 	9 	1 	1 	36 	1 	them 	PRP
+Amo 	9 	1 	1 	37 	0 	;
+Amo 	9 	1 	1 	38 	1 	and 	CC
+Amo 	9 	1 	1 	39 	1 	I 	PRP
+Amo 	9 	1 	1 	40 	1 	will 	MD
+Amo 	9 	1 	1 	41 	1 	slay 	NN
+Amo 	9 	1 	1 	42 	1 	the 	DT
+Amo 	9 	1 	1 	43 	1 	last 	JJ
+Amo 	9 	1 	1 	44 	1 	of 	IN
+Amo 	9 	1 	1 	45 	1 	them 	PRP
+Amo 	9 	1 	1 	46 	1 	with 	IN
+Amo 	9 	1 	1 	47 	1 	the 	DT
+Amo 	9 	1 	1 	48 	1 	sword 	NN
+Amo 	9 	1 	1 	49 	0 	:
+Amo 	9 	1 	1 	50 	1 	he 	PRP
+Amo 	9 	1 	1 	51 	1 	that 	IN
+Amo 	9 	1 	1 	52 	1 	fleeth 	NNS
+Amo 	9 	1 	1 	53 	1 	of 	IN
+Amo 	9 	1 	1 	54 	1 	them 	PRP
+Amo 	9 	1 	1 	55 	1 	shall 	MD
+Amo 	9 	1 	1 	56 	1 	not 	RB
+Amo 	9 	1 	1 	57 	1 	flee 	NN
+Amo 	9 	1 	1 	58 	1 	away 	RB
+Amo 	9 	1 	1 	59 	0 	,
+Amo 	9 	1 	1 	60 	1 	and 	CC
+Amo 	9 	1 	1 	61 	1 	he 	PRP
+Amo 	9 	1 	1 	62 	1 	that 	IN
+Amo 	9 	1 	1 	63 	1 	escapeth 	NNS
+Amo 	9 	1 	1 	64 	1 	of 	IN
+Amo 	9 	1 	1 	65 	1 	them 	PRP
+Amo 	9 	1 	1 	66 	1 	shall 	MD
+Amo 	9 	1 	1 	67 	1 	not 	RB
+Amo 	9 	1 	1 	68 	1 	be 	VB
+Amo 	9 	1 	1 	69 	1 	delivered 	VBN
+Amo 	9 	1 	1 	70 	0 	.
+Amo 	9 	2 	1 	1 	1 	Though 	IN
+Amo 	9 	2 	1 	2 	1 	they 	PRP
+Amo 	9 	2 	1 	3 	1 	dig 	NN
+Amo 	9 	2 	1 	4 	1 	into 	IN
+Amo 	9 	2 	1 	5 	1 	hell 	NN
+Amo 	9 	2 	1 	6 	0 	,
+Amo 	9 	2 	1 	7 	1 	thence 	NN
+Amo 	9 	2 	1 	8 	1 	shall 	MD
+Amo 	9 	2 	1 	9 	1 	mine 	NN
+Amo 	9 	2 	1 	10 	1 	hand 	NN
+Amo 	9 	2 	1 	11 	1 	take 	VB
+Amo 	9 	2 	1 	12 	1 	them 	PRP
+Amo 	9 	2 	1 	13 	0 	;
+Amo 	9 	2 	1 	14 	1 	though 	IN
+Amo 	9 	2 	1 	15 	1 	they 	PRP
+Amo 	9 	2 	1 	16 	1 	climb 	NN
+Amo 	9 	2 	1 	17 	1 	up 	RB
+Amo 	9 	2 	1 	18 	1 	to 	TO
+Amo 	9 	2 	1 	19 	1 	heaven 	NN
+Amo 	9 	2 	1 	20 	0 	,
+Amo 	9 	2 	1 	21 	1 	thence 	NN
+Amo 	9 	2 	1 	22 	1 	will 	MD
+Amo 	9 	2 	1 	23 	1 	I 	PRP
+Amo 	9 	2 	1 	24 	1 	bring 	NN
+Amo 	9 	2 	1 	25 	1 	them 	PRP
+Amo 	9 	2 	1 	26 	1 	down 	RB
+Amo 	9 	2 	1 	27 	0 	:
+Amo 	9 	3 	1 	1 	1 	nd 	NN
+Amo 	9 	3 	1 	2 	1 	though 	IN
+Amo 	9 	3 	1 	3 	1 	they 	PRP
+Amo 	9 	3 	1 	4 	1 	hide 	NN
+Amo 	9 	3 	1 	5 	1 	themselves 	PRP
+Amo 	9 	3 	1 	6 	1 	in 	IN
+Amo 	9 	3 	1 	7 	1 	the 	DT
+Amo 	9 	3 	1 	8 	1 	top 	NN
+Amo 	9 	3 	1 	9 	1 	of 	IN
+Amo 	9 	3 	1 	10 	1 	Carmel 	NN
+Amo 	9 	3 	1 	11 	0 	,
+Amo 	9 	3 	1 	12 	1 	I 	PRP
+Amo 	9 	3 	1 	13 	1 	will 	MD
+Amo 	9 	3 	1 	14 	1 	search 	NN
+Amo 	9 	3 	1 	15 	1 	and 	CC
+Amo 	9 	3 	1 	16 	1 	take 	VB
+Amo 	9 	3 	1 	17 	1 	them 	PRP
+Amo 	9 	3 	1 	18 	1 	out 	IN
+Amo 	9 	3 	1 	19 	1 	thence 	NN
+Amo 	9 	3 	1 	20 	0 	;
+Amo 	9 	3 	1 	21 	1 	and 	CC
+Amo 	9 	3 	1 	22 	1 	though 	IN
+Amo 	9 	3 	1 	23 	1 	they 	PRP
+Amo 	9 	3 	1 	24 	1 	be 	VB
+Amo 	9 	3 	1 	25 	1 	hid 	NN
+Amo 	9 	3 	1 	26 	1 	from 	IN
+Amo 	9 	3 	1 	27 	1 	my 	PRP$
+Amo 	9 	3 	1 	28 	1 	sight 	NN
+Amo 	9 	3 	1 	29 	1 	in 	IN
+Amo 	9 	3 	1 	30 	1 	the 	DT
+Amo 	9 	3 	1 	31 	1 	bottom 	NN
+Amo 	9 	3 	1 	32 	1 	of 	IN
+Amo 	9 	3 	1 	33 	1 	the 	DT
+Amo 	9 	3 	1 	34 	1 	sea 	NN
+Amo 	9 	3 	1 	35 	0 	,
+Amo 	9 	3 	1 	36 	1 	thence 	NN
+Amo 	9 	3 	1 	37 	1 	will 	MD
+Amo 	9 	3 	1 	38 	1 	I 	PRP
+Amo 	9 	3 	1 	39 	1 	command 	NN
+Amo 	9 	3 	1 	40 	1 	the 	DT
+Amo 	9 	3 	1 	41 	1 	serpent 	NN
+Amo 	9 	3 	1 	42 	0 	,
+Amo 	9 	3 	1 	43 	1 	and 	CC
+Amo 	9 	3 	1 	44 	1 	he 	PRP
+Amo 	9 	3 	1 	45 	1 	shall 	MD
+Amo 	9 	3 	1 	46 	1 	bite 	NN
+Amo 	9 	3 	1 	47 	1 	them 	PRP
+Amo 	9 	3 	1 	48 	0 	:
+Amo 	9 	4 	1 	1 	1 	nd 	NN
+Amo 	9 	4 	1 	2 	1 	though 	IN
+Amo 	9 	4 	1 	3 	1 	they 	PRP
+Amo 	9 	4 	1 	4 	1 	go 	VB
+Amo 	9 	4 	1 	5 	1 	into 	IN
+Amo 	9 	4 	1 	6 	1 	captivity 	NN
+Amo 	9 	4 	1 	7 	1 	before 	IN
+Amo 	9 	4 	1 	8 	1 	their 	PRP$
+Amo 	9 	4 	1 	9 	1 	enemies 	NNS
+Amo 	9 	4 	1 	10 	0 	,
+Amo 	9 	4 	1 	11 	1 	thence 	NN
+Amo 	9 	4 	1 	12 	1 	will 	MD
+Amo 	9 	4 	1 	13 	1 	I 	PRP
+Amo 	9 	4 	1 	14 	1 	command 	NN
+Amo 	9 	4 	1 	15 	1 	the 	DT
+Amo 	9 	4 	1 	16 	1 	sword 	NN
+Amo 	9 	4 	1 	17 	0 	,
+Amo 	9 	4 	1 	18 	1 	and 	CC
+Amo 	9 	4 	1 	19 	1 	it 	PRP
+Amo 	9 	4 	1 	20 	1 	shall 	MD
+Amo 	9 	4 	1 	21 	1 	slay 	NN
+Amo 	9 	4 	1 	22 	1 	them 	PRP
+Amo 	9 	4 	1 	23 	0 	:
+Amo 	9 	4 	1 	24 	1 	and 	CC
+Amo 	9 	4 	1 	25 	1 	I 	PRP
+Amo 	9 	4 	1 	26 	1 	will 	MD
+Amo 	9 	4 	1 	27 	1 	set 	NN
+Amo 	9 	4 	1 	28 	1 	mine 	NN
+Amo 	9 	4 	1 	29 	1 	eyes 	NNS
+Amo 	9 	4 	1 	30 	1 	upon 	IN
+Amo 	9 	4 	1 	31 	1 	them 	PRP
+Amo 	9 	4 	1 	32 	1 	for 	IN
+Amo 	9 	4 	1 	33 	1 	evil 	NN
+Amo 	9 	4 	1 	34 	0 	,
+Amo 	9 	4 	1 	35 	1 	and 	CC
+Amo 	9 	4 	1 	36 	1 	not 	RB
+Amo 	9 	4 	1 	37 	1 	for 	IN
+Amo 	9 	4 	1 	38 	1 	good 	JJ
+Amo 	9 	4 	1 	39 	0 	.
+Amo 	9 	5 	1 	1 	1 	nd 	NN
+Amo 	9 	5 	1 	2 	1 	the 	DT
+Amo 	9 	5 	1 	3 	1 	Lord 	NN
+Amo 	9 	5 	1 	4 	1 	GOD 	NNP
+Amo 	9 	5 	1 	5 	1 	of 	IN
+Amo 	9 	5 	1 	6 	1 	hosts 	NNS
+Amo 	9 	5 	1 	7 	1 	is 	VBZ
+Amo 	9 	5 	1 	8 	1 	he 	PRP
+Amo 	9 	5 	1 	9 	1 	that 	IN
+Amo 	9 	5 	1 	10 	1 	toucheth 	NNS
+Amo 	9 	5 	1 	11 	1 	the 	DT
+Amo 	9 	5 	1 	12 	1 	land 	NN
+Amo 	9 	5 	1 	13 	0 	,
+Amo 	9 	5 	1 	14 	1 	and 	CC
+Amo 	9 	5 	1 	15 	1 	it 	PRP
+Amo 	9 	5 	1 	16 	1 	shall 	MD
+Amo 	9 	5 	1 	17 	1 	melt 	NN
+Amo 	9 	5 	1 	18 	0 	,
+Amo 	9 	5 	1 	19 	1 	and 	CC
+Amo 	9 	5 	1 	20 	1 	all 	DT
+Amo 	9 	5 	1 	21 	1 	that 	IN
+Amo 	9 	5 	1 	22 	1 	dwell 	NN
+Amo 	9 	5 	1 	23 	1 	therein 	NN
+Amo 	9 	5 	1 	24 	1 	shall 	MD
+Amo 	9 	5 	1 	25 	1 	mourn 	NN
+Amo 	9 	5 	1 	26 	0 	:
+Amo 	9 	5 	1 	27 	1 	and 	CC
+Amo 	9 	5 	1 	28 	1 	it 	PRP
+Amo 	9 	5 	1 	29 	1 	shall 	MD
+Amo 	9 	5 	1 	30 	1 	rise 	NN
+Amo 	9 	5 	1 	31 	1 	up 	RB
+Amo 	9 	5 	1 	32 	1 	wholly 	RB
+Amo 	9 	5 	1 	33 	1 	like 	IN
+Amo 	9 	5 	1 	34 	1 	a 	DT
+Amo 	9 	5 	1 	35 	1 	flood 	NN
+Amo 	9 	5 	1 	36 	0 	;
+Amo 	9 	5 	1 	37 	1 	and 	CC
+Amo 	9 	5 	1 	38 	1 	shall 	MD
+Amo 	9 	5 	1 	39 	1 	be 	VB
+Amo 	9 	5 	1 	40 	1 	drowned 	VBN
+Amo 	9 	5 	1 	41 	0 	,
+Amo 	9 	5 	1 	42 	1 	as 	IN
+Amo 	9 	5 	1 	43 	1 	by 	IN
+Amo 	9 	5 	1 	44 	1 	the 	DT
+Amo 	9 	5 	1 	45 	1 	flood 	NN
+Amo 	9 	5 	1 	46 	1 	of 	IN
+Amo 	9 	5 	1 	47 	1 	Egypt 	NN
+Amo 	9 	5 	1 	48 	0 	.
+Amo 	9 	6 	1 	1 	1 	It 	PRP
+Amo 	9 	6 	1 	2 	1 	is 	VBZ
+Amo 	9 	6 	1 	3 	1 	he 	PRP
+Amo 	9 	6 	1 	4 	1 	that 	IN
+Amo 	9 	6 	1 	5 	1 	buildeth 	NN
+Amo 	9 	6 	1 	6 	1 	his 	PRP$
+Amo 	9 	6 	1 	7 	1 	stories 	NNS
+Amo 	9 	6 	1 	8 	1 	in 	IN
+Amo 	9 	6 	1 	9 	1 	the 	DT
+Amo 	9 	6 	1 	10 	1 	heaven 	NN
+Amo 	9 	6 	1 	11 	0 	,
+Amo 	9 	6 	1 	12 	1 	and 	CC
+Amo 	9 	6 	1 	13 	1 	hath 	NN
+Amo 	9 	6 	1 	14 	1 	founded 	VBN
+Amo 	9 	6 	1 	15 	1 	his 	PRP$
+Amo 	9 	6 	1 	16 	1 	troop 	NN
+Amo 	9 	6 	1 	17 	1 	in 	IN
+Amo 	9 	6 	1 	18 	1 	the 	DT
+Amo 	9 	6 	1 	19 	1 	earth 	NN
+Amo 	9 	6 	1 	20 	0 	;
+Amo 	9 	6 	1 	21 	1 	he 	PRP
+Amo 	9 	6 	1 	22 	1 	that 	IN
+Amo 	9 	6 	1 	23 	1 	calleth 	NNS
+Amo 	9 	6 	1 	24 	1 	for 	IN
+Amo 	9 	6 	1 	25 	1 	the 	DT
+Amo 	9 	6 	1 	26 	1 	waters 	NNS
+Amo 	9 	6 	1 	27 	1 	of 	IN
+Amo 	9 	6 	1 	28 	1 	the 	DT
+Amo 	9 	6 	1 	29 	1 	sea 	NN
+Amo 	9 	6 	1 	30 	0 	,
+Amo 	9 	6 	1 	31 	1 	and 	CC
+Amo 	9 	6 	1 	32 	1 	poureth 	NN
+Amo 	9 	6 	1 	33 	1 	them 	PRP
+Amo 	9 	6 	1 	34 	1 	out 	IN
+Amo 	9 	6 	1 	35 	1 	upon 	IN
+Amo 	9 	6 	1 	36 	1 	the 	DT
+Amo 	9 	6 	1 	37 	1 	face 	NN
+Amo 	9 	6 	1 	38 	1 	of 	IN
+Amo 	9 	6 	1 	39 	1 	the 	DT
+Amo 	9 	6 	1 	40 	1 	earth 	NN
+Amo 	9 	6 	1 	41 	0 	:
+Amo 	9 	6 	1 	42 	1 	The 	DT
+Amo 	9 	6 	1 	43 	1 	LORD 	NN
+Amo 	9 	6 	1 	44 	1 	is 	VBZ
+Amo 	9 	6 	1 	45 	1 	his 	PRP$
+Amo 	9 	6 	1 	46 	1 	name 	NN
+Amo 	9 	6 	1 	47 	0 	.
+Amo 	9 	7 	1 	1 	1 	re 	NN
+Amo 	9 	7 	1 	2 	1 	ye 	NN
+Amo 	9 	7 	1 	3 	1 	not 	RB
+Amo 	9 	7 	1 	4 	1 	as 	IN
+Amo 	9 	7 	1 	5 	1 	children 	NNS
+Amo 	9 	7 	1 	6 	1 	of 	IN
+Amo 	9 	7 	1 	7 	1 	the 	DT
+Amo 	9 	7 	1 	8 	1 	Ethiopians 	NNS
+Amo 	9 	7 	1 	9 	1 	unto 	NN
+Amo 	9 	7 	1 	10 	1 	me 	PRP
+Amo 	9 	7 	1 	11 	0 	,
+Amo 	9 	7 	1 	12 	1 	O 	NN
+Amo 	9 	7 	1 	13 	1 	children 	NNS
+Amo 	9 	7 	1 	14 	1 	of 	IN
+Amo 	9 	7 	1 	15 	1 	Israel 	NNP
+Amo 	9 	7 	1 	16 	0 	?
+Amo 	9 	7 	2 	1 	1 	saith 	NN
+Amo 	9 	7 	2 	2 	1 	the 	DT
+Amo 	9 	7 	2 	3 	1 	LORD 	NN
+Amo 	9 	7 	2 	4 	0 	.
+Amo 	9 	7 	3 	1 	1 	Have 	VB
+Amo 	9 	7 	3 	2 	1 	not 	RB
+Amo 	9 	7 	3 	3 	1 	I 	PRP
+Amo 	9 	7 	3 	4 	1 	brought 	NN
+Amo 	9 	7 	3 	5 	1 	up 	RB
+Amo 	9 	7 	3 	6 	1 	Israel 	NNP
+Amo 	9 	7 	3 	7 	1 	out 	IN
+Amo 	9 	7 	3 	8 	1 	of 	IN
+Amo 	9 	7 	3 	9 	1 	the 	DT
+Amo 	9 	7 	3 	10 	1 	land 	NN
+Amo 	9 	7 	3 	11 	1 	of 	IN
+Amo 	9 	7 	3 	12 	1 	Egypt 	NN
+Amo 	9 	7 	3 	13 	0 	?
+Amo 	9 	7 	4 	1 	1 	and 	CC
+Amo 	9 	7 	4 	2 	1 	the 	DT
+Amo 	9 	7 	4 	3 	1 	Philistines 	NNS
+Amo 	9 	7 	4 	4 	1 	from 	IN
+Amo 	9 	7 	4 	5 	1 	Caphtor 	NN
+Amo 	9 	7 	4 	6 	0 	,
+Amo 	9 	7 	4 	7 	1 	and 	CC
+Amo 	9 	7 	4 	8 	1 	the 	DT
+Amo 	9 	7 	4 	9 	1 	Syrians 	NNS
+Amo 	9 	7 	4 	10 	1 	from 	IN
+Amo 	9 	7 	4 	11 	1 	Kir 	NNP
+Amo 	9 	7 	4 	12 	0 	?
+Amo 	9 	8 	1 	1 	1 	Behold 	NN
+Amo 	9 	8 	1 	2 	0 	,
+Amo 	9 	8 	1 	3 	1 	the 	DT
+Amo 	9 	8 	1 	4 	1 	eyes 	NNS
+Amo 	9 	8 	1 	5 	1 	of 	IN
+Amo 	9 	8 	1 	6 	1 	the 	DT
+Amo 	9 	8 	1 	7 	1 	Lord 	NN
+Amo 	9 	8 	1 	8 	1 	GOD 	NNP
+Amo 	9 	8 	1 	9 	1 	are 	VBP
+Amo 	9 	8 	1 	10 	1 	upon 	IN
+Amo 	9 	8 	1 	11 	1 	the 	DT
+Amo 	9 	8 	1 	12 	1 	sinful 	NN
+Amo 	9 	8 	1 	13 	1 	kingdom 	NN
+Amo 	9 	8 	1 	14 	0 	,
+Amo 	9 	8 	1 	15 	1 	and 	CC
+Amo 	9 	8 	1 	16 	1 	I 	PRP
+Amo 	9 	8 	1 	17 	1 	will 	MD
+Amo 	9 	8 	1 	18 	1 	destroy 	NN
+Amo 	9 	8 	1 	19 	1 	it 	PRP
+Amo 	9 	8 	1 	20 	1 	from 	IN
+Amo 	9 	8 	1 	21 	1 	off 	IN
+Amo 	9 	8 	1 	22 	1 	the 	DT
+Amo 	9 	8 	1 	23 	1 	face 	NN
+Amo 	9 	8 	1 	24 	1 	of 	IN
+Amo 	9 	8 	1 	25 	1 	the 	DT
+Amo 	9 	8 	1 	26 	1 	earth 	NN
+Amo 	9 	8 	1 	27 	0 	;
+Amo 	9 	8 	1 	28 	1 	saving 	VBG
+Amo 	9 	8 	1 	29 	1 	that 	IN
+Amo 	9 	8 	1 	30 	1 	I 	PRP
+Amo 	9 	8 	1 	31 	1 	will 	MD
+Amo 	9 	8 	1 	32 	1 	not 	RB
+Amo 	9 	8 	1 	33 	1 	utterly 	RB
+Amo 	9 	8 	1 	34 	1 	destroy 	NN
+Amo 	9 	8 	1 	35 	1 	the 	DT
+Amo 	9 	8 	1 	36 	1 	house 	NN
+Amo 	9 	8 	1 	37 	1 	of 	IN
+Amo 	9 	8 	1 	38 	1 	Jacob 	NN
+Amo 	9 	8 	1 	39 	0 	,
+Amo 	9 	8 	1 	40 	1 	saith 	NN
+Amo 	9 	8 	1 	41 	1 	the 	DT
+Amo 	9 	8 	1 	42 	1 	LORD 	NN
+Amo 	9 	8 	1 	43 	0 	.
+Amo 	9 	9 	1 	1 	1 	For 	IN
+Amo 	9 	9 	1 	2 	0 	,
+Amo 	9 	9 	1 	3 	1 	lo 	NN
+Amo 	9 	9 	1 	4 	0 	,
+Amo 	9 	9 	1 	5 	1 	I 	PRP
+Amo 	9 	9 	1 	6 	1 	will 	MD
+Amo 	9 	9 	1 	7 	1 	command 	NN
+Amo 	9 	9 	1 	8 	0 	,
+Amo 	9 	9 	1 	9 	1 	and 	CC
+Amo 	9 	9 	1 	10 	1 	I 	PRP
+Amo 	9 	9 	1 	11 	1 	will 	MD
+Amo 	9 	9 	1 	12 	1 	sift 	NN
+Amo 	9 	9 	1 	13 	1 	the 	DT
+Amo 	9 	9 	1 	14 	1 	house 	NN
+Amo 	9 	9 	1 	15 	1 	of 	IN
+Amo 	9 	9 	1 	16 	1 	Israel 	NNP
+Amo 	9 	9 	1 	17 	1 	among 	IN
+Amo 	9 	9 	1 	18 	1 	all 	DT
+Amo 	9 	9 	1 	19 	1 	nations 	NNS
+Amo 	9 	9 	1 	20 	0 	,
+Amo 	9 	9 	1 	21 	1 	like 	IN
+Amo 	9 	9 	1 	22 	1 	as 	IN
+Amo 	9 	9 	1 	23 	1 	corn 	NN
+Amo 	9 	9 	1 	24 	1 	is 	VBZ
+Amo 	9 	9 	1 	25 	1 	sifted 	VBN
+Amo 	9 	9 	1 	26 	1 	in 	IN
+Amo 	9 	9 	1 	27 	1 	a 	DT
+Amo 	9 	9 	1 	28 	1 	sieve 	NN
+Amo 	9 	9 	1 	29 	0 	,
+Amo 	9 	9 	1 	30 	1 	yet 	RB
+Amo 	9 	9 	1 	31 	1 	shall 	MD
+Amo 	9 	9 	1 	32 	1 	not 	RB
+Amo 	9 	9 	1 	33 	1 	the 	DT
+Amo 	9 	9 	1 	34 	1 	least 	JJS
+Amo 	9 	9 	1 	35 	1 	grain 	NN
+Amo 	9 	9 	1 	36 	1 	fall 	NN
+Amo 	9 	9 	1 	37 	1 	upon 	IN
+Amo 	9 	9 	1 	38 	1 	the 	DT
+Amo 	9 	9 	1 	39 	1 	earth 	NN
+Amo 	9 	9 	1 	40 	0 	.
+Amo 	9 	10 	1 	1 	1 	ll 	NN
+Amo 	9 	10 	1 	2 	1 	the 	DT
+Amo 	9 	10 	1 	3 	1 	sinners 	NNS
+Amo 	9 	10 	1 	4 	1 	of 	IN
+Amo 	9 	10 	1 	5 	1 	my 	PRP$
+Amo 	9 	10 	1 	6 	1 	people 	NNS
+Amo 	9 	10 	1 	7 	1 	shall 	MD
+Amo 	9 	10 	1 	8 	1 	die 	NN
+Amo 	9 	10 	1 	9 	1 	by 	IN
+Amo 	9 	10 	1 	10 	1 	the 	DT
+Amo 	9 	10 	1 	11 	1 	sword 	NN
+Amo 	9 	10 	1 	12 	0 	,
+Amo 	9 	10 	1 	13 	1 	which 	WDT
+Amo 	9 	10 	1 	14 	1 	say 	VB
+Amo 	9 	10 	1 	15 	0 	,
+Amo 	9 	10 	1 	16 	1 	The 	DT
+Amo 	9 	10 	1 	17 	1 	evil 	NN
+Amo 	9 	10 	1 	18 	1 	shall 	MD
+Amo 	9 	10 	1 	19 	1 	not 	RB
+Amo 	9 	10 	1 	20 	1 	overtake 	NN
+Amo 	9 	10 	1 	21 	1 	nor 	CC
+Amo 	9 	10 	1 	22 	1 	prevent 	NN
+Amo 	9 	10 	1 	23 	1 	us 	PRP
+Amo 	9 	10 	1 	24 	0 	.
+Amo 	9 	11 	1 	1 	1 	In 	IN
+Amo 	9 	11 	1 	2 	1 	that 	IN
+Amo 	9 	11 	1 	3 	1 	day 	NN
+Amo 	9 	11 	1 	4 	1 	will 	MD
+Amo 	9 	11 	1 	5 	1 	I 	PRP
+Amo 	9 	11 	1 	6 	1 	raise 	NN
+Amo 	9 	11 	1 	7 	1 	up 	RB
+Amo 	9 	11 	1 	8 	1 	the 	DT
+Amo 	9 	11 	1 	9 	1 	tabernacle 	NN
+Amo 	9 	11 	1 	10 	1 	of 	IN
+Amo 	9 	11 	1 	11 	1 	David 	NNP
+Amo 	9 	11 	1 	12 	1 	that 	IN
+Amo 	9 	11 	1 	13 	1 	is 	VBZ
+Amo 	9 	11 	1 	14 	1 	fallen 	VBN
+Amo 	9 	11 	1 	15 	0 	,
+Amo 	9 	11 	1 	16 	1 	and 	CC
+Amo 	9 	11 	1 	17 	1 	close 	RB
+Amo 	9 	11 	1 	18 	1 	up 	RB
+Amo 	9 	11 	1 	19 	1 	the 	DT
+Amo 	9 	11 	1 	20 	1 	breaches 	NNS
+Amo 	9 	11 	1 	21 	1 	thereof 	NN
+Amo 	9 	11 	1 	22 	0 	;
+Amo 	9 	11 	1 	23 	1 	and 	CC
+Amo 	9 	11 	1 	24 	1 	I 	PRP
+Amo 	9 	11 	1 	25 	1 	will 	MD
+Amo 	9 	11 	1 	26 	1 	raise 	NN
+Amo 	9 	11 	1 	27 	1 	up 	RB
+Amo 	9 	11 	1 	28 	1 	his 	PRP$
+Amo 	9 	11 	1 	29 	1 	ruins 	NNS
+Amo 	9 	11 	1 	30 	0 	,
+Amo 	9 	11 	1 	31 	1 	and 	CC
+Amo 	9 	11 	1 	32 	1 	I 	PRP
+Amo 	9 	11 	1 	33 	1 	will 	MD
+Amo 	9 	11 	1 	34 	1 	build 	NN
+Amo 	9 	11 	1 	35 	1 	it 	PRP
+Amo 	9 	11 	1 	36 	1 	as 	IN
+Amo 	9 	11 	1 	37 	1 	in 	IN
+Amo 	9 	11 	1 	38 	1 	the 	DT
+Amo 	9 	11 	1 	39 	1 	days 	NNS
+Amo 	9 	11 	1 	40 	1 	of 	IN
+Amo 	9 	11 	1 	41 	1 	old 	JJ
+Amo 	9 	11 	1 	42 	0 	:
+Amo 	9 	12 	1 	1 	1 	That 	DT
+Amo 	9 	12 	1 	2 	1 	they 	PRP
+Amo 	9 	12 	1 	3 	1 	may 	MD
+Amo 	9 	12 	1 	4 	1 	possess 	NN
+Amo 	9 	12 	1 	5 	1 	the 	DT
+Amo 	9 	12 	1 	6 	1 	remnant 	NN
+Amo 	9 	12 	1 	7 	1 	of 	IN
+Amo 	9 	12 	1 	8 	1 	Edom 	NN
+Amo 	9 	12 	1 	9 	0 	,
+Amo 	9 	12 	1 	10 	1 	and 	CC
+Amo 	9 	12 	1 	11 	1 	of 	IN
+Amo 	9 	12 	1 	12 	1 	all 	DT
+Amo 	9 	12 	1 	13 	1 	the 	DT
+Amo 	9 	12 	1 	14 	1 	heathen 	NN
+Amo 	9 	12 	1 	15 	0 	,
+Amo 	9 	12 	1 	16 	1 	which 	WDT
+Amo 	9 	12 	1 	17 	1 	are 	VBP
+Amo 	9 	12 	1 	18 	1 	called 	VBN
+Amo 	9 	12 	1 	19 	1 	by 	IN
+Amo 	9 	12 	1 	20 	1 	my 	PRP$
+Amo 	9 	12 	1 	21 	1 	name 	NN
+Amo 	9 	12 	1 	22 	0 	,
+Amo 	9 	12 	1 	23 	1 	saith 	NN
+Amo 	9 	12 	1 	24 	1 	the 	DT
+Amo 	9 	12 	1 	25 	1 	LORD 	NN
+Amo 	9 	12 	1 	26 	1 	that 	IN
+Amo 	9 	12 	1 	27 	1 	doeth 	NN
+Amo 	9 	12 	1 	28 	1 	this 	DT
+Amo 	9 	12 	1 	29 	0 	.
+Amo 	9 	13 	1 	1 	1 	Behold 	NN
+Amo 	9 	13 	1 	2 	0 	,
+Amo 	9 	13 	1 	3 	1 	the 	DT
+Amo 	9 	13 	1 	4 	1 	days 	NNS
+Amo 	9 	13 	1 	5 	1 	come 	VB
+Amo 	9 	13 	1 	6 	0 	,
+Amo 	9 	13 	1 	7 	1 	saith 	NN
+Amo 	9 	13 	1 	8 	1 	the 	DT
+Amo 	9 	13 	1 	9 	1 	LORD 	NN
+Amo 	9 	13 	1 	10 	0 	,
+Amo 	9 	13 	1 	11 	1 	that 	IN
+Amo 	9 	13 	1 	12 	1 	the 	DT
+Amo 	9 	13 	1 	13 	1 	plowman 	NN
+Amo 	9 	13 	1 	14 	1 	shall 	MD
+Amo 	9 	13 	1 	15 	1 	overtake 	NN
+Amo 	9 	13 	1 	16 	1 	the 	DT
+Amo 	9 	13 	1 	17 	1 	reaper 	NN
+Amo 	9 	13 	1 	18 	0 	,
+Amo 	9 	13 	1 	19 	1 	and 	CC
+Amo 	9 	13 	1 	20 	1 	the 	DT
+Amo 	9 	13 	1 	21 	1 	treader 	NN
+Amo 	9 	13 	1 	22 	1 	of 	IN
+Amo 	9 	13 	1 	23 	1 	grapes 	NNS
+Amo 	9 	13 	1 	24 	1 	him 	PRP
+Amo 	9 	13 	1 	25 	1 	that 	IN
+Amo 	9 	13 	1 	26 	1 	soweth 	NN
+Amo 	9 	13 	1 	27 	1 	seed 	NN
+Amo 	9 	13 	1 	28 	0 	;
+Amo 	9 	13 	1 	29 	1 	and 	CC
+Amo 	9 	13 	1 	30 	1 	the 	DT
+Amo 	9 	13 	1 	31 	1 	mountains 	NNS
+Amo 	9 	13 	1 	32 	1 	shall 	MD
+Amo 	9 	13 	1 	33 	1 	drop 	NN
+Amo 	9 	13 	1 	34 	1 	sweet 	NN
+Amo 	9 	13 	1 	35 	1 	wine 	NN
+Amo 	9 	13 	1 	36 	0 	,
+Amo 	9 	13 	1 	37 	1 	and 	CC
+Amo 	9 	13 	1 	38 	1 	all 	DT
+Amo 	9 	13 	1 	39 	1 	the 	DT
+Amo 	9 	13 	1 	40 	1 	hills 	NNS
+Amo 	9 	13 	1 	41 	1 	shall 	MD
+Amo 	9 	13 	1 	42 	1 	melt 	NN
+Amo 	9 	13 	1 	43 	0 	.
+Amo 	9 	14 	1 	1 	1 	nd 	NN
+Amo 	9 	14 	1 	2 	1 	I 	PRP
+Amo 	9 	14 	1 	3 	1 	will 	MD
+Amo 	9 	14 	1 	4 	1 	bring 	NN
+Amo 	9 	14 	1 	5 	1 	again 	RB
+Amo 	9 	14 	1 	6 	1 	the 	DT
+Amo 	9 	14 	1 	7 	1 	captivity 	NN
+Amo 	9 	14 	1 	8 	1 	of 	IN
+Amo 	9 	14 	1 	9 	1 	my 	PRP$
+Amo 	9 	14 	1 	10 	1 	people 	NNS
+Amo 	9 	14 	1 	11 	1 	of 	IN
+Amo 	9 	14 	1 	12 	1 	Israel 	NNP
+Amo 	9 	14 	1 	13 	0 	,
+Amo 	9 	14 	1 	14 	1 	and 	CC
+Amo 	9 	14 	1 	15 	1 	they 	PRP
+Amo 	9 	14 	1 	16 	1 	shall 	MD
+Amo 	9 	14 	1 	17 	1 	build 	NN
+Amo 	9 	14 	1 	18 	1 	the 	DT
+Amo 	9 	14 	1 	19 	1 	waste 	NN
+Amo 	9 	14 	1 	20 	1 	cities 	NNS
+Amo 	9 	14 	1 	21 	0 	,
+Amo 	9 	14 	1 	22 	1 	and 	CC
+Amo 	9 	14 	1 	23 	1 	inhabit 	NN
+Amo 	9 	14 	1 	24 	1 	them 	PRP
+Amo 	9 	14 	1 	25 	0 	;
+Amo 	9 	14 	1 	26 	1 	and 	CC
+Amo 	9 	14 	1 	27 	1 	they 	PRP
+Amo 	9 	14 	1 	28 	1 	shall 	MD
+Amo 	9 	14 	1 	29 	1 	plant 	NN
+Amo 	9 	14 	1 	30 	1 	vineyards 	NNS
+Amo 	9 	14 	1 	31 	0 	,
+Amo 	9 	14 	1 	32 	1 	and 	CC
+Amo 	9 	14 	1 	33 	1 	drink 	NN
+Amo 	9 	14 	1 	34 	1 	the 	DT
+Amo 	9 	14 	1 	35 	1 	wine 	NN
+Amo 	9 	14 	1 	36 	1 	thereof 	NN
+Amo 	9 	14 	1 	37 	0 	;
+Amo 	9 	14 	1 	38 	1 	they 	PRP
+Amo 	9 	14 	1 	39 	1 	shall 	MD
+Amo 	9 	14 	1 	40 	1 	also 	RB
+Amo 	9 	14 	1 	41 	1 	make 	VB
+Amo 	9 	14 	1 	42 	1 	gardens 	NNS
+Amo 	9 	14 	1 	43 	0 	,
+Amo 	9 	14 	1 	44 	1 	and 	CC
+Amo 	9 	14 	1 	45 	1 	eat 	NN
+Amo 	9 	14 	1 	46 	1 	the 	DT
+Amo 	9 	14 	1 	47 	1 	fruit 	NN
+Amo 	9 	14 	1 	48 	1 	of 	IN
+Amo 	9 	14 	1 	49 	1 	them 	PRP
+Amo 	9 	14 	1 	50 	0 	.
+Amo 	9 	15 	1 	1 	1 	nd 	NN
+Amo 	9 	15 	1 	2 	1 	I 	PRP
+Amo 	9 	15 	1 	3 	1 	will 	MD
+Amo 	9 	15 	1 	4 	1 	plant 	NN
+Amo 	9 	15 	1 	5 	1 	them 	PRP
+Amo 	9 	15 	1 	6 	1 	upon 	IN
+Amo 	9 	15 	1 	7 	1 	their 	PRP$
+Amo 	9 	15 	1 	8 	1 	land 	NN
+Amo 	9 	15 	1 	9 	0 	,
+Amo 	9 	15 	1 	10 	1 	and 	CC
+Amo 	9 	15 	1 	11 	1 	they 	PRP
+Amo 	9 	15 	1 	12 	1 	shall 	MD
+Amo 	9 	15 	1 	13 	1 	no 	DT
+Amo 	9 	15 	1 	14 	1 	more 	RBR
+Amo 	9 	15 	1 	15 	1 	be 	VB
+Amo 	9 	15 	1 	16 	1 	pulled 	VBD
+Amo 	9 	15 	1 	17 	1 	up 	RB
+Amo 	9 	15 	1 	18 	1 	out 	IN
+Amo 	9 	15 	1 	19 	1 	of 	IN
+Amo 	9 	15 	1 	20 	1 	their 	PRP$
+Amo 	9 	15 	1 	21 	1 	land 	NN
+Amo 	9 	15 	1 	22 	1 	which 	WDT
+Amo 	9 	15 	1 	23 	1 	I 	PRP
+Amo 	9 	15 	1 	24 	1 	have 	VB
+Amo 	9 	15 	1 	25 	1 	given 	VBN
+Amo 	9 	15 	1 	26 	1 	them 	PRP
+Amo 	9 	15 	1 	27 	0 	,
+Amo 	9 	15 	1 	28 	1 	saith 	NN
+Amo 	9 	15 	1 	29 	1 	the 	DT
+Amo 	9 	15 	1 	30 	1 	LORD 	NN
+Amo 	9 	15 	1 	31 	1 	thy 	NN
+Amo 	9 	15 	1 	32 	1 	God 	NNP
+Amo 	9 	15 	1 	33 	0 	.

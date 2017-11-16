@@ -1,0 +1,1492 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Nah 	1 	1 	1 	1 	1 	The 	DT
+Nah 	1 	1 	1 	2 	1 	burden 	NN
+Nah 	1 	1 	1 	3 	1 	of 	IN
+Nah 	1 	1 	1 	4 	1 	Nineveh 	NN
+Nah 	1 	1 	1 	5 	0 	.
+Nah 	1 	1 	2 	1 	1 	The 	DT
+Nah 	1 	1 	2 	2 	1 	book 	NN
+Nah 	1 	1 	2 	3 	1 	of 	IN
+Nah 	1 	1 	2 	4 	1 	the 	DT
+Nah 	1 	1 	2 	5 	1 	vision 	NN
+Nah 	1 	1 	2 	6 	1 	of 	IN
+Nah 	1 	1 	2 	7 	1 	Nahum 	NN
+Nah 	1 	1 	2 	8 	1 	the 	DT
+Nah 	1 	1 	2 	9 	1 	Elkoshite 	NN
+Nah 	1 	1 	2 	10 	0 	.
+Nah 	1 	2 	1 	1 	1 	God 	NNP
+Nah 	1 	2 	1 	2 	1 	is 	VBZ
+Nah 	1 	2 	1 	3 	1 	jealous 	JJ
+Nah 	1 	2 	1 	4 	0 	,
+Nah 	1 	2 	1 	5 	1 	and 	CC
+Nah 	1 	2 	1 	6 	1 	the 	DT
+Nah 	1 	2 	1 	7 	1 	LORD 	NN
+Nah 	1 	2 	1 	8 	1 	revengeth 	NN
+Nah 	1 	2 	1 	9 	0 	;
+Nah 	1 	2 	1 	10 	1 	the 	DT
+Nah 	1 	2 	1 	11 	1 	LORD 	NN
+Nah 	1 	2 	1 	12 	1 	revengeth 	NN
+Nah 	1 	2 	1 	13 	0 	,
+Nah 	1 	2 	1 	14 	1 	and 	CC
+Nah 	1 	2 	1 	15 	1 	is 	VBZ
+Nah 	1 	2 	1 	16 	1 	furious 	JJ
+Nah 	1 	2 	1 	17 	0 	;
+Nah 	1 	2 	1 	18 	1 	the 	DT
+Nah 	1 	2 	1 	19 	1 	LORD 	NN
+Nah 	1 	2 	1 	20 	1 	will 	MD
+Nah 	1 	2 	1 	21 	1 	take 	VB
+Nah 	1 	2 	1 	22 	1 	vengeance 	NN
+Nah 	1 	2 	1 	23 	1 	on 	IN
+Nah 	1 	2 	1 	24 	1 	his 	PRP$
+Nah 	1 	2 	1 	25 	1 	adversaries 	NNS
+Nah 	1 	2 	1 	26 	0 	,
+Nah 	1 	2 	1 	27 	1 	and 	CC
+Nah 	1 	2 	1 	28 	1 	he 	PRP
+Nah 	1 	2 	1 	29 	1 	reserveth 	NN
+Nah 	1 	2 	1 	30 	1 	wrath 	NN
+Nah 	1 	2 	1 	31 	1 	for 	IN
+Nah 	1 	2 	1 	32 	1 	his 	PRP$
+Nah 	1 	2 	1 	33 	1 	enemies 	NNS
+Nah 	1 	2 	1 	34 	0 	.
+Nah 	1 	3 	1 	1 	1 	The 	DT
+Nah 	1 	3 	1 	2 	1 	LORD 	NN
+Nah 	1 	3 	1 	3 	1 	is 	VBZ
+Nah 	1 	3 	1 	4 	1 	slow 	VB
+Nah 	1 	3 	1 	5 	1 	to 	TO
+Nah 	1 	3 	1 	6 	1 	anger 	NN
+Nah 	1 	3 	1 	7 	0 	,
+Nah 	1 	3 	1 	8 	1 	and 	CC
+Nah 	1 	3 	1 	9 	1 	great 	JJ
+Nah 	1 	3 	1 	10 	1 	in 	IN
+Nah 	1 	3 	1 	11 	1 	power 	NN
+Nah 	1 	3 	1 	12 	0 	,
+Nah 	1 	3 	1 	13 	1 	and 	CC
+Nah 	1 	3 	1 	14 	1 	will 	MD
+Nah 	1 	3 	1 	15 	1 	not 	RB
+Nah 	1 	3 	1 	16 	1 	at 	IN
+Nah 	1 	3 	1 	17 	1 	all 	DT
+Nah 	1 	3 	1 	18 	1 	acquit 	NN
+Nah 	1 	3 	1 	19 	1 	the 	DT
+Nah 	1 	3 	1 	20 	1 	wicked 	VBD
+Nah 	1 	3 	1 	21 	0 	:
+Nah 	1 	3 	1 	22 	1 	the 	DT
+Nah 	1 	3 	1 	23 	1 	LORD 	NN
+Nah 	1 	3 	1 	24 	1 	hath 	NN
+Nah 	1 	3 	1 	25 	1 	his 	PRP$
+Nah 	1 	3 	1 	26 	1 	way 	NN
+Nah 	1 	3 	1 	27 	1 	in 	IN
+Nah 	1 	3 	1 	28 	1 	the 	DT
+Nah 	1 	3 	1 	29 	1 	whirlwind 	NN
+Nah 	1 	3 	1 	30 	1 	and 	CC
+Nah 	1 	3 	1 	31 	1 	in 	IN
+Nah 	1 	3 	1 	32 	1 	the 	DT
+Nah 	1 	3 	1 	33 	1 	storm 	NN
+Nah 	1 	3 	1 	34 	0 	,
+Nah 	1 	3 	1 	35 	1 	and 	CC
+Nah 	1 	3 	1 	36 	1 	the 	DT
+Nah 	1 	3 	1 	37 	1 	clouds 	NNS
+Nah 	1 	3 	1 	38 	1 	are 	VBP
+Nah 	1 	3 	1 	39 	1 	the 	DT
+Nah 	1 	3 	1 	40 	1 	dust 	NN
+Nah 	1 	3 	1 	41 	1 	of 	IN
+Nah 	1 	3 	1 	42 	1 	his 	PRP$
+Nah 	1 	3 	1 	43 	1 	feet 	NNS
+Nah 	1 	3 	1 	44 	0 	.
+Nah 	1 	4 	1 	1 	1 	He 	PRP
+Nah 	1 	4 	1 	2 	1 	rebuketh 	NN
+Nah 	1 	4 	1 	3 	1 	the 	DT
+Nah 	1 	4 	1 	4 	1 	sea 	NN
+Nah 	1 	4 	1 	5 	0 	,
+Nah 	1 	4 	1 	6 	1 	and 	CC
+Nah 	1 	4 	1 	7 	1 	maketh 	NNS
+Nah 	1 	4 	1 	8 	1 	it 	PRP
+Nah 	1 	4 	1 	9 	1 	dry 	NN
+Nah 	1 	4 	1 	10 	0 	,
+Nah 	1 	4 	1 	11 	1 	and 	CC
+Nah 	1 	4 	1 	12 	1 	drieth 	NN
+Nah 	1 	4 	1 	13 	1 	up 	RB
+Nah 	1 	4 	1 	14 	1 	all 	DT
+Nah 	1 	4 	1 	15 	1 	the 	DT
+Nah 	1 	4 	1 	16 	1 	rivers 	NNS
+Nah 	1 	4 	1 	17 	0 	:
+Nah 	1 	4 	1 	18 	1 	Bashan 	NNP
+Nah 	1 	4 	1 	19 	1 	languisheth 	NN
+Nah 	1 	4 	1 	20 	0 	,
+Nah 	1 	4 	1 	21 	1 	and 	CC
+Nah 	1 	4 	1 	22 	1 	Carmel 	NN
+Nah 	1 	4 	1 	23 	0 	,
+Nah 	1 	4 	1 	24 	1 	and 	CC
+Nah 	1 	4 	1 	25 	1 	the 	DT
+Nah 	1 	4 	1 	26 	1 	flower 	NN
+Nah 	1 	4 	1 	27 	1 	of 	IN
+Nah 	1 	4 	1 	28 	1 	Lebanon 	NNP
+Nah 	1 	4 	1 	29 	1 	languisheth 	NN
+Nah 	1 	4 	1 	30 	0 	.
+Nah 	1 	5 	1 	1 	1 	The 	DT
+Nah 	1 	5 	1 	2 	1 	mountains 	NNS
+Nah 	1 	5 	1 	3 	1 	quake 	NN
+Nah 	1 	5 	1 	4 	1 	at 	IN
+Nah 	1 	5 	1 	5 	1 	him 	PRP
+Nah 	1 	5 	1 	6 	0 	,
+Nah 	1 	5 	1 	7 	1 	and 	CC
+Nah 	1 	5 	1 	8 	1 	the 	DT
+Nah 	1 	5 	1 	9 	1 	hills 	NNS
+Nah 	1 	5 	1 	10 	1 	melt 	NN
+Nah 	1 	5 	1 	11 	0 	,
+Nah 	1 	5 	1 	12 	1 	and 	CC
+Nah 	1 	5 	1 	13 	1 	the 	DT
+Nah 	1 	5 	1 	14 	1 	earth 	NN
+Nah 	1 	5 	1 	15 	1 	is 	VBZ
+Nah 	1 	5 	1 	16 	1 	burned 	VBN
+Nah 	1 	5 	1 	17 	1 	at 	IN
+Nah 	1 	5 	1 	18 	1 	his 	PRP$
+Nah 	1 	5 	1 	19 	1 	presence 	NN
+Nah 	1 	5 	1 	20 	0 	,
+Nah 	1 	5 	1 	21 	1 	yea 	NN
+Nah 	1 	5 	1 	22 	0 	,
+Nah 	1 	5 	1 	23 	1 	the 	DT
+Nah 	1 	5 	1 	24 	1 	world 	NN
+Nah 	1 	5 	1 	25 	0 	,
+Nah 	1 	5 	1 	26 	1 	and 	CC
+Nah 	1 	5 	1 	27 	1 	all 	DT
+Nah 	1 	5 	1 	28 	1 	that 	IN
+Nah 	1 	5 	1 	29 	1 	dwell 	NN
+Nah 	1 	5 	1 	30 	1 	therein 	NN
+Nah 	1 	5 	1 	31 	0 	.
+Nah 	1 	6 	1 	1 	1 	Who 	WP
+Nah 	1 	6 	1 	2 	1 	can 	MD
+Nah 	1 	6 	1 	3 	1 	stand 	NN
+Nah 	1 	6 	1 	4 	1 	before 	IN
+Nah 	1 	6 	1 	5 	1 	his 	PRP$
+Nah 	1 	6 	1 	6 	1 	indignation 	NN
+Nah 	1 	6 	1 	7 	0 	?
+Nah 	1 	6 	2 	1 	1 	and 	CC
+Nah 	1 	6 	2 	2 	1 	who 	WP
+Nah 	1 	6 	2 	3 	1 	can 	MD
+Nah 	1 	6 	2 	4 	1 	abide 	NN
+Nah 	1 	6 	2 	5 	1 	in 	IN
+Nah 	1 	6 	2 	6 	1 	the 	DT
+Nah 	1 	6 	2 	7 	1 	fierceness 	NN
+Nah 	1 	6 	2 	8 	1 	of 	IN
+Nah 	1 	6 	2 	9 	1 	his 	PRP$
+Nah 	1 	6 	2 	10 	1 	anger 	NN
+Nah 	1 	6 	2 	11 	0 	?
+Nah 	1 	6 	3 	1 	1 	his 	PRP$
+Nah 	1 	6 	3 	2 	1 	fury 	NN
+Nah 	1 	6 	3 	3 	1 	is 	VBZ
+Nah 	1 	6 	3 	4 	1 	poured 	VBN
+Nah 	1 	6 	3 	5 	1 	out 	IN
+Nah 	1 	6 	3 	6 	1 	like 	IN
+Nah 	1 	6 	3 	7 	1 	fire 	NN
+Nah 	1 	6 	3 	8 	0 	,
+Nah 	1 	6 	3 	9 	1 	and 	CC
+Nah 	1 	6 	3 	10 	1 	the 	DT
+Nah 	1 	6 	3 	11 	1 	rocks 	NNS
+Nah 	1 	6 	3 	12 	1 	are 	VBP
+Nah 	1 	6 	3 	13 	1 	thrown 	NN
+Nah 	1 	6 	3 	14 	1 	down 	RB
+Nah 	1 	6 	3 	15 	1 	by 	IN
+Nah 	1 	6 	3 	16 	1 	him 	PRP
+Nah 	1 	6 	3 	17 	0 	.
+Nah 	1 	7 	1 	1 	1 	The 	DT
+Nah 	1 	7 	1 	2 	1 	LORD 	NN
+Nah 	1 	7 	1 	3 	1 	is 	VBZ
+Nah 	1 	7 	1 	4 	1 	good 	JJ
+Nah 	1 	7 	1 	5 	0 	,
+Nah 	1 	7 	1 	6 	1 	a 	DT
+Nah 	1 	7 	1 	7 	1 	strong 	JJ
+Nah 	1 	7 	1 	8 	1 	hold 	NN
+Nah 	1 	7 	1 	9 	1 	in 	IN
+Nah 	1 	7 	1 	10 	1 	the 	DT
+Nah 	1 	7 	1 	11 	1 	day 	NN
+Nah 	1 	7 	1 	12 	1 	of 	IN
+Nah 	1 	7 	1 	13 	1 	trouble 	NN
+Nah 	1 	7 	1 	14 	0 	;
+Nah 	1 	7 	1 	15 	1 	and 	CC
+Nah 	1 	7 	1 	16 	1 	he 	PRP
+Nah 	1 	7 	1 	17 	1 	knoweth 	NNS
+Nah 	1 	7 	1 	18 	1 	them 	PRP
+Nah 	1 	7 	1 	19 	1 	that 	IN
+Nah 	1 	7 	1 	20 	1 	trust 	NN
+Nah 	1 	7 	1 	21 	1 	in 	IN
+Nah 	1 	7 	1 	22 	1 	him 	PRP
+Nah 	1 	7 	1 	23 	0 	.
+Nah 	1 	8 	1 	1 	1 	But 	CC
+Nah 	1 	8 	1 	2 	1 	with 	IN
+Nah 	1 	8 	1 	3 	1 	an 	DT
+Nah 	1 	8 	1 	4 	1 	overrunning 	VBG
+Nah 	1 	8 	1 	5 	1 	flood 	NN
+Nah 	1 	8 	1 	6 	1 	he 	PRP
+Nah 	1 	8 	1 	7 	1 	will 	MD
+Nah 	1 	8 	1 	8 	1 	make 	VB
+Nah 	1 	8 	1 	9 	1 	an 	DT
+Nah 	1 	8 	1 	10 	1 	utter 	NN
+Nah 	1 	8 	1 	11 	1 	end 	NN
+Nah 	1 	8 	1 	12 	1 	of 	IN
+Nah 	1 	8 	1 	13 	1 	the 	DT
+Nah 	1 	8 	1 	14 	1 	place 	NN
+Nah 	1 	8 	1 	15 	1 	thereof 	NN
+Nah 	1 	8 	1 	16 	0 	,
+Nah 	1 	8 	1 	17 	1 	and 	CC
+Nah 	1 	8 	1 	18 	1 	darkness 	NN
+Nah 	1 	8 	1 	19 	1 	shall 	MD
+Nah 	1 	8 	1 	20 	1 	pursue 	NN
+Nah 	1 	8 	1 	21 	1 	his 	PRP$
+Nah 	1 	8 	1 	22 	1 	enemies 	NNS
+Nah 	1 	8 	1 	23 	0 	.
+Nah 	1 	9 	1 	1 	1 	What 	WP
+Nah 	1 	9 	1 	2 	1 	do 	VB
+Nah 	1 	9 	1 	3 	1 	ye 	NN
+Nah 	1 	9 	1 	4 	1 	imagine 	NN
+Nah 	1 	9 	1 	5 	1 	against 	IN
+Nah 	1 	9 	1 	6 	1 	the 	DT
+Nah 	1 	9 	1 	7 	1 	LORD 	NN
+Nah 	1 	9 	1 	8 	0 	?
+Nah 	1 	9 	2 	1 	1 	he 	PRP
+Nah 	1 	9 	2 	2 	1 	will 	MD
+Nah 	1 	9 	2 	3 	1 	make 	VB
+Nah 	1 	9 	2 	4 	1 	an 	DT
+Nah 	1 	9 	2 	5 	1 	utter 	NN
+Nah 	1 	9 	2 	6 	1 	end 	NN
+Nah 	1 	9 	2 	7 	0 	:
+Nah 	1 	9 	2 	8 	1 	affliction 	NN
+Nah 	1 	9 	2 	9 	1 	shall 	MD
+Nah 	1 	9 	2 	10 	1 	not 	RB
+Nah 	1 	9 	2 	11 	1 	rise 	NN
+Nah 	1 	9 	2 	12 	1 	up 	RB
+Nah 	1 	9 	2 	13 	1 	the 	DT
+Nah 	1 	9 	2 	14 	1 	second 	JJ
+Nah 	1 	9 	2 	15 	1 	time 	NN
+Nah 	1 	9 	2 	16 	0 	.
+Nah 	1 	10 	1 	1 	1 	For 	IN
+Nah 	1 	10 	1 	2 	1 	while 	IN
+Nah 	1 	10 	1 	3 	1 	they 	PRP
+Nah 	1 	10 	1 	4 	1 	be 	VB
+Nah 	1 	10 	1 	5 	1 	folden 	NN
+Nah 	1 	10 	1 	6 	1 	together 	RB
+Nah 	1 	10 	1 	7 	1 	as 	IN
+Nah 	1 	10 	1 	8 	1 	thorns 	NNS
+Nah 	1 	10 	1 	9 	0 	,
+Nah 	1 	10 	1 	10 	1 	and 	CC
+Nah 	1 	10 	1 	11 	1 	while 	IN
+Nah 	1 	10 	1 	12 	1 	they 	PRP
+Nah 	1 	10 	1 	13 	1 	are 	VBP
+Nah 	1 	10 	1 	14 	1 	drunken 	NN
+Nah 	1 	10 	1 	15 	1 	as 	IN
+Nah 	1 	10 	1 	16 	1 	drunkards 	NNS
+Nah 	1 	10 	1 	17 	0 	,
+Nah 	1 	10 	1 	18 	1 	they 	PRP
+Nah 	1 	10 	1 	19 	1 	shall 	MD
+Nah 	1 	10 	1 	20 	1 	be 	VB
+Nah 	1 	10 	1 	21 	1 	devoured 	VBN
+Nah 	1 	10 	1 	22 	1 	as 	IN
+Nah 	1 	10 	1 	23 	1 	stubble 	JJ
+Nah 	1 	10 	1 	24 	1 	fully 	RB
+Nah 	1 	10 	1 	25 	1 	dry 	NN
+Nah 	1 	10 	1 	26 	0 	.
+Nah 	1 	11 	1 	1 	1 	There 	EX
+Nah 	1 	11 	1 	2 	1 	is 	VBZ
+Nah 	1 	11 	1 	3 	1 	one 	CD
+Nah 	1 	11 	1 	4 	1 	come 	VB
+Nah 	1 	11 	1 	5 	1 	out 	IN
+Nah 	1 	11 	1 	6 	1 	of 	IN
+Nah 	1 	11 	1 	7 	1 	thee 	NN
+Nah 	1 	11 	1 	8 	0 	,
+Nah 	1 	11 	1 	9 	1 	that 	IN
+Nah 	1 	11 	1 	10 	1 	imagineth 	NN
+Nah 	1 	11 	1 	11 	1 	evil 	NN
+Nah 	1 	11 	1 	12 	1 	against 	IN
+Nah 	1 	11 	1 	13 	1 	the 	DT
+Nah 	1 	11 	1 	14 	1 	LORD 	NN
+Nah 	1 	11 	1 	15 	0 	,
+Nah 	1 	11 	1 	16 	1 	a 	DT
+Nah 	1 	11 	1 	17 	1 	wicked 	VBD
+Nah 	1 	11 	1 	18 	1 	counsellor 	NN
+Nah 	1 	11 	1 	19 	0 	.
+Nah 	1 	12 	1 	1 	1 	Thus 	RB
+Nah 	1 	12 	1 	2 	1 	saith 	NN
+Nah 	1 	12 	1 	3 	1 	the 	DT
+Nah 	1 	12 	1 	4 	1 	LORD 	NN
+Nah 	1 	12 	1 	5 	0 	;
+Nah 	1 	12 	1 	6 	1 	Though 	IN
+Nah 	1 	12 	1 	7 	1 	they 	PRP
+Nah 	1 	12 	1 	8 	1 	be 	VB
+Nah 	1 	12 	1 	9 	1 	quiet 	JJ
+Nah 	1 	12 	1 	10 	0 	,
+Nah 	1 	12 	1 	11 	1 	and 	CC
+Nah 	1 	12 	1 	12 	1 	likewise 	RB
+Nah 	1 	12 	1 	13 	1 	many 	JJ
+Nah 	1 	12 	1 	14 	0 	,
+Nah 	1 	12 	1 	15 	1 	yet 	RB
+Nah 	1 	12 	1 	16 	1 	thus 	RB
+Nah 	1 	12 	1 	17 	1 	shall 	MD
+Nah 	1 	12 	1 	18 	1 	they 	PRP
+Nah 	1 	12 	1 	19 	1 	be 	VB
+Nah 	1 	12 	1 	20 	1 	cut 	NN
+Nah 	1 	12 	1 	21 	1 	down 	RB
+Nah 	1 	12 	1 	22 	0 	,
+Nah 	1 	12 	1 	23 	1 	when 	WRB
+Nah 	1 	12 	1 	24 	1 	he 	PRP
+Nah 	1 	12 	1 	25 	1 	shall 	MD
+Nah 	1 	12 	1 	26 	1 	pass 	NN
+Nah 	1 	12 	1 	27 	1 	through 	IN
+Nah 	1 	12 	1 	28 	0 	.
+Nah 	1 	12 	2 	1 	1 	Though 	IN
+Nah 	1 	12 	2 	2 	1 	I 	PRP
+Nah 	1 	12 	2 	3 	1 	have 	VB
+Nah 	1 	12 	2 	4 	1 	afflicted 	VBN
+Nah 	1 	12 	2 	5 	1 	thee 	NN
+Nah 	1 	12 	2 	6 	0 	,
+Nah 	1 	12 	2 	7 	1 	I 	PRP
+Nah 	1 	12 	2 	8 	1 	will 	MD
+Nah 	1 	12 	2 	9 	1 	afflict 	NN
+Nah 	1 	12 	2 	10 	1 	thee 	NN
+Nah 	1 	12 	2 	11 	1 	no 	DT
+Nah 	1 	12 	2 	12 	1 	more 	RBR
+Nah 	1 	12 	2 	13 	0 	.
+Nah 	1 	13 	1 	1 	1 	For 	IN
+Nah 	1 	13 	1 	2 	1 	now 	RB
+Nah 	1 	13 	1 	3 	1 	will 	MD
+Nah 	1 	13 	1 	4 	1 	I 	PRP
+Nah 	1 	13 	1 	5 	1 	break 	NN
+Nah 	1 	13 	1 	6 	1 	his 	PRP$
+Nah 	1 	13 	1 	7 	1 	yoke 	NN
+Nah 	1 	13 	1 	8 	1 	from 	IN
+Nah 	1 	13 	1 	9 	1 	off 	IN
+Nah 	1 	13 	1 	10 	1 	thee 	NN
+Nah 	1 	13 	1 	11 	0 	,
+Nah 	1 	13 	1 	12 	1 	and 	CC
+Nah 	1 	13 	1 	13 	1 	will 	MD
+Nah 	1 	13 	1 	14 	1 	burst 	NN
+Nah 	1 	13 	1 	15 	1 	thy 	NN
+Nah 	1 	13 	1 	16 	1 	bonds 	NNS
+Nah 	1 	13 	1 	17 	1 	in 	IN
+Nah 	1 	13 	1 	18 	1 	sunder 	NN
+Nah 	1 	13 	1 	19 	0 	.
+Nah 	1 	14 	1 	1 	1 	And 	CC
+Nah 	1 	14 	1 	2 	1 	the 	DT
+Nah 	1 	14 	1 	3 	1 	LORD 	NN
+Nah 	1 	14 	1 	4 	1 	hath 	NN
+Nah 	1 	14 	1 	5 	1 	given 	VBN
+Nah 	1 	14 	1 	6 	1 	a 	DT
+Nah 	1 	14 	1 	7 	1 	commandment 	NN
+Nah 	1 	14 	1 	8 	1 	concerning 	VBG
+Nah 	1 	14 	1 	9 	1 	thee 	NN
+Nah 	1 	14 	1 	10 	0 	,
+Nah 	1 	14 	1 	11 	1 	that 	IN
+Nah 	1 	14 	1 	12 	1 	no 	DT
+Nah 	1 	14 	1 	13 	1 	more 	RBR
+Nah 	1 	14 	1 	14 	1 	of 	IN
+Nah 	1 	14 	1 	15 	1 	thy 	NN
+Nah 	1 	14 	1 	16 	1 	name 	NN
+Nah 	1 	14 	1 	17 	1 	be 	VB
+Nah 	1 	14 	1 	18 	1 	sown 	NN
+Nah 	1 	14 	1 	19 	0 	:
+Nah 	1 	14 	1 	20 	1 	out 	IN
+Nah 	1 	14 	1 	21 	1 	of 	IN
+Nah 	1 	14 	1 	22 	1 	the 	DT
+Nah 	1 	14 	1 	23 	1 	house 	NN
+Nah 	1 	14 	1 	24 	1 	of 	IN
+Nah 	1 	14 	1 	25 	1 	thy 	NN
+Nah 	1 	14 	1 	26 	1 	gods 	NNS
+Nah 	1 	14 	1 	27 	1 	will 	MD
+Nah 	1 	14 	1 	28 	1 	I 	PRP
+Nah 	1 	14 	1 	29 	1 	cut 	NN
+Nah 	1 	14 	1 	30 	1 	off 	IN
+Nah 	1 	14 	1 	31 	1 	the 	DT
+Nah 	1 	14 	1 	32 	1 	graven 	NN
+Nah 	1 	14 	1 	33 	1 	image 	NN
+Nah 	1 	14 	1 	34 	1 	and 	CC
+Nah 	1 	14 	1 	35 	1 	the 	DT
+Nah 	1 	14 	1 	36 	1 	molten 	NNS
+Nah 	1 	14 	1 	37 	1 	image 	NN
+Nah 	1 	14 	1 	38 	0 	:
+Nah 	1 	14 	1 	39 	1 	I 	PRP
+Nah 	1 	14 	1 	40 	1 	will 	MD
+Nah 	1 	14 	1 	41 	1 	make 	VB
+Nah 	1 	14 	1 	42 	1 	thy 	NN
+Nah 	1 	14 	1 	43 	1 	grave 	NN
+Nah 	1 	14 	1 	44 	0 	;
+Nah 	1 	14 	1 	45 	1 	for 	IN
+Nah 	1 	14 	1 	46 	1 	thou 	NN
+Nah 	1 	14 	1 	47 	1 	art 	NN
+Nah 	1 	14 	1 	48 	1 	vile 	NN
+Nah 	1 	14 	1 	49 	0 	.
+Nah 	1 	15 	1 	1 	1 	Behold 	NN
+Nah 	1 	15 	1 	2 	1 	upon 	IN
+Nah 	1 	15 	1 	3 	1 	the 	DT
+Nah 	1 	15 	1 	4 	1 	mountains 	NNS
+Nah 	1 	15 	1 	5 	1 	the 	DT
+Nah 	1 	15 	1 	6 	1 	feet 	NNS
+Nah 	1 	15 	1 	7 	1 	of 	IN
+Nah 	1 	15 	1 	8 	1 	him 	PRP
+Nah 	1 	15 	1 	9 	1 	that 	IN
+Nah 	1 	15 	1 	10 	1 	bringeth 	NN
+Nah 	1 	15 	1 	11 	1 	good 	JJ
+Nah 	1 	15 	1 	12 	1 	tidings 	NNS
+Nah 	1 	15 	1 	13 	0 	,
+Nah 	1 	15 	1 	14 	1 	that 	IN
+Nah 	1 	15 	1 	15 	1 	publisheth 	NN
+Nah 	1 	15 	1 	16 	1 	peace 	NN
+Nah 	1 	15 	1 	17 	0 	!
+Nah 	1 	15 	2 	1 	1 	O 	NN
+Nah 	1 	15 	2 	2 	1 	Judah 	NN
+Nah 	1 	15 	2 	3 	0 	,
+Nah 	1 	15 	2 	4 	1 	keep 	VB
+Nah 	1 	15 	2 	5 	1 	thy 	NN
+Nah 	1 	15 	2 	6 	1 	solemn 	NN
+Nah 	1 	15 	2 	7 	1 	feasts 	NNS
+Nah 	1 	15 	2 	8 	0 	,
+Nah 	1 	15 	2 	9 	1 	perform 	NN
+Nah 	1 	15 	2 	10 	1 	thy 	NN
+Nah 	1 	15 	2 	11 	1 	vows 	NNS
+Nah 	1 	15 	2 	12 	0 	:
+Nah 	1 	15 	2 	13 	1 	for 	IN
+Nah 	1 	15 	2 	14 	1 	the 	DT
+Nah 	1 	15 	2 	15 	1 	wicked 	VBD
+Nah 	1 	15 	2 	16 	1 	shall 	MD
+Nah 	1 	15 	2 	17 	1 	no 	DT
+Nah 	1 	15 	2 	18 	1 	more 	RBR
+Nah 	1 	15 	2 	19 	1 	pass 	NN
+Nah 	1 	15 	2 	20 	1 	through 	IN
+Nah 	1 	15 	2 	21 	1 	thee 	NN
+Nah 	1 	15 	2 	22 	0 	;
+Nah 	1 	15 	2 	23 	1 	he 	PRP
+Nah 	1 	15 	2 	24 	1 	is 	VBZ
+Nah 	1 	15 	2 	25 	1 	utterly 	RB
+Nah 	1 	15 	2 	26 	1 	cut 	NN
+Nah 	1 	15 	2 	27 	1 	off 	IN
+Nah 	1 	15 	2 	28 	0 	.
+Nah 	2 	1 	1 	1 	1 	He 	PRP
+Nah 	2 	1 	1 	2 	1 	that 	IN
+Nah 	2 	1 	1 	3 	1 	dasheth 	NN
+Nah 	2 	1 	1 	4 	1 	in 	IN
+Nah 	2 	1 	1 	5 	1 	pieces 	NNS
+Nah 	2 	1 	1 	6 	1 	is 	VBZ
+Nah 	2 	1 	1 	7 	1 	come 	VB
+Nah 	2 	1 	1 	8 	1 	up 	RB
+Nah 	2 	1 	1 	9 	1 	before 	IN
+Nah 	2 	1 	1 	10 	1 	thy 	NN
+Nah 	2 	1 	1 	11 	1 	face 	NN
+Nah 	2 	1 	1 	12 	0 	:
+Nah 	2 	1 	1 	13 	1 	keep 	VB
+Nah 	2 	1 	1 	14 	1 	the 	DT
+Nah 	2 	1 	1 	15 	1 	munition 	NN
+Nah 	2 	1 	1 	16 	0 	,
+Nah 	2 	1 	1 	17 	1 	watch 	NN
+Nah 	2 	1 	1 	18 	1 	the 	DT
+Nah 	2 	1 	1 	19 	1 	way 	NN
+Nah 	2 	1 	1 	20 	0 	,
+Nah 	2 	1 	1 	21 	1 	make 	VB
+Nah 	2 	1 	1 	22 	1 	thy 	NN
+Nah 	2 	1 	1 	23 	1 	loins 	NNS
+Nah 	2 	1 	1 	24 	1 	strong 	JJ
+Nah 	2 	1 	1 	25 	0 	,
+Nah 	2 	1 	1 	26 	1 	fortify 	NN
+Nah 	2 	1 	1 	27 	1 	thy 	NN
+Nah 	2 	1 	1 	28 	1 	power 	NN
+Nah 	2 	1 	1 	29 	1 	mightily 	RB
+Nah 	2 	1 	1 	30 	0 	.
+Nah 	2 	2 	1 	1 	1 	For 	IN
+Nah 	2 	2 	1 	2 	1 	the 	DT
+Nah 	2 	2 	1 	3 	1 	LORD 	NN
+Nah 	2 	2 	1 	4 	1 	hath 	NN
+Nah 	2 	2 	1 	5 	1 	turned 	VBD
+Nah 	2 	2 	1 	6 	1 	away 	RB
+Nah 	2 	2 	1 	7 	1 	the 	DT
+Nah 	2 	2 	1 	8 	1 	excellency 	NN
+Nah 	2 	2 	1 	9 	1 	of 	IN
+Nah 	2 	2 	1 	10 	1 	Jacob 	NN
+Nah 	2 	2 	1 	11 	0 	,
+Nah 	2 	2 	1 	12 	1 	as 	IN
+Nah 	2 	2 	1 	13 	1 	the 	DT
+Nah 	2 	2 	1 	14 	1 	excellency 	NN
+Nah 	2 	2 	1 	15 	1 	of 	IN
+Nah 	2 	2 	1 	16 	1 	Israel 	NNP
+Nah 	2 	2 	1 	17 	0 	:
+Nah 	2 	2 	1 	18 	1 	for 	IN
+Nah 	2 	2 	1 	19 	1 	the 	DT
+Nah 	2 	2 	1 	20 	1 	emptiers 	NNS
+Nah 	2 	2 	1 	21 	1 	have 	VB
+Nah 	2 	2 	1 	22 	1 	emptied 	VBN
+Nah 	2 	2 	1 	23 	1 	them 	PRP
+Nah 	2 	2 	1 	24 	1 	out 	IN
+Nah 	2 	2 	1 	25 	0 	,
+Nah 	2 	2 	1 	26 	1 	and 	CC
+Nah 	2 	2 	1 	27 	1 	marred 	VBN
+Nah 	2 	2 	1 	28 	1 	their 	PRP$
+Nah 	2 	2 	1 	29 	1 	vine 	NN
+Nah 	2 	2 	1 	30 	1 	branches 	NNS
+Nah 	2 	2 	1 	31 	0 	.
+Nah 	2 	3 	1 	1 	1 	The 	DT
+Nah 	2 	3 	1 	2 	1 	shield 	NN
+Nah 	2 	3 	1 	3 	1 	of 	IN
+Nah 	2 	3 	1 	4 	1 	his 	PRP$
+Nah 	2 	3 	1 	5 	1 	mighty 	NN
+Nah 	2 	3 	1 	6 	1 	men 	NNS
+Nah 	2 	3 	1 	7 	1 	is 	VBZ
+Nah 	2 	3 	1 	8 	1 	made 	VBN
+Nah 	2 	3 	1 	9 	1 	red 	JJ
+Nah 	2 	3 	1 	10 	0 	,
+Nah 	2 	3 	1 	11 	1 	the 	DT
+Nah 	2 	3 	1 	12 	1 	valiant 	NN
+Nah 	2 	3 	1 	13 	1 	men 	NNS
+Nah 	2 	3 	1 	14 	1 	are 	VBP
+Nah 	2 	3 	1 	15 	1 	in 	IN
+Nah 	2 	3 	1 	16 	1 	scarlet 	NN
+Nah 	2 	3 	1 	17 	0 	:
+Nah 	2 	3 	1 	18 	1 	the 	DT
+Nah 	2 	3 	1 	19 	1 	chariots 	NNS
+Nah 	2 	3 	1 	20 	1 	shall 	MD
+Nah 	2 	3 	1 	21 	1 	be 	VB
+Nah 	2 	3 	1 	22 	1 	with 	IN
+Nah 	2 	3 	1 	23 	1 	flaming 	VBG
+Nah 	2 	3 	1 	24 	1 	torches 	NNS
+Nah 	2 	3 	1 	25 	1 	in 	IN
+Nah 	2 	3 	1 	26 	1 	the 	DT
+Nah 	2 	3 	1 	27 	1 	day 	NN
+Nah 	2 	3 	1 	28 	1 	of 	IN
+Nah 	2 	3 	1 	29 	1 	his 	PRP$
+Nah 	2 	3 	1 	30 	1 	preparation 	NN
+Nah 	2 	3 	1 	31 	0 	,
+Nah 	2 	3 	1 	32 	1 	and 	CC
+Nah 	2 	3 	1 	33 	1 	the 	DT
+Nah 	2 	3 	1 	34 	1 	fir 	NN
+Nah 	2 	3 	1 	35 	1 	trees 	NNS
+Nah 	2 	3 	1 	36 	1 	shall 	MD
+Nah 	2 	3 	1 	37 	1 	be 	VB
+Nah 	2 	3 	1 	38 	1 	terribly 	RB
+Nah 	2 	3 	1 	39 	1 	shaken 	NNS
+Nah 	2 	3 	1 	40 	0 	.
+Nah 	2 	4 	1 	1 	1 	The 	DT
+Nah 	2 	4 	1 	2 	1 	chariots 	NNS
+Nah 	2 	4 	1 	3 	1 	shall 	MD
+Nah 	2 	4 	1 	4 	1 	rage 	NN
+Nah 	2 	4 	1 	5 	1 	in 	IN
+Nah 	2 	4 	1 	6 	1 	the 	DT
+Nah 	2 	4 	1 	7 	1 	streets 	NNS
+Nah 	2 	4 	1 	8 	0 	,
+Nah 	2 	4 	1 	9 	1 	they 	PRP
+Nah 	2 	4 	1 	10 	1 	shall 	MD
+Nah 	2 	4 	1 	11 	1 	justle 	NN
+Nah 	2 	4 	1 	12 	1 	one 	CD
+Nah 	2 	4 	1 	13 	1 	against 	IN
+Nah 	2 	4 	1 	14 	1 	another 	DT
+Nah 	2 	4 	1 	15 	1 	in 	IN
+Nah 	2 	4 	1 	16 	1 	the 	DT
+Nah 	2 	4 	1 	17 	1 	broad 	JJ
+Nah 	2 	4 	1 	18 	1 	ways 	NNS
+Nah 	2 	4 	1 	19 	0 	:
+Nah 	2 	4 	1 	20 	1 	they 	PRP
+Nah 	2 	4 	1 	21 	1 	shall 	MD
+Nah 	2 	4 	1 	22 	1 	seem 	NN
+Nah 	2 	4 	1 	23 	1 	like 	IN
+Nah 	2 	4 	1 	24 	1 	torches 	NNS
+Nah 	2 	4 	1 	25 	0 	,
+Nah 	2 	4 	1 	26 	1 	they 	PRP
+Nah 	2 	4 	1 	27 	1 	shall 	MD
+Nah 	2 	4 	1 	28 	1 	run 	VB
+Nah 	2 	4 	1 	29 	1 	like 	IN
+Nah 	2 	4 	1 	30 	1 	the 	DT
+Nah 	2 	4 	1 	31 	1 	lightnings 	NNS
+Nah 	2 	4 	1 	32 	0 	.
+Nah 	2 	5 	1 	1 	1 	He 	PRP
+Nah 	2 	5 	1 	2 	1 	shall 	MD
+Nah 	2 	5 	1 	3 	1 	recount 	NN
+Nah 	2 	5 	1 	4 	1 	his 	PRP$
+Nah 	2 	5 	1 	5 	1 	worthies 	NNS
+Nah 	2 	5 	1 	6 	0 	:
+Nah 	2 	5 	1 	7 	1 	they 	PRP
+Nah 	2 	5 	1 	8 	1 	shall 	MD
+Nah 	2 	5 	1 	9 	1 	stumble 	JJ
+Nah 	2 	5 	1 	10 	1 	in 	IN
+Nah 	2 	5 	1 	11 	1 	their 	PRP$
+Nah 	2 	5 	1 	12 	1 	walk 	NN
+Nah 	2 	5 	1 	13 	0 	;
+Nah 	2 	5 	1 	14 	1 	they 	PRP
+Nah 	2 	5 	1 	15 	1 	shall 	MD
+Nah 	2 	5 	1 	16 	1 	make 	VB
+Nah 	2 	5 	1 	17 	1 	haste 	NN
+Nah 	2 	5 	1 	18 	1 	to 	TO
+Nah 	2 	5 	1 	19 	1 	the 	DT
+Nah 	2 	5 	1 	20 	1 	wall 	NN
+Nah 	2 	5 	1 	21 	1 	thereof 	NN
+Nah 	2 	5 	1 	22 	0 	,
+Nah 	2 	5 	1 	23 	1 	and 	CC
+Nah 	2 	5 	1 	24 	1 	the 	DT
+Nah 	2 	5 	1 	25 	1 	defence 	NN
+Nah 	2 	5 	1 	26 	1 	shall 	MD
+Nah 	2 	5 	1 	27 	1 	be 	VB
+Nah 	2 	5 	1 	28 	1 	prepared 	JJ
+Nah 	2 	5 	1 	29 	0 	.
+Nah 	2 	6 	1 	1 	1 	The 	DT
+Nah 	2 	6 	1 	2 	1 	gates 	NNS
+Nah 	2 	6 	1 	3 	1 	of 	IN
+Nah 	2 	6 	1 	4 	1 	the 	DT
+Nah 	2 	6 	1 	5 	1 	rivers 	NNS
+Nah 	2 	6 	1 	6 	1 	shall 	MD
+Nah 	2 	6 	1 	7 	1 	be 	VB
+Nah 	2 	6 	1 	8 	1 	opened 	VBN
+Nah 	2 	6 	1 	9 	0 	,
+Nah 	2 	6 	1 	10 	1 	and 	CC
+Nah 	2 	6 	1 	11 	1 	the 	DT
+Nah 	2 	6 	1 	12 	1 	palace 	NN
+Nah 	2 	6 	1 	13 	1 	shall 	MD
+Nah 	2 	6 	1 	14 	1 	be 	VB
+Nah 	2 	6 	1 	15 	1 	dissolved 	VBN
+Nah 	2 	6 	1 	16 	0 	.
+Nah 	2 	7 	1 	1 	1 	And 	CC
+Nah 	2 	7 	1 	2 	1 	Huzzab 	NN
+Nah 	2 	7 	1 	3 	1 	shall 	MD
+Nah 	2 	7 	1 	4 	1 	be 	VB
+Nah 	2 	7 	1 	5 	1 	led 	VBN
+Nah 	2 	7 	1 	6 	1 	away 	RB
+Nah 	2 	7 	1 	7 	1 	captive 	NN
+Nah 	2 	7 	1 	8 	0 	,
+Nah 	2 	7 	1 	9 	1 	she 	PRP
+Nah 	2 	7 	1 	10 	1 	shall 	MD
+Nah 	2 	7 	1 	11 	1 	be 	VB
+Nah 	2 	7 	1 	12 	1 	brought 	NN
+Nah 	2 	7 	1 	13 	1 	up 	RB
+Nah 	2 	7 	1 	14 	0 	,
+Nah 	2 	7 	1 	15 	1 	and 	CC
+Nah 	2 	7 	1 	16 	1 	her 	PRP$
+Nah 	2 	7 	1 	17 	1 	maids 	NNS
+Nah 	2 	7 	1 	18 	1 	shall 	MD
+Nah 	2 	7 	1 	19 	1 	lead 	NN
+Nah 	2 	7 	1 	20 	1 	her 	PRP$
+Nah 	2 	7 	1 	21 	1 	as 	IN
+Nah 	2 	7 	1 	22 	1 	with 	IN
+Nah 	2 	7 	1 	23 	1 	the 	DT
+Nah 	2 	7 	1 	24 	1 	voice 	NN
+Nah 	2 	7 	1 	25 	1 	of 	IN
+Nah 	2 	7 	1 	26 	1 	doves 	NNS
+Nah 	2 	7 	1 	27 	0 	,
+Nah 	2 	7 	1 	28 	1 	tabering 	VBG
+Nah 	2 	7 	1 	29 	1 	upon 	IN
+Nah 	2 	7 	1 	30 	1 	their 	PRP$
+Nah 	2 	7 	1 	31 	1 	breasts 	NNS
+Nah 	2 	7 	1 	32 	0 	.
+Nah 	2 	8 	1 	1 	1 	But 	CC
+Nah 	2 	8 	1 	2 	1 	Nineveh 	NN
+Nah 	2 	8 	1 	3 	1 	is 	VBZ
+Nah 	2 	8 	1 	4 	1 	of 	IN
+Nah 	2 	8 	1 	5 	1 	old 	JJ
+Nah 	2 	8 	1 	6 	1 	like 	IN
+Nah 	2 	8 	1 	7 	1 	a 	DT
+Nah 	2 	8 	1 	8 	1 	pool 	NN
+Nah 	2 	8 	1 	9 	1 	of 	IN
+Nah 	2 	8 	1 	10 	1 	water 	NN
+Nah 	2 	8 	1 	11 	0 	:
+Nah 	2 	8 	1 	12 	1 	yet 	RB
+Nah 	2 	8 	1 	13 	1 	they 	PRP
+Nah 	2 	8 	1 	14 	1 	shall 	MD
+Nah 	2 	8 	1 	15 	1 	flee 	NN
+Nah 	2 	8 	1 	16 	1 	away 	RB
+Nah 	2 	8 	1 	17 	0 	.
+Nah 	2 	8 	2 	1 	1 	Stand 	NN
+Nah 	2 	8 	2 	2 	0 	,
+Nah 	2 	8 	2 	3 	1 	stand 	NN
+Nah 	2 	8 	2 	4 	0 	,
+Nah 	2 	8 	2 	5 	1 	shall 	MD
+Nah 	2 	8 	2 	6 	1 	they 	PRP
+Nah 	2 	8 	2 	7 	1 	cry 	NN
+Nah 	2 	8 	2 	8 	0 	;
+Nah 	2 	8 	2 	9 	1 	but 	CC
+Nah 	2 	8 	2 	10 	1 	none 	NN
+Nah 	2 	8 	2 	11 	1 	shall 	MD
+Nah 	2 	8 	2 	12 	1 	look 	NN
+Nah 	2 	8 	2 	13 	1 	back 	RB
+Nah 	2 	8 	2 	14 	0 	.
+Nah 	2 	9 	1 	1 	1 	Take 	VB
+Nah 	2 	9 	1 	2 	1 	ye 	NN
+Nah 	2 	9 	1 	3 	1 	the 	DT
+Nah 	2 	9 	1 	4 	1 	spoil 	NN
+Nah 	2 	9 	1 	5 	1 	of 	IN
+Nah 	2 	9 	1 	6 	1 	silver 	NN
+Nah 	2 	9 	1 	7 	0 	,
+Nah 	2 	9 	1 	8 	1 	take 	VB
+Nah 	2 	9 	1 	9 	1 	the 	DT
+Nah 	2 	9 	1 	10 	1 	spoil 	NN
+Nah 	2 	9 	1 	11 	1 	of 	IN
+Nah 	2 	9 	1 	12 	1 	gold 	NN
+Nah 	2 	9 	1 	13 	0 	:
+Nah 	2 	9 	1 	14 	1 	for 	IN
+Nah 	2 	9 	1 	15 	1 	there 	RB
+Nah 	2 	9 	1 	16 	1 	is 	VBZ
+Nah 	2 	9 	1 	17 	1 	none 	NN
+Nah 	2 	9 	1 	18 	1 	end 	NN
+Nah 	2 	9 	1 	19 	1 	of 	IN
+Nah 	2 	9 	1 	20 	1 	the 	DT
+Nah 	2 	9 	1 	21 	1 	store 	NN
+Nah 	2 	9 	1 	22 	1 	and 	CC
+Nah 	2 	9 	1 	23 	1 	glory 	NN
+Nah 	2 	9 	1 	24 	1 	out 	IN
+Nah 	2 	9 	1 	25 	1 	of 	IN
+Nah 	2 	9 	1 	26 	1 	all 	DT
+Nah 	2 	9 	1 	27 	1 	the 	DT
+Nah 	2 	9 	1 	28 	1 	pleasant 	NN
+Nah 	2 	9 	1 	29 	1 	furniture 	NN
+Nah 	2 	9 	1 	30 	0 	.
+Nah 	2 	10 	1 	1 	1 	She 	PRP
+Nah 	2 	10 	1 	2 	1 	is 	VBZ
+Nah 	2 	10 	1 	3 	1 	empty 	JJ
+Nah 	2 	10 	1 	4 	0 	,
+Nah 	2 	10 	1 	5 	1 	and 	CC
+Nah 	2 	10 	1 	6 	1 	void 	NN
+Nah 	2 	10 	1 	7 	0 	,
+Nah 	2 	10 	1 	8 	1 	and 	CC
+Nah 	2 	10 	1 	9 	1 	waste 	NN
+Nah 	2 	10 	1 	10 	0 	:
+Nah 	2 	10 	1 	11 	1 	and 	CC
+Nah 	2 	10 	1 	12 	1 	the 	DT
+Nah 	2 	10 	1 	13 	1 	heart 	NN
+Nah 	2 	10 	1 	14 	1 	melteth 	NNS
+Nah 	2 	10 	1 	15 	0 	,
+Nah 	2 	10 	1 	16 	1 	and 	CC
+Nah 	2 	10 	1 	17 	1 	the 	DT
+Nah 	2 	10 	1 	18 	1 	knees 	NNS
+Nah 	2 	10 	1 	19 	1 	smite 	NN
+Nah 	2 	10 	1 	20 	1 	together 	RB
+Nah 	2 	10 	1 	21 	0 	,
+Nah 	2 	10 	1 	22 	1 	and 	CC
+Nah 	2 	10 	1 	23 	1 	much 	JJ
+Nah 	2 	10 	1 	24 	1 	pain 	NN
+Nah 	2 	10 	1 	25 	1 	is 	VBZ
+Nah 	2 	10 	1 	26 	1 	in 	IN
+Nah 	2 	10 	1 	27 	1 	all 	DT
+Nah 	2 	10 	1 	28 	1 	loins 	NNS
+Nah 	2 	10 	1 	29 	0 	,
+Nah 	2 	10 	1 	30 	1 	and 	CC
+Nah 	2 	10 	1 	31 	1 	the 	DT
+Nah 	2 	10 	1 	32 	1 	faces 	VBZ
+Nah 	2 	10 	1 	33 	1 	of 	IN
+Nah 	2 	10 	1 	34 	1 	them 	PRP
+Nah 	2 	10 	1 	35 	1 	all 	DT
+Nah 	2 	10 	1 	36 	1 	gather 	NN
+Nah 	2 	10 	1 	37 	1 	blackness 	NN
+Nah 	2 	10 	1 	38 	0 	.
+Nah 	2 	11 	1 	1 	1 	Where 	WRB
+Nah 	2 	11 	1 	2 	1 	is 	VBZ
+Nah 	2 	11 	1 	3 	1 	the 	DT
+Nah 	2 	11 	1 	4 	1 	dwelling 	VBG
+Nah 	2 	11 	1 	5 	1 	of 	IN
+Nah 	2 	11 	1 	6 	1 	the 	DT
+Nah 	2 	11 	1 	7 	1 	lions 	NNS
+Nah 	2 	11 	1 	8 	0 	,
+Nah 	2 	11 	1 	9 	1 	and 	CC
+Nah 	2 	11 	1 	10 	1 	the 	DT
+Nah 	2 	11 	1 	11 	1 	feedingplace 	NN
+Nah 	2 	11 	1 	12 	1 	of 	IN
+Nah 	2 	11 	1 	13 	1 	the 	DT
+Nah 	2 	11 	1 	14 	1 	young 	JJ
+Nah 	2 	11 	1 	15 	1 	lions 	NNS
+Nah 	2 	11 	1 	16 	0 	,
+Nah 	2 	11 	1 	17 	1 	where 	WRB
+Nah 	2 	11 	1 	18 	1 	the 	DT
+Nah 	2 	11 	1 	19 	1 	lion 	NN
+Nah 	2 	11 	1 	20 	0 	,
+Nah 	2 	11 	1 	21 	1 	even 	RB
+Nah 	2 	11 	1 	22 	1 	the 	DT
+Nah 	2 	11 	1 	23 	1 	old 	JJ
+Nah 	2 	11 	1 	24 	1 	lion 	NN
+Nah 	2 	11 	1 	25 	0 	,
+Nah 	2 	11 	1 	26 	1 	walked 	VBD
+Nah 	2 	11 	1 	27 	0 	,
+Nah 	2 	11 	1 	28 	1 	and 	CC
+Nah 	2 	11 	1 	29 	1 	the 	DT
+Nah 	2 	11 	1 	30 	1 	lion 	NN
+Nah 	2 	11 	1 	31 	0 	's
+Nah 	2 	11 	1 	32 	1 	whelp 	NN
+Nah 	2 	11 	1 	33 	0 	,
+Nah 	2 	11 	1 	34 	1 	and 	CC
+Nah 	2 	11 	1 	35 	1 	none 	NN
+Nah 	2 	11 	1 	36 	1 	made 	VBN
+Nah 	2 	11 	1 	37 	1 	them 	PRP
+Nah 	2 	11 	1 	38 	1 	afraid 	NN
+Nah 	2 	11 	1 	39 	0 	?
+Nah 	2 	12 	1 	1 	1 	The 	DT
+Nah 	2 	12 	1 	2 	1 	lion 	NN
+Nah 	2 	12 	1 	3 	1 	did 	VBD
+Nah 	2 	12 	1 	4 	1 	tear 	NN
+Nah 	2 	12 	1 	5 	1 	in 	IN
+Nah 	2 	12 	1 	6 	1 	pieces 	NNS
+Nah 	2 	12 	1 	7 	1 	enough 	RB
+Nah 	2 	12 	1 	8 	1 	for 	IN
+Nah 	2 	12 	1 	9 	1 	his 	PRP$
+Nah 	2 	12 	1 	10 	1 	whelps 	NN
+Nah 	2 	12 	1 	11 	0 	,
+Nah 	2 	12 	1 	12 	1 	and 	CC
+Nah 	2 	12 	1 	13 	1 	strangled 	VBN
+Nah 	2 	12 	1 	14 	1 	for 	IN
+Nah 	2 	12 	1 	15 	1 	his 	PRP$
+Nah 	2 	12 	1 	16 	1 	lionesses 	NNS
+Nah 	2 	12 	1 	17 	0 	,
+Nah 	2 	12 	1 	18 	1 	and 	CC
+Nah 	2 	12 	1 	19 	1 	filled 	VBN
+Nah 	2 	12 	1 	20 	1 	his 	PRP$
+Nah 	2 	12 	1 	21 	1 	holes 	NNS
+Nah 	2 	12 	1 	22 	1 	with 	IN
+Nah 	2 	12 	1 	23 	1 	prey 	NN
+Nah 	2 	12 	1 	24 	0 	,
+Nah 	2 	12 	1 	25 	1 	and 	CC
+Nah 	2 	12 	1 	26 	1 	his 	PRP$
+Nah 	2 	12 	1 	27 	1 	dens 	NNS
+Nah 	2 	12 	1 	28 	1 	with 	IN
+Nah 	2 	12 	1 	29 	1 	ravin 	NN
+Nah 	2 	12 	1 	30 	0 	.
+Nah 	2 	13 	1 	1 	1 	Behold 	NN
+Nah 	2 	13 	1 	2 	0 	,
+Nah 	2 	13 	1 	3 	1 	I 	PRP
+Nah 	2 	13 	1 	4 	1 	am 	VBP
+Nah 	2 	13 	1 	5 	1 	against 	IN
+Nah 	2 	13 	1 	6 	1 	thee 	NN
+Nah 	2 	13 	1 	7 	0 	,
+Nah 	2 	13 	1 	8 	1 	saith 	NN
+Nah 	2 	13 	1 	9 	1 	the 	DT
+Nah 	2 	13 	1 	10 	1 	LORD 	NN
+Nah 	2 	13 	1 	11 	1 	of 	IN
+Nah 	2 	13 	1 	12 	1 	hosts 	NNS
+Nah 	2 	13 	1 	13 	0 	,
+Nah 	2 	13 	1 	14 	1 	and 	CC
+Nah 	2 	13 	1 	15 	1 	I 	PRP
+Nah 	2 	13 	1 	16 	1 	will 	MD
+Nah 	2 	13 	1 	17 	1 	burn 	NN
+Nah 	2 	13 	1 	18 	1 	her 	PRP$
+Nah 	2 	13 	1 	19 	1 	chariots 	NNS
+Nah 	2 	13 	1 	20 	1 	in 	IN
+Nah 	2 	13 	1 	21 	1 	the 	DT
+Nah 	2 	13 	1 	22 	1 	smoke 	NN
+Nah 	2 	13 	1 	23 	0 	,
+Nah 	2 	13 	1 	24 	1 	and 	CC
+Nah 	2 	13 	1 	25 	1 	the 	DT
+Nah 	2 	13 	1 	26 	1 	sword 	NN
+Nah 	2 	13 	1 	27 	1 	shall 	MD
+Nah 	2 	13 	1 	28 	1 	devour 	NN
+Nah 	2 	13 	1 	29 	1 	thy 	NN
+Nah 	2 	13 	1 	30 	1 	young 	JJ
+Nah 	2 	13 	1 	31 	1 	lions 	NNS
+Nah 	2 	13 	1 	32 	0 	:
+Nah 	2 	13 	1 	33 	1 	and 	CC
+Nah 	2 	13 	1 	34 	1 	I 	PRP
+Nah 	2 	13 	1 	35 	1 	will 	MD
+Nah 	2 	13 	1 	36 	1 	cut 	NN
+Nah 	2 	13 	1 	37 	1 	off 	IN
+Nah 	2 	13 	1 	38 	1 	thy 	NN
+Nah 	2 	13 	1 	39 	1 	prey 	NN
+Nah 	2 	13 	1 	40 	1 	from 	IN
+Nah 	2 	13 	1 	41 	1 	the 	DT
+Nah 	2 	13 	1 	42 	1 	earth 	NN
+Nah 	2 	13 	1 	43 	0 	,
+Nah 	2 	13 	1 	44 	1 	and 	CC
+Nah 	2 	13 	1 	45 	1 	the 	DT
+Nah 	2 	13 	1 	46 	1 	voice 	NN
+Nah 	2 	13 	1 	47 	1 	of 	IN
+Nah 	2 	13 	1 	48 	1 	thy 	NN
+Nah 	2 	13 	1 	49 	1 	messengers 	NNS
+Nah 	2 	13 	1 	50 	1 	shall 	MD
+Nah 	2 	13 	1 	51 	1 	no 	DT
+Nah 	2 	13 	1 	52 	1 	more 	RBR
+Nah 	2 	13 	1 	53 	1 	be 	VB
+Nah 	2 	13 	1 	54 	1 	heard 	NN
+Nah 	2 	13 	1 	55 	0 	.
+Nah 	3 	1 	1 	1 	1 	Woe 	NN
+Nah 	3 	1 	1 	2 	1 	to 	TO
+Nah 	3 	1 	1 	3 	1 	the 	DT
+Nah 	3 	1 	1 	4 	1 	bloody 	NN
+Nah 	3 	1 	1 	5 	1 	city 	NN
+Nah 	3 	1 	1 	6 	0 	!
+Nah 	3 	1 	2 	1 	1 	it 	PRP
+Nah 	3 	1 	2 	2 	1 	is 	VBZ
+Nah 	3 	1 	2 	3 	1 	all 	DT
+Nah 	3 	1 	2 	4 	1 	full 	JJ
+Nah 	3 	1 	2 	5 	1 	of 	IN
+Nah 	3 	1 	2 	6 	1 	lies 	NNS
+Nah 	3 	1 	2 	7 	1 	and 	CC
+Nah 	3 	1 	2 	8 	1 	robbery 	NN
+Nah 	3 	1 	2 	9 	0 	;
+Nah 	3 	1 	2 	10 	1 	the 	DT
+Nah 	3 	1 	2 	11 	1 	prey 	NN
+Nah 	3 	1 	2 	12 	1 	departeth 	NN
+Nah 	3 	1 	2 	13 	1 	not 	RB
+Nah 	3 	1 	2 	14 	0 	;
+Nah 	3 	2 	1 	1 	1 	The 	DT
+Nah 	3 	2 	1 	2 	1 	noise 	NN
+Nah 	3 	2 	1 	3 	1 	of 	IN
+Nah 	3 	2 	1 	4 	1 	a 	DT
+Nah 	3 	2 	1 	5 	1 	whip 	NN
+Nah 	3 	2 	1 	6 	0 	,
+Nah 	3 	2 	1 	7 	1 	and 	CC
+Nah 	3 	2 	1 	8 	1 	the 	DT
+Nah 	3 	2 	1 	9 	1 	noise 	NN
+Nah 	3 	2 	1 	10 	1 	of 	IN
+Nah 	3 	2 	1 	11 	1 	the 	DT
+Nah 	3 	2 	1 	12 	1 	rattling 	VBG
+Nah 	3 	2 	1 	13 	1 	of 	IN
+Nah 	3 	2 	1 	14 	1 	the 	DT
+Nah 	3 	2 	1 	15 	1 	wheels 	NNS
+Nah 	3 	2 	1 	16 	0 	,
+Nah 	3 	2 	1 	17 	1 	and 	CC
+Nah 	3 	2 	1 	18 	1 	of 	IN
+Nah 	3 	2 	1 	19 	1 	the 	DT
+Nah 	3 	2 	1 	20 	1 	pransing 	VBG
+Nah 	3 	2 	1 	21 	1 	horses 	NNS
+Nah 	3 	2 	1 	22 	0 	,
+Nah 	3 	2 	1 	23 	1 	and 	CC
+Nah 	3 	2 	1 	24 	1 	of 	IN
+Nah 	3 	2 	1 	25 	1 	the 	DT
+Nah 	3 	2 	1 	26 	1 	jumping 	NN
+Nah 	3 	2 	1 	27 	1 	chariots 	NNS
+Nah 	3 	2 	1 	28 	0 	.
+Nah 	3 	3 	1 	1 	1 	The 	DT
+Nah 	3 	3 	1 	2 	1 	horseman 	NN
+Nah 	3 	3 	1 	3 	1 	lifteth 	NN
+Nah 	3 	3 	1 	4 	1 	up 	RB
+Nah 	3 	3 	1 	5 	1 	both 	DT
+Nah 	3 	3 	1 	6 	1 	the 	DT
+Nah 	3 	3 	1 	7 	1 	bright 	NN
+Nah 	3 	3 	1 	8 	1 	sword 	NN
+Nah 	3 	3 	1 	9 	1 	and 	CC
+Nah 	3 	3 	1 	10 	1 	the 	DT
+Nah 	3 	3 	1 	11 	1 	glittering 	VBG
+Nah 	3 	3 	1 	12 	1 	spear 	NN
+Nah 	3 	3 	1 	13 	0 	:
+Nah 	3 	3 	1 	14 	1 	and 	CC
+Nah 	3 	3 	1 	15 	1 	there 	RB
+Nah 	3 	3 	1 	16 	1 	is 	VBZ
+Nah 	3 	3 	1 	17 	1 	a 	DT
+Nah 	3 	3 	1 	18 	1 	multitude 	NN
+Nah 	3 	3 	1 	19 	1 	of 	IN
+Nah 	3 	3 	1 	20 	1 	slain 	NN
+Nah 	3 	3 	1 	21 	0 	,
+Nah 	3 	3 	1 	22 	1 	and 	CC
+Nah 	3 	3 	1 	23 	1 	a 	DT
+Nah 	3 	3 	1 	24 	1 	great 	JJ
+Nah 	3 	3 	1 	25 	1 	number 	NN
+Nah 	3 	3 	1 	26 	1 	of 	IN
+Nah 	3 	3 	1 	27 	1 	carcases 	NNS
+Nah 	3 	3 	1 	28 	0 	;
+Nah 	3 	3 	1 	29 	1 	and 	CC
+Nah 	3 	3 	1 	30 	1 	there 	RB
+Nah 	3 	3 	1 	31 	1 	is 	VBZ
+Nah 	3 	3 	1 	32 	1 	none 	NN
+Nah 	3 	3 	1 	33 	1 	end 	NN
+Nah 	3 	3 	1 	34 	1 	of 	IN
+Nah 	3 	3 	1 	35 	1 	their 	PRP$
+Nah 	3 	3 	1 	36 	1 	corpses 	NNS
+Nah 	3 	3 	1 	37 	0 	;
+Nah 	3 	3 	1 	38 	1 	they 	PRP
+Nah 	3 	3 	1 	39 	1 	stumble 	JJ
+Nah 	3 	3 	1 	40 	1 	upon 	IN
+Nah 	3 	3 	1 	41 	1 	their 	PRP$
+Nah 	3 	3 	1 	42 	1 	corpses 	NNS
+Nah 	3 	3 	1 	43 	0 	:
+Nah 	3 	4 	1 	1 	1 	Because 	IN
+Nah 	3 	4 	1 	2 	1 	of 	IN
+Nah 	3 	4 	1 	3 	1 	the 	DT
+Nah 	3 	4 	1 	4 	1 	multitude 	NN
+Nah 	3 	4 	1 	5 	1 	of 	IN
+Nah 	3 	4 	1 	6 	1 	the 	DT
+Nah 	3 	4 	1 	7 	1 	whoredoms 	NNS
+Nah 	3 	4 	1 	8 	1 	of 	IN
+Nah 	3 	4 	1 	9 	1 	the 	DT
+Nah 	3 	4 	1 	10 	1 	wellfavoured 	VBD
+Nah 	3 	4 	1 	11 	1 	harlot 	NN
+Nah 	3 	4 	1 	12 	0 	,
+Nah 	3 	4 	1 	13 	1 	the 	DT
+Nah 	3 	4 	1 	14 	1 	mistress 	NN
+Nah 	3 	4 	1 	15 	1 	of 	IN
+Nah 	3 	4 	1 	16 	1 	witchcrafts 	NNS
+Nah 	3 	4 	1 	17 	0 	,
+Nah 	3 	4 	1 	18 	1 	that 	IN
+Nah 	3 	4 	1 	19 	1 	selleth 	NN
+Nah 	3 	4 	1 	20 	1 	nations 	NNS
+Nah 	3 	4 	1 	21 	1 	through 	IN
+Nah 	3 	4 	1 	22 	1 	her 	PRP$
+Nah 	3 	4 	1 	23 	1 	whoredoms 	NNS
+Nah 	3 	4 	1 	24 	0 	,
+Nah 	3 	4 	1 	25 	1 	and 	CC
+Nah 	3 	4 	1 	26 	1 	families 	NNS
+Nah 	3 	4 	1 	27 	1 	through 	IN
+Nah 	3 	4 	1 	28 	1 	her 	PRP$
+Nah 	3 	4 	1 	29 	1 	witchcrafts 	NNS
+Nah 	3 	4 	1 	30 	0 	.
+Nah 	3 	5 	1 	1 	1 	Behold 	NN
+Nah 	3 	5 	1 	2 	0 	,
+Nah 	3 	5 	1 	3 	1 	I 	PRP
+Nah 	3 	5 	1 	4 	1 	am 	VBP
+Nah 	3 	5 	1 	5 	1 	against 	IN
+Nah 	3 	5 	1 	6 	1 	thee 	NN
+Nah 	3 	5 	1 	7 	0 	,
+Nah 	3 	5 	1 	8 	1 	saith 	NN
+Nah 	3 	5 	1 	9 	1 	the 	DT
+Nah 	3 	5 	1 	10 	1 	LORD 	NN
+Nah 	3 	5 	1 	11 	1 	of 	IN
+Nah 	3 	5 	1 	12 	1 	hosts 	NNS
+Nah 	3 	5 	1 	13 	0 	;
+Nah 	3 	5 	1 	14 	1 	and 	CC
+Nah 	3 	5 	1 	15 	1 	I 	PRP
+Nah 	3 	5 	1 	16 	1 	will 	MD
+Nah 	3 	5 	1 	17 	1 	discover 	NN
+Nah 	3 	5 	1 	18 	1 	thy 	NN
+Nah 	3 	5 	1 	19 	1 	skirts 	NNS
+Nah 	3 	5 	1 	20 	1 	upon 	IN
+Nah 	3 	5 	1 	21 	1 	thy 	NN
+Nah 	3 	5 	1 	22 	1 	face 	NN
+Nah 	3 	5 	1 	23 	0 	,
+Nah 	3 	5 	1 	24 	1 	and 	CC
+Nah 	3 	5 	1 	25 	1 	I 	PRP
+Nah 	3 	5 	1 	26 	1 	will 	MD
+Nah 	3 	5 	1 	27 	1 	shew 	NN
+Nah 	3 	5 	1 	28 	1 	the 	DT
+Nah 	3 	5 	1 	29 	1 	nations 	NNS
+Nah 	3 	5 	1 	30 	1 	thy 	NN
+Nah 	3 	5 	1 	31 	1 	nakedness 	NN
+Nah 	3 	5 	1 	32 	0 	,
+Nah 	3 	5 	1 	33 	1 	and 	CC
+Nah 	3 	5 	1 	34 	1 	the 	DT
+Nah 	3 	5 	1 	35 	1 	kingdoms 	NNS
+Nah 	3 	5 	1 	36 	1 	thy 	NN
+Nah 	3 	5 	1 	37 	1 	shame 	NN
+Nah 	3 	5 	1 	38 	0 	.
+Nah 	3 	6 	1 	1 	1 	And 	CC
+Nah 	3 	6 	1 	2 	1 	I 	PRP
+Nah 	3 	6 	1 	3 	1 	will 	MD
+Nah 	3 	6 	1 	4 	1 	cast 	NN
+Nah 	3 	6 	1 	5 	1 	abominable 	JJ
+Nah 	3 	6 	1 	6 	1 	filth 	NN
+Nah 	3 	6 	1 	7 	1 	upon 	IN
+Nah 	3 	6 	1 	8 	1 	thee 	NN
+Nah 	3 	6 	1 	9 	0 	,
+Nah 	3 	6 	1 	10 	1 	and 	CC
+Nah 	3 	6 	1 	11 	1 	make 	VB
+Nah 	3 	6 	1 	12 	1 	thee 	NN
+Nah 	3 	6 	1 	13 	1 	vile 	NN
+Nah 	3 	6 	1 	14 	0 	,
+Nah 	3 	6 	1 	15 	1 	and 	CC
+Nah 	3 	6 	1 	16 	1 	will 	MD
+Nah 	3 	6 	1 	17 	1 	set 	NN
+Nah 	3 	6 	1 	18 	1 	thee 	NN
+Nah 	3 	6 	1 	19 	1 	as 	IN
+Nah 	3 	6 	1 	20 	1 	a 	DT
+Nah 	3 	6 	1 	21 	1 	gazingstock 	NN
+Nah 	3 	6 	1 	22 	0 	.
+Nah 	3 	7 	1 	1 	1 	And 	CC
+Nah 	3 	7 	1 	2 	1 	it 	PRP
+Nah 	3 	7 	1 	3 	1 	shall 	MD
+Nah 	3 	7 	1 	4 	1 	come 	VB
+Nah 	3 	7 	1 	5 	1 	to 	TO
+Nah 	3 	7 	1 	6 	1 	pass 	NN
+Nah 	3 	7 	1 	7 	0 	,
+Nah 	3 	7 	1 	8 	1 	that 	IN
+Nah 	3 	7 	1 	9 	1 	all 	DT
+Nah 	3 	7 	1 	10 	1 	they 	PRP
+Nah 	3 	7 	1 	11 	1 	that 	IN
+Nah 	3 	7 	1 	12 	1 	look 	NN
+Nah 	3 	7 	1 	13 	1 	upon 	IN
+Nah 	3 	7 	1 	14 	1 	thee 	NN
+Nah 	3 	7 	1 	15 	1 	shall 	MD
+Nah 	3 	7 	1 	16 	1 	flee 	NN
+Nah 	3 	7 	1 	17 	1 	from 	IN
+Nah 	3 	7 	1 	18 	1 	thee 	NN
+Nah 	3 	7 	1 	19 	0 	,
+Nah 	3 	7 	1 	20 	1 	and 	CC
+Nah 	3 	7 	1 	21 	1 	say 	VB
+Nah 	3 	7 	1 	22 	0 	,
+Nah 	3 	7 	1 	23 	1 	Nineveh 	NN
+Nah 	3 	7 	1 	24 	1 	is 	VBZ
+Nah 	3 	7 	1 	25 	1 	laid 	NN
+Nah 	3 	7 	1 	26 	1 	waste 	NN
+Nah 	3 	7 	1 	27 	0 	:
+Nah 	3 	7 	1 	28 	1 	who 	WP
+Nah 	3 	7 	1 	29 	1 	will 	MD
+Nah 	3 	7 	1 	30 	1 	bemoan 	NN
+Nah 	3 	7 	1 	31 	1 	her 	PRP$
+Nah 	3 	7 	1 	32 	0 	?
+Nah 	3 	7 	2 	1 	1 	whence 	NN
+Nah 	3 	7 	2 	2 	1 	shall 	MD
+Nah 	3 	7 	2 	3 	1 	I 	PRP
+Nah 	3 	7 	2 	4 	1 	seek 	NN
+Nah 	3 	7 	2 	5 	1 	comforters 	NNS
+Nah 	3 	7 	2 	6 	1 	for 	IN
+Nah 	3 	7 	2 	7 	1 	thee 	NN
+Nah 	3 	7 	2 	8 	0 	?
+Nah 	3 	8 	1 	1 	1 	Art 	NN
+Nah 	3 	8 	1 	2 	1 	thou 	NN
+Nah 	3 	8 	1 	3 	1 	better 	RBR
+Nah 	3 	8 	1 	4 	1 	than 	IN
+Nah 	3 	8 	1 	5 	1 	populous 	JJ
+Nah 	3 	8 	1 	6 	1 	No 	DT
+Nah 	3 	8 	1 	7 	0 	,
+Nah 	3 	8 	1 	8 	1 	that 	IN
+Nah 	3 	8 	1 	9 	1 	was 	VBD
+Nah 	3 	8 	1 	10 	1 	situate 	NN
+Nah 	3 	8 	1 	11 	1 	among 	IN
+Nah 	3 	8 	1 	12 	1 	the 	DT
+Nah 	3 	8 	1 	13 	1 	rivers 	NNS
+Nah 	3 	8 	1 	14 	0 	,
+Nah 	3 	8 	1 	15 	1 	that 	IN
+Nah 	3 	8 	1 	16 	1 	had 	VBD
+Nah 	3 	8 	1 	17 	1 	the 	DT
+Nah 	3 	8 	1 	18 	1 	waters 	NNS
+Nah 	3 	8 	1 	19 	1 	round 	NN
+Nah 	3 	8 	1 	20 	1 	about 	IN
+Nah 	3 	8 	1 	21 	1 	it 	PRP
+Nah 	3 	8 	1 	22 	0 	,
+Nah 	3 	8 	1 	23 	1 	whose 	WP$
+Nah 	3 	8 	1 	24 	1 	rampart 	NN
+Nah 	3 	8 	1 	25 	1 	was 	VBD
+Nah 	3 	8 	1 	26 	1 	the 	DT
+Nah 	3 	8 	1 	27 	1 	sea 	NN
+Nah 	3 	8 	1 	28 	0 	,
+Nah 	3 	8 	1 	29 	1 	and 	CC
+Nah 	3 	8 	1 	30 	1 	her 	PRP$
+Nah 	3 	8 	1 	31 	1 	wall 	NN
+Nah 	3 	8 	1 	32 	1 	was 	VBD
+Nah 	3 	8 	1 	33 	1 	from 	IN
+Nah 	3 	8 	1 	34 	1 	the 	DT
+Nah 	3 	8 	1 	35 	1 	sea 	NN
+Nah 	3 	8 	1 	36 	0 	?
+Nah 	3 	9 	1 	1 	1 	Ethiopia 	NN
+Nah 	3 	9 	1 	2 	1 	and 	CC
+Nah 	3 	9 	1 	3 	1 	Egypt 	NN
+Nah 	3 	9 	1 	4 	1 	were 	VBD
+Nah 	3 	9 	1 	5 	1 	her 	PRP$
+Nah 	3 	9 	1 	6 	1 	strength 	NN
+Nah 	3 	9 	1 	7 	0 	,
+Nah 	3 	9 	1 	8 	1 	and 	CC
+Nah 	3 	9 	1 	9 	1 	it 	PRP
+Nah 	3 	9 	1 	10 	1 	was 	VBD
+Nah 	3 	9 	1 	11 	1 	infinite 	NN
+Nah 	3 	9 	1 	12 	0 	;
+Nah 	3 	9 	1 	13 	1 	Put 	VB
+Nah 	3 	9 	1 	14 	1 	and 	CC
+Nah 	3 	9 	1 	15 	1 	Lubim 	NN
+Nah 	3 	9 	1 	16 	1 	were 	VBD
+Nah 	3 	9 	1 	17 	1 	thy 	NN
+Nah 	3 	9 	1 	18 	1 	helpers 	NNS
+Nah 	3 	9 	1 	19 	0 	.
+Nah 	3 	10 	1 	1 	1 	Yet 	RB
+Nah 	3 	10 	1 	2 	1 	was 	VBD
+Nah 	3 	10 	1 	3 	1 	she 	PRP
+Nah 	3 	10 	1 	4 	1 	carried 	VBN
+Nah 	3 	10 	1 	5 	1 	away 	RB
+Nah 	3 	10 	1 	6 	0 	,
+Nah 	3 	10 	1 	7 	1 	she 	PRP
+Nah 	3 	10 	1 	8 	1 	went 	VBD
+Nah 	3 	10 	1 	9 	1 	into 	IN
+Nah 	3 	10 	1 	10 	1 	captivity 	NN
+Nah 	3 	10 	1 	11 	0 	:
+Nah 	3 	10 	1 	12 	1 	her 	PRP$
+Nah 	3 	10 	1 	13 	1 	young 	JJ
+Nah 	3 	10 	1 	14 	1 	children 	NNS
+Nah 	3 	10 	1 	15 	1 	also 	RB
+Nah 	3 	10 	1 	16 	1 	were 	VBD
+Nah 	3 	10 	1 	17 	1 	dashed 	VBN
+Nah 	3 	10 	1 	18 	1 	in 	IN
+Nah 	3 	10 	1 	19 	1 	pieces 	NNS
+Nah 	3 	10 	1 	20 	1 	at 	IN
+Nah 	3 	10 	1 	21 	1 	the 	DT
+Nah 	3 	10 	1 	22 	1 	top 	NN
+Nah 	3 	10 	1 	23 	1 	of 	IN
+Nah 	3 	10 	1 	24 	1 	all 	DT
+Nah 	3 	10 	1 	25 	1 	the 	DT
+Nah 	3 	10 	1 	26 	1 	streets 	NNS
+Nah 	3 	10 	1 	27 	0 	:
+Nah 	3 	10 	1 	28 	1 	and 	CC
+Nah 	3 	10 	1 	29 	1 	they 	PRP
+Nah 	3 	10 	1 	30 	1 	cast 	NN
+Nah 	3 	10 	1 	31 	1 	lots 	NNS
+Nah 	3 	10 	1 	32 	1 	for 	IN
+Nah 	3 	10 	1 	33 	1 	her 	PRP$
+Nah 	3 	10 	1 	34 	1 	honourable 	JJ
+Nah 	3 	10 	1 	35 	1 	men 	NNS
+Nah 	3 	10 	1 	36 	0 	,
+Nah 	3 	10 	1 	37 	1 	and 	CC
+Nah 	3 	10 	1 	38 	1 	all 	DT
+Nah 	3 	10 	1 	39 	1 	her 	PRP$
+Nah 	3 	10 	1 	40 	1 	great 	JJ
+Nah 	3 	10 	1 	41 	1 	men 	NNS
+Nah 	3 	10 	1 	42 	1 	were 	VBD
+Nah 	3 	10 	1 	43 	1 	bound 	NN
+Nah 	3 	10 	1 	44 	1 	in 	IN
+Nah 	3 	10 	1 	45 	1 	chains 	NNS
+Nah 	3 	10 	1 	46 	0 	.
+Nah 	3 	11 	1 	1 	1 	Thou 	NN
+Nah 	3 	11 	1 	2 	1 	also 	RB
+Nah 	3 	11 	1 	3 	1 	shalt 	NN
+Nah 	3 	11 	1 	4 	1 	be 	VB
+Nah 	3 	11 	1 	5 	1 	drunken 	NN
+Nah 	3 	11 	1 	6 	0 	:
+Nah 	3 	11 	1 	7 	1 	thou 	NN
+Nah 	3 	11 	1 	8 	1 	shalt 	NN
+Nah 	3 	11 	1 	9 	1 	be 	VB
+Nah 	3 	11 	1 	10 	1 	hid 	NN
+Nah 	3 	11 	1 	11 	0 	,
+Nah 	3 	11 	1 	12 	1 	thou 	NN
+Nah 	3 	11 	1 	13 	1 	also 	RB
+Nah 	3 	11 	1 	14 	1 	shalt 	NN
+Nah 	3 	11 	1 	15 	1 	seek 	NN
+Nah 	3 	11 	1 	16 	1 	strength 	NN
+Nah 	3 	11 	1 	17 	1 	because 	IN
+Nah 	3 	11 	1 	18 	1 	of 	IN
+Nah 	3 	11 	1 	19 	1 	the 	DT
+Nah 	3 	11 	1 	20 	1 	enemy 	NN
+Nah 	3 	11 	1 	21 	0 	.
+Nah 	3 	12 	1 	1 	1 	All 	DT
+Nah 	3 	12 	1 	2 	1 	thy 	NN
+Nah 	3 	12 	1 	3 	1 	strong 	JJ
+Nah 	3 	12 	1 	4 	1 	holds 	VBZ
+Nah 	3 	12 	1 	5 	1 	shall 	MD
+Nah 	3 	12 	1 	6 	1 	be 	VB
+Nah 	3 	12 	1 	7 	1 	like 	IN
+Nah 	3 	12 	1 	8 	1 	fig 	NN
+Nah 	3 	12 	1 	9 	1 	trees 	NNS
+Nah 	3 	12 	1 	10 	1 	with 	IN
+Nah 	3 	12 	1 	11 	1 	the 	DT
+Nah 	3 	12 	1 	12 	1 	firstripe 	NN
+Nah 	3 	12 	1 	13 	1 	figs 	NNS
+Nah 	3 	12 	1 	14 	0 	:
+Nah 	3 	12 	1 	15 	1 	if 	IN
+Nah 	3 	12 	1 	16 	1 	they 	PRP
+Nah 	3 	12 	1 	17 	1 	be 	VB
+Nah 	3 	12 	1 	18 	1 	shaken 	NNS
+Nah 	3 	12 	1 	19 	0 	,
+Nah 	3 	12 	1 	20 	1 	they 	PRP
+Nah 	3 	12 	1 	21 	1 	shall 	MD
+Nah 	3 	12 	1 	22 	1 	even 	RB
+Nah 	3 	12 	1 	23 	1 	fall 	NN
+Nah 	3 	12 	1 	24 	1 	into 	IN
+Nah 	3 	12 	1 	25 	1 	the 	DT
+Nah 	3 	12 	1 	26 	1 	mouth 	NN
+Nah 	3 	12 	1 	27 	1 	of 	IN
+Nah 	3 	12 	1 	28 	1 	the 	DT
+Nah 	3 	12 	1 	29 	1 	eater 	NN
+Nah 	3 	12 	1 	30 	0 	.
+Nah 	3 	13 	1 	1 	1 	Behold 	NN
+Nah 	3 	13 	1 	2 	0 	,
+Nah 	3 	13 	1 	3 	1 	thy 	NN
+Nah 	3 	13 	1 	4 	1 	people 	NNS
+Nah 	3 	13 	1 	5 	1 	in 	IN
+Nah 	3 	13 	1 	6 	1 	the 	DT
+Nah 	3 	13 	1 	7 	1 	midst 	NN
+Nah 	3 	13 	1 	8 	1 	of 	IN
+Nah 	3 	13 	1 	9 	1 	thee 	NN
+Nah 	3 	13 	1 	10 	1 	are 	VBP
+Nah 	3 	13 	1 	11 	1 	women 	NNS
+Nah 	3 	13 	1 	12 	0 	:
+Nah 	3 	13 	1 	13 	1 	the 	DT
+Nah 	3 	13 	1 	14 	1 	gates 	NNS
+Nah 	3 	13 	1 	15 	1 	of 	IN
+Nah 	3 	13 	1 	16 	1 	thy 	NN
+Nah 	3 	13 	1 	17 	1 	land 	NN
+Nah 	3 	13 	1 	18 	1 	shall 	MD
+Nah 	3 	13 	1 	19 	1 	be 	VB
+Nah 	3 	13 	1 	20 	1 	set 	NN
+Nah 	3 	13 	1 	21 	1 	wide 	JJ
+Nah 	3 	13 	1 	22 	1 	open 	JJ
+Nah 	3 	13 	1 	23 	1 	unto 	NN
+Nah 	3 	13 	1 	24 	1 	thine 	NN
+Nah 	3 	13 	1 	25 	1 	enemies 	NNS
+Nah 	3 	13 	1 	26 	0 	:
+Nah 	3 	13 	1 	27 	1 	the 	DT
+Nah 	3 	13 	1 	28 	1 	fire 	NN
+Nah 	3 	13 	1 	29 	1 	shall 	MD
+Nah 	3 	13 	1 	30 	1 	devour 	NN
+Nah 	3 	13 	1 	31 	1 	thy 	NN
+Nah 	3 	13 	1 	32 	1 	bars 	NNS
+Nah 	3 	13 	1 	33 	0 	.
+Nah 	3 	14 	1 	1 	1 	Draw 	NN
+Nah 	3 	14 	1 	2 	1 	thee 	NN
+Nah 	3 	14 	1 	3 	1 	waters 	NNS
+Nah 	3 	14 	1 	4 	1 	for 	IN
+Nah 	3 	14 	1 	5 	1 	the 	DT
+Nah 	3 	14 	1 	6 	1 	siege 	NN
+Nah 	3 	14 	1 	7 	0 	,
+Nah 	3 	14 	1 	8 	1 	fortify 	NN
+Nah 	3 	14 	1 	9 	1 	thy 	NN
+Nah 	3 	14 	1 	10 	1 	strong 	JJ
+Nah 	3 	14 	1 	11 	1 	holds 	VBZ
+Nah 	3 	14 	1 	12 	0 	:
+Nah 	3 	14 	1 	13 	1 	go 	VB
+Nah 	3 	14 	1 	14 	1 	into 	IN
+Nah 	3 	14 	1 	15 	1 	clay 	NN
+Nah 	3 	14 	1 	16 	0 	,
+Nah 	3 	14 	1 	17 	1 	and 	CC
+Nah 	3 	14 	1 	18 	1 	tread 	NN
+Nah 	3 	14 	1 	19 	1 	the 	DT
+Nah 	3 	14 	1 	20 	1 	morter 	NN
+Nah 	3 	14 	1 	21 	0 	,
+Nah 	3 	14 	1 	22 	1 	make 	VB
+Nah 	3 	14 	1 	23 	1 	strong 	JJ
+Nah 	3 	14 	1 	24 	1 	the 	DT
+Nah 	3 	14 	1 	25 	1 	brickkiln 	NN
+Nah 	3 	14 	1 	26 	0 	.
+Nah 	3 	15 	1 	1 	1 	There 	EX
+Nah 	3 	15 	1 	2 	1 	shall 	MD
+Nah 	3 	15 	1 	3 	1 	the 	DT
+Nah 	3 	15 	1 	4 	1 	fire 	NN
+Nah 	3 	15 	1 	5 	1 	devour 	NN
+Nah 	3 	15 	1 	6 	1 	thee 	NN
+Nah 	3 	15 	1 	7 	0 	;
+Nah 	3 	15 	1 	8 	1 	the 	DT
+Nah 	3 	15 	1 	9 	1 	sword 	NN
+Nah 	3 	15 	1 	10 	1 	shall 	MD
+Nah 	3 	15 	1 	11 	1 	cut 	NN
+Nah 	3 	15 	1 	12 	1 	thee 	NN
+Nah 	3 	15 	1 	13 	1 	off 	IN
+Nah 	3 	15 	1 	14 	0 	,
+Nah 	3 	15 	1 	15 	1 	it 	PRP
+Nah 	3 	15 	1 	16 	1 	shall 	MD
+Nah 	3 	15 	1 	17 	1 	eat 	NN
+Nah 	3 	15 	1 	18 	1 	thee 	NN
+Nah 	3 	15 	1 	19 	1 	up 	RB
+Nah 	3 	15 	1 	20 	1 	like 	IN
+Nah 	3 	15 	1 	21 	1 	the 	DT
+Nah 	3 	15 	1 	22 	1 	cankerworm 	NN
+Nah 	3 	15 	1 	23 	0 	:
+Nah 	3 	15 	1 	24 	1 	make 	VB
+Nah 	3 	15 	1 	25 	1 	thyself 	NN
+Nah 	3 	15 	1 	26 	1 	many 	JJ
+Nah 	3 	15 	1 	27 	1 	as 	IN
+Nah 	3 	15 	1 	28 	1 	the 	DT
+Nah 	3 	15 	1 	29 	1 	cankerworm 	NN
+Nah 	3 	15 	1 	30 	0 	,
+Nah 	3 	15 	1 	31 	1 	make 	VB
+Nah 	3 	15 	1 	32 	1 	thyself 	NN
+Nah 	3 	15 	1 	33 	1 	many 	JJ
+Nah 	3 	15 	1 	34 	1 	as 	IN
+Nah 	3 	15 	1 	35 	1 	the 	DT
+Nah 	3 	15 	1 	36 	1 	locusts 	NNS
+Nah 	3 	15 	1 	37 	0 	.
+Nah 	3 	16 	1 	1 	1 	Thou 	NN
+Nah 	3 	16 	1 	2 	1 	hast 	NN
+Nah 	3 	16 	1 	3 	1 	multiplied 	VBN
+Nah 	3 	16 	1 	4 	1 	thy 	NN
+Nah 	3 	16 	1 	5 	1 	merchants 	NNS
+Nah 	3 	16 	1 	6 	1 	above 	IN
+Nah 	3 	16 	1 	7 	1 	the 	DT
+Nah 	3 	16 	1 	8 	1 	stars 	NNS
+Nah 	3 	16 	1 	9 	1 	of 	IN
+Nah 	3 	16 	1 	10 	1 	heaven 	NN
+Nah 	3 	16 	1 	11 	0 	:
+Nah 	3 	16 	1 	12 	1 	the 	DT
+Nah 	3 	16 	1 	13 	1 	cankerworm 	NN
+Nah 	3 	16 	1 	14 	1 	spoileth 	NN
+Nah 	3 	16 	1 	15 	0 	,
+Nah 	3 	16 	1 	16 	1 	and 	CC
+Nah 	3 	16 	1 	17 	1 	fleeth 	NNS
+Nah 	3 	16 	1 	18 	1 	away 	RB
+Nah 	3 	16 	1 	19 	0 	.
+Nah 	3 	17 	1 	1 	1 	Thy 	NN
+Nah 	3 	17 	1 	2 	1 	crowned 	VBN
+Nah 	3 	17 	1 	3 	1 	are 	VBP
+Nah 	3 	17 	1 	4 	1 	as 	IN
+Nah 	3 	17 	1 	5 	1 	the 	DT
+Nah 	3 	17 	1 	6 	1 	locusts 	NNS
+Nah 	3 	17 	1 	7 	0 	,
+Nah 	3 	17 	1 	8 	1 	and 	CC
+Nah 	3 	17 	1 	9 	1 	thy 	NN
+Nah 	3 	17 	1 	10 	1 	captains 	NNS
+Nah 	3 	17 	1 	11 	1 	as 	IN
+Nah 	3 	17 	1 	12 	1 	the 	DT
+Nah 	3 	17 	1 	13 	1 	great 	JJ
+Nah 	3 	17 	1 	14 	1 	grasshoppers 	NNS
+Nah 	3 	17 	1 	15 	0 	,
+Nah 	3 	17 	1 	16 	1 	which 	WDT
+Nah 	3 	17 	1 	17 	1 	camp 	NN
+Nah 	3 	17 	1 	18 	1 	in 	IN
+Nah 	3 	17 	1 	19 	1 	the 	DT
+Nah 	3 	17 	1 	20 	1 	hedges 	NNS
+Nah 	3 	17 	1 	21 	1 	in 	IN
+Nah 	3 	17 	1 	22 	1 	the 	DT
+Nah 	3 	17 	1 	23 	1 	cold 	NN
+Nah 	3 	17 	1 	24 	1 	day 	NN
+Nah 	3 	17 	1 	25 	0 	,
+Nah 	3 	17 	1 	26 	1 	but 	CC
+Nah 	3 	17 	1 	27 	1 	when 	WRB
+Nah 	3 	17 	1 	28 	1 	the 	DT
+Nah 	3 	17 	1 	29 	1 	sun 	NN
+Nah 	3 	17 	1 	30 	1 	ariseth 	NNS
+Nah 	3 	17 	1 	31 	1 	they 	PRP
+Nah 	3 	17 	1 	32 	1 	flee 	NN
+Nah 	3 	17 	1 	33 	1 	away 	RB
+Nah 	3 	17 	1 	34 	0 	,
+Nah 	3 	17 	1 	35 	1 	and 	CC
+Nah 	3 	17 	1 	36 	1 	their 	PRP$
+Nah 	3 	17 	1 	37 	1 	place 	NN
+Nah 	3 	17 	1 	38 	1 	is 	VBZ
+Nah 	3 	17 	1 	39 	1 	not 	RB
+Nah 	3 	17 	1 	40 	1 	known 	VBN
+Nah 	3 	17 	1 	41 	1 	where 	WRB
+Nah 	3 	17 	1 	42 	1 	they 	PRP
+Nah 	3 	17 	1 	43 	1 	are 	VBP
+Nah 	3 	17 	1 	44 	0 	.
+Nah 	3 	18 	1 	1 	1 	Thy 	NN
+Nah 	3 	18 	1 	2 	1 	shepherds 	NNS
+Nah 	3 	18 	1 	3 	1 	slumber 	NN
+Nah 	3 	18 	1 	4 	0 	,
+Nah 	3 	18 	1 	5 	1 	O 	NN
+Nah 	3 	18 	1 	6 	1 	king 	NN
+Nah 	3 	18 	1 	7 	1 	of 	IN
+Nah 	3 	18 	1 	8 	1 	Assyria 	NNS
+Nah 	3 	18 	1 	9 	0 	:
+Nah 	3 	18 	1 	10 	1 	thy 	NN
+Nah 	3 	18 	1 	11 	1 	nobles 	NNS
+Nah 	3 	18 	1 	12 	1 	shall 	MD
+Nah 	3 	18 	1 	13 	1 	dwell 	NN
+Nah 	3 	18 	1 	14 	1 	in 	IN
+Nah 	3 	18 	1 	15 	1 	the 	DT
+Nah 	3 	18 	1 	16 	1 	dust 	NN
+Nah 	3 	18 	1 	17 	0 	:
+Nah 	3 	18 	1 	18 	1 	thy 	NN
+Nah 	3 	18 	1 	19 	1 	people 	NNS
+Nah 	3 	18 	1 	20 	1 	is 	VBZ
+Nah 	3 	18 	1 	21 	1 	scattered 	VBN
+Nah 	3 	18 	1 	22 	1 	upon 	IN
+Nah 	3 	18 	1 	23 	1 	the 	DT
+Nah 	3 	18 	1 	24 	1 	mountains 	NNS
+Nah 	3 	18 	1 	25 	0 	,
+Nah 	3 	18 	1 	26 	1 	and 	CC
+Nah 	3 	18 	1 	27 	1 	no 	DT
+Nah 	3 	18 	1 	28 	1 	man 	NN
+Nah 	3 	18 	1 	29 	1 	gathereth 	NNS
+Nah 	3 	18 	1 	30 	1 	them 	PRP
+Nah 	3 	18 	1 	31 	0 	.
+Nah 	3 	19 	1 	1 	1 	There 	EX
+Nah 	3 	19 	1 	2 	1 	is 	VBZ
+Nah 	3 	19 	1 	3 	1 	no 	DT
+Nah 	3 	19 	1 	4 	1 	healing 	VBG
+Nah 	3 	19 	1 	5 	1 	of 	IN
+Nah 	3 	19 	1 	6 	1 	thy 	NN
+Nah 	3 	19 	1 	7 	1 	bruise 	NN
+Nah 	3 	19 	1 	8 	0 	;
+Nah 	3 	19 	1 	9 	1 	thy 	NN
+Nah 	3 	19 	1 	10 	1 	wound 	NN
+Nah 	3 	19 	1 	11 	1 	is 	VBZ
+Nah 	3 	19 	1 	12 	1 	grievous 	JJ
+Nah 	3 	19 	1 	13 	0 	:
+Nah 	3 	19 	1 	14 	1 	all 	DT
+Nah 	3 	19 	1 	15 	1 	that 	IN
+Nah 	3 	19 	1 	16 	1 	hear 	NN
+Nah 	3 	19 	1 	17 	1 	the 	DT
+Nah 	3 	19 	1 	18 	1 	bruit 	NN
+Nah 	3 	19 	1 	19 	1 	of 	IN
+Nah 	3 	19 	1 	20 	1 	thee 	NN
+Nah 	3 	19 	1 	21 	1 	shall 	MD
+Nah 	3 	19 	1 	22 	1 	clap 	NN
+Nah 	3 	19 	1 	23 	1 	the 	DT
+Nah 	3 	19 	1 	24 	1 	hands 	NNS
+Nah 	3 	19 	1 	25 	1 	over 	IN
+Nah 	3 	19 	1 	26 	1 	thee 	NN
+Nah 	3 	19 	1 	27 	0 	:
+Nah 	3 	19 	1 	28 	1 	for 	IN
+Nah 	3 	19 	1 	29 	1 	upon 	IN
+Nah 	3 	19 	1 	30 	1 	whom 	WP
+Nah 	3 	19 	1 	31 	1 	hath 	NN
+Nah 	3 	19 	1 	32 	1 	not 	RB
+Nah 	3 	19 	1 	33 	1 	thy 	NN
+Nah 	3 	19 	1 	34 	1 	wickedness 	NN
+Nah 	3 	19 	1 	35 	1 	passed 	VBN
+Nah 	3 	19 	1 	36 	1 	continually 	RB
+Nah 	3 	19 	1 	37 	0 	?

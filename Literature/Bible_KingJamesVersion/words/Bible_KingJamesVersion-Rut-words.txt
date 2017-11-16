@@ -1,0 +1,3007 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Rut 	1 	1 	1 	1 	1 	Now 	RB
+Rut 	1 	1 	1 	2 	1 	it 	PRP
+Rut 	1 	1 	1 	3 	1 	came 	VBD
+Rut 	1 	1 	1 	4 	1 	to 	TO
+Rut 	1 	1 	1 	5 	1 	pass 	NN
+Rut 	1 	1 	1 	6 	1 	in 	IN
+Rut 	1 	1 	1 	7 	1 	the 	DT
+Rut 	1 	1 	1 	8 	1 	days 	NNS
+Rut 	1 	1 	1 	9 	1 	when 	WRB
+Rut 	1 	1 	1 	10 	1 	the 	DT
+Rut 	1 	1 	1 	11 	1 	judges 	NNS
+Rut 	1 	1 	1 	12 	1 	ruled 	VBN
+Rut 	1 	1 	1 	13 	0 	,
+Rut 	1 	1 	1 	14 	1 	that 	IN
+Rut 	1 	1 	1 	15 	1 	there 	RB
+Rut 	1 	1 	1 	16 	1 	was 	VBD
+Rut 	1 	1 	1 	17 	1 	a 	DT
+Rut 	1 	1 	1 	18 	1 	famine 	NN
+Rut 	1 	1 	1 	19 	1 	in 	IN
+Rut 	1 	1 	1 	20 	1 	the 	DT
+Rut 	1 	1 	1 	21 	1 	land 	NN
+Rut 	1 	1 	1 	22 	0 	.
+Rut 	1 	1 	2 	1 	1 	And 	CC
+Rut 	1 	1 	2 	2 	1 	a 	DT
+Rut 	1 	1 	2 	3 	1 	certain 	JJ
+Rut 	1 	1 	2 	4 	1 	man 	NN
+Rut 	1 	1 	2 	5 	1 	of 	IN
+Rut 	1 	1 	2 	6 	1 	Bethlehemjudah 	NN
+Rut 	1 	1 	2 	7 	1 	went 	VBD
+Rut 	1 	1 	2 	8 	1 	to 	TO
+Rut 	1 	1 	2 	9 	1 	sojourn 	NN
+Rut 	1 	1 	2 	10 	1 	in 	IN
+Rut 	1 	1 	2 	11 	1 	the 	DT
+Rut 	1 	1 	2 	12 	1 	country 	NN
+Rut 	1 	1 	2 	13 	1 	of 	IN
+Rut 	1 	1 	2 	14 	1 	Moab 	NN
+Rut 	1 	1 	2 	15 	0 	,
+Rut 	1 	1 	2 	16 	1 	he 	PRP
+Rut 	1 	1 	2 	17 	0 	,
+Rut 	1 	1 	2 	18 	1 	and 	CC
+Rut 	1 	1 	2 	19 	1 	his 	PRP$
+Rut 	1 	1 	2 	20 	1 	wife 	NN
+Rut 	1 	1 	2 	21 	0 	,
+Rut 	1 	1 	2 	22 	1 	and 	CC
+Rut 	1 	1 	2 	23 	1 	his 	PRP$
+Rut 	1 	1 	2 	24 	1 	two 	CD
+Rut 	1 	1 	2 	25 	1 	sons 	NNS
+Rut 	1 	1 	2 	26 	0 	.
+Rut 	1 	2 	1 	1 	1 	And 	CC
+Rut 	1 	2 	1 	2 	1 	the 	DT
+Rut 	1 	2 	1 	3 	1 	name 	NN
+Rut 	1 	2 	1 	4 	1 	of 	IN
+Rut 	1 	2 	1 	5 	1 	the 	DT
+Rut 	1 	2 	1 	6 	1 	man 	NN
+Rut 	1 	2 	1 	7 	1 	was 	VBD
+Rut 	1 	2 	1 	8 	1 	Elimelech 	NN
+Rut 	1 	2 	1 	9 	0 	,
+Rut 	1 	2 	1 	10 	1 	and 	CC
+Rut 	1 	2 	1 	11 	1 	the 	DT
+Rut 	1 	2 	1 	12 	1 	name 	NN
+Rut 	1 	2 	1 	13 	1 	of 	IN
+Rut 	1 	2 	1 	14 	1 	his 	PRP$
+Rut 	1 	2 	1 	15 	1 	wife 	NN
+Rut 	1 	2 	1 	16 	1 	Naomi 	NN
+Rut 	1 	2 	1 	17 	0 	,
+Rut 	1 	2 	1 	18 	1 	and 	CC
+Rut 	1 	2 	1 	19 	1 	the 	DT
+Rut 	1 	2 	1 	20 	1 	name 	NN
+Rut 	1 	2 	1 	21 	1 	of 	IN
+Rut 	1 	2 	1 	22 	1 	his 	PRP$
+Rut 	1 	2 	1 	23 	1 	two 	CD
+Rut 	1 	2 	1 	24 	1 	sons 	NNS
+Rut 	1 	2 	1 	25 	1 	Mahlon 	NN
+Rut 	1 	2 	1 	26 	1 	and 	CC
+Rut 	1 	2 	1 	27 	1 	Chilion 	NN
+Rut 	1 	2 	1 	28 	0 	,
+Rut 	1 	2 	1 	29 	1 	Ephrathites 	NNS
+Rut 	1 	2 	1 	30 	1 	of 	IN
+Rut 	1 	2 	1 	31 	1 	Bethlehemjudah 	NN
+Rut 	1 	2 	1 	32 	0 	.
+Rut 	1 	2 	2 	1 	1 	And 	CC
+Rut 	1 	2 	2 	2 	1 	they 	PRP
+Rut 	1 	2 	2 	3 	1 	came 	VBD
+Rut 	1 	2 	2 	4 	1 	into 	IN
+Rut 	1 	2 	2 	5 	1 	the 	DT
+Rut 	1 	2 	2 	6 	1 	country 	NN
+Rut 	1 	2 	2 	7 	1 	of 	IN
+Rut 	1 	2 	2 	8 	1 	Moab 	NN
+Rut 	1 	2 	2 	9 	0 	,
+Rut 	1 	2 	2 	10 	1 	and 	CC
+Rut 	1 	2 	2 	11 	1 	continued 	JJ
+Rut 	1 	2 	2 	12 	1 	there 	RB
+Rut 	1 	2 	2 	13 	0 	.
+Rut 	1 	3 	1 	1 	1 	And 	CC
+Rut 	1 	3 	1 	2 	1 	Elimelech 	NN
+Rut 	1 	3 	1 	3 	1 	Naomi 	NN
+Rut 	1 	3 	1 	4 	0 	's
+Rut 	1 	3 	1 	5 	1 	husband 	NN
+Rut 	1 	3 	1 	6 	1 	died 	VBD
+Rut 	1 	3 	1 	7 	0 	;
+Rut 	1 	3 	1 	8 	1 	and 	CC
+Rut 	1 	3 	1 	9 	1 	she 	PRP
+Rut 	1 	3 	1 	10 	1 	was 	VBD
+Rut 	1 	3 	1 	11 	1 	left 	NN
+Rut 	1 	3 	1 	12 	0 	,
+Rut 	1 	3 	1 	13 	1 	and 	CC
+Rut 	1 	3 	1 	14 	1 	her 	PRP$
+Rut 	1 	3 	1 	15 	1 	two 	CD
+Rut 	1 	3 	1 	16 	1 	sons 	NNS
+Rut 	1 	3 	1 	17 	0 	.
+Rut 	1 	4 	1 	1 	1 	And 	CC
+Rut 	1 	4 	1 	2 	1 	they 	PRP
+Rut 	1 	4 	1 	3 	1 	took 	VBD
+Rut 	1 	4 	1 	4 	1 	them 	PRP
+Rut 	1 	4 	1 	5 	1 	wives 	NNS
+Rut 	1 	4 	1 	6 	1 	of 	IN
+Rut 	1 	4 	1 	7 	1 	the 	DT
+Rut 	1 	4 	1 	8 	1 	women 	NNS
+Rut 	1 	4 	1 	9 	1 	of 	IN
+Rut 	1 	4 	1 	10 	1 	Moab 	NN
+Rut 	1 	4 	1 	11 	0 	;
+Rut 	1 	4 	1 	12 	1 	the 	DT
+Rut 	1 	4 	1 	13 	1 	name 	NN
+Rut 	1 	4 	1 	14 	1 	of 	IN
+Rut 	1 	4 	1 	15 	1 	the 	DT
+Rut 	1 	4 	1 	16 	1 	one 	CD
+Rut 	1 	4 	1 	17 	1 	was 	VBD
+Rut 	1 	4 	1 	18 	1 	Orpah 	NN
+Rut 	1 	4 	1 	19 	0 	,
+Rut 	1 	4 	1 	20 	1 	and 	CC
+Rut 	1 	4 	1 	21 	1 	the 	DT
+Rut 	1 	4 	1 	22 	1 	name 	NN
+Rut 	1 	4 	1 	23 	1 	of 	IN
+Rut 	1 	4 	1 	24 	1 	the 	DT
+Rut 	1 	4 	1 	25 	1 	other 	JJ
+Rut 	1 	4 	1 	26 	1 	Ruth 	NN
+Rut 	1 	4 	1 	27 	0 	:
+Rut 	1 	4 	1 	28 	1 	and 	CC
+Rut 	1 	4 	1 	29 	1 	they 	PRP
+Rut 	1 	4 	1 	30 	1 	dwelled 	VBN
+Rut 	1 	4 	1 	31 	1 	there 	RB
+Rut 	1 	4 	1 	32 	1 	about 	IN
+Rut 	1 	4 	1 	33 	1 	ten 	NNS
+Rut 	1 	4 	1 	34 	1 	years 	NNS
+Rut 	1 	4 	1 	35 	0 	.
+Rut 	1 	5 	1 	1 	1 	And 	CC
+Rut 	1 	5 	1 	2 	1 	Mahlon 	NN
+Rut 	1 	5 	1 	3 	1 	and 	CC
+Rut 	1 	5 	1 	4 	1 	Chilion 	NN
+Rut 	1 	5 	1 	5 	1 	died 	VBD
+Rut 	1 	5 	1 	6 	1 	also 	RB
+Rut 	1 	5 	1 	7 	1 	both 	DT
+Rut 	1 	5 	1 	8 	1 	of 	IN
+Rut 	1 	5 	1 	9 	1 	them 	PRP
+Rut 	1 	5 	1 	10 	0 	;
+Rut 	1 	5 	1 	11 	1 	and 	CC
+Rut 	1 	5 	1 	12 	1 	the 	DT
+Rut 	1 	5 	1 	13 	1 	woman 	NN
+Rut 	1 	5 	1 	14 	1 	was 	VBD
+Rut 	1 	5 	1 	15 	1 	left 	NN
+Rut 	1 	5 	1 	16 	1 	of 	IN
+Rut 	1 	5 	1 	17 	1 	her 	PRP$
+Rut 	1 	5 	1 	18 	1 	two 	CD
+Rut 	1 	5 	1 	19 	1 	sons 	NNS
+Rut 	1 	5 	1 	20 	1 	and 	CC
+Rut 	1 	5 	1 	21 	1 	her 	PRP$
+Rut 	1 	5 	1 	22 	1 	husband 	NN
+Rut 	1 	5 	1 	23 	0 	.
+Rut 	1 	6 	1 	1 	1 	Then 	RB
+Rut 	1 	6 	1 	2 	1 	she 	PRP
+Rut 	1 	6 	1 	3 	1 	arose 	NN
+Rut 	1 	6 	1 	4 	1 	with 	IN
+Rut 	1 	6 	1 	5 	1 	her 	PRP$
+Rut 	1 	6 	1 	6 	1 	daughters 	NNS
+Rut 	1 	6 	1 	7 	1 	in 	IN
+Rut 	1 	6 	1 	8 	1 	law 	NN
+Rut 	1 	6 	1 	9 	0 	,
+Rut 	1 	6 	1 	10 	1 	that 	IN
+Rut 	1 	6 	1 	11 	1 	she 	PRP
+Rut 	1 	6 	1 	12 	1 	might 	MD
+Rut 	1 	6 	1 	13 	1 	return 	NN
+Rut 	1 	6 	1 	14 	1 	from 	IN
+Rut 	1 	6 	1 	15 	1 	the 	DT
+Rut 	1 	6 	1 	16 	1 	country 	NN
+Rut 	1 	6 	1 	17 	1 	of 	IN
+Rut 	1 	6 	1 	18 	1 	Moab 	NN
+Rut 	1 	6 	1 	19 	0 	:
+Rut 	1 	6 	1 	20 	1 	for 	IN
+Rut 	1 	6 	1 	21 	1 	she 	PRP
+Rut 	1 	6 	1 	22 	1 	had 	VBD
+Rut 	1 	6 	1 	23 	1 	heard 	NN
+Rut 	1 	6 	1 	24 	1 	in 	IN
+Rut 	1 	6 	1 	25 	1 	the 	DT
+Rut 	1 	6 	1 	26 	1 	country 	NN
+Rut 	1 	6 	1 	27 	1 	of 	IN
+Rut 	1 	6 	1 	28 	1 	Moab 	NN
+Rut 	1 	6 	1 	29 	1 	how 	WRB
+Rut 	1 	6 	1 	30 	1 	that 	IN
+Rut 	1 	6 	1 	31 	1 	the 	DT
+Rut 	1 	6 	1 	32 	1 	LORD 	NN
+Rut 	1 	6 	1 	33 	1 	had 	VBD
+Rut 	1 	6 	1 	34 	1 	visited 	VBN
+Rut 	1 	6 	1 	35 	1 	his 	PRP$
+Rut 	1 	6 	1 	36 	1 	people 	NNS
+Rut 	1 	6 	1 	37 	1 	in 	IN
+Rut 	1 	6 	1 	38 	1 	giving 	VBG
+Rut 	1 	6 	1 	39 	1 	them 	PRP
+Rut 	1 	6 	1 	40 	1 	bread 	NN
+Rut 	1 	6 	1 	41 	0 	.
+Rut 	1 	7 	1 	1 	1 	Wherefore 	IN
+Rut 	1 	7 	1 	2 	1 	she 	PRP
+Rut 	1 	7 	1 	3 	1 	went 	VBD
+Rut 	1 	7 	1 	4 	1 	forth 	NN
+Rut 	1 	7 	1 	5 	1 	out 	IN
+Rut 	1 	7 	1 	6 	1 	of 	IN
+Rut 	1 	7 	1 	7 	1 	the 	DT
+Rut 	1 	7 	1 	8 	1 	place 	NN
+Rut 	1 	7 	1 	9 	1 	where 	WRB
+Rut 	1 	7 	1 	10 	1 	she 	PRP
+Rut 	1 	7 	1 	11 	1 	was 	VBD
+Rut 	1 	7 	1 	12 	0 	,
+Rut 	1 	7 	1 	13 	1 	and 	CC
+Rut 	1 	7 	1 	14 	1 	her 	PRP$
+Rut 	1 	7 	1 	15 	1 	two 	CD
+Rut 	1 	7 	1 	16 	1 	daughters 	NNS
+Rut 	1 	7 	1 	17 	1 	in 	IN
+Rut 	1 	7 	1 	18 	1 	law 	NN
+Rut 	1 	7 	1 	19 	1 	with 	IN
+Rut 	1 	7 	1 	20 	1 	her 	PRP$
+Rut 	1 	7 	1 	21 	0 	;
+Rut 	1 	7 	1 	22 	1 	and 	CC
+Rut 	1 	7 	1 	23 	1 	they 	PRP
+Rut 	1 	7 	1 	24 	1 	went 	VBD
+Rut 	1 	7 	1 	25 	1 	on 	IN
+Rut 	1 	7 	1 	26 	1 	the 	DT
+Rut 	1 	7 	1 	27 	1 	way 	NN
+Rut 	1 	7 	1 	28 	1 	to 	TO
+Rut 	1 	7 	1 	29 	1 	return 	NN
+Rut 	1 	7 	1 	30 	1 	unto 	NN
+Rut 	1 	7 	1 	31 	1 	the 	DT
+Rut 	1 	7 	1 	32 	1 	land 	NN
+Rut 	1 	7 	1 	33 	1 	of 	IN
+Rut 	1 	7 	1 	34 	1 	Judah 	NN
+Rut 	1 	7 	1 	35 	0 	.
+Rut 	1 	8 	1 	1 	1 	And 	CC
+Rut 	1 	8 	1 	2 	1 	Naomi 	NN
+Rut 	1 	8 	1 	3 	1 	said 	VBD
+Rut 	1 	8 	1 	4 	1 	unto 	NN
+Rut 	1 	8 	1 	5 	1 	her 	PRP$
+Rut 	1 	8 	1 	6 	1 	two 	CD
+Rut 	1 	8 	1 	7 	1 	daughters 	NNS
+Rut 	1 	8 	1 	8 	1 	in 	IN
+Rut 	1 	8 	1 	9 	1 	law 	NN
+Rut 	1 	8 	1 	10 	0 	,
+Rut 	1 	8 	1 	11 	1 	Go 	VB
+Rut 	1 	8 	1 	12 	0 	,
+Rut 	1 	8 	1 	13 	1 	return 	NN
+Rut 	1 	8 	1 	14 	1 	each 	DT
+Rut 	1 	8 	1 	15 	1 	to 	TO
+Rut 	1 	8 	1 	16 	1 	her 	PRP$
+Rut 	1 	8 	1 	17 	1 	mother 	NN
+Rut 	1 	8 	1 	18 	0 	's
+Rut 	1 	8 	1 	19 	1 	house 	NN
+Rut 	1 	8 	1 	20 	0 	:
+Rut 	1 	8 	1 	21 	1 	the 	DT
+Rut 	1 	8 	1 	22 	1 	LORD 	NN
+Rut 	1 	8 	1 	23 	1 	deal 	NN
+Rut 	1 	8 	1 	24 	1 	kindly 	RB
+Rut 	1 	8 	1 	25 	1 	with 	IN
+Rut 	1 	8 	1 	26 	1 	you 	PRP
+Rut 	1 	8 	1 	27 	0 	,
+Rut 	1 	8 	1 	28 	1 	as 	IN
+Rut 	1 	8 	1 	29 	1 	ye 	NN
+Rut 	1 	8 	1 	30 	1 	have 	VB
+Rut 	1 	8 	1 	31 	1 	dealt 	NN
+Rut 	1 	8 	1 	32 	1 	with 	IN
+Rut 	1 	8 	1 	33 	1 	the 	DT
+Rut 	1 	8 	1 	34 	1 	dead 	JJ
+Rut 	1 	8 	1 	35 	0 	,
+Rut 	1 	8 	1 	36 	1 	and 	CC
+Rut 	1 	8 	1 	37 	1 	with 	IN
+Rut 	1 	8 	1 	38 	1 	me 	PRP
+Rut 	1 	8 	1 	39 	0 	.
+Rut 	1 	9 	1 	1 	1 	The 	DT
+Rut 	1 	9 	1 	2 	1 	LORD 	NN
+Rut 	1 	9 	1 	3 	1 	grant 	NN
+Rut 	1 	9 	1 	4 	1 	you 	PRP
+Rut 	1 	9 	1 	5 	1 	that 	IN
+Rut 	1 	9 	1 	6 	1 	ye 	NN
+Rut 	1 	9 	1 	7 	1 	may 	MD
+Rut 	1 	9 	1 	8 	1 	find 	VB
+Rut 	1 	9 	1 	9 	1 	rest 	NN
+Rut 	1 	9 	1 	10 	0 	,
+Rut 	1 	9 	1 	11 	1 	each 	DT
+Rut 	1 	9 	1 	12 	1 	of 	IN
+Rut 	1 	9 	1 	13 	1 	you 	PRP
+Rut 	1 	9 	1 	14 	1 	in 	IN
+Rut 	1 	9 	1 	15 	1 	the 	DT
+Rut 	1 	9 	1 	16 	1 	house 	NN
+Rut 	1 	9 	1 	17 	1 	of 	IN
+Rut 	1 	9 	1 	18 	1 	her 	PRP$
+Rut 	1 	9 	1 	19 	1 	husband 	NN
+Rut 	1 	9 	1 	20 	0 	.
+Rut 	1 	9 	2 	1 	1 	Then 	RB
+Rut 	1 	9 	2 	2 	1 	she 	PRP
+Rut 	1 	9 	2 	3 	1 	kissed 	VBN
+Rut 	1 	9 	2 	4 	1 	them 	PRP
+Rut 	1 	9 	2 	5 	0 	;
+Rut 	1 	9 	2 	6 	1 	and 	CC
+Rut 	1 	9 	2 	7 	1 	they 	PRP
+Rut 	1 	9 	2 	8 	1 	lifted 	VBN
+Rut 	1 	9 	2 	9 	1 	up 	RB
+Rut 	1 	9 	2 	10 	1 	their 	PRP$
+Rut 	1 	9 	2 	11 	1 	voice 	NN
+Rut 	1 	9 	2 	12 	0 	,
+Rut 	1 	9 	2 	13 	1 	and 	CC
+Rut 	1 	9 	2 	14 	1 	wept 	NN
+Rut 	1 	9 	2 	15 	0 	.
+Rut 	1 	10 	1 	1 	1 	And 	CC
+Rut 	1 	10 	1 	2 	1 	they 	PRP
+Rut 	1 	10 	1 	3 	1 	said 	VBD
+Rut 	1 	10 	1 	4 	1 	unto 	NN
+Rut 	1 	10 	1 	5 	1 	her 	PRP$
+Rut 	1 	10 	1 	6 	0 	,
+Rut 	1 	10 	1 	7 	1 	Surely 	RB
+Rut 	1 	10 	1 	8 	1 	we 	PRP
+Rut 	1 	10 	1 	9 	1 	will 	MD
+Rut 	1 	10 	1 	10 	1 	return 	NN
+Rut 	1 	10 	1 	11 	1 	with 	IN
+Rut 	1 	10 	1 	12 	1 	thee 	NN
+Rut 	1 	10 	1 	13 	1 	unto 	NN
+Rut 	1 	10 	1 	14 	1 	thy 	NN
+Rut 	1 	10 	1 	15 	1 	people 	NNS
+Rut 	1 	10 	1 	16 	0 	.
+Rut 	1 	11 	1 	1 	1 	And 	CC
+Rut 	1 	11 	1 	2 	1 	Naomi 	NN
+Rut 	1 	11 	1 	3 	1 	said 	VBD
+Rut 	1 	11 	1 	4 	0 	,
+Rut 	1 	11 	1 	5 	1 	Turn 	NN
+Rut 	1 	11 	1 	6 	1 	again 	RB
+Rut 	1 	11 	1 	7 	0 	,
+Rut 	1 	11 	1 	8 	1 	my 	PRP$
+Rut 	1 	11 	1 	9 	1 	daughters 	NNS
+Rut 	1 	11 	1 	10 	0 	:
+Rut 	1 	11 	1 	11 	1 	why 	WRB
+Rut 	1 	11 	1 	12 	1 	will 	MD
+Rut 	1 	11 	1 	13 	1 	ye 	NN
+Rut 	1 	11 	1 	14 	1 	go 	VB
+Rut 	1 	11 	1 	15 	1 	with 	IN
+Rut 	1 	11 	1 	16 	1 	me 	PRP
+Rut 	1 	11 	1 	17 	0 	?
+Rut 	1 	11 	2 	1 	1 	are 	VBP
+Rut 	1 	11 	2 	2 	1 	there 	RB
+Rut 	1 	11 	2 	3 	1 	yet 	RB
+Rut 	1 	11 	2 	4 	1 	any 	DT
+Rut 	1 	11 	2 	5 	1 	more 	RBR
+Rut 	1 	11 	2 	6 	1 	sons 	NNS
+Rut 	1 	11 	2 	7 	1 	in 	IN
+Rut 	1 	11 	2 	8 	1 	my 	PRP$
+Rut 	1 	11 	2 	9 	1 	womb 	NN
+Rut 	1 	11 	2 	10 	0 	,
+Rut 	1 	11 	2 	11 	1 	that 	IN
+Rut 	1 	11 	2 	12 	1 	they 	PRP
+Rut 	1 	11 	2 	13 	1 	may 	MD
+Rut 	1 	11 	2 	14 	1 	be 	VB
+Rut 	1 	11 	2 	15 	1 	your 	PRP$
+Rut 	1 	11 	2 	16 	1 	husbands 	NNS
+Rut 	1 	11 	2 	17 	0 	?
+Rut 	1 	12 	1 	1 	1 	Turn 	NN
+Rut 	1 	12 	1 	2 	1 	again 	RB
+Rut 	1 	12 	1 	3 	0 	,
+Rut 	1 	12 	1 	4 	1 	my 	PRP$
+Rut 	1 	12 	1 	5 	1 	daughters 	NNS
+Rut 	1 	12 	1 	6 	0 	,
+Rut 	1 	12 	1 	7 	1 	go 	VB
+Rut 	1 	12 	1 	8 	1 	your 	PRP$
+Rut 	1 	12 	1 	9 	1 	way 	NN
+Rut 	1 	12 	1 	10 	0 	;
+Rut 	1 	12 	1 	11 	1 	for 	IN
+Rut 	1 	12 	1 	12 	1 	I 	PRP
+Rut 	1 	12 	1 	13 	1 	am 	VBP
+Rut 	1 	12 	1 	14 	1 	too 	RB
+Rut 	1 	12 	1 	15 	1 	old 	JJ
+Rut 	1 	12 	1 	16 	1 	to 	TO
+Rut 	1 	12 	1 	17 	1 	have 	VB
+Rut 	1 	12 	1 	18 	1 	an 	DT
+Rut 	1 	12 	1 	19 	1 	husband 	NN
+Rut 	1 	12 	1 	20 	0 	.
+Rut 	1 	12 	2 	1 	1 	If 	IN
+Rut 	1 	12 	2 	2 	1 	I 	PRP
+Rut 	1 	12 	2 	3 	1 	should 	MD
+Rut 	1 	12 	2 	4 	1 	say 	VB
+Rut 	1 	12 	2 	5 	0 	,
+Rut 	1 	12 	2 	6 	1 	I 	PRP
+Rut 	1 	12 	2 	7 	1 	have 	VB
+Rut 	1 	12 	2 	8 	1 	hope 	NN
+Rut 	1 	12 	2 	9 	0 	,
+Rut 	1 	12 	2 	10 	1 	if 	IN
+Rut 	1 	12 	2 	11 	1 	I 	PRP
+Rut 	1 	12 	2 	12 	1 	should 	MD
+Rut 	1 	12 	2 	13 	1 	have 	VB
+Rut 	1 	12 	2 	14 	1 	an 	DT
+Rut 	1 	12 	2 	15 	1 	husband 	NN
+Rut 	1 	12 	2 	16 	1 	also 	RB
+Rut 	1 	12 	2 	17 	1 	to 	TO
+Rut 	1 	12 	2 	18 	1 	night 	NN
+Rut 	1 	12 	2 	19 	0 	,
+Rut 	1 	12 	2 	20 	1 	and 	CC
+Rut 	1 	12 	2 	21 	1 	should 	MD
+Rut 	1 	12 	2 	22 	1 	also 	RB
+Rut 	1 	12 	2 	23 	1 	bear 	NN
+Rut 	1 	12 	2 	24 	1 	sons 	NNS
+Rut 	1 	12 	2 	25 	0 	;
+Rut 	1 	13 	1 	1 	1 	Would 	MD
+Rut 	1 	13 	1 	2 	1 	ye 	NN
+Rut 	1 	13 	1 	3 	1 	tarry 	NN
+Rut 	1 	13 	1 	4 	1 	for 	IN
+Rut 	1 	13 	1 	5 	1 	them 	PRP
+Rut 	1 	13 	1 	6 	1 	till 	NN
+Rut 	1 	13 	1 	7 	1 	they 	PRP
+Rut 	1 	13 	1 	8 	1 	were 	VBD
+Rut 	1 	13 	1 	9 	1 	grown 	NN
+Rut 	1 	13 	1 	10 	0 	?
+Rut 	1 	13 	2 	1 	1 	would 	MD
+Rut 	1 	13 	2 	2 	1 	ye 	NN
+Rut 	1 	13 	2 	3 	1 	stay 	NN
+Rut 	1 	13 	2 	4 	1 	for 	IN
+Rut 	1 	13 	2 	5 	1 	them 	PRP
+Rut 	1 	13 	2 	6 	1 	from 	IN
+Rut 	1 	13 	2 	7 	1 	having 	VBG
+Rut 	1 	13 	2 	8 	1 	husbands 	NNS
+Rut 	1 	13 	2 	9 	0 	?
+Rut 	1 	13 	3 	1 	1 	nay 	NN
+Rut 	1 	13 	3 	2 	0 	,
+Rut 	1 	13 	3 	3 	1 	my 	PRP$
+Rut 	1 	13 	3 	4 	1 	daughters 	NNS
+Rut 	1 	13 	3 	5 	0 	;
+Rut 	1 	13 	3 	6 	1 	for 	IN
+Rut 	1 	13 	3 	7 	1 	it 	PRP
+Rut 	1 	13 	3 	8 	1 	grieveth 	NNS
+Rut 	1 	13 	3 	9 	1 	me 	PRP
+Rut 	1 	13 	3 	10 	1 	much 	JJ
+Rut 	1 	13 	3 	11 	1 	for 	IN
+Rut 	1 	13 	3 	12 	1 	your 	PRP$
+Rut 	1 	13 	3 	13 	1 	sakes 	NNS
+Rut 	1 	13 	3 	14 	1 	that 	IN
+Rut 	1 	13 	3 	15 	1 	the 	DT
+Rut 	1 	13 	3 	16 	1 	hand 	NN
+Rut 	1 	13 	3 	17 	1 	of 	IN
+Rut 	1 	13 	3 	18 	1 	the 	DT
+Rut 	1 	13 	3 	19 	1 	LORD 	NN
+Rut 	1 	13 	3 	20 	1 	is 	VBZ
+Rut 	1 	13 	3 	21 	1 	gone 	VBN
+Rut 	1 	13 	3 	22 	1 	out 	IN
+Rut 	1 	13 	3 	23 	1 	against 	IN
+Rut 	1 	13 	3 	24 	1 	me 	PRP
+Rut 	1 	13 	3 	25 	0 	.
+Rut 	1 	14 	1 	1 	1 	And 	CC
+Rut 	1 	14 	1 	2 	1 	they 	PRP
+Rut 	1 	14 	1 	3 	1 	lifted 	VBN
+Rut 	1 	14 	1 	4 	1 	up 	RB
+Rut 	1 	14 	1 	5 	1 	their 	PRP$
+Rut 	1 	14 	1 	6 	1 	voice 	NN
+Rut 	1 	14 	1 	7 	0 	,
+Rut 	1 	14 	1 	8 	1 	and 	CC
+Rut 	1 	14 	1 	9 	1 	wept 	NN
+Rut 	1 	14 	1 	10 	1 	again 	RB
+Rut 	1 	14 	1 	11 	0 	:
+Rut 	1 	14 	1 	12 	1 	and 	CC
+Rut 	1 	14 	1 	13 	1 	Orpah 	NN
+Rut 	1 	14 	1 	14 	1 	kissed 	VBN
+Rut 	1 	14 	1 	15 	1 	her 	PRP$
+Rut 	1 	14 	1 	16 	1 	mother 	NN
+Rut 	1 	14 	1 	17 	1 	in 	IN
+Rut 	1 	14 	1 	18 	1 	law 	NN
+Rut 	1 	14 	1 	19 	0 	;
+Rut 	1 	14 	1 	20 	1 	but 	CC
+Rut 	1 	14 	1 	21 	1 	Ruth 	NN
+Rut 	1 	14 	1 	22 	1 	clave 	NN
+Rut 	1 	14 	1 	23 	1 	unto 	NN
+Rut 	1 	14 	1 	24 	1 	her 	PRP$
+Rut 	1 	14 	1 	25 	0 	.
+Rut 	1 	15 	1 	1 	1 	And 	CC
+Rut 	1 	15 	1 	2 	1 	she 	PRP
+Rut 	1 	15 	1 	3 	1 	said 	VBD
+Rut 	1 	15 	1 	4 	0 	,
+Rut 	1 	15 	1 	5 	1 	Behold 	NN
+Rut 	1 	15 	1 	6 	0 	,
+Rut 	1 	15 	1 	7 	1 	thy 	NN
+Rut 	1 	15 	1 	8 	1 	sister 	NN
+Rut 	1 	15 	1 	9 	1 	in 	IN
+Rut 	1 	15 	1 	10 	1 	law 	NN
+Rut 	1 	15 	1 	11 	1 	is 	VBZ
+Rut 	1 	15 	1 	12 	1 	gone 	VBN
+Rut 	1 	15 	1 	13 	1 	back 	RB
+Rut 	1 	15 	1 	14 	1 	unto 	NN
+Rut 	1 	15 	1 	15 	1 	her 	PRP$
+Rut 	1 	15 	1 	16 	1 	people 	NNS
+Rut 	1 	15 	1 	17 	0 	,
+Rut 	1 	15 	1 	18 	1 	and 	CC
+Rut 	1 	15 	1 	19 	1 	unto 	NN
+Rut 	1 	15 	1 	20 	1 	her 	PRP$
+Rut 	1 	15 	1 	21 	1 	gods 	NNS
+Rut 	1 	15 	1 	22 	0 	:
+Rut 	1 	15 	1 	23 	1 	return 	NN
+Rut 	1 	15 	1 	24 	1 	thou 	NN
+Rut 	1 	15 	1 	25 	1 	after 	IN
+Rut 	1 	15 	1 	26 	1 	thy 	NN
+Rut 	1 	15 	1 	27 	1 	sister 	NN
+Rut 	1 	15 	1 	28 	1 	in 	IN
+Rut 	1 	15 	1 	29 	1 	law 	NN
+Rut 	1 	15 	1 	30 	0 	.
+Rut 	1 	16 	1 	1 	1 	And 	CC
+Rut 	1 	16 	1 	2 	1 	Ruth 	NN
+Rut 	1 	16 	1 	3 	1 	said 	VBD
+Rut 	1 	16 	1 	4 	0 	,
+Rut 	1 	16 	1 	5 	1 	Intreat 	NN
+Rut 	1 	16 	1 	6 	1 	me 	PRP
+Rut 	1 	16 	1 	7 	1 	not 	RB
+Rut 	1 	16 	1 	8 	1 	to 	TO
+Rut 	1 	16 	1 	9 	1 	leave 	VB
+Rut 	1 	16 	1 	10 	1 	thee 	NN
+Rut 	1 	16 	1 	11 	0 	,
+Rut 	1 	16 	1 	12 	1 	or 	CC
+Rut 	1 	16 	1 	13 	1 	to 	TO
+Rut 	1 	16 	1 	14 	1 	return 	NN
+Rut 	1 	16 	1 	15 	1 	from 	IN
+Rut 	1 	16 	1 	16 	1 	following 	VBG
+Rut 	1 	16 	1 	17 	1 	after 	IN
+Rut 	1 	16 	1 	18 	1 	thee 	NN
+Rut 	1 	16 	1 	19 	0 	:
+Rut 	1 	16 	1 	20 	1 	for 	IN
+Rut 	1 	16 	1 	21 	1 	whither 	NN
+Rut 	1 	16 	1 	22 	1 	thou 	NN
+Rut 	1 	16 	1 	23 	1 	goest 	NN
+Rut 	1 	16 	1 	24 	0 	,
+Rut 	1 	16 	1 	25 	1 	I 	PRP
+Rut 	1 	16 	1 	26 	1 	will 	MD
+Rut 	1 	16 	1 	27 	1 	go 	VB
+Rut 	1 	16 	1 	28 	0 	;
+Rut 	1 	16 	1 	29 	1 	and 	CC
+Rut 	1 	16 	1 	30 	1 	where 	WRB
+Rut 	1 	16 	1 	31 	1 	thou 	NN
+Rut 	1 	16 	1 	32 	1 	lodgest 	JJS
+Rut 	1 	16 	1 	33 	0 	,
+Rut 	1 	16 	1 	34 	1 	I 	PRP
+Rut 	1 	16 	1 	35 	1 	will 	MD
+Rut 	1 	16 	1 	36 	1 	lodge 	NN
+Rut 	1 	16 	1 	37 	0 	:
+Rut 	1 	16 	1 	38 	1 	thy 	NN
+Rut 	1 	16 	1 	39 	1 	people 	NNS
+Rut 	1 	16 	1 	40 	1 	shall 	MD
+Rut 	1 	16 	1 	41 	1 	be 	VB
+Rut 	1 	16 	1 	42 	1 	my 	PRP$
+Rut 	1 	16 	1 	43 	1 	people 	NNS
+Rut 	1 	16 	1 	44 	0 	,
+Rut 	1 	16 	1 	45 	1 	and 	CC
+Rut 	1 	16 	1 	46 	1 	thy 	NN
+Rut 	1 	16 	1 	47 	1 	God 	NNP
+Rut 	1 	16 	1 	48 	1 	my 	PRP$
+Rut 	1 	16 	1 	49 	1 	God 	NNP
+Rut 	1 	16 	1 	50 	0 	:
+Rut 	1 	17 	1 	1 	1 	Where 	WRB
+Rut 	1 	17 	1 	2 	1 	thou 	NN
+Rut 	1 	17 	1 	3 	1 	diest 	NN
+Rut 	1 	17 	1 	4 	0 	,
+Rut 	1 	17 	1 	5 	1 	will 	MD
+Rut 	1 	17 	1 	6 	1 	I 	PRP
+Rut 	1 	17 	1 	7 	1 	die 	NN
+Rut 	1 	17 	1 	8 	0 	,
+Rut 	1 	17 	1 	9 	1 	and 	CC
+Rut 	1 	17 	1 	10 	1 	there 	RB
+Rut 	1 	17 	1 	11 	1 	will 	MD
+Rut 	1 	17 	1 	12 	1 	I 	PRP
+Rut 	1 	17 	1 	13 	1 	be 	VB
+Rut 	1 	17 	1 	14 	1 	buried 	VBN
+Rut 	1 	17 	1 	15 	0 	:
+Rut 	1 	17 	1 	16 	1 	the 	DT
+Rut 	1 	17 	1 	17 	1 	LORD 	NN
+Rut 	1 	17 	1 	18 	1 	do 	VB
+Rut 	1 	17 	1 	19 	1 	so 	RB
+Rut 	1 	17 	1 	20 	1 	to 	TO
+Rut 	1 	17 	1 	21 	1 	me 	PRP
+Rut 	1 	17 	1 	22 	0 	,
+Rut 	1 	17 	1 	23 	1 	and 	CC
+Rut 	1 	17 	1 	24 	1 	more 	RBR
+Rut 	1 	17 	1 	25 	1 	also 	RB
+Rut 	1 	17 	1 	26 	0 	,
+Rut 	1 	17 	1 	27 	1 	if 	IN
+Rut 	1 	17 	1 	28 	1 	ought 	MD
+Rut 	1 	17 	1 	29 	1 	but 	CC
+Rut 	1 	17 	1 	30 	1 	death 	NN
+Rut 	1 	17 	1 	31 	1 	part 	NN
+Rut 	1 	17 	1 	32 	1 	thee 	NN
+Rut 	1 	17 	1 	33 	1 	and 	CC
+Rut 	1 	17 	1 	34 	1 	me 	PRP
+Rut 	1 	17 	1 	35 	0 	.
+Rut 	1 	18 	1 	1 	1 	When 	WRB
+Rut 	1 	18 	1 	2 	1 	she 	PRP
+Rut 	1 	18 	1 	3 	1 	saw 	NN
+Rut 	1 	18 	1 	4 	1 	that 	IN
+Rut 	1 	18 	1 	5 	1 	she 	PRP
+Rut 	1 	18 	1 	6 	1 	was 	VBD
+Rut 	1 	18 	1 	7 	1 	stedfastly 	RB
+Rut 	1 	18 	1 	8 	1 	minded 	VBN
+Rut 	1 	18 	1 	9 	1 	to 	TO
+Rut 	1 	18 	1 	10 	1 	go 	VB
+Rut 	1 	18 	1 	11 	1 	with 	IN
+Rut 	1 	18 	1 	12 	1 	her 	PRP$
+Rut 	1 	18 	1 	13 	0 	,
+Rut 	1 	18 	1 	14 	1 	then 	RB
+Rut 	1 	18 	1 	15 	1 	she 	PRP
+Rut 	1 	18 	1 	16 	1 	left 	NN
+Rut 	1 	18 	1 	17 	1 	speaking 	VBG
+Rut 	1 	18 	1 	18 	1 	unto 	NN
+Rut 	1 	18 	1 	19 	1 	her 	PRP$
+Rut 	1 	18 	1 	20 	0 	.
+Rut 	1 	19 	1 	1 	1 	So 	RB
+Rut 	1 	19 	1 	2 	1 	they 	PRP
+Rut 	1 	19 	1 	3 	1 	two 	CD
+Rut 	1 	19 	1 	4 	1 	went 	VBD
+Rut 	1 	19 	1 	5 	1 	until 	IN
+Rut 	1 	19 	1 	6 	1 	they 	PRP
+Rut 	1 	19 	1 	7 	1 	came 	VBD
+Rut 	1 	19 	1 	8 	1 	to 	TO
+Rut 	1 	19 	1 	9 	1 	Bethlehem 	NNP
+Rut 	1 	19 	1 	10 	0 	.
+Rut 	1 	19 	2 	1 	1 	And 	CC
+Rut 	1 	19 	2 	2 	1 	it 	PRP
+Rut 	1 	19 	2 	3 	1 	came 	VBD
+Rut 	1 	19 	2 	4 	1 	to 	TO
+Rut 	1 	19 	2 	5 	1 	pass 	NN
+Rut 	1 	19 	2 	6 	0 	,
+Rut 	1 	19 	2 	7 	1 	when 	WRB
+Rut 	1 	19 	2 	8 	1 	they 	PRP
+Rut 	1 	19 	2 	9 	1 	were 	VBD
+Rut 	1 	19 	2 	10 	1 	come 	VB
+Rut 	1 	19 	2 	11 	1 	to 	TO
+Rut 	1 	19 	2 	12 	1 	Bethlehem 	NNP
+Rut 	1 	19 	2 	13 	0 	,
+Rut 	1 	19 	2 	14 	1 	that 	IN
+Rut 	1 	19 	2 	15 	1 	all 	DT
+Rut 	1 	19 	2 	16 	1 	the 	DT
+Rut 	1 	19 	2 	17 	1 	city 	NN
+Rut 	1 	19 	2 	18 	1 	was 	VBD
+Rut 	1 	19 	2 	19 	1 	moved 	VBN
+Rut 	1 	19 	2 	20 	1 	about 	IN
+Rut 	1 	19 	2 	21 	1 	them 	PRP
+Rut 	1 	19 	2 	22 	0 	,
+Rut 	1 	19 	2 	23 	1 	and 	CC
+Rut 	1 	19 	2 	24 	1 	they 	PRP
+Rut 	1 	19 	2 	25 	1 	said 	VBD
+Rut 	1 	19 	2 	26 	0 	,
+Rut 	1 	19 	2 	27 	1 	Is 	NN
+Rut 	1 	19 	2 	28 	1 	this 	DT
+Rut 	1 	19 	2 	29 	1 	Naomi 	NN
+Rut 	1 	19 	2 	30 	0 	?
+Rut 	1 	20 	1 	1 	1 	And 	CC
+Rut 	1 	20 	1 	2 	1 	she 	PRP
+Rut 	1 	20 	1 	3 	1 	said 	VBD
+Rut 	1 	20 	1 	4 	1 	unto 	NN
+Rut 	1 	20 	1 	5 	1 	them 	PRP
+Rut 	1 	20 	1 	6 	0 	,
+Rut 	1 	20 	1 	7 	1 	Call 	VB
+Rut 	1 	20 	1 	8 	1 	me 	PRP
+Rut 	1 	20 	1 	9 	1 	not 	RB
+Rut 	1 	20 	1 	10 	1 	Naomi 	NN
+Rut 	1 	20 	1 	11 	0 	,
+Rut 	1 	20 	1 	12 	1 	call 	NN
+Rut 	1 	20 	1 	13 	1 	me 	PRP
+Rut 	1 	20 	1 	14 	1 	Mara 	NN
+Rut 	1 	20 	1 	15 	0 	:
+Rut 	1 	20 	1 	16 	1 	for 	IN
+Rut 	1 	20 	1 	17 	1 	the 	DT
+Rut 	1 	20 	1 	18 	1 	Almighty 	NN
+Rut 	1 	20 	1 	19 	1 	hath 	NN
+Rut 	1 	20 	1 	20 	1 	dealt 	NN
+Rut 	1 	20 	1 	21 	1 	very 	RB
+Rut 	1 	20 	1 	22 	1 	bitterly 	RB
+Rut 	1 	20 	1 	23 	1 	with 	IN
+Rut 	1 	20 	1 	24 	1 	me 	PRP
+Rut 	1 	20 	1 	25 	0 	.
+Rut 	1 	21 	1 	1 	1 	I 	PRP
+Rut 	1 	21 	1 	2 	1 	went 	VBD
+Rut 	1 	21 	1 	3 	1 	out 	IN
+Rut 	1 	21 	1 	4 	1 	full 	JJ
+Rut 	1 	21 	1 	5 	1 	and 	CC
+Rut 	1 	21 	1 	6 	1 	the 	DT
+Rut 	1 	21 	1 	7 	1 	LORD 	NN
+Rut 	1 	21 	1 	8 	1 	hath 	NN
+Rut 	1 	21 	1 	9 	1 	brought 	NN
+Rut 	1 	21 	1 	10 	1 	me 	PRP
+Rut 	1 	21 	1 	11 	1 	home 	NN
+Rut 	1 	21 	1 	12 	1 	again 	RB
+Rut 	1 	21 	1 	13 	1 	empty 	JJ
+Rut 	1 	21 	1 	14 	0 	:
+Rut 	1 	21 	1 	15 	1 	why 	WRB
+Rut 	1 	21 	1 	16 	1 	then 	RB
+Rut 	1 	21 	1 	17 	1 	call 	NN
+Rut 	1 	21 	1 	18 	1 	ye 	NN
+Rut 	1 	21 	1 	19 	1 	me 	PRP
+Rut 	1 	21 	1 	20 	1 	Naomi 	NN
+Rut 	1 	21 	1 	21 	0 	,
+Rut 	1 	21 	1 	22 	1 	seeing 	VBG
+Rut 	1 	21 	1 	23 	1 	the 	DT
+Rut 	1 	21 	1 	24 	1 	LORD 	NN
+Rut 	1 	21 	1 	25 	1 	hath 	NN
+Rut 	1 	21 	1 	26 	1 	testified 	VBN
+Rut 	1 	21 	1 	27 	1 	against 	IN
+Rut 	1 	21 	1 	28 	1 	me 	PRP
+Rut 	1 	21 	1 	29 	0 	,
+Rut 	1 	21 	1 	30 	1 	and 	CC
+Rut 	1 	21 	1 	31 	1 	the 	DT
+Rut 	1 	21 	1 	32 	1 	Almighty 	NN
+Rut 	1 	21 	1 	33 	1 	hath 	NN
+Rut 	1 	21 	1 	34 	1 	afflicted 	VBN
+Rut 	1 	21 	1 	35 	1 	me 	PRP
+Rut 	1 	21 	1 	36 	0 	?
+Rut 	1 	22 	1 	1 	1 	So 	RB
+Rut 	1 	22 	1 	2 	1 	Naomi 	NN
+Rut 	1 	22 	1 	3 	1 	returned 	VBN
+Rut 	1 	22 	1 	4 	0 	,
+Rut 	1 	22 	1 	5 	1 	and 	CC
+Rut 	1 	22 	1 	6 	1 	Ruth 	NN
+Rut 	1 	22 	1 	7 	1 	the 	DT
+Rut 	1 	22 	1 	8 	1 	Moabitess 	NN
+Rut 	1 	22 	1 	9 	0 	,
+Rut 	1 	22 	1 	10 	1 	her 	PRP$
+Rut 	1 	22 	1 	11 	1 	daughter 	NN
+Rut 	1 	22 	1 	12 	1 	in 	IN
+Rut 	1 	22 	1 	13 	1 	law 	NN
+Rut 	1 	22 	1 	14 	0 	,
+Rut 	1 	22 	1 	15 	1 	with 	IN
+Rut 	1 	22 	1 	16 	1 	her 	PRP$
+Rut 	1 	22 	1 	17 	0 	,
+Rut 	1 	22 	1 	18 	1 	which 	WDT
+Rut 	1 	22 	1 	19 	1 	returned 	VBN
+Rut 	1 	22 	1 	20 	1 	out 	IN
+Rut 	1 	22 	1 	21 	1 	of 	IN
+Rut 	1 	22 	1 	22 	1 	the 	DT
+Rut 	1 	22 	1 	23 	1 	country 	NN
+Rut 	1 	22 	1 	24 	1 	of 	IN
+Rut 	1 	22 	1 	25 	1 	Moab 	NN
+Rut 	1 	22 	1 	26 	0 	:
+Rut 	1 	22 	1 	27 	1 	and 	CC
+Rut 	1 	22 	1 	28 	1 	they 	PRP
+Rut 	1 	22 	1 	29 	1 	came 	VBD
+Rut 	1 	22 	1 	30 	1 	to 	TO
+Rut 	1 	22 	1 	31 	1 	Bethlehem 	NNP
+Rut 	1 	22 	1 	32 	1 	in 	IN
+Rut 	1 	22 	1 	33 	1 	the 	DT
+Rut 	1 	22 	1 	34 	1 	beginning 	VBG
+Rut 	1 	22 	1 	35 	1 	of 	IN
+Rut 	1 	22 	1 	36 	1 	barley 	NN
+Rut 	1 	22 	1 	37 	1 	harvest 	NN
+Rut 	1 	22 	1 	38 	0 	.
+Rut 	2 	1 	1 	1 	1 	And 	CC
+Rut 	2 	1 	1 	2 	1 	Naomi 	NN
+Rut 	2 	1 	1 	3 	1 	had 	VBD
+Rut 	2 	1 	1 	4 	1 	a 	DT
+Rut 	2 	1 	1 	5 	1 	kinsman 	NN
+Rut 	2 	1 	1 	6 	1 	of 	IN
+Rut 	2 	1 	1 	7 	1 	her 	PRP$
+Rut 	2 	1 	1 	8 	1 	husband 	NN
+Rut 	2 	1 	1 	9 	0 	's
+Rut 	2 	1 	1 	10 	0 	,
+Rut 	2 	1 	1 	11 	1 	a 	DT
+Rut 	2 	1 	1 	12 	1 	mighty 	NN
+Rut 	2 	1 	1 	13 	1 	man 	NN
+Rut 	2 	1 	1 	14 	1 	of 	IN
+Rut 	2 	1 	1 	15 	1 	wealth 	NN
+Rut 	2 	1 	1 	16 	0 	,
+Rut 	2 	1 	1 	17 	1 	of 	IN
+Rut 	2 	1 	1 	18 	1 	the 	DT
+Rut 	2 	1 	1 	19 	1 	family 	NN
+Rut 	2 	1 	1 	20 	1 	of 	IN
+Rut 	2 	1 	1 	21 	1 	Elimelech 	NN
+Rut 	2 	1 	1 	22 	0 	;
+Rut 	2 	1 	1 	23 	1 	and 	CC
+Rut 	2 	1 	1 	24 	1 	his 	PRP$
+Rut 	2 	1 	1 	25 	1 	name 	NN
+Rut 	2 	1 	1 	26 	1 	was 	VBD
+Rut 	2 	1 	1 	27 	1 	Boaz 	NN
+Rut 	2 	1 	1 	28 	0 	.
+Rut 	2 	2 	1 	1 	1 	And 	CC
+Rut 	2 	2 	1 	2 	1 	Ruth 	NN
+Rut 	2 	2 	1 	3 	1 	the 	DT
+Rut 	2 	2 	1 	4 	1 	Moabitess 	NN
+Rut 	2 	2 	1 	5 	1 	said 	VBD
+Rut 	2 	2 	1 	6 	1 	unto 	NN
+Rut 	2 	2 	1 	7 	1 	Naomi 	NN
+Rut 	2 	2 	1 	8 	0 	,
+Rut 	2 	2 	1 	9 	1 	Let 	VB
+Rut 	2 	2 	1 	10 	1 	me 	PRP
+Rut 	2 	2 	1 	11 	1 	now 	RB
+Rut 	2 	2 	1 	12 	1 	go 	VB
+Rut 	2 	2 	1 	13 	1 	to 	TO
+Rut 	2 	2 	1 	14 	1 	the 	DT
+Rut 	2 	2 	1 	15 	1 	field 	NN
+Rut 	2 	2 	1 	16 	0 	,
+Rut 	2 	2 	1 	17 	1 	and 	CC
+Rut 	2 	2 	1 	18 	1 	glean 	NN
+Rut 	2 	2 	1 	19 	1 	ears 	NNS
+Rut 	2 	2 	1 	20 	1 	of 	IN
+Rut 	2 	2 	1 	21 	1 	corn 	NN
+Rut 	2 	2 	1 	22 	1 	after 	IN
+Rut 	2 	2 	1 	23 	1 	him 	PRP
+Rut 	2 	2 	1 	24 	1 	in 	IN
+Rut 	2 	2 	1 	25 	1 	whose 	WP$
+Rut 	2 	2 	1 	26 	1 	sight 	NN
+Rut 	2 	2 	1 	27 	1 	I 	PRP
+Rut 	2 	2 	1 	28 	1 	shall 	MD
+Rut 	2 	2 	1 	29 	1 	find 	VB
+Rut 	2 	2 	1 	30 	1 	grace 	NN
+Rut 	2 	2 	1 	31 	0 	.
+Rut 	2 	2 	2 	1 	1 	And 	CC
+Rut 	2 	2 	2 	2 	1 	she 	PRP
+Rut 	2 	2 	2 	3 	1 	said 	VBD
+Rut 	2 	2 	2 	4 	1 	unto 	NN
+Rut 	2 	2 	2 	5 	1 	her 	PRP$
+Rut 	2 	2 	2 	6 	0 	,
+Rut 	2 	2 	2 	7 	1 	Go 	VB
+Rut 	2 	2 	2 	8 	0 	,
+Rut 	2 	2 	2 	9 	1 	my 	PRP$
+Rut 	2 	2 	2 	10 	1 	daughter 	NN
+Rut 	2 	2 	2 	11 	0 	.
+Rut 	2 	3 	1 	1 	1 	And 	CC
+Rut 	2 	3 	1 	2 	1 	she 	PRP
+Rut 	2 	3 	1 	3 	1 	went 	VBD
+Rut 	2 	3 	1 	4 	0 	,
+Rut 	2 	3 	1 	5 	1 	and 	CC
+Rut 	2 	3 	1 	6 	1 	came 	VBD
+Rut 	2 	3 	1 	7 	0 	,
+Rut 	2 	3 	1 	8 	1 	and 	CC
+Rut 	2 	3 	1 	9 	1 	gleaned 	VBN
+Rut 	2 	3 	1 	10 	1 	in 	IN
+Rut 	2 	3 	1 	11 	1 	the 	DT
+Rut 	2 	3 	1 	12 	1 	field 	NN
+Rut 	2 	3 	1 	13 	1 	after 	IN
+Rut 	2 	3 	1 	14 	1 	the 	DT
+Rut 	2 	3 	1 	15 	1 	reapers 	NNS
+Rut 	2 	3 	1 	16 	0 	:
+Rut 	2 	3 	1 	17 	1 	and 	CC
+Rut 	2 	3 	1 	18 	1 	her 	PRP$
+Rut 	2 	3 	1 	19 	1 	hap 	NN
+Rut 	2 	3 	1 	20 	1 	was 	VBD
+Rut 	2 	3 	1 	21 	1 	to 	TO
+Rut 	2 	3 	1 	22 	1 	light 	NN
+Rut 	2 	3 	1 	23 	1 	on 	IN
+Rut 	2 	3 	1 	24 	1 	a 	DT
+Rut 	2 	3 	1 	25 	1 	part 	NN
+Rut 	2 	3 	1 	26 	1 	of 	IN
+Rut 	2 	3 	1 	27 	1 	the 	DT
+Rut 	2 	3 	1 	28 	1 	field 	NN
+Rut 	2 	3 	1 	29 	1 	belonging 	NN
+Rut 	2 	3 	1 	30 	1 	unto 	NN
+Rut 	2 	3 	1 	31 	1 	Boaz 	NN
+Rut 	2 	3 	1 	32 	0 	,
+Rut 	2 	3 	1 	33 	1 	who 	WP
+Rut 	2 	3 	1 	34 	1 	was 	VBD
+Rut 	2 	3 	1 	35 	1 	of 	IN
+Rut 	2 	3 	1 	36 	1 	the 	DT
+Rut 	2 	3 	1 	37 	1 	kindred 	VBN
+Rut 	2 	3 	1 	38 	1 	of 	IN
+Rut 	2 	3 	1 	39 	1 	Elimelech 	NN
+Rut 	2 	3 	1 	40 	0 	.
+Rut 	2 	4 	1 	1 	1 	And 	CC
+Rut 	2 	4 	1 	2 	0 	,
+Rut 	2 	4 	1 	3 	1 	behold 	NN
+Rut 	2 	4 	1 	4 	0 	,
+Rut 	2 	4 	1 	5 	1 	Boaz 	NN
+Rut 	2 	4 	1 	6 	1 	came 	VBD
+Rut 	2 	4 	1 	7 	1 	from 	IN
+Rut 	2 	4 	1 	8 	1 	Bethlehem 	NNP
+Rut 	2 	4 	1 	9 	0 	,
+Rut 	2 	4 	1 	10 	1 	and 	CC
+Rut 	2 	4 	1 	11 	1 	said 	VBD
+Rut 	2 	4 	1 	12 	1 	unto 	NN
+Rut 	2 	4 	1 	13 	1 	the 	DT
+Rut 	2 	4 	1 	14 	1 	reapers 	NNS
+Rut 	2 	4 	1 	15 	0 	,
+Rut 	2 	4 	1 	16 	1 	The 	DT
+Rut 	2 	4 	1 	17 	1 	LORD 	NN
+Rut 	2 	4 	1 	18 	1 	be 	VB
+Rut 	2 	4 	1 	19 	1 	with 	IN
+Rut 	2 	4 	1 	20 	1 	you 	PRP
+Rut 	2 	4 	1 	21 	0 	.
+Rut 	2 	4 	2 	1 	1 	And 	CC
+Rut 	2 	4 	2 	2 	1 	they 	PRP
+Rut 	2 	4 	2 	3 	1 	answered 	VBN
+Rut 	2 	4 	2 	4 	1 	him 	PRP
+Rut 	2 	4 	2 	5 	0 	,
+Rut 	2 	4 	2 	6 	1 	The 	DT
+Rut 	2 	4 	2 	7 	1 	LORD 	NN
+Rut 	2 	4 	2 	8 	1 	bless 	NN
+Rut 	2 	4 	2 	9 	1 	thee 	NN
+Rut 	2 	4 	2 	10 	0 	.
+Rut 	2 	5 	1 	1 	1 	Then 	RB
+Rut 	2 	5 	1 	2 	1 	said 	VBD
+Rut 	2 	5 	1 	3 	1 	Boaz 	NN
+Rut 	2 	5 	1 	4 	1 	unto 	NN
+Rut 	2 	5 	1 	5 	1 	his 	PRP$
+Rut 	2 	5 	1 	6 	1 	servant 	NN
+Rut 	2 	5 	1 	7 	1 	that 	IN
+Rut 	2 	5 	1 	8 	1 	was 	VBD
+Rut 	2 	5 	1 	9 	1 	set 	NN
+Rut 	2 	5 	1 	10 	1 	over 	IN
+Rut 	2 	5 	1 	11 	1 	the 	DT
+Rut 	2 	5 	1 	12 	1 	reapers 	NNS
+Rut 	2 	5 	1 	13 	0 	,
+Rut 	2 	5 	1 	14 	1 	Whose 	VB
+Rut 	2 	5 	1 	15 	1 	damsel 	NN
+Rut 	2 	5 	1 	16 	1 	is 	VBZ
+Rut 	2 	5 	1 	17 	1 	this 	DT
+Rut 	2 	5 	1 	18 	0 	?
+Rut 	2 	6 	1 	1 	1 	And 	CC
+Rut 	2 	6 	1 	2 	1 	the 	DT
+Rut 	2 	6 	1 	3 	1 	servant 	NN
+Rut 	2 	6 	1 	4 	1 	that 	IN
+Rut 	2 	6 	1 	5 	1 	was 	VBD
+Rut 	2 	6 	1 	6 	1 	set 	NN
+Rut 	2 	6 	1 	7 	1 	over 	IN
+Rut 	2 	6 	1 	8 	1 	the 	DT
+Rut 	2 	6 	1 	9 	1 	reapers 	NNS
+Rut 	2 	6 	1 	10 	1 	answered 	VBN
+Rut 	2 	6 	1 	11 	1 	and 	CC
+Rut 	2 	6 	1 	12 	1 	said 	VBD
+Rut 	2 	6 	1 	13 	0 	,
+Rut 	2 	6 	1 	14 	1 	It 	PRP
+Rut 	2 	6 	1 	15 	1 	is 	VBZ
+Rut 	2 	6 	1 	16 	1 	the 	DT
+Rut 	2 	6 	1 	17 	1 	Moabitish 	JJ
+Rut 	2 	6 	1 	18 	1 	damsel 	NN
+Rut 	2 	6 	1 	19 	1 	that 	IN
+Rut 	2 	6 	1 	20 	1 	came 	VBD
+Rut 	2 	6 	1 	21 	1 	back 	RB
+Rut 	2 	6 	1 	22 	1 	with 	IN
+Rut 	2 	6 	1 	23 	1 	Naomi 	NN
+Rut 	2 	6 	1 	24 	1 	out 	IN
+Rut 	2 	6 	1 	25 	1 	of 	IN
+Rut 	2 	6 	1 	26 	1 	the 	DT
+Rut 	2 	6 	1 	27 	1 	country 	NN
+Rut 	2 	6 	1 	28 	1 	of 	IN
+Rut 	2 	6 	1 	29 	1 	Moab 	NN
+Rut 	2 	6 	1 	30 	0 	:
+Rut 	2 	7 	1 	1 	1 	And 	CC
+Rut 	2 	7 	1 	2 	1 	she 	PRP
+Rut 	2 	7 	1 	3 	1 	said 	VBD
+Rut 	2 	7 	1 	4 	0 	,
+Rut 	2 	7 	1 	5 	1 	I 	PRP
+Rut 	2 	7 	1 	6 	1 	pray 	NN
+Rut 	2 	7 	1 	7 	1 	you 	PRP
+Rut 	2 	7 	1 	8 	0 	,
+Rut 	2 	7 	1 	9 	1 	let 	VB
+Rut 	2 	7 	1 	10 	1 	me 	PRP
+Rut 	2 	7 	1 	11 	1 	glean 	NN
+Rut 	2 	7 	1 	12 	1 	and 	CC
+Rut 	2 	7 	1 	13 	1 	gather 	NN
+Rut 	2 	7 	1 	14 	1 	after 	IN
+Rut 	2 	7 	1 	15 	1 	the 	DT
+Rut 	2 	7 	1 	16 	1 	reapers 	NNS
+Rut 	2 	7 	1 	17 	1 	among 	IN
+Rut 	2 	7 	1 	18 	1 	the 	DT
+Rut 	2 	7 	1 	19 	1 	sheaves 	NNS
+Rut 	2 	7 	1 	20 	0 	:
+Rut 	2 	7 	1 	21 	1 	so 	RB
+Rut 	2 	7 	1 	22 	1 	she 	PRP
+Rut 	2 	7 	1 	23 	1 	came 	VBD
+Rut 	2 	7 	1 	24 	0 	,
+Rut 	2 	7 	1 	25 	1 	and 	CC
+Rut 	2 	7 	1 	26 	1 	hath 	NN
+Rut 	2 	7 	1 	27 	1 	continued 	JJ
+Rut 	2 	7 	1 	28 	1 	even 	RB
+Rut 	2 	7 	1 	29 	1 	from 	IN
+Rut 	2 	7 	1 	30 	1 	the 	DT
+Rut 	2 	7 	1 	31 	1 	morning 	NN
+Rut 	2 	7 	1 	32 	1 	until 	IN
+Rut 	2 	7 	1 	33 	1 	now 	RB
+Rut 	2 	7 	1 	34 	0 	,
+Rut 	2 	7 	1 	35 	1 	that 	IN
+Rut 	2 	7 	1 	36 	1 	she 	PRP
+Rut 	2 	7 	1 	37 	1 	tarried 	VBN
+Rut 	2 	7 	1 	38 	1 	a 	DT
+Rut 	2 	7 	1 	39 	1 	little 	JJ
+Rut 	2 	7 	1 	40 	1 	in 	IN
+Rut 	2 	7 	1 	41 	1 	the 	DT
+Rut 	2 	7 	1 	42 	1 	house 	NN
+Rut 	2 	7 	1 	43 	0 	.
+Rut 	2 	8 	1 	1 	1 	Then 	RB
+Rut 	2 	8 	1 	2 	1 	said 	VBD
+Rut 	2 	8 	1 	3 	1 	Boaz 	NN
+Rut 	2 	8 	1 	4 	1 	unto 	NN
+Rut 	2 	8 	1 	5 	1 	Ruth 	NN
+Rut 	2 	8 	1 	6 	0 	,
+Rut 	2 	8 	1 	7 	1 	Hearest 	JJS
+Rut 	2 	8 	1 	8 	1 	thou 	NN
+Rut 	2 	8 	1 	9 	1 	not 	RB
+Rut 	2 	8 	1 	10 	0 	,
+Rut 	2 	8 	1 	11 	1 	my 	PRP$
+Rut 	2 	8 	1 	12 	1 	daughter 	NN
+Rut 	2 	8 	1 	13 	0 	?
+Rut 	2 	8 	2 	1 	1 	Go 	VB
+Rut 	2 	8 	2 	2 	1 	not 	RB
+Rut 	2 	8 	2 	3 	1 	to 	TO
+Rut 	2 	8 	2 	4 	1 	glean 	NN
+Rut 	2 	8 	2 	5 	1 	in 	IN
+Rut 	2 	8 	2 	6 	1 	another 	DT
+Rut 	2 	8 	2 	7 	1 	field 	NN
+Rut 	2 	8 	2 	8 	0 	,
+Rut 	2 	8 	2 	9 	1 	neither 	DT
+Rut 	2 	8 	2 	10 	1 	go 	VB
+Rut 	2 	8 	2 	11 	1 	from 	IN
+Rut 	2 	8 	2 	12 	1 	hence 	NN
+Rut 	2 	8 	2 	13 	0 	,
+Rut 	2 	8 	2 	14 	1 	but 	CC
+Rut 	2 	8 	2 	15 	1 	abide 	NN
+Rut 	2 	8 	2 	16 	1 	here 	RB
+Rut 	2 	8 	2 	17 	1 	fast 	NN
+Rut 	2 	8 	2 	18 	1 	by 	IN
+Rut 	2 	8 	2 	19 	1 	my 	PRP$
+Rut 	2 	8 	2 	20 	1 	maidens 	NNS
+Rut 	2 	8 	2 	21 	0 	:
+Rut 	2 	9 	1 	1 	1 	Let 	VB
+Rut 	2 	9 	1 	2 	1 	thine 	NN
+Rut 	2 	9 	1 	3 	1 	eyes 	NNS
+Rut 	2 	9 	1 	4 	1 	be 	VB
+Rut 	2 	9 	1 	5 	1 	on 	IN
+Rut 	2 	9 	1 	6 	1 	the 	DT
+Rut 	2 	9 	1 	7 	1 	field 	NN
+Rut 	2 	9 	1 	8 	1 	that 	IN
+Rut 	2 	9 	1 	9 	1 	they 	PRP
+Rut 	2 	9 	1 	10 	1 	do 	VB
+Rut 	2 	9 	1 	11 	1 	reap 	NN
+Rut 	2 	9 	1 	12 	0 	,
+Rut 	2 	9 	1 	13 	1 	and 	CC
+Rut 	2 	9 	1 	14 	1 	go 	VB
+Rut 	2 	9 	1 	15 	1 	thou 	NN
+Rut 	2 	9 	1 	16 	1 	after 	IN
+Rut 	2 	9 	1 	17 	1 	them 	PRP
+Rut 	2 	9 	1 	18 	0 	:
+Rut 	2 	9 	1 	19 	1 	have 	VB
+Rut 	2 	9 	1 	20 	1 	I 	PRP
+Rut 	2 	9 	1 	21 	1 	not 	RB
+Rut 	2 	9 	1 	22 	1 	charged 	VBN
+Rut 	2 	9 	1 	23 	1 	the 	DT
+Rut 	2 	9 	1 	24 	1 	young 	JJ
+Rut 	2 	9 	1 	25 	1 	men 	NNS
+Rut 	2 	9 	1 	26 	1 	that 	IN
+Rut 	2 	9 	1 	27 	1 	they 	PRP
+Rut 	2 	9 	1 	28 	1 	shall 	MD
+Rut 	2 	9 	1 	29 	1 	not 	RB
+Rut 	2 	9 	1 	30 	1 	touch 	NN
+Rut 	2 	9 	1 	31 	1 	thee 	NN
+Rut 	2 	9 	1 	32 	0 	?
+Rut 	2 	9 	2 	1 	1 	and 	CC
+Rut 	2 	9 	2 	2 	1 	when 	WRB
+Rut 	2 	9 	2 	3 	1 	thou 	NN
+Rut 	2 	9 	2 	4 	1 	art 	NN
+Rut 	2 	9 	2 	5 	1 	athirst 	RB
+Rut 	2 	9 	2 	6 	0 	,
+Rut 	2 	9 	2 	7 	1 	go 	VB
+Rut 	2 	9 	2 	8 	1 	unto 	NN
+Rut 	2 	9 	2 	9 	1 	the 	DT
+Rut 	2 	9 	2 	10 	1 	vessels 	NNS
+Rut 	2 	9 	2 	11 	0 	,
+Rut 	2 	9 	2 	12 	1 	and 	CC
+Rut 	2 	9 	2 	13 	1 	drink 	NN
+Rut 	2 	9 	2 	14 	1 	of 	IN
+Rut 	2 	9 	2 	15 	1 	that 	IN
+Rut 	2 	9 	2 	16 	1 	which 	WDT
+Rut 	2 	9 	2 	17 	1 	the 	DT
+Rut 	2 	9 	2 	18 	1 	young 	JJ
+Rut 	2 	9 	2 	19 	1 	men 	NNS
+Rut 	2 	9 	2 	20 	1 	have 	VB
+Rut 	2 	9 	2 	21 	1 	drawn 	NN
+Rut 	2 	9 	2 	22 	0 	.
+Rut 	2 	10 	1 	1 	1 	Then 	RB
+Rut 	2 	10 	1 	2 	1 	she 	PRP
+Rut 	2 	10 	1 	3 	1 	fell 	VBD
+Rut 	2 	10 	1 	4 	1 	on 	IN
+Rut 	2 	10 	1 	5 	1 	her 	PRP$
+Rut 	2 	10 	1 	6 	1 	face 	NN
+Rut 	2 	10 	1 	7 	0 	,
+Rut 	2 	10 	1 	8 	1 	and 	CC
+Rut 	2 	10 	1 	9 	1 	bowed 	VBN
+Rut 	2 	10 	1 	10 	1 	herself 	NN
+Rut 	2 	10 	1 	11 	1 	to 	TO
+Rut 	2 	10 	1 	12 	1 	the 	DT
+Rut 	2 	10 	1 	13 	1 	ground 	NN
+Rut 	2 	10 	1 	14 	0 	,
+Rut 	2 	10 	1 	15 	1 	and 	CC
+Rut 	2 	10 	1 	16 	1 	said 	VBD
+Rut 	2 	10 	1 	17 	1 	unto 	NN
+Rut 	2 	10 	1 	18 	1 	him 	PRP
+Rut 	2 	10 	1 	19 	0 	,
+Rut 	2 	10 	1 	20 	1 	Why 	WRB
+Rut 	2 	10 	1 	21 	1 	have 	VB
+Rut 	2 	10 	1 	22 	1 	I 	PRP
+Rut 	2 	10 	1 	23 	1 	found 	NN
+Rut 	2 	10 	1 	24 	1 	grace 	NN
+Rut 	2 	10 	1 	25 	1 	in 	IN
+Rut 	2 	10 	1 	26 	1 	thine 	NN
+Rut 	2 	10 	1 	27 	1 	eyes 	NNS
+Rut 	2 	10 	1 	28 	0 	,
+Rut 	2 	10 	1 	29 	1 	that 	IN
+Rut 	2 	10 	1 	30 	1 	thou 	NN
+Rut 	2 	10 	1 	31 	1 	shouldest 	NN
+Rut 	2 	10 	1 	32 	1 	take 	VB
+Rut 	2 	10 	1 	33 	1 	knowledge 	NN
+Rut 	2 	10 	1 	34 	1 	of 	IN
+Rut 	2 	10 	1 	35 	1 	me 	PRP
+Rut 	2 	10 	1 	36 	0 	,
+Rut 	2 	10 	1 	37 	1 	seeing 	VBG
+Rut 	2 	10 	1 	38 	1 	I 	PRP
+Rut 	2 	10 	1 	39 	1 	am 	VBP
+Rut 	2 	10 	1 	40 	1 	a 	DT
+Rut 	2 	10 	1 	41 	1 	stranger 	NN
+Rut 	2 	10 	1 	42 	0 	?
+Rut 	2 	11 	1 	1 	1 	And 	CC
+Rut 	2 	11 	1 	2 	1 	Boaz 	NN
+Rut 	2 	11 	1 	3 	1 	answered 	VBN
+Rut 	2 	11 	1 	4 	1 	and 	CC
+Rut 	2 	11 	1 	5 	1 	said 	VBD
+Rut 	2 	11 	1 	6 	1 	unto 	NN
+Rut 	2 	11 	1 	7 	1 	her 	PRP$
+Rut 	2 	11 	1 	8 	0 	,
+Rut 	2 	11 	1 	9 	1 	It 	PRP
+Rut 	2 	11 	1 	10 	1 	hath 	NN
+Rut 	2 	11 	1 	11 	1 	fully 	RB
+Rut 	2 	11 	1 	12 	1 	been 	VBN
+Rut 	2 	11 	1 	13 	1 	shewed 	VBN
+Rut 	2 	11 	1 	14 	1 	me 	PRP
+Rut 	2 	11 	1 	15 	0 	,
+Rut 	2 	11 	1 	16 	1 	all 	DT
+Rut 	2 	11 	1 	17 	1 	that 	IN
+Rut 	2 	11 	1 	18 	1 	thou 	NN
+Rut 	2 	11 	1 	19 	1 	hast 	NN
+Rut 	2 	11 	1 	20 	1 	done 	VBN
+Rut 	2 	11 	1 	21 	1 	unto 	NN
+Rut 	2 	11 	1 	22 	1 	thy 	NN
+Rut 	2 	11 	1 	23 	1 	mother 	NN
+Rut 	2 	11 	1 	24 	1 	in 	IN
+Rut 	2 	11 	1 	25 	1 	law 	NN
+Rut 	2 	11 	1 	26 	1 	since 	IN
+Rut 	2 	11 	1 	27 	1 	the 	DT
+Rut 	2 	11 	1 	28 	1 	death 	NN
+Rut 	2 	11 	1 	29 	1 	of 	IN
+Rut 	2 	11 	1 	30 	1 	thine 	NN
+Rut 	2 	11 	1 	31 	1 	husband 	NN
+Rut 	2 	11 	1 	32 	0 	:
+Rut 	2 	11 	1 	33 	1 	and 	CC
+Rut 	2 	11 	1 	34 	1 	how 	WRB
+Rut 	2 	11 	1 	35 	1 	thou 	NN
+Rut 	2 	11 	1 	36 	1 	hast 	NN
+Rut 	2 	11 	1 	37 	1 	left 	NN
+Rut 	2 	11 	1 	38 	1 	thy 	NN
+Rut 	2 	11 	1 	39 	1 	father 	NN
+Rut 	2 	11 	1 	40 	1 	and 	CC
+Rut 	2 	11 	1 	41 	1 	thy 	NN
+Rut 	2 	11 	1 	42 	1 	mother 	NN
+Rut 	2 	11 	1 	43 	0 	,
+Rut 	2 	11 	1 	44 	1 	and 	CC
+Rut 	2 	11 	1 	45 	1 	the 	DT
+Rut 	2 	11 	1 	46 	1 	land 	NN
+Rut 	2 	11 	1 	47 	1 	of 	IN
+Rut 	2 	11 	1 	48 	1 	thy 	NN
+Rut 	2 	11 	1 	49 	1 	nativity 	NN
+Rut 	2 	11 	1 	50 	0 	,
+Rut 	2 	11 	1 	51 	1 	and 	CC
+Rut 	2 	11 	1 	52 	1 	art 	NN
+Rut 	2 	11 	1 	53 	1 	come 	VB
+Rut 	2 	11 	1 	54 	1 	unto 	NN
+Rut 	2 	11 	1 	55 	1 	a 	DT
+Rut 	2 	11 	1 	56 	1 	people 	NNS
+Rut 	2 	11 	1 	57 	1 	which 	WDT
+Rut 	2 	11 	1 	58 	1 	thou 	NN
+Rut 	2 	11 	1 	59 	1 	knewest 	NN
+Rut 	2 	11 	1 	60 	1 	not 	RB
+Rut 	2 	11 	1 	61 	1 	heretofore 	NN
+Rut 	2 	11 	1 	62 	0 	.
+Rut 	2 	12 	1 	1 	1 	The 	DT
+Rut 	2 	12 	1 	2 	1 	LORD 	NN
+Rut 	2 	12 	1 	3 	1 	recompense 	NN
+Rut 	2 	12 	1 	4 	1 	thy 	NN
+Rut 	2 	12 	1 	5 	1 	work 	NN
+Rut 	2 	12 	1 	6 	0 	,
+Rut 	2 	12 	1 	7 	1 	and 	CC
+Rut 	2 	12 	1 	8 	1 	a 	DT
+Rut 	2 	12 	1 	9 	1 	full 	JJ
+Rut 	2 	12 	1 	10 	1 	reward 	NN
+Rut 	2 	12 	1 	11 	1 	be 	VB
+Rut 	2 	12 	1 	12 	1 	given 	VBN
+Rut 	2 	12 	1 	13 	1 	thee 	NN
+Rut 	2 	12 	1 	14 	1 	of 	IN
+Rut 	2 	12 	1 	15 	1 	the 	DT
+Rut 	2 	12 	1 	16 	1 	LORD 	NN
+Rut 	2 	12 	1 	17 	1 	God 	NNP
+Rut 	2 	12 	1 	18 	1 	of 	IN
+Rut 	2 	12 	1 	19 	1 	Israel 	NNP
+Rut 	2 	12 	1 	20 	0 	,
+Rut 	2 	12 	1 	21 	1 	under 	IN
+Rut 	2 	12 	1 	22 	1 	whose 	WP$
+Rut 	2 	12 	1 	23 	1 	wings 	NNS
+Rut 	2 	12 	1 	24 	1 	thou 	NN
+Rut 	2 	12 	1 	25 	1 	art 	NN
+Rut 	2 	12 	1 	26 	1 	come 	VB
+Rut 	2 	12 	1 	27 	1 	to 	TO
+Rut 	2 	12 	1 	28 	1 	trust 	NN
+Rut 	2 	12 	1 	29 	0 	.
+Rut 	2 	13 	1 	1 	1 	Then 	RB
+Rut 	2 	13 	1 	2 	1 	she 	PRP
+Rut 	2 	13 	1 	3 	1 	said 	VBD
+Rut 	2 	13 	1 	4 	0 	,
+Rut 	2 	13 	1 	5 	1 	Let 	VB
+Rut 	2 	13 	1 	6 	1 	me 	PRP
+Rut 	2 	13 	1 	7 	1 	find 	VB
+Rut 	2 	13 	1 	8 	1 	favour 	NN
+Rut 	2 	13 	1 	9 	1 	in 	IN
+Rut 	2 	13 	1 	10 	1 	thy 	NN
+Rut 	2 	13 	1 	11 	1 	sight 	NN
+Rut 	2 	13 	1 	12 	0 	,
+Rut 	2 	13 	1 	13 	1 	my 	PRP$
+Rut 	2 	13 	1 	14 	1 	lord 	NN
+Rut 	2 	13 	1 	15 	0 	;
+Rut 	2 	13 	1 	16 	1 	for 	IN
+Rut 	2 	13 	1 	17 	1 	that 	IN
+Rut 	2 	13 	1 	18 	1 	thou 	NN
+Rut 	2 	13 	1 	19 	1 	hast 	NN
+Rut 	2 	13 	1 	20 	1 	comforted 	VBN
+Rut 	2 	13 	1 	21 	1 	me 	PRP
+Rut 	2 	13 	1 	22 	0 	,
+Rut 	2 	13 	1 	23 	1 	and 	CC
+Rut 	2 	13 	1 	24 	1 	for 	IN
+Rut 	2 	13 	1 	25 	1 	that 	IN
+Rut 	2 	13 	1 	26 	1 	thou 	NN
+Rut 	2 	13 	1 	27 	1 	hast 	NN
+Rut 	2 	13 	1 	28 	1 	spoken 	NN
+Rut 	2 	13 	1 	29 	1 	friendly 	RB
+Rut 	2 	13 	1 	30 	1 	unto 	NN
+Rut 	2 	13 	1 	31 	1 	thine 	NN
+Rut 	2 	13 	1 	32 	1 	handmaid 	NN
+Rut 	2 	13 	1 	33 	0 	,
+Rut 	2 	13 	1 	34 	1 	though 	IN
+Rut 	2 	13 	1 	35 	1 	I 	PRP
+Rut 	2 	13 	1 	36 	1 	be 	VB
+Rut 	2 	13 	1 	37 	1 	not 	RB
+Rut 	2 	13 	1 	38 	1 	like 	IN
+Rut 	2 	13 	1 	39 	1 	unto 	NN
+Rut 	2 	13 	1 	40 	1 	one 	CD
+Rut 	2 	13 	1 	41 	1 	of 	IN
+Rut 	2 	13 	1 	42 	1 	thine 	NN
+Rut 	2 	13 	1 	43 	1 	handmaidens 	NNS
+Rut 	2 	13 	1 	44 	0 	.
+Rut 	2 	14 	1 	1 	1 	And 	CC
+Rut 	2 	14 	1 	2 	1 	Boaz 	NN
+Rut 	2 	14 	1 	3 	1 	said 	VBD
+Rut 	2 	14 	1 	4 	1 	unto 	NN
+Rut 	2 	14 	1 	5 	1 	her 	PRP$
+Rut 	2 	14 	1 	6 	0 	,
+Rut 	2 	14 	1 	7 	1 	At 	IN
+Rut 	2 	14 	1 	8 	1 	mealtime 	NN
+Rut 	2 	14 	1 	9 	1 	come 	VB
+Rut 	2 	14 	1 	10 	1 	thou 	NN
+Rut 	2 	14 	1 	11 	1 	hither 	NN
+Rut 	2 	14 	1 	12 	0 	,
+Rut 	2 	14 	1 	13 	1 	and 	CC
+Rut 	2 	14 	1 	14 	1 	eat 	NN
+Rut 	2 	14 	1 	15 	1 	of 	IN
+Rut 	2 	14 	1 	16 	1 	the 	DT
+Rut 	2 	14 	1 	17 	1 	bread 	NN
+Rut 	2 	14 	1 	18 	0 	,
+Rut 	2 	14 	1 	19 	1 	and 	CC
+Rut 	2 	14 	1 	20 	1 	dip 	NN
+Rut 	2 	14 	1 	21 	1 	thy 	NN
+Rut 	2 	14 	1 	22 	1 	morsel 	NN
+Rut 	2 	14 	1 	23 	1 	in 	IN
+Rut 	2 	14 	1 	24 	1 	the 	DT
+Rut 	2 	14 	1 	25 	1 	vinegar 	NN
+Rut 	2 	14 	1 	26 	0 	.
+Rut 	2 	14 	2 	1 	1 	And 	CC
+Rut 	2 	14 	2 	2 	1 	she 	PRP
+Rut 	2 	14 	2 	3 	1 	sat 	NN
+Rut 	2 	14 	2 	4 	1 	beside 	NN
+Rut 	2 	14 	2 	5 	1 	the 	DT
+Rut 	2 	14 	2 	6 	1 	reapers 	NNS
+Rut 	2 	14 	2 	7 	0 	:
+Rut 	2 	14 	2 	8 	1 	and 	CC
+Rut 	2 	14 	2 	9 	1 	he 	PRP
+Rut 	2 	14 	2 	10 	1 	reached 	VBN
+Rut 	2 	14 	2 	11 	1 	her 	PRP$
+Rut 	2 	14 	2 	12 	1 	parched 	VBN
+Rut 	2 	14 	2 	13 	1 	corn 	NN
+Rut 	2 	14 	2 	14 	0 	,
+Rut 	2 	14 	2 	15 	1 	and 	CC
+Rut 	2 	14 	2 	16 	1 	she 	PRP
+Rut 	2 	14 	2 	17 	1 	did 	VBD
+Rut 	2 	14 	2 	18 	1 	eat 	NN
+Rut 	2 	14 	2 	19 	0 	,
+Rut 	2 	14 	2 	20 	1 	and 	CC
+Rut 	2 	14 	2 	21 	1 	was 	VBD
+Rut 	2 	14 	2 	22 	1 	sufficed 	VBN
+Rut 	2 	14 	2 	23 	0 	,
+Rut 	2 	14 	2 	24 	1 	and 	CC
+Rut 	2 	14 	2 	25 	1 	left 	NN
+Rut 	2 	14 	2 	26 	0 	.
+Rut 	2 	15 	1 	1 	1 	And 	CC
+Rut 	2 	15 	1 	2 	1 	when 	WRB
+Rut 	2 	15 	1 	3 	1 	she 	PRP
+Rut 	2 	15 	1 	4 	1 	was 	VBD
+Rut 	2 	15 	1 	5 	1 	risen 	NN
+Rut 	2 	15 	1 	6 	1 	up 	RB
+Rut 	2 	15 	1 	7 	1 	to 	TO
+Rut 	2 	15 	1 	8 	1 	glean 	NN
+Rut 	2 	15 	1 	9 	0 	,
+Rut 	2 	15 	1 	10 	1 	Boaz 	NN
+Rut 	2 	15 	1 	11 	1 	commanded 	VBN
+Rut 	2 	15 	1 	12 	1 	his 	PRP$
+Rut 	2 	15 	1 	13 	1 	young 	JJ
+Rut 	2 	15 	1 	14 	1 	men 	NNS
+Rut 	2 	15 	1 	15 	0 	,
+Rut 	2 	15 	1 	16 	1 	saying 	VBG
+Rut 	2 	15 	1 	17 	0 	,
+Rut 	2 	15 	1 	18 	1 	Let 	VB
+Rut 	2 	15 	1 	19 	1 	her 	PRP$
+Rut 	2 	15 	1 	20 	1 	glean 	NN
+Rut 	2 	15 	1 	21 	1 	even 	RB
+Rut 	2 	15 	1 	22 	1 	among 	IN
+Rut 	2 	15 	1 	23 	1 	the 	DT
+Rut 	2 	15 	1 	24 	1 	sheaves 	NNS
+Rut 	2 	15 	1 	25 	0 	,
+Rut 	2 	15 	1 	26 	1 	and 	CC
+Rut 	2 	15 	1 	27 	1 	reproach 	NN
+Rut 	2 	15 	1 	28 	1 	her 	PRP$
+Rut 	2 	15 	1 	29 	1 	not 	RB
+Rut 	2 	15 	1 	30 	0 	:
+Rut 	2 	16 	1 	1 	1 	And 	CC
+Rut 	2 	16 	1 	2 	1 	let 	VB
+Rut 	2 	16 	1 	3 	1 	fall 	NN
+Rut 	2 	16 	1 	4 	1 	also 	RB
+Rut 	2 	16 	1 	5 	1 	some 	DT
+Rut 	2 	16 	1 	6 	1 	of 	IN
+Rut 	2 	16 	1 	7 	1 	the 	DT
+Rut 	2 	16 	1 	8 	1 	handfuls 	NN
+Rut 	2 	16 	1 	9 	1 	of 	IN
+Rut 	2 	16 	1 	10 	1 	purpose 	NN
+Rut 	2 	16 	1 	11 	1 	for 	IN
+Rut 	2 	16 	1 	12 	1 	her 	PRP$
+Rut 	2 	16 	1 	13 	0 	,
+Rut 	2 	16 	1 	14 	1 	and 	CC
+Rut 	2 	16 	1 	15 	1 	leave 	VB
+Rut 	2 	16 	1 	16 	1 	them 	PRP
+Rut 	2 	16 	1 	17 	0 	,
+Rut 	2 	16 	1 	18 	1 	that 	IN
+Rut 	2 	16 	1 	19 	1 	she 	PRP
+Rut 	2 	16 	1 	20 	1 	may 	MD
+Rut 	2 	16 	1 	21 	1 	glean 	NN
+Rut 	2 	16 	1 	22 	1 	them 	PRP
+Rut 	2 	16 	1 	23 	0 	,
+Rut 	2 	16 	1 	24 	1 	and 	CC
+Rut 	2 	16 	1 	25 	1 	rebuke 	NN
+Rut 	2 	16 	1 	26 	1 	her 	PRP$
+Rut 	2 	16 	1 	27 	1 	not 	RB
+Rut 	2 	16 	1 	28 	0 	.
+Rut 	2 	17 	1 	1 	1 	So 	RB
+Rut 	2 	17 	1 	2 	1 	she 	PRP
+Rut 	2 	17 	1 	3 	1 	gleaned 	VBN
+Rut 	2 	17 	1 	4 	1 	in 	IN
+Rut 	2 	17 	1 	5 	1 	the 	DT
+Rut 	2 	17 	1 	6 	1 	field 	NN
+Rut 	2 	17 	1 	7 	1 	until 	IN
+Rut 	2 	17 	1 	8 	1 	even 	RB
+Rut 	2 	17 	1 	9 	0 	,
+Rut 	2 	17 	1 	10 	1 	and 	CC
+Rut 	2 	17 	1 	11 	1 	beat 	NN
+Rut 	2 	17 	1 	12 	1 	out 	IN
+Rut 	2 	17 	1 	13 	1 	that 	IN
+Rut 	2 	17 	1 	14 	1 	she 	PRP
+Rut 	2 	17 	1 	15 	1 	had 	VBD
+Rut 	2 	17 	1 	16 	1 	gleaned 	VBN
+Rut 	2 	17 	1 	17 	0 	:
+Rut 	2 	17 	1 	18 	1 	and 	CC
+Rut 	2 	17 	1 	19 	1 	it 	PRP
+Rut 	2 	17 	1 	20 	1 	was 	VBD
+Rut 	2 	17 	1 	21 	1 	about 	IN
+Rut 	2 	17 	1 	22 	1 	an 	DT
+Rut 	2 	17 	1 	23 	1 	ephah 	NN
+Rut 	2 	17 	1 	24 	1 	of 	IN
+Rut 	2 	17 	1 	25 	1 	barley 	NN
+Rut 	2 	17 	1 	26 	0 	.
+Rut 	2 	18 	1 	1 	1 	And 	CC
+Rut 	2 	18 	1 	2 	1 	she 	PRP
+Rut 	2 	18 	1 	3 	1 	took 	VBD
+Rut 	2 	18 	1 	4 	1 	it 	PRP
+Rut 	2 	18 	1 	5 	1 	up 	RB
+Rut 	2 	18 	1 	6 	0 	,
+Rut 	2 	18 	1 	7 	1 	and 	CC
+Rut 	2 	18 	1 	8 	1 	went 	VBD
+Rut 	2 	18 	1 	9 	1 	into 	IN
+Rut 	2 	18 	1 	10 	1 	the 	DT
+Rut 	2 	18 	1 	11 	1 	city 	NN
+Rut 	2 	18 	1 	12 	0 	:
+Rut 	2 	18 	1 	13 	1 	and 	CC
+Rut 	2 	18 	1 	14 	1 	her 	PRP$
+Rut 	2 	18 	1 	15 	1 	mother 	NN
+Rut 	2 	18 	1 	16 	1 	in 	IN
+Rut 	2 	18 	1 	17 	1 	law 	NN
+Rut 	2 	18 	1 	18 	1 	saw 	NN
+Rut 	2 	18 	1 	19 	1 	what 	WP
+Rut 	2 	18 	1 	20 	1 	she 	PRP
+Rut 	2 	18 	1 	21 	1 	had 	VBD
+Rut 	2 	18 	1 	22 	1 	gleaned 	VBN
+Rut 	2 	18 	1 	23 	0 	:
+Rut 	2 	18 	1 	24 	1 	and 	CC
+Rut 	2 	18 	1 	25 	1 	she 	PRP
+Rut 	2 	18 	1 	26 	1 	brought 	NN
+Rut 	2 	18 	1 	27 	1 	forth 	NN
+Rut 	2 	18 	1 	28 	0 	,
+Rut 	2 	18 	1 	29 	1 	and 	CC
+Rut 	2 	18 	1 	30 	1 	gave 	VBD
+Rut 	2 	18 	1 	31 	1 	to 	TO
+Rut 	2 	18 	1 	32 	1 	her 	PRP$
+Rut 	2 	18 	1 	33 	1 	that 	IN
+Rut 	2 	18 	1 	34 	1 	she 	PRP
+Rut 	2 	18 	1 	35 	1 	had 	VBD
+Rut 	2 	18 	1 	36 	1 	reserved 	VBN
+Rut 	2 	18 	1 	37 	1 	after 	IN
+Rut 	2 	18 	1 	38 	1 	she 	PRP
+Rut 	2 	18 	1 	39 	1 	was 	VBD
+Rut 	2 	18 	1 	40 	1 	sufficed 	VBN
+Rut 	2 	18 	1 	41 	0 	.
+Rut 	2 	19 	1 	1 	1 	And 	CC
+Rut 	2 	19 	1 	2 	1 	her 	PRP$
+Rut 	2 	19 	1 	3 	1 	mother 	NN
+Rut 	2 	19 	1 	4 	1 	in 	IN
+Rut 	2 	19 	1 	5 	1 	law 	NN
+Rut 	2 	19 	1 	6 	1 	said 	VBD
+Rut 	2 	19 	1 	7 	1 	unto 	NN
+Rut 	2 	19 	1 	8 	1 	her 	PRP$
+Rut 	2 	19 	1 	9 	0 	,
+Rut 	2 	19 	1 	10 	1 	Where 	WRB
+Rut 	2 	19 	1 	11 	1 	hast 	NN
+Rut 	2 	19 	1 	12 	1 	thou 	NN
+Rut 	2 	19 	1 	13 	1 	gleaned 	VBN
+Rut 	2 	19 	1 	14 	1 	to 	TO
+Rut 	2 	19 	1 	15 	1 	day 	NN
+Rut 	2 	19 	1 	16 	0 	?
+Rut 	2 	19 	2 	1 	1 	and 	CC
+Rut 	2 	19 	2 	2 	1 	where 	WRB
+Rut 	2 	19 	2 	3 	1 	wroughtest 	JJS
+Rut 	2 	19 	2 	4 	1 	thou 	NN
+Rut 	2 	19 	2 	5 	0 	?
+Rut 	2 	19 	3 	1 	1 	blessed 	VBN
+Rut 	2 	19 	3 	2 	1 	be 	VB
+Rut 	2 	19 	3 	3 	1 	he 	PRP
+Rut 	2 	19 	3 	4 	1 	that 	IN
+Rut 	2 	19 	3 	5 	1 	did 	VBD
+Rut 	2 	19 	3 	6 	1 	take 	VB
+Rut 	2 	19 	3 	7 	1 	knowledge 	NN
+Rut 	2 	19 	3 	8 	1 	of 	IN
+Rut 	2 	19 	3 	9 	1 	thee 	NN
+Rut 	2 	19 	3 	10 	0 	.
+Rut 	2 	19 	4 	1 	1 	And 	CC
+Rut 	2 	19 	4 	2 	1 	she 	PRP
+Rut 	2 	19 	4 	3 	1 	shewed 	VBN
+Rut 	2 	19 	4 	4 	1 	her 	PRP$
+Rut 	2 	19 	4 	5 	1 	mother 	NN
+Rut 	2 	19 	4 	6 	1 	in 	IN
+Rut 	2 	19 	4 	7 	1 	law 	NN
+Rut 	2 	19 	4 	8 	1 	with 	IN
+Rut 	2 	19 	4 	9 	1 	whom 	WP
+Rut 	2 	19 	4 	10 	1 	she 	PRP
+Rut 	2 	19 	4 	11 	1 	had 	VBD
+Rut 	2 	19 	4 	12 	1 	wrought 	NN
+Rut 	2 	19 	4 	13 	0 	,
+Rut 	2 	19 	4 	14 	1 	and 	CC
+Rut 	2 	19 	4 	15 	1 	said 	VBD
+Rut 	2 	19 	4 	16 	0 	,
+Rut 	2 	19 	4 	17 	1 	The 	DT
+Rut 	2 	19 	4 	18 	1 	man 	NN
+Rut 	2 	19 	4 	19 	0 	's
+Rut 	2 	19 	4 	20 	1 	name 	NN
+Rut 	2 	19 	4 	21 	1 	with 	IN
+Rut 	2 	19 	4 	22 	1 	whom 	WP
+Rut 	2 	19 	4 	23 	1 	I 	PRP
+Rut 	2 	19 	4 	24 	1 	wrought 	NN
+Rut 	2 	19 	4 	25 	1 	to 	TO
+Rut 	2 	19 	4 	26 	1 	day 	NN
+Rut 	2 	19 	4 	27 	1 	is 	VBZ
+Rut 	2 	19 	4 	28 	1 	Boaz 	NN
+Rut 	2 	19 	4 	29 	0 	.
+Rut 	2 	20 	1 	1 	1 	And 	CC
+Rut 	2 	20 	1 	2 	1 	Naomi 	NN
+Rut 	2 	20 	1 	3 	1 	said 	VBD
+Rut 	2 	20 	1 	4 	1 	unto 	NN
+Rut 	2 	20 	1 	5 	1 	her 	PRP$
+Rut 	2 	20 	1 	6 	1 	daughter 	NN
+Rut 	2 	20 	1 	7 	1 	in 	IN
+Rut 	2 	20 	1 	8 	1 	law 	NN
+Rut 	2 	20 	1 	9 	0 	,
+Rut 	2 	20 	1 	10 	1 	Blessed 	VBN
+Rut 	2 	20 	1 	11 	1 	be 	VB
+Rut 	2 	20 	1 	12 	1 	he 	PRP
+Rut 	2 	20 	1 	13 	1 	of 	IN
+Rut 	2 	20 	1 	14 	1 	the 	DT
+Rut 	2 	20 	1 	15 	1 	LORD 	NN
+Rut 	2 	20 	1 	16 	0 	,
+Rut 	2 	20 	1 	17 	1 	who 	WP
+Rut 	2 	20 	1 	18 	1 	hath 	NN
+Rut 	2 	20 	1 	19 	1 	not 	RB
+Rut 	2 	20 	1 	20 	1 	left 	NN
+Rut 	2 	20 	1 	21 	1 	off 	IN
+Rut 	2 	20 	1 	22 	1 	his 	PRP$
+Rut 	2 	20 	1 	23 	1 	kindness 	NN
+Rut 	2 	20 	1 	24 	1 	to 	TO
+Rut 	2 	20 	1 	25 	1 	the 	DT
+Rut 	2 	20 	1 	26 	1 	living 	NN
+Rut 	2 	20 	1 	27 	1 	and 	CC
+Rut 	2 	20 	1 	28 	1 	to 	TO
+Rut 	2 	20 	1 	29 	1 	the 	DT
+Rut 	2 	20 	1 	30 	1 	dead 	JJ
+Rut 	2 	20 	1 	31 	0 	.
+Rut 	2 	20 	2 	1 	1 	And 	CC
+Rut 	2 	20 	2 	2 	1 	Naomi 	NN
+Rut 	2 	20 	2 	3 	1 	said 	VBD
+Rut 	2 	20 	2 	4 	1 	unto 	NN
+Rut 	2 	20 	2 	5 	1 	her 	PRP$
+Rut 	2 	20 	2 	6 	0 	,
+Rut 	2 	20 	2 	7 	1 	The 	DT
+Rut 	2 	20 	2 	8 	1 	man 	NN
+Rut 	2 	20 	2 	9 	1 	is 	VBZ
+Rut 	2 	20 	2 	10 	1 	near 	IN
+Rut 	2 	20 	2 	11 	1 	of 	IN
+Rut 	2 	20 	2 	12 	1 	kin 	NN
+Rut 	2 	20 	2 	13 	1 	unto 	NN
+Rut 	2 	20 	2 	14 	1 	us 	PRP
+Rut 	2 	20 	2 	15 	0 	,
+Rut 	2 	20 	2 	16 	1 	one 	CD
+Rut 	2 	20 	2 	17 	1 	of 	IN
+Rut 	2 	20 	2 	18 	1 	our 	PRP$
+Rut 	2 	20 	2 	19 	1 	next 	JJ
+Rut 	2 	20 	2 	20 	1 	kinsmen 	NNS
+Rut 	2 	20 	2 	21 	0 	.
+Rut 	2 	21 	1 	1 	1 	And 	CC
+Rut 	2 	21 	1 	2 	1 	Ruth 	NN
+Rut 	2 	21 	1 	3 	1 	the 	DT
+Rut 	2 	21 	1 	4 	1 	Moabitess 	NN
+Rut 	2 	21 	1 	5 	1 	said 	VBD
+Rut 	2 	21 	1 	6 	0 	,
+Rut 	2 	21 	1 	7 	1 	He 	PRP
+Rut 	2 	21 	1 	8 	1 	said 	VBD
+Rut 	2 	21 	1 	9 	1 	unto 	NN
+Rut 	2 	21 	1 	10 	1 	me 	PRP
+Rut 	2 	21 	1 	11 	1 	also 	RB
+Rut 	2 	21 	1 	12 	0 	,
+Rut 	2 	21 	1 	13 	1 	Thou 	NN
+Rut 	2 	21 	1 	14 	1 	shalt 	NN
+Rut 	2 	21 	1 	15 	1 	keep 	VB
+Rut 	2 	21 	1 	16 	1 	fast 	NN
+Rut 	2 	21 	1 	17 	1 	by 	IN
+Rut 	2 	21 	1 	18 	1 	my 	PRP$
+Rut 	2 	21 	1 	19 	1 	young 	JJ
+Rut 	2 	21 	1 	20 	1 	men 	NNS
+Rut 	2 	21 	1 	21 	0 	,
+Rut 	2 	21 	1 	22 	1 	until 	IN
+Rut 	2 	21 	1 	23 	1 	they 	PRP
+Rut 	2 	21 	1 	24 	1 	have 	VB
+Rut 	2 	21 	1 	25 	1 	ended 	VBN
+Rut 	2 	21 	1 	26 	1 	all 	DT
+Rut 	2 	21 	1 	27 	1 	my 	PRP$
+Rut 	2 	21 	1 	28 	1 	harvest 	NN
+Rut 	2 	21 	1 	29 	0 	.
+Rut 	2 	22 	1 	1 	1 	And 	CC
+Rut 	2 	22 	1 	2 	1 	Naomi 	NN
+Rut 	2 	22 	1 	3 	1 	said 	VBD
+Rut 	2 	22 	1 	4 	1 	unto 	NN
+Rut 	2 	22 	1 	5 	1 	Ruth 	NN
+Rut 	2 	22 	1 	6 	1 	her 	PRP$
+Rut 	2 	22 	1 	7 	1 	daughter 	NN
+Rut 	2 	22 	1 	8 	1 	in 	IN
+Rut 	2 	22 	1 	9 	1 	law 	NN
+Rut 	2 	22 	1 	10 	0 	,
+Rut 	2 	22 	1 	11 	1 	It 	PRP
+Rut 	2 	22 	1 	12 	1 	is 	VBZ
+Rut 	2 	22 	1 	13 	1 	good 	JJ
+Rut 	2 	22 	1 	14 	0 	,
+Rut 	2 	22 	1 	15 	1 	my 	PRP$
+Rut 	2 	22 	1 	16 	1 	daughter 	NN
+Rut 	2 	22 	1 	17 	0 	,
+Rut 	2 	22 	1 	18 	1 	that 	IN
+Rut 	2 	22 	1 	19 	1 	thou 	NN
+Rut 	2 	22 	1 	20 	1 	go 	VB
+Rut 	2 	22 	1 	21 	1 	out 	IN
+Rut 	2 	22 	1 	22 	1 	with 	IN
+Rut 	2 	22 	1 	23 	1 	his 	PRP$
+Rut 	2 	22 	1 	24 	1 	maidens 	NNS
+Rut 	2 	22 	1 	25 	0 	,
+Rut 	2 	22 	1 	26 	1 	that 	IN
+Rut 	2 	22 	1 	27 	1 	they 	PRP
+Rut 	2 	22 	1 	28 	1 	meet 	NN
+Rut 	2 	22 	1 	29 	1 	thee 	NN
+Rut 	2 	22 	1 	30 	1 	not 	RB
+Rut 	2 	22 	1 	31 	1 	in 	IN
+Rut 	2 	22 	1 	32 	1 	any 	DT
+Rut 	2 	22 	1 	33 	1 	other 	JJ
+Rut 	2 	22 	1 	34 	1 	field 	NN
+Rut 	2 	22 	1 	35 	0 	.
+Rut 	2 	23 	1 	1 	1 	So 	RB
+Rut 	2 	23 	1 	2 	1 	she 	PRP
+Rut 	2 	23 	1 	3 	1 	kept 	NN
+Rut 	2 	23 	1 	4 	1 	fast 	NN
+Rut 	2 	23 	1 	5 	1 	by 	IN
+Rut 	2 	23 	1 	6 	1 	the 	DT
+Rut 	2 	23 	1 	7 	1 	maidens 	NNS
+Rut 	2 	23 	1 	8 	1 	of 	IN
+Rut 	2 	23 	1 	9 	1 	Boaz 	NN
+Rut 	2 	23 	1 	10 	1 	to 	TO
+Rut 	2 	23 	1 	11 	1 	glean 	NN
+Rut 	2 	23 	1 	12 	1 	unto 	NN
+Rut 	2 	23 	1 	13 	1 	the 	DT
+Rut 	2 	23 	1 	14 	1 	end 	NN
+Rut 	2 	23 	1 	15 	1 	of 	IN
+Rut 	2 	23 	1 	16 	1 	barley 	NN
+Rut 	2 	23 	1 	17 	1 	harvest 	NN
+Rut 	2 	23 	1 	18 	1 	and 	CC
+Rut 	2 	23 	1 	19 	1 	of 	IN
+Rut 	2 	23 	1 	20 	1 	wheat 	NN
+Rut 	2 	23 	1 	21 	1 	harvest 	NN
+Rut 	2 	23 	1 	22 	0 	;
+Rut 	2 	23 	1 	23 	1 	and 	CC
+Rut 	2 	23 	1 	24 	1 	dwelt 	NN
+Rut 	2 	23 	1 	25 	1 	with 	IN
+Rut 	2 	23 	1 	26 	1 	her 	PRP$
+Rut 	2 	23 	1 	27 	1 	mother 	NN
+Rut 	2 	23 	1 	28 	1 	in 	IN
+Rut 	2 	23 	1 	29 	1 	law 	NN
+Rut 	2 	23 	1 	30 	0 	.
+Rut 	3 	1 	1 	1 	1 	Then 	RB
+Rut 	3 	1 	1 	2 	1 	Naomi 	NN
+Rut 	3 	1 	1 	3 	1 	her 	PRP$
+Rut 	3 	1 	1 	4 	1 	mother 	NN
+Rut 	3 	1 	1 	5 	1 	in 	IN
+Rut 	3 	1 	1 	6 	1 	law 	NN
+Rut 	3 	1 	1 	7 	1 	said 	VBD
+Rut 	3 	1 	1 	8 	1 	unto 	NN
+Rut 	3 	1 	1 	9 	1 	her 	PRP$
+Rut 	3 	1 	1 	10 	0 	,
+Rut 	3 	1 	1 	11 	1 	My 	PRP$
+Rut 	3 	1 	1 	12 	1 	daughter 	NN
+Rut 	3 	1 	1 	13 	0 	,
+Rut 	3 	1 	1 	14 	1 	shall 	MD
+Rut 	3 	1 	1 	15 	1 	I 	PRP
+Rut 	3 	1 	1 	16 	1 	not 	RB
+Rut 	3 	1 	1 	17 	1 	seek 	NN
+Rut 	3 	1 	1 	18 	1 	rest 	NN
+Rut 	3 	1 	1 	19 	1 	for 	IN
+Rut 	3 	1 	1 	20 	1 	thee 	NN
+Rut 	3 	1 	1 	21 	0 	,
+Rut 	3 	1 	1 	22 	1 	that 	IN
+Rut 	3 	1 	1 	23 	1 	it 	PRP
+Rut 	3 	1 	1 	24 	1 	may 	MD
+Rut 	3 	1 	1 	25 	1 	be 	VB
+Rut 	3 	1 	1 	26 	1 	well 	RB
+Rut 	3 	1 	1 	27 	1 	with 	IN
+Rut 	3 	1 	1 	28 	1 	thee 	NN
+Rut 	3 	1 	1 	29 	0 	?
+Rut 	3 	2 	1 	1 	1 	And 	CC
+Rut 	3 	2 	1 	2 	1 	now 	RB
+Rut 	3 	2 	1 	3 	1 	is 	VBZ
+Rut 	3 	2 	1 	4 	1 	not 	RB
+Rut 	3 	2 	1 	5 	1 	Boaz 	NN
+Rut 	3 	2 	1 	6 	1 	of 	IN
+Rut 	3 	2 	1 	7 	1 	our 	PRP$
+Rut 	3 	2 	1 	8 	1 	kindred 	VBN
+Rut 	3 	2 	1 	9 	0 	,
+Rut 	3 	2 	1 	10 	1 	with 	IN
+Rut 	3 	2 	1 	11 	1 	whose 	WP$
+Rut 	3 	2 	1 	12 	1 	maidens 	NNS
+Rut 	3 	2 	1 	13 	1 	thou 	NN
+Rut 	3 	2 	1 	14 	1 	wast 	NN
+Rut 	3 	2 	1 	15 	0 	?
+Rut 	3 	2 	2 	1 	1 	Behold 	NN
+Rut 	3 	2 	2 	2 	0 	,
+Rut 	3 	2 	2 	3 	1 	he 	PRP
+Rut 	3 	2 	2 	4 	1 	winnoweth 	NNS
+Rut 	3 	2 	2 	5 	1 	barley 	NN
+Rut 	3 	2 	2 	6 	1 	to 	TO
+Rut 	3 	2 	2 	7 	1 	night 	NN
+Rut 	3 	2 	2 	8 	1 	in 	IN
+Rut 	3 	2 	2 	9 	1 	the 	DT
+Rut 	3 	2 	2 	10 	1 	threshingfloor 	NN
+Rut 	3 	2 	2 	11 	0 	.
+Rut 	3 	3 	1 	1 	1 	Wash 	NN
+Rut 	3 	3 	1 	2 	1 	thyself 	NN
+Rut 	3 	3 	1 	3 	1 	therefore 	RB
+Rut 	3 	3 	1 	4 	0 	,
+Rut 	3 	3 	1 	5 	1 	and 	CC
+Rut 	3 	3 	1 	6 	1 	anoint 	NN
+Rut 	3 	3 	1 	7 	1 	thee 	NN
+Rut 	3 	3 	1 	8 	0 	,
+Rut 	3 	3 	1 	9 	1 	and 	CC
+Rut 	3 	3 	1 	10 	1 	put 	NN
+Rut 	3 	3 	1 	11 	1 	thy 	NN
+Rut 	3 	3 	1 	12 	1 	raiment 	NN
+Rut 	3 	3 	1 	13 	1 	upon 	IN
+Rut 	3 	3 	1 	14 	1 	thee 	NN
+Rut 	3 	3 	1 	15 	0 	,
+Rut 	3 	3 	1 	16 	1 	and 	CC
+Rut 	3 	3 	1 	17 	1 	get 	VB
+Rut 	3 	3 	1 	18 	1 	thee 	NN
+Rut 	3 	3 	1 	19 	1 	down 	RB
+Rut 	3 	3 	1 	20 	1 	to 	TO
+Rut 	3 	3 	1 	21 	1 	the 	DT
+Rut 	3 	3 	1 	22 	1 	floor 	NN
+Rut 	3 	3 	1 	23 	0 	:
+Rut 	3 	3 	1 	24 	1 	but 	CC
+Rut 	3 	3 	1 	25 	1 	make 	VB
+Rut 	3 	3 	1 	26 	1 	not 	RB
+Rut 	3 	3 	1 	27 	1 	thyself 	NN
+Rut 	3 	3 	1 	28 	1 	known 	VBN
+Rut 	3 	3 	1 	29 	1 	unto 	NN
+Rut 	3 	3 	1 	30 	1 	the 	DT
+Rut 	3 	3 	1 	31 	1 	man 	NN
+Rut 	3 	3 	1 	32 	0 	,
+Rut 	3 	3 	1 	33 	1 	until 	IN
+Rut 	3 	3 	1 	34 	1 	he 	PRP
+Rut 	3 	3 	1 	35 	1 	shall 	MD
+Rut 	3 	3 	1 	36 	1 	have 	VB
+Rut 	3 	3 	1 	37 	1 	done 	VBN
+Rut 	3 	3 	1 	38 	1 	eating 	VBG
+Rut 	3 	3 	1 	39 	1 	and 	CC
+Rut 	3 	3 	1 	40 	1 	drinking 	NN
+Rut 	3 	3 	1 	41 	0 	.
+Rut 	3 	4 	1 	1 	1 	And 	CC
+Rut 	3 	4 	1 	2 	1 	it 	PRP
+Rut 	3 	4 	1 	3 	1 	shall 	MD
+Rut 	3 	4 	1 	4 	1 	be 	VB
+Rut 	3 	4 	1 	5 	0 	,
+Rut 	3 	4 	1 	6 	1 	when 	WRB
+Rut 	3 	4 	1 	7 	1 	he 	PRP
+Rut 	3 	4 	1 	8 	1 	lieth 	NN
+Rut 	3 	4 	1 	9 	1 	down 	RB
+Rut 	3 	4 	1 	10 	0 	,
+Rut 	3 	4 	1 	11 	1 	that 	IN
+Rut 	3 	4 	1 	12 	1 	thou 	NN
+Rut 	3 	4 	1 	13 	1 	shalt 	NN
+Rut 	3 	4 	1 	14 	1 	mark 	NN
+Rut 	3 	4 	1 	15 	1 	the 	DT
+Rut 	3 	4 	1 	16 	1 	place 	NN
+Rut 	3 	4 	1 	17 	1 	where 	WRB
+Rut 	3 	4 	1 	18 	1 	he 	PRP
+Rut 	3 	4 	1 	19 	1 	shall 	MD
+Rut 	3 	4 	1 	20 	1 	lie 	NN
+Rut 	3 	4 	1 	21 	0 	,
+Rut 	3 	4 	1 	22 	1 	and 	CC
+Rut 	3 	4 	1 	23 	1 	thou 	NN
+Rut 	3 	4 	1 	24 	1 	shalt 	NN
+Rut 	3 	4 	1 	25 	1 	go 	VB
+Rut 	3 	4 	1 	26 	1 	in 	IN
+Rut 	3 	4 	1 	27 	0 	,
+Rut 	3 	4 	1 	28 	1 	and 	CC
+Rut 	3 	4 	1 	29 	1 	uncover 	NN
+Rut 	3 	4 	1 	30 	1 	his 	PRP$
+Rut 	3 	4 	1 	31 	1 	feet 	NNS
+Rut 	3 	4 	1 	32 	0 	,
+Rut 	3 	4 	1 	33 	1 	and 	CC
+Rut 	3 	4 	1 	34 	1 	lay 	NN
+Rut 	3 	4 	1 	35 	1 	thee 	NN
+Rut 	3 	4 	1 	36 	1 	down 	RB
+Rut 	3 	4 	1 	37 	0 	;
+Rut 	3 	4 	1 	38 	1 	and 	CC
+Rut 	3 	4 	1 	39 	1 	he 	PRP
+Rut 	3 	4 	1 	40 	1 	will 	MD
+Rut 	3 	4 	1 	41 	1 	tell 	NN
+Rut 	3 	4 	1 	42 	1 	thee 	NN
+Rut 	3 	4 	1 	43 	1 	what 	WP
+Rut 	3 	4 	1 	44 	1 	thou 	NN
+Rut 	3 	4 	1 	45 	1 	shalt 	NN
+Rut 	3 	4 	1 	46 	1 	do 	VB
+Rut 	3 	4 	1 	47 	0 	.
+Rut 	3 	5 	1 	1 	1 	And 	CC
+Rut 	3 	5 	1 	2 	1 	she 	PRP
+Rut 	3 	5 	1 	3 	1 	said 	VBD
+Rut 	3 	5 	1 	4 	1 	unto 	NN
+Rut 	3 	5 	1 	5 	1 	her 	PRP$
+Rut 	3 	5 	1 	6 	0 	,
+Rut 	3 	5 	1 	7 	1 	All 	DT
+Rut 	3 	5 	1 	8 	1 	that 	IN
+Rut 	3 	5 	1 	9 	1 	thou 	NN
+Rut 	3 	5 	1 	10 	1 	sayest 	NN
+Rut 	3 	5 	1 	11 	1 	unto 	NN
+Rut 	3 	5 	1 	12 	1 	me 	PRP
+Rut 	3 	5 	1 	13 	1 	I 	PRP
+Rut 	3 	5 	1 	14 	1 	will 	MD
+Rut 	3 	5 	1 	15 	1 	do 	VB
+Rut 	3 	5 	1 	16 	0 	.
+Rut 	3 	6 	1 	1 	1 	And 	CC
+Rut 	3 	6 	1 	2 	1 	she 	PRP
+Rut 	3 	6 	1 	3 	1 	went 	VBD
+Rut 	3 	6 	1 	4 	1 	down 	RB
+Rut 	3 	6 	1 	5 	1 	unto 	NN
+Rut 	3 	6 	1 	6 	1 	the 	DT
+Rut 	3 	6 	1 	7 	1 	floor 	NN
+Rut 	3 	6 	1 	8 	0 	,
+Rut 	3 	6 	1 	9 	1 	and 	CC
+Rut 	3 	6 	1 	10 	1 	did 	VBD
+Rut 	3 	6 	1 	11 	1 	according 	VBG
+Rut 	3 	6 	1 	12 	1 	to 	TO
+Rut 	3 	6 	1 	13 	1 	all 	DT
+Rut 	3 	6 	1 	14 	1 	that 	IN
+Rut 	3 	6 	1 	15 	1 	her 	PRP$
+Rut 	3 	6 	1 	16 	1 	mother 	NN
+Rut 	3 	6 	1 	17 	1 	in 	IN
+Rut 	3 	6 	1 	18 	1 	law 	NN
+Rut 	3 	6 	1 	19 	1 	bade 	NN
+Rut 	3 	6 	1 	20 	1 	her 	PRP$
+Rut 	3 	6 	1 	21 	0 	.
+Rut 	3 	7 	1 	1 	1 	And 	CC
+Rut 	3 	7 	1 	2 	1 	when 	WRB
+Rut 	3 	7 	1 	3 	1 	Boaz 	NN
+Rut 	3 	7 	1 	4 	1 	had 	VBD
+Rut 	3 	7 	1 	5 	1 	eaten 	VB
+Rut 	3 	7 	1 	6 	1 	and 	CC
+Rut 	3 	7 	1 	7 	1 	drunk 	NN
+Rut 	3 	7 	1 	8 	0 	,
+Rut 	3 	7 	1 	9 	1 	and 	CC
+Rut 	3 	7 	1 	10 	1 	his 	PRP$
+Rut 	3 	7 	1 	11 	1 	heart 	NN
+Rut 	3 	7 	1 	12 	1 	was 	VBD
+Rut 	3 	7 	1 	13 	1 	merry 	NN
+Rut 	3 	7 	1 	14 	0 	,
+Rut 	3 	7 	1 	15 	1 	he 	PRP
+Rut 	3 	7 	1 	16 	1 	went 	VBD
+Rut 	3 	7 	1 	17 	1 	to 	TO
+Rut 	3 	7 	1 	18 	1 	lie 	NN
+Rut 	3 	7 	1 	19 	1 	down 	RB
+Rut 	3 	7 	1 	20 	1 	at 	IN
+Rut 	3 	7 	1 	21 	1 	the 	DT
+Rut 	3 	7 	1 	22 	1 	end 	NN
+Rut 	3 	7 	1 	23 	1 	of 	IN
+Rut 	3 	7 	1 	24 	1 	the 	DT
+Rut 	3 	7 	1 	25 	1 	heap 	NN
+Rut 	3 	7 	1 	26 	1 	of 	IN
+Rut 	3 	7 	1 	27 	1 	corn 	NN
+Rut 	3 	7 	1 	28 	0 	:
+Rut 	3 	7 	1 	29 	1 	and 	CC
+Rut 	3 	7 	1 	30 	1 	she 	PRP
+Rut 	3 	7 	1 	31 	1 	came 	VBD
+Rut 	3 	7 	1 	32 	1 	softly 	RB
+Rut 	3 	7 	1 	33 	0 	,
+Rut 	3 	7 	1 	34 	1 	and 	CC
+Rut 	3 	7 	1 	35 	1 	uncovered 	JJ
+Rut 	3 	7 	1 	36 	1 	his 	PRP$
+Rut 	3 	7 	1 	37 	1 	feet 	NNS
+Rut 	3 	7 	1 	38 	0 	,
+Rut 	3 	7 	1 	39 	1 	and 	CC
+Rut 	3 	7 	1 	40 	1 	laid 	NN
+Rut 	3 	7 	1 	41 	1 	her 	PRP$
+Rut 	3 	7 	1 	42 	1 	down 	RB
+Rut 	3 	7 	1 	43 	0 	.
+Rut 	3 	8 	1 	1 	1 	And 	CC
+Rut 	3 	8 	1 	2 	1 	it 	PRP
+Rut 	3 	8 	1 	3 	1 	came 	VBD
+Rut 	3 	8 	1 	4 	1 	to 	TO
+Rut 	3 	8 	1 	5 	1 	pass 	NN
+Rut 	3 	8 	1 	6 	1 	at 	IN
+Rut 	3 	8 	1 	7 	1 	midnight 	NN
+Rut 	3 	8 	1 	8 	0 	,
+Rut 	3 	8 	1 	9 	1 	that 	IN
+Rut 	3 	8 	1 	10 	1 	the 	DT
+Rut 	3 	8 	1 	11 	1 	man 	NN
+Rut 	3 	8 	1 	12 	1 	was 	VBD
+Rut 	3 	8 	1 	13 	1 	afraid 	NN
+Rut 	3 	8 	1 	14 	0 	,
+Rut 	3 	8 	1 	15 	1 	and 	CC
+Rut 	3 	8 	1 	16 	1 	turned 	VBD
+Rut 	3 	8 	1 	17 	1 	himself 	PRP
+Rut 	3 	8 	1 	18 	0 	:
+Rut 	3 	8 	1 	19 	1 	and 	CC
+Rut 	3 	8 	1 	20 	0 	,
+Rut 	3 	8 	1 	21 	1 	behold 	NN
+Rut 	3 	8 	1 	22 	0 	,
+Rut 	3 	8 	1 	23 	1 	a 	DT
+Rut 	3 	8 	1 	24 	1 	woman 	NN
+Rut 	3 	8 	1 	25 	1 	lay 	NN
+Rut 	3 	8 	1 	26 	1 	at 	IN
+Rut 	3 	8 	1 	27 	1 	his 	PRP$
+Rut 	3 	8 	1 	28 	1 	feet 	NNS
+Rut 	3 	8 	1 	29 	0 	.
+Rut 	3 	9 	1 	1 	1 	And 	CC
+Rut 	3 	9 	1 	2 	1 	he 	PRP
+Rut 	3 	9 	1 	3 	1 	said 	VBD
+Rut 	3 	9 	1 	4 	0 	,
+Rut 	3 	9 	1 	5 	1 	Who 	WP
+Rut 	3 	9 	1 	6 	1 	art 	NN
+Rut 	3 	9 	1 	7 	1 	thou 	NN
+Rut 	3 	9 	1 	8 	0 	?
+Rut 	3 	9 	2 	1 	1 	And 	CC
+Rut 	3 	9 	2 	2 	1 	she 	PRP
+Rut 	3 	9 	2 	3 	1 	answered 	VBN
+Rut 	3 	9 	2 	4 	0 	,
+Rut 	3 	9 	2 	5 	1 	I 	PRP
+Rut 	3 	9 	2 	6 	1 	am 	VBP
+Rut 	3 	9 	2 	7 	1 	Ruth 	NN
+Rut 	3 	9 	2 	8 	1 	thine 	NN
+Rut 	3 	9 	2 	9 	1 	handmaid 	NN
+Rut 	3 	9 	2 	10 	0 	:
+Rut 	3 	9 	2 	11 	1 	spread 	NN
+Rut 	3 	9 	2 	12 	1 	therefore 	RB
+Rut 	3 	9 	2 	13 	1 	thy 	NN
+Rut 	3 	9 	2 	14 	1 	skirt 	NN
+Rut 	3 	9 	2 	15 	1 	over 	IN
+Rut 	3 	9 	2 	16 	1 	thine 	NN
+Rut 	3 	9 	2 	17 	1 	handmaid 	NN
+Rut 	3 	9 	2 	18 	0 	;
+Rut 	3 	9 	2 	19 	1 	for 	IN
+Rut 	3 	9 	2 	20 	1 	thou 	NN
+Rut 	3 	9 	2 	21 	1 	art 	NN
+Rut 	3 	9 	2 	22 	1 	a 	DT
+Rut 	3 	9 	2 	23 	1 	near 	IN
+Rut 	3 	9 	2 	24 	1 	kinsman 	NN
+Rut 	3 	9 	2 	25 	0 	.
+Rut 	3 	10 	1 	1 	1 	And 	CC
+Rut 	3 	10 	1 	2 	1 	he 	PRP
+Rut 	3 	10 	1 	3 	1 	said 	VBD
+Rut 	3 	10 	1 	4 	0 	,
+Rut 	3 	10 	1 	5 	1 	Blessed 	VBN
+Rut 	3 	10 	1 	6 	1 	be 	VB
+Rut 	3 	10 	1 	7 	1 	thou 	NN
+Rut 	3 	10 	1 	8 	1 	of 	IN
+Rut 	3 	10 	1 	9 	1 	the 	DT
+Rut 	3 	10 	1 	10 	1 	LORD 	NN
+Rut 	3 	10 	1 	11 	0 	,
+Rut 	3 	10 	1 	12 	1 	my 	PRP$
+Rut 	3 	10 	1 	13 	1 	daughter 	NN
+Rut 	3 	10 	1 	14 	0 	:
+Rut 	3 	10 	1 	15 	1 	for 	IN
+Rut 	3 	10 	1 	16 	1 	thou 	NN
+Rut 	3 	10 	1 	17 	1 	hast 	NN
+Rut 	3 	10 	1 	18 	1 	shewed 	VBN
+Rut 	3 	10 	1 	19 	1 	more 	RBR
+Rut 	3 	10 	1 	20 	1 	kindness 	NN
+Rut 	3 	10 	1 	21 	1 	in 	IN
+Rut 	3 	10 	1 	22 	1 	the 	DT
+Rut 	3 	10 	1 	23 	1 	latter 	NN
+Rut 	3 	10 	1 	24 	1 	end 	NN
+Rut 	3 	10 	1 	25 	1 	than 	IN
+Rut 	3 	10 	1 	26 	1 	at 	IN
+Rut 	3 	10 	1 	27 	1 	the 	DT
+Rut 	3 	10 	1 	28 	1 	beginning 	VBG
+Rut 	3 	10 	1 	29 	0 	,
+Rut 	3 	10 	1 	30 	1 	inasmuch 	JJ
+Rut 	3 	10 	1 	31 	1 	as 	IN
+Rut 	3 	10 	1 	32 	1 	thou 	NN
+Rut 	3 	10 	1 	33 	1 	followedst 	NN
+Rut 	3 	10 	1 	34 	1 	not 	RB
+Rut 	3 	10 	1 	35 	1 	young 	JJ
+Rut 	3 	10 	1 	36 	1 	men 	NNS
+Rut 	3 	10 	1 	37 	0 	,
+Rut 	3 	10 	1 	38 	1 	whether 	IN
+Rut 	3 	10 	1 	39 	1 	poor 	JJ
+Rut 	3 	10 	1 	40 	1 	or 	CC
+Rut 	3 	10 	1 	41 	1 	rich 	JJ
+Rut 	3 	10 	1 	42 	0 	.
+Rut 	3 	11 	1 	1 	1 	And 	CC
+Rut 	3 	11 	1 	2 	1 	now 	RB
+Rut 	3 	11 	1 	3 	0 	,
+Rut 	3 	11 	1 	4 	1 	my 	PRP$
+Rut 	3 	11 	1 	5 	1 	daughter 	NN
+Rut 	3 	11 	1 	6 	0 	,
+Rut 	3 	11 	1 	7 	1 	fear 	NN
+Rut 	3 	11 	1 	8 	1 	not 	RB
+Rut 	3 	11 	1 	9 	0 	;
+Rut 	3 	11 	1 	10 	1 	I 	PRP
+Rut 	3 	11 	1 	11 	1 	will 	MD
+Rut 	3 	11 	1 	12 	1 	do 	VB
+Rut 	3 	11 	1 	13 	1 	to 	TO
+Rut 	3 	11 	1 	14 	1 	thee 	NN
+Rut 	3 	11 	1 	15 	1 	all 	DT
+Rut 	3 	11 	1 	16 	1 	that 	IN
+Rut 	3 	11 	1 	17 	1 	thou 	NN
+Rut 	3 	11 	1 	18 	1 	requirest 	NN
+Rut 	3 	11 	1 	19 	0 	:
+Rut 	3 	11 	1 	20 	1 	for 	IN
+Rut 	3 	11 	1 	21 	1 	all 	DT
+Rut 	3 	11 	1 	22 	1 	the 	DT
+Rut 	3 	11 	1 	23 	1 	city 	NN
+Rut 	3 	11 	1 	24 	1 	of 	IN
+Rut 	3 	11 	1 	25 	1 	my 	PRP$
+Rut 	3 	11 	1 	26 	1 	people 	NNS
+Rut 	3 	11 	1 	27 	1 	doth 	NN
+Rut 	3 	11 	1 	28 	1 	know 	VB
+Rut 	3 	11 	1 	29 	1 	that 	IN
+Rut 	3 	11 	1 	30 	1 	thou 	NN
+Rut 	3 	11 	1 	31 	1 	art 	NN
+Rut 	3 	11 	1 	32 	1 	a 	DT
+Rut 	3 	11 	1 	33 	1 	virtuous 	JJ
+Rut 	3 	11 	1 	34 	1 	woman 	NN
+Rut 	3 	11 	1 	35 	0 	.
+Rut 	3 	12 	1 	1 	1 	And 	CC
+Rut 	3 	12 	1 	2 	1 	now 	RB
+Rut 	3 	12 	1 	3 	1 	it 	PRP
+Rut 	3 	12 	1 	4 	1 	is 	VBZ
+Rut 	3 	12 	1 	5 	1 	true 	JJ
+Rut 	3 	12 	1 	6 	1 	that 	IN
+Rut 	3 	12 	1 	7 	1 	I 	PRP
+Rut 	3 	12 	1 	8 	1 	am 	VBP
+Rut 	3 	12 	1 	9 	1 	thy 	NN
+Rut 	3 	12 	1 	10 	1 	near 	IN
+Rut 	3 	12 	1 	11 	1 	kinsman 	NN
+Rut 	3 	12 	1 	12 	0 	:
+Rut 	3 	12 	1 	13 	1 	howbeit 	NN
+Rut 	3 	12 	1 	14 	1 	there 	RB
+Rut 	3 	12 	1 	15 	1 	is 	VBZ
+Rut 	3 	12 	1 	16 	1 	a 	DT
+Rut 	3 	12 	1 	17 	1 	kinsman 	NN
+Rut 	3 	12 	1 	18 	1 	nearer 	NN
+Rut 	3 	12 	1 	19 	1 	than 	IN
+Rut 	3 	12 	1 	20 	1 	I 	PRP
+Rut 	3 	12 	1 	21 	0 	.
+Rut 	3 	13 	1 	1 	1 	Tarry 	NN
+Rut 	3 	13 	1 	2 	1 	this 	DT
+Rut 	3 	13 	1 	3 	1 	night 	NN
+Rut 	3 	13 	1 	4 	0 	,
+Rut 	3 	13 	1 	5 	1 	and 	CC
+Rut 	3 	13 	1 	6 	1 	it 	PRP
+Rut 	3 	13 	1 	7 	1 	shall 	MD
+Rut 	3 	13 	1 	8 	1 	be 	VB
+Rut 	3 	13 	1 	9 	1 	in 	IN
+Rut 	3 	13 	1 	10 	1 	the 	DT
+Rut 	3 	13 	1 	11 	1 	morning 	NN
+Rut 	3 	13 	1 	12 	0 	,
+Rut 	3 	13 	1 	13 	1 	that 	IN
+Rut 	3 	13 	1 	14 	1 	if 	IN
+Rut 	3 	13 	1 	15 	1 	he 	PRP
+Rut 	3 	13 	1 	16 	1 	will 	MD
+Rut 	3 	13 	1 	17 	1 	perform 	NN
+Rut 	3 	13 	1 	18 	1 	unto 	NN
+Rut 	3 	13 	1 	19 	1 	thee 	NN
+Rut 	3 	13 	1 	20 	1 	the 	DT
+Rut 	3 	13 	1 	21 	1 	part 	NN
+Rut 	3 	13 	1 	22 	1 	of 	IN
+Rut 	3 	13 	1 	23 	1 	a 	DT
+Rut 	3 	13 	1 	24 	1 	kinsman 	NN
+Rut 	3 	13 	1 	25 	0 	,
+Rut 	3 	13 	1 	26 	1 	well 	RB
+Rut 	3 	13 	1 	27 	0 	;
+Rut 	3 	13 	1 	28 	1 	let 	VB
+Rut 	3 	13 	1 	29 	1 	him 	PRP
+Rut 	3 	13 	1 	30 	1 	do 	VB
+Rut 	3 	13 	1 	31 	1 	the 	DT
+Rut 	3 	13 	1 	32 	1 	kinsman 	NN
+Rut 	3 	13 	1 	33 	0 	's
+Rut 	3 	13 	1 	34 	1 	part 	NN
+Rut 	3 	13 	1 	35 	0 	:
+Rut 	3 	13 	1 	36 	1 	but 	CC
+Rut 	3 	13 	1 	37 	1 	if 	IN
+Rut 	3 	13 	1 	38 	1 	he 	PRP
+Rut 	3 	13 	1 	39 	1 	will 	MD
+Rut 	3 	13 	1 	40 	1 	not 	RB
+Rut 	3 	13 	1 	41 	1 	do 	VB
+Rut 	3 	13 	1 	42 	1 	the 	DT
+Rut 	3 	13 	1 	43 	1 	part 	NN
+Rut 	3 	13 	1 	44 	1 	of 	IN
+Rut 	3 	13 	1 	45 	1 	a 	DT
+Rut 	3 	13 	1 	46 	1 	kinsman 	NN
+Rut 	3 	13 	1 	47 	1 	to 	TO
+Rut 	3 	13 	1 	48 	1 	thee 	NN
+Rut 	3 	13 	1 	49 	0 	,
+Rut 	3 	13 	1 	50 	1 	then 	RB
+Rut 	3 	13 	1 	51 	1 	will 	MD
+Rut 	3 	13 	1 	52 	1 	I 	PRP
+Rut 	3 	13 	1 	53 	1 	do 	VB
+Rut 	3 	13 	1 	54 	1 	the 	DT
+Rut 	3 	13 	1 	55 	1 	part 	NN
+Rut 	3 	13 	1 	56 	1 	of 	IN
+Rut 	3 	13 	1 	57 	1 	a 	DT
+Rut 	3 	13 	1 	58 	1 	kinsman 	NN
+Rut 	3 	13 	1 	59 	1 	to 	TO
+Rut 	3 	13 	1 	60 	1 	thee 	NN
+Rut 	3 	13 	1 	61 	0 	,
+Rut 	3 	13 	1 	62 	1 	as 	IN
+Rut 	3 	13 	1 	63 	1 	the 	DT
+Rut 	3 	13 	1 	64 	1 	LORD 	NN
+Rut 	3 	13 	1 	65 	1 	liveth 	NN
+Rut 	3 	13 	1 	66 	0 	:
+Rut 	3 	13 	1 	67 	1 	lie 	NN
+Rut 	3 	13 	1 	68 	1 	down 	RB
+Rut 	3 	13 	1 	69 	1 	until 	IN
+Rut 	3 	13 	1 	70 	1 	the 	DT
+Rut 	3 	13 	1 	71 	1 	morning 	NN
+Rut 	3 	13 	1 	72 	0 	.
+Rut 	3 	14 	1 	1 	1 	And 	CC
+Rut 	3 	14 	1 	2 	1 	she 	PRP
+Rut 	3 	14 	1 	3 	1 	lay 	NN
+Rut 	3 	14 	1 	4 	1 	at 	IN
+Rut 	3 	14 	1 	5 	1 	his 	PRP$
+Rut 	3 	14 	1 	6 	1 	feet 	NNS
+Rut 	3 	14 	1 	7 	1 	until 	IN
+Rut 	3 	14 	1 	8 	1 	the 	DT
+Rut 	3 	14 	1 	9 	1 	morning 	NN
+Rut 	3 	14 	1 	10 	0 	:
+Rut 	3 	14 	1 	11 	1 	and 	CC
+Rut 	3 	14 	1 	12 	1 	she 	PRP
+Rut 	3 	14 	1 	13 	1 	rose 	VBD
+Rut 	3 	14 	1 	14 	1 	up 	RB
+Rut 	3 	14 	1 	15 	1 	before 	IN
+Rut 	3 	14 	1 	16 	1 	one 	CD
+Rut 	3 	14 	1 	17 	1 	could 	MD
+Rut 	3 	14 	1 	18 	1 	know 	VB
+Rut 	3 	14 	1 	19 	1 	another 	DT
+Rut 	3 	14 	1 	20 	0 	.
+Rut 	3 	14 	2 	1 	1 	And 	CC
+Rut 	3 	14 	2 	2 	1 	he 	PRP
+Rut 	3 	14 	2 	3 	1 	said 	VBD
+Rut 	3 	14 	2 	4 	0 	,
+Rut 	3 	14 	2 	5 	1 	Let 	VB
+Rut 	3 	14 	2 	6 	1 	it 	PRP
+Rut 	3 	14 	2 	7 	1 	not 	RB
+Rut 	3 	14 	2 	8 	1 	be 	VB
+Rut 	3 	14 	2 	9 	1 	known 	VBN
+Rut 	3 	14 	2 	10 	1 	that 	IN
+Rut 	3 	14 	2 	11 	1 	a 	DT
+Rut 	3 	14 	2 	12 	1 	woman 	NN
+Rut 	3 	14 	2 	13 	1 	came 	VBD
+Rut 	3 	14 	2 	14 	1 	into 	IN
+Rut 	3 	14 	2 	15 	1 	the 	DT
+Rut 	3 	14 	2 	16 	1 	floor 	NN
+Rut 	3 	14 	2 	17 	0 	.
+Rut 	3 	15 	1 	1 	1 	Also 	RB
+Rut 	3 	15 	1 	2 	1 	he 	PRP
+Rut 	3 	15 	1 	3 	1 	said 	VBD
+Rut 	3 	15 	1 	4 	0 	,
+Rut 	3 	15 	1 	5 	1 	Bring 	VB
+Rut 	3 	15 	1 	6 	1 	the 	DT
+Rut 	3 	15 	1 	7 	1 	vail 	NN
+Rut 	3 	15 	1 	8 	1 	that 	IN
+Rut 	3 	15 	1 	9 	1 	thou 	NN
+Rut 	3 	15 	1 	10 	1 	hast 	NN
+Rut 	3 	15 	1 	11 	1 	upon 	IN
+Rut 	3 	15 	1 	12 	1 	thee 	NN
+Rut 	3 	15 	1 	13 	0 	,
+Rut 	3 	15 	1 	14 	1 	and 	CC
+Rut 	3 	15 	1 	15 	1 	hold 	NN
+Rut 	3 	15 	1 	16 	1 	it 	PRP
+Rut 	3 	15 	1 	17 	0 	.
+Rut 	3 	15 	2 	1 	1 	And 	CC
+Rut 	3 	15 	2 	2 	1 	when 	WRB
+Rut 	3 	15 	2 	3 	1 	she 	PRP
+Rut 	3 	15 	2 	4 	1 	held 	NN
+Rut 	3 	15 	2 	5 	1 	it 	PRP
+Rut 	3 	15 	2 	6 	0 	,
+Rut 	3 	15 	2 	7 	1 	he 	PRP
+Rut 	3 	15 	2 	8 	1 	measured 	VBN
+Rut 	3 	15 	2 	9 	1 	six 	CD
+Rut 	3 	15 	2 	10 	1 	measures 	NNS
+Rut 	3 	15 	2 	11 	1 	of 	IN
+Rut 	3 	15 	2 	12 	1 	barley 	NN
+Rut 	3 	15 	2 	13 	0 	,
+Rut 	3 	15 	2 	14 	1 	and 	CC
+Rut 	3 	15 	2 	15 	1 	laid 	NN
+Rut 	3 	15 	2 	16 	1 	it 	PRP
+Rut 	3 	15 	2 	17 	1 	on 	IN
+Rut 	3 	15 	2 	18 	1 	her 	PRP$
+Rut 	3 	15 	2 	19 	0 	:
+Rut 	3 	15 	2 	20 	1 	and 	CC
+Rut 	3 	15 	2 	21 	1 	she 	PRP
+Rut 	3 	15 	2 	22 	1 	went 	VBD
+Rut 	3 	15 	2 	23 	1 	into 	IN
+Rut 	3 	15 	2 	24 	1 	the 	DT
+Rut 	3 	15 	2 	25 	1 	city 	NN
+Rut 	3 	15 	2 	26 	0 	.
+Rut 	3 	16 	1 	1 	1 	And 	CC
+Rut 	3 	16 	1 	2 	1 	when 	WRB
+Rut 	3 	16 	1 	3 	1 	she 	PRP
+Rut 	3 	16 	1 	4 	1 	came 	VBD
+Rut 	3 	16 	1 	5 	1 	to 	TO
+Rut 	3 	16 	1 	6 	1 	her 	PRP$
+Rut 	3 	16 	1 	7 	1 	mother 	NN
+Rut 	3 	16 	1 	8 	1 	in 	IN
+Rut 	3 	16 	1 	9 	1 	law 	NN
+Rut 	3 	16 	1 	10 	0 	,
+Rut 	3 	16 	1 	11 	1 	she 	PRP
+Rut 	3 	16 	1 	12 	1 	said 	VBD
+Rut 	3 	16 	1 	13 	0 	,
+Rut 	3 	16 	1 	14 	1 	Who 	WP
+Rut 	3 	16 	1 	15 	1 	art 	NN
+Rut 	3 	16 	1 	16 	1 	thou 	NN
+Rut 	3 	16 	1 	17 	0 	,
+Rut 	3 	16 	1 	18 	1 	my 	PRP$
+Rut 	3 	16 	1 	19 	1 	daughter 	NN
+Rut 	3 	16 	1 	20 	0 	?
+Rut 	3 	16 	2 	1 	1 	And 	CC
+Rut 	3 	16 	2 	2 	1 	she 	PRP
+Rut 	3 	16 	2 	3 	1 	told 	NN
+Rut 	3 	16 	2 	4 	1 	her 	PRP$
+Rut 	3 	16 	2 	5 	1 	all 	DT
+Rut 	3 	16 	2 	6 	1 	that 	IN
+Rut 	3 	16 	2 	7 	1 	the 	DT
+Rut 	3 	16 	2 	8 	1 	man 	NN
+Rut 	3 	16 	2 	9 	1 	had 	VBD
+Rut 	3 	16 	2 	10 	1 	done 	VBN
+Rut 	3 	16 	2 	11 	1 	to 	TO
+Rut 	3 	16 	2 	12 	1 	her 	PRP$
+Rut 	3 	16 	2 	13 	0 	.
+Rut 	3 	17 	1 	1 	1 	And 	CC
+Rut 	3 	17 	1 	2 	1 	she 	PRP
+Rut 	3 	17 	1 	3 	1 	said 	VBD
+Rut 	3 	17 	1 	4 	0 	,
+Rut 	3 	17 	1 	5 	1 	These 	DT
+Rut 	3 	17 	1 	6 	1 	six 	CD
+Rut 	3 	17 	1 	7 	1 	measures 	NNS
+Rut 	3 	17 	1 	8 	1 	of 	IN
+Rut 	3 	17 	1 	9 	1 	barley 	NN
+Rut 	3 	17 	1 	10 	1 	gave 	VBD
+Rut 	3 	17 	1 	11 	1 	he 	PRP
+Rut 	3 	17 	1 	12 	1 	me 	PRP
+Rut 	3 	17 	1 	13 	0 	;
+Rut 	3 	17 	1 	14 	1 	for 	IN
+Rut 	3 	17 	1 	15 	1 	he 	PRP
+Rut 	3 	17 	1 	16 	1 	said 	VBD
+Rut 	3 	17 	1 	17 	1 	to 	TO
+Rut 	3 	17 	1 	18 	1 	me 	PRP
+Rut 	3 	17 	1 	19 	0 	,
+Rut 	3 	17 	1 	20 	1 	Go 	VB
+Rut 	3 	17 	1 	21 	1 	not 	RB
+Rut 	3 	17 	1 	22 	1 	empty 	JJ
+Rut 	3 	17 	1 	23 	1 	unto 	NN
+Rut 	3 	17 	1 	24 	1 	thy 	NN
+Rut 	3 	17 	1 	25 	1 	mother 	NN
+Rut 	3 	17 	1 	26 	1 	in 	IN
+Rut 	3 	17 	1 	27 	1 	law 	NN
+Rut 	3 	17 	1 	28 	0 	.
+Rut 	3 	18 	1 	1 	1 	Then 	RB
+Rut 	3 	18 	1 	2 	1 	said 	VBD
+Rut 	3 	18 	1 	3 	1 	she 	PRP
+Rut 	3 	18 	1 	4 	0 	,
+Rut 	3 	18 	1 	5 	1 	Sit 	NN
+Rut 	3 	18 	1 	6 	1 	still 	RB
+Rut 	3 	18 	1 	7 	0 	,
+Rut 	3 	18 	1 	8 	1 	my 	PRP$
+Rut 	3 	18 	1 	9 	1 	daughter 	NN
+Rut 	3 	18 	1 	10 	0 	,
+Rut 	3 	18 	1 	11 	1 	until 	IN
+Rut 	3 	18 	1 	12 	1 	thou 	NN
+Rut 	3 	18 	1 	13 	1 	know 	VB
+Rut 	3 	18 	1 	14 	1 	how 	WRB
+Rut 	3 	18 	1 	15 	1 	the 	DT
+Rut 	3 	18 	1 	16 	1 	matter 	NN
+Rut 	3 	18 	1 	17 	1 	will 	MD
+Rut 	3 	18 	1 	18 	1 	fall 	NN
+Rut 	3 	18 	1 	19 	0 	:
+Rut 	3 	18 	1 	20 	1 	for 	IN
+Rut 	3 	18 	1 	21 	1 	the 	DT
+Rut 	3 	18 	1 	22 	1 	man 	NN
+Rut 	3 	18 	1 	23 	1 	will 	MD
+Rut 	3 	18 	1 	24 	1 	not 	RB
+Rut 	3 	18 	1 	25 	1 	be 	VB
+Rut 	3 	18 	1 	26 	1 	in 	IN
+Rut 	3 	18 	1 	27 	1 	rest 	NN
+Rut 	3 	18 	1 	28 	0 	,
+Rut 	3 	18 	1 	29 	1 	until 	IN
+Rut 	3 	18 	1 	30 	1 	he 	PRP
+Rut 	3 	18 	1 	31 	1 	have 	VB
+Rut 	3 	18 	1 	32 	1 	finished 	VBN
+Rut 	3 	18 	1 	33 	1 	the 	DT
+Rut 	3 	18 	1 	34 	1 	thing 	NN
+Rut 	3 	18 	1 	35 	1 	this 	DT
+Rut 	3 	18 	1 	36 	1 	day 	NN
+Rut 	3 	18 	1 	37 	0 	.
+Rut 	4 	1 	1 	1 	1 	Then 	RB
+Rut 	4 	1 	1 	2 	1 	went 	VBD
+Rut 	4 	1 	1 	3 	1 	Boaz 	NN
+Rut 	4 	1 	1 	4 	1 	up 	RB
+Rut 	4 	1 	1 	5 	1 	to 	TO
+Rut 	4 	1 	1 	6 	1 	the 	DT
+Rut 	4 	1 	1 	7 	1 	gate 	NN
+Rut 	4 	1 	1 	8 	0 	,
+Rut 	4 	1 	1 	9 	1 	and 	CC
+Rut 	4 	1 	1 	10 	1 	sat 	NN
+Rut 	4 	1 	1 	11 	1 	him 	PRP
+Rut 	4 	1 	1 	12 	1 	down 	RB
+Rut 	4 	1 	1 	13 	1 	there 	RB
+Rut 	4 	1 	1 	14 	0 	:
+Rut 	4 	1 	1 	15 	1 	and 	CC
+Rut 	4 	1 	1 	16 	0 	,
+Rut 	4 	1 	1 	17 	1 	behold 	NN
+Rut 	4 	1 	1 	18 	0 	,
+Rut 	4 	1 	1 	19 	1 	the 	DT
+Rut 	4 	1 	1 	20 	1 	kinsman 	NN
+Rut 	4 	1 	1 	21 	1 	of 	IN
+Rut 	4 	1 	1 	22 	1 	whom 	WP
+Rut 	4 	1 	1 	23 	1 	Boaz 	NN
+Rut 	4 	1 	1 	24 	1 	spake 	NN
+Rut 	4 	1 	1 	25 	1 	came 	VBD
+Rut 	4 	1 	1 	26 	1 	by 	IN
+Rut 	4 	1 	1 	27 	0 	;
+Rut 	4 	1 	1 	28 	1 	unto 	NN
+Rut 	4 	1 	1 	29 	1 	whom 	WP
+Rut 	4 	1 	1 	30 	1 	he 	PRP
+Rut 	4 	1 	1 	31 	1 	said 	VBD
+Rut 	4 	1 	1 	32 	0 	,
+Rut 	4 	1 	1 	33 	1 	Ho 	NN
+Rut 	4 	1 	1 	34 	0 	,
+Rut 	4 	1 	1 	35 	1 	such 	JJ
+Rut 	4 	1 	1 	36 	1 	a 	DT
+Rut 	4 	1 	1 	37 	1 	one 	CD
+Rut 	4 	1 	1 	38 	0 	!
+Rut 	4 	1 	2 	1 	1 	turn 	NN
+Rut 	4 	1 	2 	2 	1 	aside 	RB
+Rut 	4 	1 	2 	3 	0 	,
+Rut 	4 	1 	2 	4 	1 	sit 	NN
+Rut 	4 	1 	2 	5 	1 	down 	RB
+Rut 	4 	1 	2 	6 	1 	here 	RB
+Rut 	4 	1 	2 	7 	0 	.
+Rut 	4 	1 	3 	1 	1 	And 	CC
+Rut 	4 	1 	3 	2 	1 	he 	PRP
+Rut 	4 	1 	3 	3 	1 	turned 	VBD
+Rut 	4 	1 	3 	4 	1 	aside 	RB
+Rut 	4 	1 	3 	5 	0 	,
+Rut 	4 	1 	3 	6 	1 	and 	CC
+Rut 	4 	1 	3 	7 	1 	sat 	NN
+Rut 	4 	1 	3 	8 	1 	down 	RB
+Rut 	4 	1 	3 	9 	0 	.
+Rut 	4 	2 	1 	1 	1 	And 	CC
+Rut 	4 	2 	1 	2 	1 	he 	PRP
+Rut 	4 	2 	1 	3 	1 	took 	VBD
+Rut 	4 	2 	1 	4 	1 	ten 	NNS
+Rut 	4 	2 	1 	5 	1 	men 	NNS
+Rut 	4 	2 	1 	6 	1 	of 	IN
+Rut 	4 	2 	1 	7 	1 	the 	DT
+Rut 	4 	2 	1 	8 	1 	elders 	NNS
+Rut 	4 	2 	1 	9 	1 	of 	IN
+Rut 	4 	2 	1 	10 	1 	the 	DT
+Rut 	4 	2 	1 	11 	1 	city 	NN
+Rut 	4 	2 	1 	12 	0 	,
+Rut 	4 	2 	1 	13 	1 	and 	CC
+Rut 	4 	2 	1 	14 	1 	said 	VBD
+Rut 	4 	2 	1 	15 	0 	,
+Rut 	4 	2 	1 	16 	1 	Sit 	NN
+Rut 	4 	2 	1 	17 	1 	ye 	NN
+Rut 	4 	2 	1 	18 	1 	down 	RB
+Rut 	4 	2 	1 	19 	1 	here 	RB
+Rut 	4 	2 	1 	20 	0 	.
+Rut 	4 	2 	2 	1 	1 	And 	CC
+Rut 	4 	2 	2 	2 	1 	they 	PRP
+Rut 	4 	2 	2 	3 	1 	sat 	NN
+Rut 	4 	2 	2 	4 	1 	down 	RB
+Rut 	4 	2 	2 	5 	0 	.
+Rut 	4 	3 	1 	1 	1 	And 	CC
+Rut 	4 	3 	1 	2 	1 	he 	PRP
+Rut 	4 	3 	1 	3 	1 	said 	VBD
+Rut 	4 	3 	1 	4 	1 	unto 	NN
+Rut 	4 	3 	1 	5 	1 	the 	DT
+Rut 	4 	3 	1 	6 	1 	kinsman 	NN
+Rut 	4 	3 	1 	7 	0 	,
+Rut 	4 	3 	1 	8 	1 	Naomi 	NN
+Rut 	4 	3 	1 	9 	0 	,
+Rut 	4 	3 	1 	10 	1 	that 	IN
+Rut 	4 	3 	1 	11 	1 	is 	VBZ
+Rut 	4 	3 	1 	12 	1 	come 	VB
+Rut 	4 	3 	1 	13 	1 	again 	RB
+Rut 	4 	3 	1 	14 	1 	out 	IN
+Rut 	4 	3 	1 	15 	1 	of 	IN
+Rut 	4 	3 	1 	16 	1 	the 	DT
+Rut 	4 	3 	1 	17 	1 	country 	NN
+Rut 	4 	3 	1 	18 	1 	of 	IN
+Rut 	4 	3 	1 	19 	1 	Moab 	NN
+Rut 	4 	3 	1 	20 	0 	,
+Rut 	4 	3 	1 	21 	1 	selleth 	NN
+Rut 	4 	3 	1 	22 	1 	a 	DT
+Rut 	4 	3 	1 	23 	1 	parcel 	NN
+Rut 	4 	3 	1 	24 	1 	of 	IN
+Rut 	4 	3 	1 	25 	1 	land 	NN
+Rut 	4 	3 	1 	26 	0 	,
+Rut 	4 	3 	1 	27 	1 	which 	WDT
+Rut 	4 	3 	1 	28 	1 	was 	VBD
+Rut 	4 	3 	1 	29 	1 	our 	PRP$
+Rut 	4 	3 	1 	30 	1 	brother 	NN
+Rut 	4 	3 	1 	31 	1 	Elimelech 	NN
+Rut 	4 	3 	1 	32 	0 	's
+Rut 	4 	3 	1 	33 	0 	:
+Rut 	4 	4 	1 	1 	1 	And 	CC
+Rut 	4 	4 	1 	2 	1 	I 	PRP
+Rut 	4 	4 	1 	3 	1 	thought 	NN
+Rut 	4 	4 	1 	4 	1 	to 	TO
+Rut 	4 	4 	1 	5 	1 	advertise 	NN
+Rut 	4 	4 	1 	6 	1 	thee 	NN
+Rut 	4 	4 	1 	7 	0 	,
+Rut 	4 	4 	1 	8 	1 	saying 	VBG
+Rut 	4 	4 	1 	9 	0 	,
+Rut 	4 	4 	1 	10 	1 	Buy 	VB
+Rut 	4 	4 	1 	11 	1 	it 	PRP
+Rut 	4 	4 	1 	12 	1 	before 	IN
+Rut 	4 	4 	1 	13 	1 	the 	DT
+Rut 	4 	4 	1 	14 	1 	inhabitants 	NNS
+Rut 	4 	4 	1 	15 	0 	,
+Rut 	4 	4 	1 	16 	1 	and 	CC
+Rut 	4 	4 	1 	17 	1 	before 	IN
+Rut 	4 	4 	1 	18 	1 	the 	DT
+Rut 	4 	4 	1 	19 	1 	elders 	NNS
+Rut 	4 	4 	1 	20 	1 	of 	IN
+Rut 	4 	4 	1 	21 	1 	my 	PRP$
+Rut 	4 	4 	1 	22 	1 	people 	NNS
+Rut 	4 	4 	1 	23 	0 	.
+Rut 	4 	4 	2 	1 	1 	If 	IN
+Rut 	4 	4 	2 	2 	1 	thou 	NN
+Rut 	4 	4 	2 	3 	1 	wilt 	NN
+Rut 	4 	4 	2 	4 	1 	redeem 	NN
+Rut 	4 	4 	2 	5 	1 	it 	PRP
+Rut 	4 	4 	2 	6 	0 	,
+Rut 	4 	4 	2 	7 	1 	redeem 	NN
+Rut 	4 	4 	2 	8 	1 	it 	PRP
+Rut 	4 	4 	2 	9 	0 	:
+Rut 	4 	4 	2 	10 	1 	but 	CC
+Rut 	4 	4 	2 	11 	1 	if 	IN
+Rut 	4 	4 	2 	12 	1 	thou 	NN
+Rut 	4 	4 	2 	13 	1 	wilt 	NN
+Rut 	4 	4 	2 	14 	1 	not 	RB
+Rut 	4 	4 	2 	15 	1 	redeem 	NN
+Rut 	4 	4 	2 	16 	1 	it 	PRP
+Rut 	4 	4 	2 	17 	0 	,
+Rut 	4 	4 	2 	18 	1 	then 	RB
+Rut 	4 	4 	2 	19 	1 	tell 	NN
+Rut 	4 	4 	2 	20 	1 	me 	PRP
+Rut 	4 	4 	2 	21 	0 	,
+Rut 	4 	4 	2 	22 	1 	that 	IN
+Rut 	4 	4 	2 	23 	1 	I 	PRP
+Rut 	4 	4 	2 	24 	1 	may 	MD
+Rut 	4 	4 	2 	25 	1 	know 	VB
+Rut 	4 	4 	2 	26 	0 	:
+Rut 	4 	4 	2 	27 	1 	for 	IN
+Rut 	4 	4 	2 	28 	1 	there 	RB
+Rut 	4 	4 	2 	29 	1 	is 	VBZ
+Rut 	4 	4 	2 	30 	1 	none 	NN
+Rut 	4 	4 	2 	31 	1 	to 	TO
+Rut 	4 	4 	2 	32 	1 	redeem 	NN
+Rut 	4 	4 	2 	33 	1 	it 	PRP
+Rut 	4 	4 	2 	34 	1 	beside 	NN
+Rut 	4 	4 	2 	35 	1 	thee 	NN
+Rut 	4 	4 	2 	36 	0 	;
+Rut 	4 	4 	2 	37 	1 	and 	CC
+Rut 	4 	4 	2 	38 	1 	I 	PRP
+Rut 	4 	4 	2 	39 	1 	am 	VBP
+Rut 	4 	4 	2 	40 	1 	after 	IN
+Rut 	4 	4 	2 	41 	1 	thee 	NN
+Rut 	4 	4 	2 	42 	0 	.
+Rut 	4 	4 	3 	1 	1 	And 	CC
+Rut 	4 	4 	3 	2 	1 	he 	PRP
+Rut 	4 	4 	3 	3 	1 	said 	VBD
+Rut 	4 	4 	3 	4 	0 	,
+Rut 	4 	4 	3 	5 	1 	I 	PRP
+Rut 	4 	4 	3 	6 	1 	will 	MD
+Rut 	4 	4 	3 	7 	1 	redeem 	NN
+Rut 	4 	4 	3 	8 	1 	it 	PRP
+Rut 	4 	4 	3 	9 	0 	.
+Rut 	4 	5 	1 	1 	1 	Then 	RB
+Rut 	4 	5 	1 	2 	1 	said 	VBD
+Rut 	4 	5 	1 	3 	1 	Boaz 	NN
+Rut 	4 	5 	1 	4 	0 	,
+Rut 	4 	5 	1 	5 	1 	What 	WP
+Rut 	4 	5 	1 	6 	1 	day 	NN
+Rut 	4 	5 	1 	7 	1 	thou 	NN
+Rut 	4 	5 	1 	8 	1 	buyest 	NN
+Rut 	4 	5 	1 	9 	1 	the 	DT
+Rut 	4 	5 	1 	10 	1 	field 	NN
+Rut 	4 	5 	1 	11 	1 	of 	IN
+Rut 	4 	5 	1 	12 	1 	the 	DT
+Rut 	4 	5 	1 	13 	1 	hand 	NN
+Rut 	4 	5 	1 	14 	1 	of 	IN
+Rut 	4 	5 	1 	15 	1 	Naomi 	NN
+Rut 	4 	5 	1 	16 	0 	,
+Rut 	4 	5 	1 	17 	1 	thou 	NN
+Rut 	4 	5 	1 	18 	1 	must 	MD
+Rut 	4 	5 	1 	19 	1 	buy 	VB
+Rut 	4 	5 	1 	20 	1 	it 	PRP
+Rut 	4 	5 	1 	21 	1 	also 	RB
+Rut 	4 	5 	1 	22 	1 	of 	IN
+Rut 	4 	5 	1 	23 	1 	Ruth 	NN
+Rut 	4 	5 	1 	24 	1 	the 	DT
+Rut 	4 	5 	1 	25 	1 	Moabitess 	NN
+Rut 	4 	5 	1 	26 	0 	,
+Rut 	4 	5 	1 	27 	1 	the 	DT
+Rut 	4 	5 	1 	28 	1 	wife 	NN
+Rut 	4 	5 	1 	29 	1 	of 	IN
+Rut 	4 	5 	1 	30 	1 	the 	DT
+Rut 	4 	5 	1 	31 	1 	dead 	JJ
+Rut 	4 	5 	1 	32 	0 	,
+Rut 	4 	5 	1 	33 	1 	to 	TO
+Rut 	4 	5 	1 	34 	1 	raise 	NN
+Rut 	4 	5 	1 	35 	1 	up 	RB
+Rut 	4 	5 	1 	36 	1 	the 	DT
+Rut 	4 	5 	1 	37 	1 	name 	NN
+Rut 	4 	5 	1 	38 	1 	of 	IN
+Rut 	4 	5 	1 	39 	1 	the 	DT
+Rut 	4 	5 	1 	40 	1 	dead 	JJ
+Rut 	4 	5 	1 	41 	1 	upon 	IN
+Rut 	4 	5 	1 	42 	1 	his 	PRP$
+Rut 	4 	5 	1 	43 	1 	inheritance 	NN
+Rut 	4 	5 	1 	44 	0 	.
+Rut 	4 	6 	1 	1 	1 	And 	CC
+Rut 	4 	6 	1 	2 	1 	the 	DT
+Rut 	4 	6 	1 	3 	1 	kinsman 	NN
+Rut 	4 	6 	1 	4 	1 	said 	VBD
+Rut 	4 	6 	1 	5 	0 	,
+Rut 	4 	6 	1 	6 	1 	I 	PRP
+Rut 	4 	6 	1 	7 	1 	can 	MD
+Rut 	4 	6 	1 	8 	1 	not 	RB
+Rut 	4 	6 	1 	9 	1 	redeem 	NN
+Rut 	4 	6 	1 	10 	1 	it 	PRP
+Rut 	4 	6 	1 	11 	1 	for 	IN
+Rut 	4 	6 	1 	12 	1 	myself 	PRP
+Rut 	4 	6 	1 	13 	0 	,
+Rut 	4 	6 	1 	14 	1 	lest 	JJS
+Rut 	4 	6 	1 	15 	1 	I 	PRP
+Rut 	4 	6 	1 	16 	1 	mar 	NN
+Rut 	4 	6 	1 	17 	1 	mine 	NN
+Rut 	4 	6 	1 	18 	1 	own 	JJ
+Rut 	4 	6 	1 	19 	1 	inheritance 	NN
+Rut 	4 	6 	1 	20 	0 	:
+Rut 	4 	6 	1 	21 	1 	redeem 	NN
+Rut 	4 	6 	1 	22 	1 	thou 	NN
+Rut 	4 	6 	1 	23 	1 	my 	PRP$
+Rut 	4 	6 	1 	24 	1 	right 	NN
+Rut 	4 	6 	1 	25 	1 	to 	TO
+Rut 	4 	6 	1 	26 	1 	thyself 	NN
+Rut 	4 	6 	1 	27 	0 	;
+Rut 	4 	6 	1 	28 	1 	for 	IN
+Rut 	4 	6 	1 	29 	1 	I 	PRP
+Rut 	4 	6 	1 	30 	1 	can 	MD
+Rut 	4 	6 	1 	31 	1 	not 	RB
+Rut 	4 	6 	1 	32 	1 	redeem 	NN
+Rut 	4 	6 	1 	33 	1 	it 	PRP
+Rut 	4 	6 	1 	34 	0 	.
+Rut 	4 	7 	1 	1 	1 	Now 	RB
+Rut 	4 	7 	1 	2 	1 	this 	DT
+Rut 	4 	7 	1 	3 	1 	was 	VBD
+Rut 	4 	7 	1 	4 	1 	the 	DT
+Rut 	4 	7 	1 	5 	1 	manner 	NN
+Rut 	4 	7 	1 	6 	1 	in 	IN
+Rut 	4 	7 	1 	7 	1 	former 	JJ
+Rut 	4 	7 	1 	8 	1 	time 	NN
+Rut 	4 	7 	1 	9 	1 	in 	IN
+Rut 	4 	7 	1 	10 	1 	Israel 	NNP
+Rut 	4 	7 	1 	11 	1 	concerning 	VBG
+Rut 	4 	7 	1 	12 	1 	redeeming 	VBG
+Rut 	4 	7 	1 	13 	1 	and 	CC
+Rut 	4 	7 	1 	14 	1 	concerning 	VBG
+Rut 	4 	7 	1 	15 	1 	changing 	VBG
+Rut 	4 	7 	1 	16 	0 	,
+Rut 	4 	7 	1 	17 	1 	for 	IN
+Rut 	4 	7 	1 	18 	1 	to 	TO
+Rut 	4 	7 	1 	19 	1 	confirm 	NN
+Rut 	4 	7 	1 	20 	1 	all 	DT
+Rut 	4 	7 	1 	21 	1 	things 	NNS
+Rut 	4 	7 	1 	22 	0 	;
+Rut 	4 	7 	1 	23 	1 	a 	DT
+Rut 	4 	7 	1 	24 	1 	man 	NN
+Rut 	4 	7 	1 	25 	1 	plucked 	NNS
+Rut 	4 	7 	1 	26 	1 	off 	IN
+Rut 	4 	7 	1 	27 	1 	his 	PRP$
+Rut 	4 	7 	1 	28 	1 	shoe 	NN
+Rut 	4 	7 	1 	29 	0 	,
+Rut 	4 	7 	1 	30 	1 	and 	CC
+Rut 	4 	7 	1 	31 	1 	gave 	VBD
+Rut 	4 	7 	1 	32 	1 	it 	PRP
+Rut 	4 	7 	1 	33 	1 	to 	TO
+Rut 	4 	7 	1 	34 	1 	his 	PRP$
+Rut 	4 	7 	1 	35 	1 	neighbour 	NN
+Rut 	4 	7 	1 	36 	0 	:
+Rut 	4 	7 	1 	37 	1 	and 	CC
+Rut 	4 	7 	1 	38 	1 	this 	DT
+Rut 	4 	7 	1 	39 	1 	was 	VBD
+Rut 	4 	7 	1 	40 	1 	a 	DT
+Rut 	4 	7 	1 	41 	1 	testimony 	NN
+Rut 	4 	7 	1 	42 	1 	in 	IN
+Rut 	4 	7 	1 	43 	1 	Israel 	NNP
+Rut 	4 	7 	1 	44 	0 	.
+Rut 	4 	8 	1 	1 	1 	Therefore 	RB
+Rut 	4 	8 	1 	2 	1 	the 	DT
+Rut 	4 	8 	1 	3 	1 	kinsman 	NN
+Rut 	4 	8 	1 	4 	1 	said 	VBD
+Rut 	4 	8 	1 	5 	1 	unto 	NN
+Rut 	4 	8 	1 	6 	1 	Boaz 	NN
+Rut 	4 	8 	1 	7 	0 	,
+Rut 	4 	8 	1 	8 	1 	Buy 	VB
+Rut 	4 	8 	1 	9 	1 	it 	PRP
+Rut 	4 	8 	1 	10 	1 	for 	IN
+Rut 	4 	8 	1 	11 	1 	thee 	NN
+Rut 	4 	8 	1 	12 	0 	.
+Rut 	4 	8 	2 	1 	1 	So 	RB
+Rut 	4 	8 	2 	2 	1 	he 	PRP
+Rut 	4 	8 	2 	3 	1 	drew 	NN
+Rut 	4 	8 	2 	4 	1 	off 	IN
+Rut 	4 	8 	2 	5 	1 	his 	PRP$
+Rut 	4 	8 	2 	6 	1 	shoe 	NN
+Rut 	4 	8 	2 	7 	0 	.
+Rut 	4 	9 	1 	1 	1 	And 	CC
+Rut 	4 	9 	1 	2 	1 	Boaz 	NN
+Rut 	4 	9 	1 	3 	1 	said 	VBD
+Rut 	4 	9 	1 	4 	1 	unto 	NN
+Rut 	4 	9 	1 	5 	1 	the 	DT
+Rut 	4 	9 	1 	6 	1 	elders 	NNS
+Rut 	4 	9 	1 	7 	0 	,
+Rut 	4 	9 	1 	8 	1 	and 	CC
+Rut 	4 	9 	1 	9 	1 	unto 	NN
+Rut 	4 	9 	1 	10 	1 	all 	DT
+Rut 	4 	9 	1 	11 	1 	the 	DT
+Rut 	4 	9 	1 	12 	1 	people 	NNS
+Rut 	4 	9 	1 	13 	0 	,
+Rut 	4 	9 	1 	14 	1 	Ye 	NN
+Rut 	4 	9 	1 	15 	1 	are 	VBP
+Rut 	4 	9 	1 	16 	1 	witnesses 	NNS
+Rut 	4 	9 	1 	17 	1 	this 	DT
+Rut 	4 	9 	1 	18 	1 	day 	NN
+Rut 	4 	9 	1 	19 	0 	,
+Rut 	4 	9 	1 	20 	1 	that 	IN
+Rut 	4 	9 	1 	21 	1 	I 	PRP
+Rut 	4 	9 	1 	22 	1 	have 	VB
+Rut 	4 	9 	1 	23 	1 	bought 	NN
+Rut 	4 	9 	1 	24 	1 	all 	DT
+Rut 	4 	9 	1 	25 	1 	that 	IN
+Rut 	4 	9 	1 	26 	1 	was 	VBD
+Rut 	4 	9 	1 	27 	1 	Elimelech 	NN
+Rut 	4 	9 	1 	28 	0 	's
+Rut 	4 	9 	1 	29 	0 	,
+Rut 	4 	9 	1 	30 	1 	and 	CC
+Rut 	4 	9 	1 	31 	1 	all 	DT
+Rut 	4 	9 	1 	32 	1 	that 	IN
+Rut 	4 	9 	1 	33 	1 	was 	VBD
+Rut 	4 	9 	1 	34 	1 	Chilion 	NN
+Rut 	4 	9 	1 	35 	0 	's
+Rut 	4 	9 	1 	36 	1 	and 	CC
+Rut 	4 	9 	1 	37 	1 	Mahlon 	NN
+Rut 	4 	9 	1 	38 	0 	's
+Rut 	4 	9 	1 	39 	0 	,
+Rut 	4 	9 	1 	40 	1 	of 	IN
+Rut 	4 	9 	1 	41 	1 	the 	DT
+Rut 	4 	9 	1 	42 	1 	hand 	NN
+Rut 	4 	9 	1 	43 	1 	of 	IN
+Rut 	4 	9 	1 	44 	1 	Naomi 	NN
+Rut 	4 	9 	1 	45 	0 	.
+Rut 	4 	10 	1 	1 	1 	Moreover 	RB
+Rut 	4 	10 	1 	2 	1 	Ruth 	NN
+Rut 	4 	10 	1 	3 	1 	the 	DT
+Rut 	4 	10 	1 	4 	1 	Moabitess 	NN
+Rut 	4 	10 	1 	5 	0 	,
+Rut 	4 	10 	1 	6 	1 	the 	DT
+Rut 	4 	10 	1 	7 	1 	wife 	NN
+Rut 	4 	10 	1 	8 	1 	of 	IN
+Rut 	4 	10 	1 	9 	1 	Mahlon 	NN
+Rut 	4 	10 	1 	10 	0 	,
+Rut 	4 	10 	1 	11 	1 	have 	VB
+Rut 	4 	10 	1 	12 	1 	I 	PRP
+Rut 	4 	10 	1 	13 	1 	purchased 	VBN
+Rut 	4 	10 	1 	14 	1 	to 	TO
+Rut 	4 	10 	1 	15 	1 	be 	VB
+Rut 	4 	10 	1 	16 	1 	my 	PRP$
+Rut 	4 	10 	1 	17 	1 	wife 	NN
+Rut 	4 	10 	1 	18 	0 	,
+Rut 	4 	10 	1 	19 	1 	to 	TO
+Rut 	4 	10 	1 	20 	1 	raise 	NN
+Rut 	4 	10 	1 	21 	1 	up 	RB
+Rut 	4 	10 	1 	22 	1 	the 	DT
+Rut 	4 	10 	1 	23 	1 	name 	NN
+Rut 	4 	10 	1 	24 	1 	of 	IN
+Rut 	4 	10 	1 	25 	1 	the 	DT
+Rut 	4 	10 	1 	26 	1 	dead 	JJ
+Rut 	4 	10 	1 	27 	1 	upon 	IN
+Rut 	4 	10 	1 	28 	1 	his 	PRP$
+Rut 	4 	10 	1 	29 	1 	inheritance 	NN
+Rut 	4 	10 	1 	30 	0 	,
+Rut 	4 	10 	1 	31 	1 	that 	IN
+Rut 	4 	10 	1 	32 	1 	the 	DT
+Rut 	4 	10 	1 	33 	1 	name 	NN
+Rut 	4 	10 	1 	34 	1 	of 	IN
+Rut 	4 	10 	1 	35 	1 	the 	DT
+Rut 	4 	10 	1 	36 	1 	dead 	JJ
+Rut 	4 	10 	1 	37 	1 	be 	VB
+Rut 	4 	10 	1 	38 	1 	not 	RB
+Rut 	4 	10 	1 	39 	1 	cut 	NN
+Rut 	4 	10 	1 	40 	1 	off 	IN
+Rut 	4 	10 	1 	41 	1 	from 	IN
+Rut 	4 	10 	1 	42 	1 	among 	IN
+Rut 	4 	10 	1 	43 	1 	his 	PRP$
+Rut 	4 	10 	1 	44 	1 	brethren 	NNS
+Rut 	4 	10 	1 	45 	0 	,
+Rut 	4 	10 	1 	46 	1 	and 	CC
+Rut 	4 	10 	1 	47 	1 	from 	IN
+Rut 	4 	10 	1 	48 	1 	the 	DT
+Rut 	4 	10 	1 	49 	1 	gate 	NN
+Rut 	4 	10 	1 	50 	1 	of 	IN
+Rut 	4 	10 	1 	51 	1 	his 	PRP$
+Rut 	4 	10 	1 	52 	1 	place 	NN
+Rut 	4 	10 	1 	53 	0 	:
+Rut 	4 	10 	1 	54 	1 	ye 	NN
+Rut 	4 	10 	1 	55 	1 	are 	VBP
+Rut 	4 	10 	1 	56 	1 	witnesses 	NNS
+Rut 	4 	10 	1 	57 	1 	this 	DT
+Rut 	4 	10 	1 	58 	1 	day 	NN
+Rut 	4 	10 	1 	59 	0 	.
+Rut 	4 	11 	1 	1 	1 	And 	CC
+Rut 	4 	11 	1 	2 	1 	all 	DT
+Rut 	4 	11 	1 	3 	1 	the 	DT
+Rut 	4 	11 	1 	4 	1 	people 	NNS
+Rut 	4 	11 	1 	5 	1 	that 	IN
+Rut 	4 	11 	1 	6 	1 	were 	VBD
+Rut 	4 	11 	1 	7 	1 	in 	IN
+Rut 	4 	11 	1 	8 	1 	the 	DT
+Rut 	4 	11 	1 	9 	1 	gate 	NN
+Rut 	4 	11 	1 	10 	0 	,
+Rut 	4 	11 	1 	11 	1 	and 	CC
+Rut 	4 	11 	1 	12 	1 	the 	DT
+Rut 	4 	11 	1 	13 	1 	elders 	NNS
+Rut 	4 	11 	1 	14 	0 	,
+Rut 	4 	11 	1 	15 	1 	said 	VBD
+Rut 	4 	11 	1 	16 	0 	,
+Rut 	4 	11 	1 	17 	1 	We 	PRP
+Rut 	4 	11 	1 	18 	1 	are 	VBP
+Rut 	4 	11 	1 	19 	1 	witnesses 	NNS
+Rut 	4 	11 	1 	20 	0 	.
+Rut 	4 	11 	2 	1 	1 	The 	DT
+Rut 	4 	11 	2 	2 	1 	LORD 	NN
+Rut 	4 	11 	2 	3 	1 	make 	VB
+Rut 	4 	11 	2 	4 	1 	the 	DT
+Rut 	4 	11 	2 	5 	1 	woman 	NN
+Rut 	4 	11 	2 	6 	1 	that 	IN
+Rut 	4 	11 	2 	7 	1 	is 	VBZ
+Rut 	4 	11 	2 	8 	1 	come 	VB
+Rut 	4 	11 	2 	9 	1 	into 	IN
+Rut 	4 	11 	2 	10 	1 	thine 	NN
+Rut 	4 	11 	2 	11 	1 	house 	NN
+Rut 	4 	11 	2 	12 	1 	like 	IN
+Rut 	4 	11 	2 	13 	1 	Rachel 	NN
+Rut 	4 	11 	2 	14 	1 	and 	CC
+Rut 	4 	11 	2 	15 	1 	like 	IN
+Rut 	4 	11 	2 	16 	1 	Leah 	NN
+Rut 	4 	11 	2 	17 	0 	,
+Rut 	4 	11 	2 	18 	1 	which 	WDT
+Rut 	4 	11 	2 	19 	1 	two 	CD
+Rut 	4 	11 	2 	20 	1 	did 	VBD
+Rut 	4 	11 	2 	21 	1 	build 	NN
+Rut 	4 	11 	2 	22 	1 	the 	DT
+Rut 	4 	11 	2 	23 	1 	house 	NN
+Rut 	4 	11 	2 	24 	1 	of 	IN
+Rut 	4 	11 	2 	25 	1 	Israel 	NNP
+Rut 	4 	11 	2 	26 	0 	:
+Rut 	4 	11 	2 	27 	1 	and 	CC
+Rut 	4 	11 	2 	28 	1 	do 	VB
+Rut 	4 	11 	2 	29 	1 	thou 	NN
+Rut 	4 	11 	2 	30 	1 	worthily 	RB
+Rut 	4 	11 	2 	31 	1 	in 	IN
+Rut 	4 	11 	2 	32 	1 	Ephratah 	NN
+Rut 	4 	11 	2 	33 	0 	,
+Rut 	4 	11 	2 	34 	1 	and 	CC
+Rut 	4 	11 	2 	35 	1 	be 	VB
+Rut 	4 	11 	2 	36 	1 	famous 	JJ
+Rut 	4 	11 	2 	37 	1 	in 	IN
+Rut 	4 	11 	2 	38 	1 	Bethlehem 	NNP
+Rut 	4 	11 	2 	39 	0 	:
+Rut 	4 	12 	1 	1 	1 	And 	CC
+Rut 	4 	12 	1 	2 	1 	let 	VB
+Rut 	4 	12 	1 	3 	1 	thy 	NN
+Rut 	4 	12 	1 	4 	1 	house 	NN
+Rut 	4 	12 	1 	5 	1 	be 	VB
+Rut 	4 	12 	1 	6 	1 	like 	IN
+Rut 	4 	12 	1 	7 	1 	the 	DT
+Rut 	4 	12 	1 	8 	1 	house 	NN
+Rut 	4 	12 	1 	9 	1 	of 	IN
+Rut 	4 	12 	1 	10 	1 	Pharez 	NN
+Rut 	4 	12 	1 	11 	0 	,
+Rut 	4 	12 	1 	12 	1 	whom 	WP
+Rut 	4 	12 	1 	13 	1 	Tamar 	NN
+Rut 	4 	12 	1 	14 	1 	bare 	NN
+Rut 	4 	12 	1 	15 	1 	unto 	NN
+Rut 	4 	12 	1 	16 	1 	Judah 	NN
+Rut 	4 	12 	1 	17 	0 	,
+Rut 	4 	12 	1 	18 	1 	of 	IN
+Rut 	4 	12 	1 	19 	1 	the 	DT
+Rut 	4 	12 	1 	20 	1 	seed 	NN
+Rut 	4 	12 	1 	21 	1 	which 	WDT
+Rut 	4 	12 	1 	22 	1 	the 	DT
+Rut 	4 	12 	1 	23 	1 	LORD 	NN
+Rut 	4 	12 	1 	24 	1 	shall 	MD
+Rut 	4 	12 	1 	25 	1 	give 	VB
+Rut 	4 	12 	1 	26 	1 	thee 	NN
+Rut 	4 	12 	1 	27 	1 	of 	IN
+Rut 	4 	12 	1 	28 	1 	this 	DT
+Rut 	4 	12 	1 	29 	1 	young 	JJ
+Rut 	4 	12 	1 	30 	1 	woman 	NN
+Rut 	4 	12 	1 	31 	0 	.
+Rut 	4 	13 	1 	1 	1 	So 	RB
+Rut 	4 	13 	1 	2 	1 	Boaz 	NN
+Rut 	4 	13 	1 	3 	1 	took 	VBD
+Rut 	4 	13 	1 	4 	1 	Ruth 	NN
+Rut 	4 	13 	1 	5 	0 	,
+Rut 	4 	13 	1 	6 	1 	and 	CC
+Rut 	4 	13 	1 	7 	1 	she 	PRP
+Rut 	4 	13 	1 	8 	1 	was 	VBD
+Rut 	4 	13 	1 	9 	1 	his 	PRP$
+Rut 	4 	13 	1 	10 	1 	wife 	NN
+Rut 	4 	13 	1 	11 	0 	:
+Rut 	4 	13 	1 	12 	1 	and 	CC
+Rut 	4 	13 	1 	13 	1 	when 	WRB
+Rut 	4 	13 	1 	14 	1 	he 	PRP
+Rut 	4 	13 	1 	15 	1 	went 	VBD
+Rut 	4 	13 	1 	16 	1 	in 	IN
+Rut 	4 	13 	1 	17 	1 	unto 	NN
+Rut 	4 	13 	1 	18 	1 	her 	PRP$
+Rut 	4 	13 	1 	19 	0 	,
+Rut 	4 	13 	1 	20 	1 	the 	DT
+Rut 	4 	13 	1 	21 	1 	LORD 	NN
+Rut 	4 	13 	1 	22 	1 	gave 	VBD
+Rut 	4 	13 	1 	23 	1 	her 	PRP$
+Rut 	4 	13 	1 	24 	1 	conception 	NN
+Rut 	4 	13 	1 	25 	0 	,
+Rut 	4 	13 	1 	26 	1 	and 	CC
+Rut 	4 	13 	1 	27 	1 	she 	PRP
+Rut 	4 	13 	1 	28 	1 	bare 	NN
+Rut 	4 	13 	1 	29 	1 	a 	DT
+Rut 	4 	13 	1 	30 	1 	son 	NN
+Rut 	4 	13 	1 	31 	0 	.
+Rut 	4 	14 	1 	1 	1 	And 	CC
+Rut 	4 	14 	1 	2 	1 	the 	DT
+Rut 	4 	14 	1 	3 	1 	women 	NNS
+Rut 	4 	14 	1 	4 	1 	said 	VBD
+Rut 	4 	14 	1 	5 	1 	unto 	NN
+Rut 	4 	14 	1 	6 	1 	Naomi 	NN
+Rut 	4 	14 	1 	7 	0 	,
+Rut 	4 	14 	1 	8 	1 	Blessed 	VBN
+Rut 	4 	14 	1 	9 	1 	be 	VB
+Rut 	4 	14 	1 	10 	1 	the 	DT
+Rut 	4 	14 	1 	11 	1 	LORD 	NN
+Rut 	4 	14 	1 	12 	0 	,
+Rut 	4 	14 	1 	13 	1 	which 	WDT
+Rut 	4 	14 	1 	14 	1 	hath 	NN
+Rut 	4 	14 	1 	15 	1 	not 	RB
+Rut 	4 	14 	1 	16 	1 	left 	NN
+Rut 	4 	14 	1 	17 	1 	thee 	NN
+Rut 	4 	14 	1 	18 	1 	this 	DT
+Rut 	4 	14 	1 	19 	1 	day 	NN
+Rut 	4 	14 	1 	20 	1 	without 	IN
+Rut 	4 	14 	1 	21 	1 	a 	DT
+Rut 	4 	14 	1 	22 	1 	kinsman 	NN
+Rut 	4 	14 	1 	23 	0 	,
+Rut 	4 	14 	1 	24 	1 	that 	IN
+Rut 	4 	14 	1 	25 	1 	his 	PRP$
+Rut 	4 	14 	1 	26 	1 	name 	NN
+Rut 	4 	14 	1 	27 	1 	may 	MD
+Rut 	4 	14 	1 	28 	1 	be 	VB
+Rut 	4 	14 	1 	29 	1 	famous 	JJ
+Rut 	4 	14 	1 	30 	1 	in 	IN
+Rut 	4 	14 	1 	31 	1 	Israel 	NNP
+Rut 	4 	14 	1 	32 	0 	.
+Rut 	4 	15 	1 	1 	1 	And 	CC
+Rut 	4 	15 	1 	2 	1 	he 	PRP
+Rut 	4 	15 	1 	3 	1 	shall 	MD
+Rut 	4 	15 	1 	4 	1 	be 	VB
+Rut 	4 	15 	1 	5 	1 	unto 	NN
+Rut 	4 	15 	1 	6 	1 	thee 	NN
+Rut 	4 	15 	1 	7 	1 	a 	DT
+Rut 	4 	15 	1 	8 	1 	restorer 	NN
+Rut 	4 	15 	1 	9 	1 	of 	IN
+Rut 	4 	15 	1 	10 	1 	thy 	NN
+Rut 	4 	15 	1 	11 	1 	life 	NN
+Rut 	4 	15 	1 	12 	0 	,
+Rut 	4 	15 	1 	13 	1 	and 	CC
+Rut 	4 	15 	1 	14 	1 	a 	DT
+Rut 	4 	15 	1 	15 	1 	nourisher 	RB
+Rut 	4 	15 	1 	16 	1 	of 	IN
+Rut 	4 	15 	1 	17 	1 	thine 	NN
+Rut 	4 	15 	1 	18 	1 	old 	JJ
+Rut 	4 	15 	1 	19 	1 	age 	NN
+Rut 	4 	15 	1 	20 	0 	:
+Rut 	4 	15 	1 	21 	1 	for 	IN
+Rut 	4 	15 	1 	22 	1 	thy 	NN
+Rut 	4 	15 	1 	23 	1 	daughter 	NN
+Rut 	4 	15 	1 	24 	1 	in 	IN
+Rut 	4 	15 	1 	25 	1 	law 	NN
+Rut 	4 	15 	1 	26 	0 	,
+Rut 	4 	15 	1 	27 	1 	which 	WDT
+Rut 	4 	15 	1 	28 	1 	loveth 	NN
+Rut 	4 	15 	1 	29 	1 	thee 	NN
+Rut 	4 	15 	1 	30 	0 	,
+Rut 	4 	15 	1 	31 	1 	which 	WDT
+Rut 	4 	15 	1 	32 	1 	is 	VBZ
+Rut 	4 	15 	1 	33 	1 	better 	RBR
+Rut 	4 	15 	1 	34 	1 	to 	TO
+Rut 	4 	15 	1 	35 	1 	thee 	NN
+Rut 	4 	15 	1 	36 	1 	than 	IN
+Rut 	4 	15 	1 	37 	1 	seven 	CD
+Rut 	4 	15 	1 	38 	1 	sons 	NNS
+Rut 	4 	15 	1 	39 	0 	,
+Rut 	4 	15 	1 	40 	1 	hath 	NN
+Rut 	4 	15 	1 	41 	1 	born 	NN
+Rut 	4 	15 	1 	42 	1 	him 	PRP
+Rut 	4 	15 	1 	43 	0 	.
+Rut 	4 	16 	1 	1 	1 	And 	CC
+Rut 	4 	16 	1 	2 	1 	Naomi 	NN
+Rut 	4 	16 	1 	3 	1 	took 	VBD
+Rut 	4 	16 	1 	4 	1 	the 	DT
+Rut 	4 	16 	1 	5 	1 	child 	NN
+Rut 	4 	16 	1 	6 	0 	,
+Rut 	4 	16 	1 	7 	1 	and 	CC
+Rut 	4 	16 	1 	8 	1 	laid 	NN
+Rut 	4 	16 	1 	9 	1 	it 	PRP
+Rut 	4 	16 	1 	10 	1 	in 	IN
+Rut 	4 	16 	1 	11 	1 	her 	PRP$
+Rut 	4 	16 	1 	12 	1 	bosom 	NN
+Rut 	4 	16 	1 	13 	0 	,
+Rut 	4 	16 	1 	14 	1 	and 	CC
+Rut 	4 	16 	1 	15 	1 	became 	VBD
+Rut 	4 	16 	1 	16 	1 	nurse 	NN
+Rut 	4 	16 	1 	17 	1 	unto 	NN
+Rut 	4 	16 	1 	18 	1 	it 	PRP
+Rut 	4 	16 	1 	19 	0 	.
+Rut 	4 	17 	1 	1 	1 	And 	CC
+Rut 	4 	17 	1 	2 	1 	the 	DT
+Rut 	4 	17 	1 	3 	1 	women 	NNS
+Rut 	4 	17 	1 	4 	1 	her 	PRP$
+Rut 	4 	17 	1 	5 	1 	neighbours 	NNS
+Rut 	4 	17 	1 	6 	1 	gave 	VBD
+Rut 	4 	17 	1 	7 	1 	it 	PRP
+Rut 	4 	17 	1 	8 	1 	a 	DT
+Rut 	4 	17 	1 	9 	1 	name 	NN
+Rut 	4 	17 	1 	10 	0 	,
+Rut 	4 	17 	1 	11 	1 	saying 	VBG
+Rut 	4 	17 	1 	12 	0 	,
+Rut 	4 	17 	1 	13 	1 	There 	EX
+Rut 	4 	17 	1 	14 	1 	is 	VBZ
+Rut 	4 	17 	1 	15 	1 	a 	DT
+Rut 	4 	17 	1 	16 	1 	son 	NN
+Rut 	4 	17 	1 	17 	1 	born 	NN
+Rut 	4 	17 	1 	18 	1 	to 	TO
+Rut 	4 	17 	1 	19 	1 	Naomi 	NN
+Rut 	4 	17 	1 	20 	0 	;
+Rut 	4 	17 	1 	21 	1 	and 	CC
+Rut 	4 	17 	1 	22 	1 	they 	PRP
+Rut 	4 	17 	1 	23 	1 	called 	VBN
+Rut 	4 	17 	1 	24 	1 	his 	PRP$
+Rut 	4 	17 	1 	25 	1 	name 	NN
+Rut 	4 	17 	1 	26 	1 	Obed 	VBN
+Rut 	4 	17 	1 	27 	0 	:
+Rut 	4 	17 	1 	28 	1 	he 	PRP
+Rut 	4 	17 	1 	29 	1 	is 	VBZ
+Rut 	4 	17 	1 	30 	1 	the 	DT
+Rut 	4 	17 	1 	31 	1 	father 	NN
+Rut 	4 	17 	1 	32 	1 	of 	IN
+Rut 	4 	17 	1 	33 	1 	Jesse 	NN
+Rut 	4 	17 	1 	34 	0 	,
+Rut 	4 	17 	1 	35 	1 	the 	DT
+Rut 	4 	17 	1 	36 	1 	father 	NN
+Rut 	4 	17 	1 	37 	1 	of 	IN
+Rut 	4 	17 	1 	38 	1 	David 	NNP
+Rut 	4 	17 	1 	39 	0 	.
+Rut 	4 	18 	1 	1 	1 	Now 	RB
+Rut 	4 	18 	1 	2 	1 	these 	DT
+Rut 	4 	18 	1 	3 	1 	are 	VBP
+Rut 	4 	18 	1 	4 	1 	the 	DT
+Rut 	4 	18 	1 	5 	1 	generations 	NNS
+Rut 	4 	18 	1 	6 	1 	of 	IN
+Rut 	4 	18 	1 	7 	1 	Pharez 	NN
+Rut 	4 	18 	1 	8 	0 	:
+Rut 	4 	18 	1 	9 	1 	Pharez 	NN
+Rut 	4 	18 	1 	10 	1 	begat 	NN
+Rut 	4 	18 	1 	11 	1 	Hezron 	NNP
+Rut 	4 	18 	1 	12 	0 	,
+Rut 	4 	19 	1 	1 	1 	And 	CC
+Rut 	4 	19 	1 	2 	1 	Hezron 	NNP
+Rut 	4 	19 	1 	3 	1 	begat 	NN
+Rut 	4 	19 	1 	4 	1 	Ram 	NN
+Rut 	4 	19 	1 	5 	0 	,
+Rut 	4 	19 	1 	6 	1 	and 	CC
+Rut 	4 	19 	1 	7 	1 	Ram 	NN
+Rut 	4 	19 	1 	8 	1 	begat 	NN
+Rut 	4 	19 	1 	9 	1 	Amminadab 	NN
+Rut 	4 	19 	1 	10 	0 	,
+Rut 	4 	20 	1 	1 	1 	And 	CC
+Rut 	4 	20 	1 	2 	1 	Amminadab 	NN
+Rut 	4 	20 	1 	3 	1 	begat 	NN
+Rut 	4 	20 	1 	4 	1 	Nahshon 	NN
+Rut 	4 	20 	1 	5 	0 	,
+Rut 	4 	20 	1 	6 	1 	and 	CC
+Rut 	4 	20 	1 	7 	1 	Nahshon 	NN
+Rut 	4 	20 	1 	8 	1 	begat 	NN
+Rut 	4 	20 	1 	9 	1 	Salmon 	NN
+Rut 	4 	20 	1 	10 	0 	,
+Rut 	4 	21 	1 	1 	1 	And 	CC
+Rut 	4 	21 	1 	2 	1 	Salmon 	NN
+Rut 	4 	21 	1 	3 	1 	begat 	NN
+Rut 	4 	21 	1 	4 	1 	Boaz 	NN
+Rut 	4 	21 	1 	5 	0 	,
+Rut 	4 	21 	1 	6 	1 	and 	CC
+Rut 	4 	21 	1 	7 	1 	Boaz 	NN
+Rut 	4 	21 	1 	8 	1 	begat 	NN
+Rut 	4 	21 	1 	9 	1 	Obed 	VBN
+Rut 	4 	21 	1 	10 	0 	,
+Rut 	4 	22 	1 	1 	1 	And 	CC
+Rut 	4 	22 	1 	2 	1 	Obed 	VBN
+Rut 	4 	22 	1 	3 	1 	begat 	NN
+Rut 	4 	22 	1 	4 	1 	Jesse 	NN
+Rut 	4 	22 	1 	5 	0 	,
+Rut 	4 	22 	1 	6 	1 	and 	CC
+Rut 	4 	22 	1 	7 	1 	Jesse 	NN
+Rut 	4 	22 	1 	8 	1 	begat 	NN
+Rut 	4 	22 	1 	9 	1 	David 	NNP
+Rut 	4 	22 	1 	10 	0 	.

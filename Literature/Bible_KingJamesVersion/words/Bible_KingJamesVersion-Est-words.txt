@@ -1,0 +1,6492 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Est 	1 	1 	1 	1 	1 	Now 	RB
+Est 	1 	1 	1 	2 	1 	it 	PRP
+Est 	1 	1 	1 	3 	1 	came 	VBD
+Est 	1 	1 	1 	4 	1 	to 	TO
+Est 	1 	1 	1 	5 	1 	pass 	NN
+Est 	1 	1 	1 	6 	1 	in 	IN
+Est 	1 	1 	1 	7 	1 	the 	DT
+Est 	1 	1 	1 	8 	1 	days 	NNS
+Est 	1 	1 	1 	9 	1 	of 	IN
+Est 	1 	1 	1 	10 	1 	Ahasuerus 	NN
+Est 	1 	1 	1 	11 	0 	,
+Est 	1 	1 	1 	12 	0 	(
+Est 	1 	1 	1 	13 	1 	this 	DT
+Est 	1 	1 	1 	14 	1 	is 	VBZ
+Est 	1 	1 	1 	15 	1 	Ahasuerus 	NN
+Est 	1 	1 	1 	16 	1 	which 	WDT
+Est 	1 	1 	1 	17 	1 	reigned 	VBN
+Est 	1 	1 	1 	18 	0 	,
+Est 	1 	1 	1 	19 	1 	from 	IN
+Est 	1 	1 	1 	20 	1 	India 	NNP
+Est 	1 	1 	1 	21 	1 	even 	RB
+Est 	1 	1 	1 	22 	1 	unto 	NN
+Est 	1 	1 	1 	23 	1 	Ethiopia 	NN
+Est 	1 	1 	1 	24 	0 	,
+Est 	1 	1 	1 	25 	1 	over 	IN
+Est 	1 	1 	1 	26 	1 	an 	DT
+Est 	1 	1 	1 	27 	1 	hundred 	VBN
+Est 	1 	1 	1 	28 	1 	and 	CC
+Est 	1 	1 	1 	29 	1 	seven 	CD
+Est 	1 	1 	1 	30 	1 	and 	CC
+Est 	1 	1 	1 	31 	1 	twenty 	NN
+Est 	1 	1 	1 	32 	1 	provinces 	NNS
+Est 	1 	1 	1 	33 	0 	:
+Est 	1 	1 	1 	34 	0 	)
+Est 	1 	2 	1 	1 	1 	That 	DT
+Est 	1 	2 	1 	2 	1 	in 	IN
+Est 	1 	2 	1 	3 	1 	those 	DT
+Est 	1 	2 	1 	4 	1 	days 	NNS
+Est 	1 	2 	1 	5 	0 	,
+Est 	1 	2 	1 	6 	1 	when 	WRB
+Est 	1 	2 	1 	7 	1 	the 	DT
+Est 	1 	2 	1 	8 	1 	king 	NN
+Est 	1 	2 	1 	9 	1 	Ahasuerus 	NN
+Est 	1 	2 	1 	10 	1 	sat 	NN
+Est 	1 	2 	1 	11 	1 	on 	IN
+Est 	1 	2 	1 	12 	1 	the 	DT
+Est 	1 	2 	1 	13 	1 	throne 	NN
+Est 	1 	2 	1 	14 	1 	of 	IN
+Est 	1 	2 	1 	15 	1 	his 	PRP$
+Est 	1 	2 	1 	16 	1 	kingdom 	NN
+Est 	1 	2 	1 	17 	0 	,
+Est 	1 	2 	1 	18 	1 	which 	WDT
+Est 	1 	2 	1 	19 	1 	was 	VBD
+Est 	1 	2 	1 	20 	1 	in 	IN
+Est 	1 	2 	1 	21 	1 	Shushan 	NN
+Est 	1 	2 	1 	22 	1 	the 	DT
+Est 	1 	2 	1 	23 	1 	palace 	NN
+Est 	1 	2 	1 	24 	0 	,
+Est 	1 	3 	1 	1 	1 	In 	IN
+Est 	1 	3 	1 	2 	1 	the 	DT
+Est 	1 	3 	1 	3 	1 	third 	JJ
+Est 	1 	3 	1 	4 	1 	year 	NN
+Est 	1 	3 	1 	5 	1 	of 	IN
+Est 	1 	3 	1 	6 	1 	his 	PRP$
+Est 	1 	3 	1 	7 	1 	reign 	NN
+Est 	1 	3 	1 	8 	0 	,
+Est 	1 	3 	1 	9 	1 	he 	PRP
+Est 	1 	3 	1 	10 	1 	made 	VBN
+Est 	1 	3 	1 	11 	1 	a 	DT
+Est 	1 	3 	1 	12 	1 	feast 	NN
+Est 	1 	3 	1 	13 	1 	unto 	NN
+Est 	1 	3 	1 	14 	1 	all 	DT
+Est 	1 	3 	1 	15 	1 	his 	PRP$
+Est 	1 	3 	1 	16 	1 	princes 	NNS
+Est 	1 	3 	1 	17 	1 	and 	CC
+Est 	1 	3 	1 	18 	1 	his 	PRP$
+Est 	1 	3 	1 	19 	1 	servants 	NNS
+Est 	1 	3 	1 	20 	0 	;
+Est 	1 	3 	1 	21 	1 	the 	DT
+Est 	1 	3 	1 	22 	1 	power 	NN
+Est 	1 	3 	1 	23 	1 	of 	IN
+Est 	1 	3 	1 	24 	1 	Persia 	NN
+Est 	1 	3 	1 	25 	1 	and 	CC
+Est 	1 	3 	1 	26 	1 	Media 	NNP
+Est 	1 	3 	1 	27 	0 	,
+Est 	1 	3 	1 	28 	1 	the 	DT
+Est 	1 	3 	1 	29 	1 	nobles 	NNS
+Est 	1 	3 	1 	30 	1 	and 	CC
+Est 	1 	3 	1 	31 	1 	princes 	NNS
+Est 	1 	3 	1 	32 	1 	of 	IN
+Est 	1 	3 	1 	33 	1 	the 	DT
+Est 	1 	3 	1 	34 	1 	provinces 	NNS
+Est 	1 	3 	1 	35 	0 	,
+Est 	1 	3 	1 	36 	1 	being 	VBG
+Est 	1 	3 	1 	37 	1 	before 	IN
+Est 	1 	3 	1 	38 	1 	him 	PRP
+Est 	1 	3 	1 	39 	0 	:
+Est 	1 	4 	1 	1 	1 	When 	WRB
+Est 	1 	4 	1 	2 	1 	he 	PRP
+Est 	1 	4 	1 	3 	1 	shewed 	VBN
+Est 	1 	4 	1 	4 	1 	the 	DT
+Est 	1 	4 	1 	5 	1 	riches 	NNS
+Est 	1 	4 	1 	6 	1 	of 	IN
+Est 	1 	4 	1 	7 	1 	his 	PRP$
+Est 	1 	4 	1 	8 	1 	glorious 	JJ
+Est 	1 	4 	1 	9 	1 	kingdom 	NN
+Est 	1 	4 	1 	10 	1 	and 	CC
+Est 	1 	4 	1 	11 	1 	the 	DT
+Est 	1 	4 	1 	12 	1 	honour 	NN
+Est 	1 	4 	1 	13 	1 	of 	IN
+Est 	1 	4 	1 	14 	1 	his 	PRP$
+Est 	1 	4 	1 	15 	1 	excellent 	NN
+Est 	1 	4 	1 	16 	1 	majesty 	NN
+Est 	1 	4 	1 	17 	1 	many 	JJ
+Est 	1 	4 	1 	18 	1 	days 	NNS
+Est 	1 	4 	1 	19 	0 	,
+Est 	1 	4 	1 	20 	1 	even 	RB
+Est 	1 	4 	1 	21 	1 	an 	DT
+Est 	1 	4 	1 	22 	1 	hundred 	VBN
+Est 	1 	4 	1 	23 	1 	and 	CC
+Est 	1 	4 	1 	24 	1 	fourscore 	NN
+Est 	1 	4 	1 	25 	1 	days 	NNS
+Est 	1 	4 	1 	26 	0 	.
+Est 	1 	5 	1 	1 	1 	And 	CC
+Est 	1 	5 	1 	2 	1 	when 	WRB
+Est 	1 	5 	1 	3 	1 	these 	DT
+Est 	1 	5 	1 	4 	1 	days 	NNS
+Est 	1 	5 	1 	5 	1 	were 	VBD
+Est 	1 	5 	1 	6 	1 	expired 	VBD
+Est 	1 	5 	1 	7 	0 	,
+Est 	1 	5 	1 	8 	1 	the 	DT
+Est 	1 	5 	1 	9 	1 	king 	NN
+Est 	1 	5 	1 	10 	1 	made 	VBN
+Est 	1 	5 	1 	11 	1 	a 	DT
+Est 	1 	5 	1 	12 	1 	feast 	NN
+Est 	1 	5 	1 	13 	1 	unto 	NN
+Est 	1 	5 	1 	14 	1 	all 	DT
+Est 	1 	5 	1 	15 	1 	the 	DT
+Est 	1 	5 	1 	16 	1 	people 	NNS
+Est 	1 	5 	1 	17 	1 	that 	IN
+Est 	1 	5 	1 	18 	1 	were 	VBD
+Est 	1 	5 	1 	19 	1 	present 	NN
+Est 	1 	5 	1 	20 	1 	in 	IN
+Est 	1 	5 	1 	21 	1 	Shushan 	NN
+Est 	1 	5 	1 	22 	1 	the 	DT
+Est 	1 	5 	1 	23 	1 	palace 	NN
+Est 	1 	5 	1 	24 	0 	,
+Est 	1 	5 	1 	25 	1 	both 	DT
+Est 	1 	5 	1 	26 	1 	unto 	NN
+Est 	1 	5 	1 	27 	1 	great 	JJ
+Est 	1 	5 	1 	28 	1 	and 	CC
+Est 	1 	5 	1 	29 	1 	small 	JJ
+Est 	1 	5 	1 	30 	0 	,
+Est 	1 	5 	1 	31 	1 	seven 	CD
+Est 	1 	5 	1 	32 	1 	days 	NNS
+Est 	1 	5 	1 	33 	0 	,
+Est 	1 	5 	1 	34 	1 	in 	IN
+Est 	1 	5 	1 	35 	1 	the 	DT
+Est 	1 	5 	1 	36 	1 	court 	NN
+Est 	1 	5 	1 	37 	1 	of 	IN
+Est 	1 	5 	1 	38 	1 	the 	DT
+Est 	1 	5 	1 	39 	1 	garden 	NN
+Est 	1 	5 	1 	40 	1 	of 	IN
+Est 	1 	5 	1 	41 	1 	the 	DT
+Est 	1 	5 	1 	42 	1 	king 	NN
+Est 	1 	5 	1 	43 	0 	's
+Est 	1 	5 	1 	44 	1 	palace 	NN
+Est 	1 	5 	1 	45 	0 	;
+Est 	1 	6 	1 	1 	1 	Where 	WRB
+Est 	1 	6 	1 	2 	1 	were 	VBD
+Est 	1 	6 	1 	3 	1 	white 	JJ
+Est 	1 	6 	1 	4 	0 	,
+Est 	1 	6 	1 	5 	1 	green 	JJ
+Est 	1 	6 	1 	6 	0 	,
+Est 	1 	6 	1 	7 	1 	and 	CC
+Est 	1 	6 	1 	8 	1 	blue 	NN
+Est 	1 	6 	1 	9 	0 	,
+Est 	1 	6 	1 	10 	1 	hangings 	NNS
+Est 	1 	6 	1 	11 	0 	,
+Est 	1 	6 	1 	12 	1 	fastened 	VBN
+Est 	1 	6 	1 	13 	1 	with 	IN
+Est 	1 	6 	1 	14 	1 	cords 	NNS
+Est 	1 	6 	1 	15 	1 	of 	IN
+Est 	1 	6 	1 	16 	1 	fine 	NN
+Est 	1 	6 	1 	17 	1 	linen 	NN
+Est 	1 	6 	1 	18 	1 	and 	CC
+Est 	1 	6 	1 	19 	1 	purple 	NN
+Est 	1 	6 	1 	20 	1 	to 	TO
+Est 	1 	6 	1 	21 	1 	silver 	NN
+Est 	1 	6 	1 	22 	1 	rings 	NNS
+Est 	1 	6 	1 	23 	1 	and 	CC
+Est 	1 	6 	1 	24 	1 	pillars 	NNS
+Est 	1 	6 	1 	25 	1 	of 	IN
+Est 	1 	6 	1 	26 	1 	marble 	NN
+Est 	1 	6 	1 	27 	0 	:
+Est 	1 	6 	1 	28 	1 	the 	DT
+Est 	1 	6 	1 	29 	1 	beds 	NNS
+Est 	1 	6 	1 	30 	1 	were 	VBD
+Est 	1 	6 	1 	31 	1 	of 	IN
+Est 	1 	6 	1 	32 	1 	gold 	NN
+Est 	1 	6 	1 	33 	1 	and 	CC
+Est 	1 	6 	1 	34 	1 	silver 	NN
+Est 	1 	6 	1 	35 	0 	,
+Est 	1 	6 	1 	36 	1 	upon 	IN
+Est 	1 	6 	1 	37 	1 	a 	DT
+Est 	1 	6 	1 	38 	1 	pavement 	NN
+Est 	1 	6 	1 	39 	1 	of 	IN
+Est 	1 	6 	1 	40 	1 	red 	JJ
+Est 	1 	6 	1 	41 	0 	,
+Est 	1 	6 	1 	42 	1 	and 	CC
+Est 	1 	6 	1 	43 	1 	blue 	NN
+Est 	1 	6 	1 	44 	0 	,
+Est 	1 	6 	1 	45 	1 	and 	CC
+Est 	1 	6 	1 	46 	1 	white 	JJ
+Est 	1 	6 	1 	47 	0 	,
+Est 	1 	6 	1 	48 	1 	and 	CC
+Est 	1 	6 	1 	49 	1 	black 	JJ
+Est 	1 	6 	1 	50 	0 	,
+Est 	1 	6 	1 	51 	1 	marble 	NN
+Est 	1 	6 	1 	52 	0 	.
+Est 	1 	7 	1 	1 	1 	And 	CC
+Est 	1 	7 	1 	2 	1 	they 	PRP
+Est 	1 	7 	1 	3 	1 	gave 	VBD
+Est 	1 	7 	1 	4 	1 	them 	PRP
+Est 	1 	7 	1 	5 	1 	drink 	NN
+Est 	1 	7 	1 	6 	1 	in 	IN
+Est 	1 	7 	1 	7 	1 	vessels 	NNS
+Est 	1 	7 	1 	8 	1 	of 	IN
+Est 	1 	7 	1 	9 	1 	gold 	NN
+Est 	1 	7 	1 	10 	0 	,
+Est 	1 	7 	1 	11 	0 	(
+Est 	1 	7 	1 	12 	1 	the 	DT
+Est 	1 	7 	1 	13 	1 	vessels 	NNS
+Est 	1 	7 	1 	14 	1 	being 	VBG
+Est 	1 	7 	1 	15 	1 	diverse 	NN
+Est 	1 	7 	1 	16 	1 	one 	CD
+Est 	1 	7 	1 	17 	1 	from 	IN
+Est 	1 	7 	1 	18 	1 	another 	DT
+Est 	1 	7 	1 	19 	0 	,
+Est 	1 	7 	1 	20 	0 	)
+Est 	1 	7 	1 	21 	1 	and 	CC
+Est 	1 	7 	1 	22 	1 	royal 	NN
+Est 	1 	7 	1 	23 	1 	wine 	NN
+Est 	1 	7 	1 	24 	1 	in 	IN
+Est 	1 	7 	1 	25 	1 	abundance 	NN
+Est 	1 	7 	1 	26 	0 	,
+Est 	1 	7 	1 	27 	1 	according 	VBG
+Est 	1 	7 	1 	28 	1 	to 	TO
+Est 	1 	7 	1 	29 	1 	the 	DT
+Est 	1 	7 	1 	30 	1 	state 	NN
+Est 	1 	7 	1 	31 	1 	of 	IN
+Est 	1 	7 	1 	32 	1 	the 	DT
+Est 	1 	7 	1 	33 	1 	king 	NN
+Est 	1 	7 	1 	34 	0 	.
+Est 	1 	8 	1 	1 	1 	And 	CC
+Est 	1 	8 	1 	2 	1 	the 	DT
+Est 	1 	8 	1 	3 	1 	drinking 	NN
+Est 	1 	8 	1 	4 	1 	was 	VBD
+Est 	1 	8 	1 	5 	1 	according 	VBG
+Est 	1 	8 	1 	6 	1 	to 	TO
+Est 	1 	8 	1 	7 	1 	the 	DT
+Est 	1 	8 	1 	8 	1 	law 	NN
+Est 	1 	8 	1 	9 	0 	;
+Est 	1 	8 	1 	10 	1 	none 	NN
+Est 	1 	8 	1 	11 	1 	did 	VBD
+Est 	1 	8 	1 	12 	1 	compel 	NN
+Est 	1 	8 	1 	13 	0 	:
+Est 	1 	8 	1 	14 	1 	for 	IN
+Est 	1 	8 	1 	15 	1 	so 	RB
+Est 	1 	8 	1 	16 	1 	the 	DT
+Est 	1 	8 	1 	17 	1 	king 	NN
+Est 	1 	8 	1 	18 	1 	had 	VBD
+Est 	1 	8 	1 	19 	1 	appointed 	VBN
+Est 	1 	8 	1 	20 	1 	to 	TO
+Est 	1 	8 	1 	21 	1 	all 	DT
+Est 	1 	8 	1 	22 	1 	the 	DT
+Est 	1 	8 	1 	23 	1 	officers 	NNS
+Est 	1 	8 	1 	24 	1 	of 	IN
+Est 	1 	8 	1 	25 	1 	his 	PRP$
+Est 	1 	8 	1 	26 	1 	house 	NN
+Est 	1 	8 	1 	27 	0 	,
+Est 	1 	8 	1 	28 	1 	that 	IN
+Est 	1 	8 	1 	29 	1 	they 	PRP
+Est 	1 	8 	1 	30 	1 	should 	MD
+Est 	1 	8 	1 	31 	1 	do 	VB
+Est 	1 	8 	1 	32 	1 	according 	VBG
+Est 	1 	8 	1 	33 	1 	to 	TO
+Est 	1 	8 	1 	34 	1 	every 	DT
+Est 	1 	8 	1 	35 	1 	man 	NN
+Est 	1 	8 	1 	36 	0 	's
+Est 	1 	8 	1 	37 	1 	pleasure 	NN
+Est 	1 	8 	1 	38 	0 	.
+Est 	1 	9 	1 	1 	1 	Also 	RB
+Est 	1 	9 	1 	2 	1 	Vashti 	NN
+Est 	1 	9 	1 	3 	1 	the 	DT
+Est 	1 	9 	1 	4 	1 	queen 	NN
+Est 	1 	9 	1 	5 	1 	made 	VBN
+Est 	1 	9 	1 	6 	1 	a 	DT
+Est 	1 	9 	1 	7 	1 	feast 	NN
+Est 	1 	9 	1 	8 	1 	for 	IN
+Est 	1 	9 	1 	9 	1 	the 	DT
+Est 	1 	9 	1 	10 	1 	women 	NNS
+Est 	1 	9 	1 	11 	1 	in 	IN
+Est 	1 	9 	1 	12 	1 	the 	DT
+Est 	1 	9 	1 	13 	1 	royal 	NN
+Est 	1 	9 	1 	14 	1 	house 	NN
+Est 	1 	9 	1 	15 	1 	which 	WDT
+Est 	1 	9 	1 	16 	1 	belonged 	VBN
+Est 	1 	9 	1 	17 	1 	to 	TO
+Est 	1 	9 	1 	18 	1 	king 	NN
+Est 	1 	9 	1 	19 	1 	Ahasuerus 	NN
+Est 	1 	9 	1 	20 	0 	.
+Est 	1 	10 	1 	1 	1 	On 	IN
+Est 	1 	10 	1 	2 	1 	the 	DT
+Est 	1 	10 	1 	3 	1 	seventh 	NN
+Est 	1 	10 	1 	4 	1 	day 	NN
+Est 	1 	10 	1 	5 	0 	,
+Est 	1 	10 	1 	6 	1 	when 	WRB
+Est 	1 	10 	1 	7 	1 	the 	DT
+Est 	1 	10 	1 	8 	1 	heart 	NN
+Est 	1 	10 	1 	9 	1 	of 	IN
+Est 	1 	10 	1 	10 	1 	the 	DT
+Est 	1 	10 	1 	11 	1 	king 	NN
+Est 	1 	10 	1 	12 	1 	was 	VBD
+Est 	1 	10 	1 	13 	1 	merry 	NN
+Est 	1 	10 	1 	14 	1 	with 	IN
+Est 	1 	10 	1 	15 	1 	wine 	NN
+Est 	1 	10 	1 	16 	0 	,
+Est 	1 	10 	1 	17 	1 	he 	PRP
+Est 	1 	10 	1 	18 	1 	commanded 	VBN
+Est 	1 	10 	1 	19 	1 	Mehuman 	NN
+Est 	1 	10 	1 	20 	0 	,
+Est 	1 	10 	1 	21 	1 	Biztha 	NN
+Est 	1 	10 	1 	22 	0 	,
+Est 	1 	10 	1 	23 	1 	Harbona 	NN
+Est 	1 	10 	1 	24 	0 	,
+Est 	1 	10 	1 	25 	1 	Bigtha 	NN
+Est 	1 	10 	1 	26 	0 	,
+Est 	1 	10 	1 	27 	1 	and 	CC
+Est 	1 	10 	1 	28 	1 	Abagtha 	NN
+Est 	1 	10 	1 	29 	0 	,
+Est 	1 	10 	1 	30 	1 	Zethar 	NN
+Est 	1 	10 	1 	31 	0 	,
+Est 	1 	10 	1 	32 	1 	and 	CC
+Est 	1 	10 	1 	33 	1 	Carcas 	NN
+Est 	1 	10 	1 	34 	0 	,
+Est 	1 	10 	1 	35 	1 	the 	DT
+Est 	1 	10 	1 	36 	1 	seven 	CD
+Est 	1 	10 	1 	37 	1 	chamberlains 	NNS
+Est 	1 	10 	1 	38 	1 	that 	IN
+Est 	1 	10 	1 	39 	1 	served 	VBD
+Est 	1 	10 	1 	40 	1 	in 	IN
+Est 	1 	10 	1 	41 	1 	the 	DT
+Est 	1 	10 	1 	42 	1 	presence 	NN
+Est 	1 	10 	1 	43 	1 	of 	IN
+Est 	1 	10 	1 	44 	1 	Ahasuerus 	NN
+Est 	1 	10 	1 	45 	1 	the 	DT
+Est 	1 	10 	1 	46 	1 	king 	NN
+Est 	1 	10 	1 	47 	0 	,
+Est 	1 	11 	1 	1 	1 	To 	TO
+Est 	1 	11 	1 	2 	1 	bring 	NN
+Est 	1 	11 	1 	3 	1 	Vashti 	NN
+Est 	1 	11 	1 	4 	1 	the 	DT
+Est 	1 	11 	1 	5 	1 	queen 	NN
+Est 	1 	11 	1 	6 	1 	before 	IN
+Est 	1 	11 	1 	7 	1 	the 	DT
+Est 	1 	11 	1 	8 	1 	king 	NN
+Est 	1 	11 	1 	9 	1 	with 	IN
+Est 	1 	11 	1 	10 	1 	the 	DT
+Est 	1 	11 	1 	11 	1 	crown 	NN
+Est 	1 	11 	1 	12 	1 	royal 	NN
+Est 	1 	11 	1 	13 	0 	,
+Est 	1 	11 	1 	14 	1 	to 	TO
+Est 	1 	11 	1 	15 	1 	shew 	NN
+Est 	1 	11 	1 	16 	1 	the 	DT
+Est 	1 	11 	1 	17 	1 	people 	NNS
+Est 	1 	11 	1 	18 	1 	and 	CC
+Est 	1 	11 	1 	19 	1 	the 	DT
+Est 	1 	11 	1 	20 	1 	princes 	NNS
+Est 	1 	11 	1 	21 	1 	her 	PRP$
+Est 	1 	11 	1 	22 	1 	beauty 	NN
+Est 	1 	11 	1 	23 	0 	:
+Est 	1 	11 	1 	24 	1 	for 	IN
+Est 	1 	11 	1 	25 	1 	she 	PRP
+Est 	1 	11 	1 	26 	1 	was 	VBD
+Est 	1 	11 	1 	27 	1 	fair 	NN
+Est 	1 	11 	1 	28 	1 	to 	TO
+Est 	1 	11 	1 	29 	1 	look 	NN
+Est 	1 	11 	1 	30 	1 	on 	IN
+Est 	1 	11 	1 	31 	0 	.
+Est 	1 	12 	1 	1 	1 	But 	CC
+Est 	1 	12 	1 	2 	1 	the 	DT
+Est 	1 	12 	1 	3 	1 	queen 	NN
+Est 	1 	12 	1 	4 	1 	Vashti 	NN
+Est 	1 	12 	1 	5 	1 	refused 	VBD
+Est 	1 	12 	1 	6 	1 	to 	TO
+Est 	1 	12 	1 	7 	1 	come 	VB
+Est 	1 	12 	1 	8 	1 	at 	IN
+Est 	1 	12 	1 	9 	1 	the 	DT
+Est 	1 	12 	1 	10 	1 	king 	NN
+Est 	1 	12 	1 	11 	0 	's
+Est 	1 	12 	1 	12 	1 	commandment 	NN
+Est 	1 	12 	1 	13 	1 	by 	IN
+Est 	1 	12 	1 	14 	1 	his 	PRP$
+Est 	1 	12 	1 	15 	1 	chamberlains 	NNS
+Est 	1 	12 	1 	16 	0 	:
+Est 	1 	12 	1 	17 	1 	therefore 	RB
+Est 	1 	12 	1 	18 	1 	was 	VBD
+Est 	1 	12 	1 	19 	1 	the 	DT
+Est 	1 	12 	1 	20 	1 	king 	NN
+Est 	1 	12 	1 	21 	1 	very 	RB
+Est 	1 	12 	1 	22 	1 	wroth 	NN
+Est 	1 	12 	1 	23 	0 	,
+Est 	1 	12 	1 	24 	1 	and 	CC
+Est 	1 	12 	1 	25 	1 	his 	PRP$
+Est 	1 	12 	1 	26 	1 	anger 	NN
+Est 	1 	12 	1 	27 	1 	burned 	VBN
+Est 	1 	12 	1 	28 	1 	in 	IN
+Est 	1 	12 	1 	29 	1 	him 	PRP
+Est 	1 	12 	1 	30 	0 	.
+Est 	1 	13 	1 	1 	1 	Then 	RB
+Est 	1 	13 	1 	2 	1 	the 	DT
+Est 	1 	13 	1 	3 	1 	king 	NN
+Est 	1 	13 	1 	4 	1 	said 	VBD
+Est 	1 	13 	1 	5 	1 	to 	TO
+Est 	1 	13 	1 	6 	1 	the 	DT
+Est 	1 	13 	1 	7 	1 	wise 	NN
+Est 	1 	13 	1 	8 	1 	men 	NNS
+Est 	1 	13 	1 	9 	0 	,
+Est 	1 	13 	1 	10 	1 	which 	WDT
+Est 	1 	13 	1 	11 	1 	knew 	NNS
+Est 	1 	13 	1 	12 	1 	the 	DT
+Est 	1 	13 	1 	13 	1 	times 	NNS
+Est 	1 	13 	1 	14 	0 	,
+Est 	1 	13 	1 	15 	0 	(
+Est 	1 	13 	1 	16 	1 	for 	IN
+Est 	1 	13 	1 	17 	1 	so 	RB
+Est 	1 	13 	1 	18 	1 	was 	VBD
+Est 	1 	13 	1 	19 	1 	the 	DT
+Est 	1 	13 	1 	20 	1 	king 	NN
+Est 	1 	13 	1 	21 	0 	's
+Est 	1 	13 	1 	22 	1 	manner 	NN
+Est 	1 	13 	1 	23 	1 	toward 	IN
+Est 	1 	13 	1 	24 	1 	all 	DT
+Est 	1 	13 	1 	25 	1 	that 	IN
+Est 	1 	13 	1 	26 	1 	knew 	NNS
+Est 	1 	13 	1 	27 	1 	law 	NN
+Est 	1 	13 	1 	28 	1 	and 	CC
+Est 	1 	13 	1 	29 	1 	judgment 	NN
+Est 	1 	13 	1 	30 	0 	:
+Est 	1 	14 	1 	1 	1 	And 	CC
+Est 	1 	14 	1 	2 	1 	the 	DT
+Est 	1 	14 	1 	3 	1 	next 	JJ
+Est 	1 	14 	1 	4 	1 	unto 	NN
+Est 	1 	14 	1 	5 	1 	him 	PRP
+Est 	1 	14 	1 	6 	1 	was 	VBD
+Est 	1 	14 	1 	7 	1 	Carshena 	NN
+Est 	1 	14 	1 	8 	0 	,
+Est 	1 	14 	1 	9 	1 	Shethar 	NN
+Est 	1 	14 	1 	10 	0 	,
+Est 	1 	14 	1 	11 	1 	Admatha 	NN
+Est 	1 	14 	1 	12 	0 	,
+Est 	1 	14 	1 	13 	1 	Tarshish 	VB
+Est 	1 	14 	1 	14 	0 	,
+Est 	1 	14 	1 	15 	1 	Meres 	NNS
+Est 	1 	14 	1 	16 	0 	,
+Est 	1 	14 	1 	17 	1 	Marsena 	NN
+Est 	1 	14 	1 	18 	0 	,
+Est 	1 	14 	1 	19 	1 	and 	CC
+Est 	1 	14 	1 	20 	1 	Memucan 	JJ
+Est 	1 	14 	1 	21 	0 	,
+Est 	1 	14 	1 	22 	1 	the 	DT
+Est 	1 	14 	1 	23 	1 	seven 	CD
+Est 	1 	14 	1 	24 	1 	princes 	NNS
+Est 	1 	14 	1 	25 	1 	of 	IN
+Est 	1 	14 	1 	26 	1 	Persia 	NN
+Est 	1 	14 	1 	27 	1 	and 	CC
+Est 	1 	14 	1 	28 	1 	Media 	NNP
+Est 	1 	14 	1 	29 	0 	,
+Est 	1 	14 	1 	30 	1 	which 	WDT
+Est 	1 	14 	1 	31 	1 	saw 	NN
+Est 	1 	14 	1 	32 	1 	the 	DT
+Est 	1 	14 	1 	33 	1 	king 	NN
+Est 	1 	14 	1 	34 	0 	's
+Est 	1 	14 	1 	35 	1 	face 	NN
+Est 	1 	14 	1 	36 	0 	,
+Est 	1 	14 	1 	37 	1 	and 	CC
+Est 	1 	14 	1 	38 	1 	which 	WDT
+Est 	1 	14 	1 	39 	1 	sat 	NN
+Est 	1 	14 	1 	40 	1 	the 	DT
+Est 	1 	14 	1 	41 	1 	first 	RB
+Est 	1 	14 	1 	42 	1 	in 	IN
+Est 	1 	14 	1 	43 	1 	the 	DT
+Est 	1 	14 	1 	44 	1 	kingdom 	NN
+Est 	1 	14 	1 	45 	0 	;
+Est 	1 	14 	1 	46 	0 	)
+Est 	1 	15 	1 	1 	1 	What 	WP
+Est 	1 	15 	1 	2 	1 	shall 	MD
+Est 	1 	15 	1 	3 	1 	we 	PRP
+Est 	1 	15 	1 	4 	1 	do 	VB
+Est 	1 	15 	1 	5 	1 	unto 	NN
+Est 	1 	15 	1 	6 	1 	the 	DT
+Est 	1 	15 	1 	7 	1 	queen 	NN
+Est 	1 	15 	1 	8 	1 	Vashti 	NN
+Est 	1 	15 	1 	9 	1 	according 	VBG
+Est 	1 	15 	1 	10 	1 	to 	TO
+Est 	1 	15 	1 	11 	1 	law 	NN
+Est 	1 	15 	1 	12 	0 	,
+Est 	1 	15 	1 	13 	1 	because 	IN
+Est 	1 	15 	1 	14 	1 	she 	PRP
+Est 	1 	15 	1 	15 	1 	hath 	NN
+Est 	1 	15 	1 	16 	1 	not 	RB
+Est 	1 	15 	1 	17 	1 	performed 	VBN
+Est 	1 	15 	1 	18 	1 	the 	DT
+Est 	1 	15 	1 	19 	1 	commandment 	NN
+Est 	1 	15 	1 	20 	1 	of 	IN
+Est 	1 	15 	1 	21 	1 	the 	DT
+Est 	1 	15 	1 	22 	1 	king 	NN
+Est 	1 	15 	1 	23 	1 	Ahasuerus 	NN
+Est 	1 	15 	1 	24 	1 	by 	IN
+Est 	1 	15 	1 	25 	1 	the 	DT
+Est 	1 	15 	1 	26 	1 	chamberlains 	NNS
+Est 	1 	15 	1 	27 	0 	?
+Est 	1 	16 	1 	1 	1 	And 	CC
+Est 	1 	16 	1 	2 	1 	Memucan 	JJ
+Est 	1 	16 	1 	3 	1 	answered 	VBN
+Est 	1 	16 	1 	4 	1 	before 	IN
+Est 	1 	16 	1 	5 	1 	the 	DT
+Est 	1 	16 	1 	6 	1 	king 	NN
+Est 	1 	16 	1 	7 	1 	and 	CC
+Est 	1 	16 	1 	8 	1 	the 	DT
+Est 	1 	16 	1 	9 	1 	princes 	NNS
+Est 	1 	16 	1 	10 	0 	,
+Est 	1 	16 	1 	11 	1 	Vashti 	NN
+Est 	1 	16 	1 	12 	1 	the 	DT
+Est 	1 	16 	1 	13 	1 	queen 	NN
+Est 	1 	16 	1 	14 	1 	hath 	NN
+Est 	1 	16 	1 	15 	1 	not 	RB
+Est 	1 	16 	1 	16 	1 	done 	VBN
+Est 	1 	16 	1 	17 	1 	wrong 	JJ
+Est 	1 	16 	1 	18 	1 	to 	TO
+Est 	1 	16 	1 	19 	1 	the 	DT
+Est 	1 	16 	1 	20 	1 	king 	NN
+Est 	1 	16 	1 	21 	1 	only 	RB
+Est 	1 	16 	1 	22 	0 	,
+Est 	1 	16 	1 	23 	1 	but 	CC
+Est 	1 	16 	1 	24 	1 	also 	RB
+Est 	1 	16 	1 	25 	1 	to 	TO
+Est 	1 	16 	1 	26 	1 	all 	DT
+Est 	1 	16 	1 	27 	1 	the 	DT
+Est 	1 	16 	1 	28 	1 	princes 	NNS
+Est 	1 	16 	1 	29 	0 	,
+Est 	1 	16 	1 	30 	1 	and 	CC
+Est 	1 	16 	1 	31 	1 	to 	TO
+Est 	1 	16 	1 	32 	1 	all 	DT
+Est 	1 	16 	1 	33 	1 	the 	DT
+Est 	1 	16 	1 	34 	1 	people 	NNS
+Est 	1 	16 	1 	35 	1 	that 	IN
+Est 	1 	16 	1 	36 	1 	are 	VBP
+Est 	1 	16 	1 	37 	1 	in 	IN
+Est 	1 	16 	1 	38 	1 	all 	DT
+Est 	1 	16 	1 	39 	1 	the 	DT
+Est 	1 	16 	1 	40 	1 	provinces 	NNS
+Est 	1 	16 	1 	41 	1 	of 	IN
+Est 	1 	16 	1 	42 	1 	the 	DT
+Est 	1 	16 	1 	43 	1 	king 	NN
+Est 	1 	16 	1 	44 	1 	Ahasuerus 	NN
+Est 	1 	16 	1 	45 	0 	.
+Est 	1 	17 	1 	1 	1 	For 	IN
+Est 	1 	17 	1 	2 	1 	this 	DT
+Est 	1 	17 	1 	3 	1 	deed 	NN
+Est 	1 	17 	1 	4 	1 	of 	IN
+Est 	1 	17 	1 	5 	1 	the 	DT
+Est 	1 	17 	1 	6 	1 	queen 	NN
+Est 	1 	17 	1 	7 	1 	shall 	MD
+Est 	1 	17 	1 	8 	1 	come 	VB
+Est 	1 	17 	1 	9 	1 	abroad 	RB
+Est 	1 	17 	1 	10 	1 	unto 	NN
+Est 	1 	17 	1 	11 	1 	all 	DT
+Est 	1 	17 	1 	12 	1 	women 	NNS
+Est 	1 	17 	1 	13 	0 	,
+Est 	1 	17 	1 	14 	1 	so 	RB
+Est 	1 	17 	1 	15 	1 	that 	IN
+Est 	1 	17 	1 	16 	1 	they 	PRP
+Est 	1 	17 	1 	17 	1 	shall 	MD
+Est 	1 	17 	1 	18 	1 	despise 	NN
+Est 	1 	17 	1 	19 	1 	their 	PRP$
+Est 	1 	17 	1 	20 	1 	husbands 	NNS
+Est 	1 	17 	1 	21 	1 	in 	IN
+Est 	1 	17 	1 	22 	1 	their 	PRP$
+Est 	1 	17 	1 	23 	1 	eyes 	NNS
+Est 	1 	17 	1 	24 	0 	,
+Est 	1 	17 	1 	25 	1 	when 	WRB
+Est 	1 	17 	1 	26 	1 	it 	PRP
+Est 	1 	17 	1 	27 	1 	shall 	MD
+Est 	1 	17 	1 	28 	1 	be 	VB
+Est 	1 	17 	1 	29 	1 	reported 	VBD
+Est 	1 	17 	1 	30 	0 	,
+Est 	1 	17 	1 	31 	1 	The 	DT
+Est 	1 	17 	1 	32 	1 	king 	NN
+Est 	1 	17 	1 	33 	1 	Ahasuerus 	NN
+Est 	1 	17 	1 	34 	1 	commanded 	VBN
+Est 	1 	17 	1 	35 	1 	Vashti 	NN
+Est 	1 	17 	1 	36 	1 	the 	DT
+Est 	1 	17 	1 	37 	1 	queen 	NN
+Est 	1 	17 	1 	38 	1 	to 	TO
+Est 	1 	17 	1 	39 	1 	be 	VB
+Est 	1 	17 	1 	40 	1 	brought 	NN
+Est 	1 	17 	1 	41 	1 	in 	IN
+Est 	1 	17 	1 	42 	1 	before 	IN
+Est 	1 	17 	1 	43 	1 	him 	PRP
+Est 	1 	17 	1 	44 	0 	,
+Est 	1 	17 	1 	45 	1 	but 	CC
+Est 	1 	17 	1 	46 	1 	she 	PRP
+Est 	1 	17 	1 	47 	1 	came 	VBD
+Est 	1 	17 	1 	48 	1 	not 	RB
+Est 	1 	17 	1 	49 	0 	.
+Est 	1 	18 	1 	1 	1 	Likewise 	RB
+Est 	1 	18 	1 	2 	1 	shall 	MD
+Est 	1 	18 	1 	3 	1 	the 	DT
+Est 	1 	18 	1 	4 	1 	ladies 	NNS
+Est 	1 	18 	1 	5 	1 	of 	IN
+Est 	1 	18 	1 	6 	1 	Persia 	NN
+Est 	1 	18 	1 	7 	1 	and 	CC
+Est 	1 	18 	1 	8 	1 	Media 	NNP
+Est 	1 	18 	1 	9 	1 	say 	VB
+Est 	1 	18 	1 	10 	1 	this 	DT
+Est 	1 	18 	1 	11 	1 	day 	NN
+Est 	1 	18 	1 	12 	1 	unto 	NN
+Est 	1 	18 	1 	13 	1 	all 	DT
+Est 	1 	18 	1 	14 	1 	the 	DT
+Est 	1 	18 	1 	15 	1 	king 	NN
+Est 	1 	18 	1 	16 	0 	's
+Est 	1 	18 	1 	17 	1 	princes 	NNS
+Est 	1 	18 	1 	18 	0 	,
+Est 	1 	18 	1 	19 	1 	which 	WDT
+Est 	1 	18 	1 	20 	1 	have 	VB
+Est 	1 	18 	1 	21 	1 	heard 	NN
+Est 	1 	18 	1 	22 	1 	of 	IN
+Est 	1 	18 	1 	23 	1 	the 	DT
+Est 	1 	18 	1 	24 	1 	deed 	NN
+Est 	1 	18 	1 	25 	1 	of 	IN
+Est 	1 	18 	1 	26 	1 	the 	DT
+Est 	1 	18 	1 	27 	1 	queen 	NN
+Est 	1 	18 	1 	28 	0 	.
+Est 	1 	18 	2 	1 	1 	Thus 	RB
+Est 	1 	18 	2 	2 	1 	shall 	MD
+Est 	1 	18 	2 	3 	1 	there 	RB
+Est 	1 	18 	2 	4 	1 	arise 	NN
+Est 	1 	18 	2 	5 	1 	too 	RB
+Est 	1 	18 	2 	6 	1 	much 	JJ
+Est 	1 	18 	2 	7 	1 	contempt 	NN
+Est 	1 	18 	2 	8 	1 	and 	CC
+Est 	1 	18 	2 	9 	1 	wrath 	NN
+Est 	1 	18 	2 	10 	0 	.
+Est 	1 	19 	1 	1 	1 	If 	IN
+Est 	1 	19 	1 	2 	1 	it 	PRP
+Est 	1 	19 	1 	3 	1 	please 	NN
+Est 	1 	19 	1 	4 	1 	the 	DT
+Est 	1 	19 	1 	5 	1 	king 	NN
+Est 	1 	19 	1 	6 	0 	,
+Est 	1 	19 	1 	7 	1 	let 	VB
+Est 	1 	19 	1 	8 	1 	there 	RB
+Est 	1 	19 	1 	9 	1 	go 	VB
+Est 	1 	19 	1 	10 	1 	a 	DT
+Est 	1 	19 	1 	11 	1 	royal 	NN
+Est 	1 	19 	1 	12 	1 	commandment 	NN
+Est 	1 	19 	1 	13 	1 	from 	IN
+Est 	1 	19 	1 	14 	1 	him 	PRP
+Est 	1 	19 	1 	15 	0 	,
+Est 	1 	19 	1 	16 	1 	and 	CC
+Est 	1 	19 	1 	17 	1 	let 	VB
+Est 	1 	19 	1 	18 	1 	it 	PRP
+Est 	1 	19 	1 	19 	1 	be 	VB
+Est 	1 	19 	1 	20 	1 	written 	VBN
+Est 	1 	19 	1 	21 	1 	among 	IN
+Est 	1 	19 	1 	22 	1 	the 	DT
+Est 	1 	19 	1 	23 	1 	laws 	NNS
+Est 	1 	19 	1 	24 	1 	of 	IN
+Est 	1 	19 	1 	25 	1 	the 	DT
+Est 	1 	19 	1 	26 	1 	Persians 	NNS
+Est 	1 	19 	1 	27 	1 	and 	CC
+Est 	1 	19 	1 	28 	1 	the 	DT
+Est 	1 	19 	1 	29 	1 	Medes 	NNS
+Est 	1 	19 	1 	30 	0 	,
+Est 	1 	19 	1 	31 	1 	that 	IN
+Est 	1 	19 	1 	32 	1 	it 	PRP
+Est 	1 	19 	1 	33 	1 	be 	VB
+Est 	1 	19 	1 	34 	1 	not 	RB
+Est 	1 	19 	1 	35 	1 	altered 	VBN
+Est 	1 	19 	1 	36 	0 	,
+Est 	1 	19 	1 	37 	1 	That 	DT
+Est 	1 	19 	1 	38 	1 	Vashti 	NN
+Est 	1 	19 	1 	39 	1 	come 	VB
+Est 	1 	19 	1 	40 	1 	no 	DT
+Est 	1 	19 	1 	41 	1 	more 	RBR
+Est 	1 	19 	1 	42 	1 	before 	IN
+Est 	1 	19 	1 	43 	1 	king 	NN
+Est 	1 	19 	1 	44 	1 	Ahasuerus 	NN
+Est 	1 	19 	1 	45 	0 	;
+Est 	1 	19 	1 	46 	1 	and 	CC
+Est 	1 	19 	1 	47 	1 	let 	VB
+Est 	1 	19 	1 	48 	1 	the 	DT
+Est 	1 	19 	1 	49 	1 	king 	NN
+Est 	1 	19 	1 	50 	1 	give 	VB
+Est 	1 	19 	1 	51 	1 	her 	PRP$
+Est 	1 	19 	1 	52 	1 	royal 	NN
+Est 	1 	19 	1 	53 	1 	estate 	NN
+Est 	1 	19 	1 	54 	1 	unto 	NN
+Est 	1 	19 	1 	55 	1 	another 	DT
+Est 	1 	19 	1 	56 	1 	that 	IN
+Est 	1 	19 	1 	57 	1 	is 	VBZ
+Est 	1 	19 	1 	58 	1 	better 	RBR
+Est 	1 	19 	1 	59 	1 	than 	IN
+Est 	1 	19 	1 	60 	1 	she 	PRP
+Est 	1 	19 	1 	61 	0 	.
+Est 	1 	20 	1 	1 	1 	And 	CC
+Est 	1 	20 	1 	2 	1 	when 	WRB
+Est 	1 	20 	1 	3 	1 	the 	DT
+Est 	1 	20 	1 	4 	1 	king 	NN
+Est 	1 	20 	1 	5 	0 	's
+Est 	1 	20 	1 	6 	1 	decree 	NN
+Est 	1 	20 	1 	7 	1 	which 	WDT
+Est 	1 	20 	1 	8 	1 	he 	PRP
+Est 	1 	20 	1 	9 	1 	shall 	MD
+Est 	1 	20 	1 	10 	1 	make 	VB
+Est 	1 	20 	1 	11 	1 	shall 	MD
+Est 	1 	20 	1 	12 	1 	be 	VB
+Est 	1 	20 	1 	13 	1 	published 	VBN
+Est 	1 	20 	1 	14 	1 	throughout 	IN
+Est 	1 	20 	1 	15 	1 	all 	DT
+Est 	1 	20 	1 	16 	1 	his 	PRP$
+Est 	1 	20 	1 	17 	1 	empire 	NN
+Est 	1 	20 	1 	18 	0 	,
+Est 	1 	20 	1 	19 	0 	(
+Est 	1 	20 	1 	20 	1 	for 	IN
+Est 	1 	20 	1 	21 	1 	it 	PRP
+Est 	1 	20 	1 	22 	1 	is 	VBZ
+Est 	1 	20 	1 	23 	1 	great 	JJ
+Est 	1 	20 	1 	24 	0 	,
+Est 	1 	20 	1 	25 	0 	)
+Est 	1 	20 	1 	26 	1 	all 	DT
+Est 	1 	20 	1 	27 	1 	the 	DT
+Est 	1 	20 	1 	28 	1 	wives 	NNS
+Est 	1 	20 	1 	29 	1 	shall 	MD
+Est 	1 	20 	1 	30 	1 	give 	VB
+Est 	1 	20 	1 	31 	1 	to 	TO
+Est 	1 	20 	1 	32 	1 	their 	PRP$
+Est 	1 	20 	1 	33 	1 	husbands 	NNS
+Est 	1 	20 	1 	34 	1 	honour 	NN
+Est 	1 	20 	1 	35 	0 	,
+Est 	1 	20 	1 	36 	1 	both 	DT
+Est 	1 	20 	1 	37 	1 	to 	TO
+Est 	1 	20 	1 	38 	1 	great 	JJ
+Est 	1 	20 	1 	39 	1 	and 	CC
+Est 	1 	20 	1 	40 	1 	small 	JJ
+Est 	1 	20 	1 	41 	0 	.
+Est 	1 	21 	1 	1 	1 	And 	CC
+Est 	1 	21 	1 	2 	1 	the 	DT
+Est 	1 	21 	1 	3 	1 	saying 	VBG
+Est 	1 	21 	1 	4 	1 	pleased 	JJ
+Est 	1 	21 	1 	5 	1 	the 	DT
+Est 	1 	21 	1 	6 	1 	king 	NN
+Est 	1 	21 	1 	7 	1 	and 	CC
+Est 	1 	21 	1 	8 	1 	the 	DT
+Est 	1 	21 	1 	9 	1 	princes 	NNS
+Est 	1 	21 	1 	10 	0 	;
+Est 	1 	21 	1 	11 	1 	and 	CC
+Est 	1 	21 	1 	12 	1 	the 	DT
+Est 	1 	21 	1 	13 	1 	king 	NN
+Est 	1 	21 	1 	14 	1 	did 	VBD
+Est 	1 	21 	1 	15 	1 	according 	VBG
+Est 	1 	21 	1 	16 	1 	to 	TO
+Est 	1 	21 	1 	17 	1 	the 	DT
+Est 	1 	21 	1 	18 	1 	word 	NN
+Est 	1 	21 	1 	19 	1 	of 	IN
+Est 	1 	21 	1 	20 	1 	Memucan 	JJ
+Est 	1 	21 	1 	21 	0 	:
+Est 	1 	22 	1 	1 	1 	For 	IN
+Est 	1 	22 	1 	2 	1 	he 	PRP
+Est 	1 	22 	1 	3 	1 	sent 	NN
+Est 	1 	22 	1 	4 	1 	letters 	NNS
+Est 	1 	22 	1 	5 	1 	into 	IN
+Est 	1 	22 	1 	6 	1 	all 	DT
+Est 	1 	22 	1 	7 	1 	the 	DT
+Est 	1 	22 	1 	8 	1 	king 	NN
+Est 	1 	22 	1 	9 	0 	's
+Est 	1 	22 	1 	10 	1 	provinces 	NNS
+Est 	1 	22 	1 	11 	0 	,
+Est 	1 	22 	1 	12 	1 	into 	IN
+Est 	1 	22 	1 	13 	1 	every 	DT
+Est 	1 	22 	1 	14 	1 	province 	NN
+Est 	1 	22 	1 	15 	1 	according 	VBG
+Est 	1 	22 	1 	16 	1 	to 	TO
+Est 	1 	22 	1 	17 	1 	the 	DT
+Est 	1 	22 	1 	18 	1 	writing 	VBG
+Est 	1 	22 	1 	19 	1 	thereof 	NN
+Est 	1 	22 	1 	20 	0 	,
+Est 	1 	22 	1 	21 	1 	and 	CC
+Est 	1 	22 	1 	22 	1 	to 	TO
+Est 	1 	22 	1 	23 	1 	every 	DT
+Est 	1 	22 	1 	24 	1 	people 	NNS
+Est 	1 	22 	1 	25 	1 	after 	IN
+Est 	1 	22 	1 	26 	1 	their 	PRP$
+Est 	1 	22 	1 	27 	1 	language 	NN
+Est 	1 	22 	1 	28 	0 	,
+Est 	1 	22 	1 	29 	1 	that 	IN
+Est 	1 	22 	1 	30 	1 	every 	DT
+Est 	1 	22 	1 	31 	1 	man 	NN
+Est 	1 	22 	1 	32 	1 	should 	MD
+Est 	1 	22 	1 	33 	1 	bear 	NN
+Est 	1 	22 	1 	34 	1 	rule 	NN
+Est 	1 	22 	1 	35 	1 	in 	IN
+Est 	1 	22 	1 	36 	1 	his 	PRP$
+Est 	1 	22 	1 	37 	1 	own 	JJ
+Est 	1 	22 	1 	38 	1 	house 	NN
+Est 	1 	22 	1 	39 	0 	,
+Est 	1 	22 	1 	40 	1 	and 	CC
+Est 	1 	22 	1 	41 	1 	that 	IN
+Est 	1 	22 	1 	42 	1 	it 	PRP
+Est 	1 	22 	1 	43 	1 	should 	MD
+Est 	1 	22 	1 	44 	1 	be 	VB
+Est 	1 	22 	1 	45 	1 	published 	VBN
+Est 	1 	22 	1 	46 	1 	according 	VBG
+Est 	1 	22 	1 	47 	1 	to 	TO
+Est 	1 	22 	1 	48 	1 	the 	DT
+Est 	1 	22 	1 	49 	1 	language 	NN
+Est 	1 	22 	1 	50 	1 	of 	IN
+Est 	1 	22 	1 	51 	1 	every 	DT
+Est 	1 	22 	1 	52 	1 	people 	NNS
+Est 	1 	22 	1 	53 	0 	.
+Est 	2 	1 	1 	1 	1 	After 	IN
+Est 	2 	1 	1 	2 	1 	these 	DT
+Est 	2 	1 	1 	3 	1 	things 	NNS
+Est 	2 	1 	1 	4 	0 	,
+Est 	2 	1 	1 	5 	1 	when 	WRB
+Est 	2 	1 	1 	6 	1 	the 	DT
+Est 	2 	1 	1 	7 	1 	wrath 	NN
+Est 	2 	1 	1 	8 	1 	of 	IN
+Est 	2 	1 	1 	9 	1 	king 	NN
+Est 	2 	1 	1 	10 	1 	Ahasuerus 	NN
+Est 	2 	1 	1 	11 	1 	was 	VBD
+Est 	2 	1 	1 	12 	1 	appeased 	VBN
+Est 	2 	1 	1 	13 	0 	,
+Est 	2 	1 	1 	14 	1 	he 	PRP
+Est 	2 	1 	1 	15 	1 	remembered 	VBN
+Est 	2 	1 	1 	16 	1 	Vashti 	NN
+Est 	2 	1 	1 	17 	0 	,
+Est 	2 	1 	1 	18 	1 	and 	CC
+Est 	2 	1 	1 	19 	1 	what 	WP
+Est 	2 	1 	1 	20 	1 	she 	PRP
+Est 	2 	1 	1 	21 	1 	had 	VBD
+Est 	2 	1 	1 	22 	1 	done 	VBN
+Est 	2 	1 	1 	23 	0 	,
+Est 	2 	1 	1 	24 	1 	and 	CC
+Est 	2 	1 	1 	25 	1 	what 	WP
+Est 	2 	1 	1 	26 	1 	was 	VBD
+Est 	2 	1 	1 	27 	1 	decreed 	NN
+Est 	2 	1 	1 	28 	1 	against 	IN
+Est 	2 	1 	1 	29 	1 	her 	PRP$
+Est 	2 	1 	1 	30 	0 	.
+Est 	2 	2 	1 	1 	1 	Then 	RB
+Est 	2 	2 	1 	2 	1 	said 	VBD
+Est 	2 	2 	1 	3 	1 	the 	DT
+Est 	2 	2 	1 	4 	1 	king 	NN
+Est 	2 	2 	1 	5 	0 	's
+Est 	2 	2 	1 	6 	1 	servants 	NNS
+Est 	2 	2 	1 	7 	1 	that 	IN
+Est 	2 	2 	1 	8 	1 	ministered 	VBN
+Est 	2 	2 	1 	9 	1 	unto 	NN
+Est 	2 	2 	1 	10 	1 	him 	PRP
+Est 	2 	2 	1 	11 	0 	,
+Est 	2 	2 	1 	12 	1 	Let 	VB
+Est 	2 	2 	1 	13 	1 	there 	RB
+Est 	2 	2 	1 	14 	1 	be 	VB
+Est 	2 	2 	1 	15 	1 	fair 	NN
+Est 	2 	2 	1 	16 	1 	young 	JJ
+Est 	2 	2 	1 	17 	1 	virgins 	NNS
+Est 	2 	2 	1 	18 	1 	sought 	NN
+Est 	2 	2 	1 	19 	1 	for 	IN
+Est 	2 	2 	1 	20 	1 	the 	DT
+Est 	2 	2 	1 	21 	1 	king 	NN
+Est 	2 	2 	1 	22 	0 	:
+Est 	2 	3 	1 	1 	1 	And 	CC
+Est 	2 	3 	1 	2 	1 	let 	VB
+Est 	2 	3 	1 	3 	1 	the 	DT
+Est 	2 	3 	1 	4 	1 	king 	NN
+Est 	2 	3 	1 	5 	1 	appoint 	NN
+Est 	2 	3 	1 	6 	1 	officers 	NNS
+Est 	2 	3 	1 	7 	1 	in 	IN
+Est 	2 	3 	1 	8 	1 	all 	DT
+Est 	2 	3 	1 	9 	1 	the 	DT
+Est 	2 	3 	1 	10 	1 	provinces 	NNS
+Est 	2 	3 	1 	11 	1 	of 	IN
+Est 	2 	3 	1 	12 	1 	his 	PRP$
+Est 	2 	3 	1 	13 	1 	kingdom 	NN
+Est 	2 	3 	1 	14 	0 	,
+Est 	2 	3 	1 	15 	1 	that 	IN
+Est 	2 	3 	1 	16 	1 	they 	PRP
+Est 	2 	3 	1 	17 	1 	may 	MD
+Est 	2 	3 	1 	18 	1 	gather 	NN
+Est 	2 	3 	1 	19 	1 	together 	RB
+Est 	2 	3 	1 	20 	1 	all 	DT
+Est 	2 	3 	1 	21 	1 	the 	DT
+Est 	2 	3 	1 	22 	1 	fair 	NN
+Est 	2 	3 	1 	23 	1 	young 	JJ
+Est 	2 	3 	1 	24 	1 	virgins 	NNS
+Est 	2 	3 	1 	25 	1 	unto 	NN
+Est 	2 	3 	1 	26 	1 	Shushan 	NN
+Est 	2 	3 	1 	27 	1 	the 	DT
+Est 	2 	3 	1 	28 	1 	palace 	NN
+Est 	2 	3 	1 	29 	0 	,
+Est 	2 	3 	1 	30 	1 	to 	TO
+Est 	2 	3 	1 	31 	1 	the 	DT
+Est 	2 	3 	1 	32 	1 	house 	NN
+Est 	2 	3 	1 	33 	1 	of 	IN
+Est 	2 	3 	1 	34 	1 	the 	DT
+Est 	2 	3 	1 	35 	1 	women 	NNS
+Est 	2 	3 	1 	36 	0 	,
+Est 	2 	3 	1 	37 	1 	unto 	NN
+Est 	2 	3 	1 	38 	1 	the 	DT
+Est 	2 	3 	1 	39 	1 	custody 	NN
+Est 	2 	3 	1 	40 	1 	of 	IN
+Est 	2 	3 	1 	41 	1 	Hege 	NN
+Est 	2 	3 	1 	42 	1 	the 	DT
+Est 	2 	3 	1 	43 	1 	king 	NN
+Est 	2 	3 	1 	44 	0 	's
+Est 	2 	3 	1 	45 	1 	chamberlain 	NN
+Est 	2 	3 	1 	46 	0 	,
+Est 	2 	3 	1 	47 	1 	keeper 	NN
+Est 	2 	3 	1 	48 	1 	of 	IN
+Est 	2 	3 	1 	49 	1 	the 	DT
+Est 	2 	3 	1 	50 	1 	women 	NNS
+Est 	2 	3 	1 	51 	0 	;
+Est 	2 	3 	1 	52 	1 	and 	CC
+Est 	2 	3 	1 	53 	1 	let 	VB
+Est 	2 	3 	1 	54 	1 	their 	PRP$
+Est 	2 	3 	1 	55 	1 	things 	NNS
+Est 	2 	3 	1 	56 	1 	for 	IN
+Est 	2 	3 	1 	57 	1 	purification 	NN
+Est 	2 	3 	1 	58 	1 	be 	VB
+Est 	2 	3 	1 	59 	1 	given 	VBN
+Est 	2 	3 	1 	60 	1 	them 	PRP
+Est 	2 	3 	1 	61 	0 	:
+Est 	2 	4 	1 	1 	1 	And 	CC
+Est 	2 	4 	1 	2 	1 	let 	VB
+Est 	2 	4 	1 	3 	1 	the 	DT
+Est 	2 	4 	1 	4 	1 	maiden 	NN
+Est 	2 	4 	1 	5 	1 	which 	WDT
+Est 	2 	4 	1 	6 	1 	pleaseth 	NN
+Est 	2 	4 	1 	7 	1 	the 	DT
+Est 	2 	4 	1 	8 	1 	king 	NN
+Est 	2 	4 	1 	9 	1 	be 	VB
+Est 	2 	4 	1 	10 	1 	queen 	NN
+Est 	2 	4 	1 	11 	1 	instead 	RB
+Est 	2 	4 	1 	12 	1 	of 	IN
+Est 	2 	4 	1 	13 	1 	Vashti 	NN
+Est 	2 	4 	1 	14 	0 	.
+Est 	2 	4 	2 	1 	1 	And 	CC
+Est 	2 	4 	2 	2 	1 	the 	DT
+Est 	2 	4 	2 	3 	1 	thing 	NN
+Est 	2 	4 	2 	4 	1 	pleased 	JJ
+Est 	2 	4 	2 	5 	1 	the 	DT
+Est 	2 	4 	2 	6 	1 	king 	NN
+Est 	2 	4 	2 	7 	0 	;
+Est 	2 	4 	2 	8 	1 	and 	CC
+Est 	2 	4 	2 	9 	1 	he 	PRP
+Est 	2 	4 	2 	10 	1 	did 	VBD
+Est 	2 	4 	2 	11 	1 	so 	RB
+Est 	2 	4 	2 	12 	0 	.
+Est 	2 	5 	1 	1 	1 	Now 	RB
+Est 	2 	5 	1 	2 	1 	in 	IN
+Est 	2 	5 	1 	3 	1 	Shushan 	NN
+Est 	2 	5 	1 	4 	1 	the 	DT
+Est 	2 	5 	1 	5 	1 	palace 	NN
+Est 	2 	5 	1 	6 	1 	there 	RB
+Est 	2 	5 	1 	7 	1 	was 	VBD
+Est 	2 	5 	1 	8 	1 	a 	DT
+Est 	2 	5 	1 	9 	1 	certain 	JJ
+Est 	2 	5 	1 	10 	1 	Jew 	NN
+Est 	2 	5 	1 	11 	0 	,
+Est 	2 	5 	1 	12 	1 	whose 	WP$
+Est 	2 	5 	1 	13 	1 	name 	NN
+Est 	2 	5 	1 	14 	1 	was 	VBD
+Est 	2 	5 	1 	15 	1 	Mordecai 	NN
+Est 	2 	5 	1 	16 	0 	,
+Est 	2 	5 	1 	17 	1 	the 	DT
+Est 	2 	5 	1 	18 	1 	son 	NN
+Est 	2 	5 	1 	19 	1 	of 	IN
+Est 	2 	5 	1 	20 	1 	Jair 	NN
+Est 	2 	5 	1 	21 	0 	,
+Est 	2 	5 	1 	22 	1 	the 	DT
+Est 	2 	5 	1 	23 	1 	son 	NN
+Est 	2 	5 	1 	24 	1 	of 	IN
+Est 	2 	5 	1 	25 	1 	Shimei 	NN
+Est 	2 	5 	1 	26 	0 	,
+Est 	2 	5 	1 	27 	1 	the 	DT
+Est 	2 	5 	1 	28 	1 	son 	NN
+Est 	2 	5 	1 	29 	1 	of 	IN
+Est 	2 	5 	1 	30 	1 	Kish 	VB
+Est 	2 	5 	1 	31 	0 	,
+Est 	2 	5 	1 	32 	1 	a 	DT
+Est 	2 	5 	1 	33 	1 	Benjamite 	NNP
+Est 	2 	5 	1 	34 	0 	;
+Est 	2 	6 	1 	1 	1 	Who 	WP
+Est 	2 	6 	1 	2 	1 	had 	VBD
+Est 	2 	6 	1 	3 	1 	been 	VBN
+Est 	2 	6 	1 	4 	1 	carried 	VBN
+Est 	2 	6 	1 	5 	1 	away 	RB
+Est 	2 	6 	1 	6 	1 	from 	IN
+Est 	2 	6 	1 	7 	1 	Jerusalem 	NN
+Est 	2 	6 	1 	8 	1 	with 	IN
+Est 	2 	6 	1 	9 	1 	the 	DT
+Est 	2 	6 	1 	10 	1 	captivity 	NN
+Est 	2 	6 	1 	11 	1 	which 	WDT
+Est 	2 	6 	1 	12 	1 	had 	VBD
+Est 	2 	6 	1 	13 	1 	been 	VBN
+Est 	2 	6 	1 	14 	1 	carried 	VBN
+Est 	2 	6 	1 	15 	1 	away 	RB
+Est 	2 	6 	1 	16 	1 	with 	IN
+Est 	2 	6 	1 	17 	1 	Jeconiah 	NN
+Est 	2 	6 	1 	18 	1 	king 	NN
+Est 	2 	6 	1 	19 	1 	of 	IN
+Est 	2 	6 	1 	20 	1 	Judah 	NN
+Est 	2 	6 	1 	21 	0 	,
+Est 	2 	6 	1 	22 	1 	whom 	WP
+Est 	2 	6 	1 	23 	1 	Nebuchadnezzar 	NN
+Est 	2 	6 	1 	24 	1 	the 	DT
+Est 	2 	6 	1 	25 	1 	king 	NN
+Est 	2 	6 	1 	26 	1 	of 	IN
+Est 	2 	6 	1 	27 	1 	Babylon 	NN
+Est 	2 	6 	1 	28 	1 	had 	VBD
+Est 	2 	6 	1 	29 	1 	carried 	VBN
+Est 	2 	6 	1 	30 	1 	away 	RB
+Est 	2 	6 	1 	31 	0 	.
+Est 	2 	7 	1 	1 	1 	And 	CC
+Est 	2 	7 	1 	2 	1 	he 	PRP
+Est 	2 	7 	1 	3 	1 	brought 	NN
+Est 	2 	7 	1 	4 	1 	up 	RB
+Est 	2 	7 	1 	5 	1 	Hadassah 	NN
+Est 	2 	7 	1 	6 	0 	,
+Est 	2 	7 	1 	7 	1 	that 	IN
+Est 	2 	7 	1 	8 	1 	is 	VBZ
+Est 	2 	7 	1 	9 	0 	,
+Est 	2 	7 	1 	10 	1 	Esther 	NN
+Est 	2 	7 	1 	11 	0 	,
+Est 	2 	7 	1 	12 	1 	his 	PRP$
+Est 	2 	7 	1 	13 	1 	uncle 	NN
+Est 	2 	7 	1 	14 	0 	's
+Est 	2 	7 	1 	15 	1 	daughter 	NN
+Est 	2 	7 	1 	16 	0 	:
+Est 	2 	7 	1 	17 	1 	for 	IN
+Est 	2 	7 	1 	18 	1 	she 	PRP
+Est 	2 	7 	1 	19 	1 	had 	VBD
+Est 	2 	7 	1 	20 	1 	neither 	DT
+Est 	2 	7 	1 	21 	1 	father 	NN
+Est 	2 	7 	1 	22 	1 	nor 	CC
+Est 	2 	7 	1 	23 	1 	mother 	NN
+Est 	2 	7 	1 	24 	0 	,
+Est 	2 	7 	1 	25 	1 	and 	CC
+Est 	2 	7 	1 	26 	1 	the 	DT
+Est 	2 	7 	1 	27 	1 	maid 	NN
+Est 	2 	7 	1 	28 	1 	was 	VBD
+Est 	2 	7 	1 	29 	1 	fair 	NN
+Est 	2 	7 	1 	30 	1 	and 	CC
+Est 	2 	7 	1 	31 	1 	beautiful 	NN
+Est 	2 	7 	1 	32 	0 	;
+Est 	2 	7 	1 	33 	1 	whom 	WP
+Est 	2 	7 	1 	34 	1 	Mordecai 	NN
+Est 	2 	7 	1 	35 	0 	,
+Est 	2 	7 	1 	36 	1 	when 	WRB
+Est 	2 	7 	1 	37 	1 	her 	PRP$
+Est 	2 	7 	1 	38 	1 	father 	NN
+Est 	2 	7 	1 	39 	1 	and 	CC
+Est 	2 	7 	1 	40 	1 	mother 	NN
+Est 	2 	7 	1 	41 	1 	were 	VBD
+Est 	2 	7 	1 	42 	1 	dead 	JJ
+Est 	2 	7 	1 	43 	0 	,
+Est 	2 	7 	1 	44 	1 	took 	VBD
+Est 	2 	7 	1 	45 	1 	for 	IN
+Est 	2 	7 	1 	46 	1 	his 	PRP$
+Est 	2 	7 	1 	47 	1 	own 	JJ
+Est 	2 	7 	1 	48 	1 	daughter 	NN
+Est 	2 	7 	1 	49 	0 	.
+Est 	2 	8 	1 	1 	1 	So 	RB
+Est 	2 	8 	1 	2 	1 	it 	PRP
+Est 	2 	8 	1 	3 	1 	came 	VBD
+Est 	2 	8 	1 	4 	1 	to 	TO
+Est 	2 	8 	1 	5 	1 	pass 	NN
+Est 	2 	8 	1 	6 	0 	,
+Est 	2 	8 	1 	7 	1 	when 	WRB
+Est 	2 	8 	1 	8 	1 	the 	DT
+Est 	2 	8 	1 	9 	1 	king 	NN
+Est 	2 	8 	1 	10 	0 	's
+Est 	2 	8 	1 	11 	1 	commandment 	NN
+Est 	2 	8 	1 	12 	1 	and 	CC
+Est 	2 	8 	1 	13 	1 	his 	PRP$
+Est 	2 	8 	1 	14 	1 	decree 	NN
+Est 	2 	8 	1 	15 	1 	was 	VBD
+Est 	2 	8 	1 	16 	1 	heard 	NN
+Est 	2 	8 	1 	17 	0 	,
+Est 	2 	8 	1 	18 	1 	and 	CC
+Est 	2 	8 	1 	19 	1 	when 	WRB
+Est 	2 	8 	1 	20 	1 	many 	JJ
+Est 	2 	8 	1 	21 	1 	maidens 	NNS
+Est 	2 	8 	1 	22 	1 	were 	VBD
+Est 	2 	8 	1 	23 	1 	gathered 	VBN
+Est 	2 	8 	1 	24 	1 	together 	RB
+Est 	2 	8 	1 	25 	1 	unto 	NN
+Est 	2 	8 	1 	26 	1 	Shushan 	NN
+Est 	2 	8 	1 	27 	1 	the 	DT
+Est 	2 	8 	1 	28 	1 	palace 	NN
+Est 	2 	8 	1 	29 	0 	,
+Est 	2 	8 	1 	30 	1 	to 	TO
+Est 	2 	8 	1 	31 	1 	the 	DT
+Est 	2 	8 	1 	32 	1 	custody 	NN
+Est 	2 	8 	1 	33 	1 	of 	IN
+Est 	2 	8 	1 	34 	1 	Hegai 	NN
+Est 	2 	8 	1 	35 	0 	,
+Est 	2 	8 	1 	36 	1 	that 	IN
+Est 	2 	8 	1 	37 	1 	Esther 	NN
+Est 	2 	8 	1 	38 	1 	was 	VBD
+Est 	2 	8 	1 	39 	1 	brought 	NN
+Est 	2 	8 	1 	40 	1 	also 	RB
+Est 	2 	8 	1 	41 	1 	unto 	NN
+Est 	2 	8 	1 	42 	1 	the 	DT
+Est 	2 	8 	1 	43 	1 	king 	NN
+Est 	2 	8 	1 	44 	0 	's
+Est 	2 	8 	1 	45 	1 	house 	NN
+Est 	2 	8 	1 	46 	0 	,
+Est 	2 	8 	1 	47 	1 	to 	TO
+Est 	2 	8 	1 	48 	1 	the 	DT
+Est 	2 	8 	1 	49 	1 	custody 	NN
+Est 	2 	8 	1 	50 	1 	of 	IN
+Est 	2 	8 	1 	51 	1 	Hegai 	NN
+Est 	2 	8 	1 	52 	0 	,
+Est 	2 	8 	1 	53 	1 	keeper 	NN
+Est 	2 	8 	1 	54 	1 	of 	IN
+Est 	2 	8 	1 	55 	1 	the 	DT
+Est 	2 	8 	1 	56 	1 	women 	NNS
+Est 	2 	8 	1 	57 	0 	.
+Est 	2 	9 	1 	1 	1 	And 	CC
+Est 	2 	9 	1 	2 	1 	the 	DT
+Est 	2 	9 	1 	3 	1 	maiden 	NN
+Est 	2 	9 	1 	4 	1 	pleased 	JJ
+Est 	2 	9 	1 	5 	1 	him 	PRP
+Est 	2 	9 	1 	6 	0 	,
+Est 	2 	9 	1 	7 	1 	and 	CC
+Est 	2 	9 	1 	8 	1 	she 	PRP
+Est 	2 	9 	1 	9 	1 	obtained 	VBN
+Est 	2 	9 	1 	10 	1 	kindness 	NN
+Est 	2 	9 	1 	11 	1 	of 	IN
+Est 	2 	9 	1 	12 	1 	him 	PRP
+Est 	2 	9 	1 	13 	0 	;
+Est 	2 	9 	1 	14 	1 	and 	CC
+Est 	2 	9 	1 	15 	1 	he 	PRP
+Est 	2 	9 	1 	16 	1 	speedily 	RB
+Est 	2 	9 	1 	17 	1 	gave 	VBD
+Est 	2 	9 	1 	18 	1 	her 	PRP$
+Est 	2 	9 	1 	19 	1 	her 	PRP$
+Est 	2 	9 	1 	20 	1 	things 	NNS
+Est 	2 	9 	1 	21 	1 	for 	IN
+Est 	2 	9 	1 	22 	1 	purification 	NN
+Est 	2 	9 	1 	23 	0 	,
+Est 	2 	9 	1 	24 	1 	with 	IN
+Est 	2 	9 	1 	25 	1 	such 	JJ
+Est 	2 	9 	1 	26 	1 	things 	NNS
+Est 	2 	9 	1 	27 	1 	as 	IN
+Est 	2 	9 	1 	28 	1 	belonged 	VBN
+Est 	2 	9 	1 	29 	1 	to 	TO
+Est 	2 	9 	1 	30 	1 	her 	PRP$
+Est 	2 	9 	1 	31 	0 	,
+Est 	2 	9 	1 	32 	1 	and 	CC
+Est 	2 	9 	1 	33 	1 	seven 	CD
+Est 	2 	9 	1 	34 	1 	maidens 	NNS
+Est 	2 	9 	1 	35 	0 	,
+Est 	2 	9 	1 	36 	1 	which 	WDT
+Est 	2 	9 	1 	37 	1 	were 	VBD
+Est 	2 	9 	1 	38 	1 	meet 	NN
+Est 	2 	9 	1 	39 	1 	to 	TO
+Est 	2 	9 	1 	40 	1 	be 	VB
+Est 	2 	9 	1 	41 	1 	given 	VBN
+Est 	2 	9 	1 	42 	1 	her 	PRP$
+Est 	2 	9 	1 	43 	0 	,
+Est 	2 	9 	1 	44 	1 	out 	IN
+Est 	2 	9 	1 	45 	1 	of 	IN
+Est 	2 	9 	1 	46 	1 	the 	DT
+Est 	2 	9 	1 	47 	1 	king 	NN
+Est 	2 	9 	1 	48 	0 	's
+Est 	2 	9 	1 	49 	1 	house 	NN
+Est 	2 	9 	1 	50 	0 	:
+Est 	2 	9 	1 	51 	1 	and 	CC
+Est 	2 	9 	1 	52 	1 	he 	PRP
+Est 	2 	9 	1 	53 	1 	preferred 	VBN
+Est 	2 	9 	1 	54 	1 	her 	PRP$
+Est 	2 	9 	1 	55 	1 	and 	CC
+Est 	2 	9 	1 	56 	1 	her 	PRP$
+Est 	2 	9 	1 	57 	1 	maids 	NNS
+Est 	2 	9 	1 	58 	1 	unto 	NN
+Est 	2 	9 	1 	59 	1 	the 	DT
+Est 	2 	9 	1 	60 	1 	best 	JJS
+Est 	2 	9 	1 	61 	1 	place 	NN
+Est 	2 	9 	1 	62 	1 	of 	IN
+Est 	2 	9 	1 	63 	1 	the 	DT
+Est 	2 	9 	1 	64 	1 	house 	NN
+Est 	2 	9 	1 	65 	1 	of 	IN
+Est 	2 	9 	1 	66 	1 	the 	DT
+Est 	2 	9 	1 	67 	1 	women 	NNS
+Est 	2 	9 	1 	68 	0 	.
+Est 	2 	10 	1 	1 	1 	her 	PRP$
+Est 	2 	10 	1 	2 	1 	had 	VBD
+Est 	2 	10 	1 	3 	1 	not 	RB
+Est 	2 	10 	1 	4 	1 	shewed 	VBN
+Est 	2 	10 	1 	5 	1 	her 	PRP$
+Est 	2 	10 	1 	6 	1 	people 	NNS
+Est 	2 	10 	1 	7 	1 	nor 	CC
+Est 	2 	10 	1 	8 	1 	her 	PRP$
+Est 	2 	10 	1 	9 	1 	kindred 	VBN
+Est 	2 	10 	1 	10 	0 	:
+Est 	2 	10 	1 	11 	1 	for 	IN
+Est 	2 	10 	1 	12 	1 	Mordecai 	NN
+Est 	2 	10 	1 	13 	1 	had 	VBD
+Est 	2 	10 	1 	14 	1 	charged 	VBN
+Est 	2 	10 	1 	15 	1 	her 	PRP$
+Est 	2 	10 	1 	16 	1 	that 	IN
+Est 	2 	10 	1 	17 	1 	she 	PRP
+Est 	2 	10 	1 	18 	1 	should 	MD
+Est 	2 	10 	1 	19 	1 	not 	RB
+Est 	2 	10 	1 	20 	1 	shew 	NN
+Est 	2 	10 	1 	21 	1 	it 	PRP
+Est 	2 	10 	1 	22 	0 	.
+Est 	2 	11 	1 	1 	1 	And 	CC
+Est 	2 	11 	1 	2 	1 	Mordecai 	NN
+Est 	2 	11 	1 	3 	1 	walked 	VBD
+Est 	2 	11 	1 	4 	1 	every 	DT
+Est 	2 	11 	1 	5 	1 	day 	NN
+Est 	2 	11 	1 	6 	1 	before 	IN
+Est 	2 	11 	1 	7 	1 	the 	DT
+Est 	2 	11 	1 	8 	1 	court 	NN
+Est 	2 	11 	1 	9 	1 	of 	IN
+Est 	2 	11 	1 	10 	1 	the 	DT
+Est 	2 	11 	1 	11 	1 	women 	NNS
+Est 	2 	11 	1 	12 	0 	's
+Est 	2 	11 	1 	13 	1 	house 	NN
+Est 	2 	11 	1 	14 	0 	,
+Est 	2 	11 	1 	15 	1 	to 	TO
+Est 	2 	11 	1 	16 	1 	know 	VB
+Est 	2 	11 	1 	17 	1 	how 	WRB
+Est 	2 	11 	1 	18 	1 	Esther 	NN
+Est 	2 	11 	1 	19 	1 	did 	VBD
+Est 	2 	11 	1 	20 	0 	,
+Est 	2 	11 	1 	21 	1 	and 	CC
+Est 	2 	11 	1 	22 	1 	what 	WP
+Est 	2 	11 	1 	23 	1 	should 	MD
+Est 	2 	11 	1 	24 	1 	become 	NN
+Est 	2 	11 	1 	25 	1 	of 	IN
+Est 	2 	11 	1 	26 	1 	her 	PRP$
+Est 	2 	11 	1 	27 	0 	.
+Est 	2 	12 	1 	1 	1 	Now 	RB
+Est 	2 	12 	1 	2 	1 	when 	WRB
+Est 	2 	12 	1 	3 	1 	every 	DT
+Est 	2 	12 	1 	4 	1 	maid 	NN
+Est 	2 	12 	1 	5 	0 	's
+Est 	2 	12 	1 	6 	1 	turn 	NN
+Est 	2 	12 	1 	7 	1 	was 	VBD
+Est 	2 	12 	1 	8 	1 	come 	VB
+Est 	2 	12 	1 	9 	1 	to 	TO
+Est 	2 	12 	1 	10 	1 	go 	VB
+Est 	2 	12 	1 	11 	1 	in 	IN
+Est 	2 	12 	1 	12 	1 	to 	TO
+Est 	2 	12 	1 	13 	1 	king 	NN
+Est 	2 	12 	1 	14 	1 	Ahasuerus 	NN
+Est 	2 	12 	1 	15 	0 	,
+Est 	2 	12 	1 	16 	1 	after 	IN
+Est 	2 	12 	1 	17 	1 	that 	IN
+Est 	2 	12 	1 	18 	1 	she 	PRP
+Est 	2 	12 	1 	19 	1 	had 	VBD
+Est 	2 	12 	1 	20 	1 	been 	VBN
+Est 	2 	12 	1 	21 	1 	twelve 	NN
+Est 	2 	12 	1 	22 	1 	months 	NNS
+Est 	2 	12 	1 	23 	0 	,
+Est 	2 	12 	1 	24 	1 	according 	VBG
+Est 	2 	12 	1 	25 	1 	to 	TO
+Est 	2 	12 	1 	26 	1 	the 	DT
+Est 	2 	12 	1 	27 	1 	manner 	NN
+Est 	2 	12 	1 	28 	1 	of 	IN
+Est 	2 	12 	1 	29 	1 	the 	DT
+Est 	2 	12 	1 	30 	1 	women 	NNS
+Est 	2 	12 	1 	31 	0 	,
+Est 	2 	12 	1 	32 	0 	(
+Est 	2 	12 	1 	33 	1 	for 	IN
+Est 	2 	12 	1 	34 	1 	so 	RB
+Est 	2 	12 	1 	35 	1 	were 	VBD
+Est 	2 	12 	1 	36 	1 	the 	DT
+Est 	2 	12 	1 	37 	1 	days 	NNS
+Est 	2 	12 	1 	38 	1 	of 	IN
+Est 	2 	12 	1 	39 	1 	their 	PRP$
+Est 	2 	12 	1 	40 	1 	purifications 	NNS
+Est 	2 	12 	1 	41 	1 	accomplished 	VBN
+Est 	2 	12 	1 	42 	0 	,
+Est 	2 	12 	1 	43 	1 	to 	TO
+Est 	2 	12 	1 	44 	1 	wit 	NN
+Est 	2 	12 	1 	45 	0 	,
+Est 	2 	12 	1 	46 	1 	six 	CD
+Est 	2 	12 	1 	47 	1 	months 	NNS
+Est 	2 	12 	1 	48 	1 	with 	IN
+Est 	2 	12 	1 	49 	1 	oil 	NN
+Est 	2 	12 	1 	50 	1 	of 	IN
+Est 	2 	12 	1 	51 	1 	myrrh 	NN
+Est 	2 	12 	1 	52 	0 	,
+Est 	2 	12 	1 	53 	1 	and 	CC
+Est 	2 	12 	1 	54 	1 	six 	CD
+Est 	2 	12 	1 	55 	1 	months 	NNS
+Est 	2 	12 	1 	56 	1 	with 	IN
+Est 	2 	12 	1 	57 	1 	sweet 	NN
+Est 	2 	12 	1 	58 	1 	odours 	NNS
+Est 	2 	12 	1 	59 	0 	,
+Est 	2 	12 	1 	60 	1 	and 	CC
+Est 	2 	12 	1 	61 	1 	with 	IN
+Est 	2 	12 	1 	62 	1 	other 	JJ
+Est 	2 	12 	1 	63 	1 	things 	NNS
+Est 	2 	12 	1 	64 	1 	for 	IN
+Est 	2 	12 	1 	65 	1 	the 	DT
+Est 	2 	12 	1 	66 	1 	purifying 	VBG
+Est 	2 	12 	1 	67 	1 	of 	IN
+Est 	2 	12 	1 	68 	1 	the 	DT
+Est 	2 	12 	1 	69 	1 	women 	NNS
+Est 	2 	12 	1 	70 	0 	;
+Est 	2 	12 	1 	71 	0 	)
+Est 	2 	13 	1 	1 	1 	Then 	RB
+Est 	2 	13 	1 	2 	1 	thus 	RB
+Est 	2 	13 	1 	3 	1 	came 	VBD
+Est 	2 	13 	1 	4 	1 	every 	DT
+Est 	2 	13 	1 	5 	1 	maiden 	NN
+Est 	2 	13 	1 	6 	1 	unto 	NN
+Est 	2 	13 	1 	7 	1 	the 	DT
+Est 	2 	13 	1 	8 	1 	king 	NN
+Est 	2 	13 	1 	9 	0 	;
+Est 	2 	13 	1 	10 	1 	whatsoever 	NN
+Est 	2 	13 	1 	11 	1 	she 	PRP
+Est 	2 	13 	1 	12 	1 	desired 	VBN
+Est 	2 	13 	1 	13 	1 	was 	VBD
+Est 	2 	13 	1 	14 	1 	given 	VBN
+Est 	2 	13 	1 	15 	1 	her 	PRP$
+Est 	2 	13 	1 	16 	1 	to 	TO
+Est 	2 	13 	1 	17 	1 	go 	VB
+Est 	2 	13 	1 	18 	1 	with 	IN
+Est 	2 	13 	1 	19 	1 	her 	PRP$
+Est 	2 	13 	1 	20 	1 	out 	IN
+Est 	2 	13 	1 	21 	1 	of 	IN
+Est 	2 	13 	1 	22 	1 	the 	DT
+Est 	2 	13 	1 	23 	1 	house 	NN
+Est 	2 	13 	1 	24 	1 	of 	IN
+Est 	2 	13 	1 	25 	1 	the 	DT
+Est 	2 	13 	1 	26 	1 	women 	NNS
+Est 	2 	13 	1 	27 	1 	unto 	NN
+Est 	2 	13 	1 	28 	1 	the 	DT
+Est 	2 	13 	1 	29 	1 	king 	NN
+Est 	2 	13 	1 	30 	0 	's
+Est 	2 	13 	1 	31 	1 	house 	NN
+Est 	2 	13 	1 	32 	0 	.
+Est 	2 	14 	1 	1 	1 	In 	IN
+Est 	2 	14 	1 	2 	1 	the 	DT
+Est 	2 	14 	1 	3 	1 	evening 	VBG
+Est 	2 	14 	1 	4 	1 	she 	PRP
+Est 	2 	14 	1 	5 	1 	went 	VBD
+Est 	2 	14 	1 	6 	0 	,
+Est 	2 	14 	1 	7 	1 	and 	CC
+Est 	2 	14 	1 	8 	1 	on 	IN
+Est 	2 	14 	1 	9 	1 	the 	DT
+Est 	2 	14 	1 	10 	1 	morrow 	NN
+Est 	2 	14 	1 	11 	1 	she 	PRP
+Est 	2 	14 	1 	12 	1 	returned 	VBN
+Est 	2 	14 	1 	13 	1 	into 	IN
+Est 	2 	14 	1 	14 	1 	the 	DT
+Est 	2 	14 	1 	15 	1 	second 	JJ
+Est 	2 	14 	1 	16 	1 	house 	NN
+Est 	2 	14 	1 	17 	1 	of 	IN
+Est 	2 	14 	1 	18 	1 	the 	DT
+Est 	2 	14 	1 	19 	1 	women 	NNS
+Est 	2 	14 	1 	20 	0 	,
+Est 	2 	14 	1 	21 	1 	to 	TO
+Est 	2 	14 	1 	22 	1 	the 	DT
+Est 	2 	14 	1 	23 	1 	custody 	NN
+Est 	2 	14 	1 	24 	1 	of 	IN
+Est 	2 	14 	1 	25 	1 	Shaashgaz 	NN
+Est 	2 	14 	1 	26 	0 	,
+Est 	2 	14 	1 	27 	1 	the 	DT
+Est 	2 	14 	1 	28 	1 	king 	NN
+Est 	2 	14 	1 	29 	0 	's
+Est 	2 	14 	1 	30 	1 	chamberlain 	NN
+Est 	2 	14 	1 	31 	0 	,
+Est 	2 	14 	1 	32 	1 	which 	WDT
+Est 	2 	14 	1 	33 	1 	kept 	NN
+Est 	2 	14 	1 	34 	1 	the 	DT
+Est 	2 	14 	1 	35 	1 	concubines 	NNS
+Est 	2 	14 	1 	36 	0 	:
+Est 	2 	14 	1 	37 	1 	she 	PRP
+Est 	2 	14 	1 	38 	1 	came 	VBD
+Est 	2 	14 	1 	39 	1 	in 	IN
+Est 	2 	14 	1 	40 	1 	unto 	NN
+Est 	2 	14 	1 	41 	1 	the 	DT
+Est 	2 	14 	1 	42 	1 	king 	NN
+Est 	2 	14 	1 	43 	1 	no 	DT
+Est 	2 	14 	1 	44 	1 	more 	RBR
+Est 	2 	14 	1 	45 	0 	,
+Est 	2 	14 	1 	46 	1 	except 	IN
+Est 	2 	14 	1 	47 	1 	the 	DT
+Est 	2 	14 	1 	48 	1 	king 	NN
+Est 	2 	14 	1 	49 	1 	delighted 	JJ
+Est 	2 	14 	1 	50 	1 	in 	IN
+Est 	2 	14 	1 	51 	1 	her 	PRP$
+Est 	2 	14 	1 	52 	0 	,
+Est 	2 	14 	1 	53 	1 	and 	CC
+Est 	2 	14 	1 	54 	1 	that 	IN
+Est 	2 	14 	1 	55 	1 	she 	PRP
+Est 	2 	14 	1 	56 	1 	were 	VBD
+Est 	2 	14 	1 	57 	1 	called 	VBN
+Est 	2 	14 	1 	58 	1 	by 	IN
+Est 	2 	14 	1 	59 	1 	name 	NN
+Est 	2 	14 	1 	60 	0 	.
+Est 	2 	15 	1 	1 	1 	Now 	RB
+Est 	2 	15 	1 	2 	1 	when 	WRB
+Est 	2 	15 	1 	3 	1 	the 	DT
+Est 	2 	15 	1 	4 	1 	turn 	NN
+Est 	2 	15 	1 	5 	1 	of 	IN
+Est 	2 	15 	1 	6 	1 	Esther 	NN
+Est 	2 	15 	1 	7 	0 	,
+Est 	2 	15 	1 	8 	1 	the 	DT
+Est 	2 	15 	1 	9 	1 	daughter 	NN
+Est 	2 	15 	1 	10 	1 	of 	IN
+Est 	2 	15 	1 	11 	1 	Abihail 	NN
+Est 	2 	15 	1 	12 	1 	the 	DT
+Est 	2 	15 	1 	13 	1 	uncle 	NN
+Est 	2 	15 	1 	14 	1 	of 	IN
+Est 	2 	15 	1 	15 	1 	Mordecai 	NN
+Est 	2 	15 	1 	16 	0 	,
+Est 	2 	15 	1 	17 	1 	who 	WP
+Est 	2 	15 	1 	18 	1 	had 	VBD
+Est 	2 	15 	1 	19 	1 	taken 	VBN
+Est 	2 	15 	1 	20 	1 	her 	PRP$
+Est 	2 	15 	1 	21 	1 	for 	IN
+Est 	2 	15 	1 	22 	1 	his 	PRP$
+Est 	2 	15 	1 	23 	1 	daughter 	NN
+Est 	2 	15 	1 	24 	0 	,
+Est 	2 	15 	1 	25 	1 	was 	VBD
+Est 	2 	15 	1 	26 	1 	come 	VB
+Est 	2 	15 	1 	27 	1 	to 	TO
+Est 	2 	15 	1 	28 	1 	go 	VB
+Est 	2 	15 	1 	29 	1 	in 	IN
+Est 	2 	15 	1 	30 	1 	unto 	NN
+Est 	2 	15 	1 	31 	1 	the 	DT
+Est 	2 	15 	1 	32 	1 	king 	NN
+Est 	2 	15 	1 	33 	0 	,
+Est 	2 	15 	1 	34 	1 	she 	PRP
+Est 	2 	15 	1 	35 	1 	required 	VBN
+Est 	2 	15 	1 	36 	1 	nothing 	NN
+Est 	2 	15 	1 	37 	1 	but 	CC
+Est 	2 	15 	1 	38 	1 	what 	WP
+Est 	2 	15 	1 	39 	1 	Hegai 	NN
+Est 	2 	15 	1 	40 	1 	the 	DT
+Est 	2 	15 	1 	41 	1 	king 	NN
+Est 	2 	15 	1 	42 	0 	's
+Est 	2 	15 	1 	43 	1 	chamberlain 	NN
+Est 	2 	15 	1 	44 	0 	,
+Est 	2 	15 	1 	45 	1 	the 	DT
+Est 	2 	15 	1 	46 	1 	keeper 	NN
+Est 	2 	15 	1 	47 	1 	of 	IN
+Est 	2 	15 	1 	48 	1 	the 	DT
+Est 	2 	15 	1 	49 	1 	women 	NNS
+Est 	2 	15 	1 	50 	0 	,
+Est 	2 	15 	1 	51 	1 	appointed 	VBN
+Est 	2 	15 	1 	52 	0 	.
+Est 	2 	15 	2 	1 	1 	And 	CC
+Est 	2 	15 	2 	2 	1 	Esther 	NN
+Est 	2 	15 	2 	3 	1 	obtained 	VBN
+Est 	2 	15 	2 	4 	1 	favour 	NN
+Est 	2 	15 	2 	5 	1 	in 	IN
+Est 	2 	15 	2 	6 	1 	the 	DT
+Est 	2 	15 	2 	7 	1 	sight 	NN
+Est 	2 	15 	2 	8 	1 	of 	IN
+Est 	2 	15 	2 	9 	1 	all 	DT
+Est 	2 	15 	2 	10 	1 	them 	PRP
+Est 	2 	15 	2 	11 	1 	that 	IN
+Est 	2 	15 	2 	12 	1 	looked 	VBD
+Est 	2 	15 	2 	13 	1 	upon 	IN
+Est 	2 	15 	2 	14 	1 	her 	PRP$
+Est 	2 	15 	2 	15 	0 	.
+Est 	2 	16 	1 	1 	1 	So 	RB
+Est 	2 	16 	1 	2 	1 	Esther 	NN
+Est 	2 	16 	1 	3 	1 	was 	VBD
+Est 	2 	16 	1 	4 	1 	taken 	VBN
+Est 	2 	16 	1 	5 	1 	unto 	NN
+Est 	2 	16 	1 	6 	1 	king 	NN
+Est 	2 	16 	1 	7 	1 	Ahasuerus 	NN
+Est 	2 	16 	1 	8 	1 	into 	IN
+Est 	2 	16 	1 	9 	1 	his 	PRP$
+Est 	2 	16 	1 	10 	1 	house 	NN
+Est 	2 	16 	1 	11 	1 	royal 	NN
+Est 	2 	16 	1 	12 	1 	in 	IN
+Est 	2 	16 	1 	13 	1 	the 	DT
+Est 	2 	16 	1 	14 	1 	tenth 	NN
+Est 	2 	16 	1 	15 	1 	month 	NN
+Est 	2 	16 	1 	16 	0 	,
+Est 	2 	16 	1 	17 	1 	which 	WDT
+Est 	2 	16 	1 	18 	1 	is 	VBZ
+Est 	2 	16 	1 	19 	1 	the 	DT
+Est 	2 	16 	1 	20 	1 	month 	NN
+Est 	2 	16 	1 	21 	1 	Tebeth 	NN
+Est 	2 	16 	1 	22 	0 	,
+Est 	2 	16 	1 	23 	1 	in 	IN
+Est 	2 	16 	1 	24 	1 	the 	DT
+Est 	2 	16 	1 	25 	1 	seventh 	NN
+Est 	2 	16 	1 	26 	1 	year 	NN
+Est 	2 	16 	1 	27 	1 	of 	IN
+Est 	2 	16 	1 	28 	1 	his 	PRP$
+Est 	2 	16 	1 	29 	1 	reign 	NN
+Est 	2 	16 	1 	30 	0 	.
+Est 	2 	17 	1 	1 	1 	And 	CC
+Est 	2 	17 	1 	2 	1 	the 	DT
+Est 	2 	17 	1 	3 	1 	king 	NN
+Est 	2 	17 	1 	4 	1 	loved 	VBN
+Est 	2 	17 	1 	5 	1 	Esther 	NN
+Est 	2 	17 	1 	6 	1 	above 	IN
+Est 	2 	17 	1 	7 	1 	all 	DT
+Est 	2 	17 	1 	8 	1 	the 	DT
+Est 	2 	17 	1 	9 	1 	women 	NNS
+Est 	2 	17 	1 	10 	0 	,
+Est 	2 	17 	1 	11 	1 	and 	CC
+Est 	2 	17 	1 	12 	1 	she 	PRP
+Est 	2 	17 	1 	13 	1 	obtained 	VBN
+Est 	2 	17 	1 	14 	1 	grace 	NN
+Est 	2 	17 	1 	15 	1 	and 	CC
+Est 	2 	17 	1 	16 	1 	favour 	NN
+Est 	2 	17 	1 	17 	1 	in 	IN
+Est 	2 	17 	1 	18 	1 	his 	PRP$
+Est 	2 	17 	1 	19 	1 	sight 	NN
+Est 	2 	17 	1 	20 	1 	more 	RBR
+Est 	2 	17 	1 	21 	1 	than 	IN
+Est 	2 	17 	1 	22 	1 	all 	DT
+Est 	2 	17 	1 	23 	1 	the 	DT
+Est 	2 	17 	1 	24 	1 	virgins 	NNS
+Est 	2 	17 	1 	25 	0 	;
+Est 	2 	17 	1 	26 	1 	so 	RB
+Est 	2 	17 	1 	27 	1 	that 	IN
+Est 	2 	17 	1 	28 	1 	he 	PRP
+Est 	2 	17 	1 	29 	1 	set 	NN
+Est 	2 	17 	1 	30 	1 	the 	DT
+Est 	2 	17 	1 	31 	1 	royal 	NN
+Est 	2 	17 	1 	32 	1 	crown 	NN
+Est 	2 	17 	1 	33 	1 	upon 	IN
+Est 	2 	17 	1 	34 	1 	her 	PRP$
+Est 	2 	17 	1 	35 	1 	head 	NN
+Est 	2 	17 	1 	36 	0 	,
+Est 	2 	17 	1 	37 	1 	and 	CC
+Est 	2 	17 	1 	38 	1 	made 	VBN
+Est 	2 	17 	1 	39 	1 	her 	PRP$
+Est 	2 	17 	1 	40 	1 	queen 	NN
+Est 	2 	17 	1 	41 	1 	instead 	RB
+Est 	2 	17 	1 	42 	1 	of 	IN
+Est 	2 	17 	1 	43 	1 	Vashti 	NN
+Est 	2 	17 	1 	44 	0 	.
+Est 	2 	18 	1 	1 	1 	Then 	RB
+Est 	2 	18 	1 	2 	1 	the 	DT
+Est 	2 	18 	1 	3 	1 	king 	NN
+Est 	2 	18 	1 	4 	1 	made 	VBN
+Est 	2 	18 	1 	5 	1 	a 	DT
+Est 	2 	18 	1 	6 	1 	great 	JJ
+Est 	2 	18 	1 	7 	1 	feast 	NN
+Est 	2 	18 	1 	8 	1 	unto 	NN
+Est 	2 	18 	1 	9 	1 	all 	DT
+Est 	2 	18 	1 	10 	1 	his 	PRP$
+Est 	2 	18 	1 	11 	1 	princes 	NNS
+Est 	2 	18 	1 	12 	1 	and 	CC
+Est 	2 	18 	1 	13 	1 	his 	PRP$
+Est 	2 	18 	1 	14 	1 	servants 	NNS
+Est 	2 	18 	1 	15 	0 	,
+Est 	2 	18 	1 	16 	1 	even 	RB
+Est 	2 	18 	1 	17 	1 	Esther 	NN
+Est 	2 	18 	1 	18 	0 	's
+Est 	2 	18 	1 	19 	1 	feast 	NN
+Est 	2 	18 	1 	20 	0 	;
+Est 	2 	18 	1 	21 	1 	and 	CC
+Est 	2 	18 	1 	22 	1 	he 	PRP
+Est 	2 	18 	1 	23 	1 	made 	VBN
+Est 	2 	18 	1 	24 	1 	a 	DT
+Est 	2 	18 	1 	25 	1 	release 	NN
+Est 	2 	18 	1 	26 	1 	to 	TO
+Est 	2 	18 	1 	27 	1 	the 	DT
+Est 	2 	18 	1 	28 	1 	provinces 	NNS
+Est 	2 	18 	1 	29 	0 	,
+Est 	2 	18 	1 	30 	1 	and 	CC
+Est 	2 	18 	1 	31 	1 	gave 	VBD
+Est 	2 	18 	1 	32 	1 	gifts 	NNS
+Est 	2 	18 	1 	33 	0 	,
+Est 	2 	18 	1 	34 	1 	according 	VBG
+Est 	2 	18 	1 	35 	1 	to 	TO
+Est 	2 	18 	1 	36 	1 	the 	DT
+Est 	2 	18 	1 	37 	1 	state 	NN
+Est 	2 	18 	1 	38 	1 	of 	IN
+Est 	2 	18 	1 	39 	1 	the 	DT
+Est 	2 	18 	1 	40 	1 	king 	NN
+Est 	2 	18 	1 	41 	0 	.
+Est 	2 	19 	1 	1 	1 	And 	CC
+Est 	2 	19 	1 	2 	1 	when 	WRB
+Est 	2 	19 	1 	3 	1 	the 	DT
+Est 	2 	19 	1 	4 	1 	virgins 	NNS
+Est 	2 	19 	1 	5 	1 	were 	VBD
+Est 	2 	19 	1 	6 	1 	gathered 	VBN
+Est 	2 	19 	1 	7 	1 	together 	RB
+Est 	2 	19 	1 	8 	1 	the 	DT
+Est 	2 	19 	1 	9 	1 	second 	JJ
+Est 	2 	19 	1 	10 	1 	time 	NN
+Est 	2 	19 	1 	11 	0 	,
+Est 	2 	19 	1 	12 	1 	then 	RB
+Est 	2 	19 	1 	13 	1 	Mordecai 	NN
+Est 	2 	19 	1 	14 	1 	sat 	NN
+Est 	2 	19 	1 	15 	1 	in 	IN
+Est 	2 	19 	1 	16 	1 	the 	DT
+Est 	2 	19 	1 	17 	1 	king 	NN
+Est 	2 	19 	1 	18 	0 	's
+Est 	2 	19 	1 	19 	1 	gate 	NN
+Est 	2 	19 	1 	20 	0 	.
+Est 	2 	20 	1 	1 	1 	her 	PRP$
+Est 	2 	20 	1 	2 	1 	had 	VBD
+Est 	2 	20 	1 	3 	1 	not 	RB
+Est 	2 	20 	1 	4 	1 	yet 	RB
+Est 	2 	20 	1 	5 	1 	shewed 	VBN
+Est 	2 	20 	1 	6 	1 	her 	PRP$
+Est 	2 	20 	1 	7 	1 	kindred 	VBN
+Est 	2 	20 	1 	8 	1 	nor 	CC
+Est 	2 	20 	1 	9 	1 	her 	PRP$
+Est 	2 	20 	1 	10 	1 	people 	NNS
+Est 	2 	20 	1 	11 	0 	;
+Est 	2 	20 	1 	12 	1 	as 	IN
+Est 	2 	20 	1 	13 	1 	Mordecai 	NN
+Est 	2 	20 	1 	14 	1 	had 	VBD
+Est 	2 	20 	1 	15 	1 	charged 	VBN
+Est 	2 	20 	1 	16 	1 	her 	PRP$
+Est 	2 	20 	1 	17 	0 	:
+Est 	2 	20 	1 	18 	1 	for 	IN
+Est 	2 	20 	1 	19 	1 	Esther 	NN
+Est 	2 	20 	1 	20 	1 	did 	VBD
+Est 	2 	20 	1 	21 	1 	the 	DT
+Est 	2 	20 	1 	22 	1 	commandment 	NN
+Est 	2 	20 	1 	23 	1 	of 	IN
+Est 	2 	20 	1 	24 	1 	Mordecai 	NN
+Est 	2 	20 	1 	25 	0 	,
+Est 	2 	20 	1 	26 	1 	like 	IN
+Est 	2 	20 	1 	27 	1 	as 	IN
+Est 	2 	20 	1 	28 	1 	when 	WRB
+Est 	2 	20 	1 	29 	1 	she 	PRP
+Est 	2 	20 	1 	30 	1 	was 	VBD
+Est 	2 	20 	1 	31 	1 	brought 	NN
+Est 	2 	20 	1 	32 	1 	up 	RB
+Est 	2 	20 	1 	33 	1 	with 	IN
+Est 	2 	20 	1 	34 	1 	him 	PRP
+Est 	2 	20 	1 	35 	0 	.
+Est 	2 	21 	1 	1 	1 	In 	IN
+Est 	2 	21 	1 	2 	1 	those 	DT
+Est 	2 	21 	1 	3 	1 	days 	NNS
+Est 	2 	21 	1 	4 	0 	,
+Est 	2 	21 	1 	5 	1 	while 	IN
+Est 	2 	21 	1 	6 	1 	Mordecai 	NN
+Est 	2 	21 	1 	7 	1 	sat 	NN
+Est 	2 	21 	1 	8 	1 	in 	IN
+Est 	2 	21 	1 	9 	1 	the 	DT
+Est 	2 	21 	1 	10 	1 	king 	NN
+Est 	2 	21 	1 	11 	0 	's
+Est 	2 	21 	1 	12 	1 	gate 	NN
+Est 	2 	21 	1 	13 	0 	,
+Est 	2 	21 	1 	14 	1 	two 	CD
+Est 	2 	21 	1 	15 	1 	of 	IN
+Est 	2 	21 	1 	16 	1 	the 	DT
+Est 	2 	21 	1 	17 	1 	king 	NN
+Est 	2 	21 	1 	18 	0 	's
+Est 	2 	21 	1 	19 	1 	chamberlains 	NNS
+Est 	2 	21 	1 	20 	0 	,
+Est 	2 	21 	1 	21 	1 	Bigthan 	NNP
+Est 	2 	21 	1 	22 	1 	and 	CC
+Est 	2 	21 	1 	23 	1 	Teresh 	NN
+Est 	2 	21 	1 	24 	0 	,
+Est 	2 	21 	1 	25 	1 	of 	IN
+Est 	2 	21 	1 	26 	1 	those 	DT
+Est 	2 	21 	1 	27 	1 	which 	WDT
+Est 	2 	21 	1 	28 	1 	kept 	NN
+Est 	2 	21 	1 	29 	1 	the 	DT
+Est 	2 	21 	1 	30 	1 	door 	NN
+Est 	2 	21 	1 	31 	0 	,
+Est 	2 	21 	1 	32 	1 	were 	VBD
+Est 	2 	21 	1 	33 	1 	wroth 	NN
+Est 	2 	21 	1 	34 	0 	,
+Est 	2 	21 	1 	35 	1 	and 	CC
+Est 	2 	21 	1 	36 	1 	sought 	NN
+Est 	2 	21 	1 	37 	1 	to 	TO
+Est 	2 	21 	1 	38 	1 	lay 	NN
+Est 	2 	21 	1 	39 	1 	hands 	NNS
+Est 	2 	21 	1 	40 	1 	on 	IN
+Est 	2 	21 	1 	41 	1 	the 	DT
+Est 	2 	21 	1 	42 	1 	king 	NN
+Est 	2 	21 	1 	43 	1 	Ahasuerus 	NN
+Est 	2 	21 	1 	44 	0 	.
+Est 	2 	22 	1 	1 	1 	And 	CC
+Est 	2 	22 	1 	2 	1 	the 	DT
+Est 	2 	22 	1 	3 	1 	thing 	NN
+Est 	2 	22 	1 	4 	1 	was 	VBD
+Est 	2 	22 	1 	5 	1 	known 	VBN
+Est 	2 	22 	1 	6 	1 	to 	TO
+Est 	2 	22 	1 	7 	1 	Mordecai 	NN
+Est 	2 	22 	1 	8 	0 	,
+Est 	2 	22 	1 	9 	1 	who 	WP
+Est 	2 	22 	1 	10 	1 	told 	NN
+Est 	2 	22 	1 	11 	1 	it 	PRP
+Est 	2 	22 	1 	12 	1 	unto 	NN
+Est 	2 	22 	1 	13 	1 	Esther 	NN
+Est 	2 	22 	1 	14 	1 	the 	DT
+Est 	2 	22 	1 	15 	1 	queen 	NN
+Est 	2 	22 	1 	16 	0 	;
+Est 	2 	22 	1 	17 	1 	and 	CC
+Est 	2 	22 	1 	18 	1 	Esther 	NN
+Est 	2 	22 	1 	19 	1 	certified 	VBN
+Est 	2 	22 	1 	20 	1 	the 	DT
+Est 	2 	22 	1 	21 	1 	king 	NN
+Est 	2 	22 	1 	22 	1 	thereof 	NN
+Est 	2 	22 	1 	23 	1 	in 	IN
+Est 	2 	22 	1 	24 	1 	Mordecai 	NN
+Est 	2 	22 	1 	25 	0 	's
+Est 	2 	22 	1 	26 	1 	name 	NN
+Est 	2 	22 	1 	27 	0 	.
+Est 	2 	23 	1 	1 	1 	And 	CC
+Est 	2 	23 	1 	2 	1 	when 	WRB
+Est 	2 	23 	1 	3 	1 	inquisition 	NN
+Est 	2 	23 	1 	4 	1 	was 	VBD
+Est 	2 	23 	1 	5 	1 	made 	VBN
+Est 	2 	23 	1 	6 	1 	of 	IN
+Est 	2 	23 	1 	7 	1 	the 	DT
+Est 	2 	23 	1 	8 	1 	matter 	NN
+Est 	2 	23 	1 	9 	0 	,
+Est 	2 	23 	1 	10 	1 	it 	PRP
+Est 	2 	23 	1 	11 	1 	was 	VBD
+Est 	2 	23 	1 	12 	1 	found 	NN
+Est 	2 	23 	1 	13 	1 	out 	IN
+Est 	2 	23 	1 	14 	0 	;
+Est 	2 	23 	1 	15 	1 	therefore 	RB
+Est 	2 	23 	1 	16 	1 	they 	PRP
+Est 	2 	23 	1 	17 	1 	were 	VBD
+Est 	2 	23 	1 	18 	1 	both 	DT
+Est 	2 	23 	1 	19 	1 	hanged 	VBN
+Est 	2 	23 	1 	20 	1 	on 	IN
+Est 	2 	23 	1 	21 	1 	a 	DT
+Est 	2 	23 	1 	22 	1 	tree 	NN
+Est 	2 	23 	1 	23 	0 	:
+Est 	2 	23 	1 	24 	1 	and 	CC
+Est 	2 	23 	1 	25 	1 	it 	PRP
+Est 	2 	23 	1 	26 	1 	was 	VBD
+Est 	2 	23 	1 	27 	1 	written 	VBN
+Est 	2 	23 	1 	28 	1 	in 	IN
+Est 	2 	23 	1 	29 	1 	the 	DT
+Est 	2 	23 	1 	30 	1 	book 	NN
+Est 	2 	23 	1 	31 	1 	of 	IN
+Est 	2 	23 	1 	32 	1 	the 	DT
+Est 	2 	23 	1 	33 	1 	chronicles 	NNS
+Est 	2 	23 	1 	34 	1 	before 	IN
+Est 	2 	23 	1 	35 	1 	the 	DT
+Est 	2 	23 	1 	36 	1 	king 	NN
+Est 	2 	23 	1 	37 	0 	.
+Est 	3 	1 	1 	1 	1 	After 	IN
+Est 	3 	1 	1 	2 	1 	these 	DT
+Est 	3 	1 	1 	3 	1 	things 	NNS
+Est 	3 	1 	1 	4 	1 	did 	VBD
+Est 	3 	1 	1 	5 	1 	king 	NN
+Est 	3 	1 	1 	6 	1 	Ahasuerus 	NN
+Est 	3 	1 	1 	7 	1 	promote 	NN
+Est 	3 	1 	1 	8 	1 	Haman 	NN
+Est 	3 	1 	1 	9 	1 	the 	DT
+Est 	3 	1 	1 	10 	1 	son 	NN
+Est 	3 	1 	1 	11 	1 	of 	IN
+Est 	3 	1 	1 	12 	1 	Hammedatha 	NN
+Est 	3 	1 	1 	13 	1 	the 	DT
+Est 	3 	1 	1 	14 	1 	Agagite 	NNP
+Est 	3 	1 	1 	15 	0 	,
+Est 	3 	1 	1 	16 	1 	and 	CC
+Est 	3 	1 	1 	17 	1 	advanced 	JJ
+Est 	3 	1 	1 	18 	1 	him 	PRP
+Est 	3 	1 	1 	19 	0 	,
+Est 	3 	1 	1 	20 	1 	and 	CC
+Est 	3 	1 	1 	21 	1 	set 	NN
+Est 	3 	1 	1 	22 	1 	his 	PRP$
+Est 	3 	1 	1 	23 	1 	seat 	NN
+Est 	3 	1 	1 	24 	1 	above 	IN
+Est 	3 	1 	1 	25 	1 	all 	DT
+Est 	3 	1 	1 	26 	1 	the 	DT
+Est 	3 	1 	1 	27 	1 	princes 	NNS
+Est 	3 	1 	1 	28 	1 	that 	IN
+Est 	3 	1 	1 	29 	1 	were 	VBD
+Est 	3 	1 	1 	30 	1 	with 	IN
+Est 	3 	1 	1 	31 	1 	him 	PRP
+Est 	3 	1 	1 	32 	0 	.
+Est 	3 	2 	1 	1 	1 	And 	CC
+Est 	3 	2 	1 	2 	1 	all 	DT
+Est 	3 	2 	1 	3 	1 	the 	DT
+Est 	3 	2 	1 	4 	1 	king 	NN
+Est 	3 	2 	1 	5 	0 	's
+Est 	3 	2 	1 	6 	1 	servants 	NNS
+Est 	3 	2 	1 	7 	0 	,
+Est 	3 	2 	1 	8 	1 	that 	IN
+Est 	3 	2 	1 	9 	1 	were 	VBD
+Est 	3 	2 	1 	10 	1 	in 	IN
+Est 	3 	2 	1 	11 	1 	the 	DT
+Est 	3 	2 	1 	12 	1 	king 	NN
+Est 	3 	2 	1 	13 	0 	's
+Est 	3 	2 	1 	14 	1 	gate 	NN
+Est 	3 	2 	1 	15 	0 	,
+Est 	3 	2 	1 	16 	1 	bowed 	VBN
+Est 	3 	2 	1 	17 	0 	,
+Est 	3 	2 	1 	18 	1 	and 	CC
+Est 	3 	2 	1 	19 	1 	reverenced 	VBN
+Est 	3 	2 	1 	20 	1 	Haman 	NN
+Est 	3 	2 	1 	21 	0 	:
+Est 	3 	2 	1 	22 	1 	for 	IN
+Est 	3 	2 	1 	23 	1 	the 	DT
+Est 	3 	2 	1 	24 	1 	king 	NN
+Est 	3 	2 	1 	25 	1 	had 	VBD
+Est 	3 	2 	1 	26 	1 	so 	RB
+Est 	3 	2 	1 	27 	1 	commanded 	VBN
+Est 	3 	2 	1 	28 	1 	concerning 	VBG
+Est 	3 	2 	1 	29 	1 	him 	PRP
+Est 	3 	2 	1 	30 	0 	.
+Est 	3 	2 	2 	1 	1 	But 	CC
+Est 	3 	2 	2 	2 	1 	Mordecai 	NN
+Est 	3 	2 	2 	3 	1 	bowed 	VBN
+Est 	3 	2 	2 	4 	1 	not 	RB
+Est 	3 	2 	2 	5 	0 	,
+Est 	3 	2 	2 	6 	1 	nor 	CC
+Est 	3 	2 	2 	7 	1 	did 	VBD
+Est 	3 	2 	2 	8 	1 	him 	PRP
+Est 	3 	2 	2 	9 	1 	reverence 	NN
+Est 	3 	2 	2 	10 	0 	.
+Est 	3 	3 	1 	1 	1 	Then 	RB
+Est 	3 	3 	1 	2 	1 	the 	DT
+Est 	3 	3 	1 	3 	1 	king 	NN
+Est 	3 	3 	1 	4 	0 	's
+Est 	3 	3 	1 	5 	1 	servants 	NNS
+Est 	3 	3 	1 	6 	0 	,
+Est 	3 	3 	1 	7 	1 	which 	WDT
+Est 	3 	3 	1 	8 	1 	were 	VBD
+Est 	3 	3 	1 	9 	1 	in 	IN
+Est 	3 	3 	1 	10 	1 	the 	DT
+Est 	3 	3 	1 	11 	1 	king 	NN
+Est 	3 	3 	1 	12 	0 	's
+Est 	3 	3 	1 	13 	1 	gate 	NN
+Est 	3 	3 	1 	14 	0 	,
+Est 	3 	3 	1 	15 	1 	said 	VBD
+Est 	3 	3 	1 	16 	1 	unto 	NN
+Est 	3 	3 	1 	17 	1 	Mordecai 	NN
+Est 	3 	3 	1 	18 	0 	,
+Est 	3 	3 	1 	19 	1 	Why 	WRB
+Est 	3 	3 	1 	20 	1 	transgressest 	NN
+Est 	3 	3 	1 	21 	1 	thou 	NN
+Est 	3 	3 	1 	22 	1 	the 	DT
+Est 	3 	3 	1 	23 	1 	king 	NN
+Est 	3 	3 	1 	24 	0 	's
+Est 	3 	3 	1 	25 	1 	commandment 	NN
+Est 	3 	3 	1 	26 	0 	?
+Est 	3 	4 	1 	1 	1 	Now 	RB
+Est 	3 	4 	1 	2 	1 	it 	PRP
+Est 	3 	4 	1 	3 	1 	came 	VBD
+Est 	3 	4 	1 	4 	1 	to 	TO
+Est 	3 	4 	1 	5 	1 	pass 	NN
+Est 	3 	4 	1 	6 	0 	,
+Est 	3 	4 	1 	7 	1 	when 	WRB
+Est 	3 	4 	1 	8 	1 	they 	PRP
+Est 	3 	4 	1 	9 	1 	spake 	NN
+Est 	3 	4 	1 	10 	1 	daily 	JJ
+Est 	3 	4 	1 	11 	1 	unto 	NN
+Est 	3 	4 	1 	12 	1 	him 	PRP
+Est 	3 	4 	1 	13 	0 	,
+Est 	3 	4 	1 	14 	1 	and 	CC
+Est 	3 	4 	1 	15 	1 	he 	PRP
+Est 	3 	4 	1 	16 	1 	hearkened 	VBN
+Est 	3 	4 	1 	17 	1 	not 	RB
+Est 	3 	4 	1 	18 	1 	unto 	NN
+Est 	3 	4 	1 	19 	1 	them 	PRP
+Est 	3 	4 	1 	20 	0 	,
+Est 	3 	4 	1 	21 	1 	that 	IN
+Est 	3 	4 	1 	22 	1 	they 	PRP
+Est 	3 	4 	1 	23 	1 	told 	NN
+Est 	3 	4 	1 	24 	1 	Haman 	NN
+Est 	3 	4 	1 	25 	0 	,
+Est 	3 	4 	1 	26 	1 	to 	TO
+Est 	3 	4 	1 	27 	1 	see 	VB
+Est 	3 	4 	1 	28 	1 	whether 	IN
+Est 	3 	4 	1 	29 	1 	Mordecai 	NN
+Est 	3 	4 	1 	30 	0 	's
+Est 	3 	4 	1 	31 	1 	matters 	NNS
+Est 	3 	4 	1 	32 	1 	would 	MD
+Est 	3 	4 	1 	33 	1 	stand 	NN
+Est 	3 	4 	1 	34 	0 	:
+Est 	3 	4 	1 	35 	1 	for 	IN
+Est 	3 	4 	1 	36 	1 	he 	PRP
+Est 	3 	4 	1 	37 	1 	had 	VBD
+Est 	3 	4 	1 	38 	1 	told 	NN
+Est 	3 	4 	1 	39 	1 	them 	PRP
+Est 	3 	4 	1 	40 	1 	that 	IN
+Est 	3 	4 	1 	41 	1 	he 	PRP
+Est 	3 	4 	1 	42 	1 	was 	VBD
+Est 	3 	4 	1 	43 	1 	a 	DT
+Est 	3 	4 	1 	44 	1 	Jew 	NN
+Est 	3 	4 	1 	45 	0 	.
+Est 	3 	5 	1 	1 	1 	And 	CC
+Est 	3 	5 	1 	2 	1 	when 	WRB
+Est 	3 	5 	1 	3 	1 	Haman 	NN
+Est 	3 	5 	1 	4 	1 	saw 	NN
+Est 	3 	5 	1 	5 	1 	that 	IN
+Est 	3 	5 	1 	6 	1 	Mordecai 	NN
+Est 	3 	5 	1 	7 	1 	bowed 	VBN
+Est 	3 	5 	1 	8 	1 	not 	RB
+Est 	3 	5 	1 	9 	0 	,
+Est 	3 	5 	1 	10 	1 	nor 	CC
+Est 	3 	5 	1 	11 	1 	did 	VBD
+Est 	3 	5 	1 	12 	1 	him 	PRP
+Est 	3 	5 	1 	13 	1 	reverence 	NN
+Est 	3 	5 	1 	14 	0 	,
+Est 	3 	5 	1 	15 	1 	then 	RB
+Est 	3 	5 	1 	16 	1 	was 	VBD
+Est 	3 	5 	1 	17 	1 	Haman 	NN
+Est 	3 	5 	1 	18 	1 	full 	JJ
+Est 	3 	5 	1 	19 	1 	of 	IN
+Est 	3 	5 	1 	20 	1 	wrath 	NN
+Est 	3 	5 	1 	21 	0 	.
+Est 	3 	6 	1 	1 	1 	And 	CC
+Est 	3 	6 	1 	2 	1 	he 	PRP
+Est 	3 	6 	1 	3 	1 	thought 	NN
+Est 	3 	6 	1 	4 	1 	scorn 	NN
+Est 	3 	6 	1 	5 	1 	to 	TO
+Est 	3 	6 	1 	6 	1 	lay 	NN
+Est 	3 	6 	1 	7 	1 	hands 	NNS
+Est 	3 	6 	1 	8 	1 	on 	IN
+Est 	3 	6 	1 	9 	1 	Mordecai 	NN
+Est 	3 	6 	1 	10 	1 	alone 	RB
+Est 	3 	6 	1 	11 	0 	;
+Est 	3 	6 	1 	12 	1 	for 	IN
+Est 	3 	6 	1 	13 	1 	they 	PRP
+Est 	3 	6 	1 	14 	1 	had 	VBD
+Est 	3 	6 	1 	15 	1 	shewed 	VBN
+Est 	3 	6 	1 	16 	1 	him 	PRP
+Est 	3 	6 	1 	17 	1 	the 	DT
+Est 	3 	6 	1 	18 	1 	people 	NNS
+Est 	3 	6 	1 	19 	1 	of 	IN
+Est 	3 	6 	1 	20 	1 	Mordecai 	NN
+Est 	3 	6 	1 	21 	0 	:
+Est 	3 	6 	1 	22 	1 	wherefore 	NN
+Est 	3 	6 	1 	23 	1 	Haman 	NN
+Est 	3 	6 	1 	24 	1 	sought 	NN
+Est 	3 	6 	1 	25 	1 	to 	TO
+Est 	3 	6 	1 	26 	1 	destroy 	NN
+Est 	3 	6 	1 	27 	1 	all 	DT
+Est 	3 	6 	1 	28 	1 	the 	DT
+Est 	3 	6 	1 	29 	1 	Jews 	NNS
+Est 	3 	6 	1 	30 	1 	that 	IN
+Est 	3 	6 	1 	31 	1 	were 	VBD
+Est 	3 	6 	1 	32 	1 	throughout 	IN
+Est 	3 	6 	1 	33 	1 	the 	DT
+Est 	3 	6 	1 	34 	1 	whole 	JJ
+Est 	3 	6 	1 	35 	1 	kingdom 	NN
+Est 	3 	6 	1 	36 	1 	of 	IN
+Est 	3 	6 	1 	37 	1 	Ahasuerus 	NN
+Est 	3 	6 	1 	38 	0 	,
+Est 	3 	6 	1 	39 	1 	even 	RB
+Est 	3 	6 	1 	40 	1 	the 	DT
+Est 	3 	6 	1 	41 	1 	people 	NNS
+Est 	3 	6 	1 	42 	1 	of 	IN
+Est 	3 	6 	1 	43 	1 	Mordecai 	NN
+Est 	3 	6 	1 	44 	0 	.
+Est 	3 	7 	1 	1 	1 	In 	IN
+Est 	3 	7 	1 	2 	1 	the 	DT
+Est 	3 	7 	1 	3 	1 	first 	RB
+Est 	3 	7 	1 	4 	1 	month 	NN
+Est 	3 	7 	1 	5 	0 	,
+Est 	3 	7 	1 	6 	1 	that 	IN
+Est 	3 	7 	1 	7 	1 	is 	VBZ
+Est 	3 	7 	1 	8 	0 	,
+Est 	3 	7 	1 	9 	1 	the 	DT
+Est 	3 	7 	1 	10 	1 	month 	NN
+Est 	3 	7 	1 	11 	1 	Nisan 	NNP
+Est 	3 	7 	1 	12 	0 	,
+Est 	3 	7 	1 	13 	1 	in 	IN
+Est 	3 	7 	1 	14 	1 	the 	DT
+Est 	3 	7 	1 	15 	1 	twelfth 	NN
+Est 	3 	7 	1 	16 	1 	year 	NN
+Est 	3 	7 	1 	17 	1 	of 	IN
+Est 	3 	7 	1 	18 	1 	king 	NN
+Est 	3 	7 	1 	19 	1 	Ahasuerus 	NN
+Est 	3 	7 	1 	20 	0 	,
+Est 	3 	7 	1 	21 	1 	they 	PRP
+Est 	3 	7 	1 	22 	1 	cast 	NN
+Est 	3 	7 	1 	23 	1 	Pur 	NN
+Est 	3 	7 	1 	24 	0 	,
+Est 	3 	7 	1 	25 	1 	that 	IN
+Est 	3 	7 	1 	26 	1 	is 	VBZ
+Est 	3 	7 	1 	27 	0 	,
+Est 	3 	7 	1 	28 	1 	the 	DT
+Est 	3 	7 	1 	29 	1 	lot 	NN
+Est 	3 	7 	1 	30 	0 	,
+Est 	3 	7 	1 	31 	1 	before 	IN
+Est 	3 	7 	1 	32 	1 	Haman 	NN
+Est 	3 	7 	1 	33 	1 	from 	IN
+Est 	3 	7 	1 	34 	1 	day 	NN
+Est 	3 	7 	1 	35 	1 	to 	TO
+Est 	3 	7 	1 	36 	1 	day 	NN
+Est 	3 	7 	1 	37 	0 	,
+Est 	3 	7 	1 	38 	1 	and 	CC
+Est 	3 	7 	1 	39 	1 	from 	IN
+Est 	3 	7 	1 	40 	1 	month 	NN
+Est 	3 	7 	1 	41 	1 	to 	TO
+Est 	3 	7 	1 	42 	1 	month 	NN
+Est 	3 	7 	1 	43 	0 	,
+Est 	3 	7 	1 	44 	1 	to 	TO
+Est 	3 	7 	1 	45 	1 	the 	DT
+Est 	3 	7 	1 	46 	1 	twelfth 	NN
+Est 	3 	7 	1 	47 	1 	month 	NN
+Est 	3 	7 	1 	48 	0 	,
+Est 	3 	7 	1 	49 	1 	that 	IN
+Est 	3 	7 	1 	50 	1 	is 	VBZ
+Est 	3 	7 	1 	51 	0 	,
+Est 	3 	7 	1 	52 	1 	the 	DT
+Est 	3 	7 	1 	53 	1 	month 	NN
+Est 	3 	7 	1 	54 	1 	Adar 	NN
+Est 	3 	7 	1 	55 	0 	.
+Est 	3 	8 	1 	1 	1 	And 	CC
+Est 	3 	8 	1 	2 	1 	Haman 	NN
+Est 	3 	8 	1 	3 	1 	said 	VBD
+Est 	3 	8 	1 	4 	1 	unto 	NN
+Est 	3 	8 	1 	5 	1 	king 	NN
+Est 	3 	8 	1 	6 	1 	Ahasuerus 	NN
+Est 	3 	8 	1 	7 	0 	,
+Est 	3 	8 	1 	8 	1 	There 	EX
+Est 	3 	8 	1 	9 	1 	is 	VBZ
+Est 	3 	8 	1 	10 	1 	a 	DT
+Est 	3 	8 	1 	11 	1 	certain 	JJ
+Est 	3 	8 	1 	12 	1 	people 	NNS
+Est 	3 	8 	1 	13 	1 	scattered 	VBN
+Est 	3 	8 	1 	14 	1 	abroad 	RB
+Est 	3 	8 	1 	15 	1 	and 	CC
+Est 	3 	8 	1 	16 	1 	dispersed 	VBN
+Est 	3 	8 	1 	17 	1 	among 	IN
+Est 	3 	8 	1 	18 	1 	the 	DT
+Est 	3 	8 	1 	19 	1 	people 	NNS
+Est 	3 	8 	1 	20 	1 	in 	IN
+Est 	3 	8 	1 	21 	1 	all 	DT
+Est 	3 	8 	1 	22 	1 	the 	DT
+Est 	3 	8 	1 	23 	1 	provinces 	NNS
+Est 	3 	8 	1 	24 	1 	of 	IN
+Est 	3 	8 	1 	25 	1 	thy 	NN
+Est 	3 	8 	1 	26 	1 	kingdom 	NN
+Est 	3 	8 	1 	27 	0 	;
+Est 	3 	8 	1 	28 	1 	and 	CC
+Est 	3 	8 	1 	29 	1 	their 	PRP$
+Est 	3 	8 	1 	30 	1 	laws 	NNS
+Est 	3 	8 	1 	31 	1 	are 	VBP
+Est 	3 	8 	1 	32 	1 	diverse 	NN
+Est 	3 	8 	1 	33 	1 	from 	IN
+Est 	3 	8 	1 	34 	1 	all 	DT
+Est 	3 	8 	1 	35 	1 	people 	NNS
+Est 	3 	8 	1 	36 	0 	;
+Est 	3 	8 	1 	37 	1 	neither 	DT
+Est 	3 	8 	1 	38 	1 	keep 	VB
+Est 	3 	8 	1 	39 	1 	they 	PRP
+Est 	3 	8 	1 	40 	1 	the 	DT
+Est 	3 	8 	1 	41 	1 	king 	NN
+Est 	3 	8 	1 	42 	0 	's
+Est 	3 	8 	1 	43 	1 	laws 	NNS
+Est 	3 	8 	1 	44 	0 	:
+Est 	3 	8 	1 	45 	1 	therefore 	RB
+Est 	3 	8 	1 	46 	1 	it 	PRP
+Est 	3 	8 	1 	47 	1 	is 	VBZ
+Est 	3 	8 	1 	48 	1 	not 	RB
+Est 	3 	8 	1 	49 	1 	for 	IN
+Est 	3 	8 	1 	50 	1 	the 	DT
+Est 	3 	8 	1 	51 	1 	king 	NN
+Est 	3 	8 	1 	52 	0 	's
+Est 	3 	8 	1 	53 	1 	profit 	NN
+Est 	3 	8 	1 	54 	1 	to 	TO
+Est 	3 	8 	1 	55 	1 	suffer 	NN
+Est 	3 	8 	1 	56 	1 	them 	PRP
+Est 	3 	8 	1 	57 	0 	.
+Est 	3 	9 	1 	1 	1 	If 	IN
+Est 	3 	9 	1 	2 	1 	it 	PRP
+Est 	3 	9 	1 	3 	1 	please 	NN
+Est 	3 	9 	1 	4 	1 	the 	DT
+Est 	3 	9 	1 	5 	1 	king 	NN
+Est 	3 	9 	1 	6 	0 	,
+Est 	3 	9 	1 	7 	1 	let 	VB
+Est 	3 	9 	1 	8 	1 	it 	PRP
+Est 	3 	9 	1 	9 	1 	be 	VB
+Est 	3 	9 	1 	10 	1 	written 	VBN
+Est 	3 	9 	1 	11 	1 	that 	IN
+Est 	3 	9 	1 	12 	1 	they 	PRP
+Est 	3 	9 	1 	13 	1 	may 	MD
+Est 	3 	9 	1 	14 	1 	be 	VB
+Est 	3 	9 	1 	15 	1 	destroyed 	NN
+Est 	3 	9 	1 	16 	0 	:
+Est 	3 	9 	1 	17 	1 	and 	CC
+Est 	3 	9 	1 	18 	1 	I 	PRP
+Est 	3 	9 	1 	19 	1 	will 	MD
+Est 	3 	9 	1 	20 	1 	pay 	NN
+Est 	3 	9 	1 	21 	1 	ten 	NNS
+Est 	3 	9 	1 	22 	1 	thousand 	NN
+Est 	3 	9 	1 	23 	1 	talents 	NNS
+Est 	3 	9 	1 	24 	1 	of 	IN
+Est 	3 	9 	1 	25 	1 	silver 	NN
+Est 	3 	9 	1 	26 	1 	to 	TO
+Est 	3 	9 	1 	27 	1 	the 	DT
+Est 	3 	9 	1 	28 	1 	hands 	NNS
+Est 	3 	9 	1 	29 	1 	of 	IN
+Est 	3 	9 	1 	30 	1 	those 	DT
+Est 	3 	9 	1 	31 	1 	that 	IN
+Est 	3 	9 	1 	32 	1 	have 	VB
+Est 	3 	9 	1 	33 	1 	the 	DT
+Est 	3 	9 	1 	34 	1 	charge 	NN
+Est 	3 	9 	1 	35 	1 	of 	IN
+Est 	3 	9 	1 	36 	1 	the 	DT
+Est 	3 	9 	1 	37 	1 	business 	NN
+Est 	3 	9 	1 	38 	0 	,
+Est 	3 	9 	1 	39 	1 	to 	TO
+Est 	3 	9 	1 	40 	1 	bring 	NN
+Est 	3 	9 	1 	41 	1 	it 	PRP
+Est 	3 	9 	1 	42 	1 	into 	IN
+Est 	3 	9 	1 	43 	1 	the 	DT
+Est 	3 	9 	1 	44 	1 	king 	NN
+Est 	3 	9 	1 	45 	0 	's
+Est 	3 	9 	1 	46 	1 	treasuries 	NNS
+Est 	3 	9 	1 	47 	0 	.
+Est 	3 	10 	1 	1 	1 	And 	CC
+Est 	3 	10 	1 	2 	1 	the 	DT
+Est 	3 	10 	1 	3 	1 	king 	NN
+Est 	3 	10 	1 	4 	1 	took 	VBD
+Est 	3 	10 	1 	5 	1 	his 	PRP$
+Est 	3 	10 	1 	6 	1 	ring 	NN
+Est 	3 	10 	1 	7 	1 	from 	IN
+Est 	3 	10 	1 	8 	1 	his 	PRP$
+Est 	3 	10 	1 	9 	1 	hand 	NN
+Est 	3 	10 	1 	10 	0 	,
+Est 	3 	10 	1 	11 	1 	and 	CC
+Est 	3 	10 	1 	12 	1 	gave 	VBD
+Est 	3 	10 	1 	13 	1 	it 	PRP
+Est 	3 	10 	1 	14 	1 	unto 	NN
+Est 	3 	10 	1 	15 	1 	Haman 	NN
+Est 	3 	10 	1 	16 	1 	the 	DT
+Est 	3 	10 	1 	17 	1 	son 	NN
+Est 	3 	10 	1 	18 	1 	of 	IN
+Est 	3 	10 	1 	19 	1 	Hammedatha 	NN
+Est 	3 	10 	1 	20 	1 	the 	DT
+Est 	3 	10 	1 	21 	1 	Agagite 	NNP
+Est 	3 	10 	1 	22 	0 	,
+Est 	3 	10 	1 	23 	1 	the 	DT
+Est 	3 	10 	1 	24 	1 	Jews 	NNS
+Est 	3 	10 	1 	25 	0 	'
+Est 	3 	10 	1 	26 	1 	enemy 	NN
+Est 	3 	10 	1 	27 	0 	.
+Est 	3 	11 	1 	1 	1 	And 	CC
+Est 	3 	11 	1 	2 	1 	the 	DT
+Est 	3 	11 	1 	3 	1 	king 	NN
+Est 	3 	11 	1 	4 	1 	said 	VBD
+Est 	3 	11 	1 	5 	1 	unto 	NN
+Est 	3 	11 	1 	6 	1 	Haman 	NN
+Est 	3 	11 	1 	7 	0 	,
+Est 	3 	11 	1 	8 	1 	The 	DT
+Est 	3 	11 	1 	9 	1 	silver 	NN
+Est 	3 	11 	1 	10 	1 	is 	VBZ
+Est 	3 	11 	1 	11 	1 	given 	VBN
+Est 	3 	11 	1 	12 	1 	to 	TO
+Est 	3 	11 	1 	13 	1 	thee 	NN
+Est 	3 	11 	1 	14 	0 	,
+Est 	3 	11 	1 	15 	1 	the 	DT
+Est 	3 	11 	1 	16 	1 	people 	NNS
+Est 	3 	11 	1 	17 	1 	also 	RB
+Est 	3 	11 	1 	18 	0 	,
+Est 	3 	11 	1 	19 	1 	to 	TO
+Est 	3 	11 	1 	20 	1 	do 	VB
+Est 	3 	11 	1 	21 	1 	with 	IN
+Est 	3 	11 	1 	22 	1 	them 	PRP
+Est 	3 	11 	1 	23 	1 	as 	IN
+Est 	3 	11 	1 	24 	1 	it 	PRP
+Est 	3 	11 	1 	25 	1 	seemeth 	NN
+Est 	3 	11 	1 	26 	1 	good 	JJ
+Est 	3 	11 	1 	27 	1 	to 	TO
+Est 	3 	11 	1 	28 	1 	thee 	NN
+Est 	3 	11 	1 	29 	0 	.
+Est 	3 	12 	1 	1 	1 	Then 	RB
+Est 	3 	12 	1 	2 	1 	were 	VBD
+Est 	3 	12 	1 	3 	1 	the 	DT
+Est 	3 	12 	1 	4 	1 	king 	NN
+Est 	3 	12 	1 	5 	0 	's
+Est 	3 	12 	1 	6 	1 	scribes 	NNS
+Est 	3 	12 	1 	7 	1 	called 	VBN
+Est 	3 	12 	1 	8 	1 	on 	IN
+Est 	3 	12 	1 	9 	1 	the 	DT
+Est 	3 	12 	1 	10 	1 	thirteenth 	NN
+Est 	3 	12 	1 	11 	1 	day 	NN
+Est 	3 	12 	1 	12 	1 	of 	IN
+Est 	3 	12 	1 	13 	1 	the 	DT
+Est 	3 	12 	1 	14 	1 	first 	RB
+Est 	3 	12 	1 	15 	1 	month 	NN
+Est 	3 	12 	1 	16 	0 	,
+Est 	3 	12 	1 	17 	1 	and 	CC
+Est 	3 	12 	1 	18 	1 	there 	RB
+Est 	3 	12 	1 	19 	1 	was 	VBD
+Est 	3 	12 	1 	20 	1 	written 	VBN
+Est 	3 	12 	1 	21 	1 	according 	VBG
+Est 	3 	12 	1 	22 	1 	to 	TO
+Est 	3 	12 	1 	23 	1 	all 	DT
+Est 	3 	12 	1 	24 	1 	that 	IN
+Est 	3 	12 	1 	25 	1 	Haman 	NN
+Est 	3 	12 	1 	26 	1 	had 	VBD
+Est 	3 	12 	1 	27 	1 	commanded 	VBN
+Est 	3 	12 	1 	28 	1 	unto 	NN
+Est 	3 	12 	1 	29 	1 	the 	DT
+Est 	3 	12 	1 	30 	1 	king 	NN
+Est 	3 	12 	1 	31 	0 	's
+Est 	3 	12 	1 	32 	1 	lieutenants 	NNS
+Est 	3 	12 	1 	33 	0 	,
+Est 	3 	12 	1 	34 	1 	and 	CC
+Est 	3 	12 	1 	35 	1 	to 	TO
+Est 	3 	12 	1 	36 	1 	the 	DT
+Est 	3 	12 	1 	37 	1 	governors 	NNS
+Est 	3 	12 	1 	38 	1 	that 	IN
+Est 	3 	12 	1 	39 	1 	were 	VBD
+Est 	3 	12 	1 	40 	1 	over 	IN
+Est 	3 	12 	1 	41 	1 	every 	DT
+Est 	3 	12 	1 	42 	1 	province 	NN
+Est 	3 	12 	1 	43 	0 	,
+Est 	3 	12 	1 	44 	1 	and 	CC
+Est 	3 	12 	1 	45 	1 	to 	TO
+Est 	3 	12 	1 	46 	1 	the 	DT
+Est 	3 	12 	1 	47 	1 	rulers 	NNS
+Est 	3 	12 	1 	48 	1 	of 	IN
+Est 	3 	12 	1 	49 	1 	every 	DT
+Est 	3 	12 	1 	50 	1 	people 	NNS
+Est 	3 	12 	1 	51 	1 	of 	IN
+Est 	3 	12 	1 	52 	1 	every 	DT
+Est 	3 	12 	1 	53 	1 	province 	NN
+Est 	3 	12 	1 	54 	1 	according 	VBG
+Est 	3 	12 	1 	55 	1 	to 	TO
+Est 	3 	12 	1 	56 	1 	the 	DT
+Est 	3 	12 	1 	57 	1 	writing 	VBG
+Est 	3 	12 	1 	58 	1 	thereof 	NN
+Est 	3 	12 	1 	59 	0 	,
+Est 	3 	12 	1 	60 	1 	and 	CC
+Est 	3 	12 	1 	61 	1 	to 	TO
+Est 	3 	12 	1 	62 	1 	every 	DT
+Est 	3 	12 	1 	63 	1 	people 	NNS
+Est 	3 	12 	1 	64 	1 	after 	IN
+Est 	3 	12 	1 	65 	1 	their 	PRP$
+Est 	3 	12 	1 	66 	1 	language 	NN
+Est 	3 	12 	1 	67 	0 	;
+Est 	3 	12 	1 	68 	1 	in 	IN
+Est 	3 	12 	1 	69 	1 	the 	DT
+Est 	3 	12 	1 	70 	1 	name 	NN
+Est 	3 	12 	1 	71 	1 	of 	IN
+Est 	3 	12 	1 	72 	1 	king 	NN
+Est 	3 	12 	1 	73 	1 	Ahasuerus 	NN
+Est 	3 	12 	1 	74 	1 	was 	VBD
+Est 	3 	12 	1 	75 	1 	it 	PRP
+Est 	3 	12 	1 	76 	1 	written 	VBN
+Est 	3 	12 	1 	77 	0 	,
+Est 	3 	12 	1 	78 	1 	and 	CC
+Est 	3 	12 	1 	79 	1 	sealed 	VBN
+Est 	3 	12 	1 	80 	1 	with 	IN
+Est 	3 	12 	1 	81 	1 	the 	DT
+Est 	3 	12 	1 	82 	1 	king 	NN
+Est 	3 	12 	1 	83 	0 	's
+Est 	3 	12 	1 	84 	1 	ring 	NN
+Est 	3 	12 	1 	85 	0 	.
+Est 	3 	13 	1 	1 	1 	And 	CC
+Est 	3 	13 	1 	2 	1 	the 	DT
+Est 	3 	13 	1 	3 	1 	letters 	NNS
+Est 	3 	13 	1 	4 	1 	were 	VBD
+Est 	3 	13 	1 	5 	1 	sent 	NN
+Est 	3 	13 	1 	6 	1 	by 	IN
+Est 	3 	13 	1 	7 	1 	posts 	NNS
+Est 	3 	13 	1 	8 	1 	into 	IN
+Est 	3 	13 	1 	9 	1 	all 	DT
+Est 	3 	13 	1 	10 	1 	the 	DT
+Est 	3 	13 	1 	11 	1 	king 	NN
+Est 	3 	13 	1 	12 	0 	's
+Est 	3 	13 	1 	13 	1 	provinces 	NNS
+Est 	3 	13 	1 	14 	0 	,
+Est 	3 	13 	1 	15 	1 	to 	TO
+Est 	3 	13 	1 	16 	1 	destroy 	NN
+Est 	3 	13 	1 	17 	0 	,
+Est 	3 	13 	1 	18 	1 	to 	TO
+Est 	3 	13 	1 	19 	1 	kill 	NN
+Est 	3 	13 	1 	20 	0 	,
+Est 	3 	13 	1 	21 	1 	and 	CC
+Est 	3 	13 	1 	22 	1 	to 	TO
+Est 	3 	13 	1 	23 	1 	cause 	NN
+Est 	3 	13 	1 	24 	1 	to 	TO
+Est 	3 	13 	1 	25 	1 	perish 	NN
+Est 	3 	13 	1 	26 	0 	,
+Est 	3 	13 	1 	27 	1 	all 	DT
+Est 	3 	13 	1 	28 	1 	Jews 	NNS
+Est 	3 	13 	1 	29 	0 	,
+Est 	3 	13 	1 	30 	1 	both 	DT
+Est 	3 	13 	1 	31 	1 	young 	JJ
+Est 	3 	13 	1 	32 	1 	and 	CC
+Est 	3 	13 	1 	33 	1 	old 	JJ
+Est 	3 	13 	1 	34 	0 	,
+Est 	3 	13 	1 	35 	1 	little 	JJ
+Est 	3 	13 	1 	36 	1 	children 	NNS
+Est 	3 	13 	1 	37 	1 	and 	CC
+Est 	3 	13 	1 	38 	1 	women 	NNS
+Est 	3 	13 	1 	39 	0 	,
+Est 	3 	13 	1 	40 	1 	in 	IN
+Est 	3 	13 	1 	41 	1 	one 	CD
+Est 	3 	13 	1 	42 	1 	day 	NN
+Est 	3 	13 	1 	43 	0 	,
+Est 	3 	13 	1 	44 	1 	even 	RB
+Est 	3 	13 	1 	45 	1 	upon 	IN
+Est 	3 	13 	1 	46 	1 	the 	DT
+Est 	3 	13 	1 	47 	1 	thirteenth 	NN
+Est 	3 	13 	1 	48 	1 	day 	NN
+Est 	3 	13 	1 	49 	1 	of 	IN
+Est 	3 	13 	1 	50 	1 	the 	DT
+Est 	3 	13 	1 	51 	1 	twelfth 	NN
+Est 	3 	13 	1 	52 	1 	month 	NN
+Est 	3 	13 	1 	53 	0 	,
+Est 	3 	13 	1 	54 	1 	which 	WDT
+Est 	3 	13 	1 	55 	1 	is 	VBZ
+Est 	3 	13 	1 	56 	1 	the 	DT
+Est 	3 	13 	1 	57 	1 	month 	NN
+Est 	3 	13 	1 	58 	1 	Adar 	NN
+Est 	3 	13 	1 	59 	0 	,
+Est 	3 	13 	1 	60 	1 	and 	CC
+Est 	3 	13 	1 	61 	1 	to 	TO
+Est 	3 	13 	1 	62 	1 	take 	VB
+Est 	3 	13 	1 	63 	1 	the 	DT
+Est 	3 	13 	1 	64 	1 	spoil 	NN
+Est 	3 	13 	1 	65 	1 	of 	IN
+Est 	3 	13 	1 	66 	1 	them 	PRP
+Est 	3 	13 	1 	67 	1 	for 	IN
+Est 	3 	13 	1 	68 	1 	a 	DT
+Est 	3 	13 	1 	69 	1 	prey 	NN
+Est 	3 	13 	1 	70 	0 	.
+Est 	3 	14 	1 	1 	1 	The 	DT
+Est 	3 	14 	1 	2 	1 	copy 	NN
+Est 	3 	14 	1 	3 	1 	of 	IN
+Est 	3 	14 	1 	4 	1 	the 	DT
+Est 	3 	14 	1 	5 	1 	writing 	VBG
+Est 	3 	14 	1 	6 	1 	for 	IN
+Est 	3 	14 	1 	7 	1 	a 	DT
+Est 	3 	14 	1 	8 	1 	commandment 	NN
+Est 	3 	14 	1 	9 	1 	to 	TO
+Est 	3 	14 	1 	10 	1 	be 	VB
+Est 	3 	14 	1 	11 	1 	given 	VBN
+Est 	3 	14 	1 	12 	1 	in 	IN
+Est 	3 	14 	1 	13 	1 	every 	DT
+Est 	3 	14 	1 	14 	1 	province 	NN
+Est 	3 	14 	1 	15 	1 	was 	VBD
+Est 	3 	14 	1 	16 	1 	published 	VBN
+Est 	3 	14 	1 	17 	1 	unto 	NN
+Est 	3 	14 	1 	18 	1 	all 	DT
+Est 	3 	14 	1 	19 	1 	people 	NNS
+Est 	3 	14 	1 	20 	0 	,
+Est 	3 	14 	1 	21 	1 	that 	IN
+Est 	3 	14 	1 	22 	1 	they 	PRP
+Est 	3 	14 	1 	23 	1 	should 	MD
+Est 	3 	14 	1 	24 	1 	be 	VB
+Est 	3 	14 	1 	25 	1 	ready 	JJ
+Est 	3 	14 	1 	26 	1 	against 	IN
+Est 	3 	14 	1 	27 	1 	that 	IN
+Est 	3 	14 	1 	28 	1 	day 	NN
+Est 	3 	14 	1 	29 	0 	.
+Est 	3 	15 	1 	1 	1 	The 	DT
+Est 	3 	15 	1 	2 	1 	posts 	NNS
+Est 	3 	15 	1 	3 	1 	went 	VBD
+Est 	3 	15 	1 	4 	1 	out 	IN
+Est 	3 	15 	1 	5 	0 	,
+Est 	3 	15 	1 	6 	1 	being 	VBG
+Est 	3 	15 	1 	7 	1 	hastened 	VBN
+Est 	3 	15 	1 	8 	1 	by 	IN
+Est 	3 	15 	1 	9 	1 	the 	DT
+Est 	3 	15 	1 	10 	1 	king 	NN
+Est 	3 	15 	1 	11 	0 	's
+Est 	3 	15 	1 	12 	1 	commandment 	NN
+Est 	3 	15 	1 	13 	0 	,
+Est 	3 	15 	1 	14 	1 	and 	CC
+Est 	3 	15 	1 	15 	1 	the 	DT
+Est 	3 	15 	1 	16 	1 	decree 	NN
+Est 	3 	15 	1 	17 	1 	was 	VBD
+Est 	3 	15 	1 	18 	1 	given 	VBN
+Est 	3 	15 	1 	19 	1 	in 	IN
+Est 	3 	15 	1 	20 	1 	Shushan 	NN
+Est 	3 	15 	1 	21 	1 	the 	DT
+Est 	3 	15 	1 	22 	1 	palace 	NN
+Est 	3 	15 	1 	23 	0 	.
+Est 	3 	15 	2 	1 	1 	And 	CC
+Est 	3 	15 	2 	2 	1 	the 	DT
+Est 	3 	15 	2 	3 	1 	king 	NN
+Est 	3 	15 	2 	4 	1 	and 	CC
+Est 	3 	15 	2 	5 	1 	Haman 	NN
+Est 	3 	15 	2 	6 	1 	sat 	NN
+Est 	3 	15 	2 	7 	1 	down 	RB
+Est 	3 	15 	2 	8 	1 	to 	TO
+Est 	3 	15 	2 	9 	1 	drink 	NN
+Est 	3 	15 	2 	10 	0 	;
+Est 	3 	15 	2 	11 	1 	but 	CC
+Est 	3 	15 	2 	12 	1 	the 	DT
+Est 	3 	15 	2 	13 	1 	city 	NN
+Est 	3 	15 	2 	14 	1 	Shushan 	NN
+Est 	3 	15 	2 	15 	1 	was 	VBD
+Est 	3 	15 	2 	16 	1 	perplexed 	NN
+Est 	3 	15 	2 	17 	0 	.
+Est 	4 	1 	1 	1 	1 	When 	WRB
+Est 	4 	1 	1 	2 	1 	Mordecai 	NN
+Est 	4 	1 	1 	3 	1 	perceived 	VBN
+Est 	4 	1 	1 	4 	1 	all 	DT
+Est 	4 	1 	1 	5 	1 	that 	IN
+Est 	4 	1 	1 	6 	1 	was 	VBD
+Est 	4 	1 	1 	7 	1 	done 	VBN
+Est 	4 	1 	1 	8 	0 	,
+Est 	4 	1 	1 	9 	1 	Mordecai 	NN
+Est 	4 	1 	1 	10 	1 	rent 	NN
+Est 	4 	1 	1 	11 	1 	his 	PRP$
+Est 	4 	1 	1 	12 	1 	clothes 	NNS
+Est 	4 	1 	1 	13 	0 	,
+Est 	4 	1 	1 	14 	1 	and 	CC
+Est 	4 	1 	1 	15 	1 	put 	NN
+Est 	4 	1 	1 	16 	1 	on 	IN
+Est 	4 	1 	1 	17 	1 	sackcloth 	NN
+Est 	4 	1 	1 	18 	1 	with 	IN
+Est 	4 	1 	1 	19 	1 	ashes 	NNS
+Est 	4 	1 	1 	20 	0 	,
+Est 	4 	1 	1 	21 	1 	and 	CC
+Est 	4 	1 	1 	22 	1 	went 	VBD
+Est 	4 	1 	1 	23 	1 	out 	IN
+Est 	4 	1 	1 	24 	1 	into 	IN
+Est 	4 	1 	1 	25 	1 	the 	DT
+Est 	4 	1 	1 	26 	1 	midst 	NN
+Est 	4 	1 	1 	27 	1 	of 	IN
+Est 	4 	1 	1 	28 	1 	the 	DT
+Est 	4 	1 	1 	29 	1 	city 	NN
+Est 	4 	1 	1 	30 	0 	,
+Est 	4 	1 	1 	31 	1 	and 	CC
+Est 	4 	1 	1 	32 	1 	cried 	VBN
+Est 	4 	1 	1 	33 	1 	with 	IN
+Est 	4 	1 	1 	34 	1 	a 	DT
+Est 	4 	1 	1 	35 	1 	loud 	NN
+Est 	4 	1 	1 	36 	1 	and 	CC
+Est 	4 	1 	1 	37 	1 	a 	DT
+Est 	4 	1 	1 	38 	1 	bitter 	NN
+Est 	4 	1 	1 	39 	1 	cry 	NN
+Est 	4 	1 	1 	40 	0 	;
+Est 	4 	2 	1 	1 	1 	And 	CC
+Est 	4 	2 	1 	2 	1 	came 	VBD
+Est 	4 	2 	1 	3 	1 	even 	RB
+Est 	4 	2 	1 	4 	1 	before 	IN
+Est 	4 	2 	1 	5 	1 	the 	DT
+Est 	4 	2 	1 	6 	1 	king 	NN
+Est 	4 	2 	1 	7 	0 	's
+Est 	4 	2 	1 	8 	1 	gate 	NN
+Est 	4 	2 	1 	9 	0 	:
+Est 	4 	2 	1 	10 	1 	for 	IN
+Est 	4 	2 	1 	11 	1 	none 	NN
+Est 	4 	2 	1 	12 	1 	might 	MD
+Est 	4 	2 	1 	13 	1 	enter 	NN
+Est 	4 	2 	1 	14 	1 	into 	IN
+Est 	4 	2 	1 	15 	1 	the 	DT
+Est 	4 	2 	1 	16 	1 	king 	NN
+Est 	4 	2 	1 	17 	0 	's
+Est 	4 	2 	1 	18 	1 	gate 	NN
+Est 	4 	2 	1 	19 	1 	clothed 	NNS
+Est 	4 	2 	1 	20 	1 	with 	IN
+Est 	4 	2 	1 	21 	1 	sackcloth 	NN
+Est 	4 	2 	1 	22 	0 	.
+Est 	4 	3 	1 	1 	1 	And 	CC
+Est 	4 	3 	1 	2 	1 	in 	IN
+Est 	4 	3 	1 	3 	1 	every 	DT
+Est 	4 	3 	1 	4 	1 	province 	NN
+Est 	4 	3 	1 	5 	0 	,
+Est 	4 	3 	1 	6 	1 	whithersoever 	NN
+Est 	4 	3 	1 	7 	1 	the 	DT
+Est 	4 	3 	1 	8 	1 	king 	NN
+Est 	4 	3 	1 	9 	0 	's
+Est 	4 	3 	1 	10 	1 	commandment 	NN
+Est 	4 	3 	1 	11 	1 	and 	CC
+Est 	4 	3 	1 	12 	1 	his 	PRP$
+Est 	4 	3 	1 	13 	1 	decree 	NN
+Est 	4 	3 	1 	14 	1 	came 	VBD
+Est 	4 	3 	1 	15 	0 	,
+Est 	4 	3 	1 	16 	1 	there 	RB
+Est 	4 	3 	1 	17 	1 	was 	VBD
+Est 	4 	3 	1 	18 	1 	great 	JJ
+Est 	4 	3 	1 	19 	1 	mourning 	VBG
+Est 	4 	3 	1 	20 	1 	among 	IN
+Est 	4 	3 	1 	21 	1 	the 	DT
+Est 	4 	3 	1 	22 	1 	Jews 	NNS
+Est 	4 	3 	1 	23 	0 	,
+Est 	4 	3 	1 	24 	1 	and 	CC
+Est 	4 	3 	1 	25 	1 	fasting 	VBG
+Est 	4 	3 	1 	26 	0 	,
+Est 	4 	3 	1 	27 	1 	and 	CC
+Est 	4 	3 	1 	28 	1 	weeping 	VBG
+Est 	4 	3 	1 	29 	0 	,
+Est 	4 	3 	1 	30 	1 	and 	CC
+Est 	4 	3 	1 	31 	1 	wailing 	VBG
+Est 	4 	3 	1 	32 	0 	;
+Est 	4 	3 	1 	33 	1 	and 	CC
+Est 	4 	3 	1 	34 	1 	many 	JJ
+Est 	4 	3 	1 	35 	1 	lay 	NN
+Est 	4 	3 	1 	36 	1 	in 	IN
+Est 	4 	3 	1 	37 	1 	sackcloth 	NN
+Est 	4 	3 	1 	38 	1 	and 	CC
+Est 	4 	3 	1 	39 	1 	ashes 	NNS
+Est 	4 	3 	1 	40 	0 	.
+Est 	4 	4 	1 	1 	1 	So 	RB
+Est 	4 	4 	1 	2 	1 	Esther 	NN
+Est 	4 	4 	1 	3 	0 	's
+Est 	4 	4 	1 	4 	1 	maids 	NNS
+Est 	4 	4 	1 	5 	1 	and 	CC
+Est 	4 	4 	1 	6 	1 	her 	PRP$
+Est 	4 	4 	1 	7 	1 	chamberlains 	NNS
+Est 	4 	4 	1 	8 	1 	came 	VBD
+Est 	4 	4 	1 	9 	1 	and 	CC
+Est 	4 	4 	1 	10 	1 	told 	NN
+Est 	4 	4 	1 	11 	1 	it 	PRP
+Est 	4 	4 	1 	12 	1 	her 	PRP$
+Est 	4 	4 	1 	13 	0 	.
+Est 	4 	4 	2 	1 	1 	Then 	RB
+Est 	4 	4 	2 	2 	1 	was 	VBD
+Est 	4 	4 	2 	3 	1 	the 	DT
+Est 	4 	4 	2 	4 	1 	queen 	NN
+Est 	4 	4 	2 	5 	1 	exceedingly 	RB
+Est 	4 	4 	2 	6 	1 	grieved 	VBN
+Est 	4 	4 	2 	7 	0 	;
+Est 	4 	4 	2 	8 	1 	and 	CC
+Est 	4 	4 	2 	9 	1 	she 	PRP
+Est 	4 	4 	2 	10 	1 	sent 	NN
+Est 	4 	4 	2 	11 	1 	raiment 	NN
+Est 	4 	4 	2 	12 	1 	to 	TO
+Est 	4 	4 	2 	13 	1 	clothe 	NN
+Est 	4 	4 	2 	14 	1 	Mordecai 	NN
+Est 	4 	4 	2 	15 	0 	,
+Est 	4 	4 	2 	16 	1 	and 	CC
+Est 	4 	4 	2 	17 	1 	to 	TO
+Est 	4 	4 	2 	18 	1 	take 	VB
+Est 	4 	4 	2 	19 	1 	away 	RB
+Est 	4 	4 	2 	20 	1 	his 	PRP$
+Est 	4 	4 	2 	21 	1 	sackcloth 	NN
+Est 	4 	4 	2 	22 	1 	from 	IN
+Est 	4 	4 	2 	23 	1 	him 	PRP
+Est 	4 	4 	2 	24 	0 	:
+Est 	4 	4 	2 	25 	1 	but 	CC
+Est 	4 	4 	2 	26 	1 	he 	PRP
+Est 	4 	4 	2 	27 	1 	received 	VBN
+Est 	4 	4 	2 	28 	1 	it 	PRP
+Est 	4 	4 	2 	29 	1 	not 	RB
+Est 	4 	4 	2 	30 	0 	.
+Est 	4 	5 	1 	1 	1 	Then 	RB
+Est 	4 	5 	1 	2 	1 	called 	VBN
+Est 	4 	5 	1 	3 	1 	Esther 	NN
+Est 	4 	5 	1 	4 	1 	for 	IN
+Est 	4 	5 	1 	5 	1 	Hatach 	NN
+Est 	4 	5 	1 	6 	0 	,
+Est 	4 	5 	1 	7 	1 	one 	CD
+Est 	4 	5 	1 	8 	1 	of 	IN
+Est 	4 	5 	1 	9 	1 	the 	DT
+Est 	4 	5 	1 	10 	1 	king 	NN
+Est 	4 	5 	1 	11 	0 	's
+Est 	4 	5 	1 	12 	1 	chamberlains 	NNS
+Est 	4 	5 	1 	13 	0 	,
+Est 	4 	5 	1 	14 	1 	whom 	WP
+Est 	4 	5 	1 	15 	1 	he 	PRP
+Est 	4 	5 	1 	16 	1 	had 	VBD
+Est 	4 	5 	1 	17 	1 	appointed 	VBN
+Est 	4 	5 	1 	18 	1 	to 	TO
+Est 	4 	5 	1 	19 	1 	attend 	NN
+Est 	4 	5 	1 	20 	1 	upon 	IN
+Est 	4 	5 	1 	21 	1 	her 	PRP$
+Est 	4 	5 	1 	22 	0 	,
+Est 	4 	5 	1 	23 	1 	and 	CC
+Est 	4 	5 	1 	24 	1 	gave 	VBD
+Est 	4 	5 	1 	25 	1 	him 	PRP
+Est 	4 	5 	1 	26 	1 	a 	DT
+Est 	4 	5 	1 	27 	1 	commandment 	NN
+Est 	4 	5 	1 	28 	1 	to 	TO
+Est 	4 	5 	1 	29 	1 	Mordecai 	NN
+Est 	4 	5 	1 	30 	0 	,
+Est 	4 	5 	1 	31 	1 	to 	TO
+Est 	4 	5 	1 	32 	1 	know 	VB
+Est 	4 	5 	1 	33 	1 	what 	WP
+Est 	4 	5 	1 	34 	1 	it 	PRP
+Est 	4 	5 	1 	35 	1 	was 	VBD
+Est 	4 	5 	1 	36 	0 	,
+Est 	4 	5 	1 	37 	1 	and 	CC
+Est 	4 	5 	1 	38 	1 	why 	WRB
+Est 	4 	5 	1 	39 	1 	it 	PRP
+Est 	4 	5 	1 	40 	1 	was 	VBD
+Est 	4 	5 	1 	41 	0 	.
+Est 	4 	6 	1 	1 	1 	So 	RB
+Est 	4 	6 	1 	2 	1 	Hatach 	NN
+Est 	4 	6 	1 	3 	1 	went 	VBD
+Est 	4 	6 	1 	4 	1 	forth 	NN
+Est 	4 	6 	1 	5 	1 	to 	TO
+Est 	4 	6 	1 	6 	1 	Mordecai 	NN
+Est 	4 	6 	1 	7 	1 	unto 	NN
+Est 	4 	6 	1 	8 	1 	the 	DT
+Est 	4 	6 	1 	9 	1 	street 	NN
+Est 	4 	6 	1 	10 	1 	of 	IN
+Est 	4 	6 	1 	11 	1 	the 	DT
+Est 	4 	6 	1 	12 	1 	city 	NN
+Est 	4 	6 	1 	13 	0 	,
+Est 	4 	6 	1 	14 	1 	which 	WDT
+Est 	4 	6 	1 	15 	1 	was 	VBD
+Est 	4 	6 	1 	16 	1 	before 	IN
+Est 	4 	6 	1 	17 	1 	the 	DT
+Est 	4 	6 	1 	18 	1 	king 	NN
+Est 	4 	6 	1 	19 	0 	's
+Est 	4 	6 	1 	20 	1 	gate 	NN
+Est 	4 	6 	1 	21 	0 	.
+Est 	4 	7 	1 	1 	1 	And 	CC
+Est 	4 	7 	1 	2 	1 	Mordecai 	NN
+Est 	4 	7 	1 	3 	1 	told 	NN
+Est 	4 	7 	1 	4 	1 	him 	PRP
+Est 	4 	7 	1 	5 	1 	of 	IN
+Est 	4 	7 	1 	6 	1 	all 	DT
+Est 	4 	7 	1 	7 	1 	that 	IN
+Est 	4 	7 	1 	8 	1 	had 	VBD
+Est 	4 	7 	1 	9 	1 	happened 	VBD
+Est 	4 	7 	1 	10 	1 	unto 	NN
+Est 	4 	7 	1 	11 	1 	him 	PRP
+Est 	4 	7 	1 	12 	0 	,
+Est 	4 	7 	1 	13 	1 	and 	CC
+Est 	4 	7 	1 	14 	1 	of 	IN
+Est 	4 	7 	1 	15 	1 	the 	DT
+Est 	4 	7 	1 	16 	1 	sum 	NN
+Est 	4 	7 	1 	17 	1 	of 	IN
+Est 	4 	7 	1 	18 	1 	the 	DT
+Est 	4 	7 	1 	19 	1 	money 	NN
+Est 	4 	7 	1 	20 	1 	that 	IN
+Est 	4 	7 	1 	21 	1 	Haman 	NN
+Est 	4 	7 	1 	22 	1 	had 	VBD
+Est 	4 	7 	1 	23 	1 	promised 	VBN
+Est 	4 	7 	1 	24 	1 	to 	TO
+Est 	4 	7 	1 	25 	1 	pay 	NN
+Est 	4 	7 	1 	26 	1 	to 	TO
+Est 	4 	7 	1 	27 	1 	the 	DT
+Est 	4 	7 	1 	28 	1 	king 	NN
+Est 	4 	7 	1 	29 	0 	's
+Est 	4 	7 	1 	30 	1 	treasuries 	NNS
+Est 	4 	7 	1 	31 	1 	for 	IN
+Est 	4 	7 	1 	32 	1 	the 	DT
+Est 	4 	7 	1 	33 	1 	Jews 	NNS
+Est 	4 	7 	1 	34 	0 	,
+Est 	4 	7 	1 	35 	1 	to 	TO
+Est 	4 	7 	1 	36 	1 	destroy 	NN
+Est 	4 	7 	1 	37 	1 	them 	PRP
+Est 	4 	7 	1 	38 	0 	.
+Est 	4 	8 	1 	1 	1 	Also 	RB
+Est 	4 	8 	1 	2 	1 	he 	PRP
+Est 	4 	8 	1 	3 	1 	gave 	VBD
+Est 	4 	8 	1 	4 	1 	him 	PRP
+Est 	4 	8 	1 	5 	1 	the 	DT
+Est 	4 	8 	1 	6 	1 	copy 	NN
+Est 	4 	8 	1 	7 	1 	of 	IN
+Est 	4 	8 	1 	8 	1 	the 	DT
+Est 	4 	8 	1 	9 	1 	writing 	VBG
+Est 	4 	8 	1 	10 	1 	of 	IN
+Est 	4 	8 	1 	11 	1 	the 	DT
+Est 	4 	8 	1 	12 	1 	decree 	NN
+Est 	4 	8 	1 	13 	1 	that 	IN
+Est 	4 	8 	1 	14 	1 	was 	VBD
+Est 	4 	8 	1 	15 	1 	given 	VBN
+Est 	4 	8 	1 	16 	1 	at 	IN
+Est 	4 	8 	1 	17 	1 	Shushan 	NN
+Est 	4 	8 	1 	18 	1 	to 	TO
+Est 	4 	8 	1 	19 	1 	destroy 	NN
+Est 	4 	8 	1 	20 	1 	them 	PRP
+Est 	4 	8 	1 	21 	0 	,
+Est 	4 	8 	1 	22 	1 	to 	TO
+Est 	4 	8 	1 	23 	1 	shew 	NN
+Est 	4 	8 	1 	24 	1 	it 	PRP
+Est 	4 	8 	1 	25 	1 	unto 	NN
+Est 	4 	8 	1 	26 	1 	Esther 	NN
+Est 	4 	8 	1 	27 	0 	,
+Est 	4 	8 	1 	28 	1 	and 	CC
+Est 	4 	8 	1 	29 	1 	to 	TO
+Est 	4 	8 	1 	30 	1 	declare 	NN
+Est 	4 	8 	1 	31 	1 	it 	PRP
+Est 	4 	8 	1 	32 	1 	unto 	NN
+Est 	4 	8 	1 	33 	1 	her 	PRP$
+Est 	4 	8 	1 	34 	0 	,
+Est 	4 	8 	1 	35 	1 	and 	CC
+Est 	4 	8 	1 	36 	1 	to 	TO
+Est 	4 	8 	1 	37 	1 	charge 	NN
+Est 	4 	8 	1 	38 	1 	her 	PRP$
+Est 	4 	8 	1 	39 	1 	that 	IN
+Est 	4 	8 	1 	40 	1 	she 	PRP
+Est 	4 	8 	1 	41 	1 	should 	MD
+Est 	4 	8 	1 	42 	1 	go 	VB
+Est 	4 	8 	1 	43 	1 	in 	IN
+Est 	4 	8 	1 	44 	1 	unto 	NN
+Est 	4 	8 	1 	45 	1 	the 	DT
+Est 	4 	8 	1 	46 	1 	king 	NN
+Est 	4 	8 	1 	47 	0 	,
+Est 	4 	8 	1 	48 	1 	to 	TO
+Est 	4 	8 	1 	49 	1 	make 	VB
+Est 	4 	8 	1 	50 	1 	supplication 	NN
+Est 	4 	8 	1 	51 	1 	unto 	NN
+Est 	4 	8 	1 	52 	1 	him 	PRP
+Est 	4 	8 	1 	53 	0 	,
+Est 	4 	8 	1 	54 	1 	and 	CC
+Est 	4 	8 	1 	55 	1 	to 	TO
+Est 	4 	8 	1 	56 	1 	make 	VB
+Est 	4 	8 	1 	57 	1 	request 	NN
+Est 	4 	8 	1 	58 	1 	before 	IN
+Est 	4 	8 	1 	59 	1 	him 	PRP
+Est 	4 	8 	1 	60 	1 	for 	IN
+Est 	4 	8 	1 	61 	1 	her 	PRP$
+Est 	4 	8 	1 	62 	1 	people 	NNS
+Est 	4 	8 	1 	63 	0 	.
+Est 	4 	9 	1 	1 	1 	And 	CC
+Est 	4 	9 	1 	2 	1 	Hatach 	NN
+Est 	4 	9 	1 	3 	1 	came 	VBD
+Est 	4 	9 	1 	4 	1 	and 	CC
+Est 	4 	9 	1 	5 	1 	told 	NN
+Est 	4 	9 	1 	6 	1 	Esther 	NN
+Est 	4 	9 	1 	7 	1 	the 	DT
+Est 	4 	9 	1 	8 	1 	words 	NNS
+Est 	4 	9 	1 	9 	1 	of 	IN
+Est 	4 	9 	1 	10 	1 	Mordecai 	NN
+Est 	4 	9 	1 	11 	0 	.
+Est 	4 	10 	1 	1 	1 	Again 	NN
+Est 	4 	10 	1 	2 	1 	Esther 	NN
+Est 	4 	10 	1 	3 	1 	spake 	NN
+Est 	4 	10 	1 	4 	1 	unto 	NN
+Est 	4 	10 	1 	5 	1 	Hatach 	NN
+Est 	4 	10 	1 	6 	0 	,
+Est 	4 	10 	1 	7 	1 	and 	CC
+Est 	4 	10 	1 	8 	1 	gave 	VBD
+Est 	4 	10 	1 	9 	1 	him 	PRP
+Est 	4 	10 	1 	10 	1 	commandment 	NN
+Est 	4 	10 	1 	11 	1 	unto 	NN
+Est 	4 	10 	1 	12 	1 	Mordecai 	NN
+Est 	4 	10 	1 	13 	0 	;
+Est 	4 	11 	1 	1 	1 	All 	DT
+Est 	4 	11 	1 	2 	1 	the 	DT
+Est 	4 	11 	1 	3 	1 	king 	NN
+Est 	4 	11 	1 	4 	0 	's
+Est 	4 	11 	1 	5 	1 	servants 	NNS
+Est 	4 	11 	1 	6 	0 	,
+Est 	4 	11 	1 	7 	1 	and 	CC
+Est 	4 	11 	1 	8 	1 	the 	DT
+Est 	4 	11 	1 	9 	1 	people 	NNS
+Est 	4 	11 	1 	10 	1 	of 	IN
+Est 	4 	11 	1 	11 	1 	the 	DT
+Est 	4 	11 	1 	12 	1 	king 	NN
+Est 	4 	11 	1 	13 	0 	's
+Est 	4 	11 	1 	14 	1 	provinces 	NNS
+Est 	4 	11 	1 	15 	0 	,
+Est 	4 	11 	1 	16 	1 	do 	VB
+Est 	4 	11 	1 	17 	1 	know 	VB
+Est 	4 	11 	1 	18 	0 	,
+Est 	4 	11 	1 	19 	1 	that 	IN
+Est 	4 	11 	1 	20 	1 	whosoever 	NN
+Est 	4 	11 	1 	21 	0 	,
+Est 	4 	11 	1 	22 	1 	whether 	IN
+Est 	4 	11 	1 	23 	1 	man 	NN
+Est 	4 	11 	1 	24 	1 	or 	CC
+Est 	4 	11 	1 	25 	1 	women 	NNS
+Est 	4 	11 	1 	26 	0 	,
+Est 	4 	11 	1 	27 	1 	shall 	MD
+Est 	4 	11 	1 	28 	1 	come 	VB
+Est 	4 	11 	1 	29 	1 	unto 	NN
+Est 	4 	11 	1 	30 	1 	the 	DT
+Est 	4 	11 	1 	31 	1 	king 	NN
+Est 	4 	11 	1 	32 	1 	into 	IN
+Est 	4 	11 	1 	33 	1 	the 	DT
+Est 	4 	11 	1 	34 	1 	inner 	NN
+Est 	4 	11 	1 	35 	1 	court 	NN
+Est 	4 	11 	1 	36 	0 	,
+Est 	4 	11 	1 	37 	1 	who 	WP
+Est 	4 	11 	1 	38 	1 	is 	VBZ
+Est 	4 	11 	1 	39 	1 	not 	RB
+Est 	4 	11 	1 	40 	1 	called 	VBN
+Est 	4 	11 	1 	41 	0 	,
+Est 	4 	11 	1 	42 	1 	there 	RB
+Est 	4 	11 	1 	43 	1 	is 	VBZ
+Est 	4 	11 	1 	44 	1 	one 	CD
+Est 	4 	11 	1 	45 	1 	law 	NN
+Est 	4 	11 	1 	46 	1 	of 	IN
+Est 	4 	11 	1 	47 	1 	his 	PRP$
+Est 	4 	11 	1 	48 	1 	to 	TO
+Est 	4 	11 	1 	49 	1 	put 	NN
+Est 	4 	11 	1 	50 	1 	him 	PRP
+Est 	4 	11 	1 	51 	1 	to 	TO
+Est 	4 	11 	1 	52 	1 	death 	NN
+Est 	4 	11 	1 	53 	0 	,
+Est 	4 	11 	1 	54 	1 	except 	IN
+Est 	4 	11 	1 	55 	1 	such 	JJ
+Est 	4 	11 	1 	56 	1 	to 	TO
+Est 	4 	11 	1 	57 	1 	whom 	WP
+Est 	4 	11 	1 	58 	1 	the 	DT
+Est 	4 	11 	1 	59 	1 	king 	NN
+Est 	4 	11 	1 	60 	1 	shall 	MD
+Est 	4 	11 	1 	61 	1 	hold 	NN
+Est 	4 	11 	1 	62 	1 	out 	IN
+Est 	4 	11 	1 	63 	1 	the 	DT
+Est 	4 	11 	1 	64 	1 	golden 	JJ
+Est 	4 	11 	1 	65 	1 	sceptre 	NN
+Est 	4 	11 	1 	66 	0 	,
+Est 	4 	11 	1 	67 	1 	that 	IN
+Est 	4 	11 	1 	68 	1 	he 	PRP
+Est 	4 	11 	1 	69 	1 	may 	MD
+Est 	4 	11 	1 	70 	1 	live 	JJ
+Est 	4 	11 	1 	71 	0 	:
+Est 	4 	11 	1 	72 	1 	but 	CC
+Est 	4 	11 	1 	73 	1 	I 	PRP
+Est 	4 	11 	1 	74 	1 	have 	VB
+Est 	4 	11 	1 	75 	1 	not 	RB
+Est 	4 	11 	1 	76 	1 	been 	VBN
+Est 	4 	11 	1 	77 	1 	called 	VBN
+Est 	4 	11 	1 	78 	1 	to 	TO
+Est 	4 	11 	1 	79 	1 	come 	VB
+Est 	4 	11 	1 	80 	1 	in 	IN
+Est 	4 	11 	1 	81 	1 	unto 	NN
+Est 	4 	11 	1 	82 	1 	the 	DT
+Est 	4 	11 	1 	83 	1 	king 	NN
+Est 	4 	11 	1 	84 	1 	these 	DT
+Est 	4 	11 	1 	85 	1 	thirty 	NN
+Est 	4 	11 	1 	86 	1 	days 	NNS
+Est 	4 	11 	1 	87 	0 	.
+Est 	4 	12 	1 	1 	1 	And 	CC
+Est 	4 	12 	1 	2 	1 	they 	PRP
+Est 	4 	12 	1 	3 	1 	told 	NN
+Est 	4 	12 	1 	4 	1 	to 	TO
+Est 	4 	12 	1 	5 	1 	Mordecai 	NN
+Est 	4 	12 	1 	6 	1 	Esther 	NN
+Est 	4 	12 	1 	7 	0 	's
+Est 	4 	12 	1 	8 	1 	words 	NNS
+Est 	4 	12 	1 	9 	0 	.
+Est 	4 	13 	1 	1 	1 	Then 	RB
+Est 	4 	13 	1 	2 	1 	Mordecai 	NN
+Est 	4 	13 	1 	3 	1 	commanded 	VBN
+Est 	4 	13 	1 	4 	1 	to 	TO
+Est 	4 	13 	1 	5 	1 	answer 	NN
+Est 	4 	13 	1 	6 	1 	Esther 	NN
+Est 	4 	13 	1 	7 	0 	,
+Est 	4 	13 	1 	8 	1 	Think 	VB
+Est 	4 	13 	1 	9 	1 	not 	RB
+Est 	4 	13 	1 	10 	1 	with 	IN
+Est 	4 	13 	1 	11 	1 	thyself 	NN
+Est 	4 	13 	1 	12 	1 	that 	IN
+Est 	4 	13 	1 	13 	1 	thou 	NN
+Est 	4 	13 	1 	14 	1 	shalt 	NN
+Est 	4 	13 	1 	15 	1 	escape 	NN
+Est 	4 	13 	1 	16 	1 	in 	IN
+Est 	4 	13 	1 	17 	1 	the 	DT
+Est 	4 	13 	1 	18 	1 	king 	NN
+Est 	4 	13 	1 	19 	0 	's
+Est 	4 	13 	1 	20 	1 	house 	NN
+Est 	4 	13 	1 	21 	0 	,
+Est 	4 	13 	1 	22 	1 	more 	RBR
+Est 	4 	13 	1 	23 	1 	than 	IN
+Est 	4 	13 	1 	24 	1 	all 	DT
+Est 	4 	13 	1 	25 	1 	the 	DT
+Est 	4 	13 	1 	26 	1 	Jews 	NNS
+Est 	4 	13 	1 	27 	0 	.
+Est 	4 	14 	1 	1 	1 	For 	IN
+Est 	4 	14 	1 	2 	1 	if 	IN
+Est 	4 	14 	1 	3 	1 	thou 	NN
+Est 	4 	14 	1 	4 	1 	altogether 	RB
+Est 	4 	14 	1 	5 	1 	holdest 	NN
+Est 	4 	14 	1 	6 	1 	thy 	NN
+Est 	4 	14 	1 	7 	1 	peace 	NN
+Est 	4 	14 	1 	8 	1 	at 	IN
+Est 	4 	14 	1 	9 	1 	this 	DT
+Est 	4 	14 	1 	10 	1 	time 	NN
+Est 	4 	14 	1 	11 	0 	,
+Est 	4 	14 	1 	12 	1 	then 	RB
+Est 	4 	14 	1 	13 	1 	shall 	MD
+Est 	4 	14 	1 	14 	1 	there 	RB
+Est 	4 	14 	1 	15 	1 	enlargement 	NN
+Est 	4 	14 	1 	16 	1 	and 	CC
+Est 	4 	14 	1 	17 	1 	deliverance 	NN
+Est 	4 	14 	1 	18 	1 	arise 	NN
+Est 	4 	14 	1 	19 	1 	to 	TO
+Est 	4 	14 	1 	20 	1 	the 	DT
+Est 	4 	14 	1 	21 	1 	Jews 	NNS
+Est 	4 	14 	1 	22 	1 	from 	IN
+Est 	4 	14 	1 	23 	1 	another 	DT
+Est 	4 	14 	1 	24 	1 	place 	NN
+Est 	4 	14 	1 	25 	0 	;
+Est 	4 	14 	1 	26 	1 	but 	CC
+Est 	4 	14 	1 	27 	1 	thou 	NN
+Est 	4 	14 	1 	28 	1 	and 	CC
+Est 	4 	14 	1 	29 	1 	thy 	NN
+Est 	4 	14 	1 	30 	1 	father 	NN
+Est 	4 	14 	1 	31 	0 	's
+Est 	4 	14 	1 	32 	1 	house 	NN
+Est 	4 	14 	1 	33 	1 	shall 	MD
+Est 	4 	14 	1 	34 	1 	be 	VB
+Est 	4 	14 	1 	35 	1 	destroyed 	NN
+Est 	4 	14 	1 	36 	0 	:
+Est 	4 	14 	1 	37 	1 	and 	CC
+Est 	4 	14 	1 	38 	1 	who 	WP
+Est 	4 	14 	1 	39 	1 	knoweth 	NNS
+Est 	4 	14 	1 	40 	1 	whether 	IN
+Est 	4 	14 	1 	41 	1 	thou 	NN
+Est 	4 	14 	1 	42 	1 	art 	NN
+Est 	4 	14 	1 	43 	1 	come 	VB
+Est 	4 	14 	1 	44 	1 	to 	TO
+Est 	4 	14 	1 	45 	1 	the 	DT
+Est 	4 	14 	1 	46 	1 	kingdom 	NN
+Est 	4 	14 	1 	47 	1 	for 	IN
+Est 	4 	14 	1 	48 	1 	such 	JJ
+Est 	4 	14 	1 	49 	1 	a 	DT
+Est 	4 	14 	1 	50 	1 	time 	NN
+Est 	4 	14 	1 	51 	1 	as 	IN
+Est 	4 	14 	1 	52 	1 	this 	DT
+Est 	4 	14 	1 	53 	0 	?
+Est 	4 	15 	1 	1 	1 	Then 	RB
+Est 	4 	15 	1 	2 	1 	Esther 	NN
+Est 	4 	15 	1 	3 	1 	bade 	NN
+Est 	4 	15 	1 	4 	1 	them 	PRP
+Est 	4 	15 	1 	5 	1 	return 	NN
+Est 	4 	15 	1 	6 	1 	Mordecai 	NN
+Est 	4 	15 	1 	7 	1 	this 	DT
+Est 	4 	15 	1 	8 	1 	answer 	NN
+Est 	4 	15 	1 	9 	0 	,
+Est 	4 	16 	1 	1 	1 	Go 	VB
+Est 	4 	16 	1 	2 	0 	,
+Est 	4 	16 	1 	3 	1 	gather 	NN
+Est 	4 	16 	1 	4 	1 	together 	RB
+Est 	4 	16 	1 	5 	1 	all 	DT
+Est 	4 	16 	1 	6 	1 	the 	DT
+Est 	4 	16 	1 	7 	1 	Jews 	NNS
+Est 	4 	16 	1 	8 	1 	that 	IN
+Est 	4 	16 	1 	9 	1 	are 	VBP
+Est 	4 	16 	1 	10 	1 	present 	NN
+Est 	4 	16 	1 	11 	1 	in 	IN
+Est 	4 	16 	1 	12 	1 	Shushan 	NN
+Est 	4 	16 	1 	13 	0 	,
+Est 	4 	16 	1 	14 	1 	and 	CC
+Est 	4 	16 	1 	15 	1 	fast 	NN
+Est 	4 	16 	1 	16 	1 	ye 	NN
+Est 	4 	16 	1 	17 	1 	for 	IN
+Est 	4 	16 	1 	18 	1 	me 	PRP
+Est 	4 	16 	1 	19 	0 	,
+Est 	4 	16 	1 	20 	1 	and 	CC
+Est 	4 	16 	1 	21 	1 	neither 	DT
+Est 	4 	16 	1 	22 	1 	eat 	NN
+Est 	4 	16 	1 	23 	1 	nor 	CC
+Est 	4 	16 	1 	24 	1 	drink 	NN
+Est 	4 	16 	1 	25 	1 	three 	CD
+Est 	4 	16 	1 	26 	1 	days 	NNS
+Est 	4 	16 	1 	27 	0 	,
+Est 	4 	16 	1 	28 	1 	night 	NN
+Est 	4 	16 	1 	29 	1 	or 	CC
+Est 	4 	16 	1 	30 	1 	day 	NN
+Est 	4 	16 	1 	31 	0 	:
+Est 	4 	16 	1 	32 	1 	I 	PRP
+Est 	4 	16 	1 	33 	1 	also 	RB
+Est 	4 	16 	1 	34 	1 	and 	CC
+Est 	4 	16 	1 	35 	1 	my 	PRP$
+Est 	4 	16 	1 	36 	1 	maidens 	NNS
+Est 	4 	16 	1 	37 	1 	will 	MD
+Est 	4 	16 	1 	38 	1 	fast 	NN
+Est 	4 	16 	1 	39 	1 	likewise 	RB
+Est 	4 	16 	1 	40 	0 	;
+Est 	4 	16 	1 	41 	1 	and 	CC
+Est 	4 	16 	1 	42 	1 	so 	RB
+Est 	4 	16 	1 	43 	1 	will 	MD
+Est 	4 	16 	1 	44 	1 	I 	PRP
+Est 	4 	16 	1 	45 	1 	go 	VB
+Est 	4 	16 	1 	46 	1 	in 	IN
+Est 	4 	16 	1 	47 	1 	unto 	NN
+Est 	4 	16 	1 	48 	1 	the 	DT
+Est 	4 	16 	1 	49 	1 	king 	NN
+Est 	4 	16 	1 	50 	0 	,
+Est 	4 	16 	1 	51 	1 	which 	WDT
+Est 	4 	16 	1 	52 	1 	is 	VBZ
+Est 	4 	16 	1 	53 	1 	not 	RB
+Est 	4 	16 	1 	54 	1 	according 	VBG
+Est 	4 	16 	1 	55 	1 	to 	TO
+Est 	4 	16 	1 	56 	1 	the 	DT
+Est 	4 	16 	1 	57 	1 	law 	NN
+Est 	4 	16 	1 	58 	0 	:
+Est 	4 	16 	1 	59 	1 	and 	CC
+Est 	4 	16 	1 	60 	1 	if 	IN
+Est 	4 	16 	1 	61 	1 	I 	PRP
+Est 	4 	16 	1 	62 	1 	perish 	NN
+Est 	4 	16 	1 	63 	0 	,
+Est 	4 	16 	1 	64 	1 	I 	PRP
+Est 	4 	16 	1 	65 	1 	perish 	NN
+Est 	4 	16 	1 	66 	0 	.
+Est 	4 	17 	1 	1 	1 	So 	RB
+Est 	4 	17 	1 	2 	1 	Mordecai 	NN
+Est 	4 	17 	1 	3 	1 	went 	VBD
+Est 	4 	17 	1 	4 	1 	his 	PRP$
+Est 	4 	17 	1 	5 	1 	way 	NN
+Est 	4 	17 	1 	6 	0 	,
+Est 	4 	17 	1 	7 	1 	and 	CC
+Est 	4 	17 	1 	8 	1 	did 	VBD
+Est 	4 	17 	1 	9 	1 	according 	VBG
+Est 	4 	17 	1 	10 	1 	to 	TO
+Est 	4 	17 	1 	11 	1 	all 	DT
+Est 	4 	17 	1 	12 	1 	that 	IN
+Est 	4 	17 	1 	13 	1 	Esther 	NN
+Est 	4 	17 	1 	14 	1 	had 	VBD
+Est 	4 	17 	1 	15 	1 	commanded 	VBN
+Est 	4 	17 	1 	16 	1 	him 	PRP
+Est 	4 	17 	1 	17 	0 	.
+Est 	5 	1 	1 	1 	1 	Now 	RB
+Est 	5 	1 	1 	2 	1 	it 	PRP
+Est 	5 	1 	1 	3 	1 	came 	VBD
+Est 	5 	1 	1 	4 	1 	to 	TO
+Est 	5 	1 	1 	5 	1 	pass 	NN
+Est 	5 	1 	1 	6 	1 	on 	IN
+Est 	5 	1 	1 	7 	1 	the 	DT
+Est 	5 	1 	1 	8 	1 	third 	JJ
+Est 	5 	1 	1 	9 	1 	day 	NN
+Est 	5 	1 	1 	10 	0 	,
+Est 	5 	1 	1 	11 	1 	that 	IN
+Est 	5 	1 	1 	12 	1 	Esther 	NN
+Est 	5 	1 	1 	13 	1 	put 	NN
+Est 	5 	1 	1 	14 	1 	on 	IN
+Est 	5 	1 	1 	15 	1 	her 	PRP$
+Est 	5 	1 	1 	16 	1 	royal 	NN
+Est 	5 	1 	1 	17 	1 	apparel 	NN
+Est 	5 	1 	1 	18 	0 	,
+Est 	5 	1 	1 	19 	1 	and 	CC
+Est 	5 	1 	1 	20 	1 	stood 	NN
+Est 	5 	1 	1 	21 	1 	in 	IN
+Est 	5 	1 	1 	22 	1 	the 	DT
+Est 	5 	1 	1 	23 	1 	inner 	NN
+Est 	5 	1 	1 	24 	1 	court 	NN
+Est 	5 	1 	1 	25 	1 	of 	IN
+Est 	5 	1 	1 	26 	1 	the 	DT
+Est 	5 	1 	1 	27 	1 	king 	NN
+Est 	5 	1 	1 	28 	0 	's
+Est 	5 	1 	1 	29 	1 	house 	NN
+Est 	5 	1 	1 	30 	0 	,
+Est 	5 	1 	1 	31 	1 	over 	IN
+Est 	5 	1 	1 	32 	1 	against 	IN
+Est 	5 	1 	1 	33 	1 	the 	DT
+Est 	5 	1 	1 	34 	1 	king 	NN
+Est 	5 	1 	1 	35 	0 	's
+Est 	5 	1 	1 	36 	1 	house 	NN
+Est 	5 	1 	1 	37 	0 	:
+Est 	5 	1 	1 	38 	1 	and 	CC
+Est 	5 	1 	1 	39 	1 	the 	DT
+Est 	5 	1 	1 	40 	1 	king 	NN
+Est 	5 	1 	1 	41 	1 	sat 	NN
+Est 	5 	1 	1 	42 	1 	upon 	IN
+Est 	5 	1 	1 	43 	1 	his 	PRP$
+Est 	5 	1 	1 	44 	1 	royal 	NN
+Est 	5 	1 	1 	45 	1 	throne 	NN
+Est 	5 	1 	1 	46 	1 	in 	IN
+Est 	5 	1 	1 	47 	1 	the 	DT
+Est 	5 	1 	1 	48 	1 	royal 	NN
+Est 	5 	1 	1 	49 	1 	house 	NN
+Est 	5 	1 	1 	50 	0 	,
+Est 	5 	1 	1 	51 	1 	over 	IN
+Est 	5 	1 	1 	52 	1 	against 	IN
+Est 	5 	1 	1 	53 	1 	the 	DT
+Est 	5 	1 	1 	54 	1 	gate 	NN
+Est 	5 	1 	1 	55 	1 	of 	IN
+Est 	5 	1 	1 	56 	1 	the 	DT
+Est 	5 	1 	1 	57 	1 	house 	NN
+Est 	5 	1 	1 	58 	0 	.
+Est 	5 	2 	1 	1 	1 	And 	CC
+Est 	5 	2 	1 	2 	1 	it 	PRP
+Est 	5 	2 	1 	3 	1 	was 	VBD
+Est 	5 	2 	1 	4 	1 	so 	RB
+Est 	5 	2 	1 	5 	0 	,
+Est 	5 	2 	1 	6 	1 	when 	WRB
+Est 	5 	2 	1 	7 	1 	the 	DT
+Est 	5 	2 	1 	8 	1 	king 	NN
+Est 	5 	2 	1 	9 	1 	saw 	NN
+Est 	5 	2 	1 	10 	1 	Esther 	NN
+Est 	5 	2 	1 	11 	1 	the 	DT
+Est 	5 	2 	1 	12 	1 	queen 	NN
+Est 	5 	2 	1 	13 	1 	standing 	VBG
+Est 	5 	2 	1 	14 	1 	in 	IN
+Est 	5 	2 	1 	15 	1 	the 	DT
+Est 	5 	2 	1 	16 	1 	court 	NN
+Est 	5 	2 	1 	17 	0 	,
+Est 	5 	2 	1 	18 	1 	that 	IN
+Est 	5 	2 	1 	19 	1 	she 	PRP
+Est 	5 	2 	1 	20 	1 	obtained 	VBN
+Est 	5 	2 	1 	21 	1 	favour 	NN
+Est 	5 	2 	1 	22 	1 	in 	IN
+Est 	5 	2 	1 	23 	1 	his 	PRP$
+Est 	5 	2 	1 	24 	1 	sight 	NN
+Est 	5 	2 	1 	25 	0 	:
+Est 	5 	2 	1 	26 	1 	and 	CC
+Est 	5 	2 	1 	27 	1 	the 	DT
+Est 	5 	2 	1 	28 	1 	king 	NN
+Est 	5 	2 	1 	29 	1 	held 	NN
+Est 	5 	2 	1 	30 	1 	out 	IN
+Est 	5 	2 	1 	31 	1 	to 	TO
+Est 	5 	2 	1 	32 	1 	Esther 	NN
+Est 	5 	2 	1 	33 	1 	the 	DT
+Est 	5 	2 	1 	34 	1 	golden 	JJ
+Est 	5 	2 	1 	35 	1 	sceptre 	NN
+Est 	5 	2 	1 	36 	1 	that 	IN
+Est 	5 	2 	1 	37 	1 	was 	VBD
+Est 	5 	2 	1 	38 	1 	in 	IN
+Est 	5 	2 	1 	39 	1 	his 	PRP$
+Est 	5 	2 	1 	40 	1 	hand 	NN
+Est 	5 	2 	1 	41 	0 	.
+Est 	5 	2 	2 	1 	1 	So 	RB
+Est 	5 	2 	2 	2 	1 	Esther 	NN
+Est 	5 	2 	2 	3 	1 	drew 	NN
+Est 	5 	2 	2 	4 	1 	near 	IN
+Est 	5 	2 	2 	5 	0 	,
+Est 	5 	2 	2 	6 	1 	and 	CC
+Est 	5 	2 	2 	7 	1 	touched 	VBN
+Est 	5 	2 	2 	8 	1 	the 	DT
+Est 	5 	2 	2 	9 	1 	top 	NN
+Est 	5 	2 	2 	10 	1 	of 	IN
+Est 	5 	2 	2 	11 	1 	the 	DT
+Est 	5 	2 	2 	12 	1 	sceptre 	NN
+Est 	5 	2 	2 	13 	0 	.
+Est 	5 	3 	1 	1 	1 	Then 	RB
+Est 	5 	3 	1 	2 	1 	said 	VBD
+Est 	5 	3 	1 	3 	1 	the 	DT
+Est 	5 	3 	1 	4 	1 	king 	NN
+Est 	5 	3 	1 	5 	1 	unto 	NN
+Est 	5 	3 	1 	6 	1 	her 	PRP$
+Est 	5 	3 	1 	7 	0 	,
+Est 	5 	3 	1 	8 	1 	What 	WP
+Est 	5 	3 	1 	9 	1 	wilt 	NN
+Est 	5 	3 	1 	10 	1 	thou 	NN
+Est 	5 	3 	1 	11 	0 	,
+Est 	5 	3 	1 	12 	1 	queen 	NN
+Est 	5 	3 	1 	13 	1 	Esther 	NN
+Est 	5 	3 	1 	14 	0 	?
+Est 	5 	3 	2 	1 	1 	and 	CC
+Est 	5 	3 	2 	2 	1 	what 	WP
+Est 	5 	3 	2 	3 	1 	is 	VBZ
+Est 	5 	3 	2 	4 	1 	thy 	NN
+Est 	5 	3 	2 	5 	1 	request 	NN
+Est 	5 	3 	2 	6 	0 	?
+Est 	5 	3 	3 	1 	1 	it 	PRP
+Est 	5 	3 	3 	2 	1 	shall 	MD
+Est 	5 	3 	3 	3 	1 	be 	VB
+Est 	5 	3 	3 	4 	1 	even 	RB
+Est 	5 	3 	3 	5 	1 	given 	VBN
+Est 	5 	3 	3 	6 	1 	thee 	NN
+Est 	5 	3 	3 	7 	1 	to 	TO
+Est 	5 	3 	3 	8 	1 	the 	DT
+Est 	5 	3 	3 	9 	1 	half 	NN
+Est 	5 	3 	3 	10 	1 	of 	IN
+Est 	5 	3 	3 	11 	1 	the 	DT
+Est 	5 	3 	3 	12 	1 	kingdom 	NN
+Est 	5 	3 	3 	13 	0 	.
+Est 	5 	4 	1 	1 	1 	And 	CC
+Est 	5 	4 	1 	2 	1 	Esther 	NN
+Est 	5 	4 	1 	3 	1 	answered 	VBN
+Est 	5 	4 	1 	4 	0 	,
+Est 	5 	4 	1 	5 	1 	If 	IN
+Est 	5 	4 	1 	6 	1 	it 	PRP
+Est 	5 	4 	1 	7 	1 	seem 	NN
+Est 	5 	4 	1 	8 	1 	good 	JJ
+Est 	5 	4 	1 	9 	1 	unto 	NN
+Est 	5 	4 	1 	10 	1 	the 	DT
+Est 	5 	4 	1 	11 	1 	king 	NN
+Est 	5 	4 	1 	12 	0 	,
+Est 	5 	4 	1 	13 	1 	let 	VB
+Est 	5 	4 	1 	14 	1 	the 	DT
+Est 	5 	4 	1 	15 	1 	king 	NN
+Est 	5 	4 	1 	16 	1 	and 	CC
+Est 	5 	4 	1 	17 	1 	Haman 	NN
+Est 	5 	4 	1 	18 	1 	come 	VB
+Est 	5 	4 	1 	19 	1 	this 	DT
+Est 	5 	4 	1 	20 	1 	day 	NN
+Est 	5 	4 	1 	21 	1 	unto 	NN
+Est 	5 	4 	1 	22 	1 	the 	DT
+Est 	5 	4 	1 	23 	1 	banquet 	NN
+Est 	5 	4 	1 	24 	1 	that 	IN
+Est 	5 	4 	1 	25 	1 	I 	PRP
+Est 	5 	4 	1 	26 	1 	have 	VB
+Est 	5 	4 	1 	27 	1 	prepared 	JJ
+Est 	5 	4 	1 	28 	1 	for 	IN
+Est 	5 	4 	1 	29 	1 	him 	PRP
+Est 	5 	4 	1 	30 	0 	.
+Est 	5 	5 	1 	1 	1 	Then 	RB
+Est 	5 	5 	1 	2 	1 	the 	DT
+Est 	5 	5 	1 	3 	1 	king 	NN
+Est 	5 	5 	1 	4 	1 	said 	VBD
+Est 	5 	5 	1 	5 	0 	,
+Est 	5 	5 	1 	6 	1 	Cause 	NN
+Est 	5 	5 	1 	7 	1 	Haman 	NN
+Est 	5 	5 	1 	8 	1 	to 	TO
+Est 	5 	5 	1 	9 	1 	make 	VB
+Est 	5 	5 	1 	10 	1 	haste 	NN
+Est 	5 	5 	1 	11 	0 	,
+Est 	5 	5 	1 	12 	1 	that 	IN
+Est 	5 	5 	1 	13 	1 	he 	PRP
+Est 	5 	5 	1 	14 	1 	may 	MD
+Est 	5 	5 	1 	15 	1 	do 	VB
+Est 	5 	5 	1 	16 	1 	as 	IN
+Est 	5 	5 	1 	17 	1 	Esther 	NN
+Est 	5 	5 	1 	18 	1 	hath 	NN
+Est 	5 	5 	1 	19 	1 	said 	VBD
+Est 	5 	5 	1 	20 	0 	.
+Est 	5 	5 	2 	1 	1 	So 	RB
+Est 	5 	5 	2 	2 	1 	the 	DT
+Est 	5 	5 	2 	3 	1 	king 	NN
+Est 	5 	5 	2 	4 	1 	and 	CC
+Est 	5 	5 	2 	5 	1 	Haman 	NN
+Est 	5 	5 	2 	6 	1 	came 	VBD
+Est 	5 	5 	2 	7 	1 	to 	TO
+Est 	5 	5 	2 	8 	1 	the 	DT
+Est 	5 	5 	2 	9 	1 	banquet 	NN
+Est 	5 	5 	2 	10 	1 	that 	IN
+Est 	5 	5 	2 	11 	1 	Esther 	NN
+Est 	5 	5 	2 	12 	1 	had 	VBD
+Est 	5 	5 	2 	13 	1 	prepared 	JJ
+Est 	5 	5 	2 	14 	0 	.
+Est 	5 	6 	1 	1 	1 	And 	CC
+Est 	5 	6 	1 	2 	1 	the 	DT
+Est 	5 	6 	1 	3 	1 	king 	NN
+Est 	5 	6 	1 	4 	1 	said 	VBD
+Est 	5 	6 	1 	5 	1 	unto 	NN
+Est 	5 	6 	1 	6 	1 	Esther 	NN
+Est 	5 	6 	1 	7 	1 	at 	IN
+Est 	5 	6 	1 	8 	1 	the 	DT
+Est 	5 	6 	1 	9 	1 	banquet 	NN
+Est 	5 	6 	1 	10 	1 	of 	IN
+Est 	5 	6 	1 	11 	1 	wine 	NN
+Est 	5 	6 	1 	12 	0 	,
+Est 	5 	6 	1 	13 	1 	What 	WP
+Est 	5 	6 	1 	14 	1 	is 	VBZ
+Est 	5 	6 	1 	15 	1 	thy 	NN
+Est 	5 	6 	1 	16 	1 	petition 	NN
+Est 	5 	6 	1 	17 	0 	?
+Est 	5 	6 	2 	1 	1 	and 	CC
+Est 	5 	6 	2 	2 	1 	it 	PRP
+Est 	5 	6 	2 	3 	1 	shall 	MD
+Est 	5 	6 	2 	4 	1 	be 	VB
+Est 	5 	6 	2 	5 	1 	granted 	VBN
+Est 	5 	6 	2 	6 	1 	thee 	NN
+Est 	5 	6 	2 	7 	0 	:
+Est 	5 	6 	2 	8 	1 	and 	CC
+Est 	5 	6 	2 	9 	1 	what 	WP
+Est 	5 	6 	2 	10 	1 	is 	VBZ
+Est 	5 	6 	2 	11 	1 	thy 	NN
+Est 	5 	6 	2 	12 	1 	request 	NN
+Est 	5 	6 	2 	13 	0 	?
+Est 	5 	6 	3 	1 	1 	even 	RB
+Est 	5 	6 	3 	2 	1 	to 	TO
+Est 	5 	6 	3 	3 	1 	the 	DT
+Est 	5 	6 	3 	4 	1 	half 	NN
+Est 	5 	6 	3 	5 	1 	of 	IN
+Est 	5 	6 	3 	6 	1 	the 	DT
+Est 	5 	6 	3 	7 	1 	kingdom 	NN
+Est 	5 	6 	3 	8 	1 	it 	PRP
+Est 	5 	6 	3 	9 	1 	shall 	MD
+Est 	5 	6 	3 	10 	1 	be 	VB
+Est 	5 	6 	3 	11 	1 	performed 	VBN
+Est 	5 	6 	3 	12 	0 	.
+Est 	5 	7 	1 	1 	1 	Then 	RB
+Est 	5 	7 	1 	2 	1 	answered 	VBN
+Est 	5 	7 	1 	3 	1 	Esther 	NN
+Est 	5 	7 	1 	4 	0 	,
+Est 	5 	7 	1 	5 	1 	and 	CC
+Est 	5 	7 	1 	6 	1 	said 	VBD
+Est 	5 	7 	1 	7 	0 	,
+Est 	5 	7 	1 	8 	1 	My 	PRP$
+Est 	5 	7 	1 	9 	1 	petition 	NN
+Est 	5 	7 	1 	10 	1 	and 	CC
+Est 	5 	7 	1 	11 	1 	my 	PRP$
+Est 	5 	7 	1 	12 	1 	request 	NN
+Est 	5 	7 	1 	13 	1 	is 	VBZ
+Est 	5 	7 	1 	14 	0 	;
+Est 	5 	8 	1 	1 	1 	If 	IN
+Est 	5 	8 	1 	2 	1 	I 	PRP
+Est 	5 	8 	1 	3 	1 	have 	VB
+Est 	5 	8 	1 	4 	1 	found 	NN
+Est 	5 	8 	1 	5 	1 	favour 	NN
+Est 	5 	8 	1 	6 	1 	in 	IN
+Est 	5 	8 	1 	7 	1 	the 	DT
+Est 	5 	8 	1 	8 	1 	sight 	NN
+Est 	5 	8 	1 	9 	1 	of 	IN
+Est 	5 	8 	1 	10 	1 	the 	DT
+Est 	5 	8 	1 	11 	1 	king 	NN
+Est 	5 	8 	1 	12 	0 	,
+Est 	5 	8 	1 	13 	1 	and 	CC
+Est 	5 	8 	1 	14 	1 	if 	IN
+Est 	5 	8 	1 	15 	1 	it 	PRP
+Est 	5 	8 	1 	16 	1 	please 	NN
+Est 	5 	8 	1 	17 	1 	the 	DT
+Est 	5 	8 	1 	18 	1 	king 	NN
+Est 	5 	8 	1 	19 	1 	to 	TO
+Est 	5 	8 	1 	20 	1 	grant 	NN
+Est 	5 	8 	1 	21 	1 	my 	PRP$
+Est 	5 	8 	1 	22 	1 	petition 	NN
+Est 	5 	8 	1 	23 	0 	,
+Est 	5 	8 	1 	24 	1 	and 	CC
+Est 	5 	8 	1 	25 	1 	to 	TO
+Est 	5 	8 	1 	26 	1 	perform 	NN
+Est 	5 	8 	1 	27 	1 	my 	PRP$
+Est 	5 	8 	1 	28 	1 	request 	NN
+Est 	5 	8 	1 	29 	0 	,
+Est 	5 	8 	1 	30 	1 	let 	VB
+Est 	5 	8 	1 	31 	1 	the 	DT
+Est 	5 	8 	1 	32 	1 	king 	NN
+Est 	5 	8 	1 	33 	1 	and 	CC
+Est 	5 	8 	1 	34 	1 	Haman 	NN
+Est 	5 	8 	1 	35 	1 	come 	VB
+Est 	5 	8 	1 	36 	1 	to 	TO
+Est 	5 	8 	1 	37 	1 	the 	DT
+Est 	5 	8 	1 	38 	1 	banquet 	NN
+Est 	5 	8 	1 	39 	1 	that 	IN
+Est 	5 	8 	1 	40 	1 	I 	PRP
+Est 	5 	8 	1 	41 	1 	shall 	MD
+Est 	5 	8 	1 	42 	1 	prepare 	NN
+Est 	5 	8 	1 	43 	1 	for 	IN
+Est 	5 	8 	1 	44 	1 	them 	PRP
+Est 	5 	8 	1 	45 	0 	,
+Est 	5 	8 	1 	46 	1 	and 	CC
+Est 	5 	8 	1 	47 	1 	I 	PRP
+Est 	5 	8 	1 	48 	1 	will 	MD
+Est 	5 	8 	1 	49 	1 	do 	VB
+Est 	5 	8 	1 	50 	1 	to 	TO
+Est 	5 	8 	1 	51 	1 	morrow 	NN
+Est 	5 	8 	1 	52 	1 	as 	IN
+Est 	5 	8 	1 	53 	1 	the 	DT
+Est 	5 	8 	1 	54 	1 	king 	NN
+Est 	5 	8 	1 	55 	1 	hath 	NN
+Est 	5 	8 	1 	56 	1 	said 	VBD
+Est 	5 	8 	1 	57 	0 	.
+Est 	5 	9 	1 	1 	1 	Then 	RB
+Est 	5 	9 	1 	2 	1 	went 	VBD
+Est 	5 	9 	1 	3 	1 	Haman 	NN
+Est 	5 	9 	1 	4 	1 	forth 	NN
+Est 	5 	9 	1 	5 	1 	that 	IN
+Est 	5 	9 	1 	6 	1 	day 	NN
+Est 	5 	9 	1 	7 	1 	joyful 	NN
+Est 	5 	9 	1 	8 	1 	and 	CC
+Est 	5 	9 	1 	9 	1 	with 	IN
+Est 	5 	9 	1 	10 	1 	a 	DT
+Est 	5 	9 	1 	11 	1 	glad 	NN
+Est 	5 	9 	1 	12 	1 	heart 	NN
+Est 	5 	9 	1 	13 	0 	:
+Est 	5 	9 	1 	14 	1 	but 	CC
+Est 	5 	9 	1 	15 	1 	when 	WRB
+Est 	5 	9 	1 	16 	1 	Haman 	NN
+Est 	5 	9 	1 	17 	1 	saw 	NN
+Est 	5 	9 	1 	18 	1 	Mordecai 	NN
+Est 	5 	9 	1 	19 	1 	in 	IN
+Est 	5 	9 	1 	20 	1 	the 	DT
+Est 	5 	9 	1 	21 	1 	king 	NN
+Est 	5 	9 	1 	22 	0 	's
+Est 	5 	9 	1 	23 	1 	gate 	NN
+Est 	5 	9 	1 	24 	0 	,
+Est 	5 	9 	1 	25 	1 	that 	IN
+Est 	5 	9 	1 	26 	1 	he 	PRP
+Est 	5 	9 	1 	27 	1 	stood 	NN
+Est 	5 	9 	1 	28 	1 	not 	RB
+Est 	5 	9 	1 	29 	1 	up 	RB
+Est 	5 	9 	1 	30 	0 	,
+Est 	5 	9 	1 	31 	1 	nor 	CC
+Est 	5 	9 	1 	32 	1 	moved 	VBN
+Est 	5 	9 	1 	33 	1 	for 	IN
+Est 	5 	9 	1 	34 	1 	him 	PRP
+Est 	5 	9 	1 	35 	0 	,
+Est 	5 	9 	1 	36 	1 	he 	PRP
+Est 	5 	9 	1 	37 	1 	was 	VBD
+Est 	5 	9 	1 	38 	1 	full 	JJ
+Est 	5 	9 	1 	39 	1 	of 	IN
+Est 	5 	9 	1 	40 	1 	indignation 	NN
+Est 	5 	9 	1 	41 	1 	against 	IN
+Est 	5 	9 	1 	42 	1 	Mordecai 	NN
+Est 	5 	9 	1 	43 	0 	.
+Est 	5 	10 	1 	1 	1 	Nevertheless 	RB
+Est 	5 	10 	1 	2 	1 	Haman 	NN
+Est 	5 	10 	1 	3 	1 	refrained 	VBN
+Est 	5 	10 	1 	4 	1 	himself 	PRP
+Est 	5 	10 	1 	5 	0 	:
+Est 	5 	10 	1 	6 	1 	and 	CC
+Est 	5 	10 	1 	7 	1 	when 	WRB
+Est 	5 	10 	1 	8 	1 	he 	PRP
+Est 	5 	10 	1 	9 	1 	came 	VBD
+Est 	5 	10 	1 	10 	1 	home 	NN
+Est 	5 	10 	1 	11 	0 	,
+Est 	5 	10 	1 	12 	1 	he 	PRP
+Est 	5 	10 	1 	13 	1 	sent 	NN
+Est 	5 	10 	1 	14 	1 	and 	CC
+Est 	5 	10 	1 	15 	1 	called 	VBN
+Est 	5 	10 	1 	16 	1 	for 	IN
+Est 	5 	10 	1 	17 	1 	his 	PRP$
+Est 	5 	10 	1 	18 	1 	friends 	NNS
+Est 	5 	10 	1 	19 	0 	,
+Est 	5 	10 	1 	20 	1 	and 	CC
+Est 	5 	10 	1 	21 	1 	Zeresh 	JJ
+Est 	5 	10 	1 	22 	1 	his 	PRP$
+Est 	5 	10 	1 	23 	1 	wife 	NN
+Est 	5 	10 	1 	24 	0 	.
+Est 	5 	11 	1 	1 	1 	And 	CC
+Est 	5 	11 	1 	2 	1 	Haman 	NN
+Est 	5 	11 	1 	3 	1 	told 	NN
+Est 	5 	11 	1 	4 	1 	them 	PRP
+Est 	5 	11 	1 	5 	1 	of 	IN
+Est 	5 	11 	1 	6 	1 	the 	DT
+Est 	5 	11 	1 	7 	1 	glory 	NN
+Est 	5 	11 	1 	8 	1 	of 	IN
+Est 	5 	11 	1 	9 	1 	his 	PRP$
+Est 	5 	11 	1 	10 	1 	riches 	NNS
+Est 	5 	11 	1 	11 	0 	,
+Est 	5 	11 	1 	12 	1 	and 	CC
+Est 	5 	11 	1 	13 	1 	the 	DT
+Est 	5 	11 	1 	14 	1 	multitude 	NN
+Est 	5 	11 	1 	15 	1 	of 	IN
+Est 	5 	11 	1 	16 	1 	his 	PRP$
+Est 	5 	11 	1 	17 	1 	children 	NNS
+Est 	5 	11 	1 	18 	0 	,
+Est 	5 	11 	1 	19 	1 	and 	CC
+Est 	5 	11 	1 	20 	1 	all 	DT
+Est 	5 	11 	1 	21 	1 	the 	DT
+Est 	5 	11 	1 	22 	1 	things 	NNS
+Est 	5 	11 	1 	23 	1 	wherein 	NN
+Est 	5 	11 	1 	24 	1 	the 	DT
+Est 	5 	11 	1 	25 	1 	king 	NN
+Est 	5 	11 	1 	26 	1 	had 	VBD
+Est 	5 	11 	1 	27 	1 	promoted 	VBN
+Est 	5 	11 	1 	28 	1 	him 	PRP
+Est 	5 	11 	1 	29 	0 	,
+Est 	5 	11 	1 	30 	1 	and 	CC
+Est 	5 	11 	1 	31 	1 	how 	WRB
+Est 	5 	11 	1 	32 	1 	he 	PRP
+Est 	5 	11 	1 	33 	1 	had 	VBD
+Est 	5 	11 	1 	34 	1 	advanced 	JJ
+Est 	5 	11 	1 	35 	1 	him 	PRP
+Est 	5 	11 	1 	36 	1 	above 	IN
+Est 	5 	11 	1 	37 	1 	the 	DT
+Est 	5 	11 	1 	38 	1 	princes 	NNS
+Est 	5 	11 	1 	39 	1 	and 	CC
+Est 	5 	11 	1 	40 	1 	servants 	NNS
+Est 	5 	11 	1 	41 	1 	of 	IN
+Est 	5 	11 	1 	42 	1 	the 	DT
+Est 	5 	11 	1 	43 	1 	king 	NN
+Est 	5 	11 	1 	44 	0 	.
+Est 	5 	12 	1 	1 	1 	Haman 	NN
+Est 	5 	12 	1 	2 	1 	said 	VBD
+Est 	5 	12 	1 	3 	1 	moreover 	NN
+Est 	5 	12 	1 	4 	0 	,
+Est 	5 	12 	1 	5 	1 	Yea 	NN
+Est 	5 	12 	1 	6 	0 	,
+Est 	5 	12 	1 	7 	1 	Esther 	NN
+Est 	5 	12 	1 	8 	1 	the 	DT
+Est 	5 	12 	1 	9 	1 	queen 	NN
+Est 	5 	12 	1 	10 	1 	did 	VBD
+Est 	5 	12 	1 	11 	1 	let 	VB
+Est 	5 	12 	1 	12 	1 	no 	DT
+Est 	5 	12 	1 	13 	1 	man 	NN
+Est 	5 	12 	1 	14 	1 	come 	VB
+Est 	5 	12 	1 	15 	1 	in 	IN
+Est 	5 	12 	1 	16 	1 	with 	IN
+Est 	5 	12 	1 	17 	1 	the 	DT
+Est 	5 	12 	1 	18 	1 	king 	NN
+Est 	5 	12 	1 	19 	1 	unto 	NN
+Est 	5 	12 	1 	20 	1 	the 	DT
+Est 	5 	12 	1 	21 	1 	banquet 	NN
+Est 	5 	12 	1 	22 	1 	that 	IN
+Est 	5 	12 	1 	23 	1 	she 	PRP
+Est 	5 	12 	1 	24 	1 	had 	VBD
+Est 	5 	12 	1 	25 	1 	prepared 	JJ
+Est 	5 	12 	1 	26 	1 	but 	CC
+Est 	5 	12 	1 	27 	1 	myself 	PRP
+Est 	5 	12 	1 	28 	0 	;
+Est 	5 	12 	1 	29 	1 	and 	CC
+Est 	5 	12 	1 	30 	1 	to 	TO
+Est 	5 	12 	1 	31 	1 	morrow 	NN
+Est 	5 	12 	1 	32 	1 	am 	VBP
+Est 	5 	12 	1 	33 	1 	I 	PRP
+Est 	5 	12 	1 	34 	1 	invited 	VBN
+Est 	5 	12 	1 	35 	1 	unto 	NN
+Est 	5 	12 	1 	36 	1 	her 	PRP$
+Est 	5 	12 	1 	37 	1 	also 	RB
+Est 	5 	12 	1 	38 	1 	with 	IN
+Est 	5 	12 	1 	39 	1 	the 	DT
+Est 	5 	12 	1 	40 	1 	king 	NN
+Est 	5 	12 	1 	41 	0 	.
+Est 	5 	13 	1 	1 	1 	Yet 	RB
+Est 	5 	13 	1 	2 	1 	all 	DT
+Est 	5 	13 	1 	3 	1 	this 	DT
+Est 	5 	13 	1 	4 	1 	availeth 	NNS
+Est 	5 	13 	1 	5 	1 	me 	PRP
+Est 	5 	13 	1 	6 	1 	nothing 	NN
+Est 	5 	13 	1 	7 	0 	,
+Est 	5 	13 	1 	8 	1 	so 	RB
+Est 	5 	13 	1 	9 	1 	long 	RB
+Est 	5 	13 	1 	10 	1 	as 	IN
+Est 	5 	13 	1 	11 	1 	I 	PRP
+Est 	5 	13 	1 	12 	1 	see 	VB
+Est 	5 	13 	1 	13 	1 	Mordecai 	NN
+Est 	5 	13 	1 	14 	1 	the 	DT
+Est 	5 	13 	1 	15 	1 	Jew 	NN
+Est 	5 	13 	1 	16 	1 	sitting 	VBG
+Est 	5 	13 	1 	17 	1 	at 	IN
+Est 	5 	13 	1 	18 	1 	the 	DT
+Est 	5 	13 	1 	19 	1 	king 	NN
+Est 	5 	13 	1 	20 	0 	's
+Est 	5 	13 	1 	21 	1 	gate 	NN
+Est 	5 	13 	1 	22 	0 	.
+Est 	5 	14 	1 	1 	1 	Then 	RB
+Est 	5 	14 	1 	2 	1 	said 	VBD
+Est 	5 	14 	1 	3 	1 	Zeresh 	JJ
+Est 	5 	14 	1 	4 	1 	his 	PRP$
+Est 	5 	14 	1 	5 	1 	wife 	NN
+Est 	5 	14 	1 	6 	1 	and 	CC
+Est 	5 	14 	1 	7 	1 	all 	DT
+Est 	5 	14 	1 	8 	1 	his 	PRP$
+Est 	5 	14 	1 	9 	1 	friends 	NNS
+Est 	5 	14 	1 	10 	1 	unto 	NN
+Est 	5 	14 	1 	11 	1 	him 	PRP
+Est 	5 	14 	1 	12 	0 	,
+Est 	5 	14 	1 	13 	1 	Let 	VB
+Est 	5 	14 	1 	14 	1 	a 	DT
+Est 	5 	14 	1 	15 	1 	gallows 	NNS
+Est 	5 	14 	1 	16 	1 	be 	VB
+Est 	5 	14 	1 	17 	1 	made 	VBN
+Est 	5 	14 	1 	18 	1 	of 	IN
+Est 	5 	14 	1 	19 	1 	fifty 	NN
+Est 	5 	14 	1 	20 	1 	cubits 	NNS
+Est 	5 	14 	1 	21 	1 	high 	JJ
+Est 	5 	14 	1 	22 	0 	,
+Est 	5 	14 	1 	23 	1 	and 	CC
+Est 	5 	14 	1 	24 	1 	to 	TO
+Est 	5 	14 	1 	25 	1 	morrow 	NN
+Est 	5 	14 	1 	26 	1 	speak 	NN
+Est 	5 	14 	1 	27 	1 	thou 	NN
+Est 	5 	14 	1 	28 	1 	unto 	NN
+Est 	5 	14 	1 	29 	1 	the 	DT
+Est 	5 	14 	1 	30 	1 	king 	NN
+Est 	5 	14 	1 	31 	1 	that 	IN
+Est 	5 	14 	1 	32 	1 	Mordecai 	NN
+Est 	5 	14 	1 	33 	1 	may 	MD
+Est 	5 	14 	1 	34 	1 	be 	VB
+Est 	5 	14 	1 	35 	1 	hanged 	VBN
+Est 	5 	14 	1 	36 	1 	thereon 	NN
+Est 	5 	14 	1 	37 	0 	:
+Est 	5 	14 	1 	38 	1 	then 	RB
+Est 	5 	14 	1 	39 	1 	go 	VB
+Est 	5 	14 	1 	40 	1 	thou 	NN
+Est 	5 	14 	1 	41 	1 	in 	IN
+Est 	5 	14 	1 	42 	1 	merrily 	RB
+Est 	5 	14 	1 	43 	1 	with 	IN
+Est 	5 	14 	1 	44 	1 	the 	DT
+Est 	5 	14 	1 	45 	1 	king 	NN
+Est 	5 	14 	1 	46 	1 	unto 	NN
+Est 	5 	14 	1 	47 	1 	the 	DT
+Est 	5 	14 	1 	48 	1 	banquet 	NN
+Est 	5 	14 	1 	49 	0 	.
+Est 	5 	14 	2 	1 	1 	And 	CC
+Est 	5 	14 	2 	2 	1 	the 	DT
+Est 	5 	14 	2 	3 	1 	thing 	NN
+Est 	5 	14 	2 	4 	1 	pleased 	JJ
+Est 	5 	14 	2 	5 	1 	Haman 	NN
+Est 	5 	14 	2 	6 	0 	;
+Est 	5 	14 	2 	7 	1 	and 	CC
+Est 	5 	14 	2 	8 	1 	he 	PRP
+Est 	5 	14 	2 	9 	1 	caused 	VBN
+Est 	5 	14 	2 	10 	1 	the 	DT
+Est 	5 	14 	2 	11 	1 	gallows 	NNS
+Est 	5 	14 	2 	12 	1 	to 	TO
+Est 	5 	14 	2 	13 	1 	be 	VB
+Est 	5 	14 	2 	14 	1 	made 	VBN
+Est 	5 	14 	2 	15 	0 	.
+Est 	6 	1 	1 	1 	1 	On 	IN
+Est 	6 	1 	1 	2 	1 	that 	IN
+Est 	6 	1 	1 	3 	1 	night 	NN
+Est 	6 	1 	1 	4 	1 	could 	MD
+Est 	6 	1 	1 	5 	1 	not 	RB
+Est 	6 	1 	1 	6 	1 	the 	DT
+Est 	6 	1 	1 	7 	1 	king 	NN
+Est 	6 	1 	1 	8 	1 	sleep 	NN
+Est 	6 	1 	1 	9 	0 	,
+Est 	6 	1 	1 	10 	1 	and 	CC
+Est 	6 	1 	1 	11 	1 	he 	PRP
+Est 	6 	1 	1 	12 	1 	commanded 	VBN
+Est 	6 	1 	1 	13 	1 	to 	TO
+Est 	6 	1 	1 	14 	1 	bring 	NN
+Est 	6 	1 	1 	15 	1 	the 	DT
+Est 	6 	1 	1 	16 	1 	book 	NN
+Est 	6 	1 	1 	17 	1 	of 	IN
+Est 	6 	1 	1 	18 	1 	records 	NNS
+Est 	6 	1 	1 	19 	1 	of 	IN
+Est 	6 	1 	1 	20 	1 	the 	DT
+Est 	6 	1 	1 	21 	1 	chronicles 	NNS
+Est 	6 	1 	1 	22 	0 	;
+Est 	6 	1 	1 	23 	1 	and 	CC
+Est 	6 	1 	1 	24 	1 	they 	PRP
+Est 	6 	1 	1 	25 	1 	were 	VBD
+Est 	6 	1 	1 	26 	1 	read 	NN
+Est 	6 	1 	1 	27 	1 	before 	IN
+Est 	6 	1 	1 	28 	1 	the 	DT
+Est 	6 	1 	1 	29 	1 	king 	NN
+Est 	6 	1 	1 	30 	0 	.
+Est 	6 	2 	1 	1 	1 	And 	CC
+Est 	6 	2 	1 	2 	1 	it 	PRP
+Est 	6 	2 	1 	3 	1 	was 	VBD
+Est 	6 	2 	1 	4 	1 	found 	NN
+Est 	6 	2 	1 	5 	1 	written 	VBN
+Est 	6 	2 	1 	6 	0 	,
+Est 	6 	2 	1 	7 	1 	that 	IN
+Est 	6 	2 	1 	8 	1 	Mordecai 	NN
+Est 	6 	2 	1 	9 	1 	had 	VBD
+Est 	6 	2 	1 	10 	1 	told 	NN
+Est 	6 	2 	1 	11 	1 	of 	IN
+Est 	6 	2 	1 	12 	1 	Bigthana 	NNP
+Est 	6 	2 	1 	13 	1 	and 	CC
+Est 	6 	2 	1 	14 	1 	Teresh 	NN
+Est 	6 	2 	1 	15 	0 	,
+Est 	6 	2 	1 	16 	1 	two 	CD
+Est 	6 	2 	1 	17 	1 	of 	IN
+Est 	6 	2 	1 	18 	1 	the 	DT
+Est 	6 	2 	1 	19 	1 	king 	NN
+Est 	6 	2 	1 	20 	0 	's
+Est 	6 	2 	1 	21 	1 	chamberlains 	NNS
+Est 	6 	2 	1 	22 	0 	,
+Est 	6 	2 	1 	23 	1 	the 	DT
+Est 	6 	2 	1 	24 	1 	keepers 	NNS
+Est 	6 	2 	1 	25 	1 	of 	IN
+Est 	6 	2 	1 	26 	1 	the 	DT
+Est 	6 	2 	1 	27 	1 	door 	NN
+Est 	6 	2 	1 	28 	0 	,
+Est 	6 	2 	1 	29 	1 	who 	WP
+Est 	6 	2 	1 	30 	1 	sought 	NN
+Est 	6 	2 	1 	31 	1 	to 	TO
+Est 	6 	2 	1 	32 	1 	lay 	NN
+Est 	6 	2 	1 	33 	1 	hand 	NN
+Est 	6 	2 	1 	34 	1 	on 	IN
+Est 	6 	2 	1 	35 	1 	the 	DT
+Est 	6 	2 	1 	36 	1 	king 	NN
+Est 	6 	2 	1 	37 	1 	Ahasuerus 	NN
+Est 	6 	2 	1 	38 	0 	.
+Est 	6 	3 	1 	1 	1 	And 	CC
+Est 	6 	3 	1 	2 	1 	the 	DT
+Est 	6 	3 	1 	3 	1 	king 	NN
+Est 	6 	3 	1 	4 	1 	said 	VBD
+Est 	6 	3 	1 	5 	0 	,
+Est 	6 	3 	1 	6 	1 	What 	WP
+Est 	6 	3 	1 	7 	1 	honour 	NN
+Est 	6 	3 	1 	8 	1 	and 	CC
+Est 	6 	3 	1 	9 	1 	dignity 	NN
+Est 	6 	3 	1 	10 	1 	hath 	NN
+Est 	6 	3 	1 	11 	1 	been 	VBN
+Est 	6 	3 	1 	12 	1 	done 	VBN
+Est 	6 	3 	1 	13 	1 	to 	TO
+Est 	6 	3 	1 	14 	1 	Mordecai 	NN
+Est 	6 	3 	1 	15 	1 	for 	IN
+Est 	6 	3 	1 	16 	1 	this 	DT
+Est 	6 	3 	1 	17 	0 	?
+Est 	6 	3 	2 	1 	1 	Then 	RB
+Est 	6 	3 	2 	2 	1 	said 	VBD
+Est 	6 	3 	2 	3 	1 	the 	DT
+Est 	6 	3 	2 	4 	1 	king 	NN
+Est 	6 	3 	2 	5 	0 	's
+Est 	6 	3 	2 	6 	1 	servants 	NNS
+Est 	6 	3 	2 	7 	1 	that 	IN
+Est 	6 	3 	2 	8 	1 	ministered 	VBN
+Est 	6 	3 	2 	9 	1 	unto 	NN
+Est 	6 	3 	2 	10 	1 	him 	PRP
+Est 	6 	3 	2 	11 	0 	,
+Est 	6 	3 	2 	12 	1 	There 	EX
+Est 	6 	3 	2 	13 	1 	is 	VBZ
+Est 	6 	3 	2 	14 	1 	nothing 	NN
+Est 	6 	3 	2 	15 	1 	done 	VBN
+Est 	6 	3 	2 	16 	1 	for 	IN
+Est 	6 	3 	2 	17 	1 	him 	PRP
+Est 	6 	3 	2 	18 	0 	.
+Est 	6 	4 	1 	1 	1 	And 	CC
+Est 	6 	4 	1 	2 	1 	the 	DT
+Est 	6 	4 	1 	3 	1 	king 	NN
+Est 	6 	4 	1 	4 	1 	said 	VBD
+Est 	6 	4 	1 	5 	0 	,
+Est 	6 	4 	1 	6 	1 	Who 	WP
+Est 	6 	4 	1 	7 	1 	is 	VBZ
+Est 	6 	4 	1 	8 	1 	in 	IN
+Est 	6 	4 	1 	9 	1 	the 	DT
+Est 	6 	4 	1 	10 	1 	court 	NN
+Est 	6 	4 	1 	11 	0 	?
+Est 	6 	4 	2 	1 	1 	Now 	RB
+Est 	6 	4 	2 	2 	1 	Haman 	NN
+Est 	6 	4 	2 	3 	1 	was 	VBD
+Est 	6 	4 	2 	4 	1 	come 	VB
+Est 	6 	4 	2 	5 	1 	into 	IN
+Est 	6 	4 	2 	6 	1 	the 	DT
+Est 	6 	4 	2 	7 	1 	outward 	NN
+Est 	6 	4 	2 	8 	1 	court 	NN
+Est 	6 	4 	2 	9 	1 	of 	IN
+Est 	6 	4 	2 	10 	1 	the 	DT
+Est 	6 	4 	2 	11 	1 	king 	NN
+Est 	6 	4 	2 	12 	0 	's
+Est 	6 	4 	2 	13 	1 	house 	NN
+Est 	6 	4 	2 	14 	0 	,
+Est 	6 	4 	2 	15 	1 	to 	TO
+Est 	6 	4 	2 	16 	1 	speak 	NN
+Est 	6 	4 	2 	17 	1 	unto 	NN
+Est 	6 	4 	2 	18 	1 	the 	DT
+Est 	6 	4 	2 	19 	1 	king 	NN
+Est 	6 	4 	2 	20 	1 	to 	TO
+Est 	6 	4 	2 	21 	1 	hang 	NN
+Est 	6 	4 	2 	22 	1 	Mordecai 	NN
+Est 	6 	4 	2 	23 	1 	on 	IN
+Est 	6 	4 	2 	24 	1 	the 	DT
+Est 	6 	4 	2 	25 	1 	gallows 	NNS
+Est 	6 	4 	2 	26 	1 	that 	IN
+Est 	6 	4 	2 	27 	1 	he 	PRP
+Est 	6 	4 	2 	28 	1 	had 	VBD
+Est 	6 	4 	2 	29 	1 	prepared 	JJ
+Est 	6 	4 	2 	30 	1 	for 	IN
+Est 	6 	4 	2 	31 	1 	him 	PRP
+Est 	6 	4 	2 	32 	0 	.
+Est 	6 	5 	1 	1 	1 	And 	CC
+Est 	6 	5 	1 	2 	1 	the 	DT
+Est 	6 	5 	1 	3 	1 	king 	NN
+Est 	6 	5 	1 	4 	0 	's
+Est 	6 	5 	1 	5 	1 	servants 	NNS
+Est 	6 	5 	1 	6 	1 	said 	VBD
+Est 	6 	5 	1 	7 	1 	unto 	NN
+Est 	6 	5 	1 	8 	1 	him 	PRP
+Est 	6 	5 	1 	9 	0 	,
+Est 	6 	5 	1 	10 	1 	Behold 	NN
+Est 	6 	5 	1 	11 	0 	,
+Est 	6 	5 	1 	12 	1 	Haman 	NN
+Est 	6 	5 	1 	13 	1 	standeth 	NN
+Est 	6 	5 	1 	14 	1 	in 	IN
+Est 	6 	5 	1 	15 	1 	the 	DT
+Est 	6 	5 	1 	16 	1 	court 	NN
+Est 	6 	5 	1 	17 	0 	.
+Est 	6 	5 	2 	1 	1 	And 	CC
+Est 	6 	5 	2 	2 	1 	the 	DT
+Est 	6 	5 	2 	3 	1 	king 	NN
+Est 	6 	5 	2 	4 	1 	said 	VBD
+Est 	6 	5 	2 	5 	0 	,
+Est 	6 	5 	2 	6 	1 	Let 	VB
+Est 	6 	5 	2 	7 	1 	him 	PRP
+Est 	6 	5 	2 	8 	1 	come 	VB
+Est 	6 	5 	2 	9 	1 	in 	IN
+Est 	6 	5 	2 	10 	0 	.
+Est 	6 	6 	1 	1 	1 	So 	RB
+Est 	6 	6 	1 	2 	1 	Haman 	NN
+Est 	6 	6 	1 	3 	1 	came 	VBD
+Est 	6 	6 	1 	4 	1 	in 	IN
+Est 	6 	6 	1 	5 	0 	.
+Est 	6 	6 	2 	1 	1 	And 	CC
+Est 	6 	6 	2 	2 	1 	the 	DT
+Est 	6 	6 	2 	3 	1 	king 	NN
+Est 	6 	6 	2 	4 	1 	said 	VBD
+Est 	6 	6 	2 	5 	1 	unto 	NN
+Est 	6 	6 	2 	6 	1 	him 	PRP
+Est 	6 	6 	2 	7 	0 	,
+Est 	6 	6 	2 	8 	1 	What 	WP
+Est 	6 	6 	2 	9 	1 	shall 	MD
+Est 	6 	6 	2 	10 	1 	be 	VB
+Est 	6 	6 	2 	11 	1 	done 	VBN
+Est 	6 	6 	2 	12 	1 	unto 	NN
+Est 	6 	6 	2 	13 	1 	the 	DT
+Est 	6 	6 	2 	14 	1 	man 	NN
+Est 	6 	6 	2 	15 	1 	whom 	WP
+Est 	6 	6 	2 	16 	1 	the 	DT
+Est 	6 	6 	2 	17 	1 	king 	NN
+Est 	6 	6 	2 	18 	1 	delighteth 	NN
+Est 	6 	6 	2 	19 	1 	to 	TO
+Est 	6 	6 	2 	20 	1 	honour 	NN
+Est 	6 	6 	2 	21 	0 	?
+Est 	6 	6 	3 	1 	1 	Now 	RB
+Est 	6 	6 	3 	2 	1 	Haman 	NN
+Est 	6 	6 	3 	3 	1 	thought 	NN
+Est 	6 	6 	3 	4 	1 	in 	IN
+Est 	6 	6 	3 	5 	1 	his 	PRP$
+Est 	6 	6 	3 	6 	1 	heart 	NN
+Est 	6 	6 	3 	7 	0 	,
+Est 	6 	6 	3 	8 	1 	To 	TO
+Est 	6 	6 	3 	9 	1 	whom 	WP
+Est 	6 	6 	3 	10 	1 	would 	MD
+Est 	6 	6 	3 	11 	1 	the 	DT
+Est 	6 	6 	3 	12 	1 	king 	NN
+Est 	6 	6 	3 	13 	1 	delight 	NN
+Est 	6 	6 	3 	14 	1 	to 	TO
+Est 	6 	6 	3 	15 	1 	do 	VB
+Est 	6 	6 	3 	16 	1 	honour 	NN
+Est 	6 	6 	3 	17 	1 	more 	RBR
+Est 	6 	6 	3 	18 	1 	than 	IN
+Est 	6 	6 	3 	19 	1 	to 	TO
+Est 	6 	6 	3 	20 	1 	myself 	PRP
+Est 	6 	6 	3 	21 	0 	?
+Est 	6 	7 	1 	1 	1 	And 	CC
+Est 	6 	7 	1 	2 	1 	Haman 	NN
+Est 	6 	7 	1 	3 	1 	answered 	VBN
+Est 	6 	7 	1 	4 	1 	the 	DT
+Est 	6 	7 	1 	5 	1 	king 	NN
+Est 	6 	7 	1 	6 	0 	,
+Est 	6 	7 	1 	7 	1 	For 	IN
+Est 	6 	7 	1 	8 	1 	the 	DT
+Est 	6 	7 	1 	9 	1 	man 	NN
+Est 	6 	7 	1 	10 	1 	whom 	WP
+Est 	6 	7 	1 	11 	1 	the 	DT
+Est 	6 	7 	1 	12 	1 	king 	NN
+Est 	6 	7 	1 	13 	1 	delighteth 	NN
+Est 	6 	7 	1 	14 	1 	to 	TO
+Est 	6 	7 	1 	15 	1 	honour 	NN
+Est 	6 	7 	1 	16 	0 	,
+Est 	6 	8 	1 	1 	1 	Let 	VB
+Est 	6 	8 	1 	2 	1 	the 	DT
+Est 	6 	8 	1 	3 	1 	royal 	NN
+Est 	6 	8 	1 	4 	1 	apparel 	NN
+Est 	6 	8 	1 	5 	1 	be 	VB
+Est 	6 	8 	1 	6 	1 	brought 	NN
+Est 	6 	8 	1 	7 	1 	which 	WDT
+Est 	6 	8 	1 	8 	1 	the 	DT
+Est 	6 	8 	1 	9 	1 	king 	NN
+Est 	6 	8 	1 	10 	1 	useth 	NNS
+Est 	6 	8 	1 	11 	1 	to 	TO
+Est 	6 	8 	1 	12 	1 	wear 	NN
+Est 	6 	8 	1 	13 	0 	,
+Est 	6 	8 	1 	14 	1 	and 	CC
+Est 	6 	8 	1 	15 	1 	the 	DT
+Est 	6 	8 	1 	16 	1 	horse 	NN
+Est 	6 	8 	1 	17 	1 	that 	IN
+Est 	6 	8 	1 	18 	1 	the 	DT
+Est 	6 	8 	1 	19 	1 	king 	NN
+Est 	6 	8 	1 	20 	1 	rideth 	NN
+Est 	6 	8 	1 	21 	1 	upon 	IN
+Est 	6 	8 	1 	22 	0 	,
+Est 	6 	8 	1 	23 	1 	and 	CC
+Est 	6 	8 	1 	24 	1 	the 	DT
+Est 	6 	8 	1 	25 	1 	crown 	NN
+Est 	6 	8 	1 	26 	1 	royal 	NN
+Est 	6 	8 	1 	27 	1 	which 	WDT
+Est 	6 	8 	1 	28 	1 	is 	VBZ
+Est 	6 	8 	1 	29 	1 	set 	NN
+Est 	6 	8 	1 	30 	1 	upon 	IN
+Est 	6 	8 	1 	31 	1 	his 	PRP$
+Est 	6 	8 	1 	32 	1 	head 	NN
+Est 	6 	8 	1 	33 	0 	:
+Est 	6 	9 	1 	1 	1 	And 	CC
+Est 	6 	9 	1 	2 	1 	let 	VB
+Est 	6 	9 	1 	3 	1 	this 	DT
+Est 	6 	9 	1 	4 	1 	apparel 	NN
+Est 	6 	9 	1 	5 	1 	and 	CC
+Est 	6 	9 	1 	6 	1 	horse 	NN
+Est 	6 	9 	1 	7 	1 	be 	VB
+Est 	6 	9 	1 	8 	1 	delivered 	VBN
+Est 	6 	9 	1 	9 	1 	to 	TO
+Est 	6 	9 	1 	10 	1 	the 	DT
+Est 	6 	9 	1 	11 	1 	hand 	NN
+Est 	6 	9 	1 	12 	1 	of 	IN
+Est 	6 	9 	1 	13 	1 	one 	CD
+Est 	6 	9 	1 	14 	1 	of 	IN
+Est 	6 	9 	1 	15 	1 	the 	DT
+Est 	6 	9 	1 	16 	1 	king 	NN
+Est 	6 	9 	1 	17 	0 	's
+Est 	6 	9 	1 	18 	1 	most 	JJS
+Est 	6 	9 	1 	19 	1 	noble 	JJ
+Est 	6 	9 	1 	20 	1 	princes 	NNS
+Est 	6 	9 	1 	21 	0 	,
+Est 	6 	9 	1 	22 	1 	that 	IN
+Est 	6 	9 	1 	23 	1 	they 	PRP
+Est 	6 	9 	1 	24 	1 	may 	MD
+Est 	6 	9 	1 	25 	1 	array 	NN
+Est 	6 	9 	1 	26 	1 	the 	DT
+Est 	6 	9 	1 	27 	1 	man 	NN
+Est 	6 	9 	1 	28 	1 	withal 	NN
+Est 	6 	9 	1 	29 	1 	whom 	WP
+Est 	6 	9 	1 	30 	1 	the 	DT
+Est 	6 	9 	1 	31 	1 	king 	NN
+Est 	6 	9 	1 	32 	1 	delighteth 	NN
+Est 	6 	9 	1 	33 	1 	to 	TO
+Est 	6 	9 	1 	34 	1 	honour 	NN
+Est 	6 	9 	1 	35 	0 	,
+Est 	6 	9 	1 	36 	1 	and 	CC
+Est 	6 	9 	1 	37 	1 	bring 	NN
+Est 	6 	9 	1 	38 	1 	him 	PRP
+Est 	6 	9 	1 	39 	1 	on 	IN
+Est 	6 	9 	1 	40 	1 	horseback 	NN
+Est 	6 	9 	1 	41 	1 	through 	IN
+Est 	6 	9 	1 	42 	1 	the 	DT
+Est 	6 	9 	1 	43 	1 	street 	NN
+Est 	6 	9 	1 	44 	1 	of 	IN
+Est 	6 	9 	1 	45 	1 	the 	DT
+Est 	6 	9 	1 	46 	1 	city 	NN
+Est 	6 	9 	1 	47 	0 	,
+Est 	6 	9 	1 	48 	1 	and 	CC
+Est 	6 	9 	1 	49 	1 	proclaim 	NN
+Est 	6 	9 	1 	50 	1 	before 	IN
+Est 	6 	9 	1 	51 	1 	him 	PRP
+Est 	6 	9 	1 	52 	0 	,
+Est 	6 	9 	1 	53 	1 	Thus 	RB
+Est 	6 	9 	1 	54 	1 	shall 	MD
+Est 	6 	9 	1 	55 	1 	it 	PRP
+Est 	6 	9 	1 	56 	1 	be 	VB
+Est 	6 	9 	1 	57 	1 	done 	VBN
+Est 	6 	9 	1 	58 	1 	to 	TO
+Est 	6 	9 	1 	59 	1 	the 	DT
+Est 	6 	9 	1 	60 	1 	man 	NN
+Est 	6 	9 	1 	61 	1 	whom 	WP
+Est 	6 	9 	1 	62 	1 	the 	DT
+Est 	6 	9 	1 	63 	1 	king 	NN
+Est 	6 	9 	1 	64 	1 	delighteth 	NN
+Est 	6 	9 	1 	65 	1 	to 	TO
+Est 	6 	9 	1 	66 	1 	honour 	NN
+Est 	6 	9 	1 	67 	0 	.
+Est 	6 	10 	1 	1 	1 	Then 	RB
+Est 	6 	10 	1 	2 	1 	the 	DT
+Est 	6 	10 	1 	3 	1 	king 	NN
+Est 	6 	10 	1 	4 	1 	said 	VBD
+Est 	6 	10 	1 	5 	1 	to 	TO
+Est 	6 	10 	1 	6 	1 	Haman 	NN
+Est 	6 	10 	1 	7 	0 	,
+Est 	6 	10 	1 	8 	1 	Make 	VB
+Est 	6 	10 	1 	9 	1 	haste 	NN
+Est 	6 	10 	1 	10 	0 	,
+Est 	6 	10 	1 	11 	1 	and 	CC
+Est 	6 	10 	1 	12 	1 	take 	VB
+Est 	6 	10 	1 	13 	1 	the 	DT
+Est 	6 	10 	1 	14 	1 	apparel 	NN
+Est 	6 	10 	1 	15 	1 	and 	CC
+Est 	6 	10 	1 	16 	1 	the 	DT
+Est 	6 	10 	1 	17 	1 	horse 	NN
+Est 	6 	10 	1 	18 	0 	,
+Est 	6 	10 	1 	19 	1 	as 	IN
+Est 	6 	10 	1 	20 	1 	thou 	NN
+Est 	6 	10 	1 	21 	1 	hast 	NN
+Est 	6 	10 	1 	22 	1 	said 	VBD
+Est 	6 	10 	1 	23 	0 	,
+Est 	6 	10 	1 	24 	1 	and 	CC
+Est 	6 	10 	1 	25 	1 	do 	VB
+Est 	6 	10 	1 	26 	1 	even 	RB
+Est 	6 	10 	1 	27 	1 	so 	RB
+Est 	6 	10 	1 	28 	1 	to 	TO
+Est 	6 	10 	1 	29 	1 	Mordecai 	NN
+Est 	6 	10 	1 	30 	1 	the 	DT
+Est 	6 	10 	1 	31 	1 	Jew 	NN
+Est 	6 	10 	1 	32 	0 	,
+Est 	6 	10 	1 	33 	1 	that 	IN
+Est 	6 	10 	1 	34 	1 	sitteth 	NN
+Est 	6 	10 	1 	35 	1 	at 	IN
+Est 	6 	10 	1 	36 	1 	the 	DT
+Est 	6 	10 	1 	37 	1 	king 	NN
+Est 	6 	10 	1 	38 	0 	's
+Est 	6 	10 	1 	39 	1 	gate 	NN
+Est 	6 	10 	1 	40 	0 	:
+Est 	6 	10 	1 	41 	1 	let 	VB
+Est 	6 	10 	1 	42 	1 	nothing 	NN
+Est 	6 	10 	1 	43 	1 	fail 	NN
+Est 	6 	10 	1 	44 	1 	of 	IN
+Est 	6 	10 	1 	45 	1 	all 	DT
+Est 	6 	10 	1 	46 	1 	that 	IN
+Est 	6 	10 	1 	47 	1 	thou 	NN
+Est 	6 	10 	1 	48 	1 	hast 	NN
+Est 	6 	10 	1 	49 	1 	spoken 	NN
+Est 	6 	10 	1 	50 	0 	.
+Est 	6 	11 	1 	1 	1 	Then 	RB
+Est 	6 	11 	1 	2 	1 	took 	VBD
+Est 	6 	11 	1 	3 	1 	Haman 	NN
+Est 	6 	11 	1 	4 	1 	the 	DT
+Est 	6 	11 	1 	5 	1 	apparel 	NN
+Est 	6 	11 	1 	6 	1 	and 	CC
+Est 	6 	11 	1 	7 	1 	the 	DT
+Est 	6 	11 	1 	8 	1 	horse 	NN
+Est 	6 	11 	1 	9 	0 	,
+Est 	6 	11 	1 	10 	1 	and 	CC
+Est 	6 	11 	1 	11 	1 	arrayed 	NNS
+Est 	6 	11 	1 	12 	1 	Mordecai 	NN
+Est 	6 	11 	1 	13 	0 	,
+Est 	6 	11 	1 	14 	1 	and 	CC
+Est 	6 	11 	1 	15 	1 	brought 	NN
+Est 	6 	11 	1 	16 	1 	him 	PRP
+Est 	6 	11 	1 	17 	1 	on 	IN
+Est 	6 	11 	1 	18 	1 	horseback 	NN
+Est 	6 	11 	1 	19 	1 	through 	IN
+Est 	6 	11 	1 	20 	1 	the 	DT
+Est 	6 	11 	1 	21 	1 	street 	NN
+Est 	6 	11 	1 	22 	1 	of 	IN
+Est 	6 	11 	1 	23 	1 	the 	DT
+Est 	6 	11 	1 	24 	1 	city 	NN
+Est 	6 	11 	1 	25 	0 	,
+Est 	6 	11 	1 	26 	1 	and 	CC
+Est 	6 	11 	1 	27 	1 	proclaimed 	VBN
+Est 	6 	11 	1 	28 	1 	before 	IN
+Est 	6 	11 	1 	29 	1 	him 	PRP
+Est 	6 	11 	1 	30 	0 	,
+Est 	6 	11 	1 	31 	1 	Thus 	RB
+Est 	6 	11 	1 	32 	1 	shall 	MD
+Est 	6 	11 	1 	33 	1 	it 	PRP
+Est 	6 	11 	1 	34 	1 	be 	VB
+Est 	6 	11 	1 	35 	1 	done 	VBN
+Est 	6 	11 	1 	36 	1 	unto 	NN
+Est 	6 	11 	1 	37 	1 	the 	DT
+Est 	6 	11 	1 	38 	1 	man 	NN
+Est 	6 	11 	1 	39 	1 	whom 	WP
+Est 	6 	11 	1 	40 	1 	the 	DT
+Est 	6 	11 	1 	41 	1 	king 	NN
+Est 	6 	11 	1 	42 	1 	delighteth 	NN
+Est 	6 	11 	1 	43 	1 	to 	TO
+Est 	6 	11 	1 	44 	1 	honour 	NN
+Est 	6 	11 	1 	45 	0 	.
+Est 	6 	12 	1 	1 	1 	And 	CC
+Est 	6 	12 	1 	2 	1 	Mordecai 	NN
+Est 	6 	12 	1 	3 	1 	came 	VBD
+Est 	6 	12 	1 	4 	1 	again 	RB
+Est 	6 	12 	1 	5 	1 	to 	TO
+Est 	6 	12 	1 	6 	1 	the 	DT
+Est 	6 	12 	1 	7 	1 	king 	NN
+Est 	6 	12 	1 	8 	0 	's
+Est 	6 	12 	1 	9 	1 	gate 	NN
+Est 	6 	12 	1 	10 	0 	.
+Est 	6 	12 	2 	1 	1 	But 	CC
+Est 	6 	12 	2 	2 	1 	Haman 	NN
+Est 	6 	12 	2 	3 	1 	hasted 	VBN
+Est 	6 	12 	2 	4 	1 	to 	TO
+Est 	6 	12 	2 	5 	1 	his 	PRP$
+Est 	6 	12 	2 	6 	1 	house 	NN
+Est 	6 	12 	2 	7 	1 	mourning 	VBG
+Est 	6 	12 	2 	8 	0 	,
+Est 	6 	12 	2 	9 	1 	and 	CC
+Est 	6 	12 	2 	10 	1 	having 	VBG
+Est 	6 	12 	2 	11 	1 	his 	PRP$
+Est 	6 	12 	2 	12 	1 	head 	NN
+Est 	6 	12 	2 	13 	1 	covered 	VBN
+Est 	6 	12 	2 	14 	0 	.
+Est 	6 	13 	1 	1 	1 	And 	CC
+Est 	6 	13 	1 	2 	1 	Haman 	NN
+Est 	6 	13 	1 	3 	1 	told 	NN
+Est 	6 	13 	1 	4 	1 	Zeresh 	JJ
+Est 	6 	13 	1 	5 	1 	his 	PRP$
+Est 	6 	13 	1 	6 	1 	wife 	NN
+Est 	6 	13 	1 	7 	1 	and 	CC
+Est 	6 	13 	1 	8 	1 	all 	DT
+Est 	6 	13 	1 	9 	1 	his 	PRP$
+Est 	6 	13 	1 	10 	1 	friends 	NNS
+Est 	6 	13 	1 	11 	1 	every 	DT
+Est 	6 	13 	1 	12 	1 	thing 	NN
+Est 	6 	13 	1 	13 	1 	that 	IN
+Est 	6 	13 	1 	14 	1 	had 	VBD
+Est 	6 	13 	1 	15 	1 	befallen 	NN
+Est 	6 	13 	1 	16 	1 	him 	PRP
+Est 	6 	13 	1 	17 	0 	.
+Est 	6 	13 	2 	1 	1 	Then 	RB
+Est 	6 	13 	2 	2 	1 	said 	VBD
+Est 	6 	13 	2 	3 	1 	his 	PRP$
+Est 	6 	13 	2 	4 	1 	wise 	NN
+Est 	6 	13 	2 	5 	1 	men 	NNS
+Est 	6 	13 	2 	6 	1 	and 	CC
+Est 	6 	13 	2 	7 	1 	Zeresh 	JJ
+Est 	6 	13 	2 	8 	1 	his 	PRP$
+Est 	6 	13 	2 	9 	1 	wife 	NN
+Est 	6 	13 	2 	10 	1 	unto 	NN
+Est 	6 	13 	2 	11 	1 	him 	PRP
+Est 	6 	13 	2 	12 	0 	,
+Est 	6 	13 	2 	13 	1 	If 	IN
+Est 	6 	13 	2 	14 	1 	Mordecai 	NN
+Est 	6 	13 	2 	15 	1 	be 	VB
+Est 	6 	13 	2 	16 	1 	of 	IN
+Est 	6 	13 	2 	17 	1 	the 	DT
+Est 	6 	13 	2 	18 	1 	seed 	NN
+Est 	6 	13 	2 	19 	1 	of 	IN
+Est 	6 	13 	2 	20 	1 	the 	DT
+Est 	6 	13 	2 	21 	1 	Jews 	NNS
+Est 	6 	13 	2 	22 	0 	,
+Est 	6 	13 	2 	23 	1 	before 	IN
+Est 	6 	13 	2 	24 	1 	whom 	WP
+Est 	6 	13 	2 	25 	1 	thou 	NN
+Est 	6 	13 	2 	26 	1 	hast 	NN
+Est 	6 	13 	2 	27 	1 	begun 	VBN
+Est 	6 	13 	2 	28 	1 	to 	TO
+Est 	6 	13 	2 	29 	1 	fall 	NN
+Est 	6 	13 	2 	30 	0 	,
+Est 	6 	13 	2 	31 	1 	thou 	NN
+Est 	6 	13 	2 	32 	1 	shalt 	NN
+Est 	6 	13 	2 	33 	1 	not 	RB
+Est 	6 	13 	2 	34 	1 	prevail 	NN
+Est 	6 	13 	2 	35 	1 	against 	IN
+Est 	6 	13 	2 	36 	1 	him 	PRP
+Est 	6 	13 	2 	37 	0 	,
+Est 	6 	13 	2 	38 	1 	but 	CC
+Est 	6 	13 	2 	39 	1 	shalt 	NN
+Est 	6 	13 	2 	40 	1 	surely 	RB
+Est 	6 	13 	2 	41 	1 	fall 	NN
+Est 	6 	13 	2 	42 	1 	before 	IN
+Est 	6 	13 	2 	43 	1 	him 	PRP
+Est 	6 	13 	2 	44 	0 	.
+Est 	6 	14 	1 	1 	1 	And 	CC
+Est 	6 	14 	1 	2 	1 	while 	IN
+Est 	6 	14 	1 	3 	1 	they 	PRP
+Est 	6 	14 	1 	4 	1 	were 	VBD
+Est 	6 	14 	1 	5 	1 	yet 	RB
+Est 	6 	14 	1 	6 	1 	talking 	VBG
+Est 	6 	14 	1 	7 	1 	with 	IN
+Est 	6 	14 	1 	8 	1 	him 	PRP
+Est 	6 	14 	1 	9 	0 	,
+Est 	6 	14 	1 	10 	1 	came 	VBD
+Est 	6 	14 	1 	11 	1 	the 	DT
+Est 	6 	14 	1 	12 	1 	king 	NN
+Est 	6 	14 	1 	13 	0 	's
+Est 	6 	14 	1 	14 	1 	chamberlains 	NNS
+Est 	6 	14 	1 	15 	0 	,
+Est 	6 	14 	1 	16 	1 	and 	CC
+Est 	6 	14 	1 	17 	1 	hasted 	VBN
+Est 	6 	14 	1 	18 	1 	to 	TO
+Est 	6 	14 	1 	19 	1 	bring 	NN
+Est 	6 	14 	1 	20 	1 	Haman 	NN
+Est 	6 	14 	1 	21 	1 	unto 	NN
+Est 	6 	14 	1 	22 	1 	the 	DT
+Est 	6 	14 	1 	23 	1 	banquet 	NN
+Est 	6 	14 	1 	24 	1 	that 	IN
+Est 	6 	14 	1 	25 	1 	Esther 	NN
+Est 	6 	14 	1 	26 	1 	had 	VBD
+Est 	6 	14 	1 	27 	1 	prepared 	JJ
+Est 	6 	14 	1 	28 	0 	.
+Est 	7 	1 	1 	1 	1 	So 	RB
+Est 	7 	1 	1 	2 	1 	the 	DT
+Est 	7 	1 	1 	3 	1 	king 	NN
+Est 	7 	1 	1 	4 	1 	and 	CC
+Est 	7 	1 	1 	5 	1 	Haman 	NN
+Est 	7 	1 	1 	6 	1 	came 	VBD
+Est 	7 	1 	1 	7 	1 	to 	TO
+Est 	7 	1 	1 	8 	1 	banquet 	NN
+Est 	7 	1 	1 	9 	1 	with 	IN
+Est 	7 	1 	1 	10 	1 	Esther 	NN
+Est 	7 	1 	1 	11 	1 	the 	DT
+Est 	7 	1 	1 	12 	1 	queen 	NN
+Est 	7 	1 	1 	13 	0 	.
+Est 	7 	2 	1 	1 	1 	And 	CC
+Est 	7 	2 	1 	2 	1 	the 	DT
+Est 	7 	2 	1 	3 	1 	king 	NN
+Est 	7 	2 	1 	4 	1 	said 	VBD
+Est 	7 	2 	1 	5 	1 	again 	RB
+Est 	7 	2 	1 	6 	1 	unto 	NN
+Est 	7 	2 	1 	7 	1 	Esther 	NN
+Est 	7 	2 	1 	8 	1 	on 	IN
+Est 	7 	2 	1 	9 	1 	the 	DT
+Est 	7 	2 	1 	10 	1 	second 	JJ
+Est 	7 	2 	1 	11 	1 	day 	NN
+Est 	7 	2 	1 	12 	1 	at 	IN
+Est 	7 	2 	1 	13 	1 	the 	DT
+Est 	7 	2 	1 	14 	1 	banquet 	NN
+Est 	7 	2 	1 	15 	1 	of 	IN
+Est 	7 	2 	1 	16 	1 	wine 	NN
+Est 	7 	2 	1 	17 	0 	,
+Est 	7 	2 	1 	18 	1 	What 	WP
+Est 	7 	2 	1 	19 	1 	is 	VBZ
+Est 	7 	2 	1 	20 	1 	thy 	NN
+Est 	7 	2 	1 	21 	1 	petition 	NN
+Est 	7 	2 	1 	22 	0 	,
+Est 	7 	2 	1 	23 	1 	queen 	NN
+Est 	7 	2 	1 	24 	1 	Esther 	NN
+Est 	7 	2 	1 	25 	0 	?
+Est 	7 	2 	2 	1 	1 	and 	CC
+Est 	7 	2 	2 	2 	1 	it 	PRP
+Est 	7 	2 	2 	3 	1 	shall 	MD
+Est 	7 	2 	2 	4 	1 	be 	VB
+Est 	7 	2 	2 	5 	1 	granted 	VBN
+Est 	7 	2 	2 	6 	1 	thee 	NN
+Est 	7 	2 	2 	7 	0 	:
+Est 	7 	2 	2 	8 	1 	and 	CC
+Est 	7 	2 	2 	9 	1 	what 	WP
+Est 	7 	2 	2 	10 	1 	is 	VBZ
+Est 	7 	2 	2 	11 	1 	thy 	NN
+Est 	7 	2 	2 	12 	1 	request 	NN
+Est 	7 	2 	2 	13 	0 	?
+Est 	7 	2 	3 	1 	1 	and 	CC
+Est 	7 	2 	3 	2 	1 	it 	PRP
+Est 	7 	2 	3 	3 	1 	shall 	MD
+Est 	7 	2 	3 	4 	1 	be 	VB
+Est 	7 	2 	3 	5 	1 	performed 	VBN
+Est 	7 	2 	3 	6 	0 	,
+Est 	7 	2 	3 	7 	1 	even 	RB
+Est 	7 	2 	3 	8 	1 	to 	TO
+Est 	7 	2 	3 	9 	1 	the 	DT
+Est 	7 	2 	3 	10 	1 	half 	NN
+Est 	7 	2 	3 	11 	1 	of 	IN
+Est 	7 	2 	3 	12 	1 	the 	DT
+Est 	7 	2 	3 	13 	1 	kingdom 	NN
+Est 	7 	2 	3 	14 	0 	.
+Est 	7 	3 	1 	1 	1 	Then 	RB
+Est 	7 	3 	1 	2 	1 	Esther 	NN
+Est 	7 	3 	1 	3 	1 	the 	DT
+Est 	7 	3 	1 	4 	1 	queen 	NN
+Est 	7 	3 	1 	5 	1 	answered 	VBN
+Est 	7 	3 	1 	6 	1 	and 	CC
+Est 	7 	3 	1 	7 	1 	said 	VBD
+Est 	7 	3 	1 	8 	0 	,
+Est 	7 	3 	1 	9 	1 	If 	IN
+Est 	7 	3 	1 	10 	1 	I 	PRP
+Est 	7 	3 	1 	11 	1 	have 	VB
+Est 	7 	3 	1 	12 	1 	found 	NN
+Est 	7 	3 	1 	13 	1 	favour 	NN
+Est 	7 	3 	1 	14 	1 	in 	IN
+Est 	7 	3 	1 	15 	1 	thy 	NN
+Est 	7 	3 	1 	16 	1 	sight 	NN
+Est 	7 	3 	1 	17 	0 	,
+Est 	7 	3 	1 	18 	1 	O 	NN
+Est 	7 	3 	1 	19 	1 	king 	NN
+Est 	7 	3 	1 	20 	0 	,
+Est 	7 	3 	1 	21 	1 	and 	CC
+Est 	7 	3 	1 	22 	1 	if 	IN
+Est 	7 	3 	1 	23 	1 	it 	PRP
+Est 	7 	3 	1 	24 	1 	please 	NN
+Est 	7 	3 	1 	25 	1 	the 	DT
+Est 	7 	3 	1 	26 	1 	king 	NN
+Est 	7 	3 	1 	27 	0 	,
+Est 	7 	3 	1 	28 	1 	let 	VB
+Est 	7 	3 	1 	29 	1 	my 	PRP$
+Est 	7 	3 	1 	30 	1 	life 	NN
+Est 	7 	3 	1 	31 	1 	be 	VB
+Est 	7 	3 	1 	32 	1 	given 	VBN
+Est 	7 	3 	1 	33 	1 	me 	PRP
+Est 	7 	3 	1 	34 	1 	at 	IN
+Est 	7 	3 	1 	35 	1 	my 	PRP$
+Est 	7 	3 	1 	36 	1 	petition 	NN
+Est 	7 	3 	1 	37 	0 	,
+Est 	7 	3 	1 	38 	1 	and 	CC
+Est 	7 	3 	1 	39 	1 	my 	PRP$
+Est 	7 	3 	1 	40 	1 	people 	NNS
+Est 	7 	3 	1 	41 	1 	at 	IN
+Est 	7 	3 	1 	42 	1 	my 	PRP$
+Est 	7 	3 	1 	43 	1 	request 	NN
+Est 	7 	3 	1 	44 	0 	:
+Est 	7 	4 	1 	1 	1 	For 	IN
+Est 	7 	4 	1 	2 	1 	we 	PRP
+Est 	7 	4 	1 	3 	1 	are 	VBP
+Est 	7 	4 	1 	4 	1 	sold 	VBN
+Est 	7 	4 	1 	5 	0 	,
+Est 	7 	4 	1 	6 	1 	I 	PRP
+Est 	7 	4 	1 	7 	1 	and 	CC
+Est 	7 	4 	1 	8 	1 	my 	PRP$
+Est 	7 	4 	1 	9 	1 	people 	NNS
+Est 	7 	4 	1 	10 	0 	,
+Est 	7 	4 	1 	11 	1 	to 	TO
+Est 	7 	4 	1 	12 	1 	be 	VB
+Est 	7 	4 	1 	13 	1 	destroyed 	NN
+Est 	7 	4 	1 	14 	0 	,
+Est 	7 	4 	1 	15 	1 	to 	TO
+Est 	7 	4 	1 	16 	1 	be 	VB
+Est 	7 	4 	1 	17 	1 	slain 	NN
+Est 	7 	4 	1 	18 	0 	,
+Est 	7 	4 	1 	19 	1 	and 	CC
+Est 	7 	4 	1 	20 	1 	to 	TO
+Est 	7 	4 	1 	21 	1 	perish 	NN
+Est 	7 	4 	1 	22 	0 	.
+Est 	7 	4 	2 	1 	1 	But 	CC
+Est 	7 	4 	2 	2 	1 	if 	IN
+Est 	7 	4 	2 	3 	1 	we 	PRP
+Est 	7 	4 	2 	4 	1 	had 	VBD
+Est 	7 	4 	2 	5 	1 	been 	VBN
+Est 	7 	4 	2 	6 	1 	sold 	VBN
+Est 	7 	4 	2 	7 	1 	for 	IN
+Est 	7 	4 	2 	8 	1 	bondmen 	NNS
+Est 	7 	4 	2 	9 	1 	and 	CC
+Est 	7 	4 	2 	10 	1 	bondwomen 	NNS
+Est 	7 	4 	2 	11 	0 	,
+Est 	7 	4 	2 	12 	1 	I 	PRP
+Est 	7 	4 	2 	13 	1 	had 	VBD
+Est 	7 	4 	2 	14 	1 	held 	NN
+Est 	7 	4 	2 	15 	1 	my 	PRP$
+Est 	7 	4 	2 	16 	1 	tongue 	NN
+Est 	7 	4 	2 	17 	0 	,
+Est 	7 	4 	2 	18 	1 	although 	IN
+Est 	7 	4 	2 	19 	1 	the 	DT
+Est 	7 	4 	2 	20 	1 	enemy 	NN
+Est 	7 	4 	2 	21 	1 	could 	MD
+Est 	7 	4 	2 	22 	1 	not 	RB
+Est 	7 	4 	2 	23 	1 	countervail 	NN
+Est 	7 	4 	2 	24 	1 	the 	DT
+Est 	7 	4 	2 	25 	1 	king 	NN
+Est 	7 	4 	2 	26 	0 	's
+Est 	7 	4 	2 	27 	1 	damage 	NN
+Est 	7 	4 	2 	28 	0 	.
+Est 	7 	5 	1 	1 	1 	Then 	RB
+Est 	7 	5 	1 	2 	1 	the 	DT
+Est 	7 	5 	1 	3 	1 	king 	NN
+Est 	7 	5 	1 	4 	1 	Ahasuerus 	NN
+Est 	7 	5 	1 	5 	1 	answered 	VBN
+Est 	7 	5 	1 	6 	1 	and 	CC
+Est 	7 	5 	1 	7 	1 	said 	VBD
+Est 	7 	5 	1 	8 	1 	unto 	NN
+Est 	7 	5 	1 	9 	1 	Esther 	NN
+Est 	7 	5 	1 	10 	1 	the 	DT
+Est 	7 	5 	1 	11 	1 	queen 	NN
+Est 	7 	5 	1 	12 	0 	,
+Est 	7 	5 	1 	13 	1 	Who 	WP
+Est 	7 	5 	1 	14 	1 	is 	VBZ
+Est 	7 	5 	1 	15 	1 	he 	PRP
+Est 	7 	5 	1 	16 	0 	,
+Est 	7 	5 	1 	17 	1 	and 	CC
+Est 	7 	5 	1 	18 	1 	where 	WRB
+Est 	7 	5 	1 	19 	1 	is 	VBZ
+Est 	7 	5 	1 	20 	1 	he 	PRP
+Est 	7 	5 	1 	21 	0 	,
+Est 	7 	5 	1 	22 	1 	that 	IN
+Est 	7 	5 	1 	23 	1 	durst 	NN
+Est 	7 	5 	1 	24 	1 	presume 	NN
+Est 	7 	5 	1 	25 	1 	in 	IN
+Est 	7 	5 	1 	26 	1 	his 	PRP$
+Est 	7 	5 	1 	27 	1 	heart 	NN
+Est 	7 	5 	1 	28 	1 	to 	TO
+Est 	7 	5 	1 	29 	1 	do 	VB
+Est 	7 	5 	1 	30 	1 	so 	RB
+Est 	7 	5 	1 	31 	0 	?
+Est 	7 	6 	1 	1 	1 	And 	CC
+Est 	7 	6 	1 	2 	1 	Esther 	NN
+Est 	7 	6 	1 	3 	1 	said 	VBD
+Est 	7 	6 	1 	4 	0 	,
+Est 	7 	6 	1 	5 	1 	The 	DT
+Est 	7 	6 	1 	6 	1 	adversary 	NN
+Est 	7 	6 	1 	7 	1 	and 	CC
+Est 	7 	6 	1 	8 	1 	enemy 	NN
+Est 	7 	6 	1 	9 	1 	is 	VBZ
+Est 	7 	6 	1 	10 	1 	this 	DT
+Est 	7 	6 	1 	11 	1 	wicked 	VBD
+Est 	7 	6 	1 	12 	1 	Haman 	NN
+Est 	7 	6 	1 	13 	0 	.
+Est 	7 	6 	2 	1 	1 	Then 	RB
+Est 	7 	6 	2 	2 	1 	Haman 	NN
+Est 	7 	6 	2 	3 	1 	was 	VBD
+Est 	7 	6 	2 	4 	1 	afraid 	NN
+Est 	7 	6 	2 	5 	1 	before 	IN
+Est 	7 	6 	2 	6 	1 	the 	DT
+Est 	7 	6 	2 	7 	1 	king 	NN
+Est 	7 	6 	2 	8 	1 	and 	CC
+Est 	7 	6 	2 	9 	1 	the 	DT
+Est 	7 	6 	2 	10 	1 	queen 	NN
+Est 	7 	6 	2 	11 	0 	.
+Est 	7 	7 	1 	1 	1 	And 	CC
+Est 	7 	7 	1 	2 	1 	the 	DT
+Est 	7 	7 	1 	3 	1 	king 	NN
+Est 	7 	7 	1 	4 	1 	arising 	VBG
+Est 	7 	7 	1 	5 	1 	from 	IN
+Est 	7 	7 	1 	6 	1 	the 	DT
+Est 	7 	7 	1 	7 	1 	banquet 	NN
+Est 	7 	7 	1 	8 	1 	of 	IN
+Est 	7 	7 	1 	9 	1 	wine 	NN
+Est 	7 	7 	1 	10 	1 	in 	IN
+Est 	7 	7 	1 	11 	1 	his 	PRP$
+Est 	7 	7 	1 	12 	1 	wrath 	NN
+Est 	7 	7 	1 	13 	1 	went 	VBD
+Est 	7 	7 	1 	14 	1 	into 	IN
+Est 	7 	7 	1 	15 	1 	the 	DT
+Est 	7 	7 	1 	16 	1 	palace 	NN
+Est 	7 	7 	1 	17 	1 	garden 	NN
+Est 	7 	7 	1 	18 	0 	:
+Est 	7 	7 	1 	19 	1 	and 	CC
+Est 	7 	7 	1 	20 	1 	Haman 	NN
+Est 	7 	7 	1 	21 	1 	stood 	NN
+Est 	7 	7 	1 	22 	1 	up 	RB
+Est 	7 	7 	1 	23 	1 	to 	TO
+Est 	7 	7 	1 	24 	1 	make 	VB
+Est 	7 	7 	1 	25 	1 	request 	NN
+Est 	7 	7 	1 	26 	1 	for 	IN
+Est 	7 	7 	1 	27 	1 	his 	PRP$
+Est 	7 	7 	1 	28 	1 	life 	NN
+Est 	7 	7 	1 	29 	1 	to 	TO
+Est 	7 	7 	1 	30 	1 	Esther 	NN
+Est 	7 	7 	1 	31 	1 	the 	DT
+Est 	7 	7 	1 	32 	1 	queen 	NN
+Est 	7 	7 	1 	33 	0 	;
+Est 	7 	7 	1 	34 	1 	for 	IN
+Est 	7 	7 	1 	35 	1 	he 	PRP
+Est 	7 	7 	1 	36 	1 	saw 	NN
+Est 	7 	7 	1 	37 	1 	that 	IN
+Est 	7 	7 	1 	38 	1 	there 	RB
+Est 	7 	7 	1 	39 	1 	was 	VBD
+Est 	7 	7 	1 	40 	1 	evil 	NN
+Est 	7 	7 	1 	41 	1 	determined 	VBN
+Est 	7 	7 	1 	42 	1 	against 	IN
+Est 	7 	7 	1 	43 	1 	him 	PRP
+Est 	7 	7 	1 	44 	1 	by 	IN
+Est 	7 	7 	1 	45 	1 	the 	DT
+Est 	7 	7 	1 	46 	1 	king 	NN
+Est 	7 	7 	1 	47 	0 	.
+Est 	7 	8 	1 	1 	1 	Then 	RB
+Est 	7 	8 	1 	2 	1 	the 	DT
+Est 	7 	8 	1 	3 	1 	king 	NN
+Est 	7 	8 	1 	4 	1 	returned 	VBN
+Est 	7 	8 	1 	5 	1 	out 	IN
+Est 	7 	8 	1 	6 	1 	of 	IN
+Est 	7 	8 	1 	7 	1 	the 	DT
+Est 	7 	8 	1 	8 	1 	palace 	NN
+Est 	7 	8 	1 	9 	1 	garden 	NN
+Est 	7 	8 	1 	10 	1 	into 	IN
+Est 	7 	8 	1 	11 	1 	the 	DT
+Est 	7 	8 	1 	12 	1 	place 	NN
+Est 	7 	8 	1 	13 	1 	of 	IN
+Est 	7 	8 	1 	14 	1 	the 	DT
+Est 	7 	8 	1 	15 	1 	banquet 	NN
+Est 	7 	8 	1 	16 	1 	of 	IN
+Est 	7 	8 	1 	17 	1 	wine 	NN
+Est 	7 	8 	1 	18 	0 	;
+Est 	7 	8 	1 	19 	1 	and 	CC
+Est 	7 	8 	1 	20 	1 	Haman 	NN
+Est 	7 	8 	1 	21 	1 	was 	VBD
+Est 	7 	8 	1 	22 	1 	fallen 	VBN
+Est 	7 	8 	1 	23 	1 	upon 	IN
+Est 	7 	8 	1 	24 	1 	the 	DT
+Est 	7 	8 	1 	25 	1 	bed 	NN
+Est 	7 	8 	1 	26 	1 	whereon 	NN
+Est 	7 	8 	1 	27 	1 	Esther 	NN
+Est 	7 	8 	1 	28 	1 	was 	VBD
+Est 	7 	8 	1 	29 	0 	.
+Est 	7 	8 	2 	1 	1 	Then 	RB
+Est 	7 	8 	2 	2 	1 	said 	VBD
+Est 	7 	8 	2 	3 	1 	the 	DT
+Est 	7 	8 	2 	4 	1 	king 	NN
+Est 	7 	8 	2 	5 	0 	,
+Est 	7 	8 	2 	6 	1 	Will 	MD
+Est 	7 	8 	2 	7 	1 	he 	PRP
+Est 	7 	8 	2 	8 	1 	force 	NN
+Est 	7 	8 	2 	9 	1 	the 	DT
+Est 	7 	8 	2 	10 	1 	queen 	NN
+Est 	7 	8 	2 	11 	1 	also 	RB
+Est 	7 	8 	2 	12 	1 	before 	IN
+Est 	7 	8 	2 	13 	1 	me 	PRP
+Est 	7 	8 	2 	14 	1 	in 	IN
+Est 	7 	8 	2 	15 	1 	the 	DT
+Est 	7 	8 	2 	16 	1 	house 	NN
+Est 	7 	8 	2 	17 	0 	?
+Est 	7 	8 	3 	1 	1 	As 	IN
+Est 	7 	8 	3 	2 	1 	the 	DT
+Est 	7 	8 	3 	3 	1 	word 	NN
+Est 	7 	8 	3 	4 	1 	went 	VBD
+Est 	7 	8 	3 	5 	1 	out 	IN
+Est 	7 	8 	3 	6 	1 	of 	IN
+Est 	7 	8 	3 	7 	1 	king 	NN
+Est 	7 	8 	3 	8 	0 	's
+Est 	7 	8 	3 	9 	1 	mouth 	NN
+Est 	7 	8 	3 	10 	0 	,
+Est 	7 	8 	3 	11 	1 	they 	PRP
+Est 	7 	8 	3 	12 	1 	covered 	VBN
+Est 	7 	8 	3 	13 	1 	Haman 	NN
+Est 	7 	8 	3 	14 	0 	's
+Est 	7 	8 	3 	15 	1 	face 	NN
+Est 	7 	8 	3 	16 	0 	.
+Est 	7 	9 	1 	1 	1 	And 	CC
+Est 	7 	9 	1 	2 	1 	Harbonah 	NN
+Est 	7 	9 	1 	3 	0 	,
+Est 	7 	9 	1 	4 	1 	one 	CD
+Est 	7 	9 	1 	5 	1 	of 	IN
+Est 	7 	9 	1 	6 	1 	the 	DT
+Est 	7 	9 	1 	7 	1 	chamberlains 	NNS
+Est 	7 	9 	1 	8 	0 	,
+Est 	7 	9 	1 	9 	1 	said 	VBD
+Est 	7 	9 	1 	10 	1 	before 	IN
+Est 	7 	9 	1 	11 	1 	the 	DT
+Est 	7 	9 	1 	12 	1 	king 	NN
+Est 	7 	9 	1 	13 	0 	,
+Est 	7 	9 	1 	14 	1 	Behold 	NN
+Est 	7 	9 	1 	15 	1 	also 	RB
+Est 	7 	9 	1 	16 	0 	,
+Est 	7 	9 	1 	17 	1 	the 	DT
+Est 	7 	9 	1 	18 	1 	gallows 	NNS
+Est 	7 	9 	1 	19 	1 	fifty 	NN
+Est 	7 	9 	1 	20 	1 	cubits 	NNS
+Est 	7 	9 	1 	21 	1 	high 	JJ
+Est 	7 	9 	1 	22 	0 	,
+Est 	7 	9 	1 	23 	1 	which 	WDT
+Est 	7 	9 	1 	24 	1 	Haman 	NN
+Est 	7 	9 	1 	25 	1 	had 	VBD
+Est 	7 	9 	1 	26 	1 	made 	VBN
+Est 	7 	9 	1 	27 	1 	for 	IN
+Est 	7 	9 	1 	28 	1 	Mordecai 	NN
+Est 	7 	9 	1 	29 	0 	,
+Est 	7 	9 	1 	30 	1 	who 	WP
+Est 	7 	9 	1 	31 	1 	spoken 	NN
+Est 	7 	9 	1 	32 	1 	good 	JJ
+Est 	7 	9 	1 	33 	1 	for 	IN
+Est 	7 	9 	1 	34 	1 	the 	DT
+Est 	7 	9 	1 	35 	1 	king 	NN
+Est 	7 	9 	1 	36 	0 	,
+Est 	7 	9 	1 	37 	1 	standeth 	NN
+Est 	7 	9 	1 	38 	1 	in 	IN
+Est 	7 	9 	1 	39 	1 	the 	DT
+Est 	7 	9 	1 	40 	1 	house 	NN
+Est 	7 	9 	1 	41 	1 	of 	IN
+Est 	7 	9 	1 	42 	1 	Haman 	NN
+Est 	7 	9 	1 	43 	0 	.
+Est 	7 	9 	2 	1 	1 	Then 	RB
+Est 	7 	9 	2 	2 	1 	the 	DT
+Est 	7 	9 	2 	3 	1 	king 	NN
+Est 	7 	9 	2 	4 	1 	said 	VBD
+Est 	7 	9 	2 	5 	0 	,
+Est 	7 	9 	2 	6 	1 	Hang 	NNP
+Est 	7 	9 	2 	7 	1 	him 	PRP
+Est 	7 	9 	2 	8 	1 	thereon 	NN
+Est 	7 	9 	2 	9 	0 	.
+Est 	7 	10 	1 	1 	1 	So 	RB
+Est 	7 	10 	1 	2 	1 	they 	PRP
+Est 	7 	10 	1 	3 	1 	hanged 	VBN
+Est 	7 	10 	1 	4 	1 	Haman 	NN
+Est 	7 	10 	1 	5 	1 	on 	IN
+Est 	7 	10 	1 	6 	1 	the 	DT
+Est 	7 	10 	1 	7 	1 	gallows 	NNS
+Est 	7 	10 	1 	8 	1 	that 	IN
+Est 	7 	10 	1 	9 	1 	he 	PRP
+Est 	7 	10 	1 	10 	1 	had 	VBD
+Est 	7 	10 	1 	11 	1 	prepared 	JJ
+Est 	7 	10 	1 	12 	1 	for 	IN
+Est 	7 	10 	1 	13 	1 	Mordecai 	NN
+Est 	7 	10 	1 	14 	0 	.
+Est 	7 	10 	2 	1 	1 	Then 	RB
+Est 	7 	10 	2 	2 	1 	was 	VBD
+Est 	7 	10 	2 	3 	1 	the 	DT
+Est 	7 	10 	2 	4 	1 	king 	NN
+Est 	7 	10 	2 	5 	0 	's
+Est 	7 	10 	2 	6 	1 	wrath 	NN
+Est 	7 	10 	2 	7 	1 	pacified 	VBN
+Est 	7 	10 	2 	8 	0 	.
+Est 	8 	1 	1 	1 	1 	On 	IN
+Est 	8 	1 	1 	2 	1 	that 	IN
+Est 	8 	1 	1 	3 	1 	day 	NN
+Est 	8 	1 	1 	4 	1 	did 	VBD
+Est 	8 	1 	1 	5 	1 	the 	DT
+Est 	8 	1 	1 	6 	1 	king 	NN
+Est 	8 	1 	1 	7 	1 	Ahasuerus 	NN
+Est 	8 	1 	1 	8 	1 	give 	VB
+Est 	8 	1 	1 	9 	1 	the 	DT
+Est 	8 	1 	1 	10 	1 	house 	NN
+Est 	8 	1 	1 	11 	1 	of 	IN
+Est 	8 	1 	1 	12 	1 	Haman 	NN
+Est 	8 	1 	1 	13 	1 	the 	DT
+Est 	8 	1 	1 	14 	1 	Jews 	NNS
+Est 	8 	1 	1 	15 	0 	'
+Est 	8 	1 	1 	16 	1 	enemy 	NN
+Est 	8 	1 	1 	17 	1 	unto 	NN
+Est 	8 	1 	1 	18 	1 	Esther 	NN
+Est 	8 	1 	1 	19 	1 	the 	DT
+Est 	8 	1 	1 	20 	1 	queen 	NN
+Est 	8 	1 	1 	21 	0 	.
+Est 	8 	1 	2 	1 	1 	And 	CC
+Est 	8 	1 	2 	2 	1 	Mordecai 	NN
+Est 	8 	1 	2 	3 	1 	came 	VBD
+Est 	8 	1 	2 	4 	1 	before 	IN
+Est 	8 	1 	2 	5 	1 	the 	DT
+Est 	8 	1 	2 	6 	1 	king 	NN
+Est 	8 	1 	2 	7 	0 	;
+Est 	8 	1 	2 	8 	1 	for 	IN
+Est 	8 	1 	2 	9 	1 	Esther 	NN
+Est 	8 	1 	2 	10 	1 	had 	VBD
+Est 	8 	1 	2 	11 	1 	told 	NN
+Est 	8 	1 	2 	12 	1 	what 	WP
+Est 	8 	1 	2 	13 	1 	he 	PRP
+Est 	8 	1 	2 	14 	1 	was 	VBD
+Est 	8 	1 	2 	15 	1 	unto 	NN
+Est 	8 	1 	2 	16 	1 	her 	PRP$
+Est 	8 	1 	2 	17 	0 	.
+Est 	8 	2 	1 	1 	1 	And 	CC
+Est 	8 	2 	1 	2 	1 	the 	DT
+Est 	8 	2 	1 	3 	1 	king 	NN
+Est 	8 	2 	1 	4 	1 	took 	VBD
+Est 	8 	2 	1 	5 	1 	off 	IN
+Est 	8 	2 	1 	6 	1 	his 	PRP$
+Est 	8 	2 	1 	7 	1 	ring 	NN
+Est 	8 	2 	1 	8 	0 	,
+Est 	8 	2 	1 	9 	1 	which 	WDT
+Est 	8 	2 	1 	10 	1 	he 	PRP
+Est 	8 	2 	1 	11 	1 	had 	VBD
+Est 	8 	2 	1 	12 	1 	taken 	VBN
+Est 	8 	2 	1 	13 	1 	from 	IN
+Est 	8 	2 	1 	14 	1 	Haman 	NN
+Est 	8 	2 	1 	15 	0 	,
+Est 	8 	2 	1 	16 	1 	and 	CC
+Est 	8 	2 	1 	17 	1 	gave 	VBD
+Est 	8 	2 	1 	18 	1 	it 	PRP
+Est 	8 	2 	1 	19 	1 	unto 	NN
+Est 	8 	2 	1 	20 	1 	Mordecai 	NN
+Est 	8 	2 	1 	21 	0 	.
+Est 	8 	2 	2 	1 	1 	And 	CC
+Est 	8 	2 	2 	2 	1 	Esther 	NN
+Est 	8 	2 	2 	3 	1 	set 	NN
+Est 	8 	2 	2 	4 	1 	Mordecai 	NN
+Est 	8 	2 	2 	5 	1 	over 	IN
+Est 	8 	2 	2 	6 	1 	the 	DT
+Est 	8 	2 	2 	7 	1 	house 	NN
+Est 	8 	2 	2 	8 	1 	of 	IN
+Est 	8 	2 	2 	9 	1 	Haman 	NN
+Est 	8 	2 	2 	10 	0 	.
+Est 	8 	3 	1 	1 	1 	And 	CC
+Est 	8 	3 	1 	2 	1 	Esther 	NN
+Est 	8 	3 	1 	3 	1 	spake 	NN
+Est 	8 	3 	1 	4 	1 	yet 	RB
+Est 	8 	3 	1 	5 	1 	again 	RB
+Est 	8 	3 	1 	6 	1 	before 	IN
+Est 	8 	3 	1 	7 	1 	the 	DT
+Est 	8 	3 	1 	8 	1 	king 	NN
+Est 	8 	3 	1 	9 	0 	,
+Est 	8 	3 	1 	10 	1 	and 	CC
+Est 	8 	3 	1 	11 	1 	fell 	VBD
+Est 	8 	3 	1 	12 	1 	down 	RB
+Est 	8 	3 	1 	13 	1 	at 	IN
+Est 	8 	3 	1 	14 	1 	his 	PRP$
+Est 	8 	3 	1 	15 	1 	feet 	NNS
+Est 	8 	3 	1 	16 	0 	,
+Est 	8 	3 	1 	17 	1 	and 	CC
+Est 	8 	3 	1 	18 	1 	besought 	NN
+Est 	8 	3 	1 	19 	1 	him 	PRP
+Est 	8 	3 	1 	20 	1 	with 	IN
+Est 	8 	3 	1 	21 	1 	tears 	NNS
+Est 	8 	3 	1 	22 	1 	to 	TO
+Est 	8 	3 	1 	23 	1 	put 	NN
+Est 	8 	3 	1 	24 	1 	away 	RB
+Est 	8 	3 	1 	25 	1 	the 	DT
+Est 	8 	3 	1 	26 	1 	mischief 	NN
+Est 	8 	3 	1 	27 	1 	of 	IN
+Est 	8 	3 	1 	28 	1 	Haman 	NN
+Est 	8 	3 	1 	29 	1 	the 	DT
+Est 	8 	3 	1 	30 	1 	Agagite 	NNP
+Est 	8 	3 	1 	31 	0 	,
+Est 	8 	3 	1 	32 	1 	and 	CC
+Est 	8 	3 	1 	33 	1 	his 	PRP$
+Est 	8 	3 	1 	34 	1 	device 	NN
+Est 	8 	3 	1 	35 	1 	that 	IN
+Est 	8 	3 	1 	36 	1 	he 	PRP
+Est 	8 	3 	1 	37 	1 	had 	VBD
+Est 	8 	3 	1 	38 	1 	devised 	VBN
+Est 	8 	3 	1 	39 	1 	against 	IN
+Est 	8 	3 	1 	40 	1 	the 	DT
+Est 	8 	3 	1 	41 	1 	Jews 	NNS
+Est 	8 	3 	1 	42 	0 	.
+Est 	8 	4 	1 	1 	1 	Then 	RB
+Est 	8 	4 	1 	2 	1 	the 	DT
+Est 	8 	4 	1 	3 	1 	king 	NN
+Est 	8 	4 	1 	4 	1 	held 	NN
+Est 	8 	4 	1 	5 	1 	out 	IN
+Est 	8 	4 	1 	6 	1 	the 	DT
+Est 	8 	4 	1 	7 	1 	golden 	JJ
+Est 	8 	4 	1 	8 	1 	sceptre 	NN
+Est 	8 	4 	1 	9 	1 	toward 	IN
+Est 	8 	4 	1 	10 	1 	Esther 	NN
+Est 	8 	4 	1 	11 	0 	.
+Est 	8 	4 	2 	1 	1 	So 	RB
+Est 	8 	4 	2 	2 	1 	Esther 	NN
+Est 	8 	4 	2 	3 	1 	arose 	NN
+Est 	8 	4 	2 	4 	0 	,
+Est 	8 	4 	2 	5 	1 	and 	CC
+Est 	8 	4 	2 	6 	1 	stood 	NN
+Est 	8 	4 	2 	7 	1 	before 	IN
+Est 	8 	4 	2 	8 	1 	the 	DT
+Est 	8 	4 	2 	9 	1 	king 	NN
+Est 	8 	4 	2 	10 	0 	,
+Est 	8 	5 	1 	1 	1 	And 	CC
+Est 	8 	5 	1 	2 	1 	said 	VBD
+Est 	8 	5 	1 	3 	0 	,
+Est 	8 	5 	1 	4 	1 	If 	IN
+Est 	8 	5 	1 	5 	1 	it 	PRP
+Est 	8 	5 	1 	6 	1 	please 	NN
+Est 	8 	5 	1 	7 	1 	the 	DT
+Est 	8 	5 	1 	8 	1 	king 	NN
+Est 	8 	5 	1 	9 	0 	,
+Est 	8 	5 	1 	10 	1 	and 	CC
+Est 	8 	5 	1 	11 	1 	if 	IN
+Est 	8 	5 	1 	12 	1 	I 	PRP
+Est 	8 	5 	1 	13 	1 	have 	VB
+Est 	8 	5 	1 	14 	1 	favour 	NN
+Est 	8 	5 	1 	15 	1 	in 	IN
+Est 	8 	5 	1 	16 	1 	his 	PRP$
+Est 	8 	5 	1 	17 	1 	sight 	NN
+Est 	8 	5 	1 	18 	0 	,
+Est 	8 	5 	1 	19 	1 	and 	CC
+Est 	8 	5 	1 	20 	1 	the 	DT
+Est 	8 	5 	1 	21 	1 	thing 	NN
+Est 	8 	5 	1 	22 	1 	seem 	NN
+Est 	8 	5 	1 	23 	1 	right 	NN
+Est 	8 	5 	1 	24 	1 	before 	IN
+Est 	8 	5 	1 	25 	1 	the 	DT
+Est 	8 	5 	1 	26 	1 	king 	NN
+Est 	8 	5 	1 	27 	0 	,
+Est 	8 	5 	1 	28 	1 	and 	CC
+Est 	8 	5 	1 	29 	1 	I 	PRP
+Est 	8 	5 	1 	30 	1 	be 	VB
+Est 	8 	5 	1 	31 	1 	pleasing 	VBG
+Est 	8 	5 	1 	32 	1 	in 	IN
+Est 	8 	5 	1 	33 	1 	his 	PRP$
+Est 	8 	5 	1 	34 	1 	eyes 	NNS
+Est 	8 	5 	1 	35 	0 	,
+Est 	8 	5 	1 	36 	1 	let 	VB
+Est 	8 	5 	1 	37 	1 	it 	PRP
+Est 	8 	5 	1 	38 	1 	be 	VB
+Est 	8 	5 	1 	39 	1 	written 	VBN
+Est 	8 	5 	1 	40 	1 	to 	TO
+Est 	8 	5 	1 	41 	1 	reverse 	NN
+Est 	8 	5 	1 	42 	1 	the 	DT
+Est 	8 	5 	1 	43 	1 	letters 	NNS
+Est 	8 	5 	1 	44 	1 	devised 	VBN
+Est 	8 	5 	1 	45 	1 	by 	IN
+Est 	8 	5 	1 	46 	1 	Haman 	NN
+Est 	8 	5 	1 	47 	1 	the 	DT
+Est 	8 	5 	1 	48 	1 	son 	NN
+Est 	8 	5 	1 	49 	1 	of 	IN
+Est 	8 	5 	1 	50 	1 	Hammedatha 	NN
+Est 	8 	5 	1 	51 	1 	the 	DT
+Est 	8 	5 	1 	52 	1 	Agagite 	NNP
+Est 	8 	5 	1 	53 	0 	,
+Est 	8 	5 	1 	54 	1 	which 	WDT
+Est 	8 	5 	1 	55 	1 	he 	PRP
+Est 	8 	5 	1 	56 	1 	wrote 	VBD
+Est 	8 	5 	1 	57 	1 	to 	TO
+Est 	8 	5 	1 	58 	1 	destroy 	NN
+Est 	8 	5 	1 	59 	1 	the 	DT
+Est 	8 	5 	1 	60 	1 	Jews 	NNS
+Est 	8 	5 	1 	61 	1 	which 	WDT
+Est 	8 	5 	1 	62 	1 	are 	VBP
+Est 	8 	5 	1 	63 	1 	in 	IN
+Est 	8 	5 	1 	64 	1 	all 	DT
+Est 	8 	5 	1 	65 	1 	the 	DT
+Est 	8 	5 	1 	66 	1 	king 	NN
+Est 	8 	5 	1 	67 	0 	's
+Est 	8 	5 	1 	68 	1 	provinces 	NNS
+Est 	8 	5 	1 	69 	0 	:
+Est 	8 	6 	1 	1 	1 	For 	IN
+Est 	8 	6 	1 	2 	1 	how 	WRB
+Est 	8 	6 	1 	3 	1 	can 	MD
+Est 	8 	6 	1 	4 	1 	I 	PRP
+Est 	8 	6 	1 	5 	1 	endure 	NN
+Est 	8 	6 	1 	6 	1 	to 	TO
+Est 	8 	6 	1 	7 	1 	see 	VB
+Est 	8 	6 	1 	8 	1 	the 	DT
+Est 	8 	6 	1 	9 	1 	evil 	NN
+Est 	8 	6 	1 	10 	1 	that 	IN
+Est 	8 	6 	1 	11 	1 	shall 	MD
+Est 	8 	6 	1 	12 	1 	come 	VB
+Est 	8 	6 	1 	13 	1 	unto 	NN
+Est 	8 	6 	1 	14 	1 	my 	PRP$
+Est 	8 	6 	1 	15 	1 	people 	NNS
+Est 	8 	6 	1 	16 	0 	?
+Est 	8 	6 	2 	1 	1 	or 	CC
+Est 	8 	6 	2 	2 	1 	how 	WRB
+Est 	8 	6 	2 	3 	1 	can 	MD
+Est 	8 	6 	2 	4 	1 	I 	PRP
+Est 	8 	6 	2 	5 	1 	endure 	NN
+Est 	8 	6 	2 	6 	1 	to 	TO
+Est 	8 	6 	2 	7 	1 	see 	VB
+Est 	8 	6 	2 	8 	1 	the 	DT
+Est 	8 	6 	2 	9 	1 	destruction 	NN
+Est 	8 	6 	2 	10 	1 	of 	IN
+Est 	8 	6 	2 	11 	1 	my 	PRP$
+Est 	8 	6 	2 	12 	1 	kindred 	VBN
+Est 	8 	6 	2 	13 	0 	?
+Est 	8 	7 	1 	1 	1 	Then 	RB
+Est 	8 	7 	1 	2 	1 	the 	DT
+Est 	8 	7 	1 	3 	1 	king 	NN
+Est 	8 	7 	1 	4 	1 	Ahasuerus 	NN
+Est 	8 	7 	1 	5 	1 	said 	VBD
+Est 	8 	7 	1 	6 	1 	unto 	NN
+Est 	8 	7 	1 	7 	1 	Esther 	NN
+Est 	8 	7 	1 	8 	1 	the 	DT
+Est 	8 	7 	1 	9 	1 	queen 	NN
+Est 	8 	7 	1 	10 	1 	and 	CC
+Est 	8 	7 	1 	11 	1 	to 	TO
+Est 	8 	7 	1 	12 	1 	Mordecai 	NN
+Est 	8 	7 	1 	13 	1 	the 	DT
+Est 	8 	7 	1 	14 	1 	Jew 	NN
+Est 	8 	7 	1 	15 	0 	,
+Est 	8 	7 	1 	16 	1 	Behold 	NN
+Est 	8 	7 	1 	17 	0 	,
+Est 	8 	7 	1 	18 	1 	I 	PRP
+Est 	8 	7 	1 	19 	1 	have 	VB
+Est 	8 	7 	1 	20 	1 	given 	VBN
+Est 	8 	7 	1 	21 	1 	Esther 	NN
+Est 	8 	7 	1 	22 	1 	the 	DT
+Est 	8 	7 	1 	23 	1 	house 	NN
+Est 	8 	7 	1 	24 	1 	of 	IN
+Est 	8 	7 	1 	25 	1 	Haman 	NN
+Est 	8 	7 	1 	26 	0 	,
+Est 	8 	7 	1 	27 	1 	and 	CC
+Est 	8 	7 	1 	28 	1 	him 	PRP
+Est 	8 	7 	1 	29 	1 	they 	PRP
+Est 	8 	7 	1 	30 	1 	have 	VB
+Est 	8 	7 	1 	31 	1 	hanged 	VBN
+Est 	8 	7 	1 	32 	1 	upon 	IN
+Est 	8 	7 	1 	33 	1 	the 	DT
+Est 	8 	7 	1 	34 	1 	gallows 	NNS
+Est 	8 	7 	1 	35 	0 	,
+Est 	8 	7 	1 	36 	1 	because 	IN
+Est 	8 	7 	1 	37 	1 	he 	PRP
+Est 	8 	7 	1 	38 	1 	laid 	NN
+Est 	8 	7 	1 	39 	1 	his 	PRP$
+Est 	8 	7 	1 	40 	1 	hand 	NN
+Est 	8 	7 	1 	41 	1 	upon 	IN
+Est 	8 	7 	1 	42 	1 	the 	DT
+Est 	8 	7 	1 	43 	1 	Jews 	NNS
+Est 	8 	7 	1 	44 	0 	.
+Est 	8 	8 	1 	1 	1 	Write 	VB
+Est 	8 	8 	1 	2 	1 	ye 	NN
+Est 	8 	8 	1 	3 	1 	also 	RB
+Est 	8 	8 	1 	4 	1 	for 	IN
+Est 	8 	8 	1 	5 	1 	the 	DT
+Est 	8 	8 	1 	6 	1 	Jews 	NNS
+Est 	8 	8 	1 	7 	0 	,
+Est 	8 	8 	1 	8 	1 	as 	IN
+Est 	8 	8 	1 	9 	1 	it 	PRP
+Est 	8 	8 	1 	10 	1 	liketh 	NN
+Est 	8 	8 	1 	11 	1 	you 	PRP
+Est 	8 	8 	1 	12 	0 	,
+Est 	8 	8 	1 	13 	1 	in 	IN
+Est 	8 	8 	1 	14 	1 	the 	DT
+Est 	8 	8 	1 	15 	1 	king 	NN
+Est 	8 	8 	1 	16 	0 	's
+Est 	8 	8 	1 	17 	1 	name 	NN
+Est 	8 	8 	1 	18 	0 	,
+Est 	8 	8 	1 	19 	1 	and 	CC
+Est 	8 	8 	1 	20 	1 	seal 	NN
+Est 	8 	8 	1 	21 	1 	it 	PRP
+Est 	8 	8 	1 	22 	1 	with 	IN
+Est 	8 	8 	1 	23 	1 	the 	DT
+Est 	8 	8 	1 	24 	1 	king 	NN
+Est 	8 	8 	1 	25 	0 	's
+Est 	8 	8 	1 	26 	1 	ring 	NN
+Est 	8 	8 	1 	27 	0 	:
+Est 	8 	8 	1 	28 	1 	for 	IN
+Est 	8 	8 	1 	29 	1 	the 	DT
+Est 	8 	8 	1 	30 	1 	writing 	VBG
+Est 	8 	8 	1 	31 	1 	which 	WDT
+Est 	8 	8 	1 	32 	1 	is 	VBZ
+Est 	8 	8 	1 	33 	1 	written 	VBN
+Est 	8 	8 	1 	34 	1 	in 	IN
+Est 	8 	8 	1 	35 	1 	the 	DT
+Est 	8 	8 	1 	36 	1 	king 	NN
+Est 	8 	8 	1 	37 	0 	's
+Est 	8 	8 	1 	38 	1 	name 	NN
+Est 	8 	8 	1 	39 	0 	,
+Est 	8 	8 	1 	40 	1 	and 	CC
+Est 	8 	8 	1 	41 	1 	sealed 	VBN
+Est 	8 	8 	1 	42 	1 	with 	IN
+Est 	8 	8 	1 	43 	1 	the 	DT
+Est 	8 	8 	1 	44 	1 	king 	NN
+Est 	8 	8 	1 	45 	0 	's
+Est 	8 	8 	1 	46 	1 	ring 	NN
+Est 	8 	8 	1 	47 	0 	,
+Est 	8 	8 	1 	48 	1 	may 	MD
+Est 	8 	8 	1 	49 	1 	no 	DT
+Est 	8 	8 	1 	50 	1 	man 	NN
+Est 	8 	8 	1 	51 	1 	reverse 	NN
+Est 	8 	8 	1 	52 	0 	.
+Est 	8 	9 	1 	1 	1 	Then 	RB
+Est 	8 	9 	1 	2 	1 	were 	VBD
+Est 	8 	9 	1 	3 	1 	the 	DT
+Est 	8 	9 	1 	4 	1 	king 	NN
+Est 	8 	9 	1 	5 	0 	's
+Est 	8 	9 	1 	6 	1 	scribes 	NNS
+Est 	8 	9 	1 	7 	1 	called 	VBN
+Est 	8 	9 	1 	8 	1 	at 	IN
+Est 	8 	9 	1 	9 	1 	that 	IN
+Est 	8 	9 	1 	10 	1 	time 	NN
+Est 	8 	9 	1 	11 	1 	in 	IN
+Est 	8 	9 	1 	12 	1 	the 	DT
+Est 	8 	9 	1 	13 	1 	third 	JJ
+Est 	8 	9 	1 	14 	1 	month 	NN
+Est 	8 	9 	1 	15 	0 	,
+Est 	8 	9 	1 	16 	1 	that 	IN
+Est 	8 	9 	1 	17 	1 	is 	VBZ
+Est 	8 	9 	1 	18 	0 	,
+Est 	8 	9 	1 	19 	1 	the 	DT
+Est 	8 	9 	1 	20 	1 	month 	NN
+Est 	8 	9 	1 	21 	1 	Sivan 	NN
+Est 	8 	9 	1 	22 	0 	,
+Est 	8 	9 	1 	23 	1 	on 	IN
+Est 	8 	9 	1 	24 	1 	the 	DT
+Est 	8 	9 	1 	25 	1 	three 	CD
+Est 	8 	9 	1 	26 	1 	and 	CC
+Est 	8 	9 	1 	27 	1 	twentieth 	NNS
+Est 	8 	9 	1 	28 	1 	day 	NN
+Est 	8 	9 	1 	29 	1 	thereof 	NN
+Est 	8 	9 	1 	30 	0 	;
+Est 	8 	9 	1 	31 	1 	and 	CC
+Est 	8 	9 	1 	32 	1 	it 	PRP
+Est 	8 	9 	1 	33 	1 	was 	VBD
+Est 	8 	9 	1 	34 	1 	written 	VBN
+Est 	8 	9 	1 	35 	1 	according 	VBG
+Est 	8 	9 	1 	36 	1 	to 	TO
+Est 	8 	9 	1 	37 	1 	all 	DT
+Est 	8 	9 	1 	38 	1 	that 	IN
+Est 	8 	9 	1 	39 	1 	Mordecai 	NN
+Est 	8 	9 	1 	40 	1 	commanded 	VBN
+Est 	8 	9 	1 	41 	1 	unto 	NN
+Est 	8 	9 	1 	42 	1 	the 	DT
+Est 	8 	9 	1 	43 	1 	Jews 	NNS
+Est 	8 	9 	1 	44 	0 	,
+Est 	8 	9 	1 	45 	1 	and 	CC
+Est 	8 	9 	1 	46 	1 	to 	TO
+Est 	8 	9 	1 	47 	1 	the 	DT
+Est 	8 	9 	1 	48 	1 	lieutenants 	NNS
+Est 	8 	9 	1 	49 	0 	,
+Est 	8 	9 	1 	50 	1 	and 	CC
+Est 	8 	9 	1 	51 	1 	the 	DT
+Est 	8 	9 	1 	52 	1 	deputies 	NNS
+Est 	8 	9 	1 	53 	1 	and 	CC
+Est 	8 	9 	1 	54 	1 	rulers 	NNS
+Est 	8 	9 	1 	55 	1 	of 	IN
+Est 	8 	9 	1 	56 	1 	the 	DT
+Est 	8 	9 	1 	57 	1 	provinces 	NNS
+Est 	8 	9 	1 	58 	1 	which 	WDT
+Est 	8 	9 	1 	59 	1 	are 	VBP
+Est 	8 	9 	1 	60 	1 	from 	IN
+Est 	8 	9 	1 	61 	1 	India 	NNP
+Est 	8 	9 	1 	62 	1 	unto 	NN
+Est 	8 	9 	1 	63 	1 	Ethiopia 	NN
+Est 	8 	9 	1 	64 	0 	,
+Est 	8 	9 	1 	65 	1 	an 	DT
+Est 	8 	9 	1 	66 	1 	hundred 	VBN
+Est 	8 	9 	1 	67 	1 	twenty 	NN
+Est 	8 	9 	1 	68 	1 	and 	CC
+Est 	8 	9 	1 	69 	1 	seven 	CD
+Est 	8 	9 	1 	70 	1 	provinces 	NNS
+Est 	8 	9 	1 	71 	0 	,
+Est 	8 	9 	1 	72 	1 	unto 	NN
+Est 	8 	9 	1 	73 	1 	every 	DT
+Est 	8 	9 	1 	74 	1 	province 	NN
+Est 	8 	9 	1 	75 	1 	according 	VBG
+Est 	8 	9 	1 	76 	1 	to 	TO
+Est 	8 	9 	1 	77 	1 	the 	DT
+Est 	8 	9 	1 	78 	1 	writing 	VBG
+Est 	8 	9 	1 	79 	1 	thereof 	NN
+Est 	8 	9 	1 	80 	0 	,
+Est 	8 	9 	1 	81 	1 	and 	CC
+Est 	8 	9 	1 	82 	1 	unto 	NN
+Est 	8 	9 	1 	83 	1 	every 	DT
+Est 	8 	9 	1 	84 	1 	people 	NNS
+Est 	8 	9 	1 	85 	1 	after 	IN
+Est 	8 	9 	1 	86 	1 	their 	PRP$
+Est 	8 	9 	1 	87 	1 	language 	NN
+Est 	8 	9 	1 	88 	0 	,
+Est 	8 	9 	1 	89 	1 	and 	CC
+Est 	8 	9 	1 	90 	1 	to 	TO
+Est 	8 	9 	1 	91 	1 	the 	DT
+Est 	8 	9 	1 	92 	1 	Jews 	NNS
+Est 	8 	9 	1 	93 	1 	according 	VBG
+Est 	8 	9 	1 	94 	1 	to 	TO
+Est 	8 	9 	1 	95 	1 	their 	PRP$
+Est 	8 	9 	1 	96 	1 	writing 	VBG
+Est 	8 	9 	1 	97 	0 	,
+Est 	8 	9 	1 	98 	1 	and 	CC
+Est 	8 	9 	1 	99 	1 	according 	VBG
+Est 	8 	9 	1 	100 	1 	to 	TO
+Est 	8 	9 	1 	101 	1 	their 	PRP$
+Est 	8 	9 	1 	102 	1 	language 	NN
+Est 	8 	9 	1 	103 	0 	.
+Est 	8 	10 	1 	1 	1 	And 	CC
+Est 	8 	10 	1 	2 	1 	he 	PRP
+Est 	8 	10 	1 	3 	1 	wrote 	VBD
+Est 	8 	10 	1 	4 	1 	in 	IN
+Est 	8 	10 	1 	5 	1 	the 	DT
+Est 	8 	10 	1 	6 	1 	king 	NN
+Est 	8 	10 	1 	7 	1 	Ahasuerus 	NN
+Est 	8 	10 	1 	8 	0 	'
+Est 	8 	10 	1 	9 	1 	name 	NN
+Est 	8 	10 	1 	10 	0 	,
+Est 	8 	10 	1 	11 	1 	and 	CC
+Est 	8 	10 	1 	12 	1 	sealed 	VBN
+Est 	8 	10 	1 	13 	1 	it 	PRP
+Est 	8 	10 	1 	14 	1 	with 	IN
+Est 	8 	10 	1 	15 	1 	the 	DT
+Est 	8 	10 	1 	16 	1 	king 	NN
+Est 	8 	10 	1 	17 	0 	's
+Est 	8 	10 	1 	18 	1 	ring 	NN
+Est 	8 	10 	1 	19 	0 	,
+Est 	8 	10 	1 	20 	1 	and 	CC
+Est 	8 	10 	1 	21 	1 	sent 	NN
+Est 	8 	10 	1 	22 	1 	letters 	NNS
+Est 	8 	10 	1 	23 	1 	by 	IN
+Est 	8 	10 	1 	24 	1 	posts 	NNS
+Est 	8 	10 	1 	25 	1 	on 	IN
+Est 	8 	10 	1 	26 	1 	horseback 	NN
+Est 	8 	10 	1 	27 	0 	,
+Est 	8 	10 	1 	28 	1 	and 	CC
+Est 	8 	10 	1 	29 	1 	riders 	NNS
+Est 	8 	10 	1 	30 	1 	on 	IN
+Est 	8 	10 	1 	31 	1 	mules 	NNS
+Est 	8 	10 	1 	32 	0 	,
+Est 	8 	10 	1 	33 	1 	camels 	NNS
+Est 	8 	10 	1 	34 	0 	,
+Est 	8 	10 	1 	35 	1 	and 	CC
+Est 	8 	10 	1 	36 	1 	young 	JJ
+Est 	8 	10 	1 	37 	1 	dromedaries 	NNS
+Est 	8 	10 	1 	38 	0 	:
+Est 	8 	11 	1 	1 	1 	Wherein 	NNP
+Est 	8 	11 	1 	2 	1 	the 	DT
+Est 	8 	11 	1 	3 	1 	king 	NN
+Est 	8 	11 	1 	4 	1 	granted 	VBN
+Est 	8 	11 	1 	5 	1 	the 	DT
+Est 	8 	11 	1 	6 	1 	Jews 	NNS
+Est 	8 	11 	1 	7 	1 	which 	WDT
+Est 	8 	11 	1 	8 	1 	were 	VBD
+Est 	8 	11 	1 	9 	1 	in 	IN
+Est 	8 	11 	1 	10 	1 	every 	DT
+Est 	8 	11 	1 	11 	1 	city 	NN
+Est 	8 	11 	1 	12 	1 	to 	TO
+Est 	8 	11 	1 	13 	1 	gather 	NN
+Est 	8 	11 	1 	14 	1 	themselves 	PRP
+Est 	8 	11 	1 	15 	1 	together 	RB
+Est 	8 	11 	1 	16 	0 	,
+Est 	8 	11 	1 	17 	1 	and 	CC
+Est 	8 	11 	1 	18 	1 	to 	TO
+Est 	8 	11 	1 	19 	1 	stand 	NN
+Est 	8 	11 	1 	20 	1 	for 	IN
+Est 	8 	11 	1 	21 	1 	their 	PRP$
+Est 	8 	11 	1 	22 	1 	life 	NN
+Est 	8 	11 	1 	23 	0 	,
+Est 	8 	11 	1 	24 	1 	to 	TO
+Est 	8 	11 	1 	25 	1 	destroy 	NN
+Est 	8 	11 	1 	26 	0 	,
+Est 	8 	11 	1 	27 	1 	to 	TO
+Est 	8 	11 	1 	28 	1 	slay 	NN
+Est 	8 	11 	1 	29 	1 	and 	CC
+Est 	8 	11 	1 	30 	1 	to 	TO
+Est 	8 	11 	1 	31 	1 	cause 	NN
+Est 	8 	11 	1 	32 	1 	to 	TO
+Est 	8 	11 	1 	33 	1 	perish 	NN
+Est 	8 	11 	1 	34 	0 	,
+Est 	8 	11 	1 	35 	1 	all 	DT
+Est 	8 	11 	1 	36 	1 	the 	DT
+Est 	8 	11 	1 	37 	1 	power 	NN
+Est 	8 	11 	1 	38 	1 	of 	IN
+Est 	8 	11 	1 	39 	1 	the 	DT
+Est 	8 	11 	1 	40 	1 	people 	NNS
+Est 	8 	11 	1 	41 	1 	and 	CC
+Est 	8 	11 	1 	42 	1 	province 	NN
+Est 	8 	11 	1 	43 	1 	that 	IN
+Est 	8 	11 	1 	44 	1 	would 	MD
+Est 	8 	11 	1 	45 	1 	assault 	NN
+Est 	8 	11 	1 	46 	1 	them 	PRP
+Est 	8 	11 	1 	47 	0 	,
+Est 	8 	11 	1 	48 	1 	both 	DT
+Est 	8 	11 	1 	49 	1 	little 	JJ
+Est 	8 	11 	1 	50 	1 	ones 	NNS
+Est 	8 	11 	1 	51 	1 	and 	CC
+Est 	8 	11 	1 	52 	1 	women 	NNS
+Est 	8 	11 	1 	53 	0 	,
+Est 	8 	11 	1 	54 	1 	and 	CC
+Est 	8 	11 	1 	55 	1 	to 	TO
+Est 	8 	11 	1 	56 	1 	take 	VB
+Est 	8 	11 	1 	57 	1 	the 	DT
+Est 	8 	11 	1 	58 	1 	spoil 	NN
+Est 	8 	11 	1 	59 	1 	of 	IN
+Est 	8 	11 	1 	60 	1 	them 	PRP
+Est 	8 	11 	1 	61 	1 	for 	IN
+Est 	8 	11 	1 	62 	1 	a 	DT
+Est 	8 	11 	1 	63 	1 	prey 	NN
+Est 	8 	11 	1 	64 	0 	,
+Est 	8 	12 	1 	1 	1 	Upon 	IN
+Est 	8 	12 	1 	2 	1 	one 	CD
+Est 	8 	12 	1 	3 	1 	day 	NN
+Est 	8 	12 	1 	4 	1 	in 	IN
+Est 	8 	12 	1 	5 	1 	all 	DT
+Est 	8 	12 	1 	6 	1 	the 	DT
+Est 	8 	12 	1 	7 	1 	provinces 	NNS
+Est 	8 	12 	1 	8 	1 	of 	IN
+Est 	8 	12 	1 	9 	1 	king 	NN
+Est 	8 	12 	1 	10 	1 	Ahasuerus 	NN
+Est 	8 	12 	1 	11 	0 	,
+Est 	8 	12 	1 	12 	1 	namely 	RB
+Est 	8 	12 	1 	13 	0 	,
+Est 	8 	12 	1 	14 	1 	upon 	IN
+Est 	8 	12 	1 	15 	1 	the 	DT
+Est 	8 	12 	1 	16 	1 	thirteenth 	NN
+Est 	8 	12 	1 	17 	1 	day 	NN
+Est 	8 	12 	1 	18 	1 	of 	IN
+Est 	8 	12 	1 	19 	1 	the 	DT
+Est 	8 	12 	1 	20 	1 	twelfth 	NN
+Est 	8 	12 	1 	21 	1 	month 	NN
+Est 	8 	12 	1 	22 	0 	,
+Est 	8 	12 	1 	23 	1 	which 	WDT
+Est 	8 	12 	1 	24 	1 	is 	VBZ
+Est 	8 	12 	1 	25 	1 	the 	DT
+Est 	8 	12 	1 	26 	1 	month 	NN
+Est 	8 	12 	1 	27 	1 	Adar 	NN
+Est 	8 	12 	1 	28 	0 	.
+Est 	8 	13 	1 	1 	1 	The 	DT
+Est 	8 	13 	1 	2 	1 	copy 	NN
+Est 	8 	13 	1 	3 	1 	of 	IN
+Est 	8 	13 	1 	4 	1 	the 	DT
+Est 	8 	13 	1 	5 	1 	writing 	VBG
+Est 	8 	13 	1 	6 	1 	for 	IN
+Est 	8 	13 	1 	7 	1 	a 	DT
+Est 	8 	13 	1 	8 	1 	commandment 	NN
+Est 	8 	13 	1 	9 	1 	to 	TO
+Est 	8 	13 	1 	10 	1 	be 	VB
+Est 	8 	13 	1 	11 	1 	given 	VBN
+Est 	8 	13 	1 	12 	1 	in 	IN
+Est 	8 	13 	1 	13 	1 	every 	DT
+Est 	8 	13 	1 	14 	1 	province 	NN
+Est 	8 	13 	1 	15 	1 	was 	VBD
+Est 	8 	13 	1 	16 	1 	published 	VBN
+Est 	8 	13 	1 	17 	1 	unto 	NN
+Est 	8 	13 	1 	18 	1 	all 	DT
+Est 	8 	13 	1 	19 	1 	people 	NNS
+Est 	8 	13 	1 	20 	0 	,
+Est 	8 	13 	1 	21 	1 	and 	CC
+Est 	8 	13 	1 	22 	1 	that 	IN
+Est 	8 	13 	1 	23 	1 	the 	DT
+Est 	8 	13 	1 	24 	1 	Jews 	NNS
+Est 	8 	13 	1 	25 	1 	should 	MD
+Est 	8 	13 	1 	26 	1 	be 	VB
+Est 	8 	13 	1 	27 	1 	ready 	JJ
+Est 	8 	13 	1 	28 	1 	against 	IN
+Est 	8 	13 	1 	29 	1 	that 	IN
+Est 	8 	13 	1 	30 	1 	day 	NN
+Est 	8 	13 	1 	31 	1 	to 	TO
+Est 	8 	13 	1 	32 	1 	avenge 	NN
+Est 	8 	13 	1 	33 	1 	themselves 	PRP
+Est 	8 	13 	1 	34 	1 	on 	IN
+Est 	8 	13 	1 	35 	1 	their 	PRP$
+Est 	8 	13 	1 	36 	1 	enemies 	NNS
+Est 	8 	13 	1 	37 	0 	.
+Est 	8 	14 	1 	1 	1 	So 	RB
+Est 	8 	14 	1 	2 	1 	the 	DT
+Est 	8 	14 	1 	3 	1 	posts 	NNS
+Est 	8 	14 	1 	4 	1 	that 	IN
+Est 	8 	14 	1 	5 	1 	rode 	NN
+Est 	8 	14 	1 	6 	1 	upon 	IN
+Est 	8 	14 	1 	7 	1 	mules 	NNS
+Est 	8 	14 	1 	8 	1 	and 	CC
+Est 	8 	14 	1 	9 	1 	camels 	NNS
+Est 	8 	14 	1 	10 	1 	went 	VBD
+Est 	8 	14 	1 	11 	1 	out 	IN
+Est 	8 	14 	1 	12 	0 	,
+Est 	8 	14 	1 	13 	1 	being 	VBG
+Est 	8 	14 	1 	14 	1 	hastened 	VBN
+Est 	8 	14 	1 	15 	1 	and 	CC
+Est 	8 	14 	1 	16 	1 	pressed 	VBN
+Est 	8 	14 	1 	17 	1 	on 	IN
+Est 	8 	14 	1 	18 	1 	by 	IN
+Est 	8 	14 	1 	19 	1 	the 	DT
+Est 	8 	14 	1 	20 	1 	king 	NN
+Est 	8 	14 	1 	21 	0 	's
+Est 	8 	14 	1 	22 	1 	commandment 	NN
+Est 	8 	14 	1 	23 	0 	.
+Est 	8 	14 	2 	1 	1 	And 	CC
+Est 	8 	14 	2 	2 	1 	the 	DT
+Est 	8 	14 	2 	3 	1 	decree 	NN
+Est 	8 	14 	2 	4 	1 	was 	VBD
+Est 	8 	14 	2 	5 	1 	given 	VBN
+Est 	8 	14 	2 	6 	1 	at 	IN
+Est 	8 	14 	2 	7 	1 	Shushan 	NN
+Est 	8 	14 	2 	8 	1 	the 	DT
+Est 	8 	14 	2 	9 	1 	palace 	NN
+Est 	8 	14 	2 	10 	0 	.
+Est 	8 	15 	1 	1 	1 	And 	CC
+Est 	8 	15 	1 	2 	1 	Mordecai 	NN
+Est 	8 	15 	1 	3 	1 	went 	VBD
+Est 	8 	15 	1 	4 	1 	out 	IN
+Est 	8 	15 	1 	5 	1 	from 	IN
+Est 	8 	15 	1 	6 	1 	the 	DT
+Est 	8 	15 	1 	7 	1 	presence 	NN
+Est 	8 	15 	1 	8 	1 	of 	IN
+Est 	8 	15 	1 	9 	1 	the 	DT
+Est 	8 	15 	1 	10 	1 	king 	NN
+Est 	8 	15 	1 	11 	1 	in 	IN
+Est 	8 	15 	1 	12 	1 	royal 	NN
+Est 	8 	15 	1 	13 	1 	apparel 	NN
+Est 	8 	15 	1 	14 	1 	of 	IN
+Est 	8 	15 	1 	15 	1 	blue 	NN
+Est 	8 	15 	1 	16 	1 	and 	CC
+Est 	8 	15 	1 	17 	1 	white 	JJ
+Est 	8 	15 	1 	18 	0 	,
+Est 	8 	15 	1 	19 	1 	and 	CC
+Est 	8 	15 	1 	20 	1 	with 	IN
+Est 	8 	15 	1 	21 	1 	a 	DT
+Est 	8 	15 	1 	22 	1 	great 	JJ
+Est 	8 	15 	1 	23 	1 	crown 	NN
+Est 	8 	15 	1 	24 	1 	of 	IN
+Est 	8 	15 	1 	25 	1 	gold 	NN
+Est 	8 	15 	1 	26 	0 	,
+Est 	8 	15 	1 	27 	1 	and 	CC
+Est 	8 	15 	1 	28 	1 	with 	IN
+Est 	8 	15 	1 	29 	1 	a 	DT
+Est 	8 	15 	1 	30 	1 	garment 	NN
+Est 	8 	15 	1 	31 	1 	of 	IN
+Est 	8 	15 	1 	32 	1 	fine 	NN
+Est 	8 	15 	1 	33 	1 	linen 	NN
+Est 	8 	15 	1 	34 	1 	and 	CC
+Est 	8 	15 	1 	35 	1 	purple 	NN
+Est 	8 	15 	1 	36 	0 	:
+Est 	8 	15 	1 	37 	1 	and 	CC
+Est 	8 	15 	1 	38 	1 	the 	DT
+Est 	8 	15 	1 	39 	1 	city 	NN
+Est 	8 	15 	1 	40 	1 	of 	IN
+Est 	8 	15 	1 	41 	1 	Shushan 	NN
+Est 	8 	15 	1 	42 	1 	rejoiced 	VBN
+Est 	8 	15 	1 	43 	1 	and 	CC
+Est 	8 	15 	1 	44 	1 	was 	VBD
+Est 	8 	15 	1 	45 	1 	glad 	NN
+Est 	8 	15 	1 	46 	0 	.
+Est 	8 	16 	1 	1 	1 	The 	DT
+Est 	8 	16 	1 	2 	1 	Jews 	NNS
+Est 	8 	16 	1 	3 	1 	had 	VBD
+Est 	8 	16 	1 	4 	1 	light 	NN
+Est 	8 	16 	1 	5 	0 	,
+Est 	8 	16 	1 	6 	1 	and 	CC
+Est 	8 	16 	1 	7 	1 	gladness 	NN
+Est 	8 	16 	1 	8 	0 	,
+Est 	8 	16 	1 	9 	1 	and 	CC
+Est 	8 	16 	1 	10 	1 	joy 	NN
+Est 	8 	16 	1 	11 	0 	,
+Est 	8 	16 	1 	12 	1 	and 	CC
+Est 	8 	16 	1 	13 	1 	honour 	NN
+Est 	8 	16 	1 	14 	0 	.
+Est 	8 	17 	1 	1 	1 	And 	CC
+Est 	8 	17 	1 	2 	1 	in 	IN
+Est 	8 	17 	1 	3 	1 	every 	DT
+Est 	8 	17 	1 	4 	1 	province 	NN
+Est 	8 	17 	1 	5 	0 	,
+Est 	8 	17 	1 	6 	1 	and 	CC
+Est 	8 	17 	1 	7 	1 	in 	IN
+Est 	8 	17 	1 	8 	1 	every 	DT
+Est 	8 	17 	1 	9 	1 	city 	NN
+Est 	8 	17 	1 	10 	0 	,
+Est 	8 	17 	1 	11 	1 	whithersoever 	NN
+Est 	8 	17 	1 	12 	1 	the 	DT
+Est 	8 	17 	1 	13 	1 	king 	NN
+Est 	8 	17 	1 	14 	0 	's
+Est 	8 	17 	1 	15 	1 	commandment 	NN
+Est 	8 	17 	1 	16 	1 	and 	CC
+Est 	8 	17 	1 	17 	1 	his 	PRP$
+Est 	8 	17 	1 	18 	1 	decree 	NN
+Est 	8 	17 	1 	19 	1 	came 	VBD
+Est 	8 	17 	1 	20 	0 	,
+Est 	8 	17 	1 	21 	1 	the 	DT
+Est 	8 	17 	1 	22 	1 	Jews 	NNS
+Est 	8 	17 	1 	23 	1 	had 	VBD
+Est 	8 	17 	1 	24 	1 	joy 	NN
+Est 	8 	17 	1 	25 	1 	and 	CC
+Est 	8 	17 	1 	26 	1 	gladness 	NN
+Est 	8 	17 	1 	27 	0 	,
+Est 	8 	17 	1 	28 	1 	a 	DT
+Est 	8 	17 	1 	29 	1 	feast 	NN
+Est 	8 	17 	1 	30 	1 	and 	CC
+Est 	8 	17 	1 	31 	1 	a 	DT
+Est 	8 	17 	1 	32 	1 	good 	JJ
+Est 	8 	17 	1 	33 	1 	day 	NN
+Est 	8 	17 	1 	34 	0 	.
+Est 	8 	17 	2 	1 	1 	And 	CC
+Est 	8 	17 	2 	2 	1 	many 	JJ
+Est 	8 	17 	2 	3 	1 	of 	IN
+Est 	8 	17 	2 	4 	1 	the 	DT
+Est 	8 	17 	2 	5 	1 	people 	NNS
+Est 	8 	17 	2 	6 	1 	of 	IN
+Est 	8 	17 	2 	7 	1 	the 	DT
+Est 	8 	17 	2 	8 	1 	land 	NN
+Est 	8 	17 	2 	9 	1 	became 	VBD
+Est 	8 	17 	2 	10 	1 	Jews 	NNS
+Est 	8 	17 	2 	11 	0 	;
+Est 	8 	17 	2 	12 	1 	for 	IN
+Est 	8 	17 	2 	13 	1 	the 	DT
+Est 	8 	17 	2 	14 	1 	fear 	NN
+Est 	8 	17 	2 	15 	1 	of 	IN
+Est 	8 	17 	2 	16 	1 	the 	DT
+Est 	8 	17 	2 	17 	1 	Jews 	NNS
+Est 	8 	17 	2 	18 	1 	fell 	VBD
+Est 	8 	17 	2 	19 	1 	upon 	IN
+Est 	8 	17 	2 	20 	1 	them 	PRP
+Est 	8 	17 	2 	21 	0 	.
+Est 	9 	1 	1 	1 	1 	Now 	RB
+Est 	9 	1 	1 	2 	1 	in 	IN
+Est 	9 	1 	1 	3 	1 	the 	DT
+Est 	9 	1 	1 	4 	1 	twelfth 	NN
+Est 	9 	1 	1 	5 	1 	month 	NN
+Est 	9 	1 	1 	6 	0 	,
+Est 	9 	1 	1 	7 	1 	that 	IN
+Est 	9 	1 	1 	8 	1 	is 	VBZ
+Est 	9 	1 	1 	9 	0 	,
+Est 	9 	1 	1 	10 	1 	the 	DT
+Est 	9 	1 	1 	11 	1 	month 	NN
+Est 	9 	1 	1 	12 	1 	Adar 	NN
+Est 	9 	1 	1 	13 	0 	,
+Est 	9 	1 	1 	14 	1 	on 	IN
+Est 	9 	1 	1 	15 	1 	the 	DT
+Est 	9 	1 	1 	16 	1 	thirteenth 	NN
+Est 	9 	1 	1 	17 	1 	day 	NN
+Est 	9 	1 	1 	18 	1 	of 	IN
+Est 	9 	1 	1 	19 	1 	the 	DT
+Est 	9 	1 	1 	20 	1 	same 	JJ
+Est 	9 	1 	1 	21 	0 	,
+Est 	9 	1 	1 	22 	1 	when 	WRB
+Est 	9 	1 	1 	23 	1 	the 	DT
+Est 	9 	1 	1 	24 	1 	king 	NN
+Est 	9 	1 	1 	25 	0 	's
+Est 	9 	1 	1 	26 	1 	commandment 	NN
+Est 	9 	1 	1 	27 	1 	and 	CC
+Est 	9 	1 	1 	28 	1 	his 	PRP$
+Est 	9 	1 	1 	29 	1 	decree 	NN
+Est 	9 	1 	1 	30 	1 	drew 	NN
+Est 	9 	1 	1 	31 	1 	near 	IN
+Est 	9 	1 	1 	32 	1 	to 	TO
+Est 	9 	1 	1 	33 	1 	be 	VB
+Est 	9 	1 	1 	34 	1 	put 	NN
+Est 	9 	1 	1 	35 	1 	in 	IN
+Est 	9 	1 	1 	36 	1 	execution 	NN
+Est 	9 	1 	1 	37 	0 	,
+Est 	9 	1 	1 	38 	1 	in 	IN
+Est 	9 	1 	1 	39 	1 	the 	DT
+Est 	9 	1 	1 	40 	1 	day 	NN
+Est 	9 	1 	1 	41 	1 	that 	IN
+Est 	9 	1 	1 	42 	1 	the 	DT
+Est 	9 	1 	1 	43 	1 	enemies 	NNS
+Est 	9 	1 	1 	44 	1 	of 	IN
+Est 	9 	1 	1 	45 	1 	the 	DT
+Est 	9 	1 	1 	46 	1 	Jews 	NNS
+Est 	9 	1 	1 	47 	1 	hoped 	VBD
+Est 	9 	1 	1 	48 	1 	to 	TO
+Est 	9 	1 	1 	49 	1 	have 	VB
+Est 	9 	1 	1 	50 	1 	power 	NN
+Est 	9 	1 	1 	51 	1 	over 	IN
+Est 	9 	1 	1 	52 	1 	them 	PRP
+Est 	9 	1 	1 	53 	0 	,
+Est 	9 	1 	1 	54 	0 	(
+Est 	9 	1 	1 	55 	1 	though 	IN
+Est 	9 	1 	1 	56 	1 	it 	PRP
+Est 	9 	1 	1 	57 	1 	was 	VBD
+Est 	9 	1 	1 	58 	1 	turned 	VBD
+Est 	9 	1 	1 	59 	1 	to 	TO
+Est 	9 	1 	1 	60 	1 	the 	DT
+Est 	9 	1 	1 	61 	1 	contrary 	JJ
+Est 	9 	1 	1 	62 	0 	,
+Est 	9 	1 	1 	63 	1 	that 	IN
+Est 	9 	1 	1 	64 	1 	the 	DT
+Est 	9 	1 	1 	65 	1 	Jews 	NNS
+Est 	9 	1 	1 	66 	1 	had 	VBD
+Est 	9 	1 	1 	67 	1 	rule 	NN
+Est 	9 	1 	1 	68 	1 	over 	IN
+Est 	9 	1 	1 	69 	1 	them 	PRP
+Est 	9 	1 	1 	70 	1 	that 	IN
+Est 	9 	1 	1 	71 	1 	hated 	VBN
+Est 	9 	1 	1 	72 	1 	them 	PRP
+Est 	9 	1 	1 	73 	0 	;
+Est 	9 	1 	1 	74 	0 	)
+Est 	9 	2 	1 	1 	1 	The 	DT
+Est 	9 	2 	1 	2 	1 	Jews 	NNS
+Est 	9 	2 	1 	3 	1 	gathered 	VBN
+Est 	9 	2 	1 	4 	1 	themselves 	PRP
+Est 	9 	2 	1 	5 	1 	together 	RB
+Est 	9 	2 	1 	6 	1 	in 	IN
+Est 	9 	2 	1 	7 	1 	their 	PRP$
+Est 	9 	2 	1 	8 	1 	cities 	NNS
+Est 	9 	2 	1 	9 	1 	throughout 	IN
+Est 	9 	2 	1 	10 	1 	all 	DT
+Est 	9 	2 	1 	11 	1 	the 	DT
+Est 	9 	2 	1 	12 	1 	provinces 	NNS
+Est 	9 	2 	1 	13 	1 	of 	IN
+Est 	9 	2 	1 	14 	1 	the 	DT
+Est 	9 	2 	1 	15 	1 	king 	NN
+Est 	9 	2 	1 	16 	1 	Ahasuerus 	NN
+Est 	9 	2 	1 	17 	0 	,
+Est 	9 	2 	1 	18 	1 	to 	TO
+Est 	9 	2 	1 	19 	1 	lay 	NN
+Est 	9 	2 	1 	20 	1 	hand 	NN
+Est 	9 	2 	1 	21 	1 	on 	IN
+Est 	9 	2 	1 	22 	1 	such 	JJ
+Est 	9 	2 	1 	23 	1 	as 	IN
+Est 	9 	2 	1 	24 	1 	sought 	NN
+Est 	9 	2 	1 	25 	1 	their 	PRP$
+Est 	9 	2 	1 	26 	1 	hurt 	NN
+Est 	9 	2 	1 	27 	0 	:
+Est 	9 	2 	1 	28 	1 	and 	CC
+Est 	9 	2 	1 	29 	1 	no 	DT
+Est 	9 	2 	1 	30 	1 	man 	NN
+Est 	9 	2 	1 	31 	1 	could 	MD
+Est 	9 	2 	1 	32 	1 	withstand 	NN
+Est 	9 	2 	1 	33 	1 	them 	PRP
+Est 	9 	2 	1 	34 	0 	;
+Est 	9 	2 	1 	35 	1 	for 	IN
+Est 	9 	2 	1 	36 	1 	the 	DT
+Est 	9 	2 	1 	37 	1 	fear 	NN
+Est 	9 	2 	1 	38 	1 	of 	IN
+Est 	9 	2 	1 	39 	1 	them 	PRP
+Est 	9 	2 	1 	40 	1 	fell 	VBD
+Est 	9 	2 	1 	41 	1 	upon 	IN
+Est 	9 	2 	1 	42 	1 	all 	DT
+Est 	9 	2 	1 	43 	1 	people 	NNS
+Est 	9 	2 	1 	44 	0 	.
+Est 	9 	3 	1 	1 	1 	And 	CC
+Est 	9 	3 	1 	2 	1 	all 	DT
+Est 	9 	3 	1 	3 	1 	the 	DT
+Est 	9 	3 	1 	4 	1 	rulers 	NNS
+Est 	9 	3 	1 	5 	1 	of 	IN
+Est 	9 	3 	1 	6 	1 	the 	DT
+Est 	9 	3 	1 	7 	1 	provinces 	NNS
+Est 	9 	3 	1 	8 	0 	,
+Est 	9 	3 	1 	9 	1 	and 	CC
+Est 	9 	3 	1 	10 	1 	the 	DT
+Est 	9 	3 	1 	11 	1 	lieutenants 	NNS
+Est 	9 	3 	1 	12 	0 	,
+Est 	9 	3 	1 	13 	1 	and 	CC
+Est 	9 	3 	1 	14 	1 	the 	DT
+Est 	9 	3 	1 	15 	1 	deputies 	NNS
+Est 	9 	3 	1 	16 	0 	,
+Est 	9 	3 	1 	17 	1 	and 	CC
+Est 	9 	3 	1 	18 	1 	officers 	NNS
+Est 	9 	3 	1 	19 	1 	of 	IN
+Est 	9 	3 	1 	20 	1 	the 	DT
+Est 	9 	3 	1 	21 	1 	king 	NN
+Est 	9 	3 	1 	22 	0 	,
+Est 	9 	3 	1 	23 	1 	helped 	VBD
+Est 	9 	3 	1 	24 	1 	the 	DT
+Est 	9 	3 	1 	25 	1 	Jews 	NNS
+Est 	9 	3 	1 	26 	0 	;
+Est 	9 	3 	1 	27 	1 	because 	IN
+Est 	9 	3 	1 	28 	1 	the 	DT
+Est 	9 	3 	1 	29 	1 	fear 	NN
+Est 	9 	3 	1 	30 	1 	of 	IN
+Est 	9 	3 	1 	31 	1 	Mordecai 	NN
+Est 	9 	3 	1 	32 	1 	fell 	VBD
+Est 	9 	3 	1 	33 	1 	upon 	IN
+Est 	9 	3 	1 	34 	1 	them 	PRP
+Est 	9 	3 	1 	35 	0 	.
+Est 	9 	4 	1 	1 	1 	For 	IN
+Est 	9 	4 	1 	2 	1 	Mordecai 	NN
+Est 	9 	4 	1 	3 	1 	was 	VBD
+Est 	9 	4 	1 	4 	1 	great 	JJ
+Est 	9 	4 	1 	5 	1 	in 	IN
+Est 	9 	4 	1 	6 	1 	the 	DT
+Est 	9 	4 	1 	7 	1 	king 	NN
+Est 	9 	4 	1 	8 	0 	's
+Est 	9 	4 	1 	9 	1 	house 	NN
+Est 	9 	4 	1 	10 	0 	,
+Est 	9 	4 	1 	11 	1 	and 	CC
+Est 	9 	4 	1 	12 	1 	his 	PRP$
+Est 	9 	4 	1 	13 	1 	fame 	NN
+Est 	9 	4 	1 	14 	1 	went 	VBD
+Est 	9 	4 	1 	15 	1 	out 	IN
+Est 	9 	4 	1 	16 	1 	throughout 	IN
+Est 	9 	4 	1 	17 	1 	all 	DT
+Est 	9 	4 	1 	18 	1 	the 	DT
+Est 	9 	4 	1 	19 	1 	provinces 	NNS
+Est 	9 	4 	1 	20 	0 	:
+Est 	9 	4 	1 	21 	1 	for 	IN
+Est 	9 	4 	1 	22 	1 	this 	DT
+Est 	9 	4 	1 	23 	1 	man 	NN
+Est 	9 	4 	1 	24 	1 	Mordecai 	NN
+Est 	9 	4 	1 	25 	1 	waxed 	NN
+Est 	9 	4 	1 	26 	1 	greater 	JJR
+Est 	9 	4 	1 	27 	1 	and 	CC
+Est 	9 	4 	1 	28 	1 	greater 	JJR
+Est 	9 	4 	1 	29 	0 	.
+Est 	9 	5 	1 	1 	1 	Thus 	RB
+Est 	9 	5 	1 	2 	1 	the 	DT
+Est 	9 	5 	1 	3 	1 	Jews 	NNS
+Est 	9 	5 	1 	4 	1 	smote 	NN
+Est 	9 	5 	1 	5 	1 	all 	DT
+Est 	9 	5 	1 	6 	1 	their 	PRP$
+Est 	9 	5 	1 	7 	1 	enemies 	NNS
+Est 	9 	5 	1 	8 	1 	with 	IN
+Est 	9 	5 	1 	9 	1 	the 	DT
+Est 	9 	5 	1 	10 	1 	stroke 	NN
+Est 	9 	5 	1 	11 	1 	of 	IN
+Est 	9 	5 	1 	12 	1 	the 	DT
+Est 	9 	5 	1 	13 	1 	sword 	NN
+Est 	9 	5 	1 	14 	0 	,
+Est 	9 	5 	1 	15 	1 	and 	CC
+Est 	9 	5 	1 	16 	1 	slaughter 	NN
+Est 	9 	5 	1 	17 	0 	,
+Est 	9 	5 	1 	18 	1 	and 	CC
+Est 	9 	5 	1 	19 	1 	destruction 	NN
+Est 	9 	5 	1 	20 	0 	,
+Est 	9 	5 	1 	21 	1 	and 	CC
+Est 	9 	5 	1 	22 	1 	did 	VBD
+Est 	9 	5 	1 	23 	1 	what 	WP
+Est 	9 	5 	1 	24 	1 	they 	PRP
+Est 	9 	5 	1 	25 	1 	would 	MD
+Est 	9 	5 	1 	26 	1 	unto 	NN
+Est 	9 	5 	1 	27 	1 	those 	DT
+Est 	9 	5 	1 	28 	1 	that 	IN
+Est 	9 	5 	1 	29 	1 	hated 	VBN
+Est 	9 	5 	1 	30 	1 	them 	PRP
+Est 	9 	5 	1 	31 	0 	.
+Est 	9 	6 	1 	1 	1 	And 	CC
+Est 	9 	6 	1 	2 	1 	in 	IN
+Est 	9 	6 	1 	3 	1 	Shushan 	NN
+Est 	9 	6 	1 	4 	1 	the 	DT
+Est 	9 	6 	1 	5 	1 	palace 	NN
+Est 	9 	6 	1 	6 	1 	the 	DT
+Est 	9 	6 	1 	7 	1 	Jews 	NNS
+Est 	9 	6 	1 	8 	1 	slew 	NN
+Est 	9 	6 	1 	9 	1 	and 	CC
+Est 	9 	6 	1 	10 	1 	destroyed 	NN
+Est 	9 	6 	1 	11 	1 	five 	CD
+Est 	9 	6 	1 	12 	1 	hundred 	VBN
+Est 	9 	6 	1 	13 	1 	men 	NNS
+Est 	9 	6 	1 	14 	0 	.
+Est 	9 	7 	1 	1 	1 	And 	CC
+Est 	9 	7 	1 	2 	1 	Parshandatha 	NN
+Est 	9 	7 	1 	3 	0 	,
+Est 	9 	7 	1 	4 	1 	and 	CC
+Est 	9 	7 	1 	5 	1 	Dalphon 	NN
+Est 	9 	7 	1 	6 	0 	,
+Est 	9 	7 	1 	7 	1 	and 	CC
+Est 	9 	7 	1 	8 	1 	Aspatha 	NN
+Est 	9 	7 	1 	9 	0 	,
+Est 	9 	8 	1 	1 	1 	And 	CC
+Est 	9 	8 	1 	2 	1 	Poratha 	NN
+Est 	9 	8 	1 	3 	0 	,
+Est 	9 	8 	1 	4 	1 	and 	CC
+Est 	9 	8 	1 	5 	1 	Adalia 	NNS
+Est 	9 	8 	1 	6 	0 	,
+Est 	9 	8 	1 	7 	1 	and 	CC
+Est 	9 	8 	1 	8 	1 	Aridatha 	NN
+Est 	9 	8 	1 	9 	0 	,
+Est 	9 	9 	1 	1 	1 	And 	CC
+Est 	9 	9 	1 	2 	1 	Parmashta 	NN
+Est 	9 	9 	1 	3 	0 	,
+Est 	9 	9 	1 	4 	1 	and 	CC
+Est 	9 	9 	1 	5 	1 	Arisai 	NN
+Est 	9 	9 	1 	6 	0 	,
+Est 	9 	9 	1 	7 	1 	and 	CC
+Est 	9 	9 	1 	8 	1 	Aridai 	NN
+Est 	9 	9 	1 	9 	0 	,
+Est 	9 	9 	1 	10 	1 	and 	CC
+Est 	9 	9 	1 	11 	1 	Vajezatha 	NN
+Est 	9 	9 	1 	12 	0 	,
+Est 	9 	10 	1 	1 	1 	The 	DT
+Est 	9 	10 	1 	2 	1 	ten 	NNS
+Est 	9 	10 	1 	3 	1 	sons 	NNS
+Est 	9 	10 	1 	4 	1 	of 	IN
+Est 	9 	10 	1 	5 	1 	Haman 	NN
+Est 	9 	10 	1 	6 	1 	the 	DT
+Est 	9 	10 	1 	7 	1 	son 	NN
+Est 	9 	10 	1 	8 	1 	of 	IN
+Est 	9 	10 	1 	9 	1 	Hammedatha 	NN
+Est 	9 	10 	1 	10 	0 	,
+Est 	9 	10 	1 	11 	1 	the 	DT
+Est 	9 	10 	1 	12 	1 	enemy 	NN
+Est 	9 	10 	1 	13 	1 	of 	IN
+Est 	9 	10 	1 	14 	1 	the 	DT
+Est 	9 	10 	1 	15 	1 	Jews 	NNS
+Est 	9 	10 	1 	16 	0 	,
+Est 	9 	10 	1 	17 	1 	slew 	NN
+Est 	9 	10 	1 	18 	1 	they 	PRP
+Est 	9 	10 	1 	19 	0 	;
+Est 	9 	10 	1 	20 	1 	but 	CC
+Est 	9 	10 	1 	21 	1 	on 	IN
+Est 	9 	10 	1 	22 	1 	the 	DT
+Est 	9 	10 	1 	23 	1 	spoil 	NN
+Est 	9 	10 	1 	24 	1 	laid 	NN
+Est 	9 	10 	1 	25 	1 	they 	PRP
+Est 	9 	10 	1 	26 	1 	not 	RB
+Est 	9 	10 	1 	27 	1 	their 	PRP$
+Est 	9 	10 	1 	28 	1 	hand 	NN
+Est 	9 	10 	1 	29 	0 	.
+Est 	9 	11 	1 	1 	1 	On 	IN
+Est 	9 	11 	1 	2 	1 	that 	IN
+Est 	9 	11 	1 	3 	1 	day 	NN
+Est 	9 	11 	1 	4 	1 	the 	DT
+Est 	9 	11 	1 	5 	1 	number 	NN
+Est 	9 	11 	1 	6 	1 	of 	IN
+Est 	9 	11 	1 	7 	1 	those 	DT
+Est 	9 	11 	1 	8 	1 	that 	IN
+Est 	9 	11 	1 	9 	1 	were 	VBD
+Est 	9 	11 	1 	10 	1 	slain 	NN
+Est 	9 	11 	1 	11 	1 	in 	IN
+Est 	9 	11 	1 	12 	1 	Shushan 	NN
+Est 	9 	11 	1 	13 	1 	the 	DT
+Est 	9 	11 	1 	14 	1 	palace 	NN
+Est 	9 	11 	1 	15 	1 	was 	VBD
+Est 	9 	11 	1 	16 	1 	brought 	NN
+Est 	9 	11 	1 	17 	1 	before 	IN
+Est 	9 	11 	1 	18 	1 	the 	DT
+Est 	9 	11 	1 	19 	1 	king 	NN
+Est 	9 	11 	1 	20 	0 	.
+Est 	9 	12 	1 	1 	1 	And 	CC
+Est 	9 	12 	1 	2 	1 	the 	DT
+Est 	9 	12 	1 	3 	1 	king 	NN
+Est 	9 	12 	1 	4 	1 	said 	VBD
+Est 	9 	12 	1 	5 	1 	unto 	NN
+Est 	9 	12 	1 	6 	1 	Esther 	NN
+Est 	9 	12 	1 	7 	1 	the 	DT
+Est 	9 	12 	1 	8 	1 	queen 	NN
+Est 	9 	12 	1 	9 	0 	,
+Est 	9 	12 	1 	10 	1 	The 	DT
+Est 	9 	12 	1 	11 	1 	Jews 	NNS
+Est 	9 	12 	1 	12 	1 	have 	VB
+Est 	9 	12 	1 	13 	1 	slain 	NN
+Est 	9 	12 	1 	14 	1 	and 	CC
+Est 	9 	12 	1 	15 	1 	destroyed 	NN
+Est 	9 	12 	1 	16 	1 	five 	CD
+Est 	9 	12 	1 	17 	1 	hundred 	VBN
+Est 	9 	12 	1 	18 	1 	men 	NNS
+Est 	9 	12 	1 	19 	1 	in 	IN
+Est 	9 	12 	1 	20 	1 	Shushan 	NN
+Est 	9 	12 	1 	21 	1 	the 	DT
+Est 	9 	12 	1 	22 	1 	palace 	NN
+Est 	9 	12 	1 	23 	0 	,
+Est 	9 	12 	1 	24 	1 	and 	CC
+Est 	9 	12 	1 	25 	1 	the 	DT
+Est 	9 	12 	1 	26 	1 	ten 	NNS
+Est 	9 	12 	1 	27 	1 	sons 	NNS
+Est 	9 	12 	1 	28 	1 	of 	IN
+Est 	9 	12 	1 	29 	1 	Haman 	NN
+Est 	9 	12 	1 	30 	0 	;
+Est 	9 	12 	1 	31 	1 	what 	WP
+Est 	9 	12 	1 	32 	1 	have 	VB
+Est 	9 	12 	1 	33 	1 	they 	PRP
+Est 	9 	12 	1 	34 	1 	done 	VBN
+Est 	9 	12 	1 	35 	1 	in 	IN
+Est 	9 	12 	1 	36 	1 	the 	DT
+Est 	9 	12 	1 	37 	1 	rest 	NN
+Est 	9 	12 	1 	38 	1 	of 	IN
+Est 	9 	12 	1 	39 	1 	the 	DT
+Est 	9 	12 	1 	40 	1 	king 	NN
+Est 	9 	12 	1 	41 	0 	's
+Est 	9 	12 	1 	42 	1 	provinces 	NNS
+Est 	9 	12 	1 	43 	0 	?
+Est 	9 	12 	2 	1 	1 	now 	RB
+Est 	9 	12 	2 	2 	1 	what 	WP
+Est 	9 	12 	2 	3 	1 	is 	VBZ
+Est 	9 	12 	2 	4 	1 	thy 	NN
+Est 	9 	12 	2 	5 	1 	petition 	NN
+Est 	9 	12 	2 	6 	0 	?
+Est 	9 	12 	3 	1 	1 	and 	CC
+Est 	9 	12 	3 	2 	1 	it 	PRP
+Est 	9 	12 	3 	3 	1 	shall 	MD
+Est 	9 	12 	3 	4 	1 	be 	VB
+Est 	9 	12 	3 	5 	1 	granted 	VBN
+Est 	9 	12 	3 	6 	1 	thee 	NN
+Est 	9 	12 	3 	7 	0 	:
+Est 	9 	12 	3 	8 	1 	or 	CC
+Est 	9 	12 	3 	9 	1 	what 	WP
+Est 	9 	12 	3 	10 	1 	is 	VBZ
+Est 	9 	12 	3 	11 	1 	thy 	NN
+Est 	9 	12 	3 	12 	1 	request 	NN
+Est 	9 	12 	3 	13 	1 	further 	RB
+Est 	9 	12 	3 	14 	0 	?
+Est 	9 	12 	4 	1 	1 	and 	CC
+Est 	9 	12 	4 	2 	1 	it 	PRP
+Est 	9 	12 	4 	3 	1 	shall 	MD
+Est 	9 	12 	4 	4 	1 	be 	VB
+Est 	9 	12 	4 	5 	1 	done 	VBN
+Est 	9 	12 	4 	6 	0 	.
+Est 	9 	13 	1 	1 	1 	Then 	RB
+Est 	9 	13 	1 	2 	1 	said 	VBD
+Est 	9 	13 	1 	3 	1 	Esther 	NN
+Est 	9 	13 	1 	4 	0 	,
+Est 	9 	13 	1 	5 	1 	If 	IN
+Est 	9 	13 	1 	6 	1 	it 	PRP
+Est 	9 	13 	1 	7 	1 	please 	NN
+Est 	9 	13 	1 	8 	1 	the 	DT
+Est 	9 	13 	1 	9 	1 	king 	NN
+Est 	9 	13 	1 	10 	0 	,
+Est 	9 	13 	1 	11 	1 	let 	VB
+Est 	9 	13 	1 	12 	1 	it 	PRP
+Est 	9 	13 	1 	13 	1 	be 	VB
+Est 	9 	13 	1 	14 	1 	granted 	VBN
+Est 	9 	13 	1 	15 	1 	to 	TO
+Est 	9 	13 	1 	16 	1 	the 	DT
+Est 	9 	13 	1 	17 	1 	Jews 	NNS
+Est 	9 	13 	1 	18 	1 	which 	WDT
+Est 	9 	13 	1 	19 	1 	are 	VBP
+Est 	9 	13 	1 	20 	1 	in 	IN
+Est 	9 	13 	1 	21 	1 	Shushan 	NN
+Est 	9 	13 	1 	22 	1 	to 	TO
+Est 	9 	13 	1 	23 	1 	do 	VB
+Est 	9 	13 	1 	24 	1 	to 	TO
+Est 	9 	13 	1 	25 	1 	morrow 	NN
+Est 	9 	13 	1 	26 	1 	also 	RB
+Est 	9 	13 	1 	27 	1 	according 	VBG
+Est 	9 	13 	1 	28 	1 	unto 	NN
+Est 	9 	13 	1 	29 	1 	this 	DT
+Est 	9 	13 	1 	30 	1 	day 	NN
+Est 	9 	13 	1 	31 	0 	's
+Est 	9 	13 	1 	32 	1 	decree 	NN
+Est 	9 	13 	1 	33 	0 	,
+Est 	9 	13 	1 	34 	1 	and 	CC
+Est 	9 	13 	1 	35 	1 	let 	VB
+Est 	9 	13 	1 	36 	1 	Haman 	NN
+Est 	9 	13 	1 	37 	0 	's
+Est 	9 	13 	1 	38 	1 	ten 	NNS
+Est 	9 	13 	1 	39 	1 	sons 	NNS
+Est 	9 	13 	1 	40 	1 	be 	VB
+Est 	9 	13 	1 	41 	1 	hanged 	VBN
+Est 	9 	13 	1 	42 	1 	upon 	IN
+Est 	9 	13 	1 	43 	1 	the 	DT
+Est 	9 	13 	1 	44 	1 	gallows 	NNS
+Est 	9 	13 	1 	45 	0 	.
+Est 	9 	14 	1 	1 	1 	And 	CC
+Est 	9 	14 	1 	2 	1 	the 	DT
+Est 	9 	14 	1 	3 	1 	king 	NN
+Est 	9 	14 	1 	4 	1 	commanded 	VBN
+Est 	9 	14 	1 	5 	1 	it 	PRP
+Est 	9 	14 	1 	6 	1 	so 	RB
+Est 	9 	14 	1 	7 	1 	to 	TO
+Est 	9 	14 	1 	8 	1 	be 	VB
+Est 	9 	14 	1 	9 	1 	done 	VBN
+Est 	9 	14 	1 	10 	0 	:
+Est 	9 	14 	1 	11 	1 	and 	CC
+Est 	9 	14 	1 	12 	1 	the 	DT
+Est 	9 	14 	1 	13 	1 	decree 	NN
+Est 	9 	14 	1 	14 	1 	was 	VBD
+Est 	9 	14 	1 	15 	1 	given 	VBN
+Est 	9 	14 	1 	16 	1 	at 	IN
+Est 	9 	14 	1 	17 	1 	Shushan 	NN
+Est 	9 	14 	1 	18 	0 	;
+Est 	9 	14 	1 	19 	1 	and 	CC
+Est 	9 	14 	1 	20 	1 	they 	PRP
+Est 	9 	14 	1 	21 	1 	hanged 	VBN
+Est 	9 	14 	1 	22 	1 	Haman 	NN
+Est 	9 	14 	1 	23 	0 	's
+Est 	9 	14 	1 	24 	1 	ten 	NNS
+Est 	9 	14 	1 	25 	1 	sons 	NNS
+Est 	9 	14 	1 	26 	0 	.
+Est 	9 	15 	1 	1 	1 	For 	IN
+Est 	9 	15 	1 	2 	1 	the 	DT
+Est 	9 	15 	1 	3 	1 	Jews 	NNS
+Est 	9 	15 	1 	4 	1 	that 	IN
+Est 	9 	15 	1 	5 	1 	were 	VBD
+Est 	9 	15 	1 	6 	1 	in 	IN
+Est 	9 	15 	1 	7 	1 	Shushan 	NN
+Est 	9 	15 	1 	8 	1 	gathered 	VBN
+Est 	9 	15 	1 	9 	1 	themselves 	PRP
+Est 	9 	15 	1 	10 	1 	together 	RB
+Est 	9 	15 	1 	11 	1 	on 	IN
+Est 	9 	15 	1 	12 	1 	the 	DT
+Est 	9 	15 	1 	13 	1 	fourteenth 	NN
+Est 	9 	15 	1 	14 	1 	day 	NN
+Est 	9 	15 	1 	15 	1 	also 	RB
+Est 	9 	15 	1 	16 	1 	of 	IN
+Est 	9 	15 	1 	17 	1 	the 	DT
+Est 	9 	15 	1 	18 	1 	month 	NN
+Est 	9 	15 	1 	19 	1 	Adar 	NN
+Est 	9 	15 	1 	20 	0 	,
+Est 	9 	15 	1 	21 	1 	and 	CC
+Est 	9 	15 	1 	22 	1 	slew 	NN
+Est 	9 	15 	1 	23 	1 	three 	CD
+Est 	9 	15 	1 	24 	1 	hundred 	VBN
+Est 	9 	15 	1 	25 	1 	men 	NNS
+Est 	9 	15 	1 	26 	1 	at 	IN
+Est 	9 	15 	1 	27 	1 	Shushan 	NN
+Est 	9 	15 	1 	28 	0 	;
+Est 	9 	15 	1 	29 	1 	but 	CC
+Est 	9 	15 	1 	30 	1 	on 	IN
+Est 	9 	15 	1 	31 	1 	the 	DT
+Est 	9 	15 	1 	32 	1 	prey 	NN
+Est 	9 	15 	1 	33 	1 	they 	PRP
+Est 	9 	15 	1 	34 	1 	laid 	NN
+Est 	9 	15 	1 	35 	1 	not 	RB
+Est 	9 	15 	1 	36 	1 	their 	PRP$
+Est 	9 	15 	1 	37 	1 	hand 	NN
+Est 	9 	15 	1 	38 	0 	.
+Est 	9 	16 	1 	1 	1 	But 	CC
+Est 	9 	16 	1 	2 	1 	the 	DT
+Est 	9 	16 	1 	3 	1 	other 	JJ
+Est 	9 	16 	1 	4 	1 	Jews 	NNS
+Est 	9 	16 	1 	5 	1 	that 	IN
+Est 	9 	16 	1 	6 	1 	were 	VBD
+Est 	9 	16 	1 	7 	1 	in 	IN
+Est 	9 	16 	1 	8 	1 	the 	DT
+Est 	9 	16 	1 	9 	1 	king 	NN
+Est 	9 	16 	1 	10 	0 	's
+Est 	9 	16 	1 	11 	1 	provinces 	NNS
+Est 	9 	16 	1 	12 	1 	gathered 	VBN
+Est 	9 	16 	1 	13 	1 	themselves 	PRP
+Est 	9 	16 	1 	14 	1 	together 	RB
+Est 	9 	16 	1 	15 	0 	,
+Est 	9 	16 	1 	16 	1 	and 	CC
+Est 	9 	16 	1 	17 	1 	stood 	NN
+Est 	9 	16 	1 	18 	1 	for 	IN
+Est 	9 	16 	1 	19 	1 	their 	PRP$
+Est 	9 	16 	1 	20 	1 	lives 	NNS
+Est 	9 	16 	1 	21 	0 	,
+Est 	9 	16 	1 	22 	1 	and 	CC
+Est 	9 	16 	1 	23 	1 	had 	VBD
+Est 	9 	16 	1 	24 	1 	rest 	NN
+Est 	9 	16 	1 	25 	1 	from 	IN
+Est 	9 	16 	1 	26 	1 	their 	PRP$
+Est 	9 	16 	1 	27 	1 	enemies 	NNS
+Est 	9 	16 	1 	28 	0 	,
+Est 	9 	16 	1 	29 	1 	and 	CC
+Est 	9 	16 	1 	30 	1 	slew 	NN
+Est 	9 	16 	1 	31 	1 	of 	IN
+Est 	9 	16 	1 	32 	1 	their 	PRP$
+Est 	9 	16 	1 	33 	1 	foes 	NNS
+Est 	9 	16 	1 	34 	1 	seventy 	NN
+Est 	9 	16 	1 	35 	1 	and 	CC
+Est 	9 	16 	1 	36 	1 	five 	CD
+Est 	9 	16 	1 	37 	1 	thousand 	NN
+Est 	9 	16 	1 	38 	0 	,
+Est 	9 	16 	1 	39 	1 	but 	CC
+Est 	9 	16 	1 	40 	1 	they 	PRP
+Est 	9 	16 	1 	41 	1 	laid 	NN
+Est 	9 	16 	1 	42 	1 	not 	RB
+Est 	9 	16 	1 	43 	1 	their 	PRP$
+Est 	9 	16 	1 	44 	1 	hands 	NNS
+Est 	9 	16 	1 	45 	1 	on 	IN
+Est 	9 	16 	1 	46 	1 	the 	DT
+Est 	9 	16 	1 	47 	1 	prey 	NN
+Est 	9 	16 	1 	48 	0 	,
+Est 	9 	17 	1 	1 	1 	On 	IN
+Est 	9 	17 	1 	2 	1 	the 	DT
+Est 	9 	17 	1 	3 	1 	thirteenth 	NN
+Est 	9 	17 	1 	4 	1 	day 	NN
+Est 	9 	17 	1 	5 	1 	of 	IN
+Est 	9 	17 	1 	6 	1 	the 	DT
+Est 	9 	17 	1 	7 	1 	month 	NN
+Est 	9 	17 	1 	8 	1 	Adar 	NN
+Est 	9 	17 	1 	9 	0 	;
+Est 	9 	17 	1 	10 	1 	and 	CC
+Est 	9 	17 	1 	11 	1 	on 	IN
+Est 	9 	17 	1 	12 	1 	the 	DT
+Est 	9 	17 	1 	13 	1 	fourteenth 	NN
+Est 	9 	17 	1 	14 	1 	day 	NN
+Est 	9 	17 	1 	15 	1 	of 	IN
+Est 	9 	17 	1 	16 	1 	the 	DT
+Est 	9 	17 	1 	17 	1 	same 	JJ
+Est 	9 	17 	1 	18 	1 	rested 	VBN
+Est 	9 	17 	1 	19 	1 	they 	PRP
+Est 	9 	17 	1 	20 	0 	,
+Est 	9 	17 	1 	21 	1 	and 	CC
+Est 	9 	17 	1 	22 	1 	made 	VBN
+Est 	9 	17 	1 	23 	1 	it 	PRP
+Est 	9 	17 	1 	24 	1 	a 	DT
+Est 	9 	17 	1 	25 	1 	day 	NN
+Est 	9 	17 	1 	26 	1 	of 	IN
+Est 	9 	17 	1 	27 	1 	feasting 	VBG
+Est 	9 	17 	1 	28 	1 	and 	CC
+Est 	9 	17 	1 	29 	1 	gladness 	NN
+Est 	9 	17 	1 	30 	0 	.
+Est 	9 	18 	1 	1 	1 	But 	CC
+Est 	9 	18 	1 	2 	1 	the 	DT
+Est 	9 	18 	1 	3 	1 	Jews 	NNS
+Est 	9 	18 	1 	4 	1 	that 	IN
+Est 	9 	18 	1 	5 	1 	were 	VBD
+Est 	9 	18 	1 	6 	1 	at 	IN
+Est 	9 	18 	1 	7 	1 	Shushan 	NN
+Est 	9 	18 	1 	8 	1 	assembled 	VBN
+Est 	9 	18 	1 	9 	1 	together 	RB
+Est 	9 	18 	1 	10 	1 	on 	IN
+Est 	9 	18 	1 	11 	1 	the 	DT
+Est 	9 	18 	1 	12 	1 	thirteenth 	NN
+Est 	9 	18 	1 	13 	1 	day 	NN
+Est 	9 	18 	1 	14 	1 	thereof 	NN
+Est 	9 	18 	1 	15 	0 	,
+Est 	9 	18 	1 	16 	1 	and 	CC
+Est 	9 	18 	1 	17 	1 	on 	IN
+Est 	9 	18 	1 	18 	1 	the 	DT
+Est 	9 	18 	1 	19 	1 	fourteenth 	NN
+Est 	9 	18 	1 	20 	1 	thereof 	NN
+Est 	9 	18 	1 	21 	0 	;
+Est 	9 	18 	1 	22 	1 	and 	CC
+Est 	9 	18 	1 	23 	1 	on 	IN
+Est 	9 	18 	1 	24 	1 	the 	DT
+Est 	9 	18 	1 	25 	1 	fifteenth 	NN
+Est 	9 	18 	1 	26 	1 	day 	NN
+Est 	9 	18 	1 	27 	1 	of 	IN
+Est 	9 	18 	1 	28 	1 	the 	DT
+Est 	9 	18 	1 	29 	1 	same 	JJ
+Est 	9 	18 	1 	30 	1 	they 	PRP
+Est 	9 	18 	1 	31 	1 	rested 	VBN
+Est 	9 	18 	1 	32 	0 	,
+Est 	9 	18 	1 	33 	1 	and 	CC
+Est 	9 	18 	1 	34 	1 	made 	VBN
+Est 	9 	18 	1 	35 	1 	it 	PRP
+Est 	9 	18 	1 	36 	1 	a 	DT
+Est 	9 	18 	1 	37 	1 	day 	NN
+Est 	9 	18 	1 	38 	1 	of 	IN
+Est 	9 	18 	1 	39 	1 	feasting 	VBG
+Est 	9 	18 	1 	40 	1 	and 	CC
+Est 	9 	18 	1 	41 	1 	gladness 	NN
+Est 	9 	18 	1 	42 	0 	.
+Est 	9 	19 	1 	1 	1 	Therefore 	RB
+Est 	9 	19 	1 	2 	1 	the 	DT
+Est 	9 	19 	1 	3 	1 	Jews 	NNS
+Est 	9 	19 	1 	4 	1 	of 	IN
+Est 	9 	19 	1 	5 	1 	the 	DT
+Est 	9 	19 	1 	6 	1 	villages 	NNS
+Est 	9 	19 	1 	7 	0 	,
+Est 	9 	19 	1 	8 	1 	that 	IN
+Est 	9 	19 	1 	9 	1 	dwelt 	NN
+Est 	9 	19 	1 	10 	1 	in 	IN
+Est 	9 	19 	1 	11 	1 	the 	DT
+Est 	9 	19 	1 	12 	1 	unwalled 	JJ
+Est 	9 	19 	1 	13 	1 	towns 	NNS
+Est 	9 	19 	1 	14 	0 	,
+Est 	9 	19 	1 	15 	1 	made 	VBN
+Est 	9 	19 	1 	16 	1 	the 	DT
+Est 	9 	19 	1 	17 	1 	fourteenth 	NN
+Est 	9 	19 	1 	18 	1 	day 	NN
+Est 	9 	19 	1 	19 	1 	of 	IN
+Est 	9 	19 	1 	20 	1 	the 	DT
+Est 	9 	19 	1 	21 	1 	month 	NN
+Est 	9 	19 	1 	22 	1 	Adar 	NN
+Est 	9 	19 	1 	23 	1 	a 	DT
+Est 	9 	19 	1 	24 	1 	day 	NN
+Est 	9 	19 	1 	25 	1 	of 	IN
+Est 	9 	19 	1 	26 	1 	gladness 	NN
+Est 	9 	19 	1 	27 	1 	and 	CC
+Est 	9 	19 	1 	28 	1 	feasting 	VBG
+Est 	9 	19 	1 	29 	0 	,
+Est 	9 	19 	1 	30 	1 	and 	CC
+Est 	9 	19 	1 	31 	1 	a 	DT
+Est 	9 	19 	1 	32 	1 	good 	JJ
+Est 	9 	19 	1 	33 	1 	day 	NN
+Est 	9 	19 	1 	34 	0 	,
+Est 	9 	19 	1 	35 	1 	and 	CC
+Est 	9 	19 	1 	36 	1 	of 	IN
+Est 	9 	19 	1 	37 	1 	sending 	VBG
+Est 	9 	19 	1 	38 	1 	portions 	NNS
+Est 	9 	19 	1 	39 	1 	one 	CD
+Est 	9 	19 	1 	40 	1 	to 	TO
+Est 	9 	19 	1 	41 	1 	another 	DT
+Est 	9 	19 	1 	42 	0 	.
+Est 	9 	20 	1 	1 	1 	And 	CC
+Est 	9 	20 	1 	2 	1 	Mordecai 	NN
+Est 	9 	20 	1 	3 	1 	wrote 	VBD
+Est 	9 	20 	1 	4 	1 	these 	DT
+Est 	9 	20 	1 	5 	1 	things 	NNS
+Est 	9 	20 	1 	6 	0 	,
+Est 	9 	20 	1 	7 	1 	and 	CC
+Est 	9 	20 	1 	8 	1 	sent 	NN
+Est 	9 	20 	1 	9 	1 	letters 	NNS
+Est 	9 	20 	1 	10 	1 	unto 	NN
+Est 	9 	20 	1 	11 	1 	all 	DT
+Est 	9 	20 	1 	12 	1 	the 	DT
+Est 	9 	20 	1 	13 	1 	Jews 	NNS
+Est 	9 	20 	1 	14 	1 	that 	IN
+Est 	9 	20 	1 	15 	1 	were 	VBD
+Est 	9 	20 	1 	16 	1 	in 	IN
+Est 	9 	20 	1 	17 	1 	all 	DT
+Est 	9 	20 	1 	18 	1 	the 	DT
+Est 	9 	20 	1 	19 	1 	provinces 	NNS
+Est 	9 	20 	1 	20 	1 	of 	IN
+Est 	9 	20 	1 	21 	1 	the 	DT
+Est 	9 	20 	1 	22 	1 	king 	NN
+Est 	9 	20 	1 	23 	1 	Ahasuerus 	NN
+Est 	9 	20 	1 	24 	0 	,
+Est 	9 	20 	1 	25 	1 	both 	DT
+Est 	9 	20 	1 	26 	1 	nigh 	JJ
+Est 	9 	20 	1 	27 	1 	and 	CC
+Est 	9 	20 	1 	28 	1 	far 	RB
+Est 	9 	20 	1 	29 	0 	,
+Est 	9 	21 	1 	1 	1 	To 	TO
+Est 	9 	21 	1 	2 	1 	stablish 	NN
+Est 	9 	21 	1 	3 	1 	this 	DT
+Est 	9 	21 	1 	4 	1 	among 	IN
+Est 	9 	21 	1 	5 	1 	them 	PRP
+Est 	9 	21 	1 	6 	0 	,
+Est 	9 	21 	1 	7 	1 	that 	IN
+Est 	9 	21 	1 	8 	1 	they 	PRP
+Est 	9 	21 	1 	9 	1 	should 	MD
+Est 	9 	21 	1 	10 	1 	keep 	VB
+Est 	9 	21 	1 	11 	1 	the 	DT
+Est 	9 	21 	1 	12 	1 	fourteenth 	NN
+Est 	9 	21 	1 	13 	1 	day 	NN
+Est 	9 	21 	1 	14 	1 	of 	IN
+Est 	9 	21 	1 	15 	1 	the 	DT
+Est 	9 	21 	1 	16 	1 	month 	NN
+Est 	9 	21 	1 	17 	1 	Adar 	NN
+Est 	9 	21 	1 	18 	0 	,
+Est 	9 	21 	1 	19 	1 	and 	CC
+Est 	9 	21 	1 	20 	1 	the 	DT
+Est 	9 	21 	1 	21 	1 	fifteenth 	NN
+Est 	9 	21 	1 	22 	1 	day 	NN
+Est 	9 	21 	1 	23 	1 	of 	IN
+Est 	9 	21 	1 	24 	1 	the 	DT
+Est 	9 	21 	1 	25 	1 	same 	JJ
+Est 	9 	21 	1 	26 	0 	,
+Est 	9 	21 	1 	27 	1 	yearly 	RB
+Est 	9 	21 	1 	28 	0 	,
+Est 	9 	22 	1 	1 	1 	As 	IN
+Est 	9 	22 	1 	2 	1 	the 	DT
+Est 	9 	22 	1 	3 	1 	days 	NNS
+Est 	9 	22 	1 	4 	1 	wherein 	NN
+Est 	9 	22 	1 	5 	1 	the 	DT
+Est 	9 	22 	1 	6 	1 	Jews 	NNS
+Est 	9 	22 	1 	7 	1 	rested 	VBN
+Est 	9 	22 	1 	8 	1 	from 	IN
+Est 	9 	22 	1 	9 	1 	their 	PRP$
+Est 	9 	22 	1 	10 	1 	enemies 	NNS
+Est 	9 	22 	1 	11 	0 	,
+Est 	9 	22 	1 	12 	1 	and 	CC
+Est 	9 	22 	1 	13 	1 	the 	DT
+Est 	9 	22 	1 	14 	1 	month 	NN
+Est 	9 	22 	1 	15 	1 	which 	WDT
+Est 	9 	22 	1 	16 	1 	was 	VBD
+Est 	9 	22 	1 	17 	1 	turned 	VBD
+Est 	9 	22 	1 	18 	1 	unto 	NN
+Est 	9 	22 	1 	19 	1 	them 	PRP
+Est 	9 	22 	1 	20 	1 	from 	IN
+Est 	9 	22 	1 	21 	1 	sorrow 	NN
+Est 	9 	22 	1 	22 	1 	to 	TO
+Est 	9 	22 	1 	23 	1 	joy 	NN
+Est 	9 	22 	1 	24 	0 	,
+Est 	9 	22 	1 	25 	1 	and 	CC
+Est 	9 	22 	1 	26 	1 	from 	IN
+Est 	9 	22 	1 	27 	1 	mourning 	VBG
+Est 	9 	22 	1 	28 	1 	into 	IN
+Est 	9 	22 	1 	29 	1 	a 	DT
+Est 	9 	22 	1 	30 	1 	good 	JJ
+Est 	9 	22 	1 	31 	1 	day 	NN
+Est 	9 	22 	1 	32 	0 	:
+Est 	9 	22 	1 	33 	1 	that 	IN
+Est 	9 	22 	1 	34 	1 	they 	PRP
+Est 	9 	22 	1 	35 	1 	should 	MD
+Est 	9 	22 	1 	36 	1 	make 	VB
+Est 	9 	22 	1 	37 	1 	them 	PRP
+Est 	9 	22 	1 	38 	1 	days 	NNS
+Est 	9 	22 	1 	39 	1 	of 	IN
+Est 	9 	22 	1 	40 	1 	feasting 	VBG
+Est 	9 	22 	1 	41 	1 	and 	CC
+Est 	9 	22 	1 	42 	1 	joy 	NN
+Est 	9 	22 	1 	43 	0 	,
+Est 	9 	22 	1 	44 	1 	and 	CC
+Est 	9 	22 	1 	45 	1 	of 	IN
+Est 	9 	22 	1 	46 	1 	sending 	VBG
+Est 	9 	22 	1 	47 	1 	portions 	NNS
+Est 	9 	22 	1 	48 	1 	one 	CD
+Est 	9 	22 	1 	49 	1 	to 	TO
+Est 	9 	22 	1 	50 	1 	another 	DT
+Est 	9 	22 	1 	51 	0 	,
+Est 	9 	22 	1 	52 	1 	and 	CC
+Est 	9 	22 	1 	53 	1 	gifts 	NNS
+Est 	9 	22 	1 	54 	1 	to 	TO
+Est 	9 	22 	1 	55 	1 	the 	DT
+Est 	9 	22 	1 	56 	1 	poor 	JJ
+Est 	9 	22 	1 	57 	0 	.
+Est 	9 	23 	1 	1 	1 	And 	CC
+Est 	9 	23 	1 	2 	1 	the 	DT
+Est 	9 	23 	1 	3 	1 	Jews 	NNS
+Est 	9 	23 	1 	4 	1 	undertook 	NN
+Est 	9 	23 	1 	5 	1 	to 	TO
+Est 	9 	23 	1 	6 	1 	do 	VB
+Est 	9 	23 	1 	7 	1 	as 	IN
+Est 	9 	23 	1 	8 	1 	they 	PRP
+Est 	9 	23 	1 	9 	1 	had 	VBD
+Est 	9 	23 	1 	10 	1 	begun 	VBN
+Est 	9 	23 	1 	11 	0 	,
+Est 	9 	23 	1 	12 	1 	and 	CC
+Est 	9 	23 	1 	13 	1 	as 	IN
+Est 	9 	23 	1 	14 	1 	Mordecai 	NN
+Est 	9 	23 	1 	15 	1 	had 	VBD
+Est 	9 	23 	1 	16 	1 	written 	VBN
+Est 	9 	23 	1 	17 	1 	unto 	NN
+Est 	9 	23 	1 	18 	1 	them 	PRP
+Est 	9 	23 	1 	19 	0 	;
+Est 	9 	24 	1 	1 	1 	Because 	IN
+Est 	9 	24 	1 	2 	1 	Haman 	NN
+Est 	9 	24 	1 	3 	1 	the 	DT
+Est 	9 	24 	1 	4 	1 	son 	NN
+Est 	9 	24 	1 	5 	1 	of 	IN
+Est 	9 	24 	1 	6 	1 	Hammedatha 	NN
+Est 	9 	24 	1 	7 	0 	,
+Est 	9 	24 	1 	8 	1 	the 	DT
+Est 	9 	24 	1 	9 	1 	Agagite 	NNP
+Est 	9 	24 	1 	10 	0 	,
+Est 	9 	24 	1 	11 	1 	the 	DT
+Est 	9 	24 	1 	12 	1 	enemy 	NN
+Est 	9 	24 	1 	13 	1 	of 	IN
+Est 	9 	24 	1 	14 	1 	all 	DT
+Est 	9 	24 	1 	15 	1 	the 	DT
+Est 	9 	24 	1 	16 	1 	Jews 	NNS
+Est 	9 	24 	1 	17 	0 	,
+Est 	9 	24 	1 	18 	1 	had 	VBD
+Est 	9 	24 	1 	19 	1 	devised 	VBN
+Est 	9 	24 	1 	20 	1 	against 	IN
+Est 	9 	24 	1 	21 	1 	the 	DT
+Est 	9 	24 	1 	22 	1 	Jews 	NNS
+Est 	9 	24 	1 	23 	1 	to 	TO
+Est 	9 	24 	1 	24 	1 	destroy 	NN
+Est 	9 	24 	1 	25 	1 	them 	PRP
+Est 	9 	24 	1 	26 	0 	,
+Est 	9 	24 	1 	27 	1 	and 	CC
+Est 	9 	24 	1 	28 	1 	had 	VBD
+Est 	9 	24 	1 	29 	1 	cast 	NN
+Est 	9 	24 	1 	30 	1 	Pur 	NN
+Est 	9 	24 	1 	31 	0 	,
+Est 	9 	24 	1 	32 	1 	that 	IN
+Est 	9 	24 	1 	33 	1 	is 	VBZ
+Est 	9 	24 	1 	34 	0 	,
+Est 	9 	24 	1 	35 	1 	the 	DT
+Est 	9 	24 	1 	36 	1 	lot 	NN
+Est 	9 	24 	1 	37 	0 	,
+Est 	9 	24 	1 	38 	1 	to 	TO
+Est 	9 	24 	1 	39 	1 	consume 	NN
+Est 	9 	24 	1 	40 	1 	them 	PRP
+Est 	9 	24 	1 	41 	0 	,
+Est 	9 	24 	1 	42 	1 	and 	CC
+Est 	9 	24 	1 	43 	1 	to 	TO
+Est 	9 	24 	1 	44 	1 	destroy 	NN
+Est 	9 	24 	1 	45 	1 	them 	PRP
+Est 	9 	24 	1 	46 	0 	;
+Est 	9 	25 	1 	1 	1 	But 	CC
+Est 	9 	25 	1 	2 	1 	when 	WRB
+Est 	9 	25 	1 	3 	1 	Esther 	NN
+Est 	9 	25 	1 	4 	1 	came 	VBD
+Est 	9 	25 	1 	5 	1 	before 	IN
+Est 	9 	25 	1 	6 	1 	the 	DT
+Est 	9 	25 	1 	7 	1 	king 	NN
+Est 	9 	25 	1 	8 	0 	,
+Est 	9 	25 	1 	9 	1 	he 	PRP
+Est 	9 	25 	1 	10 	1 	commanded 	VBN
+Est 	9 	25 	1 	11 	1 	by 	IN
+Est 	9 	25 	1 	12 	1 	letters 	NNS
+Est 	9 	25 	1 	13 	1 	that 	IN
+Est 	9 	25 	1 	14 	1 	his 	PRP$
+Est 	9 	25 	1 	15 	1 	wicked 	VBD
+Est 	9 	25 	1 	16 	1 	device 	NN
+Est 	9 	25 	1 	17 	0 	,
+Est 	9 	25 	1 	18 	1 	which 	WDT
+Est 	9 	25 	1 	19 	1 	he 	PRP
+Est 	9 	25 	1 	20 	1 	devised 	VBN
+Est 	9 	25 	1 	21 	1 	against 	IN
+Est 	9 	25 	1 	22 	1 	the 	DT
+Est 	9 	25 	1 	23 	1 	Jews 	NNS
+Est 	9 	25 	1 	24 	0 	,
+Est 	9 	25 	1 	25 	1 	should 	MD
+Est 	9 	25 	1 	26 	1 	return 	NN
+Est 	9 	25 	1 	27 	1 	upon 	IN
+Est 	9 	25 	1 	28 	1 	his 	PRP$
+Est 	9 	25 	1 	29 	1 	own 	JJ
+Est 	9 	25 	1 	30 	1 	head 	NN
+Est 	9 	25 	1 	31 	0 	,
+Est 	9 	25 	1 	32 	1 	and 	CC
+Est 	9 	25 	1 	33 	1 	that 	IN
+Est 	9 	25 	1 	34 	1 	he 	PRP
+Est 	9 	25 	1 	35 	1 	and 	CC
+Est 	9 	25 	1 	36 	1 	his 	PRP$
+Est 	9 	25 	1 	37 	1 	sons 	NNS
+Est 	9 	25 	1 	38 	1 	should 	MD
+Est 	9 	25 	1 	39 	1 	be 	VB
+Est 	9 	25 	1 	40 	1 	hanged 	VBN
+Est 	9 	25 	1 	41 	1 	on 	IN
+Est 	9 	25 	1 	42 	1 	the 	DT
+Est 	9 	25 	1 	43 	1 	gallows 	NNS
+Est 	9 	25 	1 	44 	0 	.
+Est 	9 	26 	1 	1 	1 	Wherefore 	IN
+Est 	9 	26 	1 	2 	1 	they 	PRP
+Est 	9 	26 	1 	3 	1 	called 	VBN
+Est 	9 	26 	1 	4 	1 	these 	DT
+Est 	9 	26 	1 	5 	1 	days 	NNS
+Est 	9 	26 	1 	6 	1 	Purim 	NN
+Est 	9 	26 	1 	7 	1 	after 	IN
+Est 	9 	26 	1 	8 	1 	the 	DT
+Est 	9 	26 	1 	9 	1 	name 	NN
+Est 	9 	26 	1 	10 	1 	of 	IN
+Est 	9 	26 	1 	11 	1 	Pur 	NN
+Est 	9 	26 	1 	12 	0 	.
+Est 	9 	26 	2 	1 	1 	Therefore 	RB
+Est 	9 	26 	2 	2 	1 	for 	IN
+Est 	9 	26 	2 	3 	1 	all 	DT
+Est 	9 	26 	2 	4 	1 	the 	DT
+Est 	9 	26 	2 	5 	1 	words 	NNS
+Est 	9 	26 	2 	6 	1 	of 	IN
+Est 	9 	26 	2 	7 	1 	this 	DT
+Est 	9 	26 	2 	8 	1 	letter 	NN
+Est 	9 	26 	2 	9 	0 	,
+Est 	9 	26 	2 	10 	1 	and 	CC
+Est 	9 	26 	2 	11 	1 	of 	IN
+Est 	9 	26 	2 	12 	1 	that 	IN
+Est 	9 	26 	2 	13 	1 	which 	WDT
+Est 	9 	26 	2 	14 	1 	they 	PRP
+Est 	9 	26 	2 	15 	1 	had 	VBD
+Est 	9 	26 	2 	16 	1 	seen 	VBN
+Est 	9 	26 	2 	17 	1 	concerning 	VBG
+Est 	9 	26 	2 	18 	1 	this 	DT
+Est 	9 	26 	2 	19 	1 	matter 	NN
+Est 	9 	26 	2 	20 	0 	,
+Est 	9 	26 	2 	21 	1 	and 	CC
+Est 	9 	26 	2 	22 	1 	which 	WDT
+Est 	9 	26 	2 	23 	1 	had 	VBD
+Est 	9 	26 	2 	24 	1 	come 	VB
+Est 	9 	26 	2 	25 	1 	unto 	NN
+Est 	9 	26 	2 	26 	1 	them 	PRP
+Est 	9 	26 	2 	27 	0 	,
+Est 	9 	27 	1 	1 	1 	The 	DT
+Est 	9 	27 	1 	2 	1 	Jews 	NNS
+Est 	9 	27 	1 	3 	1 	ordained 	VBN
+Est 	9 	27 	1 	4 	0 	,
+Est 	9 	27 	1 	5 	1 	and 	CC
+Est 	9 	27 	1 	6 	1 	took 	VBD
+Est 	9 	27 	1 	7 	1 	upon 	IN
+Est 	9 	27 	1 	8 	1 	them 	PRP
+Est 	9 	27 	1 	9 	0 	,
+Est 	9 	27 	1 	10 	1 	and 	CC
+Est 	9 	27 	1 	11 	1 	upon 	IN
+Est 	9 	27 	1 	12 	1 	their 	PRP$
+Est 	9 	27 	1 	13 	1 	seed 	NN
+Est 	9 	27 	1 	14 	0 	,
+Est 	9 	27 	1 	15 	1 	and 	CC
+Est 	9 	27 	1 	16 	1 	upon 	IN
+Est 	9 	27 	1 	17 	1 	all 	DT
+Est 	9 	27 	1 	18 	1 	such 	JJ
+Est 	9 	27 	1 	19 	1 	as 	IN
+Est 	9 	27 	1 	20 	1 	joined 	VBD
+Est 	9 	27 	1 	21 	1 	themselves 	PRP
+Est 	9 	27 	1 	22 	1 	unto 	NN
+Est 	9 	27 	1 	23 	1 	them 	PRP
+Est 	9 	27 	1 	24 	0 	,
+Est 	9 	27 	1 	25 	1 	so 	RB
+Est 	9 	27 	1 	26 	1 	as 	IN
+Est 	9 	27 	1 	27 	1 	it 	PRP
+Est 	9 	27 	1 	28 	1 	should 	MD
+Est 	9 	27 	1 	29 	1 	not 	RB
+Est 	9 	27 	1 	30 	1 	fail 	NN
+Est 	9 	27 	1 	31 	0 	,
+Est 	9 	27 	1 	32 	1 	that 	IN
+Est 	9 	27 	1 	33 	1 	they 	PRP
+Est 	9 	27 	1 	34 	1 	would 	MD
+Est 	9 	27 	1 	35 	1 	keep 	VB
+Est 	9 	27 	1 	36 	1 	these 	DT
+Est 	9 	27 	1 	37 	1 	two 	CD
+Est 	9 	27 	1 	38 	1 	days 	NNS
+Est 	9 	27 	1 	39 	1 	according 	VBG
+Est 	9 	27 	1 	40 	1 	to 	TO
+Est 	9 	27 	1 	41 	1 	their 	PRP$
+Est 	9 	27 	1 	42 	1 	writing 	VBG
+Est 	9 	27 	1 	43 	0 	,
+Est 	9 	27 	1 	44 	1 	and 	CC
+Est 	9 	27 	1 	45 	1 	according 	VBG
+Est 	9 	27 	1 	46 	1 	to 	TO
+Est 	9 	27 	1 	47 	1 	their 	PRP$
+Est 	9 	27 	1 	48 	1 	appointed 	VBN
+Est 	9 	27 	1 	49 	1 	time 	NN
+Est 	9 	27 	1 	50 	1 	every 	DT
+Est 	9 	27 	1 	51 	1 	year 	NN
+Est 	9 	27 	1 	52 	0 	;
+Est 	9 	28 	1 	1 	1 	And 	CC
+Est 	9 	28 	1 	2 	1 	that 	IN
+Est 	9 	28 	1 	3 	1 	these 	DT
+Est 	9 	28 	1 	4 	1 	days 	NNS
+Est 	9 	28 	1 	5 	1 	should 	MD
+Est 	9 	28 	1 	6 	1 	be 	VB
+Est 	9 	28 	1 	7 	1 	remembered 	VBN
+Est 	9 	28 	1 	8 	1 	and 	CC
+Est 	9 	28 	1 	9 	1 	kept 	NN
+Est 	9 	28 	1 	10 	1 	throughout 	IN
+Est 	9 	28 	1 	11 	1 	every 	DT
+Est 	9 	28 	1 	12 	1 	generation 	NN
+Est 	9 	28 	1 	13 	0 	,
+Est 	9 	28 	1 	14 	1 	every 	DT
+Est 	9 	28 	1 	15 	1 	family 	NN
+Est 	9 	28 	1 	16 	0 	,
+Est 	9 	28 	1 	17 	1 	every 	DT
+Est 	9 	28 	1 	18 	1 	province 	NN
+Est 	9 	28 	1 	19 	0 	,
+Est 	9 	28 	1 	20 	1 	and 	CC
+Est 	9 	28 	1 	21 	1 	every 	DT
+Est 	9 	28 	1 	22 	1 	city 	NN
+Est 	9 	28 	1 	23 	0 	;
+Est 	9 	28 	1 	24 	1 	and 	CC
+Est 	9 	28 	1 	25 	1 	that 	IN
+Est 	9 	28 	1 	26 	1 	these 	DT
+Est 	9 	28 	1 	27 	1 	days 	NNS
+Est 	9 	28 	1 	28 	1 	of 	IN
+Est 	9 	28 	1 	29 	1 	Purim 	NN
+Est 	9 	28 	1 	30 	1 	should 	MD
+Est 	9 	28 	1 	31 	1 	not 	RB
+Est 	9 	28 	1 	32 	1 	fail 	NN
+Est 	9 	28 	1 	33 	1 	from 	IN
+Est 	9 	28 	1 	34 	1 	among 	IN
+Est 	9 	28 	1 	35 	1 	the 	DT
+Est 	9 	28 	1 	36 	1 	Jews 	NNS
+Est 	9 	28 	1 	37 	0 	,
+Est 	9 	28 	1 	38 	1 	nor 	CC
+Est 	9 	28 	1 	39 	1 	the 	DT
+Est 	9 	28 	1 	40 	1 	memorial 	NN
+Est 	9 	28 	1 	41 	1 	of 	IN
+Est 	9 	28 	1 	42 	1 	them 	PRP
+Est 	9 	28 	1 	43 	1 	perish 	NN
+Est 	9 	28 	1 	44 	1 	from 	IN
+Est 	9 	28 	1 	45 	1 	their 	PRP$
+Est 	9 	28 	1 	46 	1 	seed 	NN
+Est 	9 	28 	1 	47 	0 	.
+Est 	9 	29 	1 	1 	1 	Then 	RB
+Est 	9 	29 	1 	2 	1 	Esther 	NN
+Est 	9 	29 	1 	3 	1 	the 	DT
+Est 	9 	29 	1 	4 	1 	queen 	NN
+Est 	9 	29 	1 	5 	0 	,
+Est 	9 	29 	1 	6 	1 	the 	DT
+Est 	9 	29 	1 	7 	1 	daughter 	NN
+Est 	9 	29 	1 	8 	1 	of 	IN
+Est 	9 	29 	1 	9 	1 	Abihail 	NN
+Est 	9 	29 	1 	10 	0 	,
+Est 	9 	29 	1 	11 	1 	and 	CC
+Est 	9 	29 	1 	12 	1 	Mordecai 	NN
+Est 	9 	29 	1 	13 	1 	the 	DT
+Est 	9 	29 	1 	14 	1 	Jew 	NN
+Est 	9 	29 	1 	15 	0 	,
+Est 	9 	29 	1 	16 	1 	wrote 	VBD
+Est 	9 	29 	1 	17 	1 	with 	IN
+Est 	9 	29 	1 	18 	1 	all 	DT
+Est 	9 	29 	1 	19 	1 	authority 	NN
+Est 	9 	29 	1 	20 	0 	,
+Est 	9 	29 	1 	21 	1 	to 	TO
+Est 	9 	29 	1 	22 	1 	confirm 	NN
+Est 	9 	29 	1 	23 	1 	this 	DT
+Est 	9 	29 	1 	24 	1 	second 	JJ
+Est 	9 	29 	1 	25 	1 	letter 	NN
+Est 	9 	29 	1 	26 	1 	of 	IN
+Est 	9 	29 	1 	27 	1 	Purim 	NN
+Est 	9 	29 	1 	28 	0 	.
+Est 	9 	30 	1 	1 	1 	And 	CC
+Est 	9 	30 	1 	2 	1 	he 	PRP
+Est 	9 	30 	1 	3 	1 	sent 	NN
+Est 	9 	30 	1 	4 	1 	the 	DT
+Est 	9 	30 	1 	5 	1 	letters 	NNS
+Est 	9 	30 	1 	6 	1 	unto 	NN
+Est 	9 	30 	1 	7 	1 	all 	DT
+Est 	9 	30 	1 	8 	1 	the 	DT
+Est 	9 	30 	1 	9 	1 	Jews 	NNS
+Est 	9 	30 	1 	10 	0 	,
+Est 	9 	30 	1 	11 	1 	to 	TO
+Est 	9 	30 	1 	12 	1 	the 	DT
+Est 	9 	30 	1 	13 	1 	hundred 	VBN
+Est 	9 	30 	1 	14 	1 	twenty 	NN
+Est 	9 	30 	1 	15 	1 	and 	CC
+Est 	9 	30 	1 	16 	1 	seven 	CD
+Est 	9 	30 	1 	17 	1 	provinces 	NNS
+Est 	9 	30 	1 	18 	1 	of 	IN
+Est 	9 	30 	1 	19 	1 	the 	DT
+Est 	9 	30 	1 	20 	1 	kingdom 	NN
+Est 	9 	30 	1 	21 	1 	of 	IN
+Est 	9 	30 	1 	22 	1 	Ahasuerus 	NN
+Est 	9 	30 	1 	23 	0 	,
+Est 	9 	30 	1 	24 	1 	with 	IN
+Est 	9 	30 	1 	25 	1 	words 	NNS
+Est 	9 	30 	1 	26 	1 	of 	IN
+Est 	9 	30 	1 	27 	1 	peace 	NN
+Est 	9 	30 	1 	28 	1 	and 	CC
+Est 	9 	30 	1 	29 	1 	truth 	NN
+Est 	9 	30 	1 	30 	0 	,
+Est 	9 	31 	1 	1 	1 	To 	TO
+Est 	9 	31 	1 	2 	1 	confirm 	NN
+Est 	9 	31 	1 	3 	1 	these 	DT
+Est 	9 	31 	1 	4 	1 	days 	NNS
+Est 	9 	31 	1 	5 	1 	of 	IN
+Est 	9 	31 	1 	6 	1 	Purim 	NN
+Est 	9 	31 	1 	7 	1 	in 	IN
+Est 	9 	31 	1 	8 	1 	their 	PRP$
+Est 	9 	31 	1 	9 	1 	times 	NNS
+Est 	9 	31 	1 	10 	1 	appointed 	VBN
+Est 	9 	31 	1 	11 	0 	,
+Est 	9 	31 	1 	12 	1 	according 	VBG
+Est 	9 	31 	1 	13 	1 	as 	IN
+Est 	9 	31 	1 	14 	1 	Mordecai 	NN
+Est 	9 	31 	1 	15 	1 	the 	DT
+Est 	9 	31 	1 	16 	1 	Jew 	NN
+Est 	9 	31 	1 	17 	1 	and 	CC
+Est 	9 	31 	1 	18 	1 	Esther 	NN
+Est 	9 	31 	1 	19 	1 	the 	DT
+Est 	9 	31 	1 	20 	1 	queen 	NN
+Est 	9 	31 	1 	21 	1 	had 	VBD
+Est 	9 	31 	1 	22 	1 	enjoined 	VBN
+Est 	9 	31 	1 	23 	1 	them 	PRP
+Est 	9 	31 	1 	24 	0 	,
+Est 	9 	31 	1 	25 	1 	and 	CC
+Est 	9 	31 	1 	26 	1 	as 	IN
+Est 	9 	31 	1 	27 	1 	they 	PRP
+Est 	9 	31 	1 	28 	1 	had 	VBD
+Est 	9 	31 	1 	29 	1 	decreed 	NN
+Est 	9 	31 	1 	30 	1 	for 	IN
+Est 	9 	31 	1 	31 	1 	themselves 	PRP
+Est 	9 	31 	1 	32 	1 	and 	CC
+Est 	9 	31 	1 	33 	1 	for 	IN
+Est 	9 	31 	1 	34 	1 	their 	PRP$
+Est 	9 	31 	1 	35 	1 	seed 	NN
+Est 	9 	31 	1 	36 	0 	,
+Est 	9 	31 	1 	37 	1 	the 	DT
+Est 	9 	31 	1 	38 	1 	matters 	NNS
+Est 	9 	31 	1 	39 	1 	of 	IN
+Est 	9 	31 	1 	40 	1 	the 	DT
+Est 	9 	31 	1 	41 	1 	fastings 	NNS
+Est 	9 	31 	1 	42 	1 	and 	CC
+Est 	9 	31 	1 	43 	1 	their 	PRP$
+Est 	9 	31 	1 	44 	1 	cry 	NN
+Est 	9 	31 	1 	45 	0 	.
+Est 	9 	32 	1 	1 	1 	And 	CC
+Est 	9 	32 	1 	2 	1 	the 	DT
+Est 	9 	32 	1 	3 	1 	decree 	NN
+Est 	9 	32 	1 	4 	1 	of 	IN
+Est 	9 	32 	1 	5 	1 	Esther 	NN
+Est 	9 	32 	1 	6 	1 	confirmed 	VBN
+Est 	9 	32 	1 	7 	1 	these 	DT
+Est 	9 	32 	1 	8 	1 	matters 	NNS
+Est 	9 	32 	1 	9 	1 	of 	IN
+Est 	9 	32 	1 	10 	1 	Purim 	NN
+Est 	9 	32 	1 	11 	0 	;
+Est 	9 	32 	1 	12 	1 	and 	CC
+Est 	9 	32 	1 	13 	1 	it 	PRP
+Est 	9 	32 	1 	14 	1 	was 	VBD
+Est 	9 	32 	1 	15 	1 	written 	VBN
+Est 	9 	32 	1 	16 	1 	in 	IN
+Est 	9 	32 	1 	17 	1 	the 	DT
+Est 	9 	32 	1 	18 	1 	book 	NN
+Est 	9 	32 	1 	19 	0 	.
+Est 	10 	1 	1 	1 	1 	And 	CC
+Est 	10 	1 	1 	2 	1 	the 	DT
+Est 	10 	1 	1 	3 	1 	king 	NN
+Est 	10 	1 	1 	4 	1 	Ahasuerus 	NN
+Est 	10 	1 	1 	5 	1 	laid 	NN
+Est 	10 	1 	1 	6 	1 	a 	DT
+Est 	10 	1 	1 	7 	1 	tribute 	NN
+Est 	10 	1 	1 	8 	1 	upon 	IN
+Est 	10 	1 	1 	9 	1 	the 	DT
+Est 	10 	1 	1 	10 	1 	land 	NN
+Est 	10 	1 	1 	11 	0 	,
+Est 	10 	1 	1 	12 	1 	and 	CC
+Est 	10 	1 	1 	13 	1 	upon 	IN
+Est 	10 	1 	1 	14 	1 	the 	DT
+Est 	10 	1 	1 	15 	1 	isles 	NNS
+Est 	10 	1 	1 	16 	1 	of 	IN
+Est 	10 	1 	1 	17 	1 	the 	DT
+Est 	10 	1 	1 	18 	1 	sea 	NN
+Est 	10 	1 	1 	19 	0 	.
+Est 	10 	2 	1 	1 	1 	And 	CC
+Est 	10 	2 	1 	2 	1 	all 	DT
+Est 	10 	2 	1 	3 	1 	the 	DT
+Est 	10 	2 	1 	4 	1 	acts 	NNS
+Est 	10 	2 	1 	5 	1 	of 	IN
+Est 	10 	2 	1 	6 	1 	his 	PRP$
+Est 	10 	2 	1 	7 	1 	power 	NN
+Est 	10 	2 	1 	8 	1 	and 	CC
+Est 	10 	2 	1 	9 	1 	of 	IN
+Est 	10 	2 	1 	10 	1 	his 	PRP$
+Est 	10 	2 	1 	11 	1 	might 	MD
+Est 	10 	2 	1 	12 	0 	,
+Est 	10 	2 	1 	13 	1 	and 	CC
+Est 	10 	2 	1 	14 	1 	the 	DT
+Est 	10 	2 	1 	15 	1 	declaration 	NN
+Est 	10 	2 	1 	16 	1 	of 	IN
+Est 	10 	2 	1 	17 	1 	the 	DT
+Est 	10 	2 	1 	18 	1 	greatness 	NN
+Est 	10 	2 	1 	19 	1 	of 	IN
+Est 	10 	2 	1 	20 	1 	Mordecai 	NN
+Est 	10 	2 	1 	21 	0 	,
+Est 	10 	2 	1 	22 	1 	whereunto 	NN
+Est 	10 	2 	1 	23 	1 	the 	DT
+Est 	10 	2 	1 	24 	1 	king 	NN
+Est 	10 	2 	1 	25 	1 	advanced 	JJ
+Est 	10 	2 	1 	26 	1 	him 	PRP
+Est 	10 	2 	1 	27 	0 	,
+Est 	10 	2 	1 	28 	1 	are 	VBP
+Est 	10 	2 	1 	29 	1 	they 	PRP
+Est 	10 	2 	1 	30 	1 	not 	RB
+Est 	10 	2 	1 	31 	1 	written 	VBN
+Est 	10 	2 	1 	32 	1 	in 	IN
+Est 	10 	2 	1 	33 	1 	the 	DT
+Est 	10 	2 	1 	34 	1 	book 	NN
+Est 	10 	2 	1 	35 	1 	of 	IN
+Est 	10 	2 	1 	36 	1 	the 	DT
+Est 	10 	2 	1 	37 	1 	chronicles 	NNS
+Est 	10 	2 	1 	38 	1 	of 	IN
+Est 	10 	2 	1 	39 	1 	the 	DT
+Est 	10 	2 	1 	40 	1 	kings 	NNS
+Est 	10 	2 	1 	41 	1 	of 	IN
+Est 	10 	2 	1 	42 	1 	Media 	NNP
+Est 	10 	2 	1 	43 	1 	and 	CC
+Est 	10 	2 	1 	44 	1 	Persia 	NN
+Est 	10 	2 	1 	45 	0 	?
+Est 	10 	3 	1 	1 	1 	For 	IN
+Est 	10 	3 	1 	2 	1 	Mordecai 	NN
+Est 	10 	3 	1 	3 	1 	the 	DT
+Est 	10 	3 	1 	4 	1 	Jew 	NN
+Est 	10 	3 	1 	5 	1 	was 	VBD
+Est 	10 	3 	1 	6 	1 	next 	JJ
+Est 	10 	3 	1 	7 	1 	unto 	NN
+Est 	10 	3 	1 	8 	1 	king 	NN
+Est 	10 	3 	1 	9 	1 	Ahasuerus 	NN
+Est 	10 	3 	1 	10 	0 	,
+Est 	10 	3 	1 	11 	1 	and 	CC
+Est 	10 	3 	1 	12 	1 	great 	JJ
+Est 	10 	3 	1 	13 	1 	among 	IN
+Est 	10 	3 	1 	14 	1 	the 	DT
+Est 	10 	3 	1 	15 	1 	Jews 	NNS
+Est 	10 	3 	1 	16 	0 	,
+Est 	10 	3 	1 	17 	1 	and 	CC
+Est 	10 	3 	1 	18 	1 	accepted 	JJ
+Est 	10 	3 	1 	19 	1 	of 	IN
+Est 	10 	3 	1 	20 	1 	the 	DT
+Est 	10 	3 	1 	21 	1 	multitude 	NN
+Est 	10 	3 	1 	22 	1 	of 	IN
+Est 	10 	3 	1 	23 	1 	his 	PRP$
+Est 	10 	3 	1 	24 	1 	brethren 	NNS
+Est 	10 	3 	1 	25 	0 	,
+Est 	10 	3 	1 	26 	1 	seeking 	VBG
+Est 	10 	3 	1 	27 	1 	the 	DT
+Est 	10 	3 	1 	28 	1 	wealth 	NN
+Est 	10 	3 	1 	29 	1 	of 	IN
+Est 	10 	3 	1 	30 	1 	his 	PRP$
+Est 	10 	3 	1 	31 	1 	people 	NNS
+Est 	10 	3 	1 	32 	0 	,
+Est 	10 	3 	1 	33 	1 	and 	CC
+Est 	10 	3 	1 	34 	1 	speaking 	VBG
+Est 	10 	3 	1 	35 	1 	peace 	NN
+Est 	10 	3 	1 	36 	1 	to 	TO
+Est 	10 	3 	1 	37 	1 	all 	DT
+Est 	10 	3 	1 	38 	1 	his 	PRP$
+Est 	10 	3 	1 	39 	1 	seed 	NN
+Est 	10 	3 	1 	40 	0 	.

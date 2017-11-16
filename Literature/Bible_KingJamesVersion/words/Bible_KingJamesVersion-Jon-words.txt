@@ -1,0 +1,1544 @@
+book	chapter	verse_order	sentence_order	word_order	word=1	word_or_punct	word_class
+Jon 	1 	1 	1 	1 	1 	Now 	RB
+Jon 	1 	1 	1 	2 	1 	the 	DT
+Jon 	1 	1 	1 	3 	1 	word 	NN
+Jon 	1 	1 	1 	4 	1 	of 	IN
+Jon 	1 	1 	1 	5 	1 	the 	DT
+Jon 	1 	1 	1 	6 	1 	LORD 	NN
+Jon 	1 	1 	1 	7 	1 	came 	VBD
+Jon 	1 	1 	1 	8 	1 	unto 	NN
+Jon 	1 	1 	1 	9 	1 	Jonah 	NN
+Jon 	1 	1 	1 	10 	1 	the 	DT
+Jon 	1 	1 	1 	11 	1 	son 	NN
+Jon 	1 	1 	1 	12 	1 	of 	IN
+Jon 	1 	1 	1 	13 	1 	Amittai 	NN
+Jon 	1 	1 	1 	14 	0 	,
+Jon 	1 	1 	1 	15 	1 	saying 	VBG
+Jon 	1 	1 	1 	16 	0 	,
+Jon 	1 	2 	1 	1 	1 	Arise 	NN
+Jon 	1 	2 	1 	2 	0 	,
+Jon 	1 	2 	1 	3 	1 	go 	VB
+Jon 	1 	2 	1 	4 	1 	to 	TO
+Jon 	1 	2 	1 	5 	1 	Nineveh 	NN
+Jon 	1 	2 	1 	6 	0 	,
+Jon 	1 	2 	1 	7 	1 	that 	IN
+Jon 	1 	2 	1 	8 	1 	great 	JJ
+Jon 	1 	2 	1 	9 	1 	city 	NN
+Jon 	1 	2 	1 	10 	0 	,
+Jon 	1 	2 	1 	11 	1 	and 	CC
+Jon 	1 	2 	1 	12 	1 	cry 	NN
+Jon 	1 	2 	1 	13 	1 	against 	IN
+Jon 	1 	2 	1 	14 	1 	it 	PRP
+Jon 	1 	2 	1 	15 	0 	;
+Jon 	1 	2 	1 	16 	1 	for 	IN
+Jon 	1 	2 	1 	17 	1 	their 	PRP$
+Jon 	1 	2 	1 	18 	1 	wickedness 	NN
+Jon 	1 	2 	1 	19 	1 	is 	VBZ
+Jon 	1 	2 	1 	20 	1 	come 	VB
+Jon 	1 	2 	1 	21 	1 	up 	RB
+Jon 	1 	2 	1 	22 	1 	before 	IN
+Jon 	1 	2 	1 	23 	1 	me 	PRP
+Jon 	1 	2 	1 	24 	0 	.
+Jon 	1 	3 	1 	1 	1 	But 	CC
+Jon 	1 	3 	1 	2 	1 	Jonah 	NN
+Jon 	1 	3 	1 	3 	1 	rose 	VBD
+Jon 	1 	3 	1 	4 	1 	up 	RB
+Jon 	1 	3 	1 	5 	1 	to 	TO
+Jon 	1 	3 	1 	6 	1 	flee 	NN
+Jon 	1 	3 	1 	7 	1 	unto 	NN
+Jon 	1 	3 	1 	8 	1 	Tarshish 	VB
+Jon 	1 	3 	1 	9 	1 	from 	IN
+Jon 	1 	3 	1 	10 	1 	the 	DT
+Jon 	1 	3 	1 	11 	1 	presence 	NN
+Jon 	1 	3 	1 	12 	1 	of 	IN
+Jon 	1 	3 	1 	13 	1 	the 	DT
+Jon 	1 	3 	1 	14 	1 	LORD 	NN
+Jon 	1 	3 	1 	15 	0 	,
+Jon 	1 	3 	1 	16 	1 	and 	CC
+Jon 	1 	3 	1 	17 	1 	went 	VBD
+Jon 	1 	3 	1 	18 	1 	down 	RB
+Jon 	1 	3 	1 	19 	1 	to 	TO
+Jon 	1 	3 	1 	20 	1 	Joppa 	NN
+Jon 	1 	3 	1 	21 	0 	;
+Jon 	1 	3 	1 	22 	1 	and 	CC
+Jon 	1 	3 	1 	23 	1 	he 	PRP
+Jon 	1 	3 	1 	24 	1 	found 	NN
+Jon 	1 	3 	1 	25 	1 	a 	DT
+Jon 	1 	3 	1 	26 	1 	ship 	NN
+Jon 	1 	3 	1 	27 	1 	going 	VBG
+Jon 	1 	3 	1 	28 	1 	to 	TO
+Jon 	1 	3 	1 	29 	1 	Tarshish 	VB
+Jon 	1 	3 	1 	30 	0 	:
+Jon 	1 	3 	1 	31 	1 	so 	RB
+Jon 	1 	3 	1 	32 	1 	he 	PRP
+Jon 	1 	3 	1 	33 	1 	paid 	NN
+Jon 	1 	3 	1 	34 	1 	the 	DT
+Jon 	1 	3 	1 	35 	1 	fare 	NN
+Jon 	1 	3 	1 	36 	1 	thereof 	NN
+Jon 	1 	3 	1 	37 	0 	,
+Jon 	1 	3 	1 	38 	1 	and 	CC
+Jon 	1 	3 	1 	39 	1 	went 	VBD
+Jon 	1 	3 	1 	40 	1 	down 	RB
+Jon 	1 	3 	1 	41 	1 	into 	IN
+Jon 	1 	3 	1 	42 	1 	it 	PRP
+Jon 	1 	3 	1 	43 	0 	,
+Jon 	1 	3 	1 	44 	1 	to 	TO
+Jon 	1 	3 	1 	45 	1 	go 	VB
+Jon 	1 	3 	1 	46 	1 	with 	IN
+Jon 	1 	3 	1 	47 	1 	them 	PRP
+Jon 	1 	3 	1 	48 	1 	unto 	NN
+Jon 	1 	3 	1 	49 	1 	Tarshish 	VB
+Jon 	1 	3 	1 	50 	1 	from 	IN
+Jon 	1 	3 	1 	51 	1 	the 	DT
+Jon 	1 	3 	1 	52 	1 	presence 	NN
+Jon 	1 	3 	1 	53 	1 	of 	IN
+Jon 	1 	3 	1 	54 	1 	the 	DT
+Jon 	1 	3 	1 	55 	1 	LORD 	NN
+Jon 	1 	3 	1 	56 	0 	.
+Jon 	1 	4 	1 	1 	1 	But 	CC
+Jon 	1 	4 	1 	2 	1 	the 	DT
+Jon 	1 	4 	1 	3 	1 	LORD 	NN
+Jon 	1 	4 	1 	4 	1 	sent 	NN
+Jon 	1 	4 	1 	5 	1 	out 	IN
+Jon 	1 	4 	1 	6 	1 	a 	DT
+Jon 	1 	4 	1 	7 	1 	great 	JJ
+Jon 	1 	4 	1 	8 	1 	wind 	NN
+Jon 	1 	4 	1 	9 	1 	into 	IN
+Jon 	1 	4 	1 	10 	1 	the 	DT
+Jon 	1 	4 	1 	11 	1 	sea 	NN
+Jon 	1 	4 	1 	12 	0 	,
+Jon 	1 	4 	1 	13 	1 	and 	CC
+Jon 	1 	4 	1 	14 	1 	there 	RB
+Jon 	1 	4 	1 	15 	1 	was 	VBD
+Jon 	1 	4 	1 	16 	1 	a 	DT
+Jon 	1 	4 	1 	17 	1 	mighty 	NN
+Jon 	1 	4 	1 	18 	1 	tempest 	NN
+Jon 	1 	4 	1 	19 	1 	in 	IN
+Jon 	1 	4 	1 	20 	1 	the 	DT
+Jon 	1 	4 	1 	21 	1 	sea 	NN
+Jon 	1 	4 	1 	22 	0 	,
+Jon 	1 	4 	1 	23 	1 	so 	RB
+Jon 	1 	4 	1 	24 	1 	that 	IN
+Jon 	1 	4 	1 	25 	1 	the 	DT
+Jon 	1 	4 	1 	26 	1 	ship 	NN
+Jon 	1 	4 	1 	27 	1 	was 	VBD
+Jon 	1 	4 	1 	28 	1 	like 	IN
+Jon 	1 	4 	1 	29 	1 	to 	TO
+Jon 	1 	4 	1 	30 	1 	be 	VB
+Jon 	1 	4 	1 	31 	1 	broken 	NN
+Jon 	1 	4 	1 	32 	0 	.
+Jon 	1 	5 	1 	1 	1 	Then 	RB
+Jon 	1 	5 	1 	2 	1 	the 	DT
+Jon 	1 	5 	1 	3 	1 	mariners 	NNS
+Jon 	1 	5 	1 	4 	1 	were 	VBD
+Jon 	1 	5 	1 	5 	1 	afraid 	NN
+Jon 	1 	5 	1 	6 	0 	,
+Jon 	1 	5 	1 	7 	1 	and 	CC
+Jon 	1 	5 	1 	8 	1 	cried 	VBN
+Jon 	1 	5 	1 	9 	1 	every 	DT
+Jon 	1 	5 	1 	10 	1 	man 	NN
+Jon 	1 	5 	1 	11 	1 	unto 	NN
+Jon 	1 	5 	1 	12 	1 	his 	PRP$
+Jon 	1 	5 	1 	13 	1 	god 	NN
+Jon 	1 	5 	1 	14 	0 	,
+Jon 	1 	5 	1 	15 	1 	and 	CC
+Jon 	1 	5 	1 	16 	1 	cast 	NN
+Jon 	1 	5 	1 	17 	1 	forth 	NN
+Jon 	1 	5 	1 	18 	1 	the 	DT
+Jon 	1 	5 	1 	19 	1 	wares 	NNS
+Jon 	1 	5 	1 	20 	1 	that 	IN
+Jon 	1 	5 	1 	21 	1 	were 	VBD
+Jon 	1 	5 	1 	22 	1 	in 	IN
+Jon 	1 	5 	1 	23 	1 	the 	DT
+Jon 	1 	5 	1 	24 	1 	ship 	NN
+Jon 	1 	5 	1 	25 	1 	into 	IN
+Jon 	1 	5 	1 	26 	1 	the 	DT
+Jon 	1 	5 	1 	27 	1 	sea 	NN
+Jon 	1 	5 	1 	28 	0 	,
+Jon 	1 	5 	1 	29 	1 	to 	TO
+Jon 	1 	5 	1 	30 	1 	lighten 	NN
+Jon 	1 	5 	1 	31 	1 	it 	PRP
+Jon 	1 	5 	1 	32 	1 	of 	IN
+Jon 	1 	5 	1 	33 	1 	them 	PRP
+Jon 	1 	5 	1 	34 	0 	.
+Jon 	1 	5 	2 	1 	1 	But 	CC
+Jon 	1 	5 	2 	2 	1 	Jonah 	NN
+Jon 	1 	5 	2 	3 	1 	was 	VBD
+Jon 	1 	5 	2 	4 	1 	gone 	VBN
+Jon 	1 	5 	2 	5 	1 	down 	RB
+Jon 	1 	5 	2 	6 	1 	into 	IN
+Jon 	1 	5 	2 	7 	1 	the 	DT
+Jon 	1 	5 	2 	8 	1 	sides 	NNS
+Jon 	1 	5 	2 	9 	1 	of 	IN
+Jon 	1 	5 	2 	10 	1 	the 	DT
+Jon 	1 	5 	2 	11 	1 	ship 	NN
+Jon 	1 	5 	2 	12 	0 	;
+Jon 	1 	5 	2 	13 	1 	and 	CC
+Jon 	1 	5 	2 	14 	1 	he 	PRP
+Jon 	1 	5 	2 	15 	1 	lay 	NN
+Jon 	1 	5 	2 	16 	0 	,
+Jon 	1 	5 	2 	17 	1 	and 	CC
+Jon 	1 	5 	2 	18 	1 	was 	VBD
+Jon 	1 	5 	2 	19 	1 	fast 	NN
+Jon 	1 	5 	2 	20 	1 	asleep 	NN
+Jon 	1 	5 	2 	21 	0 	.
+Jon 	1 	6 	1 	1 	1 	So 	RB
+Jon 	1 	6 	1 	2 	1 	the 	DT
+Jon 	1 	6 	1 	3 	1 	shipmaster 	NN
+Jon 	1 	6 	1 	4 	1 	came 	VBD
+Jon 	1 	6 	1 	5 	1 	to 	TO
+Jon 	1 	6 	1 	6 	1 	him 	PRP
+Jon 	1 	6 	1 	7 	0 	,
+Jon 	1 	6 	1 	8 	1 	and 	CC
+Jon 	1 	6 	1 	9 	1 	said 	VBD
+Jon 	1 	6 	1 	10 	1 	unto 	NN
+Jon 	1 	6 	1 	11 	1 	him 	PRP
+Jon 	1 	6 	1 	12 	0 	,
+Jon 	1 	6 	1 	13 	1 	What 	WP
+Jon 	1 	6 	1 	14 	1 	meanest 	JJS
+Jon 	1 	6 	1 	15 	1 	thou 	NN
+Jon 	1 	6 	1 	16 	0 	,
+Jon 	1 	6 	1 	17 	1 	O 	NN
+Jon 	1 	6 	1 	18 	1 	sleeper 	NN
+Jon 	1 	6 	1 	19 	0 	?
+Jon 	1 	6 	2 	1 	1 	arise 	NN
+Jon 	1 	6 	2 	2 	0 	,
+Jon 	1 	6 	2 	3 	1 	call 	NN
+Jon 	1 	6 	2 	4 	1 	upon 	IN
+Jon 	1 	6 	2 	5 	1 	thy 	NN
+Jon 	1 	6 	2 	6 	1 	God 	NNP
+Jon 	1 	6 	2 	7 	0 	,
+Jon 	1 	6 	2 	8 	1 	if 	IN
+Jon 	1 	6 	2 	9 	1 	so 	RB
+Jon 	1 	6 	2 	10 	1 	be 	VB
+Jon 	1 	6 	2 	11 	1 	that 	IN
+Jon 	1 	6 	2 	12 	1 	God 	NNP
+Jon 	1 	6 	2 	13 	1 	will 	MD
+Jon 	1 	6 	2 	14 	1 	think 	NN
+Jon 	1 	6 	2 	15 	1 	upon 	IN
+Jon 	1 	6 	2 	16 	1 	us 	PRP
+Jon 	1 	6 	2 	17 	0 	,
+Jon 	1 	6 	2 	18 	1 	that 	IN
+Jon 	1 	6 	2 	19 	1 	we 	PRP
+Jon 	1 	6 	2 	20 	1 	perish 	NN
+Jon 	1 	6 	2 	21 	1 	not 	RB
+Jon 	1 	6 	2 	22 	0 	.
+Jon 	1 	7 	1 	1 	1 	And 	CC
+Jon 	1 	7 	1 	2 	1 	they 	PRP
+Jon 	1 	7 	1 	3 	1 	said 	VBD
+Jon 	1 	7 	1 	4 	1 	every 	DT
+Jon 	1 	7 	1 	5 	1 	one 	CD
+Jon 	1 	7 	1 	6 	1 	to 	TO
+Jon 	1 	7 	1 	7 	1 	his 	PRP$
+Jon 	1 	7 	1 	8 	1 	fellow 	NN
+Jon 	1 	7 	1 	9 	0 	,
+Jon 	1 	7 	1 	10 	1 	Come 	VB
+Jon 	1 	7 	1 	11 	0 	,
+Jon 	1 	7 	1 	12 	1 	and 	CC
+Jon 	1 	7 	1 	13 	1 	let 	VB
+Jon 	1 	7 	1 	14 	1 	us 	PRP
+Jon 	1 	7 	1 	15 	1 	cast 	NN
+Jon 	1 	7 	1 	16 	1 	lots 	NNS
+Jon 	1 	7 	1 	17 	0 	,
+Jon 	1 	7 	1 	18 	1 	that 	IN
+Jon 	1 	7 	1 	19 	1 	we 	PRP
+Jon 	1 	7 	1 	20 	1 	may 	MD
+Jon 	1 	7 	1 	21 	1 	know 	VB
+Jon 	1 	7 	1 	22 	1 	for 	IN
+Jon 	1 	7 	1 	23 	1 	whose 	WP$
+Jon 	1 	7 	1 	24 	1 	cause 	NN
+Jon 	1 	7 	1 	25 	1 	this 	DT
+Jon 	1 	7 	1 	26 	1 	evil 	NN
+Jon 	1 	7 	1 	27 	1 	is 	VBZ
+Jon 	1 	7 	1 	28 	1 	upon 	IN
+Jon 	1 	7 	1 	29 	1 	us 	PRP
+Jon 	1 	7 	1 	30 	0 	.
+Jon 	1 	7 	2 	1 	1 	So 	RB
+Jon 	1 	7 	2 	2 	1 	they 	PRP
+Jon 	1 	7 	2 	3 	1 	cast 	NN
+Jon 	1 	7 	2 	4 	1 	lots 	NNS
+Jon 	1 	7 	2 	5 	0 	,
+Jon 	1 	7 	2 	6 	1 	and 	CC
+Jon 	1 	7 	2 	7 	1 	the 	DT
+Jon 	1 	7 	2 	8 	1 	lot 	NN
+Jon 	1 	7 	2 	9 	1 	fell 	VBD
+Jon 	1 	7 	2 	10 	1 	upon 	IN
+Jon 	1 	7 	2 	11 	1 	Jonah 	NN
+Jon 	1 	7 	2 	12 	0 	.
+Jon 	1 	8 	1 	1 	1 	Then 	RB
+Jon 	1 	8 	1 	2 	1 	said 	VBD
+Jon 	1 	8 	1 	3 	1 	they 	PRP
+Jon 	1 	8 	1 	4 	1 	unto 	NN
+Jon 	1 	8 	1 	5 	1 	him 	PRP
+Jon 	1 	8 	1 	6 	0 	,
+Jon 	1 	8 	1 	7 	1 	Tell 	VB
+Jon 	1 	8 	1 	8 	1 	us 	PRP
+Jon 	1 	8 	1 	9 	0 	,
+Jon 	1 	8 	1 	10 	1 	we 	PRP
+Jon 	1 	8 	1 	11 	1 	pray 	NN
+Jon 	1 	8 	1 	12 	1 	thee 	NN
+Jon 	1 	8 	1 	13 	0 	,
+Jon 	1 	8 	1 	14 	1 	for 	IN
+Jon 	1 	8 	1 	15 	1 	whose 	WP$
+Jon 	1 	8 	1 	16 	1 	cause 	NN
+Jon 	1 	8 	1 	17 	1 	this 	DT
+Jon 	1 	8 	1 	18 	1 	evil 	NN
+Jon 	1 	8 	1 	19 	1 	is 	VBZ
+Jon 	1 	8 	1 	20 	1 	upon 	IN
+Jon 	1 	8 	1 	21 	1 	us 	PRP
+Jon 	1 	8 	1 	22 	0 	;
+Jon 	1 	8 	1 	23 	1 	What 	WP
+Jon 	1 	8 	1 	24 	1 	is 	VBZ
+Jon 	1 	8 	1 	25 	1 	thine 	NN
+Jon 	1 	8 	1 	26 	1 	occupation 	NN
+Jon 	1 	8 	1 	27 	0 	?
+Jon 	1 	8 	2 	1 	1 	and 	CC
+Jon 	1 	8 	2 	2 	1 	whence 	NN
+Jon 	1 	8 	2 	3 	1 	comest 	NN
+Jon 	1 	8 	2 	4 	1 	thou 	NN
+Jon 	1 	8 	2 	5 	0 	?
+Jon 	1 	8 	3 	1 	1 	what 	WP
+Jon 	1 	8 	3 	2 	1 	is 	VBZ
+Jon 	1 	8 	3 	3 	1 	thy 	NN
+Jon 	1 	8 	3 	4 	1 	country 	NN
+Jon 	1 	8 	3 	5 	0 	?
+Jon 	1 	8 	4 	1 	1 	and 	CC
+Jon 	1 	8 	4 	2 	1 	of 	IN
+Jon 	1 	8 	4 	3 	1 	what 	WP
+Jon 	1 	8 	4 	4 	1 	people 	NNS
+Jon 	1 	8 	4 	5 	1 	art 	NN
+Jon 	1 	8 	4 	6 	1 	thou 	NN
+Jon 	1 	8 	4 	7 	0 	?
+Jon 	1 	9 	1 	1 	1 	And 	CC
+Jon 	1 	9 	1 	2 	1 	he 	PRP
+Jon 	1 	9 	1 	3 	1 	said 	VBD
+Jon 	1 	9 	1 	4 	1 	unto 	NN
+Jon 	1 	9 	1 	5 	1 	them 	PRP
+Jon 	1 	9 	1 	6 	0 	,
+Jon 	1 	9 	1 	7 	1 	I 	PRP
+Jon 	1 	9 	1 	8 	1 	am 	VBP
+Jon 	1 	9 	1 	9 	1 	an 	DT
+Jon 	1 	9 	1 	10 	1 	Hebrew 	NN
+Jon 	1 	9 	1 	11 	0 	;
+Jon 	1 	9 	1 	12 	1 	and 	CC
+Jon 	1 	9 	1 	13 	1 	I 	PRP
+Jon 	1 	9 	1 	14 	1 	fear 	NN
+Jon 	1 	9 	1 	15 	1 	the 	DT
+Jon 	1 	9 	1 	16 	1 	LORD 	NN
+Jon 	1 	9 	1 	17 	0 	,
+Jon 	1 	9 	1 	18 	1 	the 	DT
+Jon 	1 	9 	1 	19 	1 	God 	NNP
+Jon 	1 	9 	1 	20 	1 	of 	IN
+Jon 	1 	9 	1 	21 	1 	heaven 	NN
+Jon 	1 	9 	1 	22 	0 	,
+Jon 	1 	9 	1 	23 	1 	which 	WDT
+Jon 	1 	9 	1 	24 	1 	hath 	NN
+Jon 	1 	9 	1 	25 	1 	made 	VBN
+Jon 	1 	9 	1 	26 	1 	the 	DT
+Jon 	1 	9 	1 	27 	1 	sea 	NN
+Jon 	1 	9 	1 	28 	1 	and 	CC
+Jon 	1 	9 	1 	29 	1 	the 	DT
+Jon 	1 	9 	1 	30 	1 	dry 	NN
+Jon 	1 	9 	1 	31 	1 	land 	NN
+Jon 	1 	9 	1 	32 	0 	.
+Jon 	1 	10 	1 	1 	1 	Then 	RB
+Jon 	1 	10 	1 	2 	1 	were 	VBD
+Jon 	1 	10 	1 	3 	1 	the 	DT
+Jon 	1 	10 	1 	4 	1 	men 	NNS
+Jon 	1 	10 	1 	5 	1 	exceedingly 	RB
+Jon 	1 	10 	1 	6 	1 	afraid 	NN
+Jon 	1 	10 	1 	7 	0 	,
+Jon 	1 	10 	1 	8 	1 	and 	CC
+Jon 	1 	10 	1 	9 	1 	said 	VBD
+Jon 	1 	10 	1 	10 	1 	unto 	NN
+Jon 	1 	10 	1 	11 	1 	him 	PRP
+Jon 	1 	10 	1 	12 	0 	.
+Jon 	1 	10 	2 	1 	1 	Why 	WRB
+Jon 	1 	10 	2 	2 	1 	hast 	NN
+Jon 	1 	10 	2 	3 	1 	thou 	NN
+Jon 	1 	10 	2 	4 	1 	done 	VBN
+Jon 	1 	10 	2 	5 	1 	this 	DT
+Jon 	1 	10 	2 	6 	0 	?
+Jon 	1 	10 	3 	1 	1 	For 	IN
+Jon 	1 	10 	3 	2 	1 	the 	DT
+Jon 	1 	10 	3 	3 	1 	men 	NNS
+Jon 	1 	10 	3 	4 	1 	knew 	NNS
+Jon 	1 	10 	3 	5 	1 	that 	IN
+Jon 	1 	10 	3 	6 	1 	he 	PRP
+Jon 	1 	10 	3 	7 	1 	fled 	VBN
+Jon 	1 	10 	3 	8 	1 	from 	IN
+Jon 	1 	10 	3 	9 	1 	the 	DT
+Jon 	1 	10 	3 	10 	1 	presence 	NN
+Jon 	1 	10 	3 	11 	1 	of 	IN
+Jon 	1 	10 	3 	12 	1 	the 	DT
+Jon 	1 	10 	3 	13 	1 	LORD 	NN
+Jon 	1 	10 	3 	14 	0 	,
+Jon 	1 	10 	3 	15 	1 	because 	IN
+Jon 	1 	10 	3 	16 	1 	he 	PRP
+Jon 	1 	10 	3 	17 	1 	had 	VBD
+Jon 	1 	10 	3 	18 	1 	told 	NN
+Jon 	1 	10 	3 	19 	1 	them 	PRP
+Jon 	1 	10 	3 	20 	0 	.
+Jon 	1 	11 	1 	1 	1 	Then 	RB
+Jon 	1 	11 	1 	2 	1 	said 	VBD
+Jon 	1 	11 	1 	3 	1 	they 	PRP
+Jon 	1 	11 	1 	4 	1 	unto 	NN
+Jon 	1 	11 	1 	5 	1 	him 	PRP
+Jon 	1 	11 	1 	6 	0 	,
+Jon 	1 	11 	1 	7 	1 	What 	WP
+Jon 	1 	11 	1 	8 	1 	shall 	MD
+Jon 	1 	11 	1 	9 	1 	we 	PRP
+Jon 	1 	11 	1 	10 	1 	do 	VB
+Jon 	1 	11 	1 	11 	1 	unto 	NN
+Jon 	1 	11 	1 	12 	1 	thee 	NN
+Jon 	1 	11 	1 	13 	0 	,
+Jon 	1 	11 	1 	14 	1 	that 	IN
+Jon 	1 	11 	1 	15 	1 	the 	DT
+Jon 	1 	11 	1 	16 	1 	sea 	NN
+Jon 	1 	11 	1 	17 	1 	may 	MD
+Jon 	1 	11 	1 	18 	1 	be 	VB
+Jon 	1 	11 	1 	19 	1 	calm 	NN
+Jon 	1 	11 	1 	20 	1 	unto 	NN
+Jon 	1 	11 	1 	21 	1 	us 	PRP
+Jon 	1 	11 	1 	22 	0 	?
+Jon 	1 	11 	2 	1 	1 	for 	IN
+Jon 	1 	11 	2 	2 	1 	the 	DT
+Jon 	1 	11 	2 	3 	1 	sea 	NN
+Jon 	1 	11 	2 	4 	1 	wrought 	NN
+Jon 	1 	11 	2 	5 	0 	,
+Jon 	1 	11 	2 	6 	1 	and 	CC
+Jon 	1 	11 	2 	7 	1 	was 	VBD
+Jon 	1 	11 	2 	8 	1 	tempestuous 	JJ
+Jon 	1 	11 	2 	9 	0 	.
+Jon 	1 	12 	1 	1 	1 	And 	CC
+Jon 	1 	12 	1 	2 	1 	he 	PRP
+Jon 	1 	12 	1 	3 	1 	said 	VBD
+Jon 	1 	12 	1 	4 	1 	unto 	NN
+Jon 	1 	12 	1 	5 	1 	them 	PRP
+Jon 	1 	12 	1 	6 	0 	,
+Jon 	1 	12 	1 	7 	1 	Take 	VB
+Jon 	1 	12 	1 	8 	1 	me 	PRP
+Jon 	1 	12 	1 	9 	1 	up 	RB
+Jon 	1 	12 	1 	10 	0 	,
+Jon 	1 	12 	1 	11 	1 	and 	CC
+Jon 	1 	12 	1 	12 	1 	cast 	NN
+Jon 	1 	12 	1 	13 	1 	me 	PRP
+Jon 	1 	12 	1 	14 	1 	forth 	NN
+Jon 	1 	12 	1 	15 	1 	into 	IN
+Jon 	1 	12 	1 	16 	1 	the 	DT
+Jon 	1 	12 	1 	17 	1 	sea 	NN
+Jon 	1 	12 	1 	18 	0 	;
+Jon 	1 	12 	1 	19 	1 	so 	RB
+Jon 	1 	12 	1 	20 	1 	shall 	MD
+Jon 	1 	12 	1 	21 	1 	the 	DT
+Jon 	1 	12 	1 	22 	1 	sea 	NN
+Jon 	1 	12 	1 	23 	1 	be 	VB
+Jon 	1 	12 	1 	24 	1 	calm 	NN
+Jon 	1 	12 	1 	25 	1 	unto 	NN
+Jon 	1 	12 	1 	26 	1 	you 	PRP
+Jon 	1 	12 	1 	27 	0 	:
+Jon 	1 	12 	1 	28 	1 	for 	IN
+Jon 	1 	12 	1 	29 	1 	I 	PRP
+Jon 	1 	12 	1 	30 	1 	know 	VB
+Jon 	1 	12 	1 	31 	1 	that 	IN
+Jon 	1 	12 	1 	32 	1 	for 	IN
+Jon 	1 	12 	1 	33 	1 	my 	PRP$
+Jon 	1 	12 	1 	34 	1 	sake 	NN
+Jon 	1 	12 	1 	35 	1 	this 	DT
+Jon 	1 	12 	1 	36 	1 	great 	JJ
+Jon 	1 	12 	1 	37 	1 	tempest 	NN
+Jon 	1 	12 	1 	38 	1 	is 	VBZ
+Jon 	1 	12 	1 	39 	1 	upon 	IN
+Jon 	1 	12 	1 	40 	1 	you 	PRP
+Jon 	1 	12 	1 	41 	0 	.
+Jon 	1 	13 	1 	1 	1 	Nevertheless 	RB
+Jon 	1 	13 	1 	2 	1 	the 	DT
+Jon 	1 	13 	1 	3 	1 	men 	NNS
+Jon 	1 	13 	1 	4 	1 	rowed 	NN
+Jon 	1 	13 	1 	5 	1 	hard 	JJ
+Jon 	1 	13 	1 	6 	1 	to 	TO
+Jon 	1 	13 	1 	7 	1 	bring 	NN
+Jon 	1 	13 	1 	8 	1 	it 	PRP
+Jon 	1 	13 	1 	9 	1 	to 	TO
+Jon 	1 	13 	1 	10 	1 	the 	DT
+Jon 	1 	13 	1 	11 	1 	land 	NN
+Jon 	1 	13 	1 	12 	0 	;
+Jon 	1 	13 	1 	13 	1 	but 	CC
+Jon 	1 	13 	1 	14 	1 	they 	PRP
+Jon 	1 	13 	1 	15 	1 	could 	MD
+Jon 	1 	13 	1 	16 	1 	not 	RB
+Jon 	1 	13 	1 	17 	0 	:
+Jon 	1 	13 	1 	18 	1 	for 	IN
+Jon 	1 	13 	1 	19 	1 	the 	DT
+Jon 	1 	13 	1 	20 	1 	sea 	NN
+Jon 	1 	13 	1 	21 	1 	wrought 	NN
+Jon 	1 	13 	1 	22 	0 	,
+Jon 	1 	13 	1 	23 	1 	and 	CC
+Jon 	1 	13 	1 	24 	1 	was 	VBD
+Jon 	1 	13 	1 	25 	1 	tempestuous 	JJ
+Jon 	1 	13 	1 	26 	1 	against 	IN
+Jon 	1 	13 	1 	27 	1 	them 	PRP
+Jon 	1 	13 	1 	28 	0 	.
+Jon 	1 	14 	1 	1 	1 	Wherefore 	IN
+Jon 	1 	14 	1 	2 	1 	they 	PRP
+Jon 	1 	14 	1 	3 	1 	cried 	VBN
+Jon 	1 	14 	1 	4 	1 	unto 	NN
+Jon 	1 	14 	1 	5 	1 	the 	DT
+Jon 	1 	14 	1 	6 	1 	LORD 	NN
+Jon 	1 	14 	1 	7 	0 	,
+Jon 	1 	14 	1 	8 	1 	and 	CC
+Jon 	1 	14 	1 	9 	1 	said 	VBD
+Jon 	1 	14 	1 	10 	0 	,
+Jon 	1 	14 	1 	11 	1 	We 	PRP
+Jon 	1 	14 	1 	12 	1 	beseech 	NN
+Jon 	1 	14 	1 	13 	1 	thee 	NN
+Jon 	1 	14 	1 	14 	0 	,
+Jon 	1 	14 	1 	15 	1 	O 	NN
+Jon 	1 	14 	1 	16 	1 	LORD 	NN
+Jon 	1 	14 	1 	17 	0 	,
+Jon 	1 	14 	1 	18 	1 	we 	PRP
+Jon 	1 	14 	1 	19 	1 	beseech 	NN
+Jon 	1 	14 	1 	20 	1 	thee 	NN
+Jon 	1 	14 	1 	21 	0 	,
+Jon 	1 	14 	1 	22 	1 	let 	VB
+Jon 	1 	14 	1 	23 	1 	us 	PRP
+Jon 	1 	14 	1 	24 	1 	not 	RB
+Jon 	1 	14 	1 	25 	1 	perish 	NN
+Jon 	1 	14 	1 	26 	1 	for 	IN
+Jon 	1 	14 	1 	27 	1 	this 	DT
+Jon 	1 	14 	1 	28 	1 	man 	NN
+Jon 	1 	14 	1 	29 	0 	's
+Jon 	1 	14 	1 	30 	1 	life 	NN
+Jon 	1 	14 	1 	31 	0 	,
+Jon 	1 	14 	1 	32 	1 	and 	CC
+Jon 	1 	14 	1 	33 	1 	lay 	NN
+Jon 	1 	14 	1 	34 	1 	not 	RB
+Jon 	1 	14 	1 	35 	1 	upon 	IN
+Jon 	1 	14 	1 	36 	1 	us 	PRP
+Jon 	1 	14 	1 	37 	1 	innocent 	NN
+Jon 	1 	14 	1 	38 	1 	blood 	NN
+Jon 	1 	14 	1 	39 	0 	:
+Jon 	1 	14 	1 	40 	1 	for 	IN
+Jon 	1 	14 	1 	41 	1 	thou 	NN
+Jon 	1 	14 	1 	42 	0 	,
+Jon 	1 	14 	1 	43 	1 	O 	NN
+Jon 	1 	14 	1 	44 	1 	LORD 	NN
+Jon 	1 	14 	1 	45 	0 	,
+Jon 	1 	14 	1 	46 	1 	hast 	NN
+Jon 	1 	14 	1 	47 	1 	done 	VBN
+Jon 	1 	14 	1 	48 	1 	as 	IN
+Jon 	1 	14 	1 	49 	1 	it 	PRP
+Jon 	1 	14 	1 	50 	1 	pleased 	JJ
+Jon 	1 	14 	1 	51 	1 	thee 	NN
+Jon 	1 	14 	1 	52 	0 	.
+Jon 	1 	15 	1 	1 	1 	So 	RB
+Jon 	1 	15 	1 	2 	1 	they 	PRP
+Jon 	1 	15 	1 	3 	1 	look 	NN
+Jon 	1 	15 	1 	4 	1 	up 	RB
+Jon 	1 	15 	1 	5 	1 	Jonah 	NN
+Jon 	1 	15 	1 	6 	0 	,
+Jon 	1 	15 	1 	7 	1 	and 	CC
+Jon 	1 	15 	1 	8 	1 	cast 	NN
+Jon 	1 	15 	1 	9 	1 	him 	PRP
+Jon 	1 	15 	1 	10 	1 	forth 	NN
+Jon 	1 	15 	1 	11 	1 	into 	IN
+Jon 	1 	15 	1 	12 	1 	the 	DT
+Jon 	1 	15 	1 	13 	1 	sea 	NN
+Jon 	1 	15 	1 	14 	0 	:
+Jon 	1 	15 	1 	15 	1 	and 	CC
+Jon 	1 	15 	1 	16 	1 	the 	DT
+Jon 	1 	15 	1 	17 	1 	sea 	NN
+Jon 	1 	15 	1 	18 	1 	ceased 	VBN
+Jon 	1 	15 	1 	19 	1 	from 	IN
+Jon 	1 	15 	1 	20 	1 	her 	PRP$
+Jon 	1 	15 	1 	21 	1 	raging 	VBG
+Jon 	1 	15 	1 	22 	0 	.
+Jon 	1 	16 	1 	1 	1 	Then 	RB
+Jon 	1 	16 	1 	2 	1 	the 	DT
+Jon 	1 	16 	1 	3 	1 	men 	NNS
+Jon 	1 	16 	1 	4 	1 	feared 	VBN
+Jon 	1 	16 	1 	5 	1 	the 	DT
+Jon 	1 	16 	1 	6 	1 	LORD 	NN
+Jon 	1 	16 	1 	7 	1 	exceedingly 	RB
+Jon 	1 	16 	1 	8 	0 	,
+Jon 	1 	16 	1 	9 	1 	and 	CC
+Jon 	1 	16 	1 	10 	1 	offered 	VBN
+Jon 	1 	16 	1 	11 	1 	a 	DT
+Jon 	1 	16 	1 	12 	1 	sacrifice 	NN
+Jon 	1 	16 	1 	13 	1 	unto 	NN
+Jon 	1 	16 	1 	14 	1 	the 	DT
+Jon 	1 	16 	1 	15 	1 	LORD 	NN
+Jon 	1 	16 	1 	16 	0 	,
+Jon 	1 	16 	1 	17 	1 	and 	CC
+Jon 	1 	16 	1 	18 	1 	made 	VBN
+Jon 	1 	16 	1 	19 	1 	vows 	NNS
+Jon 	1 	16 	1 	20 	0 	.
+Jon 	1 	17 	1 	1 	1 	Now 	RB
+Jon 	1 	17 	1 	2 	1 	the 	DT
+Jon 	1 	17 	1 	3 	1 	LORD 	NN
+Jon 	1 	17 	1 	4 	1 	had 	VBD
+Jon 	1 	17 	1 	5 	1 	prepared 	JJ
+Jon 	1 	17 	1 	6 	1 	a 	DT
+Jon 	1 	17 	1 	7 	1 	great 	JJ
+Jon 	1 	17 	1 	8 	1 	fish 	NN
+Jon 	1 	17 	1 	9 	1 	to 	TO
+Jon 	1 	17 	1 	10 	1 	swallow 	NN
+Jon 	1 	17 	1 	11 	1 	up 	RB
+Jon 	1 	17 	1 	12 	1 	Jonah 	NN
+Jon 	1 	17 	1 	13 	0 	.
+Jon 	1 	17 	2 	1 	1 	And 	CC
+Jon 	1 	17 	2 	2 	1 	Jonah 	NN
+Jon 	1 	17 	2 	3 	1 	was 	VBD
+Jon 	1 	17 	2 	4 	1 	in 	IN
+Jon 	1 	17 	2 	5 	1 	the 	DT
+Jon 	1 	17 	2 	6 	1 	belly 	RB
+Jon 	1 	17 	2 	7 	1 	of 	IN
+Jon 	1 	17 	2 	8 	1 	the 	DT
+Jon 	1 	17 	2 	9 	1 	fish 	NN
+Jon 	1 	17 	2 	10 	1 	three 	CD
+Jon 	1 	17 	2 	11 	1 	days 	NNS
+Jon 	1 	17 	2 	12 	1 	and 	CC
+Jon 	1 	17 	2 	13 	1 	three 	CD
+Jon 	1 	17 	2 	14 	1 	nights 	NNS
+Jon 	1 	17 	2 	15 	0 	.
+Jon 	2 	1 	1 	1 	1 	Then 	RB
+Jon 	2 	1 	1 	2 	1 	Jonah 	NN
+Jon 	2 	1 	1 	3 	1 	prayed 	NN
+Jon 	2 	1 	1 	4 	1 	unto 	NN
+Jon 	2 	1 	1 	5 	1 	the 	DT
+Jon 	2 	1 	1 	6 	1 	LORD 	NN
+Jon 	2 	1 	1 	7 	1 	his 	PRP$
+Jon 	2 	1 	1 	8 	1 	God 	NNP
+Jon 	2 	1 	1 	9 	1 	out 	IN
+Jon 	2 	1 	1 	10 	1 	of 	IN
+Jon 	2 	1 	1 	11 	1 	the 	DT
+Jon 	2 	1 	1 	12 	1 	fish 	NN
+Jon 	2 	1 	1 	13 	0 	's
+Jon 	2 	1 	1 	14 	1 	belly 	RB
+Jon 	2 	1 	1 	15 	0 	,
+Jon 	2 	2 	1 	1 	1 	And 	CC
+Jon 	2 	2 	1 	2 	1 	said 	VBD
+Jon 	2 	2 	1 	3 	0 	,
+Jon 	2 	2 	1 	4 	1 	I 	PRP
+Jon 	2 	2 	1 	5 	1 	cried 	VBN
+Jon 	2 	2 	1 	6 	1 	by 	IN
+Jon 	2 	2 	1 	7 	1 	reason 	NN
+Jon 	2 	2 	1 	8 	1 	of 	IN
+Jon 	2 	2 	1 	9 	1 	mine 	NN
+Jon 	2 	2 	1 	10 	1 	affliction 	NN
+Jon 	2 	2 	1 	11 	1 	unto 	NN
+Jon 	2 	2 	1 	12 	1 	the 	DT
+Jon 	2 	2 	1 	13 	1 	LORD 	NN
+Jon 	2 	2 	1 	14 	0 	,
+Jon 	2 	2 	1 	15 	1 	and 	CC
+Jon 	2 	2 	1 	16 	1 	he 	PRP
+Jon 	2 	2 	1 	17 	1 	heard 	NN
+Jon 	2 	2 	1 	18 	1 	me 	PRP
+Jon 	2 	2 	1 	19 	0 	;
+Jon 	2 	2 	1 	20 	1 	out 	IN
+Jon 	2 	2 	1 	21 	1 	of 	IN
+Jon 	2 	2 	1 	22 	1 	the 	DT
+Jon 	2 	2 	1 	23 	1 	belly 	RB
+Jon 	2 	2 	1 	24 	1 	of 	IN
+Jon 	2 	2 	1 	25 	1 	hell 	NN
+Jon 	2 	2 	1 	26 	1 	cried 	VBN
+Jon 	2 	2 	1 	27 	1 	I 	PRP
+Jon 	2 	2 	1 	28 	0 	,
+Jon 	2 	2 	1 	29 	1 	and 	CC
+Jon 	2 	2 	1 	30 	1 	thou 	NN
+Jon 	2 	2 	1 	31 	1 	heardest 	NN
+Jon 	2 	2 	1 	32 	1 	my 	PRP$
+Jon 	2 	2 	1 	33 	1 	voice 	NN
+Jon 	2 	2 	1 	34 	0 	.
+Jon 	2 	3 	1 	1 	1 	For 	IN
+Jon 	2 	3 	1 	2 	1 	thou 	NN
+Jon 	2 	3 	1 	3 	1 	hadst 	NN
+Jon 	2 	3 	1 	4 	1 	cast 	NN
+Jon 	2 	3 	1 	5 	1 	me 	PRP
+Jon 	2 	3 	1 	6 	1 	into 	IN
+Jon 	2 	3 	1 	7 	1 	the 	DT
+Jon 	2 	3 	1 	8 	1 	deep 	NN
+Jon 	2 	3 	1 	9 	0 	,
+Jon 	2 	3 	1 	10 	1 	in 	IN
+Jon 	2 	3 	1 	11 	1 	the 	DT
+Jon 	2 	3 	1 	12 	1 	midst 	NN
+Jon 	2 	3 	1 	13 	1 	of 	IN
+Jon 	2 	3 	1 	14 	1 	the 	DT
+Jon 	2 	3 	1 	15 	1 	seas 	NNS
+Jon 	2 	3 	1 	16 	0 	;
+Jon 	2 	3 	1 	17 	1 	and 	CC
+Jon 	2 	3 	1 	18 	1 	the 	DT
+Jon 	2 	3 	1 	19 	1 	floods 	NNS
+Jon 	2 	3 	1 	20 	1 	compassed 	VBN
+Jon 	2 	3 	1 	21 	1 	me 	PRP
+Jon 	2 	3 	1 	22 	1 	about 	IN
+Jon 	2 	3 	1 	23 	0 	:
+Jon 	2 	3 	1 	24 	1 	all 	DT
+Jon 	2 	3 	1 	25 	1 	thy 	NN
+Jon 	2 	3 	1 	26 	1 	billows 	NNS
+Jon 	2 	3 	1 	27 	1 	and 	CC
+Jon 	2 	3 	1 	28 	1 	thy 	NN
+Jon 	2 	3 	1 	29 	1 	waves 	NNS
+Jon 	2 	3 	1 	30 	1 	passed 	VBN
+Jon 	2 	3 	1 	31 	1 	over 	IN
+Jon 	2 	3 	1 	32 	1 	me 	PRP
+Jon 	2 	3 	1 	33 	0 	.
+Jon 	2 	4 	1 	1 	1 	Then 	RB
+Jon 	2 	4 	1 	2 	1 	I 	PRP
+Jon 	2 	4 	1 	3 	1 	said 	VBD
+Jon 	2 	4 	1 	4 	0 	,
+Jon 	2 	4 	1 	5 	1 	I 	PRP
+Jon 	2 	4 	1 	6 	1 	am 	VBP
+Jon 	2 	4 	1 	7 	1 	cast 	NN
+Jon 	2 	4 	1 	8 	1 	out 	IN
+Jon 	2 	4 	1 	9 	1 	of 	IN
+Jon 	2 	4 	1 	10 	1 	thy 	NN
+Jon 	2 	4 	1 	11 	1 	sight 	NN
+Jon 	2 	4 	1 	12 	0 	;
+Jon 	2 	4 	1 	13 	1 	yet 	RB
+Jon 	2 	4 	1 	14 	1 	I 	PRP
+Jon 	2 	4 	1 	15 	1 	will 	MD
+Jon 	2 	4 	1 	16 	1 	look 	NN
+Jon 	2 	4 	1 	17 	1 	again 	RB
+Jon 	2 	4 	1 	18 	1 	toward 	IN
+Jon 	2 	4 	1 	19 	1 	thy 	NN
+Jon 	2 	4 	1 	20 	1 	holy 	NN
+Jon 	2 	4 	1 	21 	1 	temple 	NN
+Jon 	2 	4 	1 	22 	0 	.
+Jon 	2 	5 	1 	1 	1 	The 	DT
+Jon 	2 	5 	1 	2 	1 	waters 	NNS
+Jon 	2 	5 	1 	3 	1 	compassed 	VBN
+Jon 	2 	5 	1 	4 	1 	me 	PRP
+Jon 	2 	5 	1 	5 	1 	about 	IN
+Jon 	2 	5 	1 	6 	0 	,
+Jon 	2 	5 	1 	7 	1 	even 	RB
+Jon 	2 	5 	1 	8 	1 	to 	TO
+Jon 	2 	5 	1 	9 	1 	the 	DT
+Jon 	2 	5 	1 	10 	1 	soul 	NN
+Jon 	2 	5 	1 	11 	0 	:
+Jon 	2 	5 	1 	12 	1 	the 	DT
+Jon 	2 	5 	1 	13 	1 	depth 	NN
+Jon 	2 	5 	1 	14 	1 	closed 	VBD
+Jon 	2 	5 	1 	15 	1 	me 	PRP
+Jon 	2 	5 	1 	16 	1 	round 	NN
+Jon 	2 	5 	1 	17 	1 	about 	IN
+Jon 	2 	5 	1 	18 	0 	,
+Jon 	2 	5 	1 	19 	1 	the 	DT
+Jon 	2 	5 	1 	20 	1 	weeds 	NNS
+Jon 	2 	5 	1 	21 	1 	were 	VBD
+Jon 	2 	5 	1 	22 	1 	wrapped 	VBD
+Jon 	2 	5 	1 	23 	1 	about 	IN
+Jon 	2 	5 	1 	24 	1 	my 	PRP$
+Jon 	2 	5 	1 	25 	1 	head 	NN
+Jon 	2 	5 	1 	26 	0 	.
+Jon 	2 	6 	1 	1 	1 	I 	PRP
+Jon 	2 	6 	1 	2 	1 	went 	VBD
+Jon 	2 	6 	1 	3 	1 	down 	RB
+Jon 	2 	6 	1 	4 	1 	to 	TO
+Jon 	2 	6 	1 	5 	1 	the 	DT
+Jon 	2 	6 	1 	6 	1 	bottoms 	NNS
+Jon 	2 	6 	1 	7 	1 	of 	IN
+Jon 	2 	6 	1 	8 	1 	the 	DT
+Jon 	2 	6 	1 	9 	1 	mountains 	NNS
+Jon 	2 	6 	1 	10 	0 	;
+Jon 	2 	6 	1 	11 	1 	the 	DT
+Jon 	2 	6 	1 	12 	1 	earth 	NN
+Jon 	2 	6 	1 	13 	1 	with 	IN
+Jon 	2 	6 	1 	14 	1 	her 	PRP$
+Jon 	2 	6 	1 	15 	1 	bars 	NNS
+Jon 	2 	6 	1 	16 	1 	was 	VBD
+Jon 	2 	6 	1 	17 	1 	about 	IN
+Jon 	2 	6 	1 	18 	1 	me 	PRP
+Jon 	2 	6 	1 	19 	1 	for 	IN
+Jon 	2 	6 	1 	20 	1 	ever 	RB
+Jon 	2 	6 	1 	21 	0 	:
+Jon 	2 	6 	1 	22 	1 	yet 	RB
+Jon 	2 	6 	1 	23 	1 	hast 	NN
+Jon 	2 	6 	1 	24 	1 	thou 	NN
+Jon 	2 	6 	1 	25 	1 	brought 	NN
+Jon 	2 	6 	1 	26 	1 	up 	RB
+Jon 	2 	6 	1 	27 	1 	my 	PRP$
+Jon 	2 	6 	1 	28 	1 	life 	NN
+Jon 	2 	6 	1 	29 	1 	from 	IN
+Jon 	2 	6 	1 	30 	1 	corruption 	NN
+Jon 	2 	6 	1 	31 	0 	,
+Jon 	2 	6 	1 	32 	1 	O 	NN
+Jon 	2 	6 	1 	33 	1 	LORD 	NN
+Jon 	2 	6 	1 	34 	1 	my 	PRP$
+Jon 	2 	6 	1 	35 	1 	God 	NNP
+Jon 	2 	6 	1 	36 	0 	.
+Jon 	2 	7 	1 	1 	1 	When 	WRB
+Jon 	2 	7 	1 	2 	1 	my 	PRP$
+Jon 	2 	7 	1 	3 	1 	soul 	NN
+Jon 	2 	7 	1 	4 	1 	fainted 	VBN
+Jon 	2 	7 	1 	5 	1 	within 	IN
+Jon 	2 	7 	1 	6 	1 	me 	PRP
+Jon 	2 	7 	1 	7 	1 	I 	PRP
+Jon 	2 	7 	1 	8 	1 	remembered 	VBN
+Jon 	2 	7 	1 	9 	1 	the 	DT
+Jon 	2 	7 	1 	10 	1 	LORD 	NN
+Jon 	2 	7 	1 	11 	0 	:
+Jon 	2 	7 	1 	12 	1 	and 	CC
+Jon 	2 	7 	1 	13 	1 	my 	PRP$
+Jon 	2 	7 	1 	14 	1 	prayer 	NN
+Jon 	2 	7 	1 	15 	1 	came 	VBD
+Jon 	2 	7 	1 	16 	1 	in 	IN
+Jon 	2 	7 	1 	17 	1 	unto 	NN
+Jon 	2 	7 	1 	18 	1 	thee 	NN
+Jon 	2 	7 	1 	19 	0 	,
+Jon 	2 	7 	1 	20 	1 	into 	IN
+Jon 	2 	7 	1 	21 	1 	thine 	NN
+Jon 	2 	7 	1 	22 	1 	holy 	NN
+Jon 	2 	7 	1 	23 	1 	temple 	NN
+Jon 	2 	7 	1 	24 	0 	.
+Jon 	2 	8 	1 	1 	1 	They 	PRP
+Jon 	2 	8 	1 	2 	1 	that 	IN
+Jon 	2 	8 	1 	3 	1 	observe 	NN
+Jon 	2 	8 	1 	4 	1 	lying 	VBG
+Jon 	2 	8 	1 	5 	1 	vanities 	NNS
+Jon 	2 	8 	1 	6 	1 	forsake 	NN
+Jon 	2 	8 	1 	7 	1 	their 	PRP$
+Jon 	2 	8 	1 	8 	1 	own 	JJ
+Jon 	2 	8 	1 	9 	1 	mercy 	NN
+Jon 	2 	8 	1 	10 	0 	.
+Jon 	2 	9 	1 	1 	1 	But 	CC
+Jon 	2 	9 	1 	2 	1 	I 	PRP
+Jon 	2 	9 	1 	3 	1 	will 	MD
+Jon 	2 	9 	1 	4 	1 	sacrifice 	NN
+Jon 	2 	9 	1 	5 	1 	unto 	NN
+Jon 	2 	9 	1 	6 	1 	thee 	NN
+Jon 	2 	9 	1 	7 	1 	with 	IN
+Jon 	2 	9 	1 	8 	1 	the 	DT
+Jon 	2 	9 	1 	9 	1 	voice 	NN
+Jon 	2 	9 	1 	10 	1 	of 	IN
+Jon 	2 	9 	1 	11 	1 	thanksgiving 	VBG
+Jon 	2 	9 	1 	12 	0 	;
+Jon 	2 	9 	1 	13 	1 	I 	PRP
+Jon 	2 	9 	1 	14 	1 	will 	MD
+Jon 	2 	9 	1 	15 	1 	pay 	NN
+Jon 	2 	9 	1 	16 	1 	that 	IN
+Jon 	2 	9 	1 	17 	1 	that 	IN
+Jon 	2 	9 	1 	18 	1 	I 	PRP
+Jon 	2 	9 	1 	19 	1 	have 	VB
+Jon 	2 	9 	1 	20 	1 	vowed 	NN
+Jon 	2 	9 	1 	21 	0 	.
+Jon 	2 	9 	2 	1 	1 	Salvation 	NN
+Jon 	2 	9 	2 	2 	1 	is 	VBZ
+Jon 	2 	9 	2 	3 	1 	of 	IN
+Jon 	2 	9 	2 	4 	1 	the 	DT
+Jon 	2 	9 	2 	5 	1 	LORD 	NN
+Jon 	2 	9 	2 	6 	0 	.
+Jon 	2 	10 	1 	1 	1 	And 	CC
+Jon 	2 	10 	1 	2 	1 	the 	DT
+Jon 	2 	10 	1 	3 	1 	LORD 	NN
+Jon 	2 	10 	1 	4 	1 	spake 	NN
+Jon 	2 	10 	1 	5 	1 	unto 	NN
+Jon 	2 	10 	1 	6 	1 	the 	DT
+Jon 	2 	10 	1 	7 	1 	fish 	NN
+Jon 	2 	10 	1 	8 	0 	,
+Jon 	2 	10 	1 	9 	1 	and 	CC
+Jon 	2 	10 	1 	10 	1 	it 	PRP
+Jon 	2 	10 	1 	11 	1 	vomited 	VBN
+Jon 	2 	10 	1 	12 	1 	out 	IN
+Jon 	2 	10 	1 	13 	1 	Jonah 	NN
+Jon 	2 	10 	1 	14 	1 	upon 	IN
+Jon 	2 	10 	1 	15 	1 	the 	DT
+Jon 	2 	10 	1 	16 	1 	dry 	NN
+Jon 	2 	10 	1 	17 	1 	land 	NN
+Jon 	2 	10 	1 	18 	0 	.
+Jon 	3 	1 	1 	1 	1 	And 	CC
+Jon 	3 	1 	1 	2 	1 	the 	DT
+Jon 	3 	1 	1 	3 	1 	word 	NN
+Jon 	3 	1 	1 	4 	1 	of 	IN
+Jon 	3 	1 	1 	5 	1 	the 	DT
+Jon 	3 	1 	1 	6 	1 	LORD 	NN
+Jon 	3 	1 	1 	7 	1 	came 	VBD
+Jon 	3 	1 	1 	8 	1 	unto 	NN
+Jon 	3 	1 	1 	9 	1 	Jonah 	NN
+Jon 	3 	1 	1 	10 	1 	the 	DT
+Jon 	3 	1 	1 	11 	1 	second 	JJ
+Jon 	3 	1 	1 	12 	1 	time 	NN
+Jon 	3 	1 	1 	13 	0 	,
+Jon 	3 	1 	1 	14 	1 	saying 	VBG
+Jon 	3 	1 	1 	15 	0 	,
+Jon 	3 	2 	1 	1 	1 	Arise 	NN
+Jon 	3 	2 	1 	2 	0 	,
+Jon 	3 	2 	1 	3 	1 	go 	VB
+Jon 	3 	2 	1 	4 	1 	unto 	NN
+Jon 	3 	2 	1 	5 	1 	Nineveh 	NN
+Jon 	3 	2 	1 	6 	0 	,
+Jon 	3 	2 	1 	7 	1 	that 	IN
+Jon 	3 	2 	1 	8 	1 	great 	JJ
+Jon 	3 	2 	1 	9 	1 	city 	NN
+Jon 	3 	2 	1 	10 	0 	,
+Jon 	3 	2 	1 	11 	1 	and 	CC
+Jon 	3 	2 	1 	12 	1 	preach 	NN
+Jon 	3 	2 	1 	13 	1 	unto 	NN
+Jon 	3 	2 	1 	14 	1 	it 	PRP
+Jon 	3 	2 	1 	15 	1 	the 	DT
+Jon 	3 	2 	1 	16 	1 	preaching 	VBG
+Jon 	3 	2 	1 	17 	1 	that 	IN
+Jon 	3 	2 	1 	18 	1 	I 	PRP
+Jon 	3 	2 	1 	19 	1 	bid 	NN
+Jon 	3 	2 	1 	20 	1 	thee 	NN
+Jon 	3 	2 	1 	21 	0 	.
+Jon 	3 	3 	1 	1 	1 	So 	RB
+Jon 	3 	3 	1 	2 	1 	Jonah 	NN
+Jon 	3 	3 	1 	3 	1 	arose 	NN
+Jon 	3 	3 	1 	4 	0 	,
+Jon 	3 	3 	1 	5 	1 	and 	CC
+Jon 	3 	3 	1 	6 	1 	went 	VBD
+Jon 	3 	3 	1 	7 	1 	unto 	NN
+Jon 	3 	3 	1 	8 	1 	Nineveh 	NN
+Jon 	3 	3 	1 	9 	0 	,
+Jon 	3 	3 	1 	10 	1 	according 	VBG
+Jon 	3 	3 	1 	11 	1 	to 	TO
+Jon 	3 	3 	1 	12 	1 	the 	DT
+Jon 	3 	3 	1 	13 	1 	word 	NN
+Jon 	3 	3 	1 	14 	1 	of 	IN
+Jon 	3 	3 	1 	15 	1 	the 	DT
+Jon 	3 	3 	1 	16 	1 	LORD 	NN
+Jon 	3 	3 	1 	17 	0 	.
+Jon 	3 	3 	2 	1 	1 	Now 	RB
+Jon 	3 	3 	2 	2 	1 	Nineveh 	NN
+Jon 	3 	3 	2 	3 	1 	was 	VBD
+Jon 	3 	3 	2 	4 	1 	an 	DT
+Jon 	3 	3 	2 	5 	1 	exceeding 	VBG
+Jon 	3 	3 	2 	6 	1 	great 	JJ
+Jon 	3 	3 	2 	7 	1 	city 	NN
+Jon 	3 	3 	2 	8 	1 	of 	IN
+Jon 	3 	3 	2 	9 	1 	three 	CD
+Jon 	3 	3 	2 	10 	1 	days 	NNS
+Jon 	3 	3 	2 	11 	0 	'
+Jon 	3 	3 	2 	12 	1 	journey 	NN
+Jon 	3 	3 	2 	13 	0 	.
+Jon 	3 	4 	1 	1 	1 	And 	CC
+Jon 	3 	4 	1 	2 	1 	Jonah 	NN
+Jon 	3 	4 	1 	3 	1 	began 	VBD
+Jon 	3 	4 	1 	4 	1 	to 	TO
+Jon 	3 	4 	1 	5 	1 	enter 	NN
+Jon 	3 	4 	1 	6 	1 	into 	IN
+Jon 	3 	4 	1 	7 	1 	the 	DT
+Jon 	3 	4 	1 	8 	1 	city 	NN
+Jon 	3 	4 	1 	9 	1 	a 	DT
+Jon 	3 	4 	1 	10 	1 	day 	NN
+Jon 	3 	4 	1 	11 	0 	's
+Jon 	3 	4 	1 	12 	1 	journey 	NN
+Jon 	3 	4 	1 	13 	0 	,
+Jon 	3 	4 	1 	14 	1 	and 	CC
+Jon 	3 	4 	1 	15 	1 	he 	PRP
+Jon 	3 	4 	1 	16 	1 	cried 	VBN
+Jon 	3 	4 	1 	17 	0 	,
+Jon 	3 	4 	1 	18 	1 	and 	CC
+Jon 	3 	4 	1 	19 	1 	said 	VBD
+Jon 	3 	4 	1 	20 	0 	,
+Jon 	3 	4 	1 	21 	1 	Yet 	RB
+Jon 	3 	4 	1 	22 	1 	forty 	NN
+Jon 	3 	4 	1 	23 	1 	days 	NNS
+Jon 	3 	4 	1 	24 	0 	,
+Jon 	3 	4 	1 	25 	1 	and 	CC
+Jon 	3 	4 	1 	26 	1 	Nineveh 	NN
+Jon 	3 	4 	1 	27 	1 	shall 	MD
+Jon 	3 	4 	1 	28 	1 	be 	VB
+Jon 	3 	4 	1 	29 	1 	overthrown 	IN
+Jon 	3 	4 	1 	30 	0 	.
+Jon 	3 	5 	1 	1 	1 	So 	RB
+Jon 	3 	5 	1 	2 	1 	the 	DT
+Jon 	3 	5 	1 	3 	1 	people 	NNS
+Jon 	3 	5 	1 	4 	1 	of 	IN
+Jon 	3 	5 	1 	5 	1 	Nineveh 	NN
+Jon 	3 	5 	1 	6 	1 	believed 	VBN
+Jon 	3 	5 	1 	7 	1 	God 	NNP
+Jon 	3 	5 	1 	8 	0 	,
+Jon 	3 	5 	1 	9 	1 	and 	CC
+Jon 	3 	5 	1 	10 	1 	proclaimed 	VBN
+Jon 	3 	5 	1 	11 	1 	a 	DT
+Jon 	3 	5 	1 	12 	1 	fast 	NN
+Jon 	3 	5 	1 	13 	0 	,
+Jon 	3 	5 	1 	14 	1 	and 	CC
+Jon 	3 	5 	1 	15 	1 	put 	NN
+Jon 	3 	5 	1 	16 	1 	on 	IN
+Jon 	3 	5 	1 	17 	1 	sackcloth 	NN
+Jon 	3 	5 	1 	18 	0 	,
+Jon 	3 	5 	1 	19 	1 	from 	IN
+Jon 	3 	5 	1 	20 	1 	the 	DT
+Jon 	3 	5 	1 	21 	1 	greatest 	JJS
+Jon 	3 	5 	1 	22 	1 	of 	IN
+Jon 	3 	5 	1 	23 	1 	them 	PRP
+Jon 	3 	5 	1 	24 	1 	even 	RB
+Jon 	3 	5 	1 	25 	1 	to 	TO
+Jon 	3 	5 	1 	26 	1 	the 	DT
+Jon 	3 	5 	1 	27 	1 	least 	JJS
+Jon 	3 	5 	1 	28 	1 	of 	IN
+Jon 	3 	5 	1 	29 	1 	them 	PRP
+Jon 	3 	5 	1 	30 	0 	.
+Jon 	3 	6 	1 	1 	1 	For 	IN
+Jon 	3 	6 	1 	2 	1 	word 	NN
+Jon 	3 	6 	1 	3 	1 	came 	VBD
+Jon 	3 	6 	1 	4 	1 	unto 	NN
+Jon 	3 	6 	1 	5 	1 	the 	DT
+Jon 	3 	6 	1 	6 	1 	king 	NN
+Jon 	3 	6 	1 	7 	1 	of 	IN
+Jon 	3 	6 	1 	8 	1 	Nineveh 	NN
+Jon 	3 	6 	1 	9 	0 	,
+Jon 	3 	6 	1 	10 	1 	and 	CC
+Jon 	3 	6 	1 	11 	1 	he 	PRP
+Jon 	3 	6 	1 	12 	1 	arose 	NN
+Jon 	3 	6 	1 	13 	1 	from 	IN
+Jon 	3 	6 	1 	14 	1 	his 	PRP$
+Jon 	3 	6 	1 	15 	1 	throne 	NN
+Jon 	3 	6 	1 	16 	0 	,
+Jon 	3 	6 	1 	17 	1 	and 	CC
+Jon 	3 	6 	1 	18 	1 	he 	PRP
+Jon 	3 	6 	1 	19 	1 	laid 	NN
+Jon 	3 	6 	1 	20 	1 	his 	PRP$
+Jon 	3 	6 	1 	21 	1 	robe 	NN
+Jon 	3 	6 	1 	22 	1 	from 	IN
+Jon 	3 	6 	1 	23 	1 	him 	PRP
+Jon 	3 	6 	1 	24 	0 	,
+Jon 	3 	6 	1 	25 	1 	and 	CC
+Jon 	3 	6 	1 	26 	1 	covered 	VBN
+Jon 	3 	6 	1 	27 	1 	him 	PRP
+Jon 	3 	6 	1 	28 	1 	with 	IN
+Jon 	3 	6 	1 	29 	1 	sackcloth 	NN
+Jon 	3 	6 	1 	30 	0 	,
+Jon 	3 	6 	1 	31 	1 	and 	CC
+Jon 	3 	6 	1 	32 	1 	sat 	NN
+Jon 	3 	6 	1 	33 	1 	in 	IN
+Jon 	3 	6 	1 	34 	1 	ashes 	NNS
+Jon 	3 	6 	1 	35 	0 	.
+Jon 	3 	7 	1 	1 	1 	And 	CC
+Jon 	3 	7 	1 	2 	1 	he 	PRP
+Jon 	3 	7 	1 	3 	1 	caused 	VBN
+Jon 	3 	7 	1 	4 	1 	it 	PRP
+Jon 	3 	7 	1 	5 	1 	to 	TO
+Jon 	3 	7 	1 	6 	1 	be 	VB
+Jon 	3 	7 	1 	7 	1 	proclaimed 	VBN
+Jon 	3 	7 	1 	8 	1 	and 	CC
+Jon 	3 	7 	1 	9 	1 	published 	VBN
+Jon 	3 	7 	1 	10 	1 	through 	IN
+Jon 	3 	7 	1 	11 	1 	Nineveh 	NN
+Jon 	3 	7 	1 	12 	1 	by 	IN
+Jon 	3 	7 	1 	13 	1 	the 	DT
+Jon 	3 	7 	1 	14 	1 	decree 	NN
+Jon 	3 	7 	1 	15 	1 	of 	IN
+Jon 	3 	7 	1 	16 	1 	the 	DT
+Jon 	3 	7 	1 	17 	1 	king 	NN
+Jon 	3 	7 	1 	18 	1 	and 	CC
+Jon 	3 	7 	1 	19 	1 	his 	PRP$
+Jon 	3 	7 	1 	20 	1 	nobles 	NNS
+Jon 	3 	7 	1 	21 	0 	,
+Jon 	3 	7 	1 	22 	1 	saying 	VBG
+Jon 	3 	7 	1 	23 	0 	,
+Jon 	3 	7 	1 	24 	1 	Let 	VB
+Jon 	3 	7 	1 	25 	1 	neither 	DT
+Jon 	3 	7 	1 	26 	1 	man 	NN
+Jon 	3 	7 	1 	27 	1 	nor 	CC
+Jon 	3 	7 	1 	28 	1 	beast 	NN
+Jon 	3 	7 	1 	29 	0 	,
+Jon 	3 	7 	1 	30 	1 	herd 	NN
+Jon 	3 	7 	1 	31 	1 	nor 	CC
+Jon 	3 	7 	1 	32 	1 	flock 	NN
+Jon 	3 	7 	1 	33 	0 	,
+Jon 	3 	7 	1 	34 	1 	taste 	NN
+Jon 	3 	7 	1 	35 	1 	any 	DT
+Jon 	3 	7 	1 	36 	1 	thing 	NN
+Jon 	3 	7 	1 	37 	0 	:
+Jon 	3 	7 	1 	38 	1 	let 	VB
+Jon 	3 	7 	1 	39 	1 	them 	PRP
+Jon 	3 	7 	1 	40 	1 	not 	RB
+Jon 	3 	7 	1 	41 	1 	feed 	NN
+Jon 	3 	7 	1 	42 	0 	,
+Jon 	3 	7 	1 	43 	1 	nor 	CC
+Jon 	3 	7 	1 	44 	1 	drink 	NN
+Jon 	3 	7 	1 	45 	1 	water 	NN
+Jon 	3 	7 	1 	46 	0 	:
+Jon 	3 	8 	1 	1 	1 	But 	CC
+Jon 	3 	8 	1 	2 	1 	let 	VB
+Jon 	3 	8 	1 	3 	1 	man 	NN
+Jon 	3 	8 	1 	4 	1 	and 	CC
+Jon 	3 	8 	1 	5 	1 	beast 	NN
+Jon 	3 	8 	1 	6 	1 	be 	VB
+Jon 	3 	8 	1 	7 	1 	covered 	VBN
+Jon 	3 	8 	1 	8 	1 	with 	IN
+Jon 	3 	8 	1 	9 	1 	sackcloth 	NN
+Jon 	3 	8 	1 	10 	0 	,
+Jon 	3 	8 	1 	11 	1 	and 	CC
+Jon 	3 	8 	1 	12 	1 	cry 	NN
+Jon 	3 	8 	1 	13 	1 	mightily 	RB
+Jon 	3 	8 	1 	14 	1 	unto 	NN
+Jon 	3 	8 	1 	15 	1 	God 	NNP
+Jon 	3 	8 	1 	16 	0 	:
+Jon 	3 	8 	1 	17 	1 	yea 	NN
+Jon 	3 	8 	1 	18 	0 	,
+Jon 	3 	8 	1 	19 	1 	let 	VB
+Jon 	3 	8 	1 	20 	1 	them 	PRP
+Jon 	3 	8 	1 	21 	1 	turn 	NN
+Jon 	3 	8 	1 	22 	1 	every 	DT
+Jon 	3 	8 	1 	23 	1 	one 	CD
+Jon 	3 	8 	1 	24 	1 	from 	IN
+Jon 	3 	8 	1 	25 	1 	his 	PRP$
+Jon 	3 	8 	1 	26 	1 	evil 	NN
+Jon 	3 	8 	1 	27 	1 	way 	NN
+Jon 	3 	8 	1 	28 	0 	,
+Jon 	3 	8 	1 	29 	1 	and 	CC
+Jon 	3 	8 	1 	30 	1 	from 	IN
+Jon 	3 	8 	1 	31 	1 	the 	DT
+Jon 	3 	8 	1 	32 	1 	violence 	NN
+Jon 	3 	8 	1 	33 	1 	that 	IN
+Jon 	3 	8 	1 	34 	1 	is 	VBZ
+Jon 	3 	8 	1 	35 	1 	in 	IN
+Jon 	3 	8 	1 	36 	1 	their 	PRP$
+Jon 	3 	8 	1 	37 	1 	hands 	NNS
+Jon 	3 	8 	1 	38 	0 	.
+Jon 	3 	9 	1 	1 	1 	Who 	WP
+Jon 	3 	9 	1 	2 	1 	can 	MD
+Jon 	3 	9 	1 	3 	1 	tell 	NN
+Jon 	3 	9 	1 	4 	1 	if 	IN
+Jon 	3 	9 	1 	5 	1 	God 	NNP
+Jon 	3 	9 	1 	6 	1 	will 	MD
+Jon 	3 	9 	1 	7 	1 	turn 	NN
+Jon 	3 	9 	1 	8 	1 	and 	CC
+Jon 	3 	9 	1 	9 	1 	repent 	NN
+Jon 	3 	9 	1 	10 	0 	,
+Jon 	3 	9 	1 	11 	1 	and 	CC
+Jon 	3 	9 	1 	12 	1 	turn 	NN
+Jon 	3 	9 	1 	13 	1 	away 	RB
+Jon 	3 	9 	1 	14 	1 	from 	IN
+Jon 	3 	9 	1 	15 	1 	his 	PRP$
+Jon 	3 	9 	1 	16 	1 	fierce 	NN
+Jon 	3 	9 	1 	17 	1 	anger 	NN
+Jon 	3 	9 	1 	18 	0 	,
+Jon 	3 	9 	1 	19 	1 	that 	IN
+Jon 	3 	9 	1 	20 	1 	we 	PRP
+Jon 	3 	9 	1 	21 	1 	perish 	NN
+Jon 	3 	9 	1 	22 	1 	not 	RB
+Jon 	3 	9 	1 	23 	0 	?
+Jon 	3 	10 	1 	1 	1 	And 	CC
+Jon 	3 	10 	1 	2 	1 	God 	NNP
+Jon 	3 	10 	1 	3 	1 	saw 	NN
+Jon 	3 	10 	1 	4 	1 	their 	PRP$
+Jon 	3 	10 	1 	5 	1 	works 	NNS
+Jon 	3 	10 	1 	6 	0 	,
+Jon 	3 	10 	1 	7 	1 	that 	IN
+Jon 	3 	10 	1 	8 	1 	they 	PRP
+Jon 	3 	10 	1 	9 	1 	turned 	VBD
+Jon 	3 	10 	1 	10 	1 	from 	IN
+Jon 	3 	10 	1 	11 	1 	their 	PRP$
+Jon 	3 	10 	1 	12 	1 	evil 	NN
+Jon 	3 	10 	1 	13 	1 	way 	NN
+Jon 	3 	10 	1 	14 	0 	;
+Jon 	3 	10 	1 	15 	1 	and 	CC
+Jon 	3 	10 	1 	16 	1 	God 	NNP
+Jon 	3 	10 	1 	17 	1 	repented 	VBN
+Jon 	3 	10 	1 	18 	1 	of 	IN
+Jon 	3 	10 	1 	19 	1 	the 	DT
+Jon 	3 	10 	1 	20 	1 	evil 	NN
+Jon 	3 	10 	1 	21 	0 	,
+Jon 	3 	10 	1 	22 	1 	that 	IN
+Jon 	3 	10 	1 	23 	1 	he 	PRP
+Jon 	3 	10 	1 	24 	1 	had 	VBD
+Jon 	3 	10 	1 	25 	1 	said 	VBD
+Jon 	3 	10 	1 	26 	1 	that 	IN
+Jon 	3 	10 	1 	27 	1 	he 	PRP
+Jon 	3 	10 	1 	28 	1 	would 	MD
+Jon 	3 	10 	1 	29 	1 	do 	VB
+Jon 	3 	10 	1 	30 	1 	unto 	NN
+Jon 	3 	10 	1 	31 	1 	them 	PRP
+Jon 	3 	10 	1 	32 	0 	;
+Jon 	3 	10 	1 	33 	1 	and 	CC
+Jon 	3 	10 	1 	34 	1 	he 	PRP
+Jon 	3 	10 	1 	35 	1 	did 	VBD
+Jon 	3 	10 	1 	36 	1 	it 	PRP
+Jon 	3 	10 	1 	37 	1 	not 	RB
+Jon 	3 	10 	1 	38 	0 	.
+Jon 	4 	1 	1 	1 	1 	But 	CC
+Jon 	4 	1 	1 	2 	1 	it 	PRP
+Jon 	4 	1 	1 	3 	1 	displeased 	JJ
+Jon 	4 	1 	1 	4 	1 	Jonah 	NN
+Jon 	4 	1 	1 	5 	1 	exceedingly 	RB
+Jon 	4 	1 	1 	6 	0 	,
+Jon 	4 	1 	1 	7 	1 	and 	CC
+Jon 	4 	1 	1 	8 	1 	he 	PRP
+Jon 	4 	1 	1 	9 	1 	was 	VBD
+Jon 	4 	1 	1 	10 	1 	very 	RB
+Jon 	4 	1 	1 	11 	1 	angry 	JJ
+Jon 	4 	1 	1 	12 	0 	.
+Jon 	4 	2 	1 	1 	1 	And 	CC
+Jon 	4 	2 	1 	2 	1 	he 	PRP
+Jon 	4 	2 	1 	3 	1 	prayed 	NN
+Jon 	4 	2 	1 	4 	1 	unto 	NN
+Jon 	4 	2 	1 	5 	1 	the 	DT
+Jon 	4 	2 	1 	6 	1 	LORD 	NN
+Jon 	4 	2 	1 	7 	0 	,
+Jon 	4 	2 	1 	8 	1 	and 	CC
+Jon 	4 	2 	1 	9 	1 	said 	VBD
+Jon 	4 	2 	1 	10 	0 	,
+Jon 	4 	2 	1 	11 	1 	I 	PRP
+Jon 	4 	2 	1 	12 	1 	pray 	NN
+Jon 	4 	2 	1 	13 	1 	thee 	NN
+Jon 	4 	2 	1 	14 	0 	,
+Jon 	4 	2 	1 	15 	1 	O 	NN
+Jon 	4 	2 	1 	16 	1 	LORD 	NN
+Jon 	4 	2 	1 	17 	0 	,
+Jon 	4 	2 	1 	18 	1 	was 	VBD
+Jon 	4 	2 	1 	19 	1 	not 	RB
+Jon 	4 	2 	1 	20 	1 	this 	DT
+Jon 	4 	2 	1 	21 	1 	my 	PRP$
+Jon 	4 	2 	1 	22 	1 	saying 	VBG
+Jon 	4 	2 	1 	23 	0 	,
+Jon 	4 	2 	1 	24 	1 	when 	WRB
+Jon 	4 	2 	1 	25 	1 	I 	PRP
+Jon 	4 	2 	1 	26 	1 	was 	VBD
+Jon 	4 	2 	1 	27 	1 	yet 	RB
+Jon 	4 	2 	1 	28 	1 	in 	IN
+Jon 	4 	2 	1 	29 	1 	my 	PRP$
+Jon 	4 	2 	1 	30 	1 	country 	NN
+Jon 	4 	2 	1 	31 	0 	?
+Jon 	4 	2 	2 	1 	1 	Therefore 	RB
+Jon 	4 	2 	2 	2 	1 	I 	PRP
+Jon 	4 	2 	2 	3 	1 	fled 	VBN
+Jon 	4 	2 	2 	4 	1 	before 	IN
+Jon 	4 	2 	2 	5 	1 	unto 	NN
+Jon 	4 	2 	2 	6 	1 	Tarshish 	VB
+Jon 	4 	2 	2 	7 	0 	:
+Jon 	4 	2 	2 	8 	1 	for 	IN
+Jon 	4 	2 	2 	9 	1 	I 	PRP
+Jon 	4 	2 	2 	10 	1 	knew 	NNS
+Jon 	4 	2 	2 	11 	1 	that 	IN
+Jon 	4 	2 	2 	12 	1 	thou 	NN
+Jon 	4 	2 	2 	13 	1 	art 	NN
+Jon 	4 	2 	2 	14 	1 	a 	DT
+Jon 	4 	2 	2 	15 	1 	gracious 	JJ
+Jon 	4 	2 	2 	16 	1 	God 	NNP
+Jon 	4 	2 	2 	17 	0 	,
+Jon 	4 	2 	2 	18 	1 	and 	CC
+Jon 	4 	2 	2 	19 	1 	merciful 	NN
+Jon 	4 	2 	2 	20 	0 	,
+Jon 	4 	2 	2 	21 	1 	slow 	VB
+Jon 	4 	2 	2 	22 	1 	to 	TO
+Jon 	4 	2 	2 	23 	1 	anger 	NN
+Jon 	4 	2 	2 	24 	0 	,
+Jon 	4 	2 	2 	25 	1 	and 	CC
+Jon 	4 	2 	2 	26 	1 	of 	IN
+Jon 	4 	2 	2 	27 	1 	great 	JJ
+Jon 	4 	2 	2 	28 	1 	kindness 	NN
+Jon 	4 	2 	2 	29 	0 	,
+Jon 	4 	2 	2 	30 	1 	and 	CC
+Jon 	4 	2 	2 	31 	1 	repentest 	NN
+Jon 	4 	2 	2 	32 	1 	thee 	NN
+Jon 	4 	2 	2 	33 	1 	of 	IN
+Jon 	4 	2 	2 	34 	1 	the 	DT
+Jon 	4 	2 	2 	35 	1 	evil 	NN
+Jon 	4 	2 	2 	36 	0 	.
+Jon 	4 	3 	1 	1 	1 	Therefore 	RB
+Jon 	4 	3 	1 	2 	1 	now 	RB
+Jon 	4 	3 	1 	3 	0 	,
+Jon 	4 	3 	1 	4 	1 	O 	NN
+Jon 	4 	3 	1 	5 	1 	LORD 	NN
+Jon 	4 	3 	1 	6 	0 	,
+Jon 	4 	3 	1 	7 	1 	take 	VB
+Jon 	4 	3 	1 	8 	0 	,
+Jon 	4 	3 	1 	9 	1 	I 	PRP
+Jon 	4 	3 	1 	10 	1 	beseech 	NN
+Jon 	4 	3 	1 	11 	1 	thee 	NN
+Jon 	4 	3 	1 	12 	0 	,
+Jon 	4 	3 	1 	13 	1 	my 	PRP$
+Jon 	4 	3 	1 	14 	1 	life 	NN
+Jon 	4 	3 	1 	15 	1 	from 	IN
+Jon 	4 	3 	1 	16 	1 	me 	PRP
+Jon 	4 	3 	1 	17 	0 	;
+Jon 	4 	3 	1 	18 	1 	for 	IN
+Jon 	4 	3 	1 	19 	1 	it 	PRP
+Jon 	4 	3 	1 	20 	1 	is 	VBZ
+Jon 	4 	3 	1 	21 	1 	better 	RBR
+Jon 	4 	3 	1 	22 	1 	for 	IN
+Jon 	4 	3 	1 	23 	1 	me 	PRP
+Jon 	4 	3 	1 	24 	1 	to 	TO
+Jon 	4 	3 	1 	25 	1 	die 	NN
+Jon 	4 	3 	1 	26 	1 	than 	IN
+Jon 	4 	3 	1 	27 	1 	to 	TO
+Jon 	4 	3 	1 	28 	1 	live 	JJ
+Jon 	4 	3 	1 	29 	0 	.
+Jon 	4 	4 	1 	1 	1 	Then 	RB
+Jon 	4 	4 	1 	2 	1 	said 	VBD
+Jon 	4 	4 	1 	3 	1 	the 	DT
+Jon 	4 	4 	1 	4 	1 	LORD 	NN
+Jon 	4 	4 	1 	5 	0 	,
+Jon 	4 	4 	1 	6 	1 	Doest 	JJS
+Jon 	4 	4 	1 	7 	1 	thou 	NN
+Jon 	4 	4 	1 	8 	1 	well 	RB
+Jon 	4 	4 	1 	9 	1 	to 	TO
+Jon 	4 	4 	1 	10 	1 	be 	VB
+Jon 	4 	4 	1 	11 	1 	angry 	JJ
+Jon 	4 	4 	1 	12 	0 	?
+Jon 	4 	5 	1 	1 	1 	So 	RB
+Jon 	4 	5 	1 	2 	1 	Jonah 	NN
+Jon 	4 	5 	1 	3 	1 	went 	VBD
+Jon 	4 	5 	1 	4 	1 	out 	IN
+Jon 	4 	5 	1 	5 	1 	of 	IN
+Jon 	4 	5 	1 	6 	1 	the 	DT
+Jon 	4 	5 	1 	7 	1 	city 	NN
+Jon 	4 	5 	1 	8 	0 	,
+Jon 	4 	5 	1 	9 	1 	and 	CC
+Jon 	4 	5 	1 	10 	1 	sat 	NN
+Jon 	4 	5 	1 	11 	1 	on 	IN
+Jon 	4 	5 	1 	12 	1 	the 	DT
+Jon 	4 	5 	1 	13 	1 	east 	NN
+Jon 	4 	5 	1 	14 	1 	side 	NN
+Jon 	4 	5 	1 	15 	1 	of 	IN
+Jon 	4 	5 	1 	16 	1 	the 	DT
+Jon 	4 	5 	1 	17 	1 	city 	NN
+Jon 	4 	5 	1 	18 	0 	,
+Jon 	4 	5 	1 	19 	1 	and 	CC
+Jon 	4 	5 	1 	20 	1 	there 	RB
+Jon 	4 	5 	1 	21 	1 	made 	VBN
+Jon 	4 	5 	1 	22 	1 	him 	PRP
+Jon 	4 	5 	1 	23 	1 	a 	DT
+Jon 	4 	5 	1 	24 	1 	booth 	NN
+Jon 	4 	5 	1 	25 	0 	,
+Jon 	4 	5 	1 	26 	1 	and 	CC
+Jon 	4 	5 	1 	27 	1 	sat 	NN
+Jon 	4 	5 	1 	28 	1 	under 	IN
+Jon 	4 	5 	1 	29 	1 	it 	PRP
+Jon 	4 	5 	1 	30 	1 	in 	IN
+Jon 	4 	5 	1 	31 	1 	the 	DT
+Jon 	4 	5 	1 	32 	1 	shadow 	NN
+Jon 	4 	5 	1 	33 	0 	,
+Jon 	4 	5 	1 	34 	1 	till 	NN
+Jon 	4 	5 	1 	35 	1 	he 	PRP
+Jon 	4 	5 	1 	36 	1 	might 	MD
+Jon 	4 	5 	1 	37 	1 	see 	VB
+Jon 	4 	5 	1 	38 	1 	what 	WP
+Jon 	4 	5 	1 	39 	1 	would 	MD
+Jon 	4 	5 	1 	40 	1 	become 	NN
+Jon 	4 	5 	1 	41 	1 	of 	IN
+Jon 	4 	5 	1 	42 	1 	the 	DT
+Jon 	4 	5 	1 	43 	1 	city 	NN
+Jon 	4 	5 	1 	44 	0 	.
+Jon 	4 	6 	1 	1 	1 	And 	CC
+Jon 	4 	6 	1 	2 	1 	the 	DT
+Jon 	4 	6 	1 	3 	1 	LORD 	NN
+Jon 	4 	6 	1 	4 	1 	God 	NNP
+Jon 	4 	6 	1 	5 	1 	prepared 	JJ
+Jon 	4 	6 	1 	6 	1 	a 	DT
+Jon 	4 	6 	1 	7 	1 	gourd 	NN
+Jon 	4 	6 	1 	8 	0 	,
+Jon 	4 	6 	1 	9 	1 	and 	CC
+Jon 	4 	6 	1 	10 	1 	made 	VBN
+Jon 	4 	6 	1 	11 	1 	it 	PRP
+Jon 	4 	6 	1 	12 	1 	to 	TO
+Jon 	4 	6 	1 	13 	1 	come 	VB
+Jon 	4 	6 	1 	14 	1 	up 	RB
+Jon 	4 	6 	1 	15 	1 	over 	IN
+Jon 	4 	6 	1 	16 	1 	Jonah 	NN
+Jon 	4 	6 	1 	17 	0 	,
+Jon 	4 	6 	1 	18 	1 	that 	IN
+Jon 	4 	6 	1 	19 	1 	it 	PRP
+Jon 	4 	6 	1 	20 	1 	might 	MD
+Jon 	4 	6 	1 	21 	1 	be 	VB
+Jon 	4 	6 	1 	22 	1 	a 	DT
+Jon 	4 	6 	1 	23 	1 	shadow 	NN
+Jon 	4 	6 	1 	24 	1 	over 	IN
+Jon 	4 	6 	1 	25 	1 	his 	PRP$
+Jon 	4 	6 	1 	26 	1 	head 	NN
+Jon 	4 	6 	1 	27 	0 	,
+Jon 	4 	6 	1 	28 	1 	to 	TO
+Jon 	4 	6 	1 	29 	1 	deliver 	NN
+Jon 	4 	6 	1 	30 	1 	him 	PRP
+Jon 	4 	6 	1 	31 	1 	from 	IN
+Jon 	4 	6 	1 	32 	1 	his 	PRP$
+Jon 	4 	6 	1 	33 	1 	grief 	NN
+Jon 	4 	6 	1 	34 	0 	.
+Jon 	4 	6 	2 	1 	1 	So 	RB
+Jon 	4 	6 	2 	2 	1 	Jonah 	NN
+Jon 	4 	6 	2 	3 	1 	was 	VBD
+Jon 	4 	6 	2 	4 	1 	exceeding 	VBG
+Jon 	4 	6 	2 	5 	1 	glad 	NN
+Jon 	4 	6 	2 	6 	1 	of 	IN
+Jon 	4 	6 	2 	7 	1 	the 	DT
+Jon 	4 	6 	2 	8 	1 	gourd 	NN
+Jon 	4 	6 	2 	9 	0 	.
+Jon 	4 	7 	1 	1 	1 	But 	CC
+Jon 	4 	7 	1 	2 	1 	God 	NNP
+Jon 	4 	7 	1 	3 	1 	prepared 	JJ
+Jon 	4 	7 	1 	4 	1 	a 	DT
+Jon 	4 	7 	1 	5 	1 	worm 	NN
+Jon 	4 	7 	1 	6 	1 	when 	WRB
+Jon 	4 	7 	1 	7 	1 	the 	DT
+Jon 	4 	7 	1 	8 	1 	morning 	NN
+Jon 	4 	7 	1 	9 	1 	rose 	VBD
+Jon 	4 	7 	1 	10 	1 	the 	DT
+Jon 	4 	7 	1 	11 	1 	next 	JJ
+Jon 	4 	7 	1 	12 	1 	day 	NN
+Jon 	4 	7 	1 	13 	0 	,
+Jon 	4 	7 	1 	14 	1 	and 	CC
+Jon 	4 	7 	1 	15 	1 	it 	PRP
+Jon 	4 	7 	1 	16 	1 	smote 	NN
+Jon 	4 	7 	1 	17 	1 	the 	DT
+Jon 	4 	7 	1 	18 	1 	gourd 	NN
+Jon 	4 	7 	1 	19 	1 	that 	IN
+Jon 	4 	7 	1 	20 	1 	it 	PRP
+Jon 	4 	7 	1 	21 	1 	withered 	VBD
+Jon 	4 	7 	1 	22 	0 	.
+Jon 	4 	8 	1 	1 	1 	And 	CC
+Jon 	4 	8 	1 	2 	1 	it 	PRP
+Jon 	4 	8 	1 	3 	1 	came 	VBD
+Jon 	4 	8 	1 	4 	1 	to 	TO
+Jon 	4 	8 	1 	5 	1 	pass 	NN
+Jon 	4 	8 	1 	6 	0 	,
+Jon 	4 	8 	1 	7 	1 	when 	WRB
+Jon 	4 	8 	1 	8 	1 	the 	DT
+Jon 	4 	8 	1 	9 	1 	sun 	NN
+Jon 	4 	8 	1 	10 	1 	did 	VBD
+Jon 	4 	8 	1 	11 	1 	arise 	NN
+Jon 	4 	8 	1 	12 	0 	,
+Jon 	4 	8 	1 	13 	1 	that 	IN
+Jon 	4 	8 	1 	14 	1 	God 	NNP
+Jon 	4 	8 	1 	15 	1 	prepared 	JJ
+Jon 	4 	8 	1 	16 	1 	a 	DT
+Jon 	4 	8 	1 	17 	1 	vehement 	NN
+Jon 	4 	8 	1 	18 	1 	east 	NN
+Jon 	4 	8 	1 	19 	1 	wind 	NN
+Jon 	4 	8 	1 	20 	0 	;
+Jon 	4 	8 	1 	21 	1 	and 	CC
+Jon 	4 	8 	1 	22 	1 	the 	DT
+Jon 	4 	8 	1 	23 	1 	sun 	NN
+Jon 	4 	8 	1 	24 	1 	beat 	NN
+Jon 	4 	8 	1 	25 	1 	upon 	IN
+Jon 	4 	8 	1 	26 	1 	the 	DT
+Jon 	4 	8 	1 	27 	1 	head 	NN
+Jon 	4 	8 	1 	28 	1 	of 	IN
+Jon 	4 	8 	1 	29 	1 	Jonah 	NN
+Jon 	4 	8 	1 	30 	0 	,
+Jon 	4 	8 	1 	31 	1 	that 	IN
+Jon 	4 	8 	1 	32 	1 	he 	PRP
+Jon 	4 	8 	1 	33 	1 	fainted 	VBN
+Jon 	4 	8 	1 	34 	0 	,
+Jon 	4 	8 	1 	35 	1 	and 	CC
+Jon 	4 	8 	1 	36 	1 	wished 	VBN
+Jon 	4 	8 	1 	37 	1 	in 	IN
+Jon 	4 	8 	1 	38 	1 	himself 	PRP
+Jon 	4 	8 	1 	39 	1 	to 	TO
+Jon 	4 	8 	1 	40 	1 	die 	NN
+Jon 	4 	8 	1 	41 	0 	,
+Jon 	4 	8 	1 	42 	1 	and 	CC
+Jon 	4 	8 	1 	43 	1 	said 	VBD
+Jon 	4 	8 	1 	44 	0 	,
+Jon 	4 	8 	1 	45 	1 	It 	PRP
+Jon 	4 	8 	1 	46 	1 	is 	VBZ
+Jon 	4 	8 	1 	47 	1 	better 	RBR
+Jon 	4 	8 	1 	48 	1 	for 	IN
+Jon 	4 	8 	1 	49 	1 	me 	PRP
+Jon 	4 	8 	1 	50 	1 	to 	TO
+Jon 	4 	8 	1 	51 	1 	die 	NN
+Jon 	4 	8 	1 	52 	1 	than 	IN
+Jon 	4 	8 	1 	53 	1 	to 	TO
+Jon 	4 	8 	1 	54 	1 	live 	JJ
+Jon 	4 	8 	1 	55 	0 	.
+Jon 	4 	9 	1 	1 	1 	And 	CC
+Jon 	4 	9 	1 	2 	1 	God 	NNP
+Jon 	4 	9 	1 	3 	1 	said 	VBD
+Jon 	4 	9 	1 	4 	1 	to 	TO
+Jon 	4 	9 	1 	5 	1 	Jonah 	NN
+Jon 	4 	9 	1 	6 	0 	,
+Jon 	4 	9 	1 	7 	1 	Doest 	JJS
+Jon 	4 	9 	1 	8 	1 	thou 	NN
+Jon 	4 	9 	1 	9 	1 	well 	RB
+Jon 	4 	9 	1 	10 	1 	to 	TO
+Jon 	4 	9 	1 	11 	1 	be 	VB
+Jon 	4 	9 	1 	12 	1 	angry 	JJ
+Jon 	4 	9 	1 	13 	1 	for 	IN
+Jon 	4 	9 	1 	14 	1 	the 	DT
+Jon 	4 	9 	1 	15 	1 	gourd 	NN
+Jon 	4 	9 	1 	16 	0 	?
+Jon 	4 	9 	2 	1 	1 	And 	CC
+Jon 	4 	9 	2 	2 	1 	he 	PRP
+Jon 	4 	9 	2 	3 	1 	said 	VBD
+Jon 	4 	9 	2 	4 	0 	,
+Jon 	4 	9 	2 	5 	1 	I 	PRP
+Jon 	4 	9 	2 	6 	1 	do 	VB
+Jon 	4 	9 	2 	7 	1 	well 	RB
+Jon 	4 	9 	2 	8 	1 	to 	TO
+Jon 	4 	9 	2 	9 	1 	be 	VB
+Jon 	4 	9 	2 	10 	1 	angry 	JJ
+Jon 	4 	9 	2 	11 	0 	,
+Jon 	4 	9 	2 	12 	1 	even 	RB
+Jon 	4 	9 	2 	13 	1 	unto 	NN
+Jon 	4 	9 	2 	14 	1 	death 	NN
+Jon 	4 	9 	2 	15 	0 	.
+Jon 	4 	10 	1 	1 	1 	Then 	RB
+Jon 	4 	10 	1 	2 	1 	said 	VBD
+Jon 	4 	10 	1 	3 	1 	the 	DT
+Jon 	4 	10 	1 	4 	1 	LORD 	NN
+Jon 	4 	10 	1 	5 	0 	,
+Jon 	4 	10 	1 	6 	1 	Thou 	NN
+Jon 	4 	10 	1 	7 	1 	hast 	NN
+Jon 	4 	10 	1 	8 	1 	had 	VBD
+Jon 	4 	10 	1 	9 	1 	pity 	NN
+Jon 	4 	10 	1 	10 	1 	on 	IN
+Jon 	4 	10 	1 	11 	1 	the 	DT
+Jon 	4 	10 	1 	12 	1 	gourd 	NN
+Jon 	4 	10 	1 	13 	0 	,
+Jon 	4 	10 	1 	14 	1 	for 	IN
+Jon 	4 	10 	1 	15 	1 	the 	DT
+Jon 	4 	10 	1 	16 	1 	which 	WDT
+Jon 	4 	10 	1 	17 	1 	thou 	NN
+Jon 	4 	10 	1 	18 	1 	hast 	NN
+Jon 	4 	10 	1 	19 	1 	not 	RB
+Jon 	4 	10 	1 	20 	1 	laboured 	VBN
+Jon 	4 	10 	1 	21 	0 	,
+Jon 	4 	10 	1 	22 	1 	neither 	DT
+Jon 	4 	10 	1 	23 	1 	madest 	JJS
+Jon 	4 	10 	1 	24 	1 	it 	PRP
+Jon 	4 	10 	1 	25 	1 	grow 	NN
+Jon 	4 	10 	1 	26 	0 	;
+Jon 	4 	10 	1 	27 	1 	which 	WDT
+Jon 	4 	10 	1 	28 	1 	came 	VBD
+Jon 	4 	10 	1 	29 	1 	up 	RB
+Jon 	4 	10 	1 	30 	1 	in 	IN
+Jon 	4 	10 	1 	31 	1 	a 	DT
+Jon 	4 	10 	1 	32 	1 	night 	NN
+Jon 	4 	10 	1 	33 	0 	,
+Jon 	4 	10 	1 	34 	1 	and 	CC
+Jon 	4 	10 	1 	35 	1 	perished 	VBN
+Jon 	4 	10 	1 	36 	1 	in 	IN
+Jon 	4 	10 	1 	37 	1 	a 	DT
+Jon 	4 	10 	1 	38 	1 	night 	NN
+Jon 	4 	10 	1 	39 	0 	:
+Jon 	4 	11 	1 	1 	1 	And 	CC
+Jon 	4 	11 	1 	2 	1 	should 	MD
+Jon 	4 	11 	1 	3 	1 	not 	RB
+Jon 	4 	11 	1 	4 	1 	I 	PRP
+Jon 	4 	11 	1 	5 	1 	spare 	NN
+Jon 	4 	11 	1 	6 	1 	Nineveh 	NN
+Jon 	4 	11 	1 	7 	0 	,
+Jon 	4 	11 	1 	8 	1 	that 	IN
+Jon 	4 	11 	1 	9 	1 	great 	JJ
+Jon 	4 	11 	1 	10 	1 	city 	NN
+Jon 	4 	11 	1 	11 	0 	,
+Jon 	4 	11 	1 	12 	1 	wherein 	NN
+Jon 	4 	11 	1 	13 	1 	are 	VBP
+Jon 	4 	11 	1 	14 	1 	more 	RBR
+Jon 	4 	11 	1 	15 	1 	then 	RB
+Jon 	4 	11 	1 	16 	1 	sixscore 	NN
+Jon 	4 	11 	1 	17 	1 	thousand 	NN
+Jon 	4 	11 	1 	18 	1 	persons 	NNS
+Jon 	4 	11 	1 	19 	1 	that 	IN
+Jon 	4 	11 	1 	20 	1 	can 	MD
+Jon 	4 	11 	1 	21 	1 	not 	RB
+Jon 	4 	11 	1 	22 	1 	discern 	NN
+Jon 	4 	11 	1 	23 	1 	between 	IN
+Jon 	4 	11 	1 	24 	1 	their 	PRP$
+Jon 	4 	11 	1 	25 	1 	right 	NN
+Jon 	4 	11 	1 	26 	1 	hand 	NN
+Jon 	4 	11 	1 	27 	1 	and 	CC
+Jon 	4 	11 	1 	28 	1 	their 	PRP$
+Jon 	4 	11 	1 	29 	1 	left 	NN
+Jon 	4 	11 	1 	30 	1 	hand 	NN
+Jon 	4 	11 	1 	31 	0 	;
+Jon 	4 	11 	1 	32 	1 	and 	CC
+Jon 	4 	11 	1 	33 	1 	also 	RB
+Jon 	4 	11 	1 	34 	1 	much 	JJ
+Jon 	4 	11 	1 	35 	1 	cattle 	NNS
+Jon 	4 	11 	1 	36 	0 	?
