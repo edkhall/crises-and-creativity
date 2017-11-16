@@ -154,7 +154,7 @@ for i, j in enumerate(W2N):
     else: plt.plot(D[0], np.log10(D[1]), color = clist[i], lw=0.5, alpha=0.5, label=Names[i])
 
 plt.xlabel('Occurrence of a word', fontsize=8)
-plt.ylabel('Density'+r'$log_{10}$', fontsize=8)
+plt.ylabel('Density, '+r'$log_{10}$', fontsize=8)
 plt.tick_params(axis='both', labelsize=5)
 
 plt.legend(bbox_to_anchor=(-0.02, 1.05, 2.38, 0.7), loc=10, ncol=5, mode="expand", prop={'size':4})
