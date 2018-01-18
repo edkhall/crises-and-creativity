@@ -6,9 +6,11 @@
 Python code associated with a Global Challenge Research Team (GCRT) project.The central task of the team is to create and implement algorithms that translates processes of species loss and species invasion to works of literature, music, and art. These processes are simulated to give an ecological context to erasure studies of art, music, and literature.
 
 ### Contributors
-[Dr. Ken Locey](http://kenlocey.weecology.org/): Postdoctoral Fellow in the Lennon Lab, Indiana University, Bloomington.
+[Dr. Ken Locey](http://kenlocey.weecology.org/): Biodiversity scientist and Postdoctoral Fellow at Indiana University, Bloomington.
 
-[Dr. Ed Hall](http://www.nrel.colostate.edu/hall-lab/): Assistant Professor, Natural Resource Ecology Laboratory - Colorado State University  
+[Dr. Ed Hall](http://www.nrel.colostate.edu/hall-lab/): Systems scientist and Assistant Professor in the Natural Resource Ecology Laboratory at Colorado State University.
+
+[Dan Beachy-Quick](https://english.colostate.edu/author/dbeach/): Poet, Essayist, and Associate Professor of English in the Department of English at Colorado State University.
 
 ### Purpose  
 
