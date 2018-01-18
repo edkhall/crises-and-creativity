@@ -3,7 +3,8 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Pencil_eraser.jpg" align="right" width="300" height="250"/>
 
-Python code associated with a Global Challenge Research Team (GCRT) project.The central task of the team is to create and implement algorithms that translates processes of species loss and species invasion to works of literature, music, and art. These processes are simulated to give an ecological context to erasure studies of art, music, and literature.
+Python code associated with a Global Challenge Research Team (GCRT) project.The central task of the code in this repository is to implement algorithms that translate processes of species loss and species invasion to works of literature, music, and art.
+These processes are simulated to give an ecological context to erasure studies of art, music, and literature.
 
 ### Contributors
 [Dr. Ken Locey](http://kenlocey.weecology.org/): Biodiversity scientist and Postdoctoral Fellow at Indiana University, Bloomington.
@@ -16,10 +17,10 @@ Python code associated with a Global Challenge Research Team (GCRT) project.The
 
 **Code in this repository will be built to simulate:**
 
-1. **Extinction:** To represent the impact of species loss, individual nouns in well‐known works of literature are removed according to an algorithm mimicking species extinction. As each noun is removed all other parts of speech referring to that noun (e.g. adjective, pronouns) disappear simultaneously. This process represents the collapse of ecological interactions that occur when species are lost from an ecosystem.2. **Invasion:** To represent the impact of species invasions, all adjectives expressing a similar modification (e.g. augmentative adjectives such as: larger, obese, robust, rotund) are replaced with a single adjective that represents augmentation (e.g. huge). Allowing the alterations to fill a “functional niche” while decreasing the diversity of prose.**Code in this repository will eventually be expanded to visual and musical works of art. Examples will be:**
+1. **Extinction:** To represent the impact of species loss, individual nouns in well‐known works of literature are removed according to an algorithm mimicking species extinction. As each noun is removed all other parts of speech referring to that noun (e.g. adjective, pronouns) disappear simultaneously. This process represents the collapse of ecological interactions that occur when species are lost from an ecosystem.2. **Invasion:** To represent the impact of species invasions, all adjectives expressing a similar modification (e.g. augmentative adjectives such as: larger, obese, robust, rotund) are replaced with a single adjective that represents augmentation (e.g. huge). Allowing the alterations to fill a “functional niche” while decreasing the diversity of prose.**Code in this repository will eventually be expanded to other dimensions of artistic and scientific intersection such as:**
 
-1. Melodies with introduced notes (invasion) and melodies with notes removed (extinction).
-2. Paintings with introduced pixels and colors (invasion) and paintings with pixels and colors that are removed (extinction).
+1. Simulating effects of additional ecological and evolutionary principles on works of visual art, music, and prose.
+2. Simulating effects of principles from visual art, music, and literature on theories of ecology and evolution.
 
 ### Directories and Files
 
