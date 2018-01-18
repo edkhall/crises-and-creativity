@@ -3,8 +3,8 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Pencil_eraser.jpg" align="right" width="300" height="250"/>
 
-Python code associated with a Global Challenge Research Team (GCRT) project.The central task of the code in this repository is to implement algorithms that translate processes of species loss and species invasion to works of literature, music, and art.
-These processes are simulated to give an ecological context to erasure studies of art, music, and literature.
+Python code associated with a Global Challenge Research Team (GCRT) project.The central task of the code in this repository is to implement algorithms that translate processes of species loss and species invasion to works of literature, music, and visual art.
+These processes are simulated to give an ecological context to studies of erasure and similar dynamics.
 
 ### Contributors
 [Dr. Ken Locey](http://kenlocey.weecology.org/): Biodiversity scientist and Postdoctoral Fellow at Indiana University, Bloomington.
