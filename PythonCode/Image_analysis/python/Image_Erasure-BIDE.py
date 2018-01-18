@@ -12,8 +12,9 @@ GenPath = mydir + "GitHub/crises-and-creativity/"
 
 # Read image
 file_names = ['Escher-Anima.jpg', 'OKeeffe_RedCanna.jpg',
-        'Vermeer_Girl_with_a_pearl_earring.jpg', 'Dr-Martin-Luther-King1.jpg',
-        'Dali_dream_caused_by_the_flight_of_a_bee.jpg']
+        'Dr-Martin-Luther-King1.jpg',
+        'Dali_dream_caused_by_the_flight_of_a_bee.jpg',
+        'Vermeer_Girl_with_a_pearl_earring.jpg']
 
 for name in file_names:
     image = Image.open(GenPath + 'Art/' + name)
@@ -26,14 +27,14 @@ for name in file_names:
     arr = np.array(image)
     shape = arr.shape
 
-    #print shape
-    #sys.exit()
+    h = shape[0]
+    w = shape[1]
+
+    print h*w, name
 
     fig = plt.figure()
     plt.axis('off')
 
-    h = shape[0]
-    w = shape[1]
     ct = 0
 
     # Function called for each successive animation frame:
@@ -43,10 +44,10 @@ for name in file_names:
         plt.cla()
         plt.axis('off')
 
-        print ct
+        print ct, name
         ct += 1
 
-        for i in range(100000):
+        for i in range(int((h*w)/100)):
 
             x2 = 0
             y2 = 0
@@ -86,7 +87,7 @@ for name in file_names:
         plt.imshow(image)
 
 
-    anim = animation.FuncAnimation(fig, nextFrame, frames=100, interval=100, blit=False)
+    anim = animation.FuncAnimation(fig, nextFrame, frames=200, interval=200, blit=False)
     #plt.show()
     anim.save(GenPath + 'Results/gifs/image-erasure_'+name+'.gif', writer='imagemagick', fps=10)
     plt.close()
