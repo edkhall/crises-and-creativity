@@ -16,7 +16,7 @@ mydir = expanduser("~/")
 GenPath = mydir + "GitHub/crises-and-creativity/"
 
 
-def color_text(fig, x,y,ls,lc,**kw):
+def color_text(fig, x, y, ls, lc, **kw):
     t = plt.gca().transData
     fig = plt.gcf()
 
